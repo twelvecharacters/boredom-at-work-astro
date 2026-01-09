@@ -8,13 +8,15 @@ interface Props {
   description?: string;
   image?: string;
   article?: boolean;
+  preloadHero?: boolean;
 }
 
 const {
   title,
   description = "Bored at work? Learn AI skills, earn certifications, and boost your career during work downtime.",
   image = "/images/og-default.jpg",
-  article = false
+  article = false,
+  preloadHero = false
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
@@ -28,6 +30,13 @@ const socialImageURL = new URL(image, Astro.site);
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="canonical" href={canonicalURL} />
+
+    {preloadHero && (
+      <>
+        <link rel="preload" as="image" href="/images/hero-background-mobile.webp" media="(max-width: 768px)" type="image/webp" />
+        <link rel="preload" as="image" href="/images/hero-background.webp" media="(min-width: 769px)" type="image/webp" />
+      </>
+    )}
 
     <!-- Primary Meta Tags -->
     <title>{title} | Boredom at Work</title>

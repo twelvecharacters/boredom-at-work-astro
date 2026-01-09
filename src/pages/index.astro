@@ -9,10 +9,24 @@ const latestPosts = posts
   .slice(0, 3);
 ---
 
-<BaseLayout title="Turn Boring Work Hours Into Career Growth">
+<BaseLayout title="Turn Boring Work Hours Into Career Growth" preloadHero={true}>
   <!-- Hero Section -->
-  <section class="bg-gradient-to-br from-primary to-primary-light text-white py-16 md:py-24">
-    <div class="max-w-4xl mx-auto px-4 text-center">
+  <section class="relative text-white py-16 md:py-24 overflow-hidden">
+    <!-- Background Image -->
+    <picture class="absolute inset-0 w-full h-full">
+      <source media="(max-width: 768px)" srcset="/images/hero-background-mobile.webp" type="image/webp" />
+      <source media="(min-width: 769px)" srcset="/images/hero-background.webp" type="image/webp" />
+      <img
+        src="/images/hero-background.jpg"
+        alt=""
+        class="w-full h-full object-cover"
+        loading="eager"
+        decoding="async"
+      />
+    </picture>
+    <!-- Overlay -->
+    <div class="absolute inset-0 bg-gradient-to-br from-primary/90 to-primary-light/90"></div>
+    <div class="relative max-w-4xl mx-auto px-4 text-center">
       <h1 class="text-3xl md:text-5xl font-bold mb-6 text-white leading-tight">
         Turn Boring Work Hours Into Career Growth
       </h1>
