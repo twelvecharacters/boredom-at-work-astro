@@ -1,6 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
+import RelatedPosts from '../components/RelatedPosts.astro';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -82,6 +83,9 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
     <div class="prose">
       <slot />
     </div>
+
+    <!-- Related Posts -->
+    <RelatedPosts currentSlug={post.id} currentTags={tags} />
 
     <!-- Article Footer -->
     <footer class="mt-12 pt-8 border-t border-gray-200">

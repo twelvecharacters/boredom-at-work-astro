@@ -1,0 +1,73 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+  currentSlug: string;
+  currentTags: string[];
+  limit?: number;
+}
+
+const { currentSlug, currentTags, limit = 3 } = Astro.props;
+
+// Get all posts except the current one
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+const otherPosts = allPosts.filter(post => post.id !== currentSlug);
+
+// Score posts by matching tags
+const scoredPosts = otherPosts.map(post => {
+  const matchingTags = post.data.tags.filter(tag => currentTags.includes(tag));
+  return {
+    post,
+    score: matchingTags.length
+  };
+});
+
+// Sort by score (most matching tags first), then by date
+const relatedPosts = scoredPosts
+  .filter(item => item.score > 0)
+  .sort((a, b) => {
+    if (b.score !== a.score) return b.score - a.score;
+    return b.post.data.publishDate.valueOf() - a.post.data.publishDate.valueOf();
+  })
+  .slice(0, limit)
+  .map(item => item.post);
+
+// If not enough related posts, fill with recent posts
+const recentPosts = otherPosts
+  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf())
+  .filter(post => !relatedPosts.includes(post))
+  .slice(0, limit - relatedPosts.length);
+
+const postsToShow = [...relatedPosts, ...recentPosts].slice(0, limit);
+---
+
+{postsToShow.length > 0 && (
+  <section class="mt-12 pt-8 border-t border-gray-200">
+    <h2 class="text-xl font-bold mb-6">Related Articles</h2>
+    <div class="grid md:grid-cols-3 gap-6">
+      {postsToShow.map(post => (
+        <article class="bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
+          {post.data.image && (
+            <img
+              src={post.data.image}
+              alt={post.data.title}
+              class="w-full h-32 object-cover"
+              loading="lazy"
+              decoding="async"
+            />
+          )}
+          <div class="p-4">
+            <h3 class="font-semibold mb-2 line-clamp-2">
+              <a href={`/${post.id}/`} class="hover:text-accent transition-colors">
+                {post.data.title}
+              </a>
+            </h3>
+            <p class="text-text-light text-sm line-clamp-2">
+              {post.data.description}
+            </p>
+          </div>
+        </article>
+      ))}
+    </div>
+  </section>
+)}
