@@ -25,6 +25,8 @@ const sortedPosts = posts.sort((a, b) => b.data.publishDate.valueOf() - a.data.p
                       src={post.data.image}
                       alt={post.data.title}
                       class="w-full h-48 md:h-full object-cover"
+                      loading="lazy"
+                      decoding="async"
                     />
                   </div>
                 )}

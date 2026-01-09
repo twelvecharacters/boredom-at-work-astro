@@ -57,6 +57,9 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
           src={image}
           alt={title}
           class="w-full rounded-xl shadow-lg"
+          loading="eager"
+          decoding="async"
+          fetchpriority="high"
         />
       )}
     </header>
