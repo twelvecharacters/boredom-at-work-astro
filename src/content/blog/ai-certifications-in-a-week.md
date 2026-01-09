@@ -4,6 +4,7 @@ description: "Get AI certified in just one week. Discover the best quick AI cert
 publishDate: 2026-01-02
 author: "bored chap"
 tags: ["AI Certification", "Career Development", "Quick Learning"]
+image: "/images/ai-certifications.jpg"
 draft: false
 ---
 

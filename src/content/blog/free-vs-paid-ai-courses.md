@@ -4,6 +4,7 @@ description: "Should you pay for AI courses or stick with free options? An hones
 publishDate: 2025-12-30
 author: "bored chap"
 tags: ["AI Courses", "Learning", "Budget"]
+image: "/images/free-vs-paid.jpg"
 draft: false
 ---
 

@@ -4,6 +4,7 @@ description: "Turn your work downtime into career growth. Discover 25 genuinely 
 publishDate: 2025-12-20
 author: "bored chap"
 tags: ["Productivity", "Career Growth", "Work Tips"]
+image: "/images/productive-work.jpg"
 draft: false
 ---
 

@@ -4,6 +4,7 @@ description: "Discover the top AI courses on Coursera ranked by practical value,
 publishDate: 2026-01-01
 author: "bored chap"
 tags: ["Coursera", "AI Courses", "Online Learning"]
+image: "/images/coursera-courses.jpg"
 draft: false
 ---
 
