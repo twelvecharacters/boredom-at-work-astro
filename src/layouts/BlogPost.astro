@@ -52,14 +52,18 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
         </div>
       )}
 
+      <!-- Intro text before image for better SEO -->
+      <p class="text-lg text-text-light leading-relaxed mb-6">
+        {description}
+      </p>
+
       {image && (
         <img
           src={image}
           alt={title}
           class="w-full rounded-xl shadow-lg"
-          loading="eager"
+          loading="lazy"
           decoding="async"
-          fetchpriority="high"
         />
       )}
     </header>
