@@ -1,4 +1,7 @@
+# robots.txt for boredom-at-work.com
+
 User-agent: *
 Allow: /
 
+# Sitemap
 Sitemap: https://boredom-at-work.com/sitemap-index.xml
