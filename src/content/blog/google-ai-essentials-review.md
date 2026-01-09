@@ -6,6 +6,19 @@ author: "bored chap"
 tags: ["Google AI", "Course Review", "AI Certification"]
 image: "/images/google-ai.jpg"
 draft: false
+faq:
+  - question: "Is Google AI Essentials really free?"
+    answer: "The content is free to audit. The certificate costs $49. You can learn everything without paying—you just won't get the official credential."
+  - question: "How long does Google AI Essentials take?"
+    answer: "Officially 10 hours. Most people can finish faster if they're focused. Comfortable pace is 2 weeks at 1 hour/day."
+  - question: "Is Google AI Essentials worth it for developers?"
+    answer: "Probably not. It's designed for non-technical users. Developers should look at more technical courses (fast.ai, Coursera ML specialization)."
+  - question: "Does the Google AI Essentials certificate expire?"
+    answer: "No. Once earned, it's yours permanently."
+  - question: "Can I put Google AI Essentials on my resume?"
+    answer: "Yes. Add it to your certifications/professional development section. It's a legitimate Google credential."
+  - question: "How hard is Google AI Essentials?"
+    answer: "Easy. It's designed for complete beginners with no technical background. If you can use basic software, you can complete this course."
 ---
 
 Google AI Essentials has quickly become the go-to AI course for beginners. Launched in 2024, it's already been taken by hundreds of thousands of people looking to build AI skills.

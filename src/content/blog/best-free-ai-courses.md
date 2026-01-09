@@ -6,6 +6,17 @@ author: "bored chap"
 image: "/images/best-ai-free-courses.jpg"
 tags: ["AI Courses", "Free Learning", "Career Development"]
 draft: false
+faq:
+  - question: "Are these courses really free?"
+    answer: "Yes. All courses listed are free to access and complete. Some charge for certificates ($49 typically), but you can often audit the full content for free."
+  - question: "Do free AI courses give certificates?"
+    answer: "Elements of AI and OpenAI Academy offer completely free certificates. Others (Google, IBM) offer free content with optional paid certificates."
+  - question: "How long does it take to learn AI basics?"
+    answer: "With focused effort, you can understand AI fundamentals in 10-20 hours. That's achievable in 2-3 weeks of casual study during work downtime."
+  - question: "Will my employer know I'm taking courses?"
+    answer: "Only if you tell them. These are personal development activities. Most employers would encourage it if they knew."
+  - question: "Which AI certificate is most valuable?"
+    answer: "Google AI Essentials currently has the strongest brand recognition. Microsoft matters in enterprise environments. But honestly, the knowledge matters more than the specific certificate."
 ---
 
 AI skills are the most in-demand professional skills of 2026. LinkedIn's workforce report puts AI literacy at the top of the list. Employers want it. Career advancement requires it. And the good news? You can learn it for free during work downtime.

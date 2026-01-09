@@ -6,6 +6,17 @@ author: "bored chap"
 image: "/images/chatgpt.jpg"
 tags: ["ChatGPT", "AI", "Tutorial", "Beginners"]
 draft: false
+faq:
+  - question: "Is ChatGPT free?"
+    answer: "Yes, the basic version is free. ChatGPT Plus costs $20/month and offers faster responses, priority access, and additional features."
+  - question: "Is ChatGPT safe to use?"
+    answer: "Generally yes, but be mindful of what you share. Don't input confidential or sensitive information. Review OpenAI's privacy policy for details."
+  - question: "Can ChatGPT replace my job?"
+    answer: "Unlikely. ChatGPT is a tool that makes you more productive, not a replacement for human judgment, creativity, and expertise. The people who learn to use it well will have an advantage."
+  - question: "How accurate is ChatGPT?"
+    answer: "It's quite good but not perfect. It can make mistakes, especially with recent events, statistics, and specialized topics. Always verify important information."
+  - question: "Can my employer see my ChatGPT history?"
+    answer: "If you're using a personal account on your own device, no. But be aware that company IT policies vary, and using work networks may have monitoring. When in doubt, ask IT or use your personal device."
 ---
 
 ChatGPT can save you hours every day. It can draft your emails, explain complex topics, brainstorm ideas, analyze data, and help you work through problems—all through simple conversation.

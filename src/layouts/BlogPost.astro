@@ -7,7 +7,7 @@ interface Props {
 }
 
 const { post } = Astro.props;
-const { title, description, publishDate, updatedDate, author, image, tags } = post.data;
+const { title, description, publishDate, updatedDate, author, image, tags, faq } = post.data;
 
 const formattedDate = publishDate.toLocaleDateString('en-US', {
   year: 'numeric',
@@ -105,4 +105,20 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
       "name": "Boredom at Work"
     }
   })} />
+
+  {/* FAQ Schema Markup */}
+  {faq && faq.length > 0 && (
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faq.map(item => ({
+        "@type": "Question",
+        "name": item.question,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": item.answer
+        }
+      }))
+    })} />
+  )}
 </BaseLayout>
