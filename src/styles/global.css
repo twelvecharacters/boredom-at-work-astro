@@ -70,20 +70,23 @@
     @apply list-decimal;
   }
 
-  .prose code {
-    @apply text-text;
-    font-family: inherit;
-  }
-
-  .prose pre {
-    @apply mb-4;
-    font-family: inherit;
-  }
-
+  .prose code,
+  .prose pre,
   .prose pre code {
-    @apply text-text;
+    all: unset;
+    display: block;
+    color: var(--color-text);
     font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
     white-space: pre-wrap;
+    word-wrap: break-word;
+    margin-bottom: 1rem;
+  }
+
+  .prose code {
+    display: inline;
+    margin-bottom: 0;
   }
 
   .prose blockquote {
