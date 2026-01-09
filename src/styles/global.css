@@ -71,19 +71,16 @@
   }
 
   .prose code {
-    @apply bg-background-alt px-1.5 py-0.5 rounded text-sm text-text;
+    @apply text-accent font-medium;
   }
 
   .prose pre {
-    @apply bg-background-alt text-text p-4 rounded-lg overflow-x-auto mb-4 border border-gray-200;
-    white-space: pre-wrap;
-    word-wrap: break-word;
+    @apply mb-4 pl-4 border-l-4 border-accent;
   }
 
   .prose pre code {
-    @apply bg-transparent p-0 text-text;
+    @apply text-text font-normal;
     white-space: pre-wrap;
-    word-wrap: break-word;
   }
 
   .prose blockquote {
