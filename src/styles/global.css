@@ -71,15 +71,18 @@
   }
 
   .prose code {
-    @apply text-accent font-medium;
+    @apply text-text;
+    font-family: inherit;
   }
 
   .prose pre {
-    @apply mb-4 pl-4 border-l-4 border-accent;
+    @apply mb-4;
+    font-family: inherit;
   }
 
   .prose pre code {
-    @apply text-text font-normal;
+    @apply text-text;
+    font-family: inherit;
     white-space: pre-wrap;
   }
 
