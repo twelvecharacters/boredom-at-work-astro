@@ -146,6 +146,8 @@ You're learning about Azure. That's infrastructure. That's clearly work.
 **Platform:** Microsoft Learn
 **Cost:** Free (exam is paid but optional)
 
+Also consider [Google AI Essentials](/google-ai-essentials-review/)—it's equally professional-looking and results in a Google certificate.
+
 ### Salesforce Trailhead AI
 
 You're learning about your CRM's AI features. Obviously work-related.
@@ -194,11 +196,11 @@ Use ChatGPT or similar tools to help analyze spreadsheets and data. Faster insig
 
 Stuck on a problem? Use AI to brainstorm solutions. This is creative work.
 
-**The key:** Using AI for work tasks IS learning AI. You're building skills while being productive. No one can complain about that.
+**The key:** Using AI for work tasks IS learning AI. You're building skills while being productive. No one can complain about that. New to ChatGPT? Start with our [ChatGPT tutorial for beginners](/chatgpt-tutorial-beginners/).
 
 ## Turn Learning Into Career Advancement
 
-Don't just learn in silence. Strategically share your progress:
+Don't just learn in silence. Strategically share your progress. For more on how AI skills translate to career growth, see our guide to [AI skills that will get you promoted](/ai-skills-for-promotion/).
 
 ### Update LinkedIn
 

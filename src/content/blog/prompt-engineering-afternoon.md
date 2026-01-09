@@ -42,7 +42,7 @@ The same AI, given different prompts, produces wildly different results:
 
 People who master prompting get 10x more value from AI tools. They work faster, produce better results, and solve problems that others can't.
 
-And unlike learning to code or getting a certification, prompt engineering can be learned in hours.
+And unlike learning to code or getting a certification, prompt engineering can be learned in hours. Check out our guide to [AI certifications you can earn in a week](/ai-certifications-in-a-week/) to formalize your skills.
 
 ## The 5 Core Principles
 
@@ -420,6 +420,8 @@ The templates in this guide will handle most professional use cases. Copy them, 
 4. Iterate based on what works
 
 By tonight, you'll be measurably better at getting value from AI. That's prompt engineering in one afternoon.
+
+Ready to go deeper? See our guide to [AI skills that will get you promoted](/ai-skills-for-promotion/) for how to turn these skills into career advancement.
 
 ---
 

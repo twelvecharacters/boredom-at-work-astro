@@ -46,7 +46,7 @@ All courses were evaluated against these factors.
 
 **The best starting point for most people.**
 
-Google AI Essentials has earned its spot at the top. It's the most practical, accessible, and valuable AI course for beginners.
+Google AI Essentials has earned its spot at the top. It's the most practical, accessible, and valuable AI course for beginners. Read our [full Google AI Essentials review](/google-ai-essentials-review/) for more details.
 
 ### What You'll Learn
 
@@ -178,7 +178,7 @@ IBM's course approaches AI from a business strategy perspective. Less about usin
 
 **For leveling up your AI skills.**
 
-Vanderbilt University's Prompt Engineering specialization goes deeper than any intro course. If you're already using AI and want to master it, this is your course.
+Vanderbilt University's Prompt Engineering specialization goes deeper than any intro course. If you're already using AI and want to master it, this is your course. For a quicker introduction, see our guide to [learning prompt engineering in one afternoon](/prompt-engineering-afternoon/).
 
 ### What You'll Learn
 
@@ -299,7 +299,7 @@ Coursera has excellent AI courses, but the best choice depends on your goals:
 
 The best course is the one you'll actually complete. Pick one that matches your current level and goals, and start this week.
 
-AI skills compound. The sooner you start, the further ahead you'll be.
+AI skills compound. The sooner you start, the further ahead you'll be. See our guide to [AI skills that will get you promoted](/ai-skills-for-promotion/) for how to turn learning into career advancement.
 
 ---
 

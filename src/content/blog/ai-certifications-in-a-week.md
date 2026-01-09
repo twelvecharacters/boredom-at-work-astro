@@ -182,7 +182,7 @@ Job seekers who want visible LinkedIn credentials, and anyone whose company prov
 
 **Time: ~5 hours | Certificate: Free**
 
-DeepLearning.AI's prompt engineering course is short, practical, and taught by the team behind some of the most popular AI courses in the world.
+DeepLearning.AI's prompt engineering course is short, practical, and taught by the team behind some of the most popular AI courses in the world. For a self-paced alternative, see our guide to [learning prompt engineering in one afternoon](/prompt-engineering-afternoon/).
 
 ### What You'll Learn
 
@@ -293,7 +293,7 @@ But the learning itself is valuable even if the certificate matters less.
 
 ### The LinkedIn Effect
 
-There's a practical benefit beyond interviews: LinkedIn visibility. Certifications show on your profile and can appear in recruiter searches. More credentials = more visibility.
+There's a practical benefit beyond interviews: LinkedIn visibility. Certifications show on your profile and can appear in recruiter searches. More credentials = more visibility. For learning strategies that won't raise eyebrows at work, see our guide to [learning AI while looking busy](/learn-ai-while-looking-busy/).
 
 ## Which Certification Should You Get First?
 
@@ -323,7 +323,7 @@ You don't need months to get AI certified. The best certifications take 10-20 ho
 
 **Our top recommendation:** Start with Google AI Essentials. It's the best combination of content quality, brand recognition, and time investment. You can complete it in a week and have a Google credential on your LinkedIn by next Monday.
 
-The professionals who build AI skills now will have advantages for years. A week of focused learning is a small investment for that kind of return.
+The professionals who build AI skills now will have advantages for years. A week of focused learning is a small investment for that kind of return. See our guide to [AI skills that will get you promoted](/ai-skills-for-promotion/) for how to turn certifications into career advancement.
 
 Pick a certification. Start this weekend. Be certified by next week.
 

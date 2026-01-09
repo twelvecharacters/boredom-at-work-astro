@@ -69,7 +69,7 @@ These are legitimately excellent, not just "good for free":
 
 ### 1. Google AI Essentials (Audit Mode)
 
-Google's flagship AI course is free to audit. You get all video content, most readings, and some exercises. You just don't get the certificate.
+Google's flagship AI course is free to audit. You get all video content, most readings, and some exercises. You just don't get the certificate. Read our [full Google AI Essentials review](/google-ai-essentials-review/) for more details.
 
 - **Time:** 10 hours
 - **What you miss:** Certificate, graded assignments
@@ -152,7 +152,7 @@ If you're going to pay, make it count:
 
 ### Coursera Plus ($59/month)
 
-Unlimited access to most Coursera courses including all certificates. If you'll take 2+ courses, this is better than paying individually.
+Unlimited access to most Coursera courses including all certificates. If you'll take 2+ courses, this is better than paying individually. See our guide to the [best AI courses on Coursera](/best-ai-courses-coursera/) for recommendations.
 
 **Best for:** Continuous learners, multiple certifications
 **Value:** Excellent if used consistently
@@ -265,7 +265,7 @@ Invest in one strong credential. Google AI Essentials ($49) is the best value. A
 Start with free content. If your company has a learning budget, request Coursera Plus or LinkedIn Learning.
 
 ### "I'm Changing Careers to Tech/AI"
-Plan to invest more. Start free to build foundation, then consider Coursera Plus or a specialization for credibility.
+Plan to invest more. Start free to build foundation, then consider Coursera Plus or a specialization for credibility. Check out our guide to [AI certifications you can earn in a week](/ai-certifications-in-a-week/).
 
 ### "My Budget Is Zero"
 That's fine. Elements of AI (free with certificate), Google AI Essentials (audit), and OpenAI Academy give you everything you need to build real skills.

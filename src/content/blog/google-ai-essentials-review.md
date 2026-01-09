@@ -66,7 +66,7 @@ Prompting is the core skill for using AI effectively. This module covers:
 - Iterating and refining outputs
 - Common prompting mistakes
 
-The techniques taught here are universal. They work with ChatGPT, Claude, Gemini, and any other AI assistant.
+The techniques taught here are universal. They work with ChatGPT, Claude, Gemini, and any other AI assistant. For a deep dive into prompting, see our guide to [learning prompt engineering in one afternoon](/prompt-engineering-afternoon/).
 
 ### Module 4: Use AI Responsibly
 
@@ -208,6 +208,8 @@ How does it compare to other popular options?
 **Choose Elements of AI if:** You want deeper conceptual understanding for free.
 
 **Choose IBM if:** You want a business/strategic perspective.
+
+For more options, see our full guide to the [best free AI courses](/best-free-ai-courses/).
 
 ## Who Should Take This Course?
 

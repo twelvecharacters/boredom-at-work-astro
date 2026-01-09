@@ -58,7 +58,7 @@ These are the skills that actually lead to advancement—not theoretical knowled
 
 **How to learn it:**
 - Practice daily with ChatGPT or similar tools
-- Read our prompt engineering guide
+- Read our [prompt engineering guide](/prompt-engineering-afternoon/)
 - Take DeepLearning.AI's free course (5 hours)
 
 **Time to competency:** 5-10 hours of focused practice
@@ -152,7 +152,7 @@ These are the skills that actually lead to advancement—not theoretical knowled
 - Following company AI policies
 
 **How to learn it:**
-- Google AI Essentials covers this well
+- [Google AI Essentials](/google-ai-essentials-review/) covers this well
 - Read your company's AI policy
 - Follow AI news for cautionary tales
 
@@ -307,8 +307,8 @@ Here's a structured approach to building AI skills in one month:
 **Goals:** Understand AI basics, get comfortable with ChatGPT
 
 **Activities:**
-- Days 1-2: Start Google AI Essentials or Elements of AI
-- Days 3-5: Practice ChatGPT for basic work tasks
+- Days 1-2: Start [Google AI Essentials](/google-ai-essentials-review/) or Elements of AI
+- Days 3-5: Practice [ChatGPT](/chatgpt-tutorial-beginners/) for basic work tasks
 - Days 6-7: Complete first course module, take notes
 
 **Time:** 1-2 hours per day

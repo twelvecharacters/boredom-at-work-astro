@@ -136,7 +136,7 @@ OpenAI Academy launched in late 2024 with a mission to democratize AI knowledge.
 
 ### Who It's For
 
-Anyone who uses or wants to use ChatGPT regularly. The practical focus makes it ideal for people who want to improve their day-to-day AI usage.
+Anyone who uses or wants to use ChatGPT regularly. The practical focus makes it ideal for people who want to improve their day-to-day AI usage. New to ChatGPT? Start with our [ChatGPT tutorial for beginners](/chatgpt-tutorial-beginners/).
 
 ## Microsoft AI Fundamentals Learning Path
 
@@ -235,7 +235,7 @@ Sales professionals, marketers, and anyone who uses or might use Salesforce. Eve
 
 **Best for improving AI skills you already have.**
 
-If you're already using ChatGPT but want to get better at it, this short course from DeepLearning.AI teaches prompt engineering fundamentals.
+If you're already using ChatGPT but want to get better at it, this short course from DeepLearning.AI teaches prompt engineering fundamentals. For a quicker introduction, check out our guide to [learning prompt engineering in one afternoon](/prompt-engineering-afternoon/).
 
 ### What You'll Learn
 
@@ -328,7 +328,7 @@ Elements of AI and OpenAI Academy offer completely free certificates. Others (Go
 
 ### How long does it take to learn AI basics?
 
-With focused effort, you can understand AI fundamentals in 10-20 hours. That's achievable in 2-3 weeks of casual study during work downtime.
+With focused effort, you can understand AI fundamentals in 10-20 hours. That's achievable in 2-3 weeks of casual study during work downtime. See our guide to [AI certifications you can earn in a week](/ai-certifications-in-a-week/) for a structured approach.
 
 ### Will my employer know I'm taking courses?
 

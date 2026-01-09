@@ -340,7 +340,7 @@ Once you're comfortable with the basics:
 
 ### Learn Prompt Engineering
 
-Prompt engineering is the skill of crafting inputs that get optimal outputs. It's the difference between good and great results. Check out our guide to learning prompt engineering in one afternoon.
+Prompt engineering is the skill of crafting inputs that get optimal outputs. It's the difference between good and great results. Check out our guide to [learning prompt engineering in one afternoon](/prompt-engineering-afternoon/).
 
 ### Explore Custom GPTs
 
@@ -358,9 +358,11 @@ Each has strengths. Experiment to find what works for you.
 ### Take a Structured Course
 
 Want to go deeper? Consider:
-- Google AI Essentials (10 hours, great for beginners)
+- [Google AI Essentials](/google-ai-essentials-review/) (10 hours, great for beginners)
 - AI for Everyone by Andrew Ng (6 hours, business perspective)
 - Prompt Engineering courses on Coursera
+
+For more options, browse our guide to the [best AI courses on Coursera](/best-ai-courses-coursera/).
 
 ## Frequently Asked Questions
 

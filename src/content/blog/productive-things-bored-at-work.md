@@ -31,7 +31,7 @@ The best part? You can become proficient in AI basics in just 10 hours of learni
 
 **Best courses to take at your desk:**
 
-- **Google AI Essentials** (10 hours) - The gold standard for beginners. Covers everything from basic concepts to practical prompting. Free to audit, $49 for a certificate.
+- **[Google AI Essentials](/google-ai-essentials-review/)** (10 hours) - The gold standard for beginners. Covers everything from basic concepts to practical prompting. Free to audit, $49 for a certificate.
 - **Elements of AI** (6 hours) - Created by the University of Helsinki, taken by over 1.8 million people. Completely free with certificate.
 - **OpenAI Academy** (varies) - Learn directly from the creators of ChatGPT. Free and constantly updated.
 
@@ -64,7 +64,7 @@ Free resources like ExcelJet and the official Google Sheets help center can take
 
 ### Get Certified
 
-Quick certifications can boost your resume and only take a few hours. Many are completely free:
+Quick certifications can boost your resume and only take a few hours. Many are completely free. Check out our guide to [AI certifications you can earn in a week](/ai-certifications-in-a-week/).
 
 - **Google Certifications** - Analytics, Ads, and more
 - **HubSpot Academy** - Marketing, sales, and service
@@ -198,7 +198,7 @@ Sometimes you only have a few minutes. Here are quick productive tasks:
 
 ## Stealth Learning (Looks Professional)
 
-Some learning platforms look more "work-appropriate" than others. These won't raise eyebrows:
+Some learning platforms look more "work-appropriate" than others. These won't raise eyebrows. For a full guide on discreet learning strategies, see our article on [how to learn AI while looking busy](/learn-ai-while-looking-busy/).
 
 **Microsoft Learn**
 - Covers Azure, Office 365, and more
