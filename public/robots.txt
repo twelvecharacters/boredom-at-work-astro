@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://boredom-at-work.com/sitemap-index.xml

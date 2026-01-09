@@ -1,0 +1,101 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+}
+
+const { post } = Astro.props;
+const { title, description, publishDate, updatedDate, author, image, tags } = post.data;
+
+const formattedDate = publishDate.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric'
+});
+
+const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric'
+});
+---
+
+<BaseLayout title={title} description={description} image={image} article={true}>
+  <article class="max-w-4xl mx-auto px-4 py-8">
+    <!-- Article Header -->
+    <header class="mb-8">
+      <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-primary mb-4 leading-tight">
+        {title}
+      </h1>
+
+      <div class="flex flex-wrap items-center gap-4 text-text-light text-sm mb-6">
+        <span>By {author}</span>
+        <span>•</span>
+        <time datetime={publishDate.toISOString()}>{formattedDate}</time>
+        {updatedDate && (
+          <>
+            <span>•</span>
+            <span>Updated: {formattedUpdatedDate}</span>
+          </>
+        )}
+      </div>
+
+      {tags.length > 0 && (
+        <div class="flex flex-wrap gap-2 mb-6">
+          {tags.map(tag => (
+            <span class="bg-background-alt text-text-light px-3 py-1 rounded-full text-sm">
+              {tag}
+            </span>
+          ))}
+        </div>
+      )}
+
+      {image && (
+        <img
+          src={image}
+          alt={title}
+          class="w-full rounded-xl shadow-lg"
+        />
+      )}
+    </header>
+
+    <!-- Article Content -->
+    <div class="prose">
+      <slot />
+    </div>
+
+    <!-- Article Footer -->
+    <footer class="mt-12 pt-8 border-t border-gray-200">
+      <div class="bg-background-alt rounded-xl p-6">
+        <h3 class="text-lg font-semibold mb-2">Ready to learn more?</h3>
+        <p class="text-text-light mb-4">
+          Check out our other guides on AI skills, certifications, and productive ways to use your work downtime.
+        </p>
+        <a href="/blog/" class="btn-primary">
+          Browse All Articles
+        </a>
+      </div>
+    </footer>
+  </article>
+
+  <!-- Schema.org Article Markup -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": title,
+    "description": description,
+    "image": image,
+    "datePublished": publishDate.toISOString(),
+    "dateModified": (updatedDate || publishDate).toISOString(),
+    "author": {
+      "@type": "Person",
+      "name": author
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Boredom at Work"
+    }
+  })} />
+</BaseLayout>

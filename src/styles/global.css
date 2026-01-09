@@ -1,0 +1,148 @@
+@import "tailwindcss";
+
+/* Custom Theme Variables */
+@theme {
+  --color-primary: #1a1a2e;
+  --color-primary-light: #16213e;
+  --color-accent: #0073aa;
+  --color-accent-hover: #005a87;
+  --color-text: #333333;
+  --color-text-light: #666666;
+  --color-background: #ffffff;
+  --color-background-alt: #f8f9fa;
+}
+
+/* Base Styles */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply text-text bg-background;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold text-primary;
+  }
+
+  a {
+    @apply text-accent hover:text-accent-hover transition-colors;
+  }
+}
+
+/* Prose Styles for Blog Content */
+@layer components {
+  .prose {
+    @apply max-w-none;
+  }
+
+  .prose h1 {
+    @apply text-3xl md:text-4xl mb-6 mt-8;
+  }
+
+  .prose h2 {
+    @apply text-2xl md:text-3xl mb-4 mt-8;
+  }
+
+  .prose h3 {
+    @apply text-xl md:text-2xl mb-3 mt-6;
+  }
+
+  .prose p {
+    @apply mb-4 leading-relaxed;
+  }
+
+  .prose ul, .prose ol {
+    @apply mb-4 pl-6;
+  }
+
+  .prose li {
+    @apply mb-2;
+  }
+
+  .prose ul li {
+    @apply list-disc;
+  }
+
+  .prose ol li {
+    @apply list-decimal;
+  }
+
+  .prose code {
+    @apply bg-background-alt px-1.5 py-0.5 rounded text-sm;
+  }
+
+  .prose pre {
+    @apply bg-primary text-white p-4 rounded-lg overflow-x-auto mb-4;
+  }
+
+  .prose pre code {
+    @apply bg-transparent p-0;
+  }
+
+  .prose blockquote {
+    @apply border-l-4 border-accent pl-4 italic my-4;
+  }
+
+  .prose table {
+    @apply w-full mb-4 border-collapse;
+  }
+
+  .prose th, .prose td {
+    @apply border border-gray-300 px-4 py-2 text-left;
+  }
+
+  .prose th {
+    @apply bg-background-alt font-semibold;
+  }
+
+  .prose img {
+    @apply rounded-lg my-4;
+  }
+}
+
+/* CTA Button */
+@layer components {
+  .btn-primary {
+    @apply inline-block bg-accent text-white px-6 py-3 rounded-lg font-semibold;
+    @apply hover:bg-accent-hover transition-colors;
+  }
+
+  .btn-secondary {
+    @apply inline-block border-2 border-accent text-accent px-6 py-3 rounded-lg font-semibold;
+    @apply hover:bg-accent hover:text-white transition-colors;
+  }
+}
+
+/* Mobile Table Styles */
+@media (max-width: 768px) {
+  .prose table {
+    @apply border-none;
+  }
+
+  .prose table thead {
+    @apply hidden;
+  }
+
+  .prose table tbody {
+    @apply block;
+  }
+
+  .prose table tr {
+    @apply block bg-background-alt mb-4 p-4 rounded-lg border border-gray-200;
+  }
+
+  .prose table td {
+    @apply block w-full text-left p-1 border-none;
+  }
+
+  .prose table td:first-child {
+    @apply font-bold text-accent text-sm mb-1;
+  }
+
+  .prose table td:nth-child(2) {
+    @apply font-bold text-lg;
+  }
+}
