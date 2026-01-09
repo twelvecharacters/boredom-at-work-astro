@@ -5,11 +5,11 @@
 [build.environment]
   NODE_VERSION = "20"
 
-# Redirects for any changed URLs (currently none needed)
-# [[redirects]]
-#   from = "/old-path/"
-#   to = "/new-path/"
-#   status = 301
+# Redirect old WordPress sitemap URL to Astro sitemap
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/sitemap-index.xml"
+  status = 301
 
 # Headers for better caching
 [[headers]]
