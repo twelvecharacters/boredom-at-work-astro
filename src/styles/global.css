@@ -76,10 +76,14 @@
 
   .prose pre {
     @apply bg-primary text-white p-4 rounded-lg overflow-x-auto mb-4;
+    white-space: pre-wrap;
+    word-wrap: break-word;
   }
 
   .prose pre code {
     @apply bg-transparent p-0;
+    white-space: pre-wrap;
+    word-wrap: break-word;
   }
 
   .prose blockquote {
