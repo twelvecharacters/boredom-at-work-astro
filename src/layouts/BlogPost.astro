@@ -1,5 +1,6 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -8,6 +9,12 @@ interface Props {
 
 const { post } = Astro.props;
 const { title, description, publishDate, updatedDate, author, image, tags, faq } = post.data;
+
+// Breadcrumb items
+const breadcrumbItems = [
+  { name: 'Blog', url: '/blog/' },
+  { name: title, url: `/${post.id}/` }
+];
 
 const formattedDate = publishDate.toLocaleDateString('en-US', {
   year: 'numeric',
@@ -24,6 +31,9 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
 
 <BaseLayout title={title} description={description} image={image} article={true}>
   <article class="max-w-4xl mx-auto px-4 py-8">
+    <!-- Breadcrumbs -->
+    <Breadcrumbs items={breadcrumbItems} />
+
     <!-- Article Header -->
     <header class="mb-8">
       <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-primary mb-4 leading-tight">

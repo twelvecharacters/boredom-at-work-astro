@@ -1,0 +1,49 @@
+---
+interface BreadcrumbItem {
+  name: string;
+  url: string;
+}
+
+interface Props {
+  items: BreadcrumbItem[];
+}
+
+const { items } = Astro.props;
+
+// Add home as first item
+const breadcrumbs = [
+  { name: 'Home', url: '/' },
+  ...items
+];
+
+// Schema.org BreadcrumbList
+const schemaData = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": breadcrumbs.map((item, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "name": item.name,
+    "item": `https://boredom-at-work.com${item.url}`
+  }))
+};
+---
+
+<nav aria-label="Breadcrumb" class="text-sm text-text-light mb-6">
+  <ol class="flex flex-wrap items-center gap-2">
+    {breadcrumbs.map((item, index) => (
+      <li class="flex items-center gap-2">
+        {index > 0 && <span class="text-gray-400">/</span>}
+        {index === breadcrumbs.length - 1 ? (
+          <span class="text-primary font-medium">{item.name}</span>
+        ) : (
+          <a href={item.url} class="hover:text-accent transition-colors">
+            {item.name}
+          </a>
+        )}
+      </li>
+    ))}
+  </ol>
+</nav>
+
+<script type="application/ld+json" set:html={JSON.stringify(schemaData)} />
