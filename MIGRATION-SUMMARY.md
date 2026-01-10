@@ -146,6 +146,88 @@ Netlify deployed automatisch (~30 Sekunden).
 
 ## Noch zu erledigen
 
-- [ ] Sitemap bei Google Search Console neu einreichen (nach DNS-Propagation)
+- [x] Sitemap bei Google Search Console neu einreichen (nach DNS-Propagation)
 - [ ] Altes WordPress-Hosting kündigen
 - [ ] Backup der alten WordPress-Seite behalten
+
+---
+
+# Migration 2: Netlify → GitHub Pages
+
+**Datum:** 9-10. Januar 2026
+
+## Grund der Migration
+- Netlify Credits aufgebraucht (300 Builds an einem Tag)
+- "Site not available - usage limits reached" Fehlermeldung
+
+## Was wurde gemacht
+
+### 1. GitHub Pages Setup
+- Repository öffentlich gemacht (GitHub Pages erfordert public repo oder Pro-Plan)
+- GitHub Actions Workflow erstellt: `.github/workflows/deploy.yml`
+- CNAME-Datei erstellt: `public/CNAME` → `boredom-at-work.com`
+
+### 2. DNS-Konfiguration (Netcup) - Aktualisiert
+**A-Records (Apex Domain):**
+- 185.199.108.153
+- 185.199.109.153
+- 185.199.110.153
+- 185.199.111.153
+
+**CNAME-Record (www):**
+- www → twelvecharacters.github.io
+
+### 3. GitHub Pages Einstellungen
+- Source: GitHub Actions
+- Custom Domain: www.boredom-at-work.com (primär)
+- Enforce HTTPS: aktiviert
+
+## Probleme während der Migration
+1. **Workflow Push fehlgeschlagen** - GitHub OAuth Token brauchte `workflow` scope
+   - Lösung: `gh auth login -h github.com -p https -w -s workflow`
+
+2. **GitHub Pages nicht verfügbar** - Repository war privat
+   - Lösung: Repository öffentlich gemacht
+
+3. **DNS Check unsuccessful** - DNS-Propagation dauerte mehrere Stunden
+   - Alte Netlify-IPs waren noch gecacht
+   - Lösung: Warten + lokalen DNS-Cache leeren (`sudo dscacheutil -flushcache && sudo killall -HUP mDNSResponder`)
+
+4. **Apex Domain Warnung** - GitHub zeigt weiterhin rot für boredom-at-work.com
+   - www.boredom-at-work.com funktioniert (primäre Domain)
+   - Apex Domain leitet korrekt um (301)
+
+## Aktuelle URLs
+- **Primär:** https://www.boredom-at-work.com
+- **Redirect:** http://boredom-at-work.com → www
+
+## SEO Status (nach Migration)
+- **Google Search Console:** Verifiziert für https://boredom-at-work.com
+- **Sitemap:** /sitemap.xml eingereicht, 8 Seiten gefunden (von 12)
+- **robots.txt:** vorhanden
+- **FAQ Schema:** auf 3 Artikeln implementiert
+- **Breadcrumbs:** implementiert mit Schema.org Markup
+- **Related Posts:** implementiert
+
+## Neue/Geänderte Dateien
+- `.github/workflows/deploy.yml` - GitHub Actions Deployment
+- `public/CNAME` - Custom Domain für GitHub Pages
+- `src/styles/global.css` - Code-Block Styling (schwarze Boxen entfernt)
+- `src/components/Breadcrumbs.astro` - Breadcrumbs Komponente
+- `src/components/RelatedPosts.astro` - Related Posts Komponente
+- `src/layouts/BlogPost.astro` - FAQ Schema + Breadcrumbs integriert
+
+## Workflow für neue Posts (aktualisiert)
+
+```bash
+git add .
+git commit -m "Add: Neuer Artikel"
+git push
+```
+
+GitHub Actions deployed automatisch (~1-2 Minuten).
+
+## Nächste Schritte
+- [ ] Netlify-Projekt löschen
+- [ ] Warten bis GitHub Apex-Domain grün zeigt
+- [ ] GSC Sitemap neu einreichen wenn alle 12 Seiten indexiert werden sollen
