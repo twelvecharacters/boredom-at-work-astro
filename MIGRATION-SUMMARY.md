@@ -231,3 +231,59 @@ GitHub Actions deployed automatisch (~1-2 Minuten).
 - [ ] Netlify-Projekt löschen
 - [ ] Warten bis GitHub Apex-Domain grün zeigt
 - [ ] GSC Sitemap neu einreichen wenn alle 12 Seiten indexiert werden sollen
+
+---
+
+# Content-Strategie Erweiterung
+
+**Datum:** 10. Januar 2026
+
+## Ursprüngliche Idee
+Die Seite war bisher nur auf AI-Kurse fokussiert.
+
+## Neue Ausrichtung
+"Boredom at Work" als Dachmarke für alles, was man während der Arbeitslangeweile recherchieren/lernen kann.
+
+## Geplante Kategorien
+
+| Kategorie | Beispiel-Artikel |
+|-----------|------------------|
+| **Hobbies** | "3D Printing for Beginners - Everything You Need to Know" |
+| **Photography** | "Best Entry-Level Cameras in 2026" |
+| **Japan Shopping** | "Buyee vs Sendico - How to Buy from Japan" |
+| **Tech & Gadgets** | "Is a Kindle Worth It?" |
+| **Learning** | AI courses (existing content) |
+| **Productivity** | "Productive Things to Do When Bored at Work" |
+
+## Themenideen (von Bruder)
+- 3D Drucker
+- Fotokameras
+- Japan-Shopping (Sendico, Buyee)
+- Kleinigkeiten im Alltag als Endkonsument
+
+## Keyword-Potenzial (English)
+- "how to buy from japan" - wenig Konkurrenz, Nischen-Thema
+- "best beginner 3d printer 2026" - hohes Suchvolumen
+- "mirrorless camera for beginners" - Affiliate-Potenzial
+
+## Affiliate-Möglichkeiten
+- Amazon (global)
+- Buyee/Sendico Affiliate-Programme
+- B&H Photo (Kameras)
+- Creality/Prusa (3D-Drucker)
+
+## Backlink-Strategien
+1. Gastbeiträge auf anderen Blogs
+2. HARO/Qwoted - Journalisten-Anfragen beantworten
+3. Reddit/Quora mit Mehrwert
+4. Broken Link Building
+5. Ressourcen-Listen kontaktieren
+6. LinkedIn/Medium Artikel
+
+## Erstellte Ressourcen
+- `CONTENT-PROMPTS.md` - Prompt-Templates für Artikel-Erstellung
+  - Article Generator Prompt
+  - Quick Article Ideas Prompt
+  - Product Comparison Prompt
+  - Beginner Guide Prompt
+  - Japan Shopping Guide Prompt
