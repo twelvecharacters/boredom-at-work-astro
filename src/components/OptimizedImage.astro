@@ -4,11 +4,12 @@ interface Props {
   alt: string;
   class?: string;
   loading?: 'lazy' | 'eager';
+  fetchpriority?: 'high' | 'low' | 'auto';
   width?: number;
   height?: number;
 }
 
-const { src, alt, class: className = '', loading = 'lazy', width, height } = Astro.props;
+const { src, alt, class: className = '', loading = 'lazy', fetchpriority, width, height } = Astro.props;
 
 // Convert jpg/png to webp path
 const getWebpPath = (imagePath: string): string => {
@@ -28,7 +29,8 @@ const hasWebp = !src.endsWith('.webp') && !src.endsWith('.svg');
     alt={alt}
     class={className}
     loading={loading}
-    decoding="async"
+    decoding={loading === 'eager' ? 'sync' : 'async'}
+    fetchpriority={fetchpriority}
     width={width}
     height={height}
   />

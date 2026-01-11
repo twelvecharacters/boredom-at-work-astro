@@ -28,6 +28,16 @@ const socialImageURL = new URL(image, Astro.site);
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Preconnect to external resources -->
+    <link rel="preconnect" href="https://www.googletagmanager.com" />
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+    <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+
+    <!-- Preload critical assets -->
+    <link rel="preload" href="/images/logo.webp" as="image" type="image/webp" />
+
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="canonical" href={canonicalURL} />
 
@@ -69,6 +79,18 @@ const socialImageURL = new URL(image, Astro.site);
     })} />
 
     <meta name="generator" content={Astro.generator} />
+
+    <!-- Critical inline CSS for above-the-fold content -->
+    <style>
+      body{margin:0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif}
+      header{position:sticky;top:0;z-index:50;background:linear-gradient(to right,#1a1a2e,#16213e)}
+      .flex{display:flex}.items-center{align-items:center}.justify-between{justify-content:space-between}
+      .py-3{padding-top:.75rem;padding-bottom:.75rem}.px-4{padding-left:1rem;padding-right:1rem}
+      .max-w-6xl{max-width:72rem}.mx-auto{margin-left:auto;margin-right:auto}
+      .text-white{color:#fff}.font-bold{font-weight:700}
+      .h-12{height:3rem}.w-auto{width:auto}
+      @media(min-width:768px){.md\:h-14{height:3.5rem}}
+    </style>
   </head>
   <body class="min-h-screen flex flex-col">
     <Header />
@@ -77,13 +99,23 @@ const socialImageURL = new URL(image, Astro.site);
     </main>
     <Footer />
 
-    <!-- Google Analytics 4 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=GT-PL3RVFQX"></script>
+    <!-- Google Analytics 4 - Deferred loading -->
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'GT-PL3RVFQX');
+      // Load GA after page is interactive
+      window.addEventListener('load', function() {
+        setTimeout(function() {
+          var script = document.createElement('script');
+          script.src = 'https://www.googletagmanager.com/gtag/js?id=GT-PL3RVFQX';
+          script.async = true;
+          document.head.appendChild(script);
+
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          window.gtag = gtag;
+          gtag('js', new Date());
+          gtag('config', 'GT-PL3RVFQX');
+        }, 100);
+      });
     </script>
   </body>
 </html>
