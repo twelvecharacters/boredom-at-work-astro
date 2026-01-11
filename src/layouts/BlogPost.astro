@@ -2,6 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
+import OptimizedImage from '../components/OptimizedImage.astro';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -69,12 +70,10 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
       </p>
 
       {image && (
-        <img
+        <OptimizedImage
           src={image}
           alt={title}
           class="w-full rounded-xl shadow-lg"
-          loading="lazy"
-          decoding="async"
         />
       )}
     </header>

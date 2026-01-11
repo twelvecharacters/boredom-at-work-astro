@@ -1,0 +1,35 @@
+---
+interface Props {
+  src: string;
+  alt: string;
+  class?: string;
+  loading?: 'lazy' | 'eager';
+  width?: number;
+  height?: number;
+}
+
+const { src, alt, class: className = '', loading = 'lazy', width, height } = Astro.props;
+
+// Convert jpg/png to webp path
+const getWebpPath = (imagePath: string): string => {
+  return imagePath.replace(/\.(jpg|jpeg|png)$/i, '.webp');
+};
+
+const webpSrc = getWebpPath(src);
+const hasWebp = !src.endsWith('.webp') && !src.endsWith('.svg');
+---
+
+<picture>
+  {hasWebp && (
+    <source srcset={webpSrc} type="image/webp" />
+  )}
+  <img
+    src={src}
+    alt={alt}
+    class={className}
+    loading={loading}
+    decoding="async"
+    width={width}
+    height={height}
+  />
+</picture>

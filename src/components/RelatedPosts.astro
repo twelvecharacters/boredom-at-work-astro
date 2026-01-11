@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import OptimizedImage from './OptimizedImage.astro';
 
 interface Props {
   currentSlug: string;
@@ -48,12 +49,10 @@ const postsToShow = [...relatedPosts, ...recentPosts].slice(0, limit);
       {postsToShow.map(post => (
         <article class="bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
           {post.data.image && (
-            <img
+            <OptimizedImage
               src={post.data.image}
               alt={post.data.title}
               class="w-full h-32 object-cover"
-              loading="lazy"
-              decoding="async"
             />
           )}
           <div class="p-4">

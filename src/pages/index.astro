@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import OptimizedImage from '../components/OptimizedImage.astro';
 import { getCollection } from 'astro:content';
 
 // Get latest blog posts
@@ -178,12 +179,10 @@ const latestPosts = posts
           {latestPosts.map(post => (
             <article class="bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
               {post.data.image && (
-                <img
+                <OptimizedImage
                   src={post.data.image}
                   alt={post.data.title}
                   class="w-full h-48 object-cover"
-                  loading="lazy"
-                  decoding="async"
                 />
               )}
               <div class="p-5">
