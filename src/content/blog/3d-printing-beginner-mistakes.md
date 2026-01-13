@@ -1,332 +1,332 @@
 ---
-title: "Die 10 häufigsten 3D Druck Anfängerfehler (und wie du sie vermeidest)"
-description: "Diese Fehler machen fast alle 3D Druck Anfänger. Lerne aus den Fehlern anderer und spare dir Frust, Zeit und Filament mit unseren Tipps."
+title: "10 Most Common 3D Printing Beginner Mistakes (And How to Avoid Them)"
+description: "Almost every 3D printing beginner makes these mistakes. Learn from others and save yourself frustration, time, and filament with our tips."
 publishDate: 2026-01-13
 author: "bored chap"
 image: "/images/3d-printing-mistakes.jpg"
-tags: ["3D Printing", "Anfänger", "Tipps", "Troubleshooting", "Fehler"]
-draft: true
+tags: ["3D Printing", "Beginners", "Tips", "Troubleshooting", "Mistakes"]
+draft: false
 faq:
-  - question: "Warum haftet mein 3D Druck nicht am Bett?"
-    answer: "Die häufigsten Ursachen sind: Druckbett nicht sauber (mit IPA reinigen), Abstand Düse-Bett zu groß (Leveling prüfen), Betttemperatur zu niedrig (PLA: 50-60°C), oder falsches Bettmaterial. Immer den ersten Layer beobachten!"
-  - question: "Was ist Stringing und wie verhindere ich es?"
-    answer: "Stringing sind dünne Fäden zwischen gedruckten Teilen. Lösungen: Retraction-Einstellungen erhöhen (6-7mm bei Bowden, 2-3mm bei Direct Drive), Drucktemperatur um 5-10°C senken, und Reisegeschwindigkeit erhöhen."
-  - question: "Warum ist die Unterseite meines Drucks rauh (Elefantenfuß)?"
-    answer: "Ein Elefantenfuß entsteht wenn die erste Schicht zu nah am Bett ist oder zu heiß gedruckt wird. Lösung: Z-Offset leicht erhöhen und Betttemperatur nach der ersten Schicht reduzieren."
-  - question: "Mein 3D Druck hat Löcher und Lücken - warum?"
-    answer: "Unterextrusion ist meist die Ursache. Prüfe: verstopfte Düse, Filament-Durchmesser im Slicer korrekt (1.75mm), zu niedrige Drucktemperatur, oder Extruder-Spannung. Eine Flow-Kalibrierung hilft."
-  - question: "Wie oft muss ich das Druckbett leveln?"
-    answer: "Mit Auto-Leveling: Selten, etwa alle 10-20 Drucke oder bei Problemen. Ohne Auto-Leveling: Vor jedem Druck die erste Schicht prüfen. Nach Drucker-Transport oder Wartung immer neu leveln."
+  - question: "Why won't my 3D print stick to the bed?"
+    answer: "The most common causes are: print bed not clean (clean with IPA), nozzle-bed distance too large (check leveling), bed temperature too low (PLA: 50-60°C), or wrong bed material. Always watch the first layer!"
+  - question: "What is stringing and how do I prevent it?"
+    answer: "Stringing is thin threads between printed parts. Solutions: increase retraction settings (6-7mm for Bowden, 2-3mm for direct drive), lower print temperature by 5-10°C, and increase travel speed."
+  - question: "Why is the bottom of my print rough (elephant foot)?"
+    answer: "Elephant foot happens when the first layer is too close to the bed or printed too hot. Solution: slightly increase Z-offset and reduce bed temperature after the first layer."
+  - question: "My 3D print has holes and gaps - why?"
+    answer: "Under-extrusion is usually the cause. Check: clogged nozzle, correct filament diameter in slicer (1.75mm), too low print temperature, or extruder tension. A flow calibration helps."
+  - question: "How often do I need to level the print bed?"
+    answer: "With auto-leveling: Rarely, about every 10-20 prints or when problems occur. Without auto-leveling: Check the first layer before every print. Always re-level after transporting the printer or maintenance."
 ---
 
-3D Druck kann frustrierend sein - besonders am Anfang. Du hast den Drucker aufgebaut, das erste Modell geladen und dann: Spaghetti, nicht haftende Drucke oder seltsame Oberflächen.
+3D printing can be frustrating - especially at the beginning. You've set up the printer, loaded your first model, and then: spaghetti, non-sticking prints, or strange surfaces.
 
-Die gute Nachricht: Fast alle diese 3D Druck Anfängerfehler sind vermeidbar. In diesem Guide zeige ich dir die 10 häufigsten Fehler, die ich bei 3D Druck Einsteigern sehe - und wie du sie vermeidest.
+The good news: Almost all these 3D printing beginner mistakes are avoidable. In this guide, I'll show you the 10 most common mistakes I see from 3D printing beginners - and how to avoid them.
 
-## Fehler 1: Das Druckbett nicht richtig vorbereiten
+## Mistake 1: Not Properly Preparing the Print Bed
 
-Der häufigste Anfängerfehler beim 3D Drucken ist ein schlecht vorbereitetes Druckbett. Die erste Schicht ist das Fundament deines Drucks - wenn sie nicht haftet, scheitert alles.
+The most common beginner mistake in 3D printing is a poorly prepared print bed. The first layer is the foundation of your print - if it doesn't stick, everything fails.
 
-### Das Problem
+### The Problem
 
-- Druck löst sich während des Druckens
-- Ecken heben sich (Warping)
-- Erste Schicht sieht unsauber aus
+- Print detaches during printing
+- Corners lift up (warping)
+- First layer looks messy
 
-### Die Lösung
+### The Solution
 
-1. **Reinige das Bett vor JEDEM Druck** mit Isopropanol (IPA 99%)
-2. **Berühre die Druckfläche nie** mit bloßen Fingern
-3. **Prüfe die Bettnivellierung** regelmäßig
-4. **Richtige Temperatur:** PLA 50-60°C, PETG 70-80°C
+1. **Clean the bed before EVERY print** with isopropyl alcohol (IPA 99%)
+2. **Never touch the print surface** with bare fingers
+3. **Check bed leveling** regularly
+4. **Correct temperature:** PLA 50-60°C, PETG 70-80°C
 
-### Pro-Tipp
+### Pro Tip
 
-Wenn nichts hilft: Eine dünne Schicht Klebestift (Pritt) auf dem Bett wirkt Wunder, besonders bei PETG.
+If nothing helps: A thin layer of glue stick (Elmer's) on the bed works wonders, especially for PETG.
 
-## Fehler 2: Falsches Bed-Leveling
+## Mistake 2: Wrong Bed Leveling
 
-Selbst mit automatischem Leveling musst du verstehen, was ein gutes erstes Layer ausmacht. Viele Anfänger überspringen diesen Schritt.
+Even with automatic leveling, you need to understand what a good first layer looks like. Many beginners skip this step.
 
-### Das Problem
+### The Problem
 
-- Zu nah: Düse kratzt, Filament wird gequetscht (Elefantenfuß)
-- Zu weit: Filament haftet nicht, wird zu dünn
+- Too close: Nozzle scratches, filament gets squished (elephant foot)
+- Too far: Filament doesn't stick, becomes too thin
 
-### Das perfekte erste Layer
+### The Perfect First Layer
 
-Die erste Schicht sollte:
-- Leicht gequetscht sein (nicht rund, nicht flach)
-- Linien die sich berühren, nicht überlappen
-- Glatte, keine lückenhafte Oberfläche
+The first layer should be:
+- Slightly squished (not round, not flat)
+- Lines that touch, not overlap
+- Smooth, not gappy surface
 
-### Die Lösung
+### The Solution
 
-1. **Nutze das automatische Leveling** deines Druckers
-2. **Feinjustiere den Z-Offset** während des Druckens
-3. **Beobachte die erste Schicht** - brich ab wenn sie nicht stimmt
-4. **Paper-Test:** Bei manuellem Leveling sollte Papier leichten Widerstand haben
+1. **Use your printer's automatic leveling**
+2. **Fine-tune the Z-offset** while printing
+3. **Watch the first layer** - cancel if it's not right
+4. **Paper test:** With manual leveling, paper should have slight resistance
 
-## Fehler 3: Zu komplexe Projekte am Anfang
+## Mistake 3: Too Complex Projects at the Start
 
-Ich verstehe die Begeisterung: Du willst sofort das 15-Stunden-Projekt mit komplexen Supports drucken. Aber das ist ein Rezept für Frustration.
+I understand the excitement: You want to immediately print that 15-hour project with complex supports. But that's a recipe for frustration.
 
-### Das Problem
+### The Problem
 
-- Lange Drucke scheitern nach Stunden
-- Komplexe Supports misslingen
-- Frust statt Lernerfolg
+- Long prints fail after hours
+- Complex supports go wrong
+- Frustration instead of learning
 
-### Die Lösung
+### The Solution
 
-**Woche 1:**
-- 3D Benchy (Testdruck)
-- Calibration Cube
-- Einfache Objekte ohne Supports
+**Week 1:**
+- 3D Benchy (test print)
+- Calibration cube
+- Simple objects without supports
 
-**Woche 2-3:**
-- Kleine praktische Drucke
-- Erste Drucke mit minimalen Supports
-- Maximum 3-4 Stunden Druckzeit
+**Week 2-3:**
+- Small practical prints
+- First prints with minimal supports
+- Maximum 3-4 hours print time
 
-**Danach:**
-- Langsam steigern
-- Komplexität mit Erfahrung aufbauen
+**After that:**
+- Gradually increase complexity
+- Build experience over time
 
-### Pro-Tipp
+### Pro Tip
 
-Jeder "gescheiterte" kurze Druck ist ein Lernmoment. Besser 10 Minuten verloren als 10 Stunden.
+Every "failed" short print is a learning moment. Better to lose 10 minutes than 10 hours.
 
-## Fehler 4: Billiges Filament kaufen
+## Mistake 4: Buying Cheap Filament
 
-"Filament ist Filament" - dieser Irrglaube kostet viele Anfänger Nerven und am Ende mehr Geld.
+"Filament is filament" - this misconception costs many beginners nerves and ultimately more money.
 
-### Das Problem
+### The Problem
 
-- Verstopfte Düsen
-- Inkonsistente Drucke
-- Seltsame Oberflächen
-- Häufige Fehldrucke
+- Clogged nozzles
+- Inconsistent prints
+- Strange surfaces
+- Frequent failed prints
 
-### Warum billiges Filament problematisch ist
+### Why Cheap Filament Is Problematic
 
-- **Inkonsistenter Durchmesser:** Schwankt zwischen 1.70-1.80mm statt konstantem 1.75mm
-- **Verunreinigungen:** Partikel verstopfen die Düse
-- **Schlechte Wicklung:** Verheddern und Knoten
-- **Feuchtigkeitsprobleme:** Schlecht verpackt ab Werk
+- **Inconsistent diameter:** Varies between 1.70-1.80mm instead of constant 1.75mm
+- **Contamination:** Particles clog the nozzle
+- **Poor winding:** Tangles and knots
+- **Moisture problems:** Poorly packaged from the factory
 
-### Die Lösung
+### The Solution
 
-Investiere in Qualitätsfilament:
-- **Bambu Lab** - Hervorragende Qualität
-- **Prusament** - Premium-Standard
-- **eSun** - Gutes Preis-Leistungs-Verhältnis
-- **Polymaker** - Konsistent und zuverlässig
+Invest in quality filament:
+- **Bambu Lab** - Excellent quality
+- **Prusament** - Premium standard
+- **eSun** - Good value for money
+- **Polymaker** - Consistent and reliable
 
-**Richtwert:** 18-25€/kg für PLA ist fair. Unter 15€ wird's riskant.
+**Guideline:** $18-25/kg for PLA is fair. Below $15 gets risky.
 
-## Fehler 5: Falsche Drucktemperatur
+## Mistake 5: Wrong Print Temperature
 
-Jedes Filament hat einen optimalen Temperaturbereich. Die Standardeinstellung im Slicer ist oft nur ein Ausgangspunkt.
+Every filament has an optimal temperature range. The default setting in the slicer is often just a starting point.
 
-### Das Problem
+### The Problem
 
-- **Zu heiß:** Stringing, unsaubere Details, Überhänge sacken durch
-- **Zu kalt:** Schlechte Schichthaftung, Unterextrusion, schwache Drucke
+- **Too hot:** Stringing, messy details, overhangs sag
+- **Too cold:** Poor layer adhesion, under-extrusion, weak prints
 
-### Die Lösung
+### The Solution
 
-1. **Drucke einen Temperature Tower** mit deinem neuen Filament
-2. **Starte im mittleren Bereich** der Herstellerempfehlung
-3. **Passe in 5°C-Schritten an**
+1. **Print a temperature tower** with your new filament
+2. **Start in the middle** of the manufacturer's recommendation
+3. **Adjust in 5°C increments**
 
-**Typische Temperaturen:**
-- PLA: 200-220°C (optimal meist 210°C)
-- PETG: 230-250°C (optimal meist 240°C)
+**Typical temperatures:**
+- PLA: 200-220°C (optimal usually 210°C)
+- PETG: 230-250°C (optimal usually 240°C)
 - TPU: 220-240°C
 
-### Pro-Tipp
+### Pro Tip
 
-Notiere die optimale Temperatur für jede Filamentrolle direkt auf der Spule.
+Write the optimal temperature directly on each filament spool.
 
-## Fehler 6: Retraction ignorieren
+## Mistake 6: Ignoring Retraction
 
-Retraction zieht das Filament zurück während der Druckkopf sich bewegt. Falsche Einstellungen = Stringing-Alptraum.
+Retraction pulls the filament back while the print head moves. Wrong settings = stringing nightmare.
 
-### Das Problem
+### The Problem
 
-- Dünne Fäden zwischen allen Teilen
-- "Haarige" Drucke
-- Nacharbeit bei jedem Druck nötig
+- Thin threads between all parts
+- "Hairy" prints
+- Post-processing needed on every print
 
-### Die Lösung
+### The Solution
 
-**Für Bowden-Extruder (Ender 3 etc.):**
+**For Bowden extruders (Ender 3 etc.):**
 - Retraction Distance: 5-7mm
 - Retraction Speed: 40-60mm/s
 
-**Für Direct Drive (Bambu, moderne Drucker):**
+**For Direct Drive (Bambu, modern printers):**
 - Retraction Distance: 1-3mm
 - Retraction Speed: 30-50mm/s
 
-### Zusätzliche Tipps gegen Stringing
+### Additional Tips Against Stringing
 
-- Temperatur um 5-10°C senken
-- Reisegeschwindigkeit erhöhen
-- "Combing" im Slicer aktivieren
-- Trockenes Filament verwenden
+- Lower temperature by 5-10°C
+- Increase travel speed
+- Enable "combing" in slicer
+- Use dry filament
 
-## Fehler 7: Feuchtes Filament verwenden
+## Mistake 7: Using Wet Filament
 
-Filament ist hygroskopisch - es zieht Feuchtigkeit aus der Luft. Besonders PETG, Nylon und TPU sind empfindlich.
+Filament is hygroscopic - it absorbs moisture from the air. PETG, nylon, and TPU are especially sensitive.
 
-### Die Symptome
+### The Symptoms
 
-- Knistern und Zischen beim Drucken
-- Blasen und Löcher in der Oberfläche
-- Schlechte Schichthaftung
-- Spröde Drucke
+- Crackling and hissing while printing
+- Bubbles and holes in the surface
+- Poor layer adhesion
+- Brittle prints
 
-### Die Lösung
+### The Solution
 
-**Filament richtig lagern:**
-- In luftdichten Boxen mit Silica-Gel
-- Originalverpackung schnell verbrauchen
-- Vakuumbeutel für längere Lagerung
+**Store filament properly:**
+- In airtight boxes with silica gel
+- Use original packaging quickly
+- Vacuum bags for long-term storage
 
-**Feuchtes Filament trocknen:**
-- Filamenttrockner (beste Option)
-- Backofen bei 50°C für 4-6 Stunden (Vorsicht!)
-- Dörrautomaten funktionieren auch
+**Dry wet filament:**
+- Filament dryer (best option)
+- Oven at 50°C for 4-6 hours (careful!)
+- Food dehydrators work too
 
-### Pro-Tipp
+### Pro Tip
 
-Investiere 30€ in eine Trockenbox. Es spart langfristig viel Frust und Filament.
+Invest $30 in a dry box. It saves a lot of frustration and filament long-term.
 
-## Fehler 8: Drucke nicht überwachen
+## Mistake 8: Not Monitoring Prints
 
-"Druck läuft, ich gehe mal einkaufen" - was kann schon schiefgehen? Spoiler: Viel.
+"Print's running, I'll go shopping" - what could go wrong? Spoiler: A lot.
 
-### Das Problem
+### The Problem
 
-- Spaghetti-Monster (Druck löst sich, Drucker druckt in die Luft)
-- Verstopfte Düse druckt stundenlang nichts
-- Fehlgeschlagene Drucke verschwenden Zeit und Material
-- Im schlimmsten Fall: Brandgefahr
+- Spaghetti monsters (print detaches, printer prints into air)
+- Clogged nozzle prints nothing for hours
+- Failed prints waste time and material
+- Worst case: Fire hazard
 
-### Die Lösung
+### The Solution
 
-1. **Erste Schicht immer beobachten** - 90% der Probleme zeigen sich hier
-2. **Webcam einrichten** für Remote-Überwachung
-3. **OctoPrint/Bambu App** für Fernzugriff und Stopp-Funktion
-4. **Spaghetti-Detection** aktivieren wo verfügbar
+1. **Always watch the first layer** - 90% of problems show here
+2. **Set up a webcam** for remote monitoring
+3. **OctoPrint/Bambu App** for remote access and stop function
+4. **Enable spaghetti detection** where available
 
-### Wann kannst du den Drucker alleine lassen?
+### When Can You Leave the Printer Alone?
 
-- Erste Schicht ist perfekt
-- Die ersten 30-60 Minuten liefen problemlos
-- Kamera ist eingerichtet
-- Rauchmelder in der Nähe
+- First layer is perfect
+- First 30-60 minutes ran smoothly
+- Camera is set up
+- Smoke detector nearby
 
-## Fehler 9: Standardeinstellungen nie anpassen
+## Mistake 9: Never Adjusting Default Settings
 
-Die Slicer-Standardeinstellungen sind ein Kompromiss. Für optimale Ergebnisse musst du anpassen.
+Slicer default settings are a compromise. For optimal results, you need to customize.
 
-### Das Problem
+### The Problem
 
-- Generische Settings passen nicht zu deinem Drucker
-- Verpasste Qualitätsverbesserungen
-- Längere Druckzeiten als nötig
+- Generic settings don't fit your printer
+- Missed quality improvements
+- Longer print times than necessary
 
-### Wichtige Einstellungen für Anfänger
+### Important Settings for Beginners
 
-**Schichthöhe:**
-- 0.2mm: Standard, guter Kompromiss
-- 0.12mm: Feine Details, langsamer
-- 0.28mm: Schnell, weniger detailliert
+**Layer height:**
+- 0.2mm: Standard, good compromise
+- 0.12mm: Fine details, slower
+- 0.28mm: Fast, less detailed
 
 **Infill:**
-- 15-20%: Normale Objekte
-- 30-50%: Funktionale Teile
-- 100%: Nur bei mechanischer Belastung
+- 15-20%: Normal objects
+- 30-50%: Functional parts
+- 100%: Only for mechanical stress
 
-**Druckgeschwindigkeit:**
-- Anfangs: 70-80% der Standardgeschwindigkeit
-- Steigern mit Erfahrung
+**Print speed:**
+- Initially: 70-80% of default speed
+- Increase with experience
 
-### Die Lösung
+### The Solution
 
-1. **Erstelle Drucker-Profile** im Slicer
-2. **Dokumentiere was funktioniert**
-3. **Ändere eine Einstellung pro Test** - nicht alles gleichzeitig
+1. **Create printer profiles** in the slicer
+2. **Document what works**
+3. **Change one setting per test** - not everything at once
 
-## Fehler 10: Bei Problemen aufgeben
+## Mistake 10: Giving Up When Problems Arise
 
-3D Druck hat eine Lernkurve. Die ersten Wochen können frustrierend sein - aber es wird besser!
+3D printing has a learning curve. The first weeks can be frustrating - but it gets better!
 
-### Das Problem
+### The Problem
 
-- Drucker landet in der Ecke nach ersten Fehldrucken
-- Hobby wird aufgegeben bevor es richtig losgeht
-- Potenzial bleibt ungenutzt
+- Printer ends up in the corner after first failed prints
+- Hobby abandoned before it really starts
+- Potential remains unused
 
-### Die Realität
+### The Reality
 
-- **Woche 1-2:** Viele Probleme, steile Lernkurve
-- **Woche 3-4:** Die meisten Basics sitzen
-- **Monat 2-3:** 80% der Drucke gelingen
-- **Nach 6 Monaten:** Du hilfst anderen bei Problemen
+- **Week 1-2:** Many problems, steep learning curve
+- **Week 3-4:** Most basics are solid
+- **Month 2-3:** 80% of prints succeed
+- **After 6 months:** You're helping others with their problems
 
-### Ressourcen die helfen
+### Resources That Help
 
-**Bei Problemen:**
+**For problems:**
 - Reddit: r/3Dprinting, r/FixMyPrint
-- Discord: Server deines Druckerherstellers
+- Discord: Your printer manufacturer's server
 - YouTube: Teaching Tech Calibration Guide
 
-**Zum Lernen:**
+**For learning:**
 - YouTube: Makers Muse, Teaching Tech
-- PrintWiki für Problemlösungen
-- Slicer-Dokumentation
+- PrintWiki for troubleshooting
+- Slicer documentation
 
-### Pro-Tipp
+### Pro Tip
 
-Mach Fotos von gescheiterten Drucken. In 3 Monaten wirst du darüber lachen - und anderen zeigen können, wie weit du gekommen bist.
+Take photos of failed prints. In 3 months you'll laugh about them - and can show others how far you've come.
 
-## Bonus: Schnelle Troubleshooting-Checkliste
+## Bonus: Quick Troubleshooting Checklist
 
-### Druck haftet nicht
-1. Bett mit IPA reinigen
-2. Leveling prüfen
-3. Betttemperatur erhöhen
-4. Erste Schicht langsamer drucken
+### Print Won't Stick
+1. Clean bed with IPA
+2. Check leveling
+3. Increase bed temperature
+4. Print first layer slower
 
 ### Stringing
-1. Retraction erhöhen
-2. Temperatur senken
-3. Filament trocknen
-4. Reisegeschwindigkeit erhöhen
+1. Increase retraction
+2. Lower temperature
+3. Dry filament
+4. Increase travel speed
 
-### Schlechte Oberfläche
-1. Temperatur anpassen
-2. Druckgeschwindigkeit reduzieren
-3. Filament prüfen (feucht?)
-4. Kühlung prüfen
+### Bad Surface
+1. Adjust temperature
+2. Reduce print speed
+3. Check filament (wet?)
+4. Check cooling
 
 ### Warping
-1. Betttemperatur erhöhen
-2. Enclosure verwenden
-3. Brim aktivieren
-4. Zugluft vermeiden
+1. Increase bed temperature
+2. Use enclosure
+3. Enable brim
+4. Avoid drafts
 
-## Fazit: Fehler gehören dazu
+## Conclusion: Mistakes Are Part of the Process
 
-Jeder erfolgreiche Maker hat diese Fehler gemacht. Der Unterschied ist: Sie haben daraus gelernt und weitergemacht.
+Every successful maker has made these mistakes. The difference is: They learned from them and kept going.
 
-Mit diesem Guide kannst du die häufigsten 3D Druck Anfängerfehler von Anfang an vermeiden - oder zumindest schnell beheben. In wenigen Wochen wirst du Drucke produzieren, die heute noch unmöglich erscheinen.
+With this guide, you can avoid the most common 3D printing beginner mistakes from the start - or at least fix them quickly. In a few weeks, you'll produce prints that seem impossible today.
 
-Der wichtigste Tipp: Hab Geduld mit dir selbst. 3D Druck ist ein Skill, der mit Übung besser wird.
+The most important tip: Be patient with yourself. 3D printing is a skill that improves with practice.
 
 ---
 
-*Bereit für den Start? Lies unseren [kompletten 3D Druck Anfänger Guide](/3d-printing-beginners-guide/) oder finde heraus [was du als erstes drucken solltest](/what-to-3d-print-first/).*
+*Ready to start? Read our [complete 3D Printing Beginner Guide](/3d-printing-beginners-guide/) or find out [what you should print first](/what-to-3d-print-first/).*

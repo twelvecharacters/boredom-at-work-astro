@@ -1,315 +1,315 @@
 ---
-title: "Was soll ich als erstes 3D drucken? 25 Anfänger-Projekte"
-description: "Dein erster 3D Druck steht an? Hier sind 25 perfekte Anfänger-Projekte vom Testdruck bis zu praktischen Objekten - sortiert nach Schwierigkeit."
+title: "What Should I 3D Print First? 25 Beginner Projects"
+description: "Your first 3D print is coming up? Here are 25 perfect beginner projects from test prints to practical objects - sorted by difficulty level."
 publishDate: 2026-01-13
 author: "bored chap"
 image: "/images/first-3d-prints.jpg"
-tags: ["3D Printing", "Anfänger", "Projekte", "Ideen", "Printables"]
-draft: true
+tags: ["3D Printing", "Beginners", "Projects", "Ideas", "Printables"]
+draft: false
 faq:
-  - question: "Was ist der beste erste 3D Druck für Anfänger?"
-    answer: "Der 3D Benchy ist der perfekte erste Druck. Er testet alle wichtigen Funktionen deines Druckers in nur 1-2 Stunden und hilft dir, Probleme zu erkennen."
-  - question: "Wo finde ich kostenlose 3D Modelle zum Drucken?"
-    answer: "Die besten kostenlosen Quellen sind Printables.com (beste Qualität), Thingiverse.com (größte Auswahl) und MyMiniFactory.com. Alle Modelle in diesem Artikel sind kostenlos verfügbar."
-  - question: "Wie lange dauert ein erster 3D Druck?"
-    answer: "Ein 3D Benchy dauert je nach Drucker 1-3 Stunden. Kleine praktische Objekte wie Kabelclips dauern 15-30 Minuten. Plane für deine ersten Drucke 1-2 Stunden ein."
-  - question: "Brauche ich für jeden 3D Druck Support-Strukturen?"
-    answer: "Nein. Viele anfängerfreundliche Modelle sind so designt, dass sie ohne Supports druckbar sind. Die Modelle in diesem Artikel brauchen größtenteils keine Supports."
-  - question: "Wie viel Filament verbraucht ein Anfänger-Druck?"
-    answer: "Ein 3D Benchy verbraucht etwa 15g Filament (ca. 0.30€). Die meisten Anfänger-Projekte in diesem Artikel verbrauchen unter 50g (ca. 1€). Ein 1kg-Spule reicht für dutzende Projekte."
+  - question: "What is the best first 3D print for beginners?"
+    answer: "The 3D Benchy is the perfect first print. It tests all important functions of your printer in just 1-2 hours and helps you identify problems."
+  - question: "Where can I find free 3D models to print?"
+    answer: "The best free sources are Printables.com (best quality), Thingiverse.com (largest selection), and MyMiniFactory.com. All models in this article are available for free."
+  - question: "How long does a first 3D print take?"
+    answer: "A 3D Benchy takes 1-3 hours depending on your printer. Small practical objects like cable clips take 15-30 minutes. Plan 1-2 hours for your first prints."
+  - question: "Do I need support structures for every 3D print?"
+    answer: "No. Many beginner-friendly models are designed to print without supports. Most models in this article don't need supports."
+  - question: "How much filament does a beginner print use?"
+    answer: "A 3D Benchy uses about 15g of filament (~$0.30). Most beginner projects in this article use under 50g (~$1). A 1kg spool lasts for dozens of projects."
 ---
 
-Du hast deinen ersten 3D Drucker aufgebaut und fragst dich: Was soll ich als erstes 3D drucken? Diese Frage stellen sich alle 3D Druck Anfänger - und die Antwort ist entscheidend für deinen Erfolg.
+You've set up your first 3D printer and you're wondering: What should I 3D print first? Every 3D printing beginner asks this question - and the answer is crucial for your success.
 
-Die falschen ersten Projekte führen zu Frustration und Materialverschwendung. Die richtigen Projekte lehren dich die Grundlagen, testen deinen Drucker und liefern nützliche Ergebnisse.
+The wrong first projects lead to frustration and wasted material. The right projects teach you the basics, test your printer, and deliver useful results.
 
-Hier sind 25 perfekte erste 3D Drucke, sortiert nach Schwierigkeit - vom ersten Testdruck bis zu beeindruckenden Projekten.
+Here are 25 perfect first 3D prints, sorted by difficulty - from your first test print to impressive projects.
 
-## Level 1: Testdrucke (Starte hier!)
+## Level 1: Test Prints (Start Here!)
 
-Bevor du kreativ wirst, solltest du deinen Drucker kalibrieren und testen. Diese Drucke helfen dir dabei.
+Before you get creative, you should calibrate and test your printer. These prints help you do that.
 
-### 1. 3D Benchy - Der ultimative Testdruck
+### 1. 3D Benchy - The Ultimate Test Print
 
-**Druckzeit:** 1-2 Stunden | **Filament:** ~15g | **Schwierigkeit:** Einfach
+**Print time:** 1-2 hours | **Filament:** ~15g | **Difficulty:** Easy
 
-Der 3D Benchy ist DAS Standardtestmodell der Community. Das kleine Schiffchen testet:
-- Überhänge und Bridges
-- Detailgenauigkeit
-- Stringing-Verhalten
-- Dimensionsgenauigkeit
+The 3D Benchy is THE standard test model of the community. The little boat tests:
+- Overhangs and bridges
+- Detail accuracy
+- Stringing behavior
+- Dimensional accuracy
 
 **Download:** [Printables - 3D Benchy](https://www.printables.com/model/3161-3d-benchy)
 
-**Tipp:** Vergleiche deinen Benchy mit Referenzbildern online um Probleme zu identifizieren.
+**Tip:** Compare your Benchy with reference images online to identify problems.
 
 ### 2. Calibration Cube (XYZ Cube)
 
-**Druckzeit:** 30 Minuten | **Filament:** ~5g | **Schwierigkeit:** Sehr einfach
+**Print time:** 30 minutes | **Filament:** ~5g | **Difficulty:** Very easy
 
-Ein 20x20x20mm Würfel zum Überprüfen der Dimensionsgenauigkeit. Miss ihn mit einem Messschieber - er sollte exakt 20mm in jeder Richtung sein.
+A 20x20x20mm cube to check dimensional accuracy. Measure it with calipers - it should be exactly 20mm in each direction.
 
 **Download:** [Printables - XYZ Calibration Cube](https://www.printables.com/model/118573-xyz-20mm-calibration-cube)
 
 ### 3. Temperature Tower
 
-**Druckzeit:** 1-2 Stunden | **Filament:** ~30g | **Schwierigkeit:** Mittel
+**Print time:** 1-2 hours | **Filament:** ~30g | **Difficulty:** Medium
 
-Druckt verschiedene Temperatursegmente übereinander. Hilft dir, die optimale Drucktemperatur für dein Filament zu finden.
+Prints different temperature segments stacked on top of each other. Helps you find the optimal print temperature for your filament.
 
 **Download:** [Printables - Temperature Tower](https://www.printables.com/model/153067-temperature-tower)
 
-## Level 2: Einfache praktische Drucke
+## Level 2: Simple Practical Prints
 
-Jetzt wird's praktisch! Diese Objekte sind einfach zu drucken und sofort nützlich.
+Now it gets practical! These objects are easy to print and immediately useful.
 
-### 4. Kabelclips und Kabelhalter
+### 4. Cable Clips and Cable Holders
 
-**Druckzeit:** 15-30 Minuten | **Filament:** ~5g | **Schwierigkeit:** Sehr einfach
+**Print time:** 15-30 minutes | **Filament:** ~5g | **Difficulty:** Very easy
 
-Bringe Ordnung auf deinen Schreibtisch mit selbstgedruckten Kabelhaltern. Perfekt als erstes "echtes" Projekt nach den Testdrucken.
+Bring order to your desk with self-printed cable holders. Perfect as your first "real" project after test prints.
 
 **Download:** [Printables - Cable Clips Collection](https://www.printables.com/model/13771-cable-clip)
 
-### 5. Handyhalter / Phone Stand
+### 5. Phone Stand
 
-**Druckzeit:** 1-2 Stunden | **Filament:** ~30g | **Schwierigkeit:** Einfach
+**Print time:** 1-2 hours | **Filament:** ~30g | **Difficulty:** Easy
 
-Ein praktischer Handyständer für Schreibtisch oder Nachttisch. Funktional und zeigt, was 3D Druck kann.
+A practical phone stand for your desk or nightstand. Functional and shows what 3D printing can do.
 
 **Download:** [Printables - Phone Stand](https://www.printables.com/model/24755-phone-stand)
 
-### 6. Einkaufswagenchip
+### 6. Shopping Cart Token
 
-**Druckzeit:** 20 Minuten | **Filament:** ~5g | **Schwierigkeit:** Sehr einfach
+**Print time:** 20 minutes | **Filament:** ~5g | **Difficulty:** Very easy
 
-Nie wieder nach Münzen suchen! Der Einkaufswagenchip ist klein, schnell und extrem praktisch.
+Never search for coins again! The shopping cart token is small, quick, and extremely practical.
 
 **Download:** [Printables - Shopping Cart Token](https://www.printables.com/model/9196-shopping-cart-coin)
 
-### 7. Kopfhörerhalter
+### 7. Headphone Holder
 
-**Druckzeit:** 2-3 Stunden | **Filament:** ~50g | **Schwierigkeit:** Einfach
+**Print time:** 2-3 hours | **Filament:** ~50g | **Difficulty:** Easy
 
-Hänge deine Kopfhörer ordentlich an Schreibtisch oder Regal. Ein schönes Funktionsobjekt.
+Hang your headphones neatly on your desk or shelf. A nice functional object.
 
 **Download:** [Printables - Headphone Stand](https://www.printables.com/model/14996-headphone-stand)
 
-### 8. Schlüsselbrett / Key Holder
+### 8. Key Holder
 
-**Druckzeit:** 1-2 Stunden | **Filament:** ~40g | **Schwierigkeit:** Einfach
+**Print time:** 1-2 hours | **Filament:** ~40g | **Difficulty:** Easy
 
-Ein praktisches Schlüsselbrett für den Eingangsbereich. Kann an die Wand geschraubt werden.
+A practical key holder for your entryway. Can be screwed to the wall.
 
 **Download:** [Printables - Key Holder](https://www.printables.com/model/3574-key-holder)
 
-## Level 3: Haushaltsgegenstände
+## Level 3: Household Items
 
-Diese Drucke zeigen den praktischen Nutzen von 3D Druck im Alltag.
+These prints show the practical value of 3D printing in everyday life.
 
-### 9. Seifenschale
+### 9. Soap Dish
 
-**Druckzeit:** 2-3 Stunden | **Filament:** ~40g | **Schwierigkeit:** Einfach
+**Print time:** 2-3 hours | **Filament:** ~40g | **Difficulty:** Easy
 
-Eine Seifenschale mit Ablauf. Drucke sie in PETG für bessere Wasserbeständigkeit.
+A soap dish with drainage. Print it in PETG for better water resistance.
 
 **Download:** [Printables - Soap Dish](https://www.printables.com/model/142-soap-dish)
 
-### 10. Zahnbürstenhalter
+### 10. Toothbrush Holder
 
-**Druckzeit:** 1-2 Stunden | **Filament:** ~30g | **Schwierigkeit:** Einfach
+**Print time:** 1-2 hours | **Filament:** ~30g | **Difficulty:** Easy
 
-Praktischer Halter für elektrische oder normale Zahnbürsten.
+Practical holder for electric or regular toothbrushes.
 
 **Download:** [Printables - Toothbrush Holder](https://www.printables.com/model/7829-toothbrush-holder)
 
-### 11. Pflanztopf mit Drainage
+### 11. Plant Pot with Drainage
 
-**Druckzeit:** 3-4 Stunden | **Filament:** ~60g | **Schwierigkeit:** Mittel
+**Print time:** 3-4 hours | **Filament:** ~60g | **Difficulty:** Medium
 
-Kleine Pflanztöpfe für Sukkulenten oder Kräuter. Mit integrierter Drainage und Untersatz.
+Small plant pots for succulents or herbs. With integrated drainage and saucer.
 
 **Download:** [Printables - Plant Pot](https://www.printables.com/model/13489-plant-pot)
 
-### 12. Gewürzdosen-Organizer
+### 12. Spice Rack Organizer
 
-**Druckzeit:** 2-3 Stunden | **Filament:** ~50g | **Schwierigkeit:** Mittel
+**Print time:** 2-3 hours | **Filament:** ~50g | **Difficulty:** Medium
 
-Bringt Ordnung ins Gewürzregal. Stapelbar und beschriftbar.
+Brings order to your spice shelf. Stackable and labelable.
 
 **Download:** [Printables - Spice Rack](https://www.printables.com/model/87-spice-rack)
 
-## Level 4: Schreibtisch-Accessoires
+## Level 4: Desk Accessories
 
-Pimpe deinen Arbeitsplatz mit selbstgedruckten Accessoires.
+Upgrade your workspace with self-printed accessories.
 
-### 13. Stiftehalter
+### 13. Pen Holder
 
-**Druckzeit:** 2-3 Stunden | **Filament:** ~50g | **Schwierigkeit:** Einfach
+**Print time:** 2-3 hours | **Filament:** ~50g | **Difficulty:** Easy
 
-Ein klassischer Stiftehalter in verschiedenen Designs. Funktional und dekorativ.
+A classic pen holder in various designs. Functional and decorative.
 
 **Download:** [Printables - Pen Holder](https://www.printables.com/model/126-pen-holder)
 
-### 14. SD-Karten-Halter
+### 14. SD Card Holder
 
-**Druckzeit:** 1-2 Stunden | **Filament:** ~30g | **Schwierigkeit:** Einfach
+**Print time:** 1-2 hours | **Filament:** ~30g | **Difficulty:** Easy
 
-Perfekt für Fotografen und Maker - hält deine SD-Karten organisiert.
+Perfect for photographers and makers - keeps your SD cards organized.
 
 **Download:** [Printables - SD Card Holder](https://www.printables.com/model/2547-sd-card-holder)
 
-### 15. Laptop-Ständer
+### 15. Laptop Stand
 
-**Druckzeit:** 4-6 Stunden | **Filament:** ~100g | **Schwierigkeit:** Mittel
+**Print time:** 4-6 hours | **Filament:** ~100g | **Difficulty:** Medium
 
-Ergonomischer Laptop-Ständer für bessere Haltung am Schreibtisch.
+Ergonomic laptop stand for better posture at your desk.
 
 **Download:** [Printables - Laptop Stand](https://www.printables.com/model/5284-laptop-stand)
 
-### 16. Kabelmanagement-Box
+### 16. Cable Management Box
 
-**Druckzeit:** 3-4 Stunden | **Filament:** ~80g | **Schwierigkeit:** Mittel
+**Print time:** 3-4 hours | **Filament:** ~80g | **Difficulty:** Medium
 
-Verstecke das Kabelchaos unter deinem Schreibtisch.
+Hide the cable chaos under your desk.
 
 **Download:** [Printables - Cable Box](https://www.printables.com/model/14872-cable-management-box)
 
-## Level 5: Kreative Projekte
+## Level 5: Creative Projects
 
-Jetzt kannst du kreativ werden! Diese Projekte beeindrucken Freunde und Familie.
+Now you can get creative! These projects will impress friends and family.
 
-### 17. Lithophane (Foto als 3D Druck)
+### 17. Lithophane (Photo as 3D Print)
 
-**Druckzeit:** 2-4 Stunden | **Filament:** ~30g | **Schwierigkeit:** Mittel
+**Print time:** 2-4 hours | **Filament:** ~30g | **Difficulty:** Medium
 
-Verwandle ein Foto in ein 3D-gedrucktes Bild, das bei Hinterleuchtung das Motiv zeigt. Ein beeindruckendes Geschenk!
+Turn a photo into a 3D printed image that reveals the subject when backlit. An impressive gift!
 
 **Tools:** [Lithophane Maker](https://lithophanemaker.com)
 
-**Tipp:** Drucke vertikal in weißem PLA mit 100% Infill.
+**Tip:** Print vertically in white PLA with 100% infill.
 
 ### 18. Vase Mode Vase
 
-**Druckzeit:** 1-2 Stunden | **Filament:** ~50g | **Schwierigkeit:** Einfach
+**Print time:** 1-2 hours | **Filament:** ~50g | **Difficulty:** Easy
 
-Der "Vase Mode" druckt kontinuierlich in einer Spirale. Das Ergebnis ist eine glatte, wasserdichte Vase.
+"Vase mode" prints continuously in a spiral. The result is a smooth, watertight vase.
 
 **Download:** [Printables - Spiral Vase](https://www.printables.com/model/156-spiral-vase)
 
-### 19. Flexi-Tiere (Print-in-Place)
+### 19. Flexi Animals (Print-in-Place)
 
-**Druckzeit:** 1-2 Stunden | **Filament:** ~30g | **Schwierigkeit:** Mittel
+**Print time:** 1-2 hours | **Filament:** ~30g | **Difficulty:** Medium
 
-Flexible Tiere die direkt beweglich aus dem Drucker kommen. Perfekt als Geschenk.
+Flexible animals that come out of the printer already articulated. Perfect as gifts.
 
 **Download:** [Printables - Flexi Rex](https://www.printables.com/model/139)
 
 ### 20. Fidget Toys
 
-**Druckzeit:** 1-3 Stunden | **Filament:** ~30g | **Schwierigkeit:** Mittel
+**Print time:** 1-3 hours | **Filament:** ~30g | **Difficulty:** Medium
 
-Spinner, Cubes und andere Fidget Toys. Perfekt für Meetings und Wartezeiten.
+Spinners, cubes, and other fidget toys. Perfect for meetings and waiting times.
 
 **Download:** [Printables - Fidget Collection](https://www.printables.com/model/9432-fidget-cube)
 
-## Level 6: Fortgeschrittene Projekte
+## Level 6: Advanced Projects
 
-Du hast schon einige erfolgreiche Drucke hinter dir? Dann probiere diese anspruchsvolleren Projekte.
+You've got some successful prints under your belt? Then try these more challenging projects.
 
 ### 21. Gridfinity System
 
-**Druckzeit:** Variabel | **Filament:** Variabel | **Schwierigkeit:** Mittel
+**Print time:** Variable | **Filament:** Variable | **Difficulty:** Medium
 
-Das modulare Organisationssystem für Werkstatt und Schreibtisch. Einmal angefangen, druckst du unendlich viele Module.
+The modular organization system for workshop and desk. Once started, you'll print endless modules.
 
 **Download:** [Printables - Gridfinity](https://www.printables.com/model/174715-gridfinity-basic)
 
-### 22. Ersatzteile drucken
+### 22. Print Replacement Parts
 
-**Druckzeit:** Variabel | **Schwierigkeit:** Mittel-Schwer
+**Print time:** Variable | **Difficulty:** Medium-Hard
 
-Kaputte Plastikteile messen, in TinkerCAD nachbauen und drucken. DAS ist der echte Mehrwert von 3D Druck.
+Measure broken plastic parts, recreate them in TinkerCAD, and print. THIS is the real value of 3D printing.
 
-**Tools:** [TinkerCAD](https://www.tinkercad.com) (kostenlos)
+**Tools:** [TinkerCAD](https://www.tinkercad.com) (free)
 
-### 23. Messerblock
+### 23. Knife Block
 
-**Druckzeit:** 6-10 Stunden | **Filament:** ~150g | **Schwierigkeit:** Mittel
+**Print time:** 6-10 hours | **Filament:** ~150g | **Difficulty:** Medium
 
-Ein custom Messerblock passend zu deinen Küchenmessern.
+A custom knife block matching your kitchen knives.
 
 **Download:** [Printables - Knife Block](https://www.printables.com/model/45978-knife-block)
 
-### 24. Lampen und Beleuchtung
+### 24. Lamps and Lighting
 
-**Druckzeit:** 4-8 Stunden | **Filament:** ~100g | **Schwierigkeit:** Mittel-Schwer
+**Print time:** 4-8 hours | **Filament:** ~100g | **Difficulty:** Medium-Hard
 
-Von Lampenschirmen bis zu LED-Gehäusen - Beleuchtungsprojekte sehen beeindruckend aus.
+From lampshades to LED housings - lighting projects look impressive.
 
 **Download:** [Printables - Lamps Collection](https://www.printables.com/model/19876-moon-lamp)
 
-### 25. Spielzeug und Puzzles
+### 25. Toys and Puzzles
 
-**Druckzeit:** Variabel | **Schwierigkeit:** Mittel
+**Print time:** Variable | **Difficulty:** Medium
 
-Von Bausteinen bis zu Puzzlwürfeln - perfekt für Kinder oder als Geschenk.
+From building blocks to puzzle cubes - perfect for kids or as gifts.
 
 **Download:** [Printables - Toys Collection](https://www.printables.com/model/15934-puzzle-cube)
 
-## Wo finde ich mehr 3D Modelle?
+## Where Can I Find More 3D Models?
 
-Diese Plattformen bieten Millionen kostenloser Modelle für deinen nächsten 3D Druck:
+These platforms offer millions of free models for your next 3D print:
 
-### Top 3 Plattformen für Anfänger
+### Top 3 Platforms for Beginners
 
-1. **Printables.com** - Beste Qualität, von Prusa kuratiert
-2. **Thingiverse.com** - Größte Auswahl, klassischer Marktplatz
-3. **MyMiniFactory.com** - Hochwertige, getestete Designs
+1. **Printables.com** - Best quality, curated by Prusa
+2. **Thingiverse.com** - Largest selection, classic marketplace
+3. **MyMiniFactory.com** - High-quality, tested designs
 
-### Spezialisierte Plattformen
+### Specialized Platforms
 
-- **Cults3D.com** - Mix aus kostenlos und bezahlt
-- **YouMagine.com** - Open Source Community
-- **STLFinder.com** - Suchmaschine für alle Plattformen
+- **Cults3D.com** - Mix of free and paid
+- **YouMagine.com** - Open source community
+- **STLFinder.com** - Search engine for all platforms
 
-## Tipps für erfolgreiche erste Drucke
+## Tips for Successful First Prints
 
-### Die richtige Modell-Auswahl
+### Choosing the Right Model
 
-1. **Starte ohne Supports** - Suche nach "no supports needed"
-2. **Kleine Objekte zuerst** - Unter 2 Stunden Druckzeit
-3. **Bewertungen lesen** - Modelle mit vielen Downloads und positiven Bewertungen wählen
+1. **Start without supports** - Search for "no supports needed"
+2. **Small objects first** - Under 2 hours print time
+3. **Read reviews** - Choose models with many downloads and positive ratings
 
-### Slicer-Einstellungen für Anfänger
+### Slicer Settings for Beginners
 
-- **Schichthöhe:** 0.2mm (Standard)
-- **Infill:** 15-20% für die meisten Objekte
-- **Geschwindigkeit:** Anfangs reduzieren (70-80%)
-- **Support:** Nur wenn wirklich nötig
+- **Layer height:** 0.2mm (standard)
+- **Infill:** 15-20% for most objects
+- **Speed:** Reduce initially (70-80%)
+- **Support:** Only when really necessary
 
-### Fehler vermeiden
+### Avoiding Mistakes
 
-- Erste Schicht immer beobachten
-- Druckbett vor jedem Druck reinigen
-- Bei Problemen: Abbrechen und neu starten
+- Always watch the first layer
+- Clean print bed before every print
+- If problems occur: Cancel and restart
 
-## Dein Aktionsplan für die ersten Drucke
+## Your Action Plan for First Prints
 
-1. **Tag 1:** 3D Benchy drucken, analysieren, ggf. kalibrieren
-2. **Tag 2-3:** Calibration Cube und Temperature Tower
-3. **Tag 4-7:** 3-5 praktische Objekte (Kabelclips, Handyhalter, etc.)
-4. **Woche 2:** Größere Projekte und erste kreative Drucke
-5. **Monat 1:** Erstes eigenes Design in TinkerCAD
+1. **Day 1:** Print 3D Benchy, analyze, calibrate if needed
+2. **Day 2-3:** Calibration cube and temperature tower
+3. **Day 4-7:** 3-5 practical objects (cable clips, phone stand, etc.)
+4. **Week 2:** Larger projects and first creative prints
+5. **Month 1:** First custom design in TinkerCAD
 
-## Fazit: Einfach anfangen!
+## Conclusion: Just Start!
 
-Der wichtigste Tipp für deine ersten 3D Drucke: Einfach anfangen. Starte mit dem Benchy, drucke dann praktische Kleinigkeiten und steigere dich langsam.
+The most important tip for your first 3D prints: Just start. Begin with the Benchy, then print practical small items and gradually work your way up.
 
-Jeder fehlgeschlagene Druck ist eine Lernmöglichkeit. Mit jedem Projekt wirst du besser verstehen, wie dein Drucker tickt und welche Einstellungen funktionieren.
+Every failed print is a learning opportunity. With each project, you'll better understand how your printer works and which settings work best.
 
-In einem Monat regelmäßigem Drucken wirst du Projekte meistern, die heute noch unmöglich erscheinen.
+In a month of regular printing, you'll master projects that seem impossible today.
 
 ---
 
-*Hast du Probleme beim Drucken? Schau dir unseren Guide zu den [10 häufigsten 3D Druck Anfängerfehlern](/3d-printing-beginner-mistakes/) an.*
+*Having trouble printing? Check out our guide to the [10 most common 3D printing beginner mistakes](/3d-printing-beginner-mistakes/).*
