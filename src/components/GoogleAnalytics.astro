@@ -1,0 +1,45 @@
+---
+import { SITE } from '../config';
+
+interface Props {
+  id?: string;
+  deferred?: boolean;
+}
+
+const { 
+  id = SITE.googleAnalyticsId, 
+  deferred = true 
+} = Astro.props;
+---
+
+{id && (
+  deferred ? (
+    <script is:inline define:vars={{ id }}>
+      window.addEventListener('load', function() {
+        setTimeout(function() {
+          var script = document.createElement('script');
+          script.src = 'https://www.googletagmanager.com/gtag/js?id=' + id;
+          script.async = true;
+          document.head.appendChild(script);
+
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          window.gtag = gtag;
+          gtag('js', new Date());
+          gtag('config', id);
+        }, 1000); // Wait 1 second to ensure page is fully loaded
+      });
+    </script>
+  ) : (
+    <>
+      <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${id}`}></script>
+      <script is:inline define:vars={{ id }}>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        window.gtag = gtag;
+        gtag('js', new Date());
+        gtag('config', id);
+      </script>
+    </>
+  )
+)}

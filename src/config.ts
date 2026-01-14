@@ -3,6 +3,7 @@ export const SITE = {
   description: "Stuck in a meeting that could have been an email? Don't just stare at the clock. Level up your career with AI skills and certifications during your 9-to-5 downtime.",
   url: 'https://boredom-at-work.com',
   author: 'a bored human',
+  googleAnalyticsId: 'G-82HB5Q4CWM',
 };
 
 export const NAV_ITEMS = [
