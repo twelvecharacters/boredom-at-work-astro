@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Tutorial for Complete Beginners (2026 Guide)"
 description: "Learn how to use ChatGPT effectively with this comprehensive beginner's guide. From basic prompts to advanced techniques, master AI in your work hours."
-publishDate: 2026-01-08
+publishDate: 2026-01-05
 author: "bored chap"
 image: "/images/chatgpt.jpg"
 tags: ["ChatGPT", "AI", "Tutorial", "Beginners"]

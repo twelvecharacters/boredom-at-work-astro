@@ -1,7 +1,7 @@
 ---
 title: "3D Printing for Beginners: The Complete Guide (2026)"
 description: "Learn everything about 3D printing as a beginner. From choosing your first printer to materials and your first successful print - the ultimate starter guide."
-publishDate: 2026-01-13
+publishDate: 2025-12-24
 author: "bored chap"
 image: "/images/3d-printing-beginners.jpg"
 tags: ["3D Printing", "Beginners", "Guide", "FDM", "Tutorial"]

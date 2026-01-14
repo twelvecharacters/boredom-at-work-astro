@@ -1,7 +1,7 @@
 ---
 title: "Best Cameras for Beginners: Complete Guide (2026)"
 description: "Looking for the best camera for beginners? We compare mirrorless vs DSLR, top models from Canon, Nikon, and Sony, and help you find the perfect first camera."
-publishDate: 2026-01-13
+publishDate: 2025-12-31
 author: "bored chap"
 image: "/images/best-cameras-beginners.jpg"
 tags: ["Photography", "Cameras", "Beginners", "Buying Guide"]

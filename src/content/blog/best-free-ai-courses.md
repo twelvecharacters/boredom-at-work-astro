@@ -1,7 +1,7 @@
 ---
 title: "Best Free AI Courses You Can Take at Work (2026)"
 description: "Discover the best free AI courses you can complete during work downtime. From Google AI Essentials to OpenAI Academy, learn AI skills without spending a dime."
-publishDate: 2026-01-05
+publishDate: 2026-01-02
 author: "bored chap"
 image: "/images/best-ai-free-courses.jpg"
 tags: ["AI Courses", "Free Learning", "Career Development"]

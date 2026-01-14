@@ -1,7 +1,7 @@
 ---
 title: "10 Most Common 3D Printing Beginner Mistakes (And How to Avoid Them)"
 description: "Almost every 3D printing beginner makes these mistakes. Learn from others and save yourself frustration, time, and filament with our tips."
-publishDate: 2026-01-13
+publishDate: 2025-12-23
 author: "bored chap"
 image: "/images/3d-printing-mistakes.jpg"
 tags: ["3D Printing", "Beginners", "Tips", "Troubleshooting", "Mistakes"]

@@ -1,7 +1,7 @@
 ---
 title: "Google AI Essentials Review: Is It Worth 10 Hours?"
 description: "An honest review of Google AI Essentials course. Find out if the certificate is worth $49 and whether this course is right for your AI learning journey."
-publishDate: 2026-01-04
+publishDate: 2026-01-08
 author: "bored chap"
 tags: ["Google AI", "Course Review", "AI Certification"]
 image: "/images/google-ai.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "10 Beginner Photography Mistakes Everyone Makes (And How to Fix Them)"
 description: "Avoid the most common beginner photography mistakes that ruin your photos. Learn practical fixes for blurry images, bad composition, and exposure problems."
-publishDate: 2026-01-13
+publishDate: 2025-12-28
 author: "bored chap"
 image: "/images/photography-mistakes.jpg"
 tags: ["Photography", "Beginners", "Tips", "Mistakes", "Tutorial"]

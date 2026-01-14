@@ -1,7 +1,7 @@
 ---
 title: "Best 3D Printers Under $300 (2026 Buying Guide)"
 description: "What's the best 3D printer under $300 for beginners? We compare Bambu Lab A1 Mini, Creality Ender 3 V3, Anycubic Kobra, and more to find the perfect starter printer."
-publishDate: 2026-01-13
+publishDate: 2025-12-29
 author: "bored chap"
 image: "/images/3d-printers-under-300.jpg"
 tags: ["3D Printing", "Buying Guide", "3D Printers", "Comparison", "Budget"]
