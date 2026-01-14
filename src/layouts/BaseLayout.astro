@@ -2,7 +2,6 @@
 import '../styles/app.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import GoogleAnalytics from '../components/GoogleAnalytics.astro';
 import { SITE } from '../config';
 
 interface Props {
@@ -127,6 +126,23 @@ const socialImageURL = new URL(image, Astro.site);
       document.addEventListener('astro:page-load', setupResponsiveTables);
     </script>
 
-    <GoogleAnalytics />
+    <!-- Google Analytics 4 - Deferred loading -->
+    <script>
+      // Load GA after page is interactive
+      window.addEventListener('load', function() {
+        setTimeout(function() {
+          var script = document.createElement('script');
+          script.src = 'https://www.googletagmanager.com/gtag/js?id=GT-PL3RVFQX';
+          script.async = true;
+          document.head.appendChild(script);
+
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          window.gtag = gtag;
+          gtag('js', new Date());
+          gtag('config', 'GT-PL3RVFQX');
+        }, 100);
+      });
+    </script>
   </body>
 </html>
