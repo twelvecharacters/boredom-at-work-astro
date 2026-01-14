@@ -1,7 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import OptimizedImage from '../components/OptimizedImage.astro';
+import Hero from '../components/Hero.astro';
+import CategoryCard from '../components/CategoryCard.astro';
 import { getCollection } from 'astro:content';
+import { SITE, CATEGORIES } from '../config';
 
 // Get latest blog posts
 const posts = await getCollection('blog', ({ data }) => !data.draft);
@@ -11,47 +14,43 @@ const latestPosts = posts
 ---
 
 <BaseLayout title="Turn Boring Work Hours Into Career Growth">
-  <!-- Hero Section - Pure CSS gradient for best performance -->
-  <section class="bg-gradient-to-br from-primary via-primary-light to-accent/80 text-white py-16 md:py-24">
-    <div class="max-w-4xl mx-auto px-4 text-center">
-      <h1 class="text-3xl md:text-5xl font-bold mb-6 text-white leading-tight">
-        Turn Boring Work Hours Into Career Growth
-      </h1>
-      <p class="text-lg md:text-xl text-white/80 mb-8 max-w-2xl mx-auto">
-        Discover how to learn AI skills, earn certifications, and boost your career — all while you're stuck at your desk with nothing to do.
-      </p>
-      <a href="/productive-things-bored-at-work/" class="btn-primary text-lg">
-        See 25 Productive Ideas →
-      </a>
-    </div>
-  </section>
+  <Hero
+    title="Turn Boring Work Hours Into Career Growth"
+    description="Discover how to learn AI skills, earn certifications, and boost your career — all while you're stuck at your desk with nothing to do."
+    ctaText="See 25 Productive Ideas →"
+    ctaHref="/productive-things-bored-at-work/"
+  />
 
   <!-- Featured Article -->
-  <section class="py-16 bg-background-alt">
-    <div class="max-w-4xl mx-auto px-4">
-      <span class="text-accent font-semibold text-sm uppercase tracking-wide">Featured Guide</span>
-      <h2 class="text-2xl md:text-3xl font-bold mt-2 mb-4">
-        25 Productive Things to Do When Bored at Work (That Actually Help Your Career)
+  <section class="py-24 bg-slate-50 relative overflow-hidden">
+    <div class="absolute top-0 right-0 w-1/4 h-full bg-accent/5 -skew-x-12 transform origin-top"></div>
+    <div class="max-w-4xl mx-auto px-4 relative z-10">
+      <div class="flex items-center gap-2 mb-4">
+        <span class="w-8 h-px bg-accent"></span>
+        <span class="text-accent font-bold text-xs uppercase tracking-[0.2em]">Essential Reading</span>
+      </div>
+      <h2 class="text-3xl md:text-5xl font-bold mt-2 mb-6 leading-tight">
+        25 Productive Things to Do When Bored at Work
       </h2>
-      <p class="text-text-light mb-6 leading-relaxed">
-        Stop scrolling social media. Start building skills that matter. This comprehensive guide shows you exactly how to use your downtime to learn AI, earn certifications, and position yourself for your next promotion — without your boss noticing.
+      <p class="text-xl text-text-light mb-8 leading-relaxed italic border-l-4 border-slate-200 pl-6">
+        "Stop scrolling social media. Start building skills that actually move the needle."
       </p>
-      <ul class="space-y-2 mb-6">
-        <li class="flex items-start gap-2">
-          <span class="text-accent">✓</span>
-          <span>Free courses you can complete in one afternoon</span>
-        </li>
-        <li class="flex items-start gap-2">
-          <span class="text-accent">✓</span>
-          <span>Skills that are actually in demand right now</span>
-        </li>
-        <li class="flex items-start gap-2">
-          <span class="text-accent">✓</span>
-          <span>Ways to learn that look like you're working</span>
-        </li>
-      </ul>
-      <a href="/productive-things-bored-at-work/" class="btn-secondary">
-        Read the Full Guide →
+      <div class="grid sm:grid-cols-3 gap-6 mb-10">
+        <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-100">
+          <div class="text-accent text-xl mb-2">⚡</div>
+          <p class="text-sm font-medium">Free courses you can finish today</p>
+        </div>
+        <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-100">
+          <div class="text-accent text-xl mb-2">💼</div>
+          <p class="text-sm font-medium">High-demand skills for 2026</p>
+        </div>
+        <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-100">
+          <div class="text-accent text-xl mb-2">🕵️</div>
+          <p class="text-sm font-medium">Learn while looking busy</p>
+        </div>
+      </div>
+      <a href="/productive-things-bored-at-work/" class="btn-secondary group">
+        Read the Full Guide <span class="inline-block transition-transform group-hover:translate-x-1">→</span>
       </a>
     </div>
   </section>
@@ -60,111 +59,34 @@ const latestPosts = posts
   <section class="py-16">
     <div class="max-w-6xl mx-auto px-4">
       <div class="grid md:grid-cols-3 gap-8">
-        <!-- Free Courses -->
-        <div class="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
-          <h3 class="text-xl font-bold mb-3 flex items-center gap-2">
-            <span>🎓</span> Free AI Courses
-          </h3>
-          <p class="text-text-light text-sm mb-4">
-            The best free courses you can take right now to learn AI fundamentals — no credit card required.
-          </p>
-          <ul class="space-y-2">
-            <li>
-              <a href="/best-free-ai-courses/" class="text-sm hover:underline">
-                Best Free AI Courses to Take at Work
-              </a>
-            </li>
-            <li>
-              <a href="/google-ai-essentials-review/" class="text-sm hover:underline">
-                Google AI Essentials Review
-              </a>
-            </li>
-            <li>
-              <a href="/best-ai-courses-coursera/" class="text-sm hover:underline">
-                Best AI Courses on Coursera
-              </a>
-            </li>
-            <li>
-              <a href="/free-vs-paid-ai-courses/" class="text-sm hover:underline">
-                Free vs Paid AI Courses
-              </a>
-            </li>
-          </ul>
-        </div>
-
-        <!-- Tutorials -->
-        <div class="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
-          <h3 class="text-xl font-bold mb-3 flex items-center gap-2">
-            <span>🛠️</span> Quick Tutorials
-          </h3>
-          <p class="text-text-light text-sm mb-4">
-            Practical, hands-on guides you can complete during a slow afternoon at the office.
-          </p>
-          <ul class="space-y-2">
-            <li>
-              <a href="/chatgpt-tutorial-beginners/" class="text-sm hover:underline">
-                ChatGPT Tutorial for Beginners
-              </a>
-            </li>
-            <li>
-              <a href="/prompt-engineering-afternoon/" class="text-sm hover:underline">
-                Learn Prompt Engineering in One Afternoon
-              </a>
-            </li>
-            <li>
-              <a href="/learn-ai-while-looking-busy/" class="text-sm hover:underline">
-                How to Learn AI While Looking Busy
-              </a>
-            </li>
-          </ul>
-        </div>
-
-        <!-- Career Growth -->
-        <div class="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
-          <h3 class="text-xl font-bold mb-3 flex items-center gap-2">
-            <span>📈</span> Career Growth
-          </h3>
-          <p class="text-text-light text-sm mb-4">
-            Turn your new AI skills into real career advancement and higher pay.
-          </p>
-          <ul class="space-y-2">
-            <li>
-              <a href="/ai-certifications-in-a-week/" class="text-sm hover:underline">
-                AI Certifications You Can Earn in a Week
-              </a>
-            </li>
-            <li>
-              <a href="/ai-skills-for-promotion/" class="text-sm hover:underline">
-                AI Skills That Will Get You Promoted
-              </a>
-            </li>
-          </ul>
-        </div>
+        {CATEGORIES.map(category => (
+          <CategoryCard {...category} />
+        ))}
       </div>
     </div>
   </section>
 
   <!-- Why AI Section -->
-  <section class="py-16 bg-primary text-white">
-    <div class="max-w-4xl mx-auto px-4 text-center">
-      <h2 class="text-2xl md:text-3xl font-bold mb-8 text-white">Why Learn AI at Work?</h2>
-      <div class="grid md:grid-cols-3 gap-8 mb-8">
-        <div>
-          <div class="text-4xl md:text-5xl font-bold text-accent mb-2">77%</div>
-          <p class="text-white/70 text-sm">of companies are using or exploring AI</p>
+  <section class="py-24 bg-primary text-white relative overflow-hidden">
+    <div class="absolute inset-0 opacity-10 bg-[radial-gradient(#3b82f6_1px,transparent_1px)] [background-size:24px_24px]"></div>
+    <div class="max-w-4xl mx-auto px-4 text-center relative z-10">
+      <h2 class="text-3xl md:text-4xl font-bold mb-12 text-white">The "Oh No" Stats</h2>
+      <div class="grid md:grid-cols-3 gap-12 mb-12">
+        <div class="p-4">
+          <div class="text-5xl md:text-6xl font-bold text-accent mb-4">77%</div>
+          <p class="text-white/60 text-sm uppercase tracking-wider font-semibold">of companies are already on the AI train</p>
         </div>
-        <div>
-          <div class="text-4xl md:text-5xl font-bold text-accent mb-2">40%</div>
-          <p class="text-white/70 text-sm">of workers will need reskilling by 2030</p>
+        <div class="p-4 border-y md:border-y-0 md:border-x border-white/10">
+          <div class="text-5xl md:text-6xl font-bold text-accent mb-4">40%</div>
+          <p class="text-white/60 text-sm uppercase tracking-wider font-semibold">of us will need new skills by 2030</p>
         </div>
-        <div>
-          <div class="text-4xl md:text-5xl font-bold text-accent mb-2">$15-25K</div>
-          <p class="text-white/70 text-sm">average salary boost for AI-skilled professionals</p>
+        <div class="p-4">
+          <div class="text-5xl md:text-6xl font-bold text-accent mb-4">$25K</div>
+          <p class="text-white/60 text-sm uppercase tracking-wider font-semibold">potential salary bump for AI mastery</p>
         </div>
       </div>
-      <p class="text-white/80 max-w-2xl mx-auto">
-        The professionals who learn AI now will have a massive advantage over those who wait.
-        And if you're bored at work anyway, why not use that time to future-proof your career?
+      <p class="text-white/70 max-w-2xl mx-auto text-lg leading-relaxed">
+        The pros who learn AI now will have a massive edge. If you're bored at home-office anyway, why not future-proof your career while getting paid?
       </p>
     </div>
   </section>
@@ -213,13 +135,13 @@ const latestPosts = posts
   <!-- About Section -->
   <section class="py-16 bg-background-alt">
     <div class="max-w-3xl mx-auto px-4">
-      <h2 class="text-2xl md:text-3xl font-bold mb-4">About Boredom at Work</h2>
+      <h2 class="text-2xl md:text-3xl font-bold mb-4">About {SITE.title}</h2>
       <p class="text-text-light mb-4 leading-relaxed">
         We've all been there — staring at the clock, waiting for 5pm, mindlessly scrolling through the same websites.
         But what if you could turn those boring hours into something that actually moves your career forward?
       </p>
       <p class="text-text-light mb-4 leading-relaxed">
-        Boredom at Work is your guide to productive procrastination. We find the best free and affordable courses,
+        {SITE.title} is your guide to productive procrastination. We find the best free and affordable courses,
         tutorials, and certifications you can complete during work downtime. No fluff, no filler — just practical
         resources that help you learn real skills while you're getting paid.
       </p>

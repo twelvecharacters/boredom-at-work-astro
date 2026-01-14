@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import { SITE } from '../config';
 
 interface Props {
   title: string;
@@ -13,7 +14,7 @@ interface Props {
 
 const {
   title,
-  description = "Bored at work? Learn AI skills, earn certifications, and boost your career during work downtime.",
+  description = SITE.description,
   image = "/images/og-default.jpg",
   article = false,
   preloadHero = false
@@ -49,10 +50,10 @@ const socialImageURL = new URL(image, Astro.site);
     )}
 
     <!-- Primary Meta Tags -->
-    <title>{title} | Boredom at Work</title>
-    <meta name="title" content={`${title} | Boredom at Work`} />
+    <title>{title} | {SITE.title}</title>
+    <meta name="title" content={`${title} | ${SITE.title}`} />
     <meta name="description" content={description} />
-    <meta name="author" content="bored chap" />
+    <meta name="author" content={SITE.author} />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content={article ? "article" : "website"} />
@@ -60,7 +61,7 @@ const socialImageURL = new URL(image, Astro.site);
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={socialImageURL} />
-    <meta property="og:site_name" content="Boredom at Work" />
+    <meta property="og:site_name" content={SITE.title} />
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
@@ -73,9 +74,9 @@ const socialImageURL = new URL(image, Astro.site);
     <script type="application/ld+json" set:html={JSON.stringify({
       "@context": "https://schema.org",
       "@type": "Organization",
-      "name": "Boredom at Work",
+      "name": SITE.title,
       "url": Astro.site,
-      "description": "Learn AI skills and earn certifications during work downtime"
+      "description": SITE.description
     })} />
 
     <meta name="generator" content={Astro.generator} />

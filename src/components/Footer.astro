@@ -1,4 +1,6 @@
 ---
+import { FOOTER_LINKS, SITE } from '../config';
+
 const currentYear = new Date().getFullYear();
 ---
 
@@ -7,10 +9,9 @@ const currentYear = new Date().getFullYear();
     <div class="grid md:grid-cols-3 gap-8 mb-8">
       <!-- About -->
       <div>
-        <h3 class="text-lg font-semibold mb-4 text-white">Boredom at Work</h3>
+        <h3 class="text-lg font-semibold mb-4 text-white">{SITE.title}</h3>
         <p class="text-white/70 text-sm leading-relaxed">
-          Turn your boring work hours into career growth. Learn AI skills, earn certifications,
-          and boost your career during work downtime.
+          {SITE.description}
         </p>
       </div>
 
@@ -18,21 +19,13 @@ const currentYear = new Date().getFullYear();
       <div>
         <h3 class="text-lg font-semibold mb-4 text-white">Quick Links</h3>
         <ul class="space-y-2">
-          <li>
-            <a href="/" class="text-white/70 hover:text-white transition-colors text-sm">
-              Home
-            </a>
-          </li>
-          <li>
-            <a href="/blog/" class="text-white/70 hover:text-white transition-colors text-sm">
-              Blog
-            </a>
-          </li>
-          <li>
-            <a href="/productive-things-bored-at-work/" class="text-white/70 hover:text-white transition-colors text-sm">
-              25 Productive Ideas
-            </a>
-          </li>
+          {FOOTER_LINKS.quick.map(link => (
+            <li>
+              <a href={link.href} class="text-white/70 hover:text-white transition-colors text-sm">
+                {link.label}
+              </a>
+            </li>
+          ))}
         </ul>
       </div>
 
@@ -40,21 +33,13 @@ const currentYear = new Date().getFullYear();
       <div>
         <h3 class="text-lg font-semibold mb-4 text-white">Popular Guides</h3>
         <ul class="space-y-2">
-          <li>
-            <a href="/chatgpt-tutorial-beginners/" class="text-white/70 hover:text-white transition-colors text-sm">
-              ChatGPT Tutorial for Beginners
-            </a>
-          </li>
-          <li>
-            <a href="/best-free-ai-courses/" class="text-white/70 hover:text-white transition-colors text-sm">
-              Best Free AI Courses
-            </a>
-          </li>
-          <li>
-            <a href="/ai-certifications-in-a-week/" class="text-white/70 hover:text-white transition-colors text-sm">
-              AI Certifications in a Week
-            </a>
-          </li>
+          {FOOTER_LINKS.popular.map(link => (
+            <li>
+              <a href={link.href} class="text-white/70 hover:text-white transition-colors text-sm">
+                {link.label}
+              </a>
+            </li>
+          ))}
         </ul>
       </div>
     </div>
@@ -62,7 +47,7 @@ const currentYear = new Date().getFullYear();
     <!-- Bottom Bar -->
     <div class="border-t border-white/20 pt-8 text-center">
       <p class="text-white/60 text-sm">
-        &copy; {currentYear} Boredom at Work. All rights reserved.
+        &copy; {currentYear} {SITE.title}. All rights reserved.
       </p>
     </div>
   </div>

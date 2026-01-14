@@ -1,11 +1,8 @@
 ---
 import OptimizedImage from './OptimizedImage.astro';
+import { NAV_ITEMS, SITE } from '../config';
 
-const navItems = [
-  { label: 'Home', href: '/' },
-  { label: 'Blog', href: '/blog/' },
-];
-
+const navItems = NAV_ITEMS;
 const currentPath = Astro.url.pathname;
 ---
 
@@ -16,7 +13,7 @@ const currentPath = Astro.url.pathname;
       <a href="/" class="flex items-center">
         <OptimizedImage
           src="/images/logo.png"
-          alt="Boredom at Work"
+          alt={SITE.title}
           class="h-12 md:h-14 w-auto"
           loading="eager"
           fetchpriority="high"
