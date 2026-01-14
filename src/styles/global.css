@@ -160,10 +160,10 @@
   }
 }
 
-/* Mobile Table Styles */
+/* Mobile Table Styles - Transformed into Cards */
 @media (max-width: 768px) {
   .prose table {
-    @apply border-none;
+    @apply border-none block w-full;
   }
 
   .prose table thead {
@@ -171,22 +171,33 @@
   }
 
   .prose table tbody {
-    @apply block;
+    @apply block w-full;
   }
 
   .prose table tr {
-    @apply block bg-background-alt mb-4 p-4 rounded-lg border border-gray-200;
+    @apply block bg-white mb-8 p-8 rounded-3xl border border-slate-100 shadow-md transition-shadow mx-2 md:mx-0;
   }
 
   .prose table td {
-    @apply block w-full text-left p-1 border-none;
+    @apply block w-full text-left py-3 border-none relative text-slate-700 text-base;
   }
 
+  /* Stacked label layout for maximum space */
+  .prose table td::before {
+    content: attr(data-label);
+    @apply block text-[10px] font-black uppercase tracking-[0.15em] text-accent/60 mb-1;
+  }
+
+  /* Special handling for the first cell as a "Title" */
   .prose table td:first-child {
-    @apply font-bold text-accent text-sm mb-1;
+    @apply text-xl font-extrabold text-primary mb-4 pb-4 border-b border-slate-50;
+  }
+  
+  .prose table td:first-child::before {
+    @apply mb-2;
   }
 
-  .prose table td:nth-child(2) {
-    @apply font-bold text-lg;
+  .prose table td:last-child {
+    @apply pb-0;
   }
 }

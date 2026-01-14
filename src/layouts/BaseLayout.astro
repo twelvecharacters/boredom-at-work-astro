@@ -100,6 +100,32 @@ const socialImageURL = new URL(image, Astro.site);
     </main>
     <Footer />
 
+    <!-- Table responsiveness helper -->
+    <script>
+      function setupResponsiveTables() {
+        const tables = document.querySelectorAll('.prose table');
+        tables.forEach(table => {
+          const headers = Array.from(table.querySelectorAll('thead th')).map(th => th.textContent?.trim());
+          if (headers.length > 0) {
+            table.setAttribute('data-has-labels', 'true');
+            const rows = table.querySelectorAll('tbody tr');
+            rows.forEach(row => {
+              const cells = row.querySelectorAll('td');
+              cells.forEach((cell, index) => {
+                if (headers[index]) {
+                  cell.setAttribute('data-label', headers[index]);
+                }
+              });
+            });
+          }
+        });
+      }
+
+      // Run on load and after swaps if using View Transitions
+      window.addEventListener('load', setupResponsiveTables);
+      document.addEventListener('astro:page-load', setupResponsiveTables);
+    </script>
+
     <!-- Google Analytics 4 - Deferred loading -->
     <script>
       // Load GA after page is interactive
