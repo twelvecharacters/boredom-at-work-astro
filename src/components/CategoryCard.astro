@@ -9,7 +9,7 @@ interface Props {
 const { title, icon, description, links } = Astro.props;
 ---
 
-<div class="group bg-white rounded-2xl p-8 shadow-sm border border-slate-100 hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+<div class="group bg-white rounded-2xl p-8 shadow-sm border border-primary/5 hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
   <div class="w-12 h-12 bg-background-alt rounded-xl flex items-center justify-center text-2xl mb-6 group-hover:scale-110 transition-transform">
     {icon}
   </div>
@@ -22,7 +22,7 @@ const { title, icon, description, links } = Astro.props;
   <ul class="space-y-4">
     {links.map(link => (
       <li>
-        <a href={link.href} class="flex items-center gap-2 text-sm font-medium text-slate-600 hover:text-accent group/link">
+        <a href={link.href} class="flex items-center gap-2 text-sm font-medium text-text-light hover:text-accent group/link">
           <span class="w-1.5 h-1.5 bg-accent/30 rounded-full transition-all group-hover/link:w-3"></span>
           {link.text}
         </a>

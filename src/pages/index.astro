@@ -22,7 +22,7 @@ const latestPosts = posts
   />
 
   <!-- Featured Article -->
-  <section class="py-24 bg-slate-50 relative overflow-hidden">
+  <section class="py-24 bg-background-alt relative overflow-hidden">
     <div class="absolute top-0 right-0 w-1/4 h-full bg-accent/5 -skew-x-12 transform origin-top"></div>
     <div class="max-w-4xl mx-auto px-4 relative z-10">
       <div class="flex items-center gap-2 mb-4">
@@ -32,19 +32,19 @@ const latestPosts = posts
       <h2 class="text-3xl md:text-5xl font-bold mt-2 mb-6 leading-tight">
         25 Productive Things to Do When Bored at Work
       </h2>
-      <p class="text-xl text-text-light mb-8 leading-relaxed italic border-l-4 border-slate-200 pl-6">
+      <p class="text-xl text-text-light mb-8 leading-relaxed italic border-l-4 border-primary/10 pl-6">
         "Stop scrolling social media. Start building skills that actually move the needle."
       </p>
       <div class="grid sm:grid-cols-3 gap-6 mb-10">
-        <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-100">
+        <div class="bg-white p-6 rounded-2xl shadow-sm border border-primary/5">
           <div class="text-accent text-xl mb-2">⚡</div>
           <p class="text-sm font-medium">Free courses you can finish today</p>
         </div>
-        <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-100">
+        <div class="bg-white p-6 rounded-2xl shadow-sm border border-primary/5">
           <div class="text-accent text-xl mb-2">💼</div>
           <p class="text-sm font-medium">High-demand skills for 2026</p>
         </div>
-        <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-100">
+        <div class="bg-white p-6 rounded-2xl shadow-sm border border-primary/5">
           <div class="text-accent text-xl mb-2">🕵️</div>
           <p class="text-sm font-medium">Learn while looking busy</p>
         </div>
@@ -99,7 +99,7 @@ const latestPosts = posts
         <p class="text-text-light mb-8">Fresh guides and tutorials to help you make the most of your work hours.</p>
         <div class="grid md:grid-cols-3 gap-6">
           {latestPosts.map(post => (
-            <article class="bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
+            <article class="bg-white rounded-xl overflow-hidden shadow-sm border border-primary/5 hover:shadow-md transition-shadow">
               {post.data.image && (
                 <OptimizedImage
                   src={post.data.image}

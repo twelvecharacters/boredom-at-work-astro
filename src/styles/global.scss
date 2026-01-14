@@ -28,11 +28,11 @@
   }
 
   .mesh-gradient {
-    background-color: #0f172a;
+    background-color: #11153b;
     background-image:
-      radial-gradient(at 0% 0%, hsla(217,100%,70%,0.15) 0, transparent 50%),
-      radial-gradient(at 50% 0%, hsla(217,100%,70%,0.1) 0, transparent 50%),
-      radial-gradient(at 100% 0%, hsla(339,100%,70%,0.15) 0, transparent 50%);
+      radial-gradient(at 0% 0%, hsla(244, 100%, 70%, 0.2) 0, transparent 50%),
+      radial-gradient(at 50% 0%, hsla(263, 100%, 70%, 0.15) 0, transparent 50%),
+      radial-gradient(at 100% 0%, hsla(280, 100%, 70%, 0.2) 0, transparent 50%);
   }
 
   .floating {
