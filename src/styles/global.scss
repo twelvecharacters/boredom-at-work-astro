@@ -1,0 +1,154 @@
+
+
+/* Base Styles */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply text-text bg-background;
+    font-family: var(--font-body);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold text-primary;
+    font-family: var(--font-heading);
+    letter-spacing: -0.02em;
+  }
+
+  a {
+    @apply text-accent hover:text-accent-hover transition-all;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-white/70 backdrop-blur-md border border-white/20;
+  }
+
+  .mesh-gradient {
+    background-color: #0f172a;
+    background-image:
+      radial-gradient(at 0% 0%, hsla(217,100%,70%,0.15) 0, transparent 50%),
+      radial-gradient(at 50% 0%, hsla(217,100%,70%,0.1) 0, transparent 50%),
+      radial-gradient(at 100% 0%, hsla(339,100%,70%,0.15) 0, transparent 50%);
+  }
+
+  .floating {
+    animation: floating 3s ease-in-out infinite;
+  }
+
+  @keyframes floating {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+}
+
+/* Prose Styles for Blog Content */
+@layer components {
+  .prose {
+    @apply max-w-none;
+
+    h1 { @apply text-3xl md:text-4xl mb-6 mt-8; }
+    h2 { @apply text-2xl md:text-3xl mb-4 mt-8; }
+    h3 { @apply text-xl md:text-2xl mb-3 mt-6; }
+    p { @apply mb-4 leading-relaxed; }
+    ul, ol { @apply mb-4 pl-6; }
+    li { @apply mb-2; }
+    ul li { @apply list-disc; }
+    ol li { @apply list-decimal; }
+
+    code,
+    pre,
+    pre code {
+      all: unset !important;
+      display: block !important;
+      background: transparent !important;
+      background-color: transparent !important;
+      color: #333 !important;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+      font-size: inherit !important;
+      line-height: 1.6 !important;
+      white-space: pre-wrap !important;
+      word-wrap: break-word !important;
+      margin-bottom: 1rem !important;
+      padding: 0 !important;
+      border: none !important;
+    }
+
+    code {
+      display: inline !important;
+      margin-bottom: 0 !important;
+    }
+
+    blockquote {
+      @apply border-l-4 border-accent pl-4 italic my-4;
+    }
+
+    table {
+      @apply w-full mb-4 border-collapse;
+
+      th, td {
+        @apply border border-gray-300 px-4 py-2 text-left;
+      }
+
+      th {
+        @apply bg-background-alt font-semibold;
+      }
+
+      /* Mobile Table Styles - Transformed into Cards */
+      @media (max-width: 768px) {
+        @apply border-none block w-full;
+
+        thead {
+          @apply hidden;
+        }
+
+        tbody {
+          @apply block w-full;
+        }
+
+        tr {
+          @apply block bg-white mb-8 p-8 rounded-3xl border border-slate-100 shadow-md transition-shadow mx-2;
+        }
+
+        td {
+          @apply block w-full text-left py-3 border-none relative text-slate-700 text-base;
+
+          &::before {
+            content: attr(data-label);
+            @apply block text-[10px] font-black uppercase tracking-[0.15em] text-accent/60 mb-1;
+          }
+
+          &:first-child {
+            @apply text-xl font-extrabold text-primary mb-4 pb-4 border-b border-slate-50;
+
+            &::before {
+              @apply mb-2;
+            }
+          }
+
+          &:last-child {
+            @apply pb-0;
+          }
+        }
+      }
+    }
+
+    img {
+      @apply rounded-lg my-4;
+    }
+  }
+
+  .btn-primary {
+    @apply inline-block bg-accent text-white px-6 py-3 rounded-lg font-semibold transition-colors;
+    &:hover { @apply bg-accent-hover; }
+  }
+
+  .btn-secondary {
+    @apply inline-block border-2 border-accent text-accent px-6 py-3 rounded-lg font-semibold transition-colors;
+    &:hover { @apply bg-accent text-white; }
+  }
+}
