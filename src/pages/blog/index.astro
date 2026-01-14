@@ -2,10 +2,9 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import OptimizedImage from '../../components/OptimizedImage.astro';
-import { getCollection } from 'astro:content';
+import { getPublishedPosts } from '../../utils/blog';
 
-const posts = await getCollection('blog', ({ data }) => !data.draft);
-const sortedPosts = posts.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+const sortedPosts = await getPublishedPosts();
 
 const breadcrumbItems = [
   { name: 'Blog', url: '/blog/' }
