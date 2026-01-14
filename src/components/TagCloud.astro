@@ -1,0 +1,30 @@
+---
+import { getPublishedPosts } from '../utils/blog';
+
+const posts = await getPublishedPosts();
+const tags = posts.flatMap(post => post.data.tags);
+const tagCounts = tags.reduce((acc, tag) => {
+  acc[tag] = (acc[tag] || 0) + 1;
+  return acc;
+}, {} as Record<string, number>);
+
+const sortedTags = Object.entries(tagCounts);
+const randomTags = sortedTags
+  .sort(() => Math.random() - 0.5)
+  .slice(0, 12);
+---
+
+<div class="bg-white p-6 rounded-2xl shadow-sm border border-gray-100">
+  <h2 class="text-sm font-bold uppercase tracking-wider text-primary mb-4">Discover Topics</h2>
+  <div class="flex flex-wrap gap-2">
+    {randomTags.map(([tag, count]) => (
+      <a
+        href={`/tags/${tag.toLowerCase().replace(/\s+/g, '-')}/`}
+        class="bg-background-alt hover:bg-accent hover:text-white text-text-light px-3 py-1.5 rounded-lg text-sm transition-all flex items-center gap-2 group"
+      >
+        <span>{tag}</span>
+        <span class="text-xs opacity-50 group-hover:opacity-100">({count})</span>
+      </a>
+    ))}
+  </div>
+</div>
