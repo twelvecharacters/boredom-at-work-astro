@@ -85,6 +85,49 @@ faq:
 
 ---
 
+## Bildoptimierung (AUTOMATISCH durchführen!)
+
+**Bei jedem neuen Bild diese Schritte ausführen:**
+
+### 1. Bild nach public/images kopieren
+```bash
+cp /pfad/zum/bild.png /Users/mehdivazirian/boredom-at-work/public/images/
+```
+
+### 2. In WebP konvertieren und optimieren
+```bash
+cd /Users/mehdivazirian/boredom-at-work/public/images
+
+# PNG zu WebP konvertieren (Qualität 75)
+cwebp -q 75 bildname.png -o bildname.webp
+
+# ODER wenn Bild zu groß ist (> 200 KB), erst skalieren:
+dwebp bildname.webp -o temp.png
+sips -Z 1200 temp.png --out temp-resized.png
+cwebp -q 75 temp-resized.png -o bildname.webp
+rm temp.png temp-resized.png
+```
+
+### 3. Original-PNG löschen
+```bash
+rm bildname.png
+```
+
+### Zielwerte
+| Eigenschaft | Zielwert |
+|-------------|----------|
+| Format | WebP |
+| Max. Breite/Höhe | 1200px |
+| Qualität | 75 |
+| Ziel-Dateigröße | < 150 KB (max 200 KB) |
+
+### Verfügbare Tools
+- `cwebp` - PNG/JPG zu WebP konvertieren
+- `dwebp` - WebP zu PNG konvertieren
+- `sips` - Bilder skalieren (macOS)
+
+---
+
 ## Wichtige Dateien
 
 ### Konfiguration
@@ -121,7 +164,7 @@ faq:
 | AI/Learning | 10 | Aktiv |
 | 3D Printing | 6 | Aktiv |
 | Photography | 7 | Aktiv |
-| Japan Shopping | - | Geplant |
+| Japan Shopping | 3 | Aktiv |
 | Tech & Gadgets | - | Geplant |
 
 ---
