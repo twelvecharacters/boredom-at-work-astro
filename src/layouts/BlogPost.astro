@@ -15,6 +15,11 @@ interface Props {
 const { post } = Astro.props;
 const { title, description, publishDate, updatedDate, author, image, tags, faq } = post.data;
 
+// Calculate reading time (average 200 words per minute)
+const content = post.body || '';
+const wordCount = content.split(/\s+/).filter(word => word.length > 0).length;
+const readingTime = Math.max(1, Math.ceil(wordCount / 200));
+
 // Breadcrumb items
 const breadcrumbItems = [
   { name: 'Blog', url: '/blog/' },
@@ -49,6 +54,8 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
         <span>By {author}</span>
         <span>•</span>
         <time datetime={publishDate.toISOString()}>{formattedDate}</time>
+        <span>•</span>
+        <span>{readingTime} min read</span>
         {updatedDate && (
           <>
             <span>•</span>
