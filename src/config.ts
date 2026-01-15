@@ -55,6 +55,18 @@ export const CATEGORIES = [
       { text: 'AI Skills That Will Get You Promoted', href: '/ai-skills-for-promotion/' },
     ],
   },
+  {
+    title: 'Tech & Gadgets Worth Your Money',
+    id: 'tech-gadgets',
+    icon: '🎧',
+    description: "Research the tech you've been eyeing. E-readers, earbuds, keyboards, and gadgets that actually improve your life.",
+    links: [
+      { text: 'Is a Kindle Worth It in 2026?', href: '/is-kindle-worth-it/' },
+      { text: 'Kindle vs Kobo: Which E-Reader?', href: '/kindle-vs-kobo/' },
+      { text: 'Best Mechanical Keyboards for Beginners', href: '/best-mechanical-keyboards-beginners/' },
+      { text: 'AirPods vs Galaxy Buds vs Sony', href: '/airpods-vs-galaxy-buds-vs-sony/' },
+    ],
+  },
 ];
 
 export const FOOTER_LINKS = {
