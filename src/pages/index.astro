@@ -10,6 +10,19 @@ import { getPublishedPosts } from '../utils/blog';
 // Get latest blog posts
 const posts = await getPublishedPosts();
 const latestPosts = posts.slice(0, 3);
+
+// Create a set of published slugs for efficient lookup
+const publishedSlugs = new Set(posts.map(post => post.id));
+
+// Filter categories to only show links that are actually published
+const displayCategories = CATEGORIES.map(category => ({
+  ...category,
+  links: category.links.filter(link => {
+    // Determine the slug from the href (e.g., '/post-slug/' -> 'post-slug')
+    const slug = link.href.replace(/^\//, '').replace(/\/$/, '');
+    return publishedSlugs.has(slug);
+  })
+})).filter(category => category.links.length > 0);
 ---
 
 <BaseLayout title="Turn Boring Work Hours Into Career Growth">
@@ -58,7 +71,7 @@ const latestPosts = posts.slice(0, 3);
   <section class="py-16">
     <div class="max-w-6xl mx-auto px-4">
       <div class="grid md:grid-cols-3 gap-8">
-        {CATEGORIES.map(category => (
+        {displayCategories.map(category => (
           <CategoryCard {...category} />
         ))}
       </div>

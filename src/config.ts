@@ -24,6 +24,18 @@ export const CATEGORIES = [
     ],
   },
   {
+    title: 'The 3D Printing Lab',
+    id: '3d-printing',
+    icon: '🖨️',
+    description: "Turn your desk into a miniature factory. Learn how to choose a printer and start creating physical objects during work downtime.",
+    links: [
+      { text: '3D Printing for Beginners Guide', href: '/3d-printing-beginners-guide/' },
+      { text: 'Best 3D Printers Under $300', href: '/best-3d-printers-under-300/' },
+      { text: 'Is 3D Printing Actually Worth It?', href: '/is-3d-printing-worth-it/' },
+      { text: 'What Should You 3D Print First?', href: '/what-to-3d-print-first/' },
+    ],
+  },
+  {
     title: 'Import Treasures from Japan',
     id: 'japan-shopping',
     icon: '🇯🇵',
@@ -32,6 +44,18 @@ export const CATEGORIES = [
       { text: 'Buyee vs Sendico: Which Proxy to Use?', href: '/buyee-vs-sendico-japan-proxy/' },
       { text: 'How to Buy from Japan: Beginner Guide', href: '/how-to-buy-from-japan-beginners-guide/' },
       { text: '15 Best Japanese Products to Import', href: '/best-japanese-products-to-import/' },
+    ],
+  },
+  {
+    title: 'Photography 101',
+    id: 'photography',
+    icon: '📸',
+    description: "Stop taking boring snapshots. Learn the fundamentals of photography and find the perfect beginner camera gear.",
+    links: [
+      { text: 'Best Cameras for Beginners', href: '/best-cameras-for-beginners/' },
+      { text: 'DSLR vs Mirrorless: Which is Best?', href: '/dslr-vs-mirrorless-beginners/' },
+      { text: 'Camera vs Smartphone for Travel', href: '/camera-vs-smartphone/' },
+      { text: 'Olympus PEN E-PM2 User Guide', href: '/olympus-pen-e-pm2-guide/' },
     ],
   },
   {
