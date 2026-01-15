@@ -3,7 +3,7 @@ title: "How to Buy from Japan: The Complete Beginner's Guide (2026)"
 description: "Learn how to buy from Japanese websites like Yahoo Auctions, Mercari, and Rakuten. Step-by-step guide for international buyers."
 publishDate: 2026-01-17
 author: "bored chap"
-image: ""
+image: "/images/buy-from-japan-guide.webp"
 tags: ["Japan Shopping", "Import Guide", "Yahoo Auctions", "Mercari Japan", "Beginners"]
 draft: false
 faq:
