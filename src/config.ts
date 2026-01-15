@@ -1,6 +1,6 @@
 export const SITE = {
   title: 'Boredom at Work',
-  description: "Stuck in a meeting that could have been an email? Don't just stare at the clock. Level up your career with AI skills and certifications during your 9-to-5 downtime.",
+  description: "Transform your 9-to-5 downtime into personal growth. From mastering AI skills to starting a 3D printing hobby or finding the perfect camera gear — we help you make every boring minute count.",
   url: 'https://boredom-at-work.com',
   author: 'a bored human',
 };
