@@ -24,6 +24,17 @@ export const CATEGORIES = [
     ],
   },
   {
+    title: 'Import Treasures from Japan',
+    id: 'japan-shopping',
+    icon: '🇯🇵',
+    description: "Discover how to buy unique products from Japan — vintage cameras, stationery, snacks, and more — shipped right to your door.",
+    links: [
+      { text: 'Buyee vs Sendico: Which Proxy to Use?', href: '/buyee-vs-sendico-japan-proxy/' },
+      { text: 'How to Buy from Japan: Beginner Guide', href: '/how-to-buy-from-japan-beginners-guide/' },
+      { text: '15 Best Japanese Products to Import', href: '/best-japanese-products-to-import/' },
+    ],
+  },
+  {
     title: "Lunch Break Tutorials",
     id: 'tutorials',
     icon: '🍕',
