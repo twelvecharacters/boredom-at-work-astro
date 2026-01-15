@@ -74,6 +74,7 @@ export const FOOTER_LINKS = {
     { label: 'Home', href: '/' },
     { label: 'Blog', href: '/blog/' },
     { label: 'Stop Being Bored', href: '/productive-things-bored-at-work/' },
+    { label: 'Contact', href: '/contact/' },
   ],
   popular: [
     { label: 'ChatGPT Beginner Guide', href: '/chatgpt-tutorial-beginners/' },
