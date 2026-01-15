@@ -22,7 +22,7 @@ These 25 picks are actually useful, well-reviewed, and won't embarrass you when 
 ## Audio & Entertainment
 
 ### 1. Soundcore Life P3 Wireless Earbuds — $50
-Noise cancellation, 35-hour battery with case, multiple sound modes. Best budget earbuds on the market. Period.
+Noise cancellation, 35-hour battery with case, multiple sound modes. Best budget earbuds on the market. Period. (Looking for premium options? See our [AirPods vs Galaxy Buds vs Sony comparison](/airpods-vs-galaxy-buds-vs-sony/).)
 
 ### 2. Amazon Echo Dot (5th Gen) — $35-50
 The entry point to smart homes. Great speaker for the size, Alexa built-in, works as a Bluetooth speaker too.
@@ -71,6 +71,8 @@ Turns any physical button into a smart button. Brilliant for coffee makers, old 
 Put under sinks or near water heaters. Alerts your phone if it detects water. Boring but potentially saves thousands.
 
 ## Desk & Productivity
+
+Want to upgrade their typing experience? Consider a [mechanical keyboard for beginners](/best-mechanical-keyboards-beginners/) — they start around $45-50.
 
 ### 16. Logitech Pebble Mouse — $25-30
 Whisper-quiet clicking, Bluetooth, works on any surface. Perfect for coffee shop workers.

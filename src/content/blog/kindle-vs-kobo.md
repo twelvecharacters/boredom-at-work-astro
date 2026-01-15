@@ -15,7 +15,7 @@ faq:
     answer: "Yes, Kobo e-readers are sold in most countries. The Kobo store has strong coverage in North America, Europe, and parts of Asia. Some regions may have limited book selection compared to Amazon."
 ---
 
-So you've decided to buy an e-reader. Smart choice. But now you're stuck between the two major players: Amazon's Kindle and Rakuten's Kobo.
+So you've decided to buy an e-reader. Smart choice. (Not sure if an e-reader is right for you? Read our guide on [whether a Kindle is worth it](/is-kindle-worth-it/) first.) But now you're stuck between the two major players: Amazon's Kindle and Rakuten's Kobo.
 
 Both make excellent devices. Both have passionate fans. And both have trade-offs that might make one better for you than the other.
 

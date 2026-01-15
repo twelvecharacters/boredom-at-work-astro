@@ -1,0 +1,44 @@
+---
+// TableOfContents component - auto-generates TOC from article headings
+// Add this component to articles where you want a table of contents
+---
+
+<nav class="toc bg-background-alt rounded-xl p-6 mb-8 not-prose">
+  <h2 class="text-lg font-semibold mb-4 text-primary">Table of Contents</h2>
+  <ul id="toc-list" class="space-y-2 text-sm">
+    <!-- TOC items will be injected by JavaScript -->
+  </ul>
+</nav>
+
+<script>
+  function generateTOC() {
+    const article = document.querySelector('.prose');
+    if (!article) return;
+
+    const headings = article.querySelectorAll('h2, h3');
+    const tocList = document.getElementById('toc-list');
+    if (!tocList || headings.length === 0) return;
+
+    headings.forEach((heading, index) => {
+      // Create an ID if it doesn't have one
+      if (!heading.id) {
+        heading.id = `heading-${index}`;
+      }
+
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.href = `#${heading.id}`;
+      a.textContent = heading.textContent;
+      a.className = heading.tagName === 'H3'
+        ? 'text-text-light hover:text-accent pl-4 block transition-colors'
+        : 'text-text hover:text-accent block transition-colors font-medium';
+
+      li.appendChild(a);
+      tocList.appendChild(li);
+    });
+  }
+
+  // Run on page load
+  document.addEventListener('DOMContentLoaded', generateTOC);
+  document.addEventListener('astro:page-load', generateTOC);
+</script>

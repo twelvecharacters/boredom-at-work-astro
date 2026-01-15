@@ -79,7 +79,7 @@ The most common question from beginners: should I buy mirrorless or DSLR? Here's
 
 ### When DSLRs Still Make Sense
 
-**Tight Budget:** A used Nikon D3500 or Canon Rebel T7 offers incredible value. You can enter photography for under $350 with a kit lens.
+**Tight Budget:** A used Nikon D3500 or Canon Rebel T7 offers incredible value. You can enter photography for under $350 with a kit lens. Pro tip: [buying vintage cameras from Japan](/best-japanese-products-to-import/) often yields better prices and condition than local markets.
 
 **Battery Life:** DSLRs last 1,000-1,500 shots per charge versus 300-500 for mirrorless. If charging isn't convenient, this matters.
 

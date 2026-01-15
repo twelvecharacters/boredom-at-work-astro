@@ -239,3 +239,5 @@ For most beginners: **Keychron K8 Pro with Brown switches**. It's versatile, wel
 On a budget? **Royal Kludge RK87**. Remarkable value, and good enough to know if you want to invest more later.
 
 Welcome to the hobby. Your fingers will thank you.
+
+Looking for more desk upgrade ideas? Check out our [best tech gifts under $50](/best-tech-gifts-under-50/) for mice, desk lamps, and other office essentials.

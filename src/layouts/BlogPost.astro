@@ -4,6 +4,7 @@ import Breadcrumbs from '../components/Breadcrumbs.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
 import OptimizedImage from '../components/OptimizedImage.astro';
 import FaqSchema from '../components/FaqSchema.astro';
+import TableOfContents from '../components/TableOfContents.astro';
 import { SITE } from '../config';
 import type { CollectionEntry } from 'astro:content';
 
@@ -79,6 +80,9 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
         />
       )}
     </header>
+
+    <!-- Table of Contents -->
+    <TableOfContents />
 
     <!-- Article Content -->
     <div class="prose">

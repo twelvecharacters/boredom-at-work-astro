@@ -152,6 +152,8 @@ The Oasis was premium in its day, but it hasn't been updated in years. The Paper
 
 ## Kindle vs. Kobo vs. Phone
 
+Not sure which e-reader brand to choose? Check out our detailed [Kindle vs Kobo comparison](/kindle-vs-kobo/) for a deep dive into the differences.
+
 | Feature | Kindle Paperwhite | Kobo Clara | Phone (Kindle App) |
 |---------|-------------------|------------|-------------------|
 | Price | $149 | $149 | Free (you have one) |

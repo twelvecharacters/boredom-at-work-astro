@@ -34,6 +34,8 @@ Japan was the camera capital of the world, and it shows. The secondhand market i
 - Japanese-market versions sometimes have unique features
 - Lenses often cheaper than bodies
 
+New to photography? Check out our [best cameras for beginners guide](/best-cameras-for-beginners/) to know what to look for.
+
 **Budget:** $50-300 for excellent starter cameras
 
 ## 2. Japanese Stationery
