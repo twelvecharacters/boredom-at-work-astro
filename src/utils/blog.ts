@@ -5,9 +5,10 @@ import { getCollection } from 'astro:content';
  * Posts are sorted by publishDate descending (newest first) by default.
  */
 export async function getPublishedPosts() {
+  const isDev = import.meta.env.DEV;
   const allPosts = await getCollection('blog', ({ data }) => {
     const isNotDraft = !data.draft;
-    const isPublished = data.publishDate <= new Date();
+    const isPublished = isDev || data.publishDate <= new Date();
     return isNotDraft && isPublished;
   });
 
