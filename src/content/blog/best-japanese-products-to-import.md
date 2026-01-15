@@ -291,6 +291,8 @@ Japan still makes quirky, unique electronics not sold elsewhere.
 
 ## How to Start Shopping
 
+New to buying from Japan? Check out our [complete beginner's guide](/how-to-buy-from-japan-beginners-guide/) for step-by-step instructions, or read our [Buyee vs Sendico comparison](/buyee-vs-sendico-japan-proxy/) to choose the right proxy service.
+
 1. **Pick a category** that interests you
 2. **Set up a proxy service account** (Buyee for beginners, Sendico for budget)
 3. **Research prices** — Check Yahoo Auctions, Mercari, Rakuten

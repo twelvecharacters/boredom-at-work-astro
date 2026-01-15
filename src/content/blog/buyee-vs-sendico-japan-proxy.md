@@ -17,7 +17,7 @@ faq:
 
 Ever found yourself browsing Japanese auction sites during a slow afternoon at work, wondering how to actually get that vintage camera or limited-edition figure shipped to your doorstep? You're not alone.
 
-Buying from Japan has become increasingly popular, but the process can feel overwhelming. That's where proxy services come in — they buy items on your behalf from Japanese stores and ship them internationally.
+Buying from Japan has become increasingly popular, but the process can feel overwhelming. If you're completely new to this, check out our [complete beginner's guide to buying from Japan](/how-to-buy-from-japan-beginners-guide/) first. But if you already know the basics and just need to pick a proxy service, you're in the right place.
 
 The two most popular options are **Buyee** and **Sendico**. But which one should you use? Let's break it down.
 
@@ -171,7 +171,7 @@ Choose Sendico if you:
 
 ## What to Buy from Japan
 
-Now that you know how to buy, here are some popular categories:
+Now that you know how to buy, here are some popular categories (we've compiled a detailed list of the [best Japanese products worth importing](/best-japanese-products-to-import/)):
 
 - **Vintage cameras** — Japan has an incredible secondhand camera market
 - **Anime figures & merchandise** — Often cheaper and more selection than importing through retailers

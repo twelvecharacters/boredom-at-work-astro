@@ -49,6 +49,8 @@ A proxy service buys items on your behalf. You tell them what to buy, they purch
 - **ZenMarket** — Good balance of features and fees
 - **FromJapan** — Solid alternative with good customer service
 
+Not sure which proxy to use? Check out our [detailed Buyee vs Sendico comparison](/buyee-vs-sendico-japan-proxy/) to find the best fit for your needs.
+
 **Best for:** Auction sites, Mercari, stores that require Japanese payment methods
 
 ### Option 2: Forwarding Services
@@ -208,6 +210,8 @@ Familiar interface, some items ship internationally.
 - [ ] Am I prepared for customs duties if applicable?
 
 ## Your First Purchase: What to Buy
+
+Not sure what to buy? We've compiled a list of the [best Japanese products worth importing](/best-japanese-products-to-import/) to give you some inspiration.
 
 Start simple. Good first purchases:
 - **Japanese stationery** — Light, cheap, unlikely to be damaged
