@@ -3,7 +3,7 @@ title: "AirPods Pro vs Galaxy Buds vs Sony WF-1000XM5: Which Earbuds Win?"
 description: "Comparing the top wireless earbuds from Apple, Samsung, and Sony. Sound quality, ANC, comfort, and which ones are worth your money."
 publishDate: 2026-01-29
 author: "bored chap"
-image: ""
+image: "/images/airpods-vs-galaxy-buds-vs-sony.webp"
 tags: ["Tech & Gadgets", "Earbuds", "AirPods", "Galaxy Buds", "Sony", "Comparison"]
 draft: false
 faq:

@@ -3,7 +3,7 @@ title: "Kindle vs Kobo: Which E-Reader Should You Buy in 2026?"
 description: "Comparing Kindle and Kobo e-readers: features, prices, ecosystem differences, and which one is right for your reading habits."
 publishDate: 2026-01-23
 author: "bored chap"
-image: ""
+image: "/images/kindle-vs-kobo.webp"
 tags: ["Tech & Gadgets", "Kindle", "Kobo", "E-Reader", "Comparison"]
 draft: false
 faq:

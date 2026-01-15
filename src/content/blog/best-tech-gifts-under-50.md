@@ -3,7 +3,7 @@ title: "25 Best Tech Gifts Under $50 That Don't Feel Cheap"
 description: "Looking for affordable tech gifts? These 25 options under $50 are actually useful, well-made, and won't end up in a drawer."
 publishDate: 2026-01-27
 author: "bored chap"
-image: ""
+image: "/images/best-tech-gifts-under-50.webp"
 tags: ["Tech & Gadgets", "Gift Guide", "Budget Tech", "Gift Ideas"]
 draft: false
 faq:
