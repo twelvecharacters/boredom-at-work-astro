@@ -138,7 +138,7 @@ rm bildname.png
 
 ### Komponenten
 - `src/components/Header.astro` - Navigation mit Mobile-Menü
-- `src/components/Footer.astro` - Footer mit Links
+- `src/components/Footer.astro` - Footer mit Links und Contact CTA
 - `src/components/Hero.astro` - Wiederverwendbare Hero-Section
 - `src/components/CategoryCard.astro` - Kategorie-Karten
 - `src/components/Pagination.astro` - Blog-Pagination
@@ -147,10 +147,22 @@ rm bildname.png
 - `src/components/RelatedPosts.astro` - Verwandte Artikel
 - `src/components/OptimizedImage.astro` - Bild-Optimierung (WebP)
 - `src/components/FaqSchema.astro` - FAQ Schema Markup
+- `src/components/TableOfContents.astro` - Auto-generiertes Inhaltsverzeichnis
+
+### Seiten
+- `src/pages/contact/index.astro` - Kontaktformular (Web3Forms)
+- `src/pages/contact/success.astro` - Erfolgsseite nach Formular-Submit
 
 ### Layouts
 - `src/layouts/BaseLayout.astro` - Basis-Layout mit SEO Meta-Tags
 - `src/layouts/BlogPost.astro` - Blog-Post Layout mit Schema.org
+
+### Blog-Features (automatisch in jedem Artikel)
+- **Reading Time** - Geschätzte Lesezeit (200 Wörter/Minute)
+- **Table of Contents** - Auto-generiertes Inhaltsverzeichnis aus H2/H3
+- **FAQ Schema** - Strukturierte Daten für FAQ-Sections
+- **Breadcrumbs** - Mit Schema.org Markup
+- **Related Posts** - Verwandte Artikel basierend auf Tags
 
 ### Utilities
 - `src/utils/blog.ts` - `getPublishedPosts()` für gefilterte Blog-Abfragen
@@ -165,7 +177,14 @@ rm bildname.png
 | 3D Printing | 6 | Aktiv |
 | Photography | 7 | Aktiv |
 | Japan Shopping | 3 | Aktiv |
-| Tech & Gadgets | - | Geplant |
+| Tech & Gadgets | 5 | Aktiv |
+
+### Tech & Gadgets Artikel
+- Is a Kindle Worth It (21. Jan)
+- Kindle vs Kobo (23. Jan)
+- Best Mechanical Keyboards for Beginners (25. Jan)
+- Best Tech Gifts Under $50 (27. Jan)
+- AirPods vs Galaxy Buds vs Sony (29. Jan)
 
 ---
 
@@ -176,7 +195,17 @@ rm bildname.png
 - [ ] Featured Image als WebP (`/images/artikel-name.webp`)
 - [ ] 3-5 relevante Tags
 - [ ] FAQ-Section (3 Fragen mit Antworten) für Schema.org
-- [ ] Interne Verlinkung zu 2-3 verwandten Artikeln
+- [ ] Interne Verlinkung zu 2-3 verwandten Artikeln innerhalb der Kategorie
+- [ ] Cross-Category Links wo sinnvoll (z.B. Japan Shopping → Photography für Kameras)
+
+---
+
+## Kontaktformular
+
+- **URL:** https://boredom-at-work.com/contact/
+- **Service:** Web3Forms (kostenlos)
+- **E-Mail:** twelvecharacters@proton.me
+- **Access Key:** In `src/pages/contact/index.astro` gespeichert
 
 ---
 
@@ -203,4 +232,4 @@ Siehe `CONTENT-PROMPTS.md` für vorgefertigte Prompts:
 
 ---
 
-*Letzte Aktualisierung: Januar 2026*
+*Letzte Aktualisierung: 15. Januar 2026*
