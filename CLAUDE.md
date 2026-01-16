@@ -206,7 +206,8 @@ rm bildname.png
 Die Website ist für LLMs (ChatGPT, Claude, Perplexity etc.) optimiert.
 
 ### Dateien
-- `public/llms.txt` - Strukturierte Übersicht für LLMs (Markdown-Format)
+- `public/llms.txt` - Kompakte Übersicht für LLMs (Markdown-Format)
+- `public/llms-full.txt` - Ausführliche Version mit Details, FAQs und Key Insights
 - `public/robots.txt` - Erlaubt AI-Crawler (GPTBot, ClaudeBot, PerplexityBot)
 
 ### llms.txt Pflege
