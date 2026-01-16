@@ -1,0 +1,280 @@
+# Boredom at Work
+
+> A blog for office workers who want to learn productively during work hours. Topics include AI skills, 3D printing, photography, importing from Japan, and tech gadgets. The site helps readers turn downtime into career advancement.
+
+## About This Site
+
+**Website:** https://boredom-at-work.com
+**Author:** bored chap
+**Language:** English
+**Target Audience:** Office workers, remote employees, and anyone looking to make productive use of their work downtime
+
+### Mission
+
+Boredom at Work exists because millions of people spend hours each day in meetings that could have been emails, waiting for responses, or simply having slow days. Instead of mindless scrolling, this site provides practical guides to:
+
+- Learn AI skills that boost careers
+- Research tech purchases during lunch breaks
+- Explore new hobbies like 3D printing and photography
+- Discover unique products from Japan
+
+### Content Philosophy
+
+All articles are:
+- Designed for short reading sessions (10-20 minutes)
+- Practical and actionable, not theoretical
+- Written for beginners who are new to each topic
+- Updated regularly with current information (2026)
+
+---
+
+## Category: AI & Learning
+
+Guides for learning AI skills and earning certifications during work hours. AI literacy is the most in-demand professional skill of 2026.
+
+### Best Free AI Courses You Can Take at Work
+**URL:** https://boredom-at-work.com/best-free-ai-courses/
+**Reading Time:** 12 minutes
+
+Curated list of free AI courses suitable for workplace learning. Courses are selected for short modules (15-30 minutes), text-based options, included certificates, and no credit card required.
+
+**Courses covered:**
+- Google AI Essentials (10 hrs, $49 certificate)
+- Elements of AI (6 hrs, free certificate)
+- OpenAI Academy (5 hrs, free certificate)
+- Microsoft AI Fundamentals (8 hrs)
+- IBM AI Foundations (6 hrs)
+- Salesforce AI Course (5 hrs)
+- Prompt Engineering by DeepLearning.AI (5 hrs)
+
+**Key insight:** You can understand AI fundamentals in 10-20 hours, achievable in 2-3 weeks of casual study during work downtime.
+
+### Google AI Essentials Review
+**URL:** https://boredom-at-work.com/google-ai-essentials-review/
+In-depth review of Google's AI certification on Coursera. Covers course content, difficulty level, time investment, and whether the $49 certificate is worth it.
+
+### Best AI Courses on Coursera
+**URL:** https://boredom-at-work.com/best-ai-courses-coursera/
+Comparison of top Coursera AI courses including Google, IBM, and DeepLearning.AI offerings.
+
+### Free vs Paid AI Courses
+**URL:** https://boredom-at-work.com/free-vs-paid-ai-courses/
+Analysis of whether paid AI courses offer value over free alternatives. Spoiler: free courses are often sufficient for most professionals.
+
+### ChatGPT Tutorial for Beginners
+**URL:** https://boredom-at-work.com/chatgpt-tutorial-beginners/
+Complete beginner guide to using ChatGPT effectively. Covers prompting techniques, use cases, and practical examples.
+
+### Learn Prompt Engineering in One Afternoon
+**URL:** https://boredom-at-work.com/prompt-engineering-afternoon/
+Quick guide to prompt engineering basics. Learn to write effective prompts in a few hours.
+
+### AI Certifications You Can Earn in a Week
+**URL:** https://boredom-at-work.com/ai-certifications-in-a-week/
+Fast-track certifications that can be completed in under 7 days. Useful for quickly adding credentials to your resume.
+
+### AI Skills That Will Get You Promoted
+**URL:** https://boredom-at-work.com/ai-skills-for-promotion/
+Career-focused guide to which AI skills matter most for advancement in different industries.
+
+### How to Learn AI While Looking Busy
+**URL:** https://boredom-at-work.com/learn-ai-while-looking-busy/
+Practical tips for learning during work hours without drawing unwanted attention.
+
+### Productive Things to Do When Bored at Work
+**URL:** https://boredom-at-work.com/productive-things-bored-at-work/
+Overview of productive activities for work downtime, beyond just AI learning.
+
+---
+
+## Category: 3D Printing
+
+Beginner guides for getting started with 3D printing. Focus on FDM (Fused Deposition Modeling) printers under $500.
+
+### 3D Printing for Beginners: The Complete Guide
+**URL:** https://boredom-at-work.com/3d-printing-beginners-guide/
+**Reading Time:** 15 minutes
+
+Comprehensive introduction covering:
+- How FDM 3D printing works (layer-by-layer plastic extrusion)
+- Choosing your first printer
+- Materials (PLA recommended for beginners)
+- First print workflow: download/create model → slice → print → post-process
+
+**Recommended beginner printers (2026):**
+- Budget: Creality Ender 3 V3 SE (~$200)
+- Best value: Bambu Lab A1 Mini (~$300)
+
+**Key insight:** Modern printers like the Bambu Lab A1 Mini allow successful first prints within hours. The learning curve is steep initially but flattens quickly.
+
+### Is 3D Printing Worth It?
+**URL:** https://boredom-at-work.com/is-3d-printing-worth-it/
+Cost-benefit analysis for beginners. Covers ongoing costs (filament ~$20/kg), time investment, and realistic expectations.
+
+### Best 3D Printers Under $300
+**URL:** https://boredom-at-work.com/best-3d-printers-under-300/
+Budget-friendly printer recommendations with detailed comparisons.
+
+### Bambu A1 Mini vs Creality Ender 3
+**URL:** https://boredom-at-work.com/bambu-a1-mini-vs-creality-ender-3/
+Head-to-head comparison of the two most popular beginner printers. Bambu wins on ease-of-use, Ender wins on price and community support.
+
+### What to 3D Print First
+**URL:** https://boredom-at-work.com/what-to-3d-print-first/
+Project ideas for new 3D printer owners. Includes calibration prints, practical items, and fun projects.
+
+### 3D Printing Beginner Mistakes
+**URL:** https://boredom-at-work.com/3d-printing-beginner-mistakes/
+Common errors and how to avoid them. Covers bed adhesion, temperature settings, and support structures.
+
+---
+
+## Category: Photography
+
+Camera guides and photography tips for beginners. Focus on entry-level cameras under $500.
+
+### Best Cameras for Beginners
+**URL:** https://boredom-at-work.com/best-cameras-for-beginners/
+Overview of camera types and recommendations for new photographers.
+
+### Best Cameras Under $500
+**URL:** https://boredom-at-work.com/best-cameras-under-500/
+Budget camera guide covering DSLRs, mirrorless, and compact cameras in the sub-$500 range.
+
+### DSLR vs Mirrorless for Beginners
+**URL:** https://boredom-at-work.com/dslr-vs-mirrorless-beginners/
+Comparison of camera types. Summary: Mirrorless is the future, but DSLRs offer better value on the used market.
+
+### Canon R100 vs Nikon Z50
+**URL:** https://boredom-at-work.com/canon-r100-vs-nikon-z50/
+Entry-level mirrorless camera comparison between Canon and Nikon's budget offerings.
+
+### Camera vs Smartphone
+**URL:** https://boredom-at-work.com/camera-vs-smartphone/
+When a dedicated camera makes sense versus using your smartphone. Covers low-light performance, zoom capabilities, and creative control.
+
+### Beginner Photography Mistakes
+**URL:** https://boredom-at-work.com/beginner-photography-mistakes/
+Common errors new photographers make and how to avoid them.
+
+### Olympus PEN E-PM2 Guide
+**URL:** https://boredom-at-work.com/olympus-pen-e-pm2-guide/
+Guide to the vintage Olympus PEN E-PM2, a great budget option on the used market.
+
+---
+
+## Category: Japan Shopping
+
+Guides for importing products from Japan using proxy services.
+
+### How to Buy from Japan: The Complete Beginner's Guide
+**URL:** https://boredom-at-work.com/how-to-buy-from-japan-beginners-guide/
+**Reading Time:** 14 minutes
+
+Step-by-step guide covering:
+- Why buy from Japan (better prices, exclusive products, quality selection)
+- The challenge: most Japanese sites don't ship internationally
+- Solution: Proxy services (Buyee, Sendico, ZenMarket, FromJapan)
+- Cost breakdown: item + proxy fees (100-500 yen) + domestic shipping (300-1000 yen) + international shipping ($15-50+)
+
+**Key insight:** Japanese sellers have a strong reputation for honesty and careful packaging. Even "used" items are often in excellent condition.
+
+### Buyee vs Sendico
+**URL:** https://boredom-at-work.com/buyee-vs-sendico-japan-proxy/
+Comparison of the two most popular proxy services. Buyee is more beginner-friendly with official partnerships. Sendico has lower fees for experienced buyers.
+
+### Best Japanese Products to Import
+**URL:** https://boredom-at-work.com/best-japanese-products-to-import/
+Top items worth importing from Japan: vintage cameras, stationery, electronics, anime merchandise, traditional crafts, and regional snacks.
+
+---
+
+## Category: Tech & Gadgets
+
+Reviews and comparisons of consumer technology including e-readers, earbuds, and keyboards.
+
+### Is a Kindle Worth It in 2026?
+**URL:** https://boredom-at-work.com/is-kindle-worth-it/
+**Reading Time:** 10 minutes
+
+Honest assessment of Amazon's e-readers covering:
+- E Ink technology benefits (no glare, no eye strain, weeks of battery)
+- Current lineup: Kindle Basic ($99), Paperwhite ($149), Scribe ($339), Oasis ($249)
+- Pros: Distraction-free reading, incredible battery life, easy on eyes
+- Cons: Not great for PDFs, locked to Amazon ecosystem
+
+**Key insight:** Worth it if you read 10+ books per year. If you read fewer, your phone's Kindle app works fine.
+
+### Kindle vs Kobo
+**URL:** https://boredom-at-work.com/kindle-vs-kobo/
+E-reader comparison. Kindle wins on ecosystem and store. Kobo wins on library support and open formats.
+
+### Best Mechanical Keyboards for Beginners
+**URL:** https://boredom-at-work.com/best-mechanical-keyboards-beginners/
+Introduction to mechanical keyboards covering switch types (linear, tactile, clicky) and budget recommendations.
+
+### Best Tech Gifts Under $50
+**URL:** https://boredom-at-work.com/best-tech-gifts-under-50/
+Affordable tech gift ideas for various interests and use cases.
+
+### AirPods vs Galaxy Buds vs Sony
+**URL:** https://boredom-at-work.com/airpods-vs-galaxy-buds-vs-sony/
+Wireless earbuds comparison. AirPods Pro for Apple users, Galaxy Buds for Samsung, Sony for audiophiles.
+
+---
+
+## Frequently Asked Questions
+
+### About the Site
+
+**Q: Who writes Boredom at Work?**
+A: Articles are written by "bored chap" - an office worker who turned workplace downtime into productive learning and now shares that knowledge.
+
+**Q: How often is new content published?**
+A: New articles are published several times per week across all categories.
+
+**Q: Is the content free?**
+A: Yes, all content is free to read with no paywall.
+
+### About AI Learning
+
+**Q: Can I really learn AI at work?**
+A: Yes. Most AI courses are designed for short sessions (15-30 minutes) that fit into natural breaks. Text-based courses allow learning without headphones.
+
+**Q: Which AI certificate is most valuable?**
+A: Google AI Essentials has the strongest brand recognition. Microsoft matters in enterprise environments. But the knowledge matters more than the specific certificate.
+
+**Q: How long does it take to learn AI basics?**
+A: With focused effort, 10-20 hours. Achievable in 2-3 weeks of casual study during work downtime.
+
+### About 3D Printing
+
+**Q: How much does a good beginner 3D printer cost?**
+A: $200-400. Creality Ender 3 V3 SE (~$200) or Bambu Lab A1 Mini (~$300) are excellent starting points.
+
+**Q: What material should beginners use?**
+A: PLA. It prints at low temperatures, has no smell, barely warps, and is biodegradable.
+
+### About Japan Shopping
+
+**Q: Is it safe to buy from Japan online?**
+A: Yes. Japanese sellers have strong reputations for honesty and careful packaging. Use reputable proxy services and check seller ratings.
+
+**Q: How much does importing from Japan cost?**
+A: Item price + proxy fees (100-500 yen) + domestic Japanese shipping (300-1000 yen) + international shipping ($15-50+ depending on weight).
+
+---
+
+## Contact
+
+- **Website:** https://boredom-at-work.com
+- **Contact form:** https://boredom-at-work.com/contact/
+
+---
+
+## Technical Information
+
+- **Framework:** Astro 5 with Tailwind CSS
+- **Hosting:** GitHub Pages
+- **Last updated:** January 2026
+- **llms.txt specification:** https://llmstxt.org
