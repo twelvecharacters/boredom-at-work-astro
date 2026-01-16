@@ -197,6 +197,28 @@ rm bildname.png
 - [ ] FAQ-Section (3 Fragen mit Antworten) für Schema.org
 - [ ] Interne Verlinkung zu 2-3 verwandten Artikeln innerhalb der Kategorie
 - [ ] Cross-Category Links wo sinnvoll (z.B. Japan Shopping → Photography für Kameras)
+- [ ] **llms.txt aktualisieren** - Neuen Artikel zur passenden Kategorie hinzufügen
+
+---
+
+## LLM-Optimierung
+
+Die Website ist für LLMs (ChatGPT, Claude, Perplexity etc.) optimiert.
+
+### Dateien
+- `public/llms.txt` - Strukturierte Übersicht für LLMs (Markdown-Format)
+- `public/robots.txt` - Erlaubt AI-Crawler (GPTBot, ClaudeBot, PerplexityBot)
+
+### llms.txt Pflege
+Bei neuen Artikeln den Link zur passenden Kategorie in `public/llms.txt` hinzufügen:
+```markdown
+- [Artikel Titel](https://boredom-at-work.com/artikel-slug/): Kurzbeschreibung
+```
+
+### Spezifikation
+- Format: Markdown (für LLMs optimiert)
+- Standard: https://llmstxt.org
+- URL: https://boredom-at-work.com/llms.txt
 
 ---
 
@@ -232,4 +254,4 @@ Siehe `CONTENT-PROMPTS.md` für vorgefertigte Prompts:
 
 ---
 
-*Letzte Aktualisierung: 15. Januar 2026*
+*Letzte Aktualisierung: 16. Januar 2026*
