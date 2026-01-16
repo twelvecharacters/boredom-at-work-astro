@@ -206,20 +206,48 @@ rm bildname.png
 Die Website ist für LLMs (ChatGPT, Claude, Perplexity etc.) optimiert.
 
 ### Dateien
-- `public/llms.txt` - Kompakte Übersicht für LLMs (Markdown-Format)
-- `public/llms-full.txt` - Ausführliche Version mit Details, FAQs und Key Insights
-- `public/robots.txt` - Erlaubt AI-Crawler (GPTBot, ClaudeBot, PerplexityBot)
+| Datei | URL | Beschreibung |
+|-------|-----|--------------|
+| `public/llms.txt` | https://boredom-at-work.com/llms.txt | Kompakte Übersicht (~4 KB) |
+| `public/llms-full.txt` | https://boredom-at-work.com/llms-full.txt | Ausführlich mit FAQs (~11 KB) |
+| `public/robots.txt` | https://boredom-at-work.com/robots.txt | Erlaubt AI-Crawler |
 
 ### llms.txt Pflege
-Bei neuen Artikeln den Link zur passenden Kategorie in `public/llms.txt` hinzufügen:
+Bei neuen Artikeln **beide Dateien** aktualisieren:
+
+**llms.txt** - Nur Link hinzufügen:
 ```markdown
 - [Artikel Titel](https://boredom-at-work.com/artikel-slug/): Kurzbeschreibung
+```
+
+**llms-full.txt** - Mit Details hinzufügen:
+```markdown
+### Artikel Titel
+**URL:** https://boredom-at-work.com/artikel-slug/
+**Reading Time:** X minutes
+Ausführliche Beschreibung des Artikels mit Key Insights.
 ```
 
 ### Spezifikation
 - Format: Markdown (für LLMs optimiert)
 - Standard: https://llmstxt.org
-- URL: https://boredom-at-work.com/llms.txt
+
+### Indexierung Status (Stand: 16. Januar 2026)
+
+**Google Search Console:**
+- ✅ Website verifiziert
+- ✅ `sitemap-index.xml` eingereicht (Status: Success, 12 Seiten)
+- ⚠️ llms.txt NICHT als Sitemap einreichen (Fehler!) → stattdessen via "URL-Prüfung" indexieren
+
+**Bing Webmaster Tools:**
+- ❌ Noch nicht eingerichtet
+- TODO: Import von Google Search Console durchführen
+- Wichtig für ChatGPT (nutzt Bing als Suchmaschine)
+
+**Nächste Schritte:**
+1. Bing Webmaster Tools einrichten (Import from Google Search Console)
+2. llms.txt und llms-full.txt via URL-Prüfung bei Google indexieren (nicht als Sitemap!)
+3. Warten auf Indexierung (1-4 Wochen)
 
 ---
 
