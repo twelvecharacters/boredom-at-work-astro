@@ -1,0 +1,63 @@
+# Boredom at Work
+
+> A blog for office workers who want to learn productively during work hours. Topics include AI skills, 3D printing, photography, importing from Japan, and tech gadgets. The site helps readers turn downtime into career advancement.
+
+## About
+
+Boredom at Work (https://boredom-at-work.com) provides practical guides and tutorials for people stuck in boring meetings or with downtime at the office. Instead of mindlessly scrolling, readers can learn AI skills, earn certifications, research tech purchases, or explore new hobbies.
+
+Target audience: Office workers, remote employees, and anyone looking to make productive use of their work downtime.
+
+## Categories
+
+### AI & Learning
+Guides for learning AI skills and earning certifications during work hours.
+
+- [Best Free AI Courses](https://boredom-at-work.com/best-free-ai-courses/): Curated list of free AI courses you can take discreetly at work
+- [Google AI Essentials Review](https://boredom-at-work.com/google-ai-essentials-review/): In-depth review of Google's AI certification
+- [Best AI Courses on Coursera](https://boredom-at-work.com/best-ai-courses-coursera/): Top Coursera courses for AI learning
+- [ChatGPT Tutorial for Beginners](https://boredom-at-work.com/chatgpt-tutorial-beginners/): Complete beginner guide to using ChatGPT effectively
+- [Learn Prompt Engineering in One Afternoon](https://boredom-at-work.com/prompt-engineering-afternoon/): Quick guide to prompt engineering basics
+- [AI Certifications You Can Earn in a Week](https://boredom-at-work.com/ai-certifications-in-a-week/): Fast-track certifications for your resume
+- [AI Skills That Will Get You Promoted](https://boredom-at-work.com/ai-skills-for-promotion/): Career-boosting AI skills
+
+### 3D Printing
+Beginner guides for getting started with 3D printing.
+
+- [3D Printing Beginner's Guide](https://boredom-at-work.com/3d-printing-beginners-guide/): Complete introduction to 3D printing
+- [Is 3D Printing Worth It?](https://boredom-at-work.com/is-3d-printing-worth-it/): Cost-benefit analysis for beginners
+- [Best 3D Printers Under $300](https://boredom-at-work.com/best-3d-printers-under-300/): Budget-friendly printer recommendations
+- [Bambu A1 Mini vs Creality Ender 3](https://boredom-at-work.com/bambu-a1-mini-vs-creality-ender-3/): Popular printer comparison
+- [What to 3D Print First](https://boredom-at-work.com/what-to-3d-print-first/): Project ideas for beginners
+- [3D Printing Beginner Mistakes](https://boredom-at-work.com/3d-printing-beginner-mistakes/): Common errors and how to avoid them
+
+### Photography
+Camera guides and photography tips for beginners.
+
+- [Best Cameras for Beginners](https://boredom-at-work.com/best-cameras-for-beginners/): Top camera recommendations for new photographers
+- [Best Cameras Under $500](https://boredom-at-work.com/best-cameras-under-500/): Budget camera guide
+- [DSLR vs Mirrorless for Beginners](https://boredom-at-work.com/dslr-vs-mirrorless-beginners/): Camera type comparison
+- [Canon R100 vs Nikon Z50](https://boredom-at-work.com/canon-r100-vs-nikon-z50/): Entry-level mirrorless comparison
+- [Camera vs Smartphone](https://boredom-at-work.com/camera-vs-smartphone/): When to use a dedicated camera
+- [Beginner Photography Mistakes](https://boredom-at-work.com/beginner-photography-mistakes/): Common errors to avoid
+
+### Japan Shopping
+Guides for importing products from Japan.
+
+- [How to Buy from Japan: Beginner Guide](https://boredom-at-work.com/how-to-buy-from-japan-beginners-guide/): Complete guide to Japanese proxy services
+- [Buyee vs Sendico](https://boredom-at-work.com/buyee-vs-sendico-japan-proxy/): Comparison of popular proxy services
+- [Best Japanese Products to Import](https://boredom-at-work.com/best-japanese-products-to-import/): Top items worth importing from Japan
+
+### Tech & Gadgets
+Reviews and comparisons of consumer technology.
+
+- [Is a Kindle Worth It?](https://boredom-at-work.com/is-kindle-worth-it/): E-reader buying guide
+- [Kindle vs Kobo](https://boredom-at-work.com/kindle-vs-kobo/): E-reader comparison
+- [Best Mechanical Keyboards for Beginners](https://boredom-at-work.com/best-mechanical-keyboards-beginners/): Keyboard buying guide
+- [Best Tech Gifts Under $50](https://boredom-at-work.com/best-tech-gifts-under-50/): Affordable tech gift ideas
+- [AirPods vs Galaxy Buds vs Sony](https://boredom-at-work.com/airpods-vs-galaxy-buds-vs-sony/): Wireless earbuds comparison
+
+## Contact
+
+- Website: https://boredom-at-work.com
+- Contact form: https://boredom-at-work.com/contact/
