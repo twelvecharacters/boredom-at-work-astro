@@ -179,12 +179,16 @@ rm bildname.png
 | Japan Shopping | 3 | Aktiv |
 | Tech & Gadgets | 5 | Aktiv |
 
-### Tech & Gadgets Artikel
-- Is a Kindle Worth It (21. Jan)
-- Kindle vs Kobo (23. Jan)
-- Best Mechanical Keyboards for Beginners (25. Jan)
-- Best Tech Gifts Under $50 (27. Jan)
-- AirPods vs Galaxy Buds vs Sony (29. Jan)
+### Geplante Artikel (Januar 2026)
+| Datum | Artikel | Kategorie |
+|-------|---------|-----------|
+| 17. Jan | How to Buy from Japan: Beginner Guide | Japan Shopping |
+| 19. Jan | Best Japanese Products to Import | Japan Shopping |
+| 21. Jan | Is a Kindle Worth It | Tech & Gadgets |
+| 23. Jan | Kindle vs Kobo | Tech & Gadgets |
+| 25. Jan | Best Mechanical Keyboards for Beginners | Tech & Gadgets |
+| 27. Jan | Best Tech Gifts Under $50 | Tech & Gadgets |
+| 29. Jan | AirPods vs Galaxy Buds vs Sony | Tech & Gadgets |
 
 ---
 
@@ -271,6 +275,27 @@ git push
 
 Build-Zeit: ~1-2 Minuten via GitHub Actions
 
+### Scheduled Posts (Wichtig!)
+
+**Problem:** Bei statischen Seiten (Astro + GitHub Pages) werden Artikel mit Zukunfts-`publishDate` erst beim nächsten Build live geschaltet — NICHT automatisch am Veröffentlichungstag.
+
+**Lösung:** Täglicher Cron-Job in `.github/workflows/deploy.yml`:
+```yaml
+schedule:
+  - cron: '0 6 * * *'  # Täglich 6:00 UTC (7:00 MEZ / 8:00 MESZ)
+```
+
+**Manueller Rebuild** (falls nötig):
+```bash
+git commit --allow-empty -m "Trigger rebuild for scheduled posts" && git push
+```
+
+### Artikel-Zeitplan prüfen
+```bash
+# Alle publishDates anzeigen (sortiert)
+grep "publishDate:" src/content/blog/*.md | sort -t: -k3
+```
+
 ---
 
 ## Prompt-Templates
@@ -283,4 +308,4 @@ Siehe `CONTENT-PROMPTS.md` für vorgefertigte Prompts:
 
 ---
 
-*Letzte Aktualisierung: 16. Januar 2026*
+*Letzte Aktualisierung: 17. Januar 2026*
