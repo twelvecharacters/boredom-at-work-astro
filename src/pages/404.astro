@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Page Not Found">
+  <div class="min-h-[70vh] flex items-center justify-center px-4 py-24 bg-background-alt relative overflow-hidden">
+    <!-- Decorative background element -->
+    <div class="absolute top-0 right-0 w-1/4 h-full bg-accent/5 -skew-x-12 transform origin-top"></div>
+    <div class="absolute bottom-0 left-0 w-1/4 h-full bg-primary/5 skew-x-12 transform origin-bottom"></div>
+    
+    <div class="max-w-2xl w-full text-center relative z-10">
+      <div class="mb-8">
+        <span class="text-accent font-bold text-xs uppercase tracking-[0.2em] block mb-4">Error 404</span>
+        <h1 class="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
+          Lost in the Office?
+        </h1>
+        <p class="text-xl text-text-light mb-10 leading-relaxed max-w-lg mx-auto">
+          The page you're looking for seems to have disappeared like a Friday afternoon motivation. Let's get you back to something productive.
+        </p>
+      </div>
+      
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a href="/" class="btn-primary">
+          Back to Home
+        </a>
+        <a href="/blog/" class="btn-secondary">
+          Browse All Guides
+        </a>
+      </div>
+      
+      <div class="mt-16 pt-8 border-t border-primary/10">
+        <p class="text-sm text-text-light/60">
+          Think this is a mistake? <a href="/contact/" class="text-accent hover:underline">Let us know</a>.
+        </p>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
