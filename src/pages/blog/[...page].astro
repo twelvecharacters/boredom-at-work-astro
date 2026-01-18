@@ -36,11 +36,11 @@ const breadcrumbItems = [
                 <article class="bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
                   <div class="md:flex">
                     {post.data.image && (
-                      <div class="md:w-1/3">
+                      <div class="md:w-1/3 aspect-square overflow-hidden">
                         <OptimizedImage
                           src={post.data.image}
                           alt={post.data.title}
-                          class="w-full h-48 md:h-full object-cover"
+                          class="w-full h-full object-cover"
                         />
                       </div>
                     )}
