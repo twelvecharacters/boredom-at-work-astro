@@ -33,16 +33,60 @@
       radial-gradient(at 0% 0%, hsla(244, 100%, 70%, 0.2) 0, transparent 50%),
       radial-gradient(at 50% 0%, hsla(263, 100%, 70%, 0.15) 0, transparent 50%),
       radial-gradient(at 100% 0%, hsla(280, 100%, 70%, 0.2) 0, transparent 50%);
+    position: relative;
+    &::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(circle at var(--mouse-x, 50%) var(--mouse-y, 50%), rgba(139, 92, 246, 0.15) 0%, transparent 40%);
+      pointer-events: none;
+      z-index: 1;
+    }
   }
 
   .floating {
-    animation: floating 3s ease-in-out infinite;
+    animation: floating 6s ease-in-out infinite;
+  }
+
+  .floating-delayed {
+    animation: floating 8s ease-in-out infinite;
+    animation-delay: -2s;
+  }
+
+  .floating-slow {
+    animation: floating 12s ease-in-out infinite;
+    animation-delay: -4s;
   }
 
   @keyframes floating {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
+    0% { transform: translateY(0px) rotate(0deg); }
+    33% { transform: translateY(-15px) rotate(2deg); }
+    66% { transform: translateY(5px) rotate(-1deg); }
+    100% { transform: translateY(0px) rotate(0deg); }
+  }
+
+  .shine-effect {
+    position: relative;
+    overflow: hidden;
+    &::before {
+      content: "";
+      position: absolute;
+      top: -50%;
+      left: -50%;
+      width: 200%;
+      height: 200%;
+      background: linear-gradient(45deg, transparent 45%, rgba(255, 255, 255, 0.1) 50%, transparent 55%);
+      transform: translateX(-100%);
+      transition: transform 0.6s ease;
+      pointer-events: none;
+    }
+    &:hover::before {
+      transform: translateX(100%);
+    }
+  }
+
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-white via-white/80 to-white/60;
   }
 }
 

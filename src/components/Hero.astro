@@ -11,25 +11,96 @@ interface Props {
 const { title, description, ctaText, ctaHref } = Astro.props;
 ---
 
-<section class="mesh-gradient text-white py-20 md:py-32 relative overflow-hidden">
-  <!-- Decorative Background Element -->
-  <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-accent/20 rounded-full blur-[120px] pointer-events-none"></div>
+<section class="mesh-gradient text-white py-20 md:py-32 relative overflow-hidden hero-section">
+  <!-- Interactive Background Blobs -->
+  <div class="absolute top-[10%] left-[10%] w-[400px] h-[400px] bg-accent/20 rounded-full blur-[100px] pointer-events-none parallax-blob floating" data-speed="0.05"></div>
+  <div class="absolute bottom-[10%] right-[10%] w-[500px] h-[500px] bg-primary-light/30 rounded-full blur-[120px] pointer-events-none parallax-blob floating-delayed" data-speed="0.08"></div>
+  <div class="absolute top-[40%] right-[20%] w-[300px] h-[300px] bg-accent-alt/10 rounded-full blur-[80px] pointer-events-none parallax-blob floating-slow" data-speed="0.03"></div>
 
   <div class="max-w-4xl mx-auto px-4 text-center relative z-10">
-    <div class="inline-block bg-white/10 backdrop-blur-sm border border-white/20 px-4 py-1.5 rounded-full text-sm font-medium mb-6 floating">
+    <div class="inline-block bg-white/10 backdrop-blur-sm border border-white/20 px-4 py-1.5 rounded-full text-sm font-medium mb-6 floating animate-in fade-in slide-in-from-bottom-4 duration-1000">
       🚀 Use your downtime wisely
     </div>
-    <h1 class="text-4xl md:text-6xl font-bold mb-6 text-white leading-tight">
+    <h1 class="text-4xl md:text-7xl font-bold mb-6 text-gradient leading-tight tracking-tight animate-in fade-in slide-in-from-bottom-6 duration-1000 delay-150">
       {title}
     </h1>
-    <p class="text-lg md:text-xl text-white/80 mb-10 max-w-2xl mx-auto leading-relaxed">
+    <p class="text-lg md:text-xl text-white/70 mb-10 max-w-2xl mx-auto leading-relaxed animate-in fade-in slide-in-from-bottom-8 duration-1000 delay-300">
       {description}
     </p>
-    <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
-      <a href={ctaHref} class="btn-primary text-lg shadow-xl shadow-accent/20 hover:scale-105 transition-transform">
-        {ctaText}
-      </a>
+    <div class="flex flex-col sm:flex-row items-center justify-center gap-4 animate-in fade-in slide-in-from-bottom-10 duration-1000 delay-500">
+      <div class="magnetic-wrap">
+        <a href={ctaHref} class="btn-primary text-lg shadow-2xl shadow-accent/20 hover:scale-105 transition-all duration-300 magnetic-content">
+          {ctaText}
+        </a>
+      </div>
       <span class="text-white/40 text-sm hidden sm:block">No boss required.</span>
     </div>
   </div>
 </section>
+
+<script>
+  function initHeroEffects() {
+    const hero = document.querySelector('.hero-section');
+    if (!hero) return;
+
+    const blobs = hero.querySelectorAll('.parallax-blob');
+    const magneticContent = hero.querySelector('.magnetic-content');
+    const magneticWrap = hero.querySelector('.magnetic-wrap');
+
+    // Parallax & Mouse Radial Effect
+    hero.addEventListener('mousemove', (e) => {
+      const rect = hero.getBoundingClientRect();
+      const x = e.clientX - rect.left;
+      const y = e.clientY - rect.top;
+      
+      hero.style.setProperty('--mouse-x', `${x}px`);
+      hero.style.setProperty('--mouse-y', `${y}px`);
+
+      const centerX = rect.width / 2;
+      const centerY = rect.height / 2;
+      const moveX = (e.clientX - centerX) / centerX;
+      const moveY = (e.clientY - centerY) / centerY;
+
+      blobs.forEach((blob) => {
+        const speed = parseFloat(blob.getAttribute('data-speed') || '0.05');
+        blob.style.transform = `translate(${moveX * speed * 100}px, ${moveY * speed * 100}px)`;
+      });
+
+      // Magnetic Button
+      if (magneticWrap && magneticContent) {
+        const wrapRect = magneticWrap.getBoundingClientRect();
+        const contentX = e.clientX - (wrapRect.left + wrapRect.width / 2);
+        const contentY = e.clientY - (wrapRect.top + wrapRect.height / 2);
+        const distance = Math.sqrt(contentX * contentX + contentY * contentY);
+
+        if (distance < 100) {
+          magneticContent.style.transform = `translate(${contentX * 0.3}px, ${contentY * 0.3}px) scale(1.05)`;
+        } else {
+          magneticContent.style.transform = '';
+        }
+      }
+    });
+
+    hero.addEventListener('mouseleave', () => {
+      blobs.forEach(blob => blob.style.transform = '');
+      if (magneticContent) magneticContent.style.transform = '';
+    });
+  }
+
+  // Initialize
+  initHeroEffects();
+  document.addEventListener('astro:after-swap', initHeroEffects);
+</script>
+
+<style>
+  .magnetic-wrap {
+    display: inline-block;
+    padding: 20px;
+    margin: -20px;
+  }
+  .magnetic-content {
+    display: inline-block;
+    will-change: transform;
+    transition: transform 0.2s cubic-bezier(0.33, 1, 0.68, 1);
+  }
+</style>
