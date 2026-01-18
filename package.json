@@ -6,7 +6,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "thumbnails": "node scripts/generate-thumbnails.js"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.6.1",
@@ -15,7 +16,9 @@
     "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
+    "glob": "^13.0.0",
     "sass": "^1.97.2",
-    "sass-embedded": "^1.97.2"
+    "sass-embedded": "^1.97.2",
+    "sharp": "^0.34.5"
   }
 }

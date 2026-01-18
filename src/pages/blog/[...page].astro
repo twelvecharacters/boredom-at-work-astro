@@ -38,7 +38,7 @@ const breadcrumbItems = [
                     {post.data.image && (
                       <div class="md:w-1/3 aspect-square overflow-hidden">
                         <OptimizedImage
-                          src={post.data.image}
+                          src={post.data.image.replace('/images/', '/images/thumbnails/')}
                           alt={post.data.title}
                           class="w-full h-full object-cover"
                         />
