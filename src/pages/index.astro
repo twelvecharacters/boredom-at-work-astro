@@ -102,6 +102,43 @@ const displayCategories = CATEGORIES.map(category => ({
       </p>
     </div>
   </section>
+  <!-- Learning Paths Section -->
+  <section class="py-24 bg-white relative overflow-hidden">
+    <div class="max-w-6xl mx-auto px-4 relative z-10">
+      <div class="flex flex-col md:flex-row items-end justify-between mb-12 gap-6">
+        <div class="max-w-2xl">
+          <h2 class="text-3xl md:text-5xl font-bold mb-4">Stealth Learning Paths</h2>
+          <p class="text-xl text-text-light">
+            Don't just read articles. Follow a structured, professional-looking roadmap to master new skills during your downtime.
+          </p>
+        </div>
+        <a href="/learning-paths/" class="btn-secondary group whitespace-nowrap">
+          View All Paths <span class="inline-block transition-transform group-hover:translate-x-1">→</span>
+        </a>
+      </div>
+      
+      <div class="grid md:grid-cols-2 gap-8">
+        <div class="bg-background-alt p-8 rounded-3xl border border-primary/5 hover:shadow-xl transition-all group relative overflow-hidden">
+          <div class="absolute -right-10 -bottom-10 w-40 h-40 bg-accent/5 rounded-full blur-2xl group-hover:bg-accent/10 transition-colors"></div>
+          <div class="relative z-10">
+            <div class="text-accent text-3xl mb-4">⚡</div>
+            <h3 class="text-2xl font-bold mb-3">AI Mastery</h3>
+            <p class="text-text-light mb-6">From writing your first prompt to automating your daily tasks with custom AI workflows.</p>
+            <a href="/learning-paths/ai-mastery/" class="text-accent font-bold hover:underline">Start Learning Path →</a>
+          </div>
+        </div>
+        <div class="bg-background-alt p-8 rounded-3xl border border-primary/5 hover:shadow-xl transition-all group relative overflow-hidden">
+          <div class="absolute -right-10 -bottom-10 w-40 h-40 bg-accent-alt/5 rounded-full blur-2xl group-hover:bg-accent-alt/10 transition-colors"></div>
+          <div class="relative z-10">
+            <div class="text-accent-alt text-3xl mb-4">🖨️</div>
+            <h3 class="text-2xl font-bold mb-3">3D Printing Startup</h3>
+            <p class="text-text-light mb-6">Turn your desk into a production line. Learn design, slicing, and how to sell your first prints.</p>
+            <a href="/learning-paths/3d-printing-startup/" class="text-accent-alt font-bold hover:underline">Start Learning Path →</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
   <!-- Latest Articles -->
   {latestPosts.length > 0 && (

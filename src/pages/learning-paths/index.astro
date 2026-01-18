@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { LEARNING_PATHS } from '../../data/learning-paths';
+
+const title = "Stealth Learning Paths";
+const description = "Curated journeys to help you master new skills during work downtime, disguised as professional documentation.";
+---
+
+<BaseLayout title={title} description={description}>
+  <section class="py-24 bg-background-alt relative overflow-hidden">
+    <div class="max-w-4xl mx-auto px-4 relative z-10 text-center">
+      <h1 class="text-4xl md:text-6xl font-bold mb-6">Choose Your Path</h1>
+      <p class="text-xl text-text-light mb-12 max-w-2xl mx-auto">
+        Boredom is an opportunity. Pick a skill and follow our structured guides, tailored for office downtime.
+      </p>
+
+      <div class="grid md:grid-cols-2 gap-8 text-left">
+        {LEARNING_PATHS.map(path => (
+          <div class="bg-white p-8 rounded-3xl shadow-sm border border-primary/5 hover:shadow-xl transition-all group">
+            <div class="w-12 h-12 bg-blue-50 text-blue-600 rounded-xl flex items-center justify-center text-xl font-bold mb-6 group-hover:bg-blue-600 group-hover:text-white transition-colors">
+              {path.id === 'ai-mastery' ? '⚡' : '🖨️'}
+            </div>
+            <h2 class="text-2xl font-bold mb-3">{path.title}</h2>
+            <p class="text-text-light mb-6 leading-relaxed">
+              {path.description}
+            </p>
+            <div class="flex items-center justify-between">
+                <span class="text-sm font-semibold text-blue-600">{path.steps.length} Modules</span>
+                <a href={`/learning-paths/${path.id}/`} class="btn-primary text-sm px-4 py-2">
+                    Start Path →
+                </a>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
