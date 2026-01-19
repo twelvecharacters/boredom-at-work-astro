@@ -17,8 +17,13 @@ const description = "Curated journeys to help you master new skills during work 
       <div class="grid md:grid-cols-2 gap-8 text-left">
         {LEARNING_PATHS.map(path => (
           <div class="bg-white p-8 rounded-3xl shadow-sm border border-primary/5 hover:shadow-xl transition-all group">
-            <div class="w-12 h-12 bg-blue-50 text-blue-600 rounded-xl flex items-center justify-center text-xl font-bold mb-6 group-hover:bg-blue-600 group-hover:text-white transition-colors">
-              {path.id === 'ai-mastery' ? '⚡' : '🖨️'}
+            <div class={`w-12 h-12 rounded-xl flex items-center justify-center text-xl font-bold mb-6 transition-colors ${
+              path.id === 'ai-mastery' ? 'bg-blue-50 text-blue-600 group-hover:bg-blue-600 group-hover:text-white' :
+              path.id === 'stealth-photography' ? 'bg-purple-50 text-purple-600 group-hover:bg-purple-600 group-hover:text-white' :
+              path.id === 'stealth-cad' ? 'bg-amber-50 text-amber-600 group-hover:bg-amber-600 group-hover:text-white' :
+              'bg-blue-50 text-blue-600 group-hover:bg-blue-600 group-hover:text-white'
+            }`}>
+              {path.id === 'ai-mastery' ? '⚡' : path.id === 'stealth-photography' ? '📸' : path.id === 'stealth-cad' ? '📐' : '🖨️'}
             </div>
             <h2 class="text-2xl font-bold mb-3">{path.title}</h2>
             <p class="text-text-light mb-6 leading-relaxed">

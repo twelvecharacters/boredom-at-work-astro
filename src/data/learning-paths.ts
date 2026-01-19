@@ -65,5 +65,59 @@ export const LEARNING_PATHS: LearningPath[] = [
         description: 'How to turn your new hobby into a profitable online store.'
       }
     ]
+  },
+  {
+    id: 'stealth-photography',
+    title: 'Visual Intelligence & Documentation',
+    description: 'Master the fundamentals of optical capture and digital imaging, disguised as technical documentation.',
+    steps: [
+      {
+        title: 'Optical Sensor vs. Mobile Imaging',
+        slug: 'camera-vs-smartphone',
+        description: 'Understanding why dedicated hardware still outperforms integrated mobile sensors.'
+      },
+      {
+        title: 'System Architecture: Mirrorless vs. DSLR',
+        slug: 'dslr-vs-mirrorless-beginners',
+        description: 'Deep dive into the mechanical and electronic differences of modern imaging systems.'
+      },
+      {
+        title: 'Deployment: Selecting Your Hardware',
+        slug: 'best-cameras-for-beginners',
+        description: 'Strategic analysis of entry-level systems for various technical requirements.'
+      },
+      {
+        title: 'System Optimization: Common User Errors',
+        slug: 'beginner-photography-mistakes',
+        description: 'Identifying and mitigating common pitfalls in initial system operation.'
+      }
+    ]
+  },
+  {
+    id: 'stealth-cad',
+    title: 'CAD Systems & Spatial Simulation',
+    description: 'Master engineering design and structural simulation fundamentals, presented as industrial documentation.',
+    steps: [
+      {
+        title: 'System Architecture: CAD Foundations',
+        slug: 'cad-software-3d-printing',
+        description: 'Analyzing technical requirements for modern CAD software environments.'
+      },
+      {
+        title: 'Structural Integrity & Spatial Design',
+        slug: 'what-to-3d-print-first',
+        description: 'Principles of three-dimensional modeling and physical load analysis.'
+      },
+      {
+        title: 'Prototype Validation & Error Analysis',
+        slug: '3d-printing-beginner-mistakes',
+        description: 'Mitigating mechanical failure modes during initial prototype deployment.'
+      },
+      {
+        title: 'Manufacturing Integration & Logistics',
+        slug: 'selling-3d-prints-online',
+        description: 'Transitioning from digital simulation to low-volume industrial production.'
+      }
+    ]
   }
 ];
