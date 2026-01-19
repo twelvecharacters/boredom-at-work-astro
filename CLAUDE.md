@@ -298,6 +298,41 @@ grep "publishDate:" src/content/blog/*.md | sort -t: -k3
 
 ---
 
+## Post-Publish-Check (AUTOMATISCH durchführen!)
+
+**Wenn der Benutzer nach einem geplanten Artikel fragt oder ein Artikel heute veröffentlicht werden sollte:**
+
+### 1. Deployment prüfen
+```bash
+# Letzten GitHub Actions Run prüfen
+gh run list --limit 5
+```
+- Cron-Job sollte täglich ~6:00-8:00 UTC laufen
+- Status muss "success" sein
+
+### 2. Artikel online prüfen
+- Artikel-URL direkt aufrufen: `https://boredom-at-work.com/[slug]/`
+- Blog-Übersicht prüfen: Artikel sollte als erster erscheinen
+- Bei Cache-Problemen: Hard-Refresh empfehlen (`Cmd + Shift + R`)
+
+### 3. SEO-Checkliste verifizieren
+| Check | Befehl/Aktion |
+|-------|---------------|
+| Title (50-60 Zeichen) | Im Frontmatter prüfen |
+| Description (150-160 Zeichen) | Im Frontmatter prüfen |
+| WebP-Bild vorhanden | `ls public/images/[bild].webp` |
+| Tags (3-5) | Im Frontmatter prüfen |
+| FAQ-Section (3 Fragen) | Im Frontmatter prüfen |
+| Interne Links (2-3) | Im Artikel-Body prüfen |
+| llms.txt aktualisiert | `grep "[slug]" public/llms.txt` |
+| llms-full.txt aktualisiert | `grep "[slug]" public/llms-full.txt` |
+
+### 4. Ergebnis melden
+- Alle Checks bestanden → "Alles erledigt"
+- Fehlende Punkte → Automatisch beheben oder User informieren
+
+---
+
 ## Prompt-Templates
 
 Siehe `CONTENT-PROMPTS.md` für vorgefertigte Prompts:
@@ -308,4 +343,4 @@ Siehe `CONTENT-PROMPTS.md` für vorgefertigte Prompts:
 
 ---
 
-*Letzte Aktualisierung: 17. Januar 2026*
+*Letzte Aktualisierung: 19. Januar 2026*
