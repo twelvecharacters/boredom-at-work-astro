@@ -14,3 +14,15 @@ export async function getPublishedPosts() {
 
   return allPosts.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
 }
+
+/**
+ * Converts a tag name into a URL-friendly slug.
+ */
+export function slugifyTag(tag: string) {
+  return tag
+    .toLowerCase()
+    .replace(/&/g, '') // Remove ampersands
+    .replace(/\s+/g, '-') // Replace spaces with hyphens
+    .replace(/-+/g, '-') // Remove duplicate hyphens
+    .replace(/^-+|-+$/g, ''); // Trim hyphens from ends
+}

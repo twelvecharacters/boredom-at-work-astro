@@ -4,12 +4,15 @@ interface Props {
   icon: string;
   description: string;
   links: { text: string; href: string }[];
+  viewAllHref?: string;
 }
 
-const { title, icon, description, links } = Astro.props;
+const { title, icon, description, links, viewAllHref } = Astro.props;
+const displayLinks = links.slice(0, 3);
+const hasMore = links.length > 3 || viewAllHref;
 ---
 
-<div class="group bg-white rounded-2xl p-8 shadow-sm border border-primary/5 hover:shadow-2xl hover:-translate-y-2 transition-all duration-500 shine-effect cursor-pointer">
+<div class="group bg-white rounded-2xl p-8 shadow-sm border border-primary/5 hover:shadow-2xl hover:-translate-y-2 transition-all duration-500 shine-effect cursor-pointer flex flex-col">
   <div class="w-12 h-12 bg-background-alt rounded-xl flex items-center justify-center text-2xl mb-6 group-hover:scale-110 group-hover:bg-accent/10 group-hover:rotate-6 transition-all duration-300">
     {icon}
   </div>
@@ -19,8 +22,8 @@ const { title, icon, description, links } = Astro.props;
   <p class="text-text-light leading-relaxed mb-6">
     {description}
   </p>
-  <ul class="space-y-4">
-    {links.map(link => (
+  <ul class="space-y-4 mb-auto">
+    {displayLinks.map(link => (
       <li>
         <a href={link.href} class="flex items-center gap-2 text-sm font-medium text-text-light hover:text-accent group/link">
           <span class="w-1.5 h-1.5 bg-accent/30 rounded-full transition-all group-hover/link:w-3"></span>
@@ -29,4 +32,13 @@ const { title, icon, description, links } = Astro.props;
       </li>
     ))}
   </ul>
+  
+  {hasMore && (
+    <div class="mt-8 pt-6 border-t border-primary/5">
+      <a href={viewAllHref || "/blog/"} class="text-accent font-bold text-sm flex items-center gap-2 hover:gap-3 transition-all">
+        More articles
+        <span class="text-lg">→</span>
+      </a>
+    </div>
+  )}
 </div>

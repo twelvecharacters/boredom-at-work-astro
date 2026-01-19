@@ -3,7 +3,7 @@ title: "Learn Prompt Engineering in One Afternoon"
 description: "Master prompt engineering in just a few hours. Learn the core principles, advanced techniques, and templates to get dramatically better results from ChatGPT and other AI tools."
 publishDate: 2026-01-12
 author: "bored chap"
-tags: ["Prompt Engineering", "ChatGPT", "AI Skills"]
+tags: ["Prompt Engineering", "ChatGPT", "AI Skills", "Tutorial"]
 image: "/images/prompt-engineering.jpg"
 draft: false
 ---

@@ -23,6 +23,7 @@ export const CATEGORIES = [
       { text: 'Best AI Courses on Coursera', href: '/best-ai-courses-coursera/' },
       { text: 'Free vs Paid AI Courses', href: '/free-vs-paid-ai-courses/' },
     ],
+    viewAllHref: '/tags/ai-courses/',
   },
   {
     title: 'The 3D Printing Lab',
@@ -35,6 +36,7 @@ export const CATEGORIES = [
       { text: 'Is 3D Printing Actually Worth It?', href: '/is-3d-printing-worth-it/' },
       { text: 'What Should You 3D Print First?', href: '/what-to-3d-print-first/' },
     ],
+    viewAllHref: '/tags/3d-printing/',
   },
   {
     title: 'Import Treasures from Japan',
@@ -46,6 +48,7 @@ export const CATEGORIES = [
       { text: 'How to Buy from Japan: Beginner Guide', href: '/how-to-buy-from-japan-beginners-guide/' },
       { text: '15 Best Japanese Products to Import', href: '/best-japanese-products-to-import/' },
     ],
+    viewAllHref: '/tags/japan-shopping/',
   },
   {
     title: 'Photography 101',
@@ -58,6 +61,7 @@ export const CATEGORIES = [
       { text: 'Camera vs Smartphone for Travel', href: '/camera-vs-smartphone/' },
       { text: 'Olympus PEN E-PM2 User Guide', href: '/olympus-pen-e-pm2-guide/' },
     ],
+    viewAllHref: '/tags/photography/',
   },
   {
     title: "Lunch Break Tutorials",
@@ -69,6 +73,7 @@ export const CATEGORIES = [
       { text: 'Learn Prompt Engineering in One Afternoon', href: '/prompt-engineering-afternoon/' },
       { text: 'How to Learn AI While Looking Busy', href: '/learn-ai-while-looking-busy/' },
     ],
+    viewAllHref: '/tags/tutorial/',
   },
   {
     title: 'The Promotion Fast-Track',
@@ -79,6 +84,7 @@ export const CATEGORIES = [
       { text: 'AI Certifications You Can Earn in a Week', href: '/ai-certifications-in-a-week/' },
       { text: 'AI Skills That Will Get You Promoted', href: '/ai-skills-for-promotion/' },
     ],
+    viewAllHref: '/tags/career-development/',
   },
   {
     title: 'Tech & Gadgets Worth Your Money',
@@ -91,6 +97,7 @@ export const CATEGORIES = [
       { text: 'Best Mechanical Keyboards for Beginners', href: '/best-mechanical-keyboards-beginners/' },
       { text: 'AirPods vs Galaxy Buds vs Sony', href: '/airpods-vs-galaxy-buds-vs-sony/' },
     ],
+    viewAllHref: '/tags/tech-gadgets/',
   },
 ];
 

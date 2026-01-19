@@ -4,7 +4,7 @@ import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import OptimizedImage from '../../../components/OptimizedImage.astro';
 import TagCloud from '../../../components/TagCloud.astro';
 import Pagination from '../../../components/Pagination.astro';
-import { getPublishedPosts } from '../../../utils/blog';
+import { getPublishedPosts, slugifyTag } from '../../../utils/blog';
 
 export async function getStaticPaths({ paginate }: any) {
   const posts = await getPublishedPosts();
@@ -15,7 +15,7 @@ export async function getStaticPaths({ paginate }: any) {
       post.data.tags.includes(tag)
     );
     return paginate(filteredPosts, {
-      params: { tag: tag.toLowerCase().replace(/\s+/g, '-') },
+      params: { tag: slugifyTag(tag) },
       props: { tagName: tag },
       pageSize: 6,
     });
@@ -27,7 +27,7 @@ const posts = page.data;
 
 const breadcrumbItems = [
   { name: 'Blog', url: '/blog/' },
-  { name: tagName, url: `/tags/${tagName.toLowerCase().replace(/\s+/g, '-')}/` }
+  { name: tagName, url: `/tags/${slugifyTag(tagName)}/` }
 ];
 ---
 
@@ -62,7 +62,7 @@ const breadcrumbItems = [
                       <div class="flex flex-wrap gap-2 mb-3">
                         {post.data.tags.map((tag: string) => (
                           <a
-                            href={`/tags/${tag.toLowerCase().replace(/\s+/g, '-')}/`}
+                            href={`/tags/${slugifyTag(tag)}/`}
                             class={`px-2 py-0.5 rounded text-xs transition-colors ${tag === tagName ? 'bg-accent text-white' : 'bg-background-alt text-text-light hover:bg-accent hover:text-white'}`}
                           >
                             {tag}

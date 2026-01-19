@@ -4,7 +4,7 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import OptimizedImage from '../../components/OptimizedImage.astro';
 import TagCloud from '../../components/TagCloud.astro';
 import Pagination from '../../components/Pagination.astro';
-import { getPublishedPosts } from '../../utils/blog';
+import { getPublishedPosts, slugifyTag } from '../../utils/blog';
 
 export async function getStaticPaths({ paginate }: any) {
   const posts = await getPublishedPosts();
@@ -48,7 +48,7 @@ const breadcrumbItems = [
                       <div class="flex flex-wrap gap-2 mb-3">
                         {post.data.tags.map((tag: string) => (
                           <a
-                            href={`/tags/${tag.toLowerCase().replace(/\s+/g, '-')}/`}
+                            href={`/tags/${slugifyTag(tag)}/`}
                             class="bg-background-alt text-text-light hover:bg-accent hover:text-white px-2 py-0.5 rounded text-xs transition-colors"
                           >
                             {tag}
