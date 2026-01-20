@@ -236,22 +236,24 @@ Ausführliche Beschreibung des Artikels mit Key Insights.
 - Format: Markdown (für LLMs optimiert)
 - Standard: https://llmstxt.org
 
-### Indexierung Status (Stand: 16. Januar 2026)
+### Indexierung Status (Stand: 20. Januar 2026)
 
 **Google Search Console:**
 - ✅ Website verifiziert
-- ✅ `sitemap-index.xml` eingereicht (Status: Success, 12 Seiten)
+- ✅ `sitemap-index.xml` eingereicht (Status: Success)
 - ⚠️ llms.txt NICHT als Sitemap einreichen (Fehler!) → stattdessen via "URL-Prüfung" indexieren
+- 📊 3 Seiten indexiert (Stand: 20. Jan), Rest in Bearbeitung
 
 **Bing Webmaster Tools:**
-- ❌ Noch nicht eingerichtet
-- TODO: Import von Google Search Console durchführen
+- ✅ Eingerichtet (Import von Google Search Console)
 - Wichtig für ChatGPT (nutzt Bing als Suchmaschine)
 
+**robots.txt:**
+- ✅ Alte WordPress-URLs blockiert (/feed, /comments/, /archives/, /search/, /sample-page/)
+
 **Nächste Schritte:**
-1. Bing Webmaster Tools einrichten (Import from Google Search Console)
-2. llms.txt und llms-full.txt via URL-Prüfung bei Google indexieren (nicht als Sitemap!)
-3. Warten auf Indexierung (1-4 Wochen)
+1. Wichtige URLs manuell zur Indexierung anfordern (URL-Prüfung in GSC)
+2. Warten auf Indexierung (1-4 Wochen)
 
 ---
 
