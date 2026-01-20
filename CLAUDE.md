@@ -257,6 +257,100 @@ Ausführliche Beschreibung des Artikels mit Key Insights.
 
 ---
 
+## Traffic & Marketing (Stand: 20. Januar 2026)
+
+### Aktive Kanäle
+
+| Kanal | Status | Account |
+|-------|--------|---------|
+| Google (SEO) | ⏳ 3 Seiten indexiert | Search Console aktiv |
+| Bing | ✅ Eingerichtet | Webmaster Tools |
+| Reddit | ✅ Posts erstellt | - |
+| Pinterest | ✅ Account + 1 Pin | Boards erstellt |
+
+### Reddit-Strategie
+
+**Beste Subreddits für unsere Inhalte:**
+- r/3Dprinting - 3D Printing Artikel
+- r/learnmachinelearning - AI Kurse
+- r/artificial - AI allgemein
+- r/photography - Kamera-Guides
+
+**Post-Regeln:**
+- Nicht spammy formulieren - echten Mehrwert bieten
+- Frage am Ende stellen (Diskussion anregen)
+- Beste Zeit: 14-20 Uhr MEZ (US wach)
+- Auf Kommentare antworten
+
+**Bereits gepostet:**
+- ✅ 3D Printing Beginner Mistakes → r/3Dprinting
+- ✅ Best Free AI Courses → r/learnmachinelearning
+
+### Pinterest-Strategie
+
+**Account:** Eingerichtet (Business Account)
+
+**Boards erstellt:**
+- 3D Printing Tips & Guides
+- Photography for Beginners
+- Learn AI & Tech Skills
+
+**Pin-Format:**
+- Größe: 1000 x 1500 px (vertikal)
+- Tool: Canva (kostenlose Templates mit Filter "Preis → Kostenlos")
+
+**Erstellte Pins:**
+- ✅ 10 3D Printing Mistakes
+
+**Nächste Pins erstellen:**
+
+**Pin 2: Best Cameras Under $500**
+```
+Titel: Best Cameras Under $500 for Beginners (2026 Guide)
+
+Beschreibung:
+Looking for your first real camera? These are the best cameras under $500 for beginners in 2026. Mirrorless, DSLR, and compact options compared. Perfect for learning photography without breaking the bank.
+
+📸 Includes specs, pros/cons, and which to pick
+
+#photography #camera #beginnerphotography #cameragear #mirrorless #sonycamera #canoncamera #nikoncamera
+
+Link: https://boredom-at-work.com/best-cameras-under-500/
+Board: Photography for Beginners
+```
+
+**Pin 3: Free AI Courses**
+```
+Titel: 7 Actually Free AI Courses (No Hidden Paywalls)
+
+Beschreibung:
+Want to learn AI without spending money? These 7 courses are genuinely free - including some with free certificates. From Google AI Essentials to OpenAI Academy. Perfect for career development during lunch breaks.
+
+⏱️ All under 10 hours to complete
+
+#artificialintelligence #ai #onlinelearning #freecourses #careerdevelopment #chatgpt #machinelearning #upskilling
+
+Link: https://boredom-at-work.com/best-free-ai-courses/
+Board: Learn AI & Tech Skills
+```
+
+**Pinterest-Tipps:**
+- 3-5 Pins pro Woche (Konsistenz wichtig)
+- Jeden Artikel mehrfach pinnen (verschiedene Designs)
+- Beste Zeit: Abends und Wochenenden
+
+### Traffic-Erwartungen
+
+| Zeitraum | Erwartung |
+|----------|-----------|
+| Monat 1-2 | Indexierung, kaum organischer Traffic |
+| Monat 3-4 | Erste Rankings, 50-200 Besucher/Monat |
+| Monat 6+ | Stabiler organischer Traffic |
+
+**Schnelle Wins:** Reddit-Posts können sofort Traffic bringen
+
+---
+
 ## Kontaktformular
 
 - **URL:** https://boredom-at-work.com/contact/
@@ -345,4 +439,4 @@ Siehe `CONTENT-PROMPTS.md` für vorgefertigte Prompts:
 
 ---
 
-*Letzte Aktualisierung: 19. Januar 2026*
+*Letzte Aktualisierung: 20. Januar 2026*
