@@ -56,23 +56,23 @@ const nextStep = path.steps[currentStepIndex + 1];
   <Roadmap pathId={path.id} currentSlug={stepSlug} />
 
   {nextStep && (
-    <div class="bg-gray-900 p-8 rounded-2xl text-white mt-8 flex items-center justify-between">
+    <div class="bg-gray-100 border border-gray-200 p-8 rounded-xl mt-8 flex items-center justify-between">
       <div>
-        <h3 class="text-white text-lg font-bold mb-1">Module Completed?</h3>
-        <p class="text-gray-400 mb-0">Next up: <strong>{nextStep.title}</strong></p>
+        <h3 class="text-gray-900 text-base font-bold mb-1">Module Processed</h3>
+        <p class="text-gray-500 text-sm mb-0">Next Reference: <strong>{nextStep.title}</strong></p>
       </div>
-      <a href={`/learning-paths/${path.id}/${nextStep.slug}/`} class="bg-white text-gray-900 px-6 py-3 rounded-xl font-bold hover:bg-gray-100 transition-colors">
-        Continue →
+      <a href={`/learning-paths/${path.id}/${nextStep.slug}/`} class="bg-gray-900 text-white px-6 py-2 rounded-lg font-bold hover:bg-gray-800 transition-colors text-xs uppercase tracking-widest">
+        Next Entry
       </a>
     </div>
   )}
 
   {!nextStep && (
-    <div class="bg-green-600 p-8 rounded-2xl text-white mt-8 text-center">
-        <h3 class="text-white text-2xl font-bold mb-2">Congratulations! 🎉</h3>
-        <p class="text-green-100 mb-6">You have completed the "{path.title}" learning path.</p>
-        <a href="/learning-paths/" class="inline-block bg-white text-green-600 px-8 py-3 rounded-xl font-bold hover:bg-green-50 transition-colors">
-            Explore More Paths
+    <div class="bg-gray-50 border border-dashed border-gray-300 p-10 rounded-xl mt-8 text-center">
+        <h3 class="text-gray-900 text-xl font-bold mb-2">Cycle Complete</h3>
+        <p class="text-gray-500 text-sm mb-6 max-w-md mx-auto">All modules in the "{path.title}" reference series have been reviewed. Return to index for further documentation.</p>
+        <a href="/learning-paths/" class="inline-block bg-white border border-gray-300 text-gray-700 px-8 py-3 rounded-lg font-bold hover:bg-gray-50 transition-colors text-xs uppercase tracking-widest">
+            Return to Index
         </a>
     </div>
   )}

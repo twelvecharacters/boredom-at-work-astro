@@ -142,15 +142,14 @@ const {
     <ReadingProgressBar />
     <header class="doc-header">
       <a href="/" class="font-bold text-gray-900 border-r border-gray-200 pr-6 mr-6 h-6 flex items-center no-underline hover:text-gray-900">
-        {SITE.title}
+        System Documentation
       </a>
-      <span class="text-sm font-semibold text-gray-500">{pathTitle}</span>
-
+      <span class="text-sm font-semibold text-gray-400">{pathTitle}</span>
     </header>
 
     <aside class="doc-sidebar">
       <div class="mb-8">
-        <h4 class="text-[10px] font-black uppercase tracking-widest text-gray-400 mb-4">Contents</h4>
+        <h4 class="text-[10px] font-black uppercase tracking-widest text-gray-400 mb-4">Index</h4>
         <nav>
           <slot name="sidebar" />
         </nav>
@@ -158,19 +157,20 @@ const {
     </aside>
 
     <main class="doc-main">
-      <div class="doc-crumb">{pathTitle} / Core Concepts</div>
       <h1 class="doc-title">{title}</h1>
       <div class="doc-prose">
         <slot />
       </div>
 
-      <SocialShare title={title} description={description} />
+      <div class="mt-8 pt-8 border-t border-gray-100 opacity-20 hover:opacity-100 transition-opacity">
+        <SocialShare title={title} description={description} />
+      </div>
       
-      <div class="mt-16 pt-8 border-t border-gray-100 flex justify-between items-center text-sm text-gray-500">
-        <span>Updated 3 days ago</span>
+      <div class="mt-16 pt-8 border-t border-gray-100 flex justify-between items-center text-[10px] text-gray-400 uppercase tracking-widest font-bold">
+        <span>Public Distribution Prohibited</span>
         <div class="flex gap-4">
-          <a href="#" class="hover:text-gray-900">Edit Page</a>
-          <a href="#" class="hover:text-gray-900">Give Feedback</a>
+          <a href="#" class="hover:text-gray-900">Reference</a>
+          <a href="#" class="hover:text-gray-900">Support</a>
         </div>
       </div>
     </main>

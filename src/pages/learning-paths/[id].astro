@@ -25,19 +25,19 @@ const { path } = Astro.props;
     ))}
   </div>
 
-  <p class="text-xl text-gray-600 mb-10">
+  <p class="text-lg text-gray-600 mb-10 leading-relaxed">
     {path.description}
   </p>
 
   <Roadmap pathId={path.id} />
 
-  <div class="bg-blue-600 p-8 rounded-2xl text-white mt-12 flex items-center justify-between shadow-xl shadow-blue-200">
+  <div class="bg-gray-100 border border-gray-200 p-8 rounded-xl mt-12 flex items-center justify-between">
     <div>
-      <h3 class="text-white text-xl font-bold mb-1">Ready to start?</h3>
-      <p class="text-blue-100 mb-0">Begin with the first module: <strong>{path.steps[0].title}</strong></p>
+      <h3 class="text-gray-900 text-lg font-bold mb-1">Initialization Required</h3>
+      <p class="text-gray-500 text-sm mb-0">Proceed to first documentation module: <strong>{path.steps[0].title}</strong></p>
     </div>
-    <a href={`/learning-paths/${path.id}/${path.steps[0].slug}/`} class="bg-white text-blue-600 px-6 py-3 rounded-xl font-bold hover:bg-blue-50 transition-colors">
-      Start First Step →
+    <a href={`/learning-paths/${path.id}/${path.steps[0].slug}/`} class="bg-gray-900 text-white px-6 py-3 rounded-lg font-bold hover:bg-gray-800 transition-colors text-sm uppercase tracking-wider">
+      Begin Module 1.0
     </a>
   </div>
 </DocLayout>
