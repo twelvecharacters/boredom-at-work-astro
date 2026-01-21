@@ -1,6 +1,7 @@
 ---
 import '../styles/app.css';
 import { SITE } from '../config';
+import ReadingProgressBar from '../components/ReadingProgressBar.astro';
 
 interface Props {
   title: string;
@@ -137,6 +138,7 @@ const {
     </style>
   </head>
   <body class="doc-body">
+    <ReadingProgressBar />
     <header class="doc-header">
       <a href="/" class="font-bold text-gray-900 border-r border-gray-200 pr-6 mr-6 h-6 flex items-center no-underline hover:text-gray-900">
         {SITE.title}
