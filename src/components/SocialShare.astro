@@ -1,0 +1,156 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+  url?: string;
+}
+
+const { title, description, url = Astro.url.href } = Astro.props;
+
+const shareLinks = [
+  {
+    name: 'Facebook',
+    icon: 'facebook',
+    href: `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`,
+    color: '#1877F2'
+  },
+  {
+    name: 'X',
+    icon: 'x',
+    href: `https://twitter.com/intent/tweet?text=${encodeURIComponent(title)}&url=${encodeURIComponent(url)}`,
+    color: '#000000'
+  },
+  {
+    name: 'Reddit',
+    icon: 'reddit',
+    href: `https://www.reddit.com/submit?url=${encodeURIComponent(url)}&title=${encodeURIComponent(title)}`,
+    color: '#FF4500'
+  },
+  {
+    name: 'LinkedIn',
+    icon: 'linkedin',
+    href: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}`,
+    color: '#0A66C2'
+  }
+];
+---
+
+<div class="social-share mt-8 py-6 border-t border-primary/10">
+  <p class="text-sm font-semibold text-text-light uppercase tracking-wider mb-4">Share this article</p>
+  <div class="flex flex-wrap gap-3">
+    {shareLinks.map(link => (
+      <a
+        href={link.href}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="share-btn flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium transition-all hover:scale-105"
+        style={`--btn-color: ${link.color}; --btn-bg: ${link.color}10;`}
+        title={`Share on ${link.name}`}
+      >
+        <span class="share-icon" data-name={link.name.toLowerCase()}></span>
+        {link.name}
+      </a>
+    ))}
+    
+    <!-- Copy Link Button (Substitute for Instagram direct share) -->
+    <button
+      id="copy-link-btn"
+      class="share-btn flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium transition-all hover:scale-105"
+      style="--btn-color: #833AB4; --btn-bg: #833AB410;"
+      data-url={url}
+      title="Copy link"
+    >
+      <span class="share-icon" data-name="link"></span>
+      Copy Link
+    </button>
+  </div>
+</div>
+
+<script>
+  function setupSocialShare() {
+    const copyBtn = document.getElementById('copy-link-btn');
+    if (!copyBtn) return;
+
+    copyBtn.addEventListener('click', async () => {
+      const url = copyBtn.getAttribute('data-url');
+      if (!url) return;
+
+      try {
+        await navigator.clipboard.writeText(url);
+        const originalText = copyBtn.innerHTML;
+        copyBtn.innerHTML = '<span class="share-icon" data-name="check"></span> Copied!';
+        copyBtn.style.backgroundColor = 'var(--btn-color)';
+        copyBtn.style.color = 'white';
+        
+        setTimeout(() => {
+          copyBtn.innerHTML = originalText;
+          copyBtn.style.backgroundColor = '';
+          copyBtn.style.color = '';
+        }, 2000);
+      } catch (err) {
+        console.error('Failed to copy link:', err);
+      }
+    });
+  }
+
+  // Support Astro page transitions
+  document.addEventListener('astro:page-load', setupSocialShare);
+  setupSocialShare();
+</script>
+
+<style>
+  .share-btn {
+    border: 1px solid var(--btn-color);
+    color: var(--btn-color);
+    background: transparent;
+  }
+
+  .share-btn:hover {
+    background: var(--btn-color);
+    color: white;
+  }
+
+  /* Inline Icons as simple SVG masks or backgrounds since we don't have an icon library confirmed */
+  .share-icon {
+    width: 18px;
+    height: 18px;
+    display: inline-block;
+    background-color: currentColor;
+    mask-size: contain;
+    mask-repeat: no-repeat;
+    mask-position: center;
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+  }
+
+  .share-icon[data-name="facebook"] {
+    mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>');
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>');
+  }
+
+  .share-icon[data-name="x"] {
+    mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></svg>');
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></svg>');
+  }
+
+  .share-icon[data-name="reddit"] {
+    mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.056 1.597.032.222.049.445.049.67 0 2.22-2.735 4.021-6.107 4.021-3.372 0-6.107-1.801-6.107-4.021 0-.225.017-.448.049-.67-.621-.264-1.056-.881-1.056-1.597 0-.968.786-1.754 1.754-1.754.477 0 .899.182 1.207.491 1.194-.856 2.85-1.417 4.674-1.488l.82-3.818a.5.5 0 0 1 .587-.387l2.872.605a1.25 1.25 0 0 1 .809-.322zm-10.232 7.02c-.688 0-1.25.561-1.25 1.249 0 .688.562 1.25 1.25 1.25.687 0 1.248-.562 1.248-1.25 0-.688-.561-1.249-1.248-1.249zm7.444 4.145c-.092.091-.24.091-.332 0-1.115-1.114-3.1-1.113-4.214 0-.092.091-.24.091-.332 0a.235.235 0 0 1 0-.332c1.298-1.298 3.58-1.298 4.878 0a.235.235 0 0 1 0 .332zm.578-2.896c-.687 0-1.248.561-1.248 1.249 0 .688.561 1.25 1.248 1.25.688 0 1.25-.562 1.25-1.25 0-.688-.562-1.25-1.25-1.249z"/></svg>');
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.056 1.597.032.222.049.445.049.67 0 2.22-2.735 4.021-6.107 4.021-3.372 0-6.107-1.801-6.107-4.021 0-.225.017-.448.049-.67-.621-.264-1.056-.881-1.056-1.597 0-.968.786-1.754 1.754-1.754.477 0 .899.182 1.207.491 1.194-.856 2.85-1.417 4.674-1.488l.82-3.818a.5.5 0 0 1 .587-.387l2.872.605a1.25 1.25 0 0 1 .809-.322zm-10.232 7.02c-.688 0-1.25.561-1.25 1.249 0 .688.562 1.25 1.25 1.25.687 0 1.248-.562 1.248-1.25 0-.688-.561-1.249-1.248-1.249zm7.444 4.145c-.092.091-.24.091-.332 0-1.115-1.114-3.1-1.113-4.214 0-.092.091-.24.091-.332 0a.235.235 0 0 1 0-.332c1.298-1.298 3.58-1.298 4.878 0a.235.235 0 0 1 0 .332zm.578-2.896c-.687 0-1.248.561-1.248 1.249 0 .688.561 1.25 1.248 1.25.688 0 1.25-.562 1.25-1.25 0-.688-.562-1.25-1.25-1.249z"/></svg>');
+  }
+
+  .share-icon[data-name="linkedin"] {
+    mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>');
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>');
+  }
+
+  .share-icon[data-name="link"] {
+    mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10.59 13.41c.41.39.41 1.03 0 1.42-.39.39-1.03.39-1.42 0a5.003 5.003 0 0 1 0-7.07l3.54-3.54a5.003 5.003 0 0 1 7.07 0 5.003 5.003 0 0 1 0 7.07l-1.49 1.49c.01-.82-.12-1.64-.4-2.42l.47-.48a2.982 2.982 0 0 0 0-4.24 2.982 2.982 0 0 0-4.24 0l-3.53 3.53a2.982 2.982 0 0 0 0 4.24zm2.82-4.24c.39-.39 1.03-.39 1.42 0a5.003 5.003 0 0 1 0 7.07l-3.54 3.54a5.003 5.003 0 0 1-7.07 0 5.003 5.003 0 0 1 0-7.07l1.49-1.49c-.01.82.12 1.64.4 2.43l-.47.47a2.982 2.982 0 0 0 0 4.24 2.982 2.982 0 0 0 4.24 0l3.53-3.53a2.982 2.982 0 0 0 0-4.24z"/></svg>');
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10.59 13.41c.41.39.41 1.03 0 1.42-.39.39-1.03.39-1.42 0a5.003 5.003 0 0 1 0-7.07l3.54-3.54a5.003 5.003 0 0 1 7.07 0 5.003 5.003 0 0 1 0 7.07l-1.49 1.49c.01-.82-.12-1.64-.4-2.42l.47-.48a2.982 2.982 0 0 0 0-4.24 2.982 2.982 0 0 0-4.24 0l-3.53 3.53a2.982 2.982 0 0 0 0 4.24zm2.82-4.24c.39-.39 1.03-.39 1.42 0a5.003 5.003 0 0 1 0 7.07l-3.54 3.54a5.003 5.003 0 0 1-7.07 0 5.003 5.003 0 0 1 0-7.07l1.49-1.49c-.01.82.12 1.64.4 2.43l-.47.47a2.982 2.982 0 0 0 0 4.24 2.982 2.982 0 0 0 4.24 0l3.53-3.53a2.982 2.982 0 0 0 0-4.24z"/></svg>');
+  }
+
+  .share-icon[data-name="check"] {
+    mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>');
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>');
+  }
+</style>
