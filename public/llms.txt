@@ -20,6 +20,15 @@ Guides for learning AI skills and earning certifications during work hours.
 - [Learn Prompt Engineering in One Afternoon](https://boredom-at-work.com/prompt-engineering-afternoon/): Quick guide to prompt engineering basics
 - [AI Certifications You Can Earn in a Week](https://boredom-at-work.com/ai-certifications-in-a-week/): Fast-track certifications for your resume
 - [AI Skills That Will Get You Promoted](https://boredom-at-work.com/ai-skills-for-promotion/): Career-boosting AI skills
+- [Claude vs ChatGPT](https://boredom-at-work.com/claude-vs-chatgpt/): AI assistant comparison guide
+- [Perplexity AI Guide](https://boredom-at-work.com/perplexity-ai-guide/): AI-powered search engine for research
+- [Best AI Tools for Office Work](https://boredom-at-work.com/best-ai-tools-office-work/): Curated productivity tools for work
+- [Microsoft Copilot Review](https://boredom-at-work.com/microsoft-copilot-review/): Is $30/month worth it?
+- [AI Meeting Assistants](https://boredom-at-work.com/ai-meeting-assistants/): Otter, Fireflies, Granola compared
+- [Notion AI vs Obsidian AI](https://boredom-at-work.com/notion-ai-vs-obsidian-ai/): Note-taking apps with AI compared
+- [How to Use AI at Work Safely](https://boredom-at-work.com/how-to-use-ai-at-work-safely/): Policies, privacy, and best practices
+- [AI Writing Tools Comparison](https://boredom-at-work.com/ai-writing-tools-comparison/): Grammarly, Jasper, Claude compared
+- [Best AI Chrome Extensions](https://boredom-at-work.com/best-ai-chrome-extensions/): Browser extensions for productivity
 
 ### 3D Printing
 Beginner guides for getting started with 3D printing.

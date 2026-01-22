@@ -81,6 +81,123 @@ Career-focused guide to which AI skills matter most for advancement in different
 **URL:** https://boredom-at-work.com/learn-ai-while-looking-busy/
 Practical tips for learning during work hours without drawing unwanted attention.
 
+### Claude vs ChatGPT
+**URL:** https://boredom-at-work.com/claude-vs-chatgpt/
+**Reading Time:** 12 minutes
+
+Head-to-head comparison of the two leading AI assistants. Covers writing quality, coding assistance, reasoning capabilities, and which to choose for different use cases.
+
+**Key insights:**
+- Claude excels at long-form writing and nuanced analysis
+- ChatGPT wins on web browsing and image generation
+- Claude has larger context window (200K vs 128K tokens)
+- Both cost $20/month for premium tiers
+
+### Perplexity AI Guide
+**URL:** https://boredom-at-work.com/perplexity-ai-guide/
+**Reading Time:** 12 minutes
+
+Complete guide to Perplexity AI, the search engine that gives answers instead of links. Covers when to use it over Google, Pro vs Free tiers, and real-world use cases.
+
+**Key insights:**
+- Perplexity searches the web in real-time and synthesizes answers with citations
+- Best for research, product comparisons, and learning new topics
+- Not ideal for quick lookups, local search, or shopping
+- Pro ($20/month) adds unlimited deep searches and file uploads
+
+### Best AI Tools for Office Work
+**URL:** https://boredom-at-work.com/best-ai-tools-office-work/
+**Reading Time:** 14 minutes
+
+Curated list of AI tools that genuinely improve office productivity. Covers AI assistants, email, meetings, writing, notes, presentations, and scheduling.
+
+**Top picks by category:**
+- AI Assistant: Claude (best writing) or ChatGPT (most features)
+- Research: Perplexity (answers with sources)
+- Email: Superhuman ($30/mo) or Spark (free)
+- Meetings: Otter.ai (best transcription)
+- Writing: Grammarly (works everywhere)
+- Notes: Notion AI (integrated workspace)
+- Presentations: Gamma (AI-generated slides)
+- Scheduling: Reclaim (smart calendar blocking)
+
+### Microsoft Copilot Review
+**URL:** https://boredom-at-work.com/microsoft-copilot-review/
+**Reading Time:** 12 minutes
+
+Honest review of Microsoft 365 Copilot after months of daily use. Covers pricing, strengths, weaknesses, and whether it's worth the $30/month add-on cost.
+
+**Key insights:**
+- Excels at email drafting, meeting summaries, and document summarization
+- PowerPoint generation is disappointing, quality is inconsistent
+- Total cost: $42-52/user/month (Microsoft 365 + Copilot)
+- Worth it for heavy Microsoft 365 users whose company pays
+- Rating: 3.5/5 stars — useful but not transformative
+
+### AI Meeting Assistants
+**URL:** https://boredom-at-work.com/ai-meeting-assistants/
+**Reading Time:** 14 minutes
+
+Comprehensive comparison of AI meeting assistants that transcribe, summarize, and extract action items from your meetings.
+
+**Top picks:**
+- Best overall: Otter.ai ($17/mo) — most accurate transcription
+- Best for sales: Fireflies.ai ($18/mo) — CRM integrations
+- Best for privacy: Granola ($10/mo) — local processing on Mac
+- Best free: Fathom — unlimited transcription for individuals
+- Best for sharing: tl;dv ($20/mo) — video clips and highlights
+
+### Notion AI vs Obsidian AI
+**URL:** https://boredom-at-work.com/notion-ai-vs-obsidian-ai/
+**Reading Time:** 12 minutes
+
+Comparison of AI-powered note-taking: Notion's integrated approach vs Obsidian's plugin-based flexibility.
+
+**Key differences:**
+- Notion AI: $10/mo add-on, seamless integration, cloud-based, workspace-wide Q&A
+- Obsidian AI: Plugin-based, can run locally for complete privacy, more customizable
+- Notion wins on ease of use and collaboration
+- Obsidian wins on privacy, control, and cost flexibility
+
+### How to Use AI at Work Safely
+**URL:** https://boredom-at-work.com/how-to-use-ai-at-work-safely/
+**Reading Time:** 12 minutes
+
+Practical guide to using AI at work without risking your job. Covers company policies, data protection, disclosure requirements, and common mistakes.
+
+**Golden rules:**
+1. Never paste confidential data into free AI tools
+2. Know and follow your company's AI policy
+3. Disclose AI use when required
+4. Always review AI output before using it
+5. You're responsible for the final product
+
+### AI Writing Tools Comparison
+**URL:** https://boredom-at-work.com/ai-writing-tools-comparison/
+**Reading Time:** 14 minutes
+
+Comprehensive comparison of AI writing tools: editing assistants (Grammarly), content generators (Jasper, Copy.ai), and general AI (Claude, ChatGPT).
+
+**Top picks:**
+- Best all-around: Grammarly ($12/mo) — works everywhere
+- Best quality: Claude ($20/mo) — superior writing output
+- Best for marketing: Jasper ($49/mo) — brand voice + templates
+- Best for clarity: Hemingway (free) — simplicity focused
+- Best for learning: ProWritingAid ($10/mo) — detailed feedback
+
+### Best AI Chrome Extensions
+**URL:** https://boredom-at-work.com/best-ai-chrome-extensions/
+**Reading Time:** 14 minutes
+
+Curated list of AI Chrome extensions that improve productivity without leaving your browser.
+
+**Top picks:**
+- Best overall: Sider ($10/mo) — AI sidebar with multiple models
+- Best all-in-one: Monica ($10/mo) — chat, images, translation
+- Best for speed: Merlin ($15/mo) — keyboard-first workflow
+- Best for research: Perplexity (free) — search with sources
+- Best for writing: Grammarly ($12/mo) — works everywhere
+
 ### Productive Things to Do When Bored at Work
 **URL:** https://boredom-at-work.com/productive-things-bored-at-work/
 Overview of productive activities for work downtime, beyond just AI learning.

@@ -190,6 +190,19 @@ rm bildname.png
 | 27. Jan | Best Tech Gifts Under $50 | Tech & Gadgets |
 | 29. Jan | AirPods vs Galaxy Buds vs Sony | Tech & Gadgets |
 
+### Geplante Artikel (Februar 2026) - AI/Productivity Fokus
+| Datum | Artikel | Kategorie | Status |
+|-------|---------|-----------|--------|
+| 2. Feb | Claude vs ChatGPT | AI | ✅ Geschrieben |
+| 5. Feb | Perplexity AI: The Google Killer for Research | AI | ✅ Geschrieben |
+| 8. Feb | Best AI Tools for Office Work (2026) | AI/Productivity | ✅ Geschrieben |
+| 11. Feb | Microsoft Copilot: Is It Worth the Price? | AI | ✅ Geschrieben |
+| 14. Feb | AI Meeting Assistants: Never Take Notes Again | AI/Productivity | ✅ Geschrieben |
+| 17. Feb | Notion AI vs Obsidian AI: Best for Note-Taking | AI/Productivity | ✅ Geschrieben |
+| 20. Feb | How to Use AI at Work (Without Getting in Trouble) | AI/Productivity | ✅ Geschrieben |
+| 23. Feb | AI Writing Tools: Grammarly vs Jasper vs Claude | AI | ✅ Geschrieben |
+| 26. Feb | Best AI Chrome Extensions for Productivity | AI/Productivity | ✅ Geschrieben |
+
 ---
 
 ## SEO-Checkliste für neue Artikel
@@ -439,4 +452,4 @@ Siehe `CONTENT-PROMPTS.md` für vorgefertigte Prompts:
 
 ---
 
-*Letzte Aktualisierung: 20. Januar 2026*
+*Letzte Aktualisierung: 22. Januar 2026*
