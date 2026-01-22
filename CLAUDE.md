@@ -335,6 +335,7 @@ Ausführliche Beschreibung des Artikels mit Key Insights.
 **Bereits gepostet:**
 - ✅ 3D Printing Beginner Mistakes → r/3Dprinting (Erfolg!)
 - ✅ Best Free AI Courses → r/learnmachinelearning (Erfolg!)
+- ✅ Best Cameras Under $500 → r/AskPhotography (22. Jan) — https://www.reddit.com/r/AskPhotography/comments/1qjsmer/what_are_the_best_cameras_under_500_for_beginners/
 
 **Nächste Posts (Februar-Content):**
 - [ ] Claude vs ChatGPT → r/ChatGPT, r/ClaudeAI
@@ -349,7 +350,7 @@ Ausführliche Beschreibung des Artikels mit Key Insights.
 **Posting-Zeitplan:**
 | # | Artikel | Subreddit | Datum |
 |---|---------|-----------|-------|
-| 1 | Best Cameras Under $500 | r/photography | 23. Jan |
+| 1 | Best Cameras Under $500 | r/AskPhotography | ✅ 22. Jan |
 | 2 | Is a Kindle Worth It | r/kindle | 24. Jan |
 | 3 | How to Buy from Japan | r/JapaneseProducts | 25. Jan |
 | 4 | DSLR vs Mirrorless | r/AskPhotography | 26. Jan |
