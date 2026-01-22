@@ -4,6 +4,28 @@
 
 ---
 
+## ⚠️ ERINNERUNG: Fehlende Bilder (Stand: 22. Januar 2026)
+
+**9 Bilder für Februar-Artikel fehlen noch!**
+
+| Bild | Artikel | Datum |
+|------|---------|-------|
+| `claude-vs-chatgpt.webp` | Claude vs ChatGPT | 2. Feb |
+| `perplexity-ai-guide.webp` | Perplexity AI Guide | 5. Feb |
+| `best-ai-tools-office-work.webp` | Best AI Tools for Office | 8. Feb |
+| `microsoft-copilot-review.webp` | Microsoft Copilot Review | 11. Feb |
+| `ai-meeting-assistants.webp` | AI Meeting Assistants | 14. Feb |
+| `notion-ai-vs-obsidian-ai.webp` | Notion vs Obsidian AI | 17. Feb |
+| `how-to-use-ai-at-work-safely.webp` | AI at Work Safely | 20. Feb |
+| `ai-writing-tools-comparison.webp` | AI Writing Tools | 23. Feb |
+| `best-ai-chrome-extensions.webp` | AI Chrome Extensions | 26. Feb |
+
+**Aktion:** Bilder erstellen/beschaffen und nach `public/images/` kopieren (WebP, max 1200px, <150KB).
+
+*Diese Notiz löschen, wenn alle Bilder vorhanden sind.*
+
+---
+
 ## Projekt-Übersicht
 
 - **Website:** https://www.boredom-at-work.com
