@@ -4,8 +4,17 @@
 
 ---
 
-## ⚠️ ERINNERUNG: Fehlende Bilder (Stand: 22. Januar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 22. Januar 2026)
 
+### 1. Reddit-Posts starten! 🚀
+**5 vorbereitete Posts ab heute posten** (siehe unten bei "VORBEREITETE REDDIT-POSTS")
+- Post 1: Best Cameras → r/photography (23. Jan)
+- Post 2: Kindle → r/kindle (24. Jan)
+- Post 3: Japan Guide → r/JapaneseProducts (25. Jan)
+- Post 4: DSLR vs Mirrorless → r/AskPhotography (26. Jan)
+- Post 5: ChatGPT Tutorial → r/ChatGPT (27. Jan)
+
+### 2. Fehlende Bilder
 **9 Bilder für Februar-Artikel fehlen noch!**
 
 | Bild | Artikel | Datum |
@@ -305,11 +314,17 @@ Ausführliche Beschreibung des Artikels mit Key Insights.
 
 ### Reddit-Strategie
 
+**Status: ✅ ERFOLGREICH** (Stand: 22. Januar 2026)
+- Backlinks generiert
+- Direkter Traffic signifikant
+
 **Beste Subreddits für unsere Inhalte:**
 - r/3Dprinting - 3D Printing Artikel
 - r/learnmachinelearning - AI Kurse
 - r/artificial - AI allgemein
 - r/photography - Kamera-Guides
+- r/productivity - Productivity/AI Tools (NEU)
+- r/ChatGPT - ChatGPT/Claude Vergleiche (NEU)
 
 **Post-Regeln:**
 - Nicht spammy formulieren - echten Mehrwert bieten
@@ -318,8 +333,120 @@ Ausführliche Beschreibung des Artikels mit Key Insights.
 - Auf Kommentare antworten
 
 **Bereits gepostet:**
-- ✅ 3D Printing Beginner Mistakes → r/3Dprinting
-- ✅ Best Free AI Courses → r/learnmachinelearning
+- ✅ 3D Printing Beginner Mistakes → r/3Dprinting (Erfolg!)
+- ✅ Best Free AI Courses → r/learnmachinelearning (Erfolg!)
+
+**Nächste Posts (Februar-Content):**
+- [ ] Claude vs ChatGPT → r/ChatGPT, r/ClaudeAI
+- [ ] Perplexity AI Guide → r/perplexity_ai
+- [ ] Best AI Tools for Office → r/productivity
+- [ ] AI Meeting Assistants → r/remotework
+
+---
+
+### 📋 VORBEREITETE REDDIT-POSTS (Posten ab 23. Januar 2026)
+
+**Posting-Zeitplan:**
+| # | Artikel | Subreddit | Datum |
+|---|---------|-----------|-------|
+| 1 | Best Cameras Under $500 | r/photography | 23. Jan |
+| 2 | Is a Kindle Worth It | r/kindle | 24. Jan |
+| 3 | How to Buy from Japan | r/JapaneseProducts | 25. Jan |
+| 4 | DSLR vs Mirrorless | r/AskPhotography | 26. Jan |
+| 5 | ChatGPT Tutorial | r/ChatGPT | 27. Jan |
+
+**Beste Posting-Zeit:** 15-17 Uhr MEZ (US Ostküste wach)
+
+---
+
+#### Post 1: Best Cameras Under $500 → r/photography
+
+**Title:** `I put together a guide for budget cameras under $500 - would love feedback from more experienced photographers`
+
+**Body:**
+```
+Hey everyone,
+
+I've been researching budget-friendly cameras for a while and finally wrote up my findings. Focused on what's actually worth buying in 2026 for beginners who want to step up from smartphones but don't want to break the bank.
+
+Covered mirrorless, some DSLRs (used market), and a few compact options. Tried to focus on real-world value rather than just specs.
+
+Here's the guide: https://boredom-at-work.com/best-cameras-under-500/
+
+Curious what this community thinks - did I miss any hidden gems in the sub-$500 range? Always looking to learn from people with more experience.
+```
+
+---
+
+#### Post 2: Is a Kindle Worth It → r/kindle
+
+**Title:** `Wrote an honest assessment of whether Kindles are still worth it in 2026 - interested in this community's take`
+
+**Body:**
+```
+I've been using a Kindle for a while and recently wrote up my honest thoughts on whether they're actually worth buying in 2026.
+
+Covered the pros (battery life, eye strain, distraction-free reading) and cons (Amazon lock-in, PDF handling, the "do I really need another device" question).
+
+Link if anyone's interested: https://boredom-at-work.com/is-kindle-worth-it/
+
+For those of you who've had Kindles for years - do you think they're still as good a value as they used to be? Or has the smartphone Kindle app caught up enough?
+```
+
+---
+
+#### Post 3: How to Buy from Japan → r/JapaneseProducts
+
+**Title:** `Complete guide to buying from Japan using proxy services - took me months to figure this out`
+
+**Body:**
+```
+Finally wrote up everything I learned about importing from Japan. Proxy services like Buyee and Sendico, Yahoo Auctions Japan, Mercari JP, the whole process.
+
+Took me a while to figure out all the fees, shipping options, and which services are actually reliable. Hopefully saves someone else the learning curve.
+
+Full guide here: https://boredom-at-work.com/how-to-buy-from-japan-beginners-guide/
+
+What's been your experience? Any tips I might have missed? Always looking to learn from people who've been doing this longer.
+```
+
+---
+
+#### Post 4: DSLR vs Mirrorless → r/AskPhotography
+
+**Title:** `DSLR vs Mirrorless for beginners in 2026 - wrote a comparison, curious if you agree`
+
+**Body:**
+```
+The DSLR vs mirrorless debate comes up a lot, so I wrote a detailed comparison specifically for beginners trying to decide.
+
+My take: mirrorless is the future, but used DSLRs offer insane value right now. Tried to be balanced about when each makes sense.
+
+Here's the full breakdown: https://boredom-at-work.com/dslr-vs-mirrorless-beginners/
+
+Interested in what this community thinks - for someone buying their first "real" camera in 2026, would you still recommend a DSLR? Or is mirrorless the only sensible choice now?
+```
+
+---
+
+#### Post 5: ChatGPT Tutorial → r/ChatGPT
+
+**Title:** `Made a beginner's guide to ChatGPT for people who are just getting started`
+
+**Body:**
+```
+A lot of friends and coworkers have been asking me how to actually use ChatGPT effectively, so I wrote up a comprehensive beginner's guide.
+
+Covers the basics but also some prompting techniques that took me a while to figure out. Tried to make it practical rather than theoretical.
+
+Guide here: https://boredom-at-work.com/chatgpt-tutorial-beginners/
+
+For the experienced users here - what do you wish you'd known when you first started? Might update the guide based on feedback.
+```
+
+---
+
+*Nach dem Posten: Status hier aktualisieren und Notiz oben löschen.*
 
 ### Pinterest-Strategie
 
