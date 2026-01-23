@@ -4,34 +4,32 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 22. Januar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 23. Januar 2026)
 
-### 1. Reddit-Posts starten! 🚀
+### Letzte Sitzung (23. Januar 2026)
+✅ **Alle 9 Februar-Bilder hinzugefügt und gepusht:**
+- claude-vs-chatgpt.webp
+- perplexity-ai-guide.webp
+- best-ai-tools-office-work.webp
+- microsoft-copilot-review.webp
+- ai-meeting-assistants.webp
+- notion-ai-vs-obsidian-ai.webp
+- how-to-use-ai-at-work-safely.webp
+- ai-writing-tools-comparison.webp
+- best-ai-chrome-extensions.webp (neu erstellt, 117KB, 1200x800px)
+
+**Nächste Schritte:**
+1. Reddit-Posts 2-5 posten (24.-27. Jan)
+2. Pinterest-Pins erstellen (Cameras, AI Courses)
+3. Nach Februar-Launch: Reddit-Posts für AI-Artikel vorbereiten
+
+### Reddit-Posts starten! 🚀
 **5 vorbereitete Posts ab heute posten** (siehe unten bei "VORBEREITETE REDDIT-POSTS")
-- Post 1: Best Cameras → r/photography (23. Jan)
+- Post 1: Best Cameras → r/AskPhotography ✅ 22. Jan gepostet
 - Post 2: Kindle → r/kindle (24. Jan)
 - Post 3: Japan Guide → r/JapaneseProducts (25. Jan)
 - Post 4: DSLR vs Mirrorless → r/AskPhotography (26. Jan)
 - Post 5: ChatGPT Tutorial → r/ChatGPT (27. Jan)
-
-### 2. Fehlende Bilder
-**9 Bilder für Februar-Artikel fehlen noch!**
-
-| Bild | Artikel | Datum |
-|------|---------|-------|
-| `claude-vs-chatgpt.webp` | Claude vs ChatGPT | 2. Feb |
-| `perplexity-ai-guide.webp` | Perplexity AI Guide | 5. Feb |
-| `best-ai-tools-office-work.webp` | Best AI Tools for Office | 8. Feb |
-| `microsoft-copilot-review.webp` | Microsoft Copilot Review | 11. Feb |
-| `ai-meeting-assistants.webp` | AI Meeting Assistants | 14. Feb |
-| `notion-ai-vs-obsidian-ai.webp` | Notion vs Obsidian AI | 17. Feb |
-| `how-to-use-ai-at-work-safely.webp` | AI at Work Safely | 20. Feb |
-| `ai-writing-tools-comparison.webp` | AI Writing Tools | 23. Feb |
-| `best-ai-chrome-extensions.webp` | AI Chrome Extensions | 26. Feb |
-
-**Aktion:** Bilder erstellen/beschaffen und nach `public/images/` kopieren (WebP, max 1200px, <150KB).
-
-*Diese Notiz löschen, wenn alle Bilder vorhanden sind.*
 
 ---
 
@@ -602,4 +600,4 @@ Siehe `CONTENT-PROMPTS.md` für vorgefertigte Prompts:
 
 ---
 
-*Letzte Aktualisierung: 22. Januar 2026*
+*Letzte Aktualisierung: 23. Januar 2026*
