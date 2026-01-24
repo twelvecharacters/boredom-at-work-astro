@@ -16,6 +16,20 @@ export async function getPublishedPosts() {
 }
 
 /**
+ * Gets the URL slug for a post.
+ * Uses the custom slug field if available, otherwise extracts filename from post.id
+ */
+export function getPostSlug(post: any): string {
+  if (post.data.slug) {
+    return post.data.slug;
+  }
+  // Extract filename from path (e.g., "2025/01/article.md" -> "article")
+  const filename = post.id.split('/').pop() || post.id;
+  return filename.replace(/\.md$/, '');
+}
+
+
+/**
  * Converts a tag name into a URL-friendly slug.
  */
 export function slugifyTag(tag: string) {

@@ -1,5 +1,5 @@
 ---
-import { getPublishedPosts } from '../utils/blog';
+import { getPublishedPosts, getPostSlug } from '../utils/blog';
 import OptimizedImage from './OptimizedImage.astro';
 
 interface Props {
@@ -12,7 +12,7 @@ const { currentSlug, currentTags, limit = 3 } = Astro.props;
 
 // Get all posts except the current one
 const allPosts = await getPublishedPosts();
-const otherPosts = allPosts.filter(post => post.id !== currentSlug);
+const otherPosts = allPosts.filter(post => getPostSlug(post) !== currentSlug);
 
 // Score posts by matching tags
 const scoredPosts = otherPosts.map(post => {
@@ -57,7 +57,7 @@ const postsToShow = [...relatedPosts, ...recentPosts].slice(0, limit);
           )}
           <div class="p-4">
             <h3 class="font-semibold mb-2 line-clamp-2">
-              <a href={`/${post.id}/`} class="hover:text-accent transition-colors">
+              <a href={`/${getPostSlug(post)}/`} class="hover:text-accent transition-colors">
                 {post.data.title}
               </a>
             </h3>

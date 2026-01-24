@@ -11,6 +11,13 @@
   to = "/sitemap-index.xml"
   status = 301
 
+# Redirect year/month article URLs to slug-based URLs (fallback safety)
+[[redirects]]
+  from = "/:year/:month/:slug/"
+  to = "/:slug/"
+  status = 301
+  force = false
+
 # Headers for better caching
 [[headers]]
   for = "/*"

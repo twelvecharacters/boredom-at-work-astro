@@ -4,7 +4,7 @@ import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import OptimizedImage from '../../../components/OptimizedImage.astro';
 import TagCloud from '../../../components/TagCloud.astro';
 import Pagination from '../../../components/Pagination.astro';
-import { getPublishedPosts, slugifyTag } from '../../../utils/blog';
+import { getPublishedPosts, slugifyTag, getPostSlug } from '../../../utils/blog';
 
 export async function getStaticPaths({ paginate }: any) {
   const posts = await getPublishedPosts();
@@ -70,7 +70,7 @@ const breadcrumbItems = [
                         ))}
                       </div>
                       <h2 class="text-xl font-bold mb-2">
-                        <a href={`/${post.id}/`} class="hover:text-accent transition-colors">
+                        <a href={`/${getPostSlug(post)}/`} class="hover:text-accent transition-colors">
                           {post.data.title}
                         </a>
                       </h2>
@@ -85,7 +85,7 @@ const breadcrumbItems = [
                             day: 'numeric'
                           })}
                         </span>
-                        <a href={`/${post.id}/`} class="text-accent font-medium text-sm hover:underline">
+                        <a href={`/${getPostSlug(post)}/`} class="text-accent font-medium text-sm hover:underline">
                           Read more →
                         </a>
                       </div>

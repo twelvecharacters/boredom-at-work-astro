@@ -5,14 +5,14 @@ import Hero from '../components/Hero.astro';
 import CategoryCard from '../components/CategoryCard.astro';
 import { getCollection } from 'astro:content';
 import { SITE, CATEGORIES } from '../config';
-import { getPublishedPosts } from '../utils/blog';
+import { getPublishedPosts, getPostSlug } from '../utils/blog';
 
 // Get latest blog posts
 const posts = await getPublishedPosts();
 const latestPosts = posts.slice(0, 3);
 
 // Create a set of published slugs for efficient lookup
-const publishedSlugs = new Set(posts.map(post => post.id));
+const publishedSlugs = new Set(posts.map(post => getPostSlug(post)));
 
 // Filter categories to only show links that are actually published
 const displayCategories = CATEGORIES.map(category => ({
@@ -195,14 +195,14 @@ const displayCategories = CATEGORIES.map(category => ({
               )}
               <div class="p-5">
                 <h3 class="font-bold mb-2 line-clamp-2">
-                  <a href={`/${post.id}/`} class="hover:text-accent transition-colors text-primary">
+                  <a href={`/${getPostSlug(post)}/`} class="hover:text-accent transition-colors text-primary">
                     {post.data.title}
                   </a>
                 </h3>
                 <p class="text-text-light text-sm line-clamp-2 mb-3">
                   {post.data.description}
                 </p>
-                <a href={`/${post.id}/`} class="text-accent text-sm font-medium hover:underline">
+                <a href={`/${getPostSlug(post)}/`} class="text-accent text-sm font-medium hover:underline">
                   Read more →
                 </a>
               </div>

@@ -7,6 +7,7 @@ import FaqSchema from '../components/FaqSchema.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 import SocialShare from '../components/SocialShare.astro';
 import { SITE } from '../config';
+import { getPostSlug } from '../utils/blog';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -24,7 +25,7 @@ const readingTime = Math.max(1, Math.ceil(wordCount / 200));
 // Breadcrumb items
 const breadcrumbItems = [
   { name: 'Blog', url: '/blog/' },
-  { name: title, url: `/${post.id}/` }
+  { name: title, url: `/${getPostSlug(post)}/` }
 ];
 
 const formattedDate = publishDate.toLocaleDateString('en-US', {
@@ -101,7 +102,7 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
     <SocialShare title={title} description={description} />
 
     <!-- Related Posts -->
-    <RelatedPosts currentSlug={post.id} currentTags={tags} />
+    <RelatedPosts currentSlug={getPostSlug(post)} currentTags={tags} />
 
     <!-- Article Footer -->
     <footer class="mt-12 pt-8 border-t border-primary/10">
