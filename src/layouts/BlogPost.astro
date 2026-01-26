@@ -140,4 +140,16 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
   })} />
 
   {faq && faq.length > 0 && <FaqSchema faqs={faq} />}
+
+  <!-- Wrap tables in scrollable container for mobile -->
+  <script>
+    document.querySelectorAll('.prose table').forEach(table => {
+      if (!table.parentElement?.classList.contains('table-scroll-wrapper')) {
+        const wrapper = document.createElement('div');
+        wrapper.className = 'table-scroll-wrapper';
+        table.parentNode?.insertBefore(wrapper, table);
+        wrapper.appendChild(table);
+      }
+    });
+  </script>
 </BaseLayout>

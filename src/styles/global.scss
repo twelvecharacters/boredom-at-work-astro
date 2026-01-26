@@ -131,40 +131,31 @@
       @apply border-l-4 border-accent pl-4 italic my-4;
     }
 
-    /* Responsive tables with horizontal scroll on mobile */
-    table {
-      @apply w-full mb-6 text-sm rounded-xl overflow-hidden shadow-sm border border-gray-100;
-      display: block;
-      overflow-x: auto;
+    /* Table wrapper for scroll - added via JS */
+    .table-scroll-wrapper {
+      @apply overflow-x-auto mb-6 rounded-xl shadow-sm border border-gray-100;
       -webkit-overflow-scrolling: touch;
+    }
+
+    /* Responsive tables */
+    table {
+      @apply w-full text-sm;
       border-collapse: separate;
       border-spacing: 0;
+      min-width: 500px;
 
       @media (min-width: 769px) {
         @apply text-base;
-        display: table;
-      }
-
-      thead {
-        display: table-header-group;
-      }
-
-      tbody {
-        display: table-row-group;
-      }
-
-      tr {
-        display: table-row;
+        min-width: auto;
       }
 
       th, td {
         @apply px-4 py-3 text-left;
-        display: table-cell;
-        min-width: 90px;
         border-bottom: 1px solid #e5e7eb;
+        white-space: nowrap;
 
         @media (min-width: 769px) {
-          min-width: auto;
+          white-space: normal;
         }
       }
 
