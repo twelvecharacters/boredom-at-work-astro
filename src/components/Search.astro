@@ -4,10 +4,11 @@
 
 <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
 <div id="search" class="search-container"></div>
-<script src="/pagefind/pagefind-ui.js" defer></script>
 <script is:inline>
-  window.addEventListener('DOMContentLoaded', function() {
-    if (typeof PagefindUI !== 'undefined') {
+  (function() {
+    var script = document.createElement('script');
+    script.src = '/pagefind/pagefind-ui.js';
+    script.onload = function() {
       new PagefindUI({
         element: "#search",
         showSubResults: true,
@@ -17,8 +18,9 @@
           zero_results: "Nothing found"
         }
       });
-    }
-  });
+    };
+    document.head.appendChild(script);
+  })();
 </script>
 
 <style is:global>
