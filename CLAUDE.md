@@ -12,17 +12,25 @@
 - [ ] **Pinterest-Pin erstellen** → Board: Learn AI & Tech Skills
 
 ### Letzte Sitzung (26. Januar 2026)
-✅ **Neue Features hinzugefügt:**
-- **Pagefind Search** - Volltextsuche im Header (Desktop: 200px, Mobile: 100px)
+✅ **Pagefind Search komplett überarbeitet:**
+- Breite: Desktop 200px, Mobile 150px
+- Dunkles Dropdown-Design passend zum Header-Gradient
+- Nur Artikel-Titel anzeigen (keine Sub-Results/Excerpts)
+- Mobile: max-height 300px (scrollbar)
+- Schriftgrößen: Ergebnis-Anzahl größer, Titel kleiner
+
+✅ **Weitere Features:**
 - **ScrollToTop Button** - Violet Button unten rechts, erscheint nach 300px scrollen
 - **SEO optimiert** - Homepage Meta-Description hinzugefügt
 - **AirPods Pro 3 Review** - Artikel erstellt, publiziert am 28. Jan
 
 **Technische Details Pagefind:**
-- Build-Befehl: `astro build && pagefind --site dist`
+- Build-Befehl: `npx astro build && npx pagefind --site dist`
 - Indexiert nur Blog-Artikel (`data-pagefind-body` im BlogPost Layout)
 - 29 Seiten, 4213 Wörter indexiert
 - Komponente: `src/components/Search.astro`
+- `showSubResults: false` - Keine Unter-Abschnitte
+- `showImages: false` - Keine Bilder in Ergebnissen
 
 **Nächste Schritte:**
 1. Reddit-Posts 2-5 posten (24.-27. Jan)
@@ -178,7 +186,7 @@ rm bildname.png
 - `src/components/Header.astro` - Navigation mit Mobile-Menü und Suche
 - `src/components/Footer.astro` - Footer mit Links und Contact CTA
 - `src/components/Hero.astro` - Wiederverwendbare Hero-Section
-- `src/components/Search.astro` - **Pagefind Volltextsuche** (Desktop 200px, Mobile 100px)
+- `src/components/Search.astro` - **Pagefind Volltextsuche** (Desktop 200px, Mobile 150px, dunkles Design)
 - `src/components/ScrollToTop.astro` - **Scroll-to-Top Button** (erscheint nach 300px)
 - `src/components/CategoryCard.astro` - Kategorie-Karten
 - `src/components/Pagination.astro` - Blog-Pagination
