@@ -48,7 +48,7 @@ ChatGPT suggested this route, and it was spot-on. Starting in KL to recover from
 Before diving into what we did, two practical tips that made everything easier:
 
 **1. Get a Local SIM Card at the Airport**
-Right after landing at KLIA, we bought a tourist SIM card. For about 30-40 MYR (~€6-8), you get plenty of data for 2 weeks. This is way cheaper than international roaming and essential for using maps, translation apps, and booking services.
+Right after landing at KLIA, we bought a tourist SIM card. For about 30-40 MYR (~$7-9), you get plenty of data for 2 weeks. This is way cheaper than international roaming and essential for using maps, translation apps, and booking services.
 
 **2. Download Grab (Uber Doesn't Exist Here)**
 Uber pulled out of Southeast Asia years ago. Grab is the dominant ride-hailing app in Malaysia and most of Southeast Asia. Download it before you arrive and link a payment method. We used Grab daily—it's reliable, affordable, and safer than negotiating with taxi drivers.
@@ -145,9 +145,9 @@ This is where the trip shifted from culture to relaxation—and where ChatGPT's 
 
 **Langkawi Cable Car & Sky Bridge:** A must-do. The cable car ride is thrilling, and walking across the curved Sky Bridge with panoramic views is unforgettable. ChatGPT was right to put this at the top of the list.
 
-**Jetski Tour:** This wasn't a ChatGPT recommendation—we found it locally. Four hours of jetskiing around the islands for 600 MYR (~€120). One of the best experiences of the entire trip.
+**Jetski Tour:** This wasn't a ChatGPT recommendation—we found it locally. Four hours of jetskiing around the islands for 600 MYR (~$130). One of the best experiences of the entire trip.
 
-**Scooter Rental:** ChatGPT suggested this, and it was perfect advice. For 40 MYR per day (~€8), we had complete freedom to explore the island. Langkawi is very scooter-friendly with good roads and light traffic.
+**Scooter Rental:** ChatGPT suggested this, and it was perfect advice. For 40 MYR per day (~$9), we had complete freedom to explore the island. Langkawi is very scooter-friendly with good roads and light traffic.
 
 **Chenang Beach Fire Show:** Another local discovery. Every evening, performers put on fire shows at the beach bars. Free to watch, magical atmosphere.
 
