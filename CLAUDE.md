@@ -233,6 +233,7 @@ rm bildname.png
 | Kategorie | Anzahl Artikel | Status |
 |-----------|----------------|--------|
 | AI/Learning | 10 | Aktiv |
+| AI/Travel | 8 | Draft (März/April) |
 | 3D Printing | 6 | Aktiv |
 | Photography | 7 | Aktiv |
 | Japan Shopping | 3 | Aktiv |
@@ -261,6 +262,31 @@ rm bildname.png
 | 20. Feb | How to Use AI at Work (Without Getting in Trouble) | AI/Productivity | ✅ Geschrieben |
 | 23. Feb | AI Writing Tools: Grammarly vs Jasper vs Claude | AI | ✅ Geschrieben |
 | 26. Feb | Best AI Chrome Extensions for Productivity | AI/Productivity | ✅ Geschrieben |
+
+### AI Travel Planning Cluster (März/April 2026) - NEU!
+**Status:** ✅ Alle 8 Artikel geschrieben (Draft)
+**Noch zu tun:** Bilder erstellen, Malaysia-Details anpassen, Publish-Dates setzen
+
+| Datum | Artikel | Typ | Slug |
+|-------|---------|-----|------|
+| TBD | How to Plan Your Perfect Trip with AI | **Pillar** | `/ai-travel-planning-guide/` |
+| TBD | ChatGPT Travel Prompts (15 Prompts) | Cluster | `/chatgpt-travel-planning-prompts/` |
+| TBD | Best AI Trip Planners 2026 | Cluster | `/best-ai-trip-planners/` |
+| TBD | Malaysia Trip mit ChatGPT ⭐ | Cluster | `/chatgpt-malaysia-trip-planning/` |
+| TBD | AI Travel Planning Mistakes | Cluster | `/ai-travel-planning-mistakes/` |
+| TBD | Claude vs ChatGPT for Travel | Cluster | `/claude-vs-chatgpt-travel-planning/` |
+| TBD | Free AI Travel Tools | Cluster | `/free-ai-travel-tools/` |
+| TBD | AI Packing Lists & Checklists | Cluster | `/ai-packing-list-travel-checklist/` |
+
+**Benötigte Bilder (8 Stück):**
+- `ai-travel-planning-guide.webp`
+- `chatgpt-travel-prompts.webp`
+- `best-ai-trip-planners.webp`
+- `chatgpt-malaysia-trip.webp`
+- `ai-travel-mistakes.webp`
+- `claude-vs-chatgpt-travel.webp`
+- `free-ai-travel-tools.webp`
+- `ai-packing-list.webp`
 
 ---
 
