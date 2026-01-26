@@ -74,9 +74,15 @@
     color: rgba(255, 255, 255, 0.7) !important;
   }
 
-  /* Search button/icon */
+  /* Search button/icon - hide the clear button background */
   .search-container .pagefind-ui__search-clear {
     color: white !important;
+    background-color: transparent !important;
+  }
+
+  /* Hide the clear button completely if needed */
+  .search-container .pagefind-ui__search-clear::before {
+    background-color: transparent !important;
   }
 
   /* Results dropdown - dark theme matching header */
