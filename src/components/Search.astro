@@ -27,7 +27,8 @@
   /* Search container */
   .search-container {
     position: relative;
-    min-width: 44px;
+    width: 200px;
+    flex-shrink: 0;
   }
 
   /* Pagefind UI variables */
@@ -41,9 +42,10 @@
     --pagefind-ui-border-radius: 8px;
   }
 
-  /* Hide the form wrapper default styles */
+  /* Constrain the form */
   .search-container .pagefind-ui__form {
     position: relative;
+    width: 100% !important;
   }
 
   /* Style the search input for dark header */
@@ -51,7 +53,8 @@
     background-color: rgba(255, 255, 255, 0.15) !important;
     color: white !important;
     border: 1px solid rgba(255, 255, 255, 0.3) !important;
-    width: 200px;
+    width: 100% !important;
+    max-width: 100% !important;
   }
 
   .search-container .pagefind-ui__search-input:focus {
@@ -94,7 +97,7 @@
 
   /* Mobile adjustments */
   @media (max-width: 768px) {
-    .search-container .pagefind-ui__search-input {
+    .search-container {
       width: 100px;
     }
 
