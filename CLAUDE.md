@@ -18,6 +18,7 @@
 - Nur Artikel-Titel anzeigen (keine Sub-Results/Excerpts)
 - Mobile: max-height 300px (scrollbar)
 - Schriftgrößen: Ergebnis-Anzahl größer, Titel kleiner
+- **Clear-Button Fix** - Weiße Box im Suchfeld entfernt (transparenter Hintergrund)
 
 ✅ **Weitere Features:**
 - **ScrollToTop Button** - Violet Button unten rechts, erscheint nach 300px scrollen
