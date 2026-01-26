@@ -5,29 +5,26 @@
 <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
 <div id="search" class="relative"></div>
 
-<script is:inline>
+<script type="module">
   async function initPagefind() {
-    // Load PagefindUI from the generated pagefind folder
-    const pagefindPath = '/pagefind/pagefind-ui.js';
-    const { PagefindUI } = await import(/* @vite-ignore */ pagefindPath);
+    try {
+      const { PagefindUI } = await import('/pagefind/pagefind-ui.js');
 
-    new PagefindUI({
-      element: "#search",
-      showSubResults: true,
-      showImages: false,
-      translations: {
-        placeholder: "Search articles...",
-        zero_results: "No articles found for [SEARCH_TERM]"
-      }
-    });
+      new PagefindUI({
+        element: "#search",
+        showSubResults: true,
+        showImages: false,
+        translations: {
+          placeholder: "Search...",
+          zero_results: "No articles found for [SEARCH_TERM]"
+        }
+      });
+    } catch (e) {
+      console.error('Pagefind failed to load:', e);
+    }
   }
 
-  // Initialize when DOM is ready
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initPagefind);
-  } else {
-    initPagefind();
-  }
+  initPagefind();
 </script>
 
 <style is:global>
