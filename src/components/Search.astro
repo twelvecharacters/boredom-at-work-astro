@@ -107,8 +107,18 @@
   /* Hide sub-results and excerpts - only show main article titles */
   .search-container .pagefind-ui__result-nested,
   .search-container .pagefind-ui__result-excerpt,
-  .search-container .pagefind-ui__result-inner .pagefind-ui__result-excerpt {
+  .search-container .pagefind-ui__result-inner .pagefind-ui__result-excerpt,
+  .pagefind-ui__result-nested,
+  .pagefind-ui__result-excerpt,
+  [class*="pagefind"] [class*="nested"],
+  [class*="pagefind"] [class*="excerpt"] {
     display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    max-height: 0 !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    margin: 0 !important;
   }
 
   /* Clean result styling - just title */
@@ -130,14 +140,27 @@
     }
 
     .search-container .pagefind-ui__drawer {
-      position: fixed;
-      left: 1rem;
-      right: 1rem;
-      top: 60px;
-      min-width: auto;
-      max-width: none;
-      max-height: 50vh;
-      overflow-y: auto;
+      position: fixed !important;
+      left: 1rem !important;
+      right: 1rem !important;
+      top: 60px !important;
+      bottom: auto !important;
+      min-width: auto !important;
+      max-width: none !important;
+      max-height: 300px !important;
+      height: auto !important;
+      overflow-y: auto !important;
+    }
+
+    /* Force hide sub-results on mobile */
+    .search-container .pagefind-ui__result-nested,
+    .search-container .pagefind-ui__result-excerpt,
+    .pagefind-ui__result-nested,
+    .pagefind-ui__result-excerpt {
+      display: none !important;
+      visibility: hidden !important;
+      height: 0 !important;
+      overflow: hidden !important;
     }
   }
 </style>
