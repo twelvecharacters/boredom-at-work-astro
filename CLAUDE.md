@@ -6,6 +6,25 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 26. Januar 2026)
 
+### 🚨 TODO für 27. Januar 2026 (10:00 Uhr)
+**16 Bilder für AI Travel Cluster erstellen!**
+- [ ] `ai-travel-planning-guide.webp`
+- [ ] `chatgpt-travel-prompts.webp`
+- [ ] `best-ai-trip-planners.webp`
+- [ ] `chatgpt-malaysia-trip.webp`
+- [ ] `ai-travel-mistakes.webp`
+- [ ] `claude-vs-chatgpt-travel.webp`
+- [ ] `free-ai-travel-tools.webp`
+- [ ] `ai-packing-list.webp`
+- [ ] `gemini-travel-planning.webp`
+- [ ] `perplexity-travel-research.webp`
+- [ ] `ai-flight-search-agent.webp`
+- [ ] `ai-southeast-asia-trip-2026.webp`
+- [ ] `ai-trip-planning-japan.webp`
+- [ ] `ai-trip-planning-vietnam.webp`
+- [ ] `ai-trip-planning-cambodia.webp`
+- [ ] `japan-vietnam-cambodia-comparison.webp`
+
 ### 🚨 TODO für 28. Januar 2026
 **AirPods Pro 3 Review geht live um 7:00 MEZ!**
 - [ ] **Reddit-Post erstellen** → r/apple oder r/airpods
