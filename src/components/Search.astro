@@ -3,7 +3,7 @@
 ---
 
 <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
-<div id="search" class="relative"></div>
+<div id="search" class="search-container"></div>
 
 <script type="module">
   async function initPagefind() {
@@ -28,58 +28,94 @@
 </script>
 
 <style is:global>
-  /* Customizing Pagefind UI to match site theme */
-  :root {
+  /* Search container */
+  .search-container {
+    position: relative;
+    min-width: 44px;
+  }
+
+  /* Pagefind UI variables */
+  .search-container {
     --pagefind-ui-scale: 0.8;
-    --pagefind-ui-primary: var(--color-accent);
-    --pagefind-ui-text: var(--color-text);
+    --pagefind-ui-primary: #8b5cf6;
+    --pagefind-ui-text: #1e1b4b;
     --pagefind-ui-background: white;
-    --pagefind-ui-border: var(--color-primary-light);
-    --pagefind-ui-tag: var(--color-primary-light);
+    --pagefind-ui-border: #2d1f4a;
     --pagefind-ui-border-width: 1px;
     --pagefind-ui-border-radius: 8px;
-    --pagefind-ui-image-border-radius: 8px;
-    --pagefind-ui-image-box-ratio: 3 / 2;
-    --pagefind-ui-font: var(--font-body);
   }
 
-  /* Dark mode overrides if needed, or specific component styles */
-  .pagefind-ui__result-title {
-    font-family: var(--font-heading);
-    font-weight: 700;
+  /* Hide the form wrapper default styles */
+  .search-container .pagefind-ui__form {
+    position: relative;
   }
-  
-  .pagefind-ui__search-input {
-    background-color: rgba(255, 255, 255, 0.1) !important;
+
+  /* Style the search input for dark header */
+  .search-container .pagefind-ui__search-input {
+    background-color: rgba(255, 255, 255, 0.15) !important;
     color: white !important;
-    border: 1px solid rgba(255, 255, 255, 0.2) !important;
-  }
-  
-  .pagefind-ui__search-input::placeholder {
-    color: rgba(255, 255, 255, 0.6) !important;
+    border: 1px solid rgba(255, 255, 255, 0.3) !important;
+    min-width: 120px;
+    width: 120px;
   }
 
-  /* Results dropdown styling */
-  .pagefind-ui__drawer {
-    background: white !important;
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-    border-radius: 0.5rem;
-    margin-top: 0.5rem;
+  .search-container .pagefind-ui__search-input:focus {
+    width: 200px;
+    background-color: rgba(255, 255, 255, 0.25) !important;
+  }
+
+  .search-container .pagefind-ui__search-input::placeholder {
+    color: rgba(255, 255, 255, 0.7) !important;
+  }
+
+  /* Search button/icon */
+  .search-container .pagefind-ui__search-clear {
+    color: white !important;
+  }
+
+  /* Results dropdown */
+  .search-container .pagefind-ui__drawer {
     position: absolute;
     right: 0;
-    width: 300px; /* Or wider if needed */
-    z-index: 100;
-    max-height: 80vh;
+    top: 100%;
+    margin-top: 0.5rem;
+    background: white !important;
+    border-radius: 0.5rem;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+    min-width: 300px;
+    max-width: 400px;
+    max-height: 70vh;
     overflow-y: auto;
+    z-index: 1000;
   }
 
+  .search-container .pagefind-ui__result-title {
+    color: #1e1b4b;
+    font-weight: 600;
+  }
+
+  .search-container .pagefind-ui__result-link:hover {
+    background-color: #f5f6ff;
+  }
+
+  /* Mobile adjustments */
   @media (max-width: 768px) {
-    .pagefind-ui__drawer {
+    .search-container .pagefind-ui__search-input {
+      width: 100px;
+      min-width: 100px;
+    }
+
+    .search-container .pagefind-ui__search-input:focus {
+      width: 140px;
+    }
+
+    .search-container .pagefind-ui__drawer {
       position: fixed;
-      top: 70px;
-      left: 10px;
-      right: 10px;
-      width: auto;
+      left: 1rem;
+      right: 1rem;
+      top: 60px;
+      min-width: auto;
+      max-width: none;
     }
   }
 </style>
