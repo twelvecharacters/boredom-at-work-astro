@@ -20,6 +20,13 @@
 - Schriftgrößen: Ergebnis-Anzahl größer, Titel kleiner
 - **Clear-Button Fix** - Weiße Box im Suchfeld entfernt (transparenter Hintergrund)
 
+✅ **Accessibility & Performance Fixes:**
+- **Kontrastfarben angepasst** für WCAG AA (4.5:1 Kontrast)
+  - accent: #8b5cf6 → #7c3aed
+  - accent-hover: #7c3aed → #6d28d9
+  - accent-alt: #f43f5e → #e11d48
+- **Non-Blocking Fonts** - Google Fonts mit `media="print" onload` Trick (~750ms gespart)
+
 ✅ **Weitere Features:**
 - **ScrollToTop Button** - Violet Button unten rechts, erscheint nach 300px scrollen
 - **SEO optimiert** - Homepage Meta-Description hinzugefügt
@@ -97,9 +104,9 @@ faq:
 |----------|------|------------|
 | `--color-primary` | `#11153b` | Dunkles Indigo (Header, Footer, Headlines) |
 | `--color-primary-light` | `#2d1f4a` | Lila-Ton für Gradienten |
-| `--color-accent` | `#8b5cf6` | **Violet** - Hauptakzentfarbe (Links, CTAs, Buttons) |
-| `--color-accent-hover` | `#7c3aed` | Dunkleres Violet für Hover-States |
-| `--color-accent-alt` | `#f43f5e` | Rose/Pink für besondere Highlights |
+| `--color-accent` | `#7c3aed` | **Violet** - Hauptakzentfarbe (Links, CTAs, Buttons) |
+| `--color-accent-hover` | `#6d28d9` | Dunkleres Violet für Hover-States |
+| `--color-accent-alt` | `#e11d48` | Rose/Pink für besondere Highlights |
 | `--color-text` | `#1e1b4b` | Haupttext (Dunkel-Indigo) |
 | `--color-text-light` | `#4c4e82` | Sekundärtext |
 | `--color-background` | `#ffffff` | Weiß |
