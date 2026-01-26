@@ -24,11 +24,14 @@
 </script>
 
 <style is:global>
-  /* Search container */
+  /* Search container - fixed width */
   .search-container {
     position: relative;
-    width: 200px;
-    flex-shrink: 0;
+    width: 200px !important;
+    max-width: 200px !important;
+    min-width: 200px !important;
+    flex-shrink: 0 !important;
+    flex-grow: 0 !important;
   }
 
   /* Pagefind UI variables */
@@ -42,10 +45,15 @@
     --pagefind-ui-border-radius: 8px;
   }
 
-  /* Constrain the form */
+  /* Constrain all inner elements */
+  .search-container .pagefind-ui {
+    width: 100% !important;
+  }
+
   .search-container .pagefind-ui__form {
     position: relative;
     width: 100% !important;
+    max-width: 100% !important;
   }
 
   /* Style the search input for dark header */
@@ -55,6 +63,7 @@
     border: 1px solid rgba(255, 255, 255, 0.3) !important;
     width: 100% !important;
     max-width: 100% !important;
+    box-sizing: border-box !important;
   }
 
   .search-container .pagefind-ui__search-input:focus {
@@ -98,7 +107,9 @@
   /* Mobile adjustments */
   @media (max-width: 768px) {
     .search-container {
-      width: 100px;
+      width: 100px !important;
+      max-width: 100px !important;
+      min-width: 100px !important;
     }
 
     .search-container .pagefind-ui__drawer {
