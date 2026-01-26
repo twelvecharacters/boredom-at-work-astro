@@ -265,7 +265,7 @@ rm bildname.png
 
 ### AI Travel Planning Cluster (März/April 2026) - NEU!
 **Status:** ✅ Alle 8 Artikel geschrieben (Draft)
-**Noch zu tun:** Bilder erstellen, Malaysia-Details anpassen, Publish-Dates setzen
+**Noch zu tun:** Bilder erstellen, Publish-Dates setzen
 
 | Datum | Artikel | Typ | Slug |
 |-------|---------|-----|------|
@@ -277,6 +277,13 @@ rm bildname.png
 | TBD | Claude vs ChatGPT for Travel | Cluster | `/claude-vs-chatgpt-travel-planning/` |
 | TBD | Free AI Travel Tools | Cluster | `/free-ai-travel-tools/` |
 | TBD | AI Packing Lists & Checklists | Cluster | `/ai-packing-list-travel-checklist/` |
+
+**Malaysia-Artikel Details (echte Reise Nov 2025):**
+- Route: KL (2N) → Penang (3N) → Langkawi (5N) → KL (3N)
+- Budget: ~$150/Tag
+- Besonderheit: Zöliakie/Glutenfrei-Winkel
+- Hotels: Sky Villa Suites, Urban Suites, The Riyaz Lavanya, The Platinum
+- Highlights: Petronas Towers, Batu Caves (Dresscode + Affen!), Penang Hill, Kek Lok Si, Jetski Tour (600 MYR), Scooter (40 MYR/Tag), Duty-Free Langkawi
 
 **Benötigte Bilder (8 Stück):**
 - `ai-travel-planning-guide.webp`
