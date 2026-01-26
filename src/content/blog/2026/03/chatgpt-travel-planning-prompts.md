@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT for Travel Planning: 15 Prompts That Actually Work"
+title: "ChatGPT for Travel Planning: 19 Prompts That Actually Work"
 description: "Copy-paste these proven ChatGPT prompts to plan your next trip. From destination research to day-by-day itineraries, these prompts save hours."
 publishDate: 2026-03-08
 author: "bored chap"
@@ -176,9 +176,40 @@ Organize by category and note:
 
 ---
 
+## Dietary Restrictions Prompts
+
+### 10. Gluten-Free / Allergy Travel
+
+```
+I have [celiac disease/nut allergy/etc.] and am traveling to [destination].
+
+Create a food safety guide:
+1. Which local dishes are naturally safe for me?
+2. What hidden ingredients should I watch for?
+3. Key phrases to explain my dietary needs in the local language
+4. Restaurant types most likely to accommodate me
+5. Foods that look safe but aren't
+
+Also provide a "restaurant card" I can show to servers.
+```
+
+### 11. Dietary-Aware Restaurant Finding
+
+```
+Find restaurants in [destination/neighborhood] that:
+- Accommodate [celiac/vegan/halal/etc.] diners
+- Have recent positive reviews mentioning dietary accommodations
+- Serve naturally [restriction]-friendly cuisine
+- Can communicate in English about ingredients
+
+For each, tell me what to order and what to avoid.
+```
+
+---
+
 ## Food & Experience Prompts
 
-### 10. Restaurant Research
+### 13. Restaurant Research
 
 ```
 You are a food-obsessed local in [destination].
@@ -197,7 +228,7 @@ For each, include:
 - Neighborhood location
 ```
 
-### 11. Unique Experiences
+### 14. Unique Experiences
 
 ```
 I want memorable experiences in [destination] that:
@@ -217,7 +248,7 @@ Suggest 5 experiences with:
 
 ## Troubleshooting Prompts
 
-### 12. The Reality Check
+### 15. The Reality Check
 
 ```
 I found this itinerary online for [destination]:
@@ -231,7 +262,7 @@ As someone who knows [destination] well, tell me:
 5. What logistical issues might I face?
 ```
 
-### 13. Last-Minute Changes
+### 16. Last-Minute Changes
 
 ```
 My plans changed. I originally planned [original plan] but now [what changed: weather, closed attraction, more/less time, etc.].
@@ -246,7 +277,7 @@ Suggest alternatives that:
 - Don't require major rebooking
 ```
 
-### 14. Local Insights
+### 17. Local Insights
 
 ```
 You are a [destination] local who's tired of tourists making the same mistakes.
@@ -262,7 +293,22 @@ Cover:
 - Phrases in the local language that help
 ```
 
-### 15. The Pre-Trip Checklist
+### 18. Travel Insurance Research
+
+```
+I'm planning a [X-week] trip to [destination].
+Regarding travel insurance:
+
+1. What medical costs could I face if hospitalized there?
+2. What coverage is essential for this destination?
+3. I plan to do [activities]—do I need adventure sports coverage?
+4. What's typically excluded that catches travelers off guard?
+5. Annual vs single-trip policy—which makes sense for me?
+
+Also, what documentation should I have ready in case of emergency?
+```
+
+### 19. The Pre-Trip Checklist
 
 ```
 I'm leaving for [destination] in [X days].

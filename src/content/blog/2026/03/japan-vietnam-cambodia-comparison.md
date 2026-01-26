@@ -254,6 +254,21 @@ Consider:
 2. **Vietnam** - More challenging but very rewarding
 3. **Cambodia** - Easy but less infrastructure
 
+### Travel Insurance Considerations
+
+| Destination | Healthcare Quality | Evacuation Needed? | Insurance Priority |
+|-------------|-------------------|--------------------|--------------------|
+| Japan | Excellent but expensive | Rarely | Medical costs coverage |
+| Vietnam | Variable (cities vs rural) | Sometimes | Motorbike coverage + evacuation |
+| Cambodia | Limited | Yes, for serious issues | Evacuation coverage essential |
+
+**AI-assisted insurance research:**
+```
+Compare travel insurance needs for Japan, Vietnam, and Cambodia.
+What coverage is essential for each?
+Which destination requires the highest coverage amounts?
+```
+
 ---
 
 ## Flight Strategies

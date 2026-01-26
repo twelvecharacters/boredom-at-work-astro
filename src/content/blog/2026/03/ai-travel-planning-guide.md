@@ -131,12 +131,65 @@ Transfer your AI-generated plan to:
 - **Google Flights** for flight comparison
 - **Booking.com** or **Hotels.com** for accommodation
 
+## Planning for Dietary Restrictions
+
+AI is particularly helpful for travelers with dietary needs like celiac disease, food allergies, or specific diets.
+
+### The Dietary Restrictions Prompt
+
+```
+I have [celiac disease/nut allergy/vegetarian/etc.] and am traveling to [destination].
+Help me:
+1. Identify naturally safe local dishes
+2. Know which foods typically contain hidden [gluten/allergen]
+3. Translate key phrases for explaining my dietary needs
+4. Find restaurants that accommodate dietary restrictions
+5. Understand the local food culture around allergies
+```
+
+**Key insight:** Soy sauce contains wheat in most Asian countries. Fish sauce is usually gluten-free. Rice-based dishes are generally safe but verify sauces.
+
+**More details:** [My Malaysia Trip with ChatGPT](/chatgpt-malaysia-trip-planning/) covers real-world gluten-free travel planning.
+
+---
+
+## Travel Insurance with AI Help
+
+AI can help you navigate the confusing world of travel insurance.
+
+### The Travel Insurance Prompt
+
+```
+I'm planning a [X-week] trip to [destination].
+Help me understand travel insurance:
+1. What coverage do I actually need for this destination?
+2. Medical costs in [destination] if something goes wrong
+3. Do I need special coverage for [activities: hiking, scuba, etc.]?
+4. What's typically NOT covered that surprises people?
+5. What questions should I ask insurance providers?
+```
+
+### AI-Assisted Insurance Comparison
+
+```
+Compare travel insurance options for a [X-week] trip to [destination]:
+- What's the minimum coverage recommended?
+- Annual policy vs. single trip—which is better for my situation?
+- Do credit card travel benefits cover me adequately?
+- What does emergency evacuation typically cost in this region?
+```
+
+**Key insight:** Healthcare costs vary dramatically. A hospital stay in the US might cost $10,000+, while the same in Thailand might be $500. AI can research typical medical costs in your destination to help you choose appropriate coverage.
+
+---
+
 ## Common Mistakes to Avoid
 
 1. **Trusting distances**: AI often underestimates travel time
 2. **Ignoring opening hours**: Always verify manually
 3. **Overplanning**: AI will pack your days too full if you let it
 4. **Skipping verification**: Real-time info beats AI knowledge cutoffs
+5. **Ignoring dietary prep**: AI can help but always verify with restaurants directly
 
 **Recommended**: [AI Travel Planning Mistakes to Avoid](/ai-travel-planning-mistakes/)
 

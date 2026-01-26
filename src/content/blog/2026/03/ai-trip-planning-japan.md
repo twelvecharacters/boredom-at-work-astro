@@ -248,6 +248,25 @@ Week 2: Kansai
 
 ---
 
+## Travel Insurance for Japan
+
+Japan has excellent healthcare—but it's expensive for foreigners.
+
+### AI Insurance Prompt for Japan
+
+```
+I'm planning a [X-week] trip to Japan.
+Help me with travel insurance:
+- What are typical medical costs for foreigners in Japan?
+- Do I need coverage for natural disasters (earthquakes, typhoons)?
+- What activities need special coverage (skiing, hiking)?
+- Recommended minimum coverage amount for Japan
+```
+
+**AI insight:** Japanese hospitals often require upfront payment. Make sure your insurance offers direct billing or emergency cash advances. A simple doctor's visit can cost $100+, and hospitalization runs $500-1000+ per day.
+
+---
+
 ## My Japan Planning Stack
 
 For my potential November 2026 trip:

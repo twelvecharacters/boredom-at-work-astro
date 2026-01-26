@@ -126,6 +126,42 @@ Base this on recent traveler reports, not outdated guides.
 
 **What you get:** Current budget information with source citations, not generic estimates.
 
+### 8. Dietary Restrictions Deep Dive
+
+```
+I have [celiac disease/severe nut allergy/etc.] and am traveling to [destination].
+Research:
+- How aware is the local food culture about this condition?
+- Which specific ingredients contain hidden [gluten/allergen]?
+- Recent experiences from travelers with this same condition
+- Restaurants recommended by people with [condition]
+- Local phrases and how to communicate my needs effectively
+
+Focus on recent Reddit threads, travel blogs, and celiac/allergy community posts.
+```
+
+**What you get:** Real experiences from people who've navigated the same challenges, with sources you can follow up on.
+
+**Why Perplexity excels here:** Can search specifically for dietary restriction communities and recent traveler reports, synthesizing advice from people who actually have the same condition.
+
+### 9. Travel Insurance Research
+
+```
+I need travel insurance for a [X-week] trip to [destination].
+Research:
+- What coverage do travelers recommend for this region?
+- Average medical costs if hospitalized in [destination]
+- Which insurance companies have good claim experiences?
+- Recent complaints or issues with specific providers
+- Do I need special coverage for [planned activities]?
+
+Focus on recent reviews and traveler experiences, not just marketing claims.
+```
+
+**What you get:** Real experiences from travelers who've actually used their insurance, with sources from Reddit, travel forums, and review sites.
+
+**Why Perplexity excels here:** Can find recent claim experiences and compare what providers actually deliver versus what they promise.
+
 ---
 
 ## Perplexity vs Other AI Tools for Travel

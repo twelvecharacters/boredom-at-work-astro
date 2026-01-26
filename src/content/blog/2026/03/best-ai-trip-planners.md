@@ -233,6 +233,27 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 
 ---
 
+## Special Needs: Dietary Restrictions
+
+If you have celiac disease, food allergies, or specific dietary needs, AI tools can help—but some are better than others.
+
+**Best for dietary research:**
+- **Perplexity** - Can find recent experiences from people with your exact condition
+- **Claude** - Gives nuanced, honest advice about what's safe and what isn't
+- **ChatGPT** - Good for creating restaurant cards and translation phrases
+
+**Key dietary prompts:**
+```
+I have [condition] and am traveling to [destination].
+Which local dishes are naturally safe?
+What hidden ingredients should I watch for?
+Create phrases in the local language to explain my needs.
+```
+
+**More details:** See [My Malaysia Trip with ChatGPT](/chatgpt-malaysia-trip-planning/) for real-world gluten-free travel planning.
+
+---
+
 ## Our Recommended Workflow
 
 After testing all these tools, here's the workflow we recommend:
@@ -241,6 +262,7 @@ After testing all these tools, here's the workflow we recommend:
 2. **Build your itinerary in Mindtrip or Wanderlog** - Organize and get real prices
 3. **Verify with Google** - Check opening hours, distances, recent reviews
 4. **Book through trusted sites** - Use the AI's suggestions but book directly
+5. **For dietary needs** - Use Perplexity to find recent traveler experiences
 
 This hybrid approach gives you AI creativity plus real-world accuracy.
 

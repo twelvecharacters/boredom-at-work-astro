@@ -41,7 +41,8 @@ ACTIVITIES PLANNED:
 
 MY PREFERENCES:
 - Travel style: [minimalist / prepared for everything]
-- Special needs: [medications, dietary, etc.]
+- Special needs: [medications, dietary restrictions, etc.]
+- Dietary restrictions: [celiac, allergies, vegan, etc.]
 
 Please organize the list by category and indicate:
 - Essential vs. optional items
@@ -124,6 +125,41 @@ Include:
 
 ---
 
+## Dietary Restrictions Packing
+
+For travelers with celiac disease, allergies, or specific diets:
+
+```
+Create a packing list for a traveler with [celiac disease/nut allergy/etc.]
+going to [destination] for [X days].
+
+Include:
+- Emergency safe snacks to pack
+- Medication/supplements needed
+- Restaurant cards in local language
+- Apps to download for finding safe food
+- Items to have on long travel days
+- Backup food for when options are limited
+```
+
+### Essential Items for Dietary Restrictions
+
+**For Celiac/Gluten-Free:**
+- Printed restaurant cards in local language
+- Emergency gluten-free snacks (protein bars, nuts)
+- Digestive enzyme supplements (just in case)
+- List of safe local dishes
+- Translation app downloaded for offline use
+
+**For Severe Allergies:**
+- EpiPen/emergency medication
+- Medical alert card in local language
+- Doctor's letter explaining condition
+- Safe snacks that travel well
+- Allergy translation cards
+
+---
+
 ## The Pre-Trip Checklist Prompt
 
 Beyond packing, AI can help with everything you need to do before leaving:
@@ -142,10 +178,12 @@ Cover:
 - Cash to get
 - Currency tips
 
-3. HEALTH
+3. HEALTH & INSURANCE
+- Travel insurance purchased and policy number saved
 - Vaccinations needed
 - Medications to pack
-- Insurance requirements
+- Insurance emergency contact numbers
+- Copy of insurance policy on phone
 
 4. HOME
 - What to turn off/unplug

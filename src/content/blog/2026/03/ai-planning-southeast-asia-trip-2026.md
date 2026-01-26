@@ -167,9 +167,23 @@ Weight these factors by importance to me:
 ### What I'll Book with AI Help
 
 - [ ] Flights (via my flight agent alerts)
+- [ ] Travel insurance (AI-researched coverage needs)
 - [ ] Accommodation (ChatGPT recommendations)
 - [ ] Key experiences (Perplexity research)
 - [ ] Restaurant list (gluten-free focused)
+
+### Travel Insurance Research
+
+I asked Perplexity to compare insurance needs for my three destination options:
+
+```
+Compare travel insurance requirements for Japan, Vietnam, and Cambodia.
+What coverage is essential for each?
+What activities need special coverage?
+Evacuation coverage importance for each destination?
+```
+
+**Result:** Cambodia requires the most coverage (evacuation essential), Japan needs high medical coverage (expensive hospitals), Vietnam needs motorbike coverage if renting.
 
 ---
 

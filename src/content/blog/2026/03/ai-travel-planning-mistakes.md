@@ -128,7 +128,57 @@ AI doesn't know:
 
 ---
 
-## Mistake #7: Not Iterating on AI Responses
+## Mistake #7: Ignoring Dietary Restriction Research
+
+**What happens**: You have celiac disease, a nut allergy, or specific dietary needs. You ask AI about food options and trust the generic answer. Then you arrive and realize the local cuisine is a minefield.
+
+**Why it matters**: AI often oversimplifies dietary advice. "Many dishes are rice-based" doesn't help when soy sauce (containing wheat) is in everything, or when cross-contamination is common.
+
+**The fix**:
+1. Ask AI for specific unsafe ingredients in that cuisine (not just dishes to avoid)
+2. Get phrases translated for explaining your condition
+3. Research which restaurant types understand your needs
+4. Have AI create a "restaurant card" you can show servers
+5. Always verify AI's suggestions with recent traveler reports from people with the same dietary needs
+
+**Real example:** In Southeast Asia, soy sauce contains wheat and is used in many dishes that look gluten-free. Fish sauce is usually safe. AI often misses these details unless you specifically ask.
+
+**Useful prompt:**
+```
+I have [condition] traveling to [destination].
+What specific ingredients in local cuisine contain hidden [allergen]?
+What dishes look safe but aren't?
+Create a phrase card I can show restaurants.
+```
+
+---
+
+## Mistake #8: Skipping Travel Insurance Research
+
+**What happens**: You buy the cheapest travel insurance without understanding what's covered. Then something goes wrong, and you discover your $30 policy doesn't cover motorbike accidents, adventure activities, or emergency evacuation.
+
+**Why AI helps**: AI can research destination-specific healthcare costs, common claim issues, and what coverage you actually need.
+
+**The fix**:
+1. Ask AI about typical medical costs in your destination
+2. Research whether evacuation coverage is important for your region
+3. Check if your planned activities (scuba, skiing, motorbikes) need special coverage
+4. Use AI to understand policy exclusions before buying
+
+**Useful prompt:**
+```
+I'm traveling to [destination] for [X weeks].
+What travel insurance coverage do I actually need?
+What activities require special coverage?
+What are typical medical costs if I get hospitalized there?
+What do insurance policies usually exclude that surprises travelers?
+```
+
+**Key insight:** Emergency evacuation can cost $50,000-100,000+ from remote locations. A basic policy might not include this. In countries like Cambodia, evacuation to Thailand is often necessary for serious injuries.
+
+---
+
+## Mistake #9: Not Iterating on AI Responses
 
 **What happens**: You accept AI's first response as final. But AI often gives generic, safe recommendations the first time.
 

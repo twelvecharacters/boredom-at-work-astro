@@ -266,6 +266,32 @@ Compare these accommodation strategies:
 Which gives the best value, and what should I look for?
 ```
 
+### Dietary Restrictions on a Budget
+```
+I have [celiac disease/food allergy/etc.] traveling to [destination] on a budget.
+Help me find:
+- Naturally safe local dishes that are also cheap
+- Budget restaurants that understand dietary restrictions
+- Grocery stores where I can buy safe ingredients
+- Self-catering accommodation options
+- Phrases to explain my needs without overpaying
+
+How can I eat safely without breaking the budget?
+```
+
+### Travel Insurance Comparison
+```
+I need affordable travel insurance for [destination] for [X weeks].
+Help me understand:
+- Minimum coverage recommended for this destination
+- What's the typical cost for basic vs comprehensive coverage?
+- Does my credit card travel insurance cover me adequately?
+- What's usually NOT covered that I should know about?
+- Which budget-friendly providers have good reviews?
+
+I want adequate protection without overpaying.
+```
+
 ---
 
 ## When Free Isn't Enough

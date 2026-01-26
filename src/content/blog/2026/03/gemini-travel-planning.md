@@ -115,6 +115,35 @@ Check:
 
 **Why Gemini excels here:** Real-time access to official sources.
 
+### 6. Dietary Restrictions Research
+
+```
+I have [celiac disease/nut allergy/etc.] and am visiting [destination].
+Find me:
+- Restaurants with recent reviews mentioning [dietary need]
+- Which local dishes are naturally safe
+- Current information on food labeling laws
+- Recent traveler experiences with this dietary restriction
+- Apps or resources locals recommend
+```
+
+**Why Gemini excels here:** Can search for recent reviews and current restaurant information, not outdated lists.
+
+### 7. Travel Insurance Research
+
+```
+I need travel insurance for [destination] for [X weeks].
+Search for:
+- Current travel insurance prices from major providers
+- Recent reviews of claims experiences
+- What coverage is recommended for this destination
+- Any current deals or discounts
+
+Also check typical medical costs in [destination] if hospitalized.
+```
+
+**Why Gemini excels here:** Can find current pricing, recent reviews, and real-time information about insurance providers.
+
 ---
 
 ## Gemini vs ChatGPT for Travel: When to Use Each

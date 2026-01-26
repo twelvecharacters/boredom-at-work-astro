@@ -211,6 +211,15 @@ This is our recommended approach:
 2. **ChatGPT for booking**: Price checking with Expedia, availability confirmation
 3. **Claude for refinement**: Adjusting based on constraints, getting alternatives
 
+### For Dietary Restrictions
+
+Both tools help with dietary needs differently:
+
+- **Claude** gives more nuanced, honest advice ("soy sauce contains wheat in most Asian countries, but fish sauce is usually safe")
+- **ChatGPT** is better at creating translation cards and quick phrase lists
+
+For celiac disease or serious allergies, Claude's cautious approach ("verify this with the restaurant") is often more helpful than ChatGPT's confident but potentially oversimplified answers.
+
 ---
 
 ## The Verdict

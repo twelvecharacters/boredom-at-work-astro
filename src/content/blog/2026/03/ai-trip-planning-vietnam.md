@@ -279,6 +279,25 @@ Best balance of experience, cost, and efficiency.
 
 ---
 
+## Travel Insurance for Vietnam
+
+Healthcare quality varies widely in Vietnam—international hospitals in big cities are good but expensive, while rural facilities are basic.
+
+### AI Insurance Prompt for Vietnam
+
+```
+I'm planning a [X-week] trip to Vietnam.
+Help me with travel insurance:
+- What are typical medical costs in Vietnam?
+- Do I need emergency evacuation coverage?
+- What activities need special coverage (motorbike riding!)?
+- Which cities have good international hospitals?
+```
+
+**AI insight:** If you rent a motorbike (common in Vietnam), make sure your insurance covers motorbike accidents—many policies exclude this. Emergency evacuation to Singapore or Bangkok is important for serious injuries, as specialized care may require leaving the country.
+
+---
+
 ## My Vietnam Planning Stack
 
 For my potential November 2026 trip:

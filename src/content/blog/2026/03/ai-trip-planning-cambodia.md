@@ -300,6 +300,25 @@ Thailand (if you want beaches + temples)
 
 ---
 
+## Travel Insurance for Cambodia
+
+Healthcare in Cambodia is limited—serious medical issues often require evacuation to Thailand.
+
+### AI Insurance Prompt for Cambodia
+
+```
+I'm planning a [X-week] trip to Cambodia.
+Help me with travel insurance:
+- What are typical medical costs in Cambodia?
+- Is emergency evacuation to Bangkok essential?
+- What activities need special coverage?
+- What should I know about healthcare facilities in Siem Reap vs Phnom Penh?
+```
+
+**AI insight:** Emergency medical evacuation coverage is essential for Cambodia. For anything serious, you'll likely be evacuated to Bangkok (1 hour flight). Basic clinics exist in tourist areas, but quality international hospitals are limited. Budget $50,000+ evacuation coverage minimum.
+
+---
+
 ## My Cambodia Planning Stack
 
 For my potential November 2026 trip:
