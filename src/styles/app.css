@@ -1,5 +1,4 @@
-/* Typography */
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&family=Inter:wght@400;500;600&display=swap');
+/* Typography - Fonts loaded via HTML for non-blocking render */
 
 @import "tailwindcss";
 
