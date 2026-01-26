@@ -43,6 +43,18 @@ ChatGPT suggested this route, and it was spot-on. Starting in KL to recover from
 
 ---
 
+## Essential First-Day Setup
+
+Before diving into what we did, two practical tips that made everything easier:
+
+**1. Get a Local SIM Card at the Airport**
+Right after landing at KLIA, we bought a tourist SIM card. For about 30-40 MYR (~€6-8), you get plenty of data for 2 weeks. This is way cheaper than international roaming and essential for using maps, translation apps, and booking services.
+
+**2. Download Grab (Uber Doesn't Exist Here)**
+Uber pulled out of Southeast Asia years ago. Grab is the dominant ride-hailing app in Malaysia and most of Southeast Asia. Download it before you arrive and link a payment method. We used Grab daily—it's reliable, affordable, and safer than negotiating with taxi drivers.
+
+---
+
 ## What We Asked ChatGPT
 
 We used ChatGPT for three main things:
@@ -273,12 +285,19 @@ ChatGPT struggles with:
 
 Based on our experience:
 
+**Before You Go:**
 - [ ] Book Petronas Towers tickets in advance
+- [ ] Download Grab app (Uber doesn't work in Southeast Asia!)
 - [ ] Pack modest clothing for temple visits (knees and shoulders covered)
-- [ ] Download Grab app before arrival
 - [ ] Learn key phrases for dietary restrictions
+
+**On Arrival:**
+- [ ] Buy a local SIM card at the airport (~30-40 MYR for 2 weeks)
+- [ ] Set up Grab with local payment method
+
+**During the Trip:**
 - [ ] Plan more days in Langkawi (we wished we had longer)
-- [ ] Rent a scooter in Langkawi
+- [ ] Rent a scooter in Langkawi (40 MYR/day)
 - [ ] Take advantage of duty-free alcohol in Langkawi
 - [ ] Don't feed the monkeys at Batu Caves (seriously)
 
