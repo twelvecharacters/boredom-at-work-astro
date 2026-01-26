@@ -233,7 +233,7 @@ rm bildname.png
 | Kategorie | Anzahl Artikel | Status |
 |-----------|----------------|--------|
 | AI/Learning | 10 | Aktiv |
-| AI/Travel | 8 | Draft (März/April) |
+| AI/Travel | 10 | Draft (März-Mai) |
 | 3D Printing | 6 | Aktiv |
 | Photography | 7 | Aktiv |
 | Japan Shopping | 3 | Aktiv |
@@ -263,29 +263,38 @@ rm bildname.png
 | 23. Feb | AI Writing Tools: Grammarly vs Jasper vs Claude | AI | ✅ Geschrieben |
 | 26. Feb | Best AI Chrome Extensions for Productivity | AI/Productivity | ✅ Geschrieben |
 
-### AI Travel Planning Cluster (März/April 2026) - NEU!
-**Status:** ✅ Alle 8 Artikel geschrieben (Draft)
-**Noch zu tun:** Bilder erstellen, Publish-Dates setzen
+### AI Travel Planning Cluster (März-Mai 2026) - NEU!
+**Status:** ✅ Alle 10 Artikel geschrieben (Draft)
+**Noch zu tun:** Bilder erstellen (10 Stück), Publish-Dates setzen
 
-| Datum | Artikel | Typ | Slug |
-|-------|---------|-----|------|
+| Datum | Artikel | AI Tool | Slug |
+|-------|---------|---------|------|
 | TBD | How to Plan Your Perfect Trip with AI | **Pillar** | `/ai-travel-planning-guide/` |
-| TBD | ChatGPT Travel Prompts (15 Prompts) | Cluster | `/chatgpt-travel-planning-prompts/` |
-| TBD | Best AI Trip Planners 2026 | Cluster | `/best-ai-trip-planners/` |
-| TBD | Malaysia Trip mit ChatGPT ⭐ | Cluster | `/chatgpt-malaysia-trip-planning/` |
-| TBD | AI Travel Planning Mistakes | Cluster | `/ai-travel-planning-mistakes/` |
-| TBD | Claude vs ChatGPT for Travel | Cluster | `/claude-vs-chatgpt-travel-planning/` |
-| TBD | Free AI Travel Tools | Cluster | `/free-ai-travel-tools/` |
-| TBD | AI Packing Lists & Checklists | Cluster | `/ai-packing-list-travel-checklist/` |
+| TBD | ChatGPT Travel Prompts (15 Prompts) | ChatGPT | `/chatgpt-travel-planning-prompts/` |
+| TBD | Best AI Trip Planners 2026 | Alle | `/best-ai-trip-planners/` |
+| TBD | Malaysia Trip mit ChatGPT ⭐ | ChatGPT | `/chatgpt-malaysia-trip-planning/` |
+| TBD | AI Travel Planning Mistakes | Allgemein | `/ai-travel-planning-mistakes/` |
+| TBD | Claude vs ChatGPT for Travel | Claude/ChatGPT | `/claude-vs-chatgpt-travel-planning/` |
+| TBD | Free AI Travel Tools | Alle | `/free-ai-travel-tools/` |
+| TBD | AI Packing Lists & Checklists | Allgemein | `/ai-packing-list-travel-checklist/` |
+| TBD | Google Gemini for Travel Planning | Gemini | `/gemini-travel-planning/` |
+| TBD | Perplexity AI for Travel Research | Perplexity | `/perplexity-travel-research/` |
+
+**Tool-Abdeckung:**
+- ChatGPT: 3 Artikel
+- Claude: 1 Artikel (Vergleich)
+- Gemini: 1 Artikel
+- Perplexity: 1 Artikel
+- Allgemein/Alle: 4 Artikel
 
 **Malaysia-Artikel Details (echte Reise Nov 2025):**
 - Route: KL (2N) → Penang (3N) → Langkawi (5N) → KL (3N)
 - Budget: ~$150/Tag
-- Besonderheit: Zöliakie/Glutenfrei-Winkel
+- Besonderheit: Zöliakie/Glutenfrei-Winkel, Grab statt Uber, Lokale SIM-Karte
 - Hotels: Sky Villa Suites, Urban Suites, The Riyaz Lavanya, The Platinum
 - Highlights: Petronas Towers, Batu Caves (Dresscode + Affen!), Penang Hill, Kek Lok Si, Jetski Tour (600 MYR), Scooter (40 MYR/Tag), Duty-Free Langkawi
 
-**Benötigte Bilder (8 Stück):**
+**Benötigte Bilder (10 Stück):**
 - `ai-travel-planning-guide.webp`
 - `chatgpt-travel-prompts.webp`
 - `best-ai-trip-planners.webp`
@@ -294,6 +303,8 @@ rm bildname.png
 - `claude-vs-chatgpt-travel.webp`
 - `free-ai-travel-tools.webp`
 - `ai-packing-list.webp`
+- `gemini-travel-planning.webp`
+- `perplexity-travel-research.webp`
 
 ---
 
