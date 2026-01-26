@@ -6,11 +6,17 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 26. Januar 2026)
 
+### 🚨 TODO für 28. Januar 2026
+**AirPods Pro 3 Review geht live um 7:00 MEZ!**
+- [ ] **Reddit-Post erstellen** → r/apple oder r/airpods
+- [ ] **Pinterest-Pin erstellen** → Board: Learn AI & Tech Skills
+
 ### Letzte Sitzung (26. Januar 2026)
 ✅ **Neue Features hinzugefügt:**
 - **Pagefind Search** - Volltextsuche im Header (Desktop: 200px, Mobile: 100px)
 - **ScrollToTop Button** - Violet Button unten rechts, erscheint nach 300px scrollen
 - **SEO optimiert** - Homepage Meta-Description hinzugefügt
+- **AirPods Pro 3 Review** - Artikel erstellt, publiziert am 28. Jan
 
 **Technische Details Pagefind:**
 - Build-Befehl: `astro build && pagefind --site dist`
