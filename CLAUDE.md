@@ -25,7 +25,10 @@
   - accent: #8b5cf6 → #7c3aed
   - accent-hover: #7c3aed → #6d28d9
   - accent-alt: #f43f5e → #e11d48
-- **Non-Blocking Fonts** - Google Fonts mit `media="print" onload` Trick (~750ms gespart)
+- **Non-Blocking Fonts** - Google Fonts mit `media="print" onload` Trick
+- **Font Preconnect optimiert** - Preconnects an Anfang des `<head>`, Preload für Fonts CSS
+- **Logo optimiert** - Von 1024x331 (14.6 KB) auf 296x95 (7.1 KB) verkleinert
+- **Mobile Tabellen** - Horizontales Scrollen statt kaputtem Card-Layout
 
 ✅ **Weitere Features:**
 - **ScrollToTop Button** - Violet Button unten rechts, erscheint nach 300px scrollen
