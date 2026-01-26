@@ -3,6 +3,7 @@ import '../styles/app.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import ReadingProgressBar from '../components/ReadingProgressBar.astro';
+import ScrollToTop from '../components/ScrollToTop.astro';
 import { SITE } from '../config';
 
 interface Props {
@@ -146,5 +147,6 @@ const socialImageURL = new URL(image, Astro.site);
         }, 100);
       });
     </script>
+    <ScrollToTop />
   </body>
 </html>
