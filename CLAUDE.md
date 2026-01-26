@@ -4,24 +4,27 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 23. Januar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 26. Januar 2026)
 
-### Letzte Sitzung (23. Januar 2026)
-✅ **Alle 9 Februar-Bilder hinzugefügt und gepusht:**
-- claude-vs-chatgpt.webp
-- perplexity-ai-guide.webp
-- best-ai-tools-office-work.webp
-- microsoft-copilot-review.webp
-- ai-meeting-assistants.webp
-- notion-ai-vs-obsidian-ai.webp
-- how-to-use-ai-at-work-safely.webp
-- ai-writing-tools-comparison.webp
-- best-ai-chrome-extensions.webp (neu erstellt, 117KB, 1200x800px)
+### Letzte Sitzung (26. Januar 2026)
+✅ **Neue Features hinzugefügt:**
+- **Pagefind Search** - Volltextsuche im Header (Desktop: 200px, Mobile: 100px)
+- **ScrollToTop Button** - Violet Button unten rechts, erscheint nach 300px scrollen
+- **SEO optimiert** - Homepage Meta-Description hinzugefügt
+
+**Technische Details Pagefind:**
+- Build-Befehl: `astro build && pagefind --site dist`
+- Indexiert nur Blog-Artikel (`data-pagefind-body` im BlogPost Layout)
+- 29 Seiten, 4213 Wörter indexiert
+- Komponente: `src/components/Search.astro`
 
 **Nächste Schritte:**
 1. Reddit-Posts 2-5 posten (24.-27. Jan)
 2. Pinterest-Pins erstellen (Cameras, AI Courses)
 3. Nach Februar-Launch: Reddit-Posts für AI-Artikel vorbereiten
+
+### Vorherige Sitzung (23. Januar 2026)
+✅ Alle 9 Februar-Bilder hinzugefügt und gepusht
 
 ### Reddit-Posts starten! 🚀
 **5 vorbereitete Posts ab heute posten** (siehe unten bei "VORBEREITETE REDDIT-POSTS")
@@ -166,9 +169,11 @@ rm bildname.png
 - `src/styles/global.scss` - Base Styles, Prose, Komponenten
 
 ### Komponenten
-- `src/components/Header.astro` - Navigation mit Mobile-Menü
+- `src/components/Header.astro` - Navigation mit Mobile-Menü und Suche
 - `src/components/Footer.astro` - Footer mit Links und Contact CTA
 - `src/components/Hero.astro` - Wiederverwendbare Hero-Section
+- `src/components/Search.astro` - **Pagefind Volltextsuche** (Desktop 200px, Mobile 100px)
+- `src/components/ScrollToTop.astro` - **Scroll-to-Top Button** (erscheint nach 300px)
 - `src/components/CategoryCard.astro` - Kategorie-Karten
 - `src/components/Pagination.astro` - Blog-Pagination
 - `src/components/TagCloud.astro` - Tag-Übersicht
@@ -600,4 +605,4 @@ Siehe `CONTENT-PROMPTS.md` für vorgefertigte Prompts:
 
 ---
 
-*Letzte Aktualisierung: 23. Januar 2026*
+*Letzte Aktualisierung: 26. Januar 2026*
