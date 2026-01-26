@@ -131,53 +131,35 @@
       @apply border-l-4 border-accent pl-4 italic my-4;
     }
 
+    /* Responsive tables with horizontal scroll on mobile */
     table {
-      @apply w-full mb-4 border-collapse;
+      @apply w-full mb-4 border-collapse text-sm;
+      display: block;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+
+      @media (min-width: 769px) {
+        @apply text-base;
+        display: table;
+        overflow-x: visible;
+      }
 
       th, td {
-        @apply border border-gray-300 px-4 py-2 text-left;
+        @apply border border-gray-200 px-3 py-2 text-left;
+        min-width: 100px;
+
+        @media (min-width: 769px) {
+          @apply px-4;
+          min-width: auto;
+        }
       }
 
       th {
-        @apply bg-background-alt font-semibold;
+        @apply bg-background-alt font-semibold text-primary whitespace-nowrap;
       }
 
-      /* Mobile Table Styles - Transformed into Cards */
-      @media (max-width: 768px) {
-        @apply border-none block w-full;
-
-        thead {
-          @apply hidden;
-        }
-
-        tbody {
-          @apply block w-full;
-        }
-
-        tr {
-          @apply block bg-white mb-8 p-8 rounded-3xl border border-slate-100 shadow-md transition-shadow mx-2;
-        }
-
-        td {
-          @apply block w-full text-left py-3 border-none relative text-slate-700 text-base;
-
-          &::before {
-            content: attr(data-label);
-            @apply block text-[10px] font-black uppercase tracking-[0.15em] text-text-light mb-1;
-          }
-
-          &:first-child {
-            @apply text-xl font-extrabold text-primary mb-4 pb-4 border-b border-slate-50;
-
-            &::before {
-              @apply mb-2;
-            }
-          }
-
-          &:last-child {
-            @apply pb-0;
-          }
-        }
+      td:first-child {
+        @apply font-medium;
       }
     }
 
