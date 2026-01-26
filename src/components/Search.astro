@@ -1,13 +1,15 @@
 ---
-import '@pagefind/default-ui/css/ui.css';
+// CSS is loaded dynamically below
 ---
 
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
 <div id="search" class="ml-4 relative"></div>
 
-<script>
+<script is:inline>
   async function initPagefind() {
-    // @ts-ignore - Pagefind is generated at build time
-    const { PagefindUI } = await import('@pagefind/default-ui');
+    // Load PagefindUI from the generated pagefind folder
+    const pagefindPath = '/pagefind/pagefind-ui.js';
+    const { PagefindUI } = await import(/* @vite-ignore */ pagefindPath);
 
     new PagefindUI({
       element: "#search",
