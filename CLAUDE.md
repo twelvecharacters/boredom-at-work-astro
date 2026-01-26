@@ -233,7 +233,7 @@ rm bildname.png
 | Kategorie | Anzahl Artikel | Status |
 |-----------|----------------|--------|
 | AI/Learning | 10 | Aktiv |
-| AI/Travel | 10 | Draft (März-Mai) |
+| AI/Travel | 11 | Draft (März-Mai) |
 | 3D Printing | 6 | Aktiv |
 | Photography | 7 | Aktiv |
 | Japan Shopping | 3 | Aktiv |
@@ -264,8 +264,8 @@ rm bildname.png
 | 26. Feb | Best AI Chrome Extensions for Productivity | AI/Productivity | ✅ Geschrieben |
 
 ### AI Travel Planning Cluster (März-Mai 2026) - NEU!
-**Status:** ✅ Alle 10 Artikel geschrieben (Draft)
-**Noch zu tun:** Bilder erstellen (10 Stück), Publish-Dates setzen
+**Status:** ✅ Alle 11 Artikel geschrieben (Draft)
+**Noch zu tun:** Bilder erstellen (11 Stück), Publish-Dates setzen
 
 | Datum | Artikel | AI Tool | Slug |
 |-------|---------|---------|------|
@@ -279,6 +279,7 @@ rm bildname.png
 | TBD | AI Packing Lists & Checklists | Allgemein | `/ai-packing-list-travel-checklist/` |
 | TBD | Google Gemini for Travel Planning | Gemini | `/gemini-travel-planning/` |
 | TBD | Perplexity AI for Travel Research | Perplexity | `/perplexity-travel-research/` |
+| TBD | Build Your Own AI Flight Search Agent | Tutorial | `/build-ai-flight-search-agent/` |
 
 **Tool-Abdeckung:**
 - ChatGPT: 3 Artikel
@@ -294,7 +295,7 @@ rm bildname.png
 - Hotels: Sky Villa Suites, Urban Suites, The Riyaz Lavanya, The Platinum
 - Highlights: Petronas Towers, Batu Caves (Dresscode + Affen!), Penang Hill, Kek Lok Si, Jetski Tour (600 MYR), Scooter (40 MYR/Tag), Duty-Free Langkawi
 
-**Benötigte Bilder (10 Stück):**
+**Benötigte Bilder (11 Stück):**
 - `ai-travel-planning-guide.webp`
 - `chatgpt-travel-prompts.webp`
 - `best-ai-trip-planners.webp`
@@ -305,6 +306,7 @@ rm bildname.png
 - `ai-packing-list.webp`
 - `gemini-travel-planning.webp`
 - `perplexity-travel-research.webp`
+- `ai-flight-search-agent.webp`
 
 ---
 
