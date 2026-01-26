@@ -28,7 +28,7 @@
 - **Non-Blocking Fonts** - Google Fonts mit `media="print" onload` Trick
 - **Font Preconnect optimiert** - Preconnects an Anfang des `<head>`, Preload für Fonts CSS
 - **Logo optimiert** - Von 1024x331 (14.6 KB) auf 296x95 (7.1 KB) verkleinert
-- **Mobile Tabellen** - Horizontales Scrollen statt kaputtem Card-Layout
+- **Mobile Tabellen** - JS-Wrapper für horizontales Scrollen (`BlogPost.astro` Script), dunkler Header, Zebra-Streifen
 
 ✅ **Weitere Features:**
 - **ScrollToTop Button** - Violet Button unten rechts, erscheint nach 300px scrollen
