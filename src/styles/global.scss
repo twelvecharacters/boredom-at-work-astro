@@ -163,7 +163,7 @@
 
           &::before {
             content: attr(data-label);
-            @apply block text-[10px] font-black uppercase tracking-[0.15em] text-accent/60 mb-1;
+            @apply block text-[10px] font-black uppercase tracking-[0.15em] text-text-light mb-1;
           }
 
           &:first-child {
