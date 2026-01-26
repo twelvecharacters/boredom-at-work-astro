@@ -133,33 +133,67 @@
 
     /* Responsive tables with horizontal scroll on mobile */
     table {
-      @apply w-full mb-4 border-collapse text-sm;
+      @apply w-full mb-6 text-sm rounded-xl overflow-hidden shadow-sm border border-gray-100;
       display: block;
       overflow-x: auto;
       -webkit-overflow-scrolling: touch;
+      border-collapse: separate;
+      border-spacing: 0;
 
       @media (min-width: 769px) {
         @apply text-base;
         display: table;
-        overflow-x: visible;
+      }
+
+      thead {
+        display: table-header-group;
+      }
+
+      tbody {
+        display: table-row-group;
+      }
+
+      tr {
+        display: table-row;
       }
 
       th, td {
-        @apply border border-gray-200 px-3 py-2 text-left;
-        min-width: 100px;
+        @apply px-4 py-3 text-left;
+        display: table-cell;
+        min-width: 90px;
+        border-bottom: 1px solid #e5e7eb;
 
         @media (min-width: 769px) {
-          @apply px-4;
           min-width: auto;
         }
       }
 
       th {
-        @apply bg-background-alt font-semibold text-primary whitespace-nowrap;
+        @apply bg-primary text-white font-semibold text-xs uppercase tracking-wider;
+      }
+
+      tbody tr {
+        @apply bg-white transition-colors;
+
+        &:hover {
+          @apply bg-background-alt;
+        }
+
+        &:last-child td {
+          border-bottom: none;
+        }
+      }
+
+      tbody tr:nth-child(even) {
+        @apply bg-gray-50;
+
+        &:hover {
+          @apply bg-background-alt;
+        }
       }
 
       td:first-child {
-        @apply font-medium;
+        @apply font-medium text-primary;
       }
     }
 
