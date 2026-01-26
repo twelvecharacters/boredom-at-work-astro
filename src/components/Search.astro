@@ -11,7 +11,7 @@
     script.onload = function() {
       new PagefindUI({
         element: "#search",
-        showSubResults: true,
+        showSubResults: false,
         showImages: false,
         translations: {
           placeholder: "Search...",
@@ -104,6 +104,23 @@
     background-color: #f5f6ff;
   }
 
+  /* Hide sub-results and excerpts - only show main article titles */
+  .search-container .pagefind-ui__result-nested,
+  .search-container .pagefind-ui__result-excerpt,
+  .search-container .pagefind-ui__result-inner .pagefind-ui__result-excerpt {
+    display: none !important;
+  }
+
+  /* Clean result styling - just title */
+  .search-container .pagefind-ui__result {
+    padding: 0.75rem 1rem !important;
+    border-bottom: 1px solid #eee;
+  }
+
+  .search-container .pagefind-ui__result-inner {
+    gap: 0 !important;
+  }
+
   /* Mobile adjustments */
   @media (max-width: 768px) {
     .search-container {
@@ -119,6 +136,8 @@
       top: 60px;
       min-width: auto;
       max-width: none;
+      max-height: 50vh;
+      overflow-y: auto;
     }
   }
 </style>
