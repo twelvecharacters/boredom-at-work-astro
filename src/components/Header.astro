@@ -1,5 +1,6 @@
 ---
 import OptimizedImage from './OptimizedImage.astro';
+import Search from './Search.astro';
 import { NAV_ITEMS, SITE } from '../config';
 
 const navItems = NAV_ITEMS;
@@ -48,6 +49,8 @@ const currentPath = Astro.url.pathname;
             {item.label}
           </a>
         ))}
+        <!-- Search Component -->
+        <Search />
       </nav>
     </div>
 
