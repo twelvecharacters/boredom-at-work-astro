@@ -233,7 +233,7 @@ rm bildname.png
 | Kategorie | Anzahl Artikel | Status |
 |-----------|----------------|--------|
 | AI/Learning | 10 | Aktiv |
-| AI/Travel | 11 | Draft (März-Mai) |
+| AI/Travel | 16 | Draft (März-Juni) |
 | 3D Printing | 6 | Aktiv |
 | Photography | 7 | Aktiv |
 | Japan Shopping | 3 | Aktiv |
@@ -263,30 +263,53 @@ rm bildname.png
 | 23. Feb | AI Writing Tools: Grammarly vs Jasper vs Claude | AI | ✅ Geschrieben |
 | 26. Feb | Best AI Chrome Extensions for Productivity | AI/Productivity | ✅ Geschrieben |
 
-### AI Travel Planning Cluster (März-Mai 2026) - NEU!
-**Status:** ✅ Alle 11 Artikel geschrieben (Draft)
-**Noch zu tun:** Bilder erstellen (11 Stück), Publish-Dates setzen
+### AI Travel Planning Cluster (März-Juni 2026) - NEU!
+**Status:** ✅ Alle 16 Artikel geschrieben (Draft)
+**Noch zu tun:** Bilder erstellen (16 Stück), Publish-Dates setzen
 
-| Datum | Artikel | AI Tool | Slug |
-|-------|---------|---------|------|
-| TBD | How to Plan Your Perfect Trip with AI | **Pillar** | `/ai-travel-planning-guide/` |
-| TBD | ChatGPT Travel Prompts (15 Prompts) | ChatGPT | `/chatgpt-travel-planning-prompts/` |
-| TBD | Best AI Trip Planners 2026 | Alle | `/best-ai-trip-planners/` |
-| TBD | Malaysia Trip mit ChatGPT ⭐ | ChatGPT | `/chatgpt-malaysia-trip-planning/` |
-| TBD | AI Travel Planning Mistakes | Allgemein | `/ai-travel-planning-mistakes/` |
-| TBD | Claude vs ChatGPT for Travel | Claude/ChatGPT | `/claude-vs-chatgpt-travel-planning/` |
-| TBD | Free AI Travel Tools | Alle | `/free-ai-travel-tools/` |
-| TBD | AI Packing Lists & Checklists | Allgemein | `/ai-packing-list-travel-checklist/` |
-| TBD | Google Gemini for Travel Planning | Gemini | `/gemini-travel-planning/` |
-| TBD | Perplexity AI for Travel Research | Perplexity | `/perplexity-travel-research/` |
-| TBD | Build Your Own AI Flight Search Agent | Tutorial | `/build-ai-flight-search-agent/` |
+**Pillar + Core Guides (6 Artikel):**
+| Datum | Artikel | Slug |
+|-------|---------|------|
+| 1. März | How to Plan Your Perfect Trip with AI | `/ai-travel-planning-guide/` |
+| 8. März | ChatGPT Travel Prompts (19 Prompts) | `/chatgpt-travel-planning-prompts/` |
+| 15. März | Best AI Trip Planners 2026 | `/best-ai-trip-planners/` |
+| 22. März | Malaysia Trip mit ChatGPT ⭐ | `/chatgpt-malaysia-trip-planning/` |
+| 29. März | AI Travel Planning Mistakes | `/ai-travel-planning-mistakes/` |
+| 12. April | Free AI Travel Tools | `/free-ai-travel-tools/` |
 
-**Tool-Abdeckung:**
-- ChatGPT: 3 Artikel
-- Claude: 1 Artikel (Vergleich)
-- Gemini: 1 Artikel
-- Perplexity: 1 Artikel
-- Allgemein/Alle: 4 Artikel
+**Tool-Vergleiche (4 Artikel):**
+| Datum | Artikel | Slug |
+|-------|---------|------|
+| 5. April | Claude vs ChatGPT for Travel | `/claude-vs-chatgpt-travel-planning/` |
+| 19. April | AI Packing Lists & Checklists | `/ai-packing-list-travel-checklist/` |
+| 26. April | Google Gemini for Travel Planning | `/gemini-travel-planning/` |
+| 3. Mai | Perplexity AI for Travel Research | `/perplexity-travel-research/` |
+
+**Flight Agent + Destinations (6 Artikel):**
+| Datum | Artikel | Slug |
+|-------|---------|------|
+| 10. Mai | Build Your Own AI Flight Search Agent | `/build-ai-flight-search-agent/` |
+| 17. Mai | My Southeast Asia Trip 2026 (Case Study) | `/ai-planning-southeast-asia-trip-2026/` |
+| 24. Mai | AI Trip Planning: Japan | `/ai-trip-planning-japan/` |
+| 31. Mai | AI Trip Planning: Vietnam | `/ai-trip-planning-vietnam/` |
+| 7. Juni | AI Trip Planning: Cambodia | `/ai-trip-planning-cambodia/` |
+| 14. Juni | Japan vs Vietnam vs Cambodia Comparison | `/japan-vietnam-cambodia-comparison/` |
+
+**Besondere Features in allen Artikeln:**
+- ✅ **Glutenfreie Essensauswahl** - Prompts, sichere Gerichte, Restaurant-Karten, Übersetzungen
+- ✅ **Reisekrankenversicherung** - AI-Prompts, länderspezifische Tipps, Evakuierung
+
+**Länderspezifische Versicherungstipps:**
+| Land | Healthcare | Evakuierung | Besonderheit |
+|------|------------|-------------|--------------|
+| Japan | Teuer, gut | Selten nötig | Vorauszahlung oft erforderlich |
+| Vietnam | Variabel | Wichtig | Motorrad-Deckung essentiell! |
+| Cambodia | Begrenzt | Essentiell | $50,000+ Evakuierungsdeckung |
+
+**Glutenfrei-Ranking:**
+1. Japan (Reis-basiert, Bewusstsein vorhanden)
+2. Cambodia (Fischsauce meist sicher, wenig Soja)
+3. Vietnam (Herausfordernd - Sojasauce überall)
 
 **Malaysia-Artikel Details (echte Reise Nov 2025):**
 - Route: KL (2N) → Penang (3N) → Langkawi (5N) → KL (3N)
@@ -295,7 +318,7 @@ rm bildname.png
 - Hotels: Sky Villa Suites, Urban Suites, The Riyaz Lavanya, The Platinum
 - Highlights: Petronas Towers, Batu Caves (Dresscode + Affen!), Penang Hill, Kek Lok Si, Jetski Tour (600 MYR), Scooter (40 MYR/Tag), Duty-Free Langkawi
 
-**Benötigte Bilder (11 Stück):**
+**Benötigte Bilder (16 Stück):**
 - `ai-travel-planning-guide.webp`
 - `chatgpt-travel-prompts.webp`
 - `best-ai-trip-planners.webp`
@@ -307,6 +330,11 @@ rm bildname.png
 - `gemini-travel-planning.webp`
 - `perplexity-travel-research.webp`
 - `ai-flight-search-agent.webp`
+- `ai-southeast-asia-trip-2026.webp`
+- `ai-trip-planning-japan.webp`
+- `ai-trip-planning-vietnam.webp`
+- `ai-trip-planning-cambodia.webp`
+- `japan-vietnam-cambodia-comparison.webp`
 
 ---
 
@@ -676,4 +704,4 @@ Siehe `CONTENT-PROMPTS.md` für vorgefertigte Prompts:
 
 ---
 
-*Letzte Aktualisierung: 26. Januar 2026*
+*Letzte Aktualisierung: 26. Januar 2026 (AI Travel Cluster mit 16 Artikeln)*
