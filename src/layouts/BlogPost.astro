@@ -42,7 +42,7 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
 ---
 
 <BaseLayout title={title} description={description} image={image} article={true}>
-  <article class="max-w-4xl mx-auto px-4 py-8">
+  <article class="max-w-4xl mx-auto px-4 py-8" data-pagefind-meta={`title:${title}, image:${image}`}>
     <!-- Breadcrumbs -->
     <Breadcrumbs items={breadcrumbItems} />
 
@@ -59,10 +59,12 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
         <span>•</span>
         <span>{readingTime} min read</span>
         {updatedDate && (
-          <>
-            <span>•</span>
+          <div class="flex items-center text-accent font-medium bg-accent/5 px-2 py-0.5 rounded ml-2">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+            </svg>
             <span>Updated: {formattedUpdatedDate}</span>
-          </>
+          </div>
         )}
       </div>
 
@@ -94,7 +96,7 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
     <TableOfContents />
 
     <!-- Article Content -->
-    <div class="prose">
+    <div class="prose" data-pagefind-body>
       <slot />
     </div>
 
