@@ -6,8 +6,18 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 26. Januar 2026)
 
-### 🚨 TODO für 27. Januar 2026 (10:00 Uhr)
-**16 Bilder für AI Travel Cluster erstellen!**
+### 🚨 TODO für 27. Januar 2026
+
+**1. Reddit Posts (15-17 Uhr MEZ):**
+- [ ] Post 4: DSLR vs Mirrorless → r/AskPhotography (Text unten bei "VORBEREITETE REDDIT-POSTS")
+- [ ] Post 5: ChatGPT Tutorial → r/ChatGPT
+
+**2. Pinterest Pins erstellen:**
+- [ ] Best Cameras Under $500 → Board: Photography for Beginners
+- [ ] Free AI Courses → Board: Learn AI & Tech Skills
+(Texte unten bei "Pinterest-Strategie")
+
+**3. 16 Bilder für AI Travel Cluster (10:00 Uhr):**
 - [ ] `ai-travel-planning-guide.webp`
 - [ ] `chatgpt-travel-prompts.webp`
 - [ ] `best-ai-trip-planners.webp`
