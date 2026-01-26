@@ -1,30 +1,24 @@
 ---
-// CSS is loaded dynamically below
+// Pagefind Search Component
 ---
 
 <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
 <div id="search" class="search-container"></div>
-
-<script type="module">
-  async function initPagefind() {
-    try {
-      const { PagefindUI } = await import('/pagefind/pagefind-ui.js');
-
+<script src="/pagefind/pagefind-ui.js" defer></script>
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', function() {
+    if (typeof PagefindUI !== 'undefined') {
       new PagefindUI({
         element: "#search",
         showSubResults: true,
         showImages: false,
         translations: {
           placeholder: "Search...",
-          zero_results: "No articles found for [SEARCH_TERM]"
+          zero_results: "Nothing found"
         }
       });
-    } catch (e) {
-      console.error('Pagefind failed to load:', e);
     }
-  }
-
-  initPagefind();
+  });
 </script>
 
 <style is:global>
