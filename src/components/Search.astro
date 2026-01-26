@@ -79,16 +79,16 @@
     color: white !important;
   }
 
-  /* Results dropdown */
+  /* Results dropdown - dark theme matching header */
   .search-container .pagefind-ui__drawer {
     position: absolute;
     right: 0;
     top: 100%;
     margin-top: 0.5rem;
-    background: #f5f6ff !important;
-    border: 1px solid rgba(17, 21, 59, 0.1);
+    background: linear-gradient(to right, #11153b, #2d1f4a) !important;
+    border: 1px solid rgba(139, 92, 246, 0.3);
     border-radius: 0.5rem;
-    box-shadow: 0 10px 25px rgba(17, 21, 59, 0.15);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
     min-width: 300px;
     max-width: 400px;
     max-height: 70vh;
@@ -97,12 +97,20 @@
   }
 
   .search-container .pagefind-ui__result-title {
-    color: #1e1b4b;
+    color: white !important;
     font-weight: 600;
   }
 
+  .search-container .pagefind-ui__result-link {
+    color: rgba(255, 255, 255, 0.8) !important;
+  }
+
   .search-container .pagefind-ui__result-link:hover {
-    background-color: #f5f6ff;
+    background-color: rgba(139, 92, 246, 0.2) !important;
+  }
+
+  .search-container .pagefind-ui__message {
+    color: rgba(255, 255, 255, 0.7) !important;
   }
 
   /* Hide sub-results and excerpts - only show main article titles */
@@ -125,7 +133,7 @@
   /* Clean result styling - just title */
   .search-container .pagefind-ui__result {
     padding: 0.75rem 1rem !important;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
   }
 
   .search-container .pagefind-ui__result-inner {
