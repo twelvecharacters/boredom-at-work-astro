@@ -15,7 +15,7 @@
 **2. Reddit Post:** ✅ ERLEDIGT
 - [x] ChatGPT Tutorial → r/learnmachinelearning ✅
 
-**3. 16 Bilder für AI Travel Cluster (12/16 fertig):**
+**3. 16 Bilder für AI Travel Cluster:** ✅ KOMPLETT
 - [x] `ai-travel-planning-guide.webp` ✅ (104 KB)
 - [x] `chatgpt-travel-prompts.webp` ✅ (64 KB)
 - [x] `best-ai-trip-planners.webp` ✅ (86 KB)
@@ -28,10 +28,10 @@
 - [x] `perplexity-travel-research.webp` ✅ (334 KB)
 - [x] `ai-flight-search-agent.webp` ✅ (282 KB)
 - [x] `ai-southeast-asia-trip-2026.webp` ✅ (168 KB)
-- [ ] `ai-trip-planning-japan.webp` ← NÄCHSTES
-- [ ] `ai-trip-planning-vietnam.webp`
-- [ ] `ai-trip-planning-cambodia.webp`
-- [ ] `japan-vietnam-cambodia-comparison.webp`
+- [x] `ai-trip-planning-japan.webp` ✅ (158 KB)
+- [x] `ai-trip-planning-vietnam.webp` ✅ (175 KB)
+- [x] `ai-trip-planning-cambodia.webp` ✅ (208 KB)
+- [x] `japan-vietnam-cambodia-comparison.webp` ✅ (152 KB)
 
 ### 🚨 TODO für 28. Januar 2026
 **AirPods Pro 3 Review geht live um 7:00 MEZ!**
@@ -47,7 +47,7 @@
 - [ ] **Pinterest-Pin erstellen** → Board: Learn AI & Tech Skills
 
 ### Letzte Sitzung (27. Januar 2026)
-✅ **AI Travel Cluster Bilder (12/16 fertig):**
+✅ **AI Travel Cluster Bilder KOMPLETT (16/16):**
 
 | # | Datei | Status | Größe |
 |---|-------|--------|-------|
@@ -63,10 +63,10 @@
 | 10 | perplexity-travel-research.webp | ✅ | 334 KB |
 | 11 | ai-flight-search-agent.webp | ✅ | 282 KB |
 | 12 | ai-southeast-asia-trip-2026.webp | ✅ | 168 KB |
-| 13 | ai-trip-planning-japan.webp | ← NÄCHSTES | - |
-| 14 | ai-trip-planning-vietnam.webp | ⏳ | - |
-| 15 | ai-trip-planning-cambodia.webp | ⏳ | - |
-| 16 | japan-vietnam-cambodia-comparison.webp | ⏳ | - |
+| 13 | ai-trip-planning-japan.webp | ✅ | 158 KB |
+| 14 | ai-trip-planning-vietnam.webp | ✅ | 175 KB |
+| 15 | ai-trip-planning-cambodia.webp | ✅ | 208 KB |
+| 16 | japan-vietnam-cambodia-comparison.webp | ✅ | 152 KB |
 
 **Workflow mit ChatGPT für Bilder:**
 1. Artikel in TextEdit öffnen
