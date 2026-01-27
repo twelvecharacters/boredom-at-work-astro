@@ -33,10 +33,12 @@
 - [x] `ai-trip-planning-cambodia.webp` ✅ (208 KB)
 - [x] `japan-vietnam-cambodia-comparison.webp` ✅ (152 KB)
 
-### 🚨 TODO für 28. Januar 2026 — ⏰ ERINNERUNG 10:30 UHR!
-**AirPods Pro 3 Review geht live um 7:00 MEZ!**
+### 🚨 TODO für 28. Januar 2026
+**⏰ 07:30 — AirPods Pro 3 Posts veröffentlichen:**
 - [ ] Reddit-Post erstellen → r/airpods (Text unten vorbereitet)
 - [ ] Pinterest-Pin erstellen → Board: Learn AI & Tech Skills (Text unten vorbereitet)
+
+**⏰ 10:30 — Todo Liste anzeigen lassen**
 
 ---
 
