@@ -14,7 +14,7 @@
 
 **2. Pinterest Pins erstellen:**
 - [x] Best Cameras Under $500 → Board: Photography for Beginners ✅
-- [ ] Free AI Courses → Board: Learn AI & Tech Skills
+- [x] Free AI Courses → Board: Learn AI & Tech Skills ✅
 (Texte unten bei "Pinterest-Strategie")
 
 **3. 16 Bilder für AI Travel Cluster (10:00 Uhr):**
@@ -597,6 +597,7 @@ For the experienced users here - what do you wish you'd known when you first sta
 **Erstellte Pins:**
 - ✅ 10 3D Printing Mistakes
 - ✅ Best Cameras Under $500 (27. Jan) — https://www.pinterest.com/pin/1123014857097046894/
+- ✅ 7 Free AI Courses (27. Jan) — https://www.pinterest.com/pin/1123014857097047528/
 
 **Nächste Pins erstellen:**
 
