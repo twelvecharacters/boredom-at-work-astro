@@ -33,10 +33,69 @@
 - [x] `ai-trip-planning-cambodia.webp` ✅ (208 KB)
 - [x] `japan-vietnam-cambodia-comparison.webp` ✅ (152 KB)
 
-### 🚨 TODO für 28. Januar 2026
+### 🚨 TODO für 28. Januar 2026 — ⏰ ERINNERUNG 10:30 UHR!
 **AirPods Pro 3 Review geht live um 7:00 MEZ!**
-- [ ] Reddit-Post erstellen → r/apple oder r/airpods
-- [ ] Pinterest-Pin erstellen → Board: Learn AI & Tech Skills
+- [ ] Reddit-Post erstellen → r/airpods (Text unten vorbereitet)
+- [ ] Pinterest-Pin erstellen → Board: Learn AI & Tech Skills (Text unten vorbereitet)
+
+---
+
+#### 📋 VORBEREITETER REDDIT POST → r/airpods
+
+**Title:** `One week with AirPods Pro 3 - my honest take on whether they're worth it`
+
+**Body:**
+```
+Got my hands on AirPods Pro 3 about a week ago. After using them daily for commutes, work calls, and music, wanted to share some thoughts.
+
+**The Good:**
+- ANC is noticeably better than Pro 2. Office chatter and train noise basically gone
+- Adaptive Audio is the sleeper feature - automatically blends ANC and Transparency based on environment
+- Battery finally lasts my full workday (7 hours vs 6)
+- IP55 rating makes me less paranoid about rain
+
+**The Meh:**
+- $279 price tag is hard to swallow
+- Still no lossless audio over Bluetooth
+- Case scratches within days
+
+**Quick comparison:**
+
+| Feature | Pro 2 | Pro 3 |
+|---------|-------|-------|
+| Battery | 6 hrs | 7 hrs |
+| ANC | Excellent | Better |
+| Water | IPX4 | IP55 |
+| Price | $249 | $279 |
+
+Full thoughts with more details: https://boredom-at-work.com/airpods-pro-3-review/
+
+For those who upgraded from Pro 2 - do you feel the same way? Curious if the ANC difference is as noticeable for others.
+```
+
+---
+
+#### 📋 VORBEREITETER PINTEREST PIN → Board: Learn AI & Tech Skills
+
+**Title:** AirPods Pro 3 Review: Worth the Upgrade? (2026)
+
+**Description:**
+```
+Honest review of Apple's AirPods Pro 3 after one week of daily use. Better ANC, longer battery (7 hours), IP55 water resistance - but is it worth $279?
+
+Key upgrades over AirPods Pro 2:
+✓ H3 chip with improved noise cancellation
+✓ Adaptive Audio mode (game changer!)
+✓ 7 hours battery vs 6 hours
+✓ Better hearing health features
+
+Read the full review with comparison table.
+
+#AirPodsPro3 #AirPods #Apple #TechReview #Earbuds #AppleEcosystem #WirelessEarbuds #TechGadgets
+```
+**Link:** https://boredom-at-work.com/airpods-pro-3-review/
+
+---
 
 ### 🚨 TODO für 31. Januar 2026 (Freitag)
 **Reddit Posts (nicht spammen - verteilt posten):**
