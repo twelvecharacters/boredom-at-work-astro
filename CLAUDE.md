@@ -374,7 +374,7 @@ rm bildname.png
 | 1. März | How to Plan Your Perfect Trip with AI | `/ai-travel-planning-guide/` |
 | 8. März | ChatGPT Travel Prompts (19 Prompts) | `/chatgpt-travel-planning-prompts/` |
 | 15. März | Best AI Trip Planners 2026 | `/best-ai-trip-planners/` |
-| 22. März | Malaysia Trip mit ChatGPT ⭐ | `/chatgpt-malaysia-trip-planning/` |
+| 22. März | Malaysia Trip with ChatGPT ⭐ | `/chatgpt-malaysia-trip-planning/` |
 | 29. März | AI Travel Planning Mistakes | `/ai-travel-planning-mistakes/` |
 | 12. April | Free AI Travel Tools | `/free-ai-travel-tools/` |
 
