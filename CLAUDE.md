@@ -4,29 +4,31 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 26. Januar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 27. Januar 2026)
 
 ### 🚨 TODO für 27. Januar 2026
 
-**1. Pinterest Pins erstellen:**
+**1. Pinterest Pins erstellen:** ✅ ERLEDIGT
 - [x] Best Cameras Under $500 → Board: Photography for Beginners ✅
 - [x] Free AI Courses → Board: Learn AI & Tech Skills ✅
-(Texte unten bei "Pinterest-Strategie")
 
-**3. 16 Bilder für AI Travel Cluster (10:00 Uhr):**
-- [ ] `ai-travel-planning-guide.webp`
-- [ ] `chatgpt-travel-prompts.webp`
-- [ ] `best-ai-trip-planners.webp`
-- [ ] `chatgpt-malaysia-trip.webp`
-- [ ] `ai-travel-mistakes.webp`
-- [ ] `claude-vs-chatgpt-travel.webp`
-- [ ] `free-ai-travel-tools.webp`
-- [ ] `ai-packing-list.webp`
-- [ ] `gemini-travel-planning.webp`
-- [ ] `perplexity-travel-research.webp`
-- [ ] `ai-flight-search-agent.webp`
-- [ ] `ai-southeast-asia-trip-2026.webp`
-- [ ] `ai-trip-planning-japan.webp`
+**2. Reddit Post:** ✅ ERLEDIGT
+- [x] ChatGPT Tutorial → r/learnmachinelearning ✅
+
+**3. 16 Bilder für AI Travel Cluster (12/16 fertig):**
+- [x] `ai-travel-planning-guide.webp` ✅ (104 KB)
+- [x] `chatgpt-travel-prompts.webp` ✅ (64 KB)
+- [x] `best-ai-trip-planners.webp` ✅ (86 KB)
+- [x] `chatgpt-malaysia-trip.webp` ✅ (58 KB)
+- [x] `ai-travel-mistakes.webp` ✅ (199 KB)
+- [x] `claude-vs-chatgpt-travel.webp` ✅ (222 KB)
+- [x] `free-ai-travel-tools.webp` ✅ (280 KB)
+- [x] `ai-packing-list.webp` ✅ (307 KB)
+- [x] `gemini-travel-planning.webp` ✅ (249 KB)
+- [x] `perplexity-travel-research.webp` ✅ (334 KB)
+- [x] `ai-flight-search-agent.webp` ✅ (282 KB)
+- [x] `ai-southeast-asia-trip-2026.webp` ✅ (168 KB)
+- [ ] `ai-trip-planning-japan.webp` ← NÄCHSTES
 - [ ] `ai-trip-planning-vietnam.webp`
 - [ ] `ai-trip-planning-cambodia.webp`
 - [ ] `japan-vietnam-cambodia-comparison.webp`
@@ -44,42 +46,47 @@
 - [ ] **Reddit-Post erstellen** → r/apple oder r/airpods
 - [ ] **Pinterest-Pin erstellen** → Board: Learn AI & Tech Skills
 
-### Letzte Sitzung (26. Januar 2026)
+### Letzte Sitzung (27. Januar 2026)
+✅ **AI Travel Cluster Bilder (12/16 fertig):**
+
+| # | Datei | Status | Größe |
+|---|-------|--------|-------|
+| 1 | ai-travel-planning-guide.webp | ✅ | 104 KB |
+| 2 | chatgpt-travel-prompts.webp | ✅ | 64 KB |
+| 3 | best-ai-trip-planners.webp | ✅ | 86 KB |
+| 4 | chatgpt-malaysia-trip.webp | ✅ | 58 KB |
+| 5 | ai-travel-mistakes.webp | ✅ | 199 KB |
+| 6 | claude-vs-chatgpt-travel.webp | ✅ | 222 KB |
+| 7 | free-ai-travel-tools.webp | ✅ | 280 KB |
+| 8 | ai-packing-list.webp | ✅ | 307 KB |
+| 9 | gemini-travel-planning.webp | ✅ | 249 KB |
+| 10 | perplexity-travel-research.webp | ✅ | 334 KB |
+| 11 | ai-flight-search-agent.webp | ✅ | 282 KB |
+| 12 | ai-southeast-asia-trip-2026.webp | ✅ | 168 KB |
+| 13 | ai-trip-planning-japan.webp | ← NÄCHSTES | - |
+| 14 | ai-trip-planning-vietnam.webp | ⏳ | - |
+| 15 | ai-trip-planning-cambodia.webp | ⏳ | - |
+| 16 | japan-vietnam-cambodia-comparison.webp | ⏳ | - |
+
+**Workflow mit ChatGPT für Bilder:**
+1. Artikel in TextEdit öffnen
+2. Inhalt bei ChatGPT einfügen + Bild-Prompt
+3. Bild herunterladen als PNG/JPG
+4. Konvertieren: `cwebp -q 75 bild.png -o name.webp`
+
+### Vorherige Sitzung (26. Januar 2026)
 ✅ **Pagefind Search komplett überarbeitet:**
 - Breite: Desktop 200px, Mobile 150px
 - Dunkles Dropdown-Design passend zum Header-Gradient
-- Nur Artikel-Titel anzeigen (keine Sub-Results/Excerpts)
-- Mobile: max-height 300px (scrollbar)
-- Schriftgrößen: Ergebnis-Anzahl größer, Titel kleiner
-- **Clear-Button Fix** - Weiße Box im Suchfeld entfernt (transparenter Hintergrund)
+- Clear-Button Fix, Mobile max-height 300px
 
 ✅ **Accessibility & Performance Fixes:**
-- **Kontrastfarben angepasst** für WCAG AA (4.5:1 Kontrast)
-  - accent: #8b5cf6 → #7c3aed
-  - accent-hover: #7c3aed → #6d28d9
-  - accent-alt: #f43f5e → #e11d48
-- **Non-Blocking Fonts** - Google Fonts mit `media="print" onload` Trick
-- **Font Preconnect optimiert** - Preconnects an Anfang des `<head>`, Preload für Fonts CSS
-- **Logo optimiert** - Von 1024x331 (14.6 KB) auf 296x95 (7.1 KB) verkleinert
-- **Mobile Tabellen** - JS-Wrapper für horizontales Scrollen (`BlogPost.astro` Script), dunkler Header, Zebra-Streifen
+- Kontrastfarben angepasst für WCAG AA
+- Non-Blocking Fonts, Logo optimiert, Mobile Tabellen
 
 ✅ **Weitere Features:**
-- **ScrollToTop Button** - Violet Button unten rechts, erscheint nach 300px scrollen
-- **SEO optimiert** - Homepage Meta-Description hinzugefügt
-- **AirPods Pro 3 Review** - Artikel erstellt, publiziert am 28. Jan
-
-**Technische Details Pagefind:**
-- Build-Befehl: `npx astro build && npx pagefind --site dist`
-- Indexiert nur Blog-Artikel (`data-pagefind-body` im BlogPost Layout)
-- 29 Seiten, 4213 Wörter indexiert
-- Komponente: `src/components/Search.astro`
-- `showSubResults: false` - Keine Unter-Abschnitte
-- `showImages: false` - Keine Bilder in Ergebnissen
-
-**Nächste Schritte:**
-1. Reddit-Posts 2-5 posten (24.-27. Jan)
-2. Pinterest-Pins erstellen (Cameras, AI Courses)
-3. Nach Februar-Launch: Reddit-Posts für AI-Artikel vorbereiten
+- ScrollToTop Button, SEO optimiert
+- AirPods Pro 3 Review erstellt (publiziert am 28. Jan)
 
 ### Vorherige Sitzung (23. Januar 2026)
 ✅ Alle 9 Februar-Bilder hinzugefügt und gepusht
@@ -740,4 +747,4 @@ Siehe `CONTENT-PROMPTS.md` für vorgefertigte Prompts:
 
 ---
 
-*Letzte Aktualisierung: 26. Januar 2026 (AI Travel Cluster mit 16 Artikeln)*
+*Letzte Aktualisierung: 27. Januar 2026 (Travel Cluster Bilder 1/16)*
