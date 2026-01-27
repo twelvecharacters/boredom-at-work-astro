@@ -8,11 +8,7 @@
 
 ### 🚨 TODO für 27. Januar 2026
 
-**1. Reddit Posts (15-17 Uhr MEZ):**
-- [ ] Post 4: DSLR vs Mirrorless → r/AskPhotography (Text unten bei "VORBEREITETE REDDIT-POSTS")
-- [ ] Post 5: ChatGPT Tutorial → r/ChatGPT
-
-**2. Pinterest Pins erstellen:**
+**1. Pinterest Pins erstellen:**
 - [x] Best Cameras Under $500 → Board: Photography for Beginners ✅
 - [x] Free AI Courses → Board: Learn AI & Tech Skills ✅
 (Texte unten bei "Pinterest-Strategie")
@@ -37,6 +33,14 @@
 
 ### 🚨 TODO für 28. Januar 2026
 **AirPods Pro 3 Review geht live um 7:00 MEZ!**
+- [ ] Reddit-Post erstellen → r/apple oder r/airpods
+- [ ] Pinterest-Pin erstellen → Board: Learn AI & Tech Skills
+
+### 🚨 TODO für 31. Januar 2026 (Freitag)
+**Reddit Posts (nicht spammen - verteilt posten):**
+- [ ] DSLR vs Mirrorless → r/AskPhotography
+- [ ] ChatGPT Tutorial → r/ChatGPT
+- [ ] Weitere Posts für Februar-Artikel vorbereiten
 - [ ] **Reddit-Post erstellen** → r/apple oder r/airpods
 - [ ] **Pinterest-Pin erstellen** → Board: Learn AI & Tech Skills
 
