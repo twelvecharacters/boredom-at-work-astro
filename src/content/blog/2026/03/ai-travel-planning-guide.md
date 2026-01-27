@@ -5,7 +5,7 @@ publishDate: 2026-03-01
 author: "bored chap"
 image: "/images/ai-travel-planning-guide.webp"
 tags: ["AI", "Travel", "ChatGPT", "Productivity"]
-draft: true
+draft: false
 faq:
   - question: "Can AI really plan a good trip?"
     answer: "Yes, AI can create solid travel itineraries, but you should always verify details like opening hours, prices, and distances. Studies show 90% of AI itineraries contain at least one error."

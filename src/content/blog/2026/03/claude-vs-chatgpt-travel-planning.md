@@ -5,7 +5,7 @@ publishDate: 2026-04-05
 author: "bored chap"
 image: "/images/claude-vs-chatgpt-travel.webp"
 tags: ["AI", "Travel", "ChatGPT", "Claude"]
-draft: true
+draft: false
 faq:
   - question: "Is Claude or ChatGPT better for travel planning?"
     answer: "ChatGPT is better for quick itineraries and has the Expedia plugin for bookings. Claude excels at detailed research, nuanced recommendations, and handling complex multi-destination trips."

@@ -5,7 +5,7 @@ publishDate: 2026-03-15
 author: "bored chap"
 image: "/images/best-ai-trip-planners.webp"
 tags: ["AI", "Travel", "Tools", "Reviews"]
-draft: true
+draft: false
 faq:
   - question: "What is the best AI trip planner in 2026?"
     answer: "Mindtrip is our top pick for most travelers, offering the best balance of AI-powered suggestions and practical booking features. For road trips specifically, Wanderlog edges ahead."

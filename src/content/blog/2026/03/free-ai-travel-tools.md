@@ -5,7 +5,7 @@ publishDate: 2026-04-12
 author: "bored chap"
 image: "/images/free-ai-travel-tools.webp"
 tags: ["AI", "Travel", "Budget", "Free Tools"]
-draft: true
+draft: false
 faq:
   - question: "Is the free version of ChatGPT good enough for travel planning?"
     answer: "Yes, for basic itineraries. The free version lacks web browsing and the Expedia plugin, but it can still create solid trip frameworks. Verify details manually."

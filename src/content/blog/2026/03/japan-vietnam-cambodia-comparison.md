@@ -5,7 +5,7 @@ publishDate: 2026-06-14
 author: "bored chap"
 image: "/images/japan-vietnam-cambodia-comparison.webp"
 tags: ["AI", "Travel", "Japan", "Vietnam", "Cambodia", "Asia"]
-draft: true
+draft: false
 faq:
   - question: "Which is cheapest: Japan, Vietnam, or Cambodia?"
     answer: "Cambodia and Vietnam are similarly affordable ($30-80/day). Japan costs 2-3x more ($100-200/day). AI tools can calculate exact costs based on your travel style."

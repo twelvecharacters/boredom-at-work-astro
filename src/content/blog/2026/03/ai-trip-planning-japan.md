@@ -5,7 +5,7 @@ publishDate: 2026-05-24
 author: "bored chap"
 image: "/images/ai-trip-planning-japan.webp"
 tags: ["AI", "Travel", "Japan", "Asia"]
-draft: true
+draft: false
 faq:
   - question: "What's the best time to visit Japan?"
     answer: "Cherry blossom season (late March-April) and autumn colors (November) are peak times. AI tools can help you find the exact dates and less crowded alternatives."

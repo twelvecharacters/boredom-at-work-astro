@@ -5,7 +5,7 @@ publishDate: 2026-05-31
 author: "bored chap"
 image: "/images/ai-trip-planning-vietnam.webp"
 tags: ["AI", "Travel", "Vietnam", "Asia"]
-draft: true
+draft: false
 faq:
   - question: "How many days do you need in Vietnam?"
     answer: "Minimum 10-14 days for highlights (Hanoi, Ha Long Bay, Hoi An, Ho Chi Minh). 3 weeks allows for a comprehensive north-to-south journey. AI can optimize based on your time."

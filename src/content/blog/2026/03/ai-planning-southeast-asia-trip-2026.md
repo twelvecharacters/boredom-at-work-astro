@@ -5,7 +5,7 @@ publishDate: 2026-05-17
 author: "bored chap"
 image: "/images/ai-southeast-asia-trip-2026.webp"
 tags: ["AI", "Travel", "Japan", "Vietnam", "Cambodia", "Case Study"]
-draft: true
+draft: false
 faq:
   - question: "Can AI help choose between multiple destinations?"
     answer: "Yes! AI tools can compare destinations based on your preferences, budget, weather, and flight prices. I'm using this approach to decide between Japan, Vietnam, and Cambodia for November 2026."

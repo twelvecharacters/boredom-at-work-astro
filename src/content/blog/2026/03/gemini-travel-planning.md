@@ -5,7 +5,7 @@ publishDate: 2026-04-26
 author: "bored chap"
 image: "/images/gemini-travel-planning.webp"
 tags: ["AI", "Travel", "Gemini", "Google"]
-draft: true
+draft: false
 faq:
   - question: "Is Google Gemini good for travel planning?"
     answer: "Yes, Gemini excels at travel planning thanks to real-time information and seamless Google integration. It can check current prices, weather, and availability—something ChatGPT's free version can't do."

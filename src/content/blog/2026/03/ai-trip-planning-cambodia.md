@@ -5,7 +5,7 @@ publishDate: 2026-06-07
 author: "bored chap"
 image: "/images/ai-trip-planning-cambodia.webp"
 tags: ["AI", "Travel", "Cambodia", "Asia"]
-draft: true
+draft: false
 faq:
   - question: "How many days do you need for Angkor Wat?"
     answer: "Minimum 2-3 days for the main temples. 4-5 days allows for remote temples and a relaxed pace. AI can help prioritize which temples match your interests."

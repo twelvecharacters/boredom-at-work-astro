@@ -5,7 +5,7 @@ publishDate: 2026-05-10
 author: "bored chap"
 image: "/images/ai-flight-search-agent.webp"
 tags: ["AI", "Travel", "Agents", "Automation", "Tutorial"]
-draft: true
+draft: false
 faq:
   - question: "What is an AI flight search agent?"
     answer: "An AI agent that automatically searches multiple flight sources, compares prices, considers your preferences, and finds the best routes—like having a personal travel assistant working 24/7."

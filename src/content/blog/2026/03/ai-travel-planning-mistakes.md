@@ -5,7 +5,7 @@ publishDate: 2026-03-29
 author: "bored chap"
 image: "/images/ai-travel-mistakes.webp"
 tags: ["AI", "Travel", "ChatGPT", "Tips"]
-draft: true
+draft: false
 faq:
   - question: "How accurate are AI travel itineraries?"
     answer: "Studies show 90% of AI-generated itineraries contain at least one error. Common issues include outdated business information, underestimated travel times, and closed attractions."

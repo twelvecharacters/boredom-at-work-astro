@@ -5,7 +5,7 @@ publishDate: 2026-03-22
 author: "bored chap"
 image: "/images/chatgpt-malaysia-trip.webp"
 tags: ["AI", "Travel", "ChatGPT", "Malaysia"]
-draft: true
+draft: false
 faq:
   - question: "Can ChatGPT plan a good Malaysia trip?"
     answer: "Yes, ChatGPT created an excellent route and helped with transport logistics. However, it missed important details like dress codes at religious sites and didn't warn about aggressive monkeys at Batu Caves."

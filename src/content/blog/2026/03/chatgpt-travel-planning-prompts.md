@@ -5,7 +5,7 @@ publishDate: 2026-03-08
 author: "bored chap"
 image: "/images/chatgpt-travel-prompts.webp"
 tags: ["AI", "Travel", "ChatGPT", "Prompts"]
-draft: true
+draft: false
 faq:
   - question: "What's the best ChatGPT prompt for travel planning?"
     answer: "The best prompts give ChatGPT a role, specify your preferences, and ask for structured output. Example: 'Act as a local travel guide for Tokyo. Create a 5-day itinerary for a first-time visitor who loves food and wants to avoid tourist traps.'"

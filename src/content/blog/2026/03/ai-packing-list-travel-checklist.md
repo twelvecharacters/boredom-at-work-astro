@@ -5,7 +5,7 @@ publishDate: 2026-04-19
 author: "bored chap"
 image: "/images/ai-packing-list.webp"
 tags: ["AI", "Travel", "Packing", "Productivity"]
-draft: true
+draft: false
 faq:
   - question: "Can AI create a good packing list?"
     answer: "Yes, AI excels at packing lists because it can factor in destination weather, planned activities, trip duration, and luggage restrictions. Just be specific in your prompt."

@@ -5,7 +5,7 @@ publishDate: 2026-05-03
 author: "bored chap"
 image: "/images/perplexity-travel-research.webp"
 tags: ["AI", "Travel", "Perplexity", "Research"]
-draft: true
+draft: false
 faq:
   - question: "Is Perplexity good for travel planning?"
     answer: "Perplexity excels at travel research—finding information, comparing options, and answering complex questions with sources. For building itineraries, ChatGPT is better, but for research, Perplexity is hard to beat."
