@@ -4,7 +4,7 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 27. Januar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 27. Januar 2026 - Abend)
 
 ### 🚨 TODO für 27. Januar 2026
 
@@ -104,36 +104,18 @@ Read the full review with comparison table.
 - [ ] DSLR vs Mirrorless → r/AskPhotography
 - [ ] ChatGPT Tutorial → r/ChatGPT
 - [ ] Weitere Posts für Februar-Artikel vorbereiten
-- [ ] **Reddit-Post erstellen** → r/apple oder r/airpods
-- [ ] **Pinterest-Pin erstellen** → Board: Learn AI & Tech Skills
 
 ### Letzte Sitzung (27. Januar 2026)
-✅ **AI Travel Cluster Bilder KOMPLETT (16/16):**
 
-| # | Datei | Status | Größe |
-|---|-------|--------|-------|
-| 1 | ai-travel-planning-guide.webp | ✅ | 104 KB |
-| 2 | chatgpt-travel-prompts.webp | ✅ | 64 KB |
-| 3 | best-ai-trip-planners.webp | ✅ | 86 KB |
-| 4 | chatgpt-malaysia-trip.webp | ✅ | 58 KB |
-| 5 | ai-travel-mistakes.webp | ✅ | 199 KB |
-| 6 | claude-vs-chatgpt-travel.webp | ✅ | 222 KB |
-| 7 | free-ai-travel-tools.webp | ✅ | 280 KB |
-| 8 | ai-packing-list.webp | ✅ | 307 KB |
-| 9 | gemini-travel-planning.webp | ✅ | 249 KB |
-| 10 | perplexity-travel-research.webp | ✅ | 334 KB |
-| 11 | ai-flight-search-agent.webp | ✅ | 282 KB |
-| 12 | ai-southeast-asia-trip-2026.webp | ✅ | 168 KB |
-| 13 | ai-trip-planning-japan.webp | ✅ | 158 KB |
-| 14 | ai-trip-planning-vietnam.webp | ✅ | 175 KB |
-| 15 | ai-trip-planning-cambodia.webp | ✅ | 208 KB |
-| 16 | japan-vietnam-cambodia-comparison.webp | ✅ | 152 KB |
+**✅ AI Travel Cluster komplett abgeschlossen:**
+- 16/16 Bilder erstellt und optimiert (~2.8 MB gesamt)
+- 16/16 Artikel geplant (März-Juni 2026, draft: false)
+- Alle Artikel werden automatisch am publishDate live gehen
 
-**Workflow mit ChatGPT für Bilder:**
-1. Artikel in TextEdit öffnen
-2. Inhalt bei ChatGPT einfügen + Bild-Prompt
-3. Bild herunterladen als PNG/JPG
-4. Konvertieren: `cwebp -q 75 bild.png -o name.webp`
+**✅ AirPods Pro 3 Posts vorbereitet:**
+- Reddit-Post für r/airpods (Text oben)
+- Pinterest-Pin (Text oben)
+- Veröffentlichung: 28. Jan um 07:30
 
 ### Vorherige Sitzung (26. Januar 2026)
 ✅ **Pagefind Search komplett überarbeitet:**
