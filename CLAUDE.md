@@ -466,7 +466,8 @@ Ausführliche Beschreibung des Artikels mit Key Insights.
 **Bereits gepostet:**
 - ✅ 3D Printing Beginner Mistakes → r/3Dprinting (Erfolg!)
 - ✅ Best Free AI Courses → r/learnmachinelearning (Erfolg!)
-- ✅ Best Cameras Under $500 → r/AskPhotography (22. Jan) — https://www.reddit.com/r/AskPhotography/comments/1qjsmer/what_are_the_best_cameras_under_500_for_beginners/
+- ✅ Best Cameras Under $500 → r/AskPhotography (22. Jan)
+- ✅ ChatGPT Tutorial for Beginners → r/learnmachinelearning (27. Jan)
 
 **Nächste Posts (Februar-Content):**
 - [ ] Claude vs ChatGPT → r/ChatGPT, r/ClaudeAI
