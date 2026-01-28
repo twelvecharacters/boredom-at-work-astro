@@ -6,9 +6,9 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 28. Januar 2026 - Abend)
 
-### 🚨 TODO für 28. Januar 2026
+### ✅ TODO für 28. Januar 2026 — ERLEDIGT
 **⏰ 15:00 — AirPods Pro 3 Reddit-Post:**
-- [ ] Reddit-Post posten → r/airpods (Text unten vorbereitet)
+- [x] Reddit-Post gepostet → r/airpods ✅
 
 ### ✅ Erledigt am 28. Januar 2026
 
