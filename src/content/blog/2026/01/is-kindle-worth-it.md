@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/kindle-worth-it.webp"
 tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Amazon", "Books"]
 draft: false
+tldr: "Ja, wenn du 10+ Bücher im Jahr liest. Wochen Akkulaufzeit, keine Ablenkungen, kein Augenermüden. Nein, wenn du vor allem PDFs liest oder selten zum Lesen kommst."
 faq:
   - question: "Is a Kindle worth it if I only read a few books a year?"
     answer: "Probably not. If you read fewer than 10 books per year, a Kindle may not be worth the investment. Physical books or your phone's Kindle app would serve you just as well."

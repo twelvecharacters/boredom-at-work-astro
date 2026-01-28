@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/airpods-pro-3-review.webp"
 tags: ["Tech & Gadgets", "AirPods", "Apple", "Earbuds", "Review"]
 draft: false
+tldr: "Besseres ANC, längere Akkulaufzeit (7h statt 6h), wasserfester — aber $279 ist kein Must-Upgrade von Pro 2. Lohnt sich vor allem bei Neuanschaffung oder wenn deine alten AirPods den Geist aufgeben."
 faq:
   - question: "Are AirPods Pro 3 worth upgrading from AirPods Pro 2?"
     answer: "If your AirPods Pro 2 still work well, probably not. The improvements are incremental. But if you're coming from the original AirPods Pro or regular AirPods, it's a significant upgrade in sound quality and ANC."
