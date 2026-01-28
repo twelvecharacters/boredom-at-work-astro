@@ -232,6 +232,35 @@ When shopping, prioritize:
 4. **Budget $50-120** — Sweet spot for quality/value
 5. **Don't cheap out too much** — Sub-$40 boards often have issues
 
+## Office Reality Check: Will My Coworkers Hate Me?
+
+Let's be real — you're probably using this keyboard at work. Here's what matters in an office:
+
+**The Noise Question**
+
+Your open-plan neighbors will absolutely notice a clicky keyboard. Blues and greens are out. Even Browns can be too loud in quiet offices.
+
+**Stealth recommendations:**
+- **Silent Reds** — Almost silent, very smooth
+- **Logitech G515** — Low-profile, barely audible
+- **Any board with O-rings** — Dampen the bottom-out sound
+
+**Will IT Care?**
+
+Most companies don't police keyboards. But if you're worried:
+- Stick to wired or bring your own USB receiver
+- Avoid RGB disco mode during meetings
+- Keep the box — you might need to swap back for video calls
+
+**The "Is That a Gaming Keyboard?" Conversation**
+
+Yes, you'll get comments. Options:
+1. Lean into it: "It's ergonomic, actually"
+2. Go stealth: Leopold and HHKB look professional
+3. Ignore: Good keyboards speak for themselves
+
+**Pro tip:** A mechanical keyboard actually looks *more* professional than the crusty Dell keyboard IT gave you in 2019.
+
 ## The Bottom Line
 
 A good mechanical keyboard makes typing more enjoyable. You'll feel the difference immediately.

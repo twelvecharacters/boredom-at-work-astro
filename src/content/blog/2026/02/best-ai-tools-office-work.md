@@ -474,6 +474,28 @@ Copilot deserves its own article (coming soon). Quick summary:
 
 ---
 
+## The Office Politics of AI
+
+Some real talk about AI tools in a work environment:
+
+**The "Are You Cheating?" Vibe**
+
+Some colleagues will think using AI is "cheating." It's not. Using a calculator isn't cheating at math. Using spell-check isn't cheating at writing. AI is a tool.
+
+That said, know your audience. Don't brag about AI-assisted work to the colleague who spent 4 hours on their report.
+
+**Sharing vs. Hoarding**
+
+Found a great AI workflow? Share it with your team. Being the person who helps others be more productive is a good reputation to have.
+
+**The Manager Question**
+
+Some managers love AI adoption. Others feel threatened by it. Read the room. If your boss is skeptical, show results first, explain methods later.
+
+**Future-Proofing Yourself**
+
+The uncomfortable truth: companies will expect AI fluency soon. Learning now, while it's optional, puts you ahead of the curve.
+
 ## The Bottom Line
 
 AI tools won't make you smarter, but they will make you faster. The goal isn't to use AI for everything — it's to use AI for the tedious parts so you can focus on the work that actually requires your brain.

@@ -399,6 +399,36 @@ It's quite good but not perfect. It can make mistakes, especially with recent ev
 
 If you're using a personal account on your own device, no. But be aware that company IT policies vary, and using work networks may have monitoring. When in doubt, ask IT or use your personal device.
 
+## Using ChatGPT at Work: The Unspoken Rules
+
+Let's talk about what nobody tells you about using AI at work.
+
+**Check Your Company Policy First**
+
+Some companies have explicit AI policies. Some ban it for security reasons. Some encourage it. Find out before you paste that confidential document into a public AI tool.
+
+When in doubt:
+- Use ChatGPT for general tasks, not sensitive data
+- Don't paste client names, financials, or proprietary code
+- Consider ChatGPT Enterprise if your company offers it (data stays private)
+
+**The Disclosure Question**
+
+Should you tell people you used AI? Depends on context:
+- Internal rough drafts: Usually fine not to mention
+- Client deliverables: Be transparent if asked
+- Taking full credit for AI-written work: Ethically murky
+
+A good rule: If you'd be embarrassed to admit you used AI, maybe edit it more.
+
+**Don't Become Dependent**
+
+AI makes easy things faster. It doesn't replace thinking. Use it as a first draft generator and editing partner, not a replacement for your brain.
+
+**The Productivity Illusion**
+
+Using AI to write faster doesn't help if you spend the saved time on Twitter. The goal is better work, not just faster work.
+
 ## Start Using It Today
 
 ChatGPT is a skill, and like any skill, you get better with practice. The best way to learn is to start using it for real tasks.
