@@ -45,8 +45,8 @@ Let's break down the real differences.
 
 | Feature | Kindle Paperwhite | Kobo Clara 2E |
 |---------|-------------------|---------------|
-| Price | $149 | $149 |
-| Screen Size | 6.8" | 6" |
+| Price | $159 | $140 |
+| Screen Size | 7" | 6" |
 | Resolution | 300 PPI | 300 PPI |
 | Storage | 16GB | 16GB |
 | Waterproof | Yes (IPX8) | Yes (IPX8) |
@@ -55,7 +55,7 @@ Let's break down the real differences.
 | Library Integration | Via Libby app | Native OverDrive |
 | Physical Buttons | No | No |
 | USB Type | USB-C | USB-C |
-| Weight | 205g | 171g |
+| Weight | 211g | 171g |
 
 At the entry level, these devices are remarkably similar. The differences that matter are mostly in software and ecosystem.
 
@@ -132,9 +132,9 @@ You can convert EPUBs for Kindle using Calibre software, but it's an extra step.
 
 | Model | Price | Screen | Key Features |
 |-------|-------|--------|--------------|
-| Kindle | $99 | 6" | Basic, budget-friendly |
-| Paperwhite | $149 | 6.8" | Best value, waterproof |
-| Paperwhite Signature | $189 | 6.8" | Wireless charging, 32GB |
+| Kindle | $109 | 6" | Basic, budget-friendly |
+| Paperwhite | $159 | 7" | Best value, waterproof |
+| Paperwhite Signature | $199 | 7" | Wireless charging, 32GB |
 | Oasis | $249 | 7" | Physical buttons, metal body |
 | Scribe | $339 | 10.2" | Stylus, note-taking |
 

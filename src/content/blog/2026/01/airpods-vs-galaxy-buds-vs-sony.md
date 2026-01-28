@@ -31,7 +31,7 @@ Let's break down which ones actually deserve your money.
 
 | Feature | AirPods Pro 2 | Galaxy Buds3 Pro | Sony WF-1000XM5 |
 |---------|---------------|------------------|-----------------|
-| Price | $249 | $229 | $299 |
+| Price | $249 | $249 | $299 |
 | ANC | Excellent | Very Good | Best in Class |
 | Sound Quality | Very Good | Excellent | Excellent |
 | Battery (buds) | 6 hours | 6 hours | 8 hours |
@@ -120,7 +120,7 @@ Not Sony-level, but capable. Handles commute noise well. Transparency mode is na
 
 **Value**
 
-At $229 ($20 less than AirPods), you get arguably better sound quality. Samsung also runs frequent sales.
+At $249 (same price as AirPods), you get arguably better sound quality. Samsung also runs frequent sales.
 
 ### Where Galaxy Buds Fall Short
 
@@ -262,7 +262,7 @@ The integration is unmatched. Sound and ANC are excellent, just not the absolute
 Without Apple's ecosystem advantages, pure audio quality and ANC win. The price premium is justified.
 
 ### Best Value: Galaxy Buds3 Pro
-$229 for excellent sound, good ANC, and great Samsung integration. Best bang for buck, especially during sales.
+$249 for excellent sound, good ANC, and great Samsung integration. Good value, especially during sales.
 
 ### Best for Travelers: Sony WF-1000XM5
 Nothing blocks airplane noise better. 8-hour battery means most flights covered without the case.

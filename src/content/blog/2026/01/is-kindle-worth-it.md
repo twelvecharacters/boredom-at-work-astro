@@ -26,9 +26,9 @@ Let's break it down honestly.
 A Kindle is Amazon's e-reader — a device designed specifically for reading digital books. Unlike tablets or phones, it uses E Ink technology that mimics the look of real paper. No glare, no eye strain, and battery life measured in weeks, not hours.
 
 The current Kindle lineup (2026):
-- **Kindle (basic)** — $99, 6" screen, 16GB
-- **Kindle Paperwhite** — $149, 6.8" screen, waterproof, 16GB
-- **Kindle Paperwhite Signature Edition** — $189, wireless charging, auto-brightness, 32GB
+- **Kindle (basic)** — $109, 6" screen, 16GB
+- **Kindle Paperwhite** — $159, 7" screen, waterproof, 16GB
+- **Kindle Paperwhite Signature Edition** — $199, wireless charging, auto-brightness, 32GB
 - **Kindle Scribe** — $339, 10.2" screen, stylus for notes
 - **Kindle Oasis** — $249, premium build, physical buttons
 
@@ -136,11 +136,11 @@ Yes, the battery lasts weeks. But it's still another device to keep track of, pa
 
 ## Which Kindle Should You Buy?
 
-**For most people: Kindle Paperwhite ($149)**
+**For most people: Kindle Paperwhite ($159)**
 
-The Paperwhite hits the sweet spot: larger screen than the basic Kindle, waterproof (read in the bath!), and adjustable warm light. It's the best value in the lineup.
+The Paperwhite hits the sweet spot: larger 7" screen than the basic Kindle, waterproof (read in the bath!), and adjustable warm light. It's the best value in the lineup.
 
-**Budget option: Basic Kindle ($99)**
+**Budget option: Basic Kindle ($109)**
 
 Fine for casual readers. Smaller screen, no waterproofing, and the light isn't as good, but it does the core job well.
 
@@ -156,10 +156,10 @@ The Oasis was premium in its day, but it hasn't been updated in years. The Paper
 
 Not sure which e-reader brand to choose? Check out our detailed [Kindle vs Kobo comparison](/kindle-vs-kobo/) for a deep dive into the differences.
 
-| Feature | Kindle Paperwhite | Kobo Clara | Phone (Kindle App) |
-|---------|-------------------|------------|-------------------|
-| Price | $149 | $149 | Free (you have one) |
-| Screen | 6.8" E Ink | 6" E Ink | Varies (LCD) |
+| Feature | Kindle Paperwhite | Kobo Clara 2E | Phone (Kindle App) |
+|---------|-------------------|---------------|-------------------|
+| Price | $159 | $140 | Free (you have one) |
+| Screen | 7" E Ink | 6" E Ink | Varies (LCD) |
 | Eye strain | Low | Low | Higher |
 | Battery | Weeks | Weeks | Hours |
 | Library support | Via Libby | Native Overdrive | Via Libby |
