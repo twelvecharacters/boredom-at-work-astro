@@ -1,0 +1,57 @@
+---
+interface Props {
+  tldr?: string;
+  description: string;
+}
+
+const { tldr, description } = Astro.props;
+const content = tldr || description;
+---
+
+<aside class="tldr-box">
+  <div class="tldr-header">
+    <svg xmlns="http://www.w3.org/2000/svg" class="tldr-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="10"></circle>
+      <polyline points="12 6 12 12 16 14"></polyline>
+    </svg>
+    <span class="tldr-title">TL;DR</span>
+  </div>
+  <p class="tldr-content">{content}</p>
+</aside>
+
+<style>
+  .tldr-box {
+    background: linear-gradient(135deg, var(--color-accent) 0%, var(--color-primary) 100%);
+    border-radius: 0.75rem;
+    padding: 1.25rem 1.5rem;
+    margin: 1.5rem 0;
+    color: white;
+  }
+
+  .tldr-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .tldr-icon {
+    width: 1.25rem;
+    height: 1.25rem;
+    opacity: 0.9;
+  }
+
+  .tldr-title {
+    font-weight: 700;
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .tldr-content {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0;
+    opacity: 0.95;
+  }
+</style>

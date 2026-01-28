@@ -34,11 +34,10 @@
 - [x] `japan-vietnam-cambodia-comparison.webp` ✅ (152 KB)
 
 ### 🚨 TODO für 28. Januar 2026
-**⏰ 07:30 — AirPods Pro 3 Posts veröffentlichen:**
-- [ ] Reddit-Post erstellen → r/airpods (Text unten vorbereitet)
-- [ ] Pinterest-Pin erstellen → Board: Learn AI & Tech Skills (Text unten vorbereitet)
+**⏰ 15:00 — AirPods Pro 3 Reddit-Post:**
+- [ ] Reddit-Post posten → r/airpods (Text unten vorbereitet)
 
-**⏰ 10:30 — Todo Liste anzeigen lassen**
+~~Pinterest-Pin~~ → Verschoben
 
 ---
 
