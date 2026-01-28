@@ -216,6 +216,22 @@ faq:
    - Keine Drafts (`draft: false`)
    - Nur Artikel mit `publishDate` in der Vergangenheit oder heute
 
+4. **IMMER American English verwenden** (Zielgruppe: Nordamerika)
+
+   | British ❌ | American ✅ |
+   |-----------|-------------|
+   | colour, favour, behaviour | color, favor, behavior |
+   | centre, theatre, metre | center, theater, meter |
+   | organise, realise, recognise | organize, realize, recognize |
+   | whilst, amongst | while, among |
+   | grey | gray |
+   | co-worker, co-operate | coworker, cooperate |
+   | learnt, spelt, burnt | learned, spelled, burned |
+   | judgement | judgment |
+   | catalogue, dialogue | catalog, dialog |
+
+   **Ausnahmen:** `e-reader` und `e-book` mit Bindestrich sind auch im American English akzeptiert.
+
 ---
 
 ## Design-System
