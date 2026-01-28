@@ -4,19 +4,32 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 28. Januar 2026 - Mittag)
+## ⚠️ ERINNERUNGEN (Stand: 28. Januar 2026 - Nachmittag)
 
 ### 🚨 TODO für 28. Januar 2026
 **⏰ 15:00 — AirPods Pro 3 Reddit-Post:**
 - [ ] Reddit-Post posten → r/airpods (Text unten vorbereitet)
 
-### ✅ Erledigt am 28. Januar 2026
+### ✅ Erledigt am 28. Januar 2026 — antigravity-Analyse KOMPLETT
 
-**SEO & Schema Verbesserungen (antigravity-Analyse):**
-- [x] TL;DR Box Komponente erstellt
+**SEO & Schema Verbesserungen:**
+- [x] TL;DR Box Komponente (Gradient-Design)
 - [x] 6 Artikel mit englischen TL;DR Summaries
 - [x] Product/Review Schema (JSON-LD) für Google-Sterne
 - [x] ItemList Schema für Listicle-Artikel
+- [x] Author Bio Komponente mit Reddit-Link
+
+**3 neue Hub-Pages erstellt:**
+- [x] `/desk-upgrade-guide/` — Tech & Gadgets (8 verlinkte Artikel)
+- [x] `/ai-learning-hub/` — AI Learning (12 verlinkte Artikel)
+- [x] `/photography-buying-guide/` — Photography (7 verlinkte Artikel)
+
+**Work-Context-Abschnitte in 5 Artikeln:**
+- [x] Mechanical Keyboards → "Office Reality Check"
+- [x] AirPods Pro 3 → "Office Survival Guide"
+- [x] Is Kindle Worth It → "Work Break Revolution"
+- [x] ChatGPT Tutorial → "Using ChatGPT at Work"
+- [x] AI Tools for Office → "Office Politics of AI"
 
 **Review Schema aktiv für:**
 - AirPods Pro 3 Review (4/5)
@@ -34,6 +47,7 @@
 - Best Japanese Products
 - Best AI Chrome Extensions
 - Best AI Tools for Office
+- Photography Buying Guide (Hub)
 
 ---
 
@@ -102,16 +116,31 @@ Read the full review with comparison table.
 
 ### Letzte Sitzung (28. Januar 2026)
 
-**✅ SEO-Optimierungen nach antigravity-Analyse:**
+**✅ antigravity-Analyse KOMPLETT umgesetzt:**
+
+*Schema & SEO:*
 - TL;DR Box Komponente (Gradient-Design, Uhr-Icon)
-- 6 englische TL;DR Summaries für wichtigste Artikel
-- Product/Review Schema (5 Artikel mit Sterne-Bewertungen)
-- ItemList Schema für 8 Listicle-Artikel
+- 6 englische TL;DR Summaries
+- Product/Review Schema (5 Artikel mit Google-Sternen)
+- ItemList Schema (9 Listicle-Artikel)
+
+*Autorschaft:*
+- Author Bio Komponente am Ende jedes Artikels
+- Reddit-Link zu r/boredom_at_work
+
+*Hub-Pages (Cluster-Verlinkung):*
+- `/desk-upgrade-guide/` — Tech & Gadgets Hub
+- `/ai-learning-hub/` — AI Learning Hub
+- `/photography-buying-guide/` — Photography Hub
+
+*Work-Context (USP-Stärkung):*
+- 5 Artikel mit Office-relevanten Abschnitten erweitert
+- "Boredom at Work"-Winkel in Keyboards, AirPods, Kindle, ChatGPT, AI Tools
 
 **Neue Frontmatter-Felder:**
 - `tldr: "..."` — Optionale Kurzzusammenfassung
 - `review: { rating, productName, productBrand, priceRange }` — Für Google-Sterne
-- `isListicle: true` — Aktiviert ItemList Schema (H2s werden automatisch extrahiert)
+- `isListicle: true` — Aktiviert ItemList Schema (H2s automatisch extrahiert)
 
 ### Vorherige Sitzung (27. Januar 2026)
 
