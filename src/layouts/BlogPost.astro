@@ -7,6 +7,7 @@ import FaqSchema from '../components/FaqSchema.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 import SocialShare from '../components/SocialShare.astro';
 import TldrBox from '../components/TldrBox.astro';
+import ReviewSchema from '../components/ReviewSchema.astro';
 import { SITE } from '../config';
 import { getPostSlug } from '../utils/blog';
 import type { CollectionEntry } from 'astro:content';
@@ -16,7 +17,7 @@ interface Props {
 }
 
 const { post } = Astro.props;
-const { title, description, publishDate, updatedDate, author, image, tags, faq, tldr } = post.data;
+const { title, description, publishDate, updatedDate, author, image, tags, faq, tldr, review } = post.data;
 
 // Calculate reading time (average 200 words per minute)
 const content = post.body || '';
@@ -144,6 +145,16 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
   })} />
 
   {faq && faq.length > 0 && <FaqSchema faqs={faq} />}
+
+  {review && (
+    <ReviewSchema
+      review={review}
+      articleTitle={title}
+      articleUrl={`/${getPostSlug(post)}/`}
+      publishDate={publishDate}
+      author={author}
+    />
+  )}
 
   <!-- Wrap tables in scrollable container for mobile -->
   <script>

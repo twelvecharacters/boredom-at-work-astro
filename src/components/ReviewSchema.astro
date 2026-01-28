@@ -1,0 +1,55 @@
+---
+import { SITE } from '../config';
+
+interface Props {
+  review: {
+    rating: number;
+    productName: string;
+    productBrand?: string;
+    priceRange?: string;
+  };
+  articleTitle: string;
+  articleUrl: string;
+  publishDate: Date;
+  author: string;
+}
+
+const { review, articleTitle, articleUrl, publishDate, author } = Astro.props;
+
+const schemaData = {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": review.productName,
+  ...(review.productBrand && { "brand": { "@type": "Brand", "name": review.productBrand } }),
+  ...(review.priceRange && { "offers": { "@type": "AggregateOffer", "priceRange": review.priceRange } }),
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": review.rating,
+      "bestRating": 5,
+      "worstRating": 1
+    },
+    "author": {
+      "@type": "Person",
+      "name": author
+    },
+    "datePublished": publishDate.toISOString().split('T')[0],
+    "reviewBody": articleTitle,
+    "publisher": {
+      "@type": "Organization",
+      "name": SITE.title
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": review.rating,
+    "bestRating": 5,
+    "worstRating": 1,
+    "ratingCount": 1,
+    "reviewCount": 1
+  }
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schemaData)} />
