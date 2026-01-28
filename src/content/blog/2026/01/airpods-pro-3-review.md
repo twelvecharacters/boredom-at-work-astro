@@ -7,7 +7,7 @@ author: "bored chap"
 image: "/images/airpods-pro-3-review.webp"
 tags: ["Tech & Gadgets", "AirPods", "Apple", "Earbuds", "Review"]
 draft: false
-tldr: "Better ANC, longer battery (7h vs 6h), more water resistant — but $279 isn't a must-upgrade from Pro 2. Worth it if you're buying new or your old AirPods are dying."
+tldr: "Better ANC, longer battery (8h vs 6h), more water resistant — but $279 isn't a must-upgrade from Pro 2. Worth it if you're buying new or your old AirPods are dying."
 review:
   rating: 4
   productName: "AirPods Pro 3"
@@ -17,7 +17,7 @@ faq:
   - question: "Are AirPods Pro 3 worth upgrading from AirPods Pro 2?"
     answer: "If your AirPods Pro 2 still work well, probably not. The improvements are incremental. But if you're coming from the original AirPods Pro or regular AirPods, it's a significant upgrade in sound quality and ANC."
   - question: "What's new in AirPods Pro 3?"
-    answer: "Key improvements include an upgraded H2 chip with better ANC, improved sound quality with adaptive EQ, longer battery life (7 hours vs 6), better hearing health features, and a more durable design with IP55 rating."
+    answer: "Key improvements include an upgraded H2 chip with better ANC, improved sound quality with adaptive EQ, longer battery life (8 hours vs 6), better hearing health features, and a more durable design with IP57 rating."
   - question: "Do AirPods Pro 3 work with Android?"
     answer: "Yes, but you lose most smart features. No automatic ear detection, no seamless switching, no Spatial Audio. For Android users, Galaxy Buds or Sony earbuds offer better value."
 ---
@@ -35,10 +35,10 @@ But under the hood:
 | Feature | AirPods Pro 2 | AirPods Pro 3 |
 |---------|---------------|---------------|
 | Chip | H2 | H2 (upgraded) |
-| Battery (buds) | 6 hours | 7 hours |
-| Battery (case) | 30 hours | 36 hours |
+| Battery (buds) | 6 hours | 8 hours |
+| Battery (case) | 30 hours | 24 hours |
 | ANC | Excellent | Even better |
-| Water resistance | IPX4 | IP55 |
+| Water resistance | IPX4 | IP57 |
 | Price | $249 | $279 |
 
 The $30 price bump stings a bit, but the improvements are real.
@@ -69,15 +69,15 @@ After a week, I stopped manually switching modes. The automatic adjustment just 
 
 Same design, same fit. If AirPods Pro 2 fit your ears, these will too.
 
-Apple now includes four ear tip sizes (XS, S, M, L) instead of three. The new XS size is great for people who found even the small tips too big.
+Apple now includes five ear tip sizes (XXS, XS, S, M, L) instead of four. The new XXS size is great for people who found even the small tips too big.
 
-The new **IP55 rating** means better dust and water resistance. Not waterproof, but I'm less nervous about getting caught in the rain.
+The new **IP57 rating** means better dust and water resistance. Not waterproof, but I'm less nervous about getting caught in the rain.
 
 ## Battery Life: Finally Better
 
-The extra hour of listening time (7 vs 6 hours) doesn't sound like much on paper. In practice, it means my AirPods survive my entire workday without needing a mid-day charge.
+The extra two hours of listening time (8 vs 6 hours) makes a real difference. My AirPods now easily survive my entire workday without needing a mid-day charge.
 
-The case now holds 36 hours of charge, up from 30. Nice improvement, though I rarely drained the old case anyway.
+The case holds 24 hours of total charge with ANC enabled. Combined with the longer bud life, you'll still get through multiple days easily.
 
 USB-C charging is faster too. 5 minutes in the case gives you about an hour of listening.
 

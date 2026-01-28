@@ -19,12 +19,12 @@
 Title: AirPods Pro 3 Review: Worth the Upgrade? (2026)
 
 Description:
-Honest review of Apple's AirPods Pro 3 after one week of daily use. Better ANC, longer battery (7 hours), IP55 water resistance - but is it worth $279?
+Honest review of Apple's AirPods Pro 3 after one week of daily use. Better ANC, longer battery (8 hours), IP57 water resistance - but is it worth $279?
 
 Key upgrades over AirPods Pro 2:
 ✓ Upgraded H2 chip with improved noise cancellation
 ✓ Adaptive Audio mode (game changer!)
-✓ 7 hours battery vs 6 hours
+✓ 8 hours battery vs 6 hours
 ✓ Better hearing health features
 
 #AirPodsPro3 #AirPods #Apple #TechReview #Earbuds #WirelessEarbuds #TechGadgets
