@@ -2,7 +2,7 @@
 title: "Turn Your Prints Into Paychecks: How to Sell 3D Printed Goods Online (2026 Guide)"
 slug: "selling-3d-prints-online"
 description: "Ready to turn your 3D printing hobby into a side hustle? Learn about the best platforms for selling 3D prints, pricing strategies, and how to avoid legal pitfalls."
-publishDate: 2026-02-02
+publishDate: 2026-02-03
 author: "bored chap"
 image: "/images/selling-3d-prints-online.webp"
 tags: ["3D Printing", "Side Hustle", "Business", "Etsy", "Selling"]

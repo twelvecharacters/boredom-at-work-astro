@@ -2,7 +2,7 @@
 title: "macOS Tahoe: Everything New in Apple's 'Liquid Glass' Redesign"
 slug: "macos-tahoe-tricks-and-hacks"
 description: "Apple's macOS 26 Tahoe introduces a radical visual overhaul and deeper AI integration. Here's a look at the best new features and performance hacks."
-publishDate: 2026-02-08
+publishDate: 2026-02-09
 author: "bored chap"
 image: "/images/macos-tahoe.webp"
 tags: ["Tech & Gadgets", "macOS", "Apple", "Tahoe", "Productivity"]

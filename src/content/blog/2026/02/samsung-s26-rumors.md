@@ -2,7 +2,7 @@
 title: "Samsung Galaxy S26 Rumors: Everything We Know So Far"
 slug: "samsung-s26-rumors"
 description: "The Samsung Galaxy S26 series is coming in 2026. From the Snapdragon 8 Elite Gen 5 to camera upgrades, here's the latest on specs, price, and release date."
-publishDate: 2026-02-05
+publishDate: 2026-02-06
 author: "bored chap"
 image: "/images/samsung-s26-rumors.webp"
 tags: ["Tech & Gadgets", "Samsung", "Galaxy S26", "Android", "Rumors"]
