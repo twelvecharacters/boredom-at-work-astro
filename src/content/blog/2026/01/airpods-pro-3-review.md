@@ -17,7 +17,7 @@ faq:
   - question: "Are AirPods Pro 3 worth upgrading from AirPods Pro 2?"
     answer: "If your AirPods Pro 2 still work well, probably not. The improvements are incremental. But if you're coming from the original AirPods Pro or regular AirPods, it's a significant upgrade in sound quality and ANC."
   - question: "What's new in AirPods Pro 3?"
-    answer: "Key improvements include the H3 chip with better ANC, improved sound quality with adaptive EQ, longer battery life (7 hours vs 6), better hearing health features, and a more durable design with IP55 rating."
+    answer: "Key improvements include an upgraded H2 chip with better ANC, improved sound quality with adaptive EQ, longer battery life (7 hours vs 6), better hearing health features, and a more durable design with IP55 rating."
   - question: "Do AirPods Pro 3 work with Android?"
     answer: "Yes, but you lose most smart features. No automatic ear detection, no seamless switching, no Spatial Audio. For Android users, Galaxy Buds or Sony earbuds offer better value."
 ---
@@ -34,7 +34,7 @@ But under the hood:
 
 | Feature | AirPods Pro 2 | AirPods Pro 3 |
 |---------|---------------|---------------|
-| Chip | H2 | H3 |
+| Chip | H2 | H2 (upgraded) |
 | Battery (buds) | 6 hours | 7 hours |
 | Battery (case) | 30 hours | 36 hours |
 | ANC | Excellent | Even better |
@@ -45,7 +45,7 @@ The $30 price bump stings a bit, but the improvements are real.
 
 ## Sound Quality: Noticeably Improved
 
-The H3 chip brings better computational audio. What does that actually mean in practice?
+The upgraded H2 chip brings better computational audio. What does that actually mean in practice?
 
 **Bass is fuller without being muddy.** My test playlist (everything from Kendrick to Khruangbin) sounds more dynamic. The low end has more presence without drowning out mids.
 
@@ -55,7 +55,7 @@ The H3 chip brings better computational audio. What does that actually mean in p
 
 ## Noise Cancellation: The Real Upgrade
 
-This is where the H3 chip shines.
+This is where the upgraded H2 chip shines.
 
 The ANC on AirPods Pro 2 was already excellent. The third generation somehow blocks more noise while sounding more natural. Office chatter? Gone. Train rumble? Significantly reduced.
 
