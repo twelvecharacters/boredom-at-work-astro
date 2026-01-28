@@ -6,153 +6,36 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 28. Januar 2026 - Abend)
 
-### ✅ TODO für 28. Januar 2026 — ERLEDIGT
-**⏰ 15:00 — AirPods Pro 3 Reddit-Post:**
-- [x] Reddit-Post gepostet → r/airpods ✅
-
-### ✅ Erledigt am 28. Januar 2026
-
-**American English Konsistenz:**
-- [x] Alle Artikel auf British English geprüft — bereits sauber
-- [x] `Co-Worker` → `Coworker` korrigiert (best-ai-tools-office-work.md)
-- [x] American English Style Guide in CLAUDE.md hinzugefügt
-
-**Februar-Artikel neu terminiert:**
-- [x] Selling 3D Prints Online: 2. Feb → **3. Feb**
-- [x] Samsung S26 Rumors: 5. Feb → **6. Feb**
-- [x] macOS Tahoe Tricks: 8. Feb → **9. Feb**
-
-**antigravity-Analyse KOMPLETT:**
-
-**SEO & Schema Verbesserungen:**
-- [x] TL;DR Box Komponente (Gradient-Design)
-- [x] 6 Artikel mit englischen TL;DR Summaries
-- [x] Product/Review Schema (JSON-LD) für Google-Sterne
-- [x] ItemList Schema für Listicle-Artikel
-- [x] Author Bio Komponente mit Reddit-Link
-
-**3 neue Hub-Pages erstellt:**
-- [x] `/desk-upgrade-guide/` — Tech & Gadgets (8 verlinkte Artikel)
-- [x] `/ai-learning-hub/` — AI Learning (12 verlinkte Artikel)
-- [x] `/photography-buying-guide/` — Photography (7 verlinkte Artikel)
-
-**Work-Context-Abschnitte in 5 Artikeln:**
-- [x] Mechanical Keyboards → "Office Reality Check"
-- [x] AirPods Pro 3 → "Office Survival Guide"
-- [x] Is Kindle Worth It → "Work Break Revolution"
-- [x] ChatGPT Tutorial → "Using ChatGPT at Work"
-- [x] AI Tools for Office → "Office Politics of AI"
-
-**Review Schema aktiv für:**
-- AirPods Pro 3 Review (4/5)
-- Kindle vs Kobo → Kindle Paperwhite (4/5)
-- AirPods vs Galaxy Buds vs Sony → Sony WF-1000XM5 (4.5/5)
-- Canon R100 vs Nikon Z50 → Canon EOS R100 (4/5)
-- Bambu A1 Mini vs Ender 3 → Bambu Lab A1 Mini (4.5/5)
-
-**ItemList Schema aktiv für:**
-- Best Cameras Under $500
-- Best Free AI Courses
-- Best Tech Gifts Under $50
-- Best Mechanical Keyboards
-- Best 3D Printers Under $300
-- Best Japanese Products
-- Best AI Chrome Extensions
-- Best AI Tools for Office
-- Photography Buying Guide (Hub)
-
----
-
-#### 📋 VORBEREITETER REDDIT POST → r/airpods
-
-**Title:** `One week with AirPods Pro 3 - my honest take on whether they're worth it`
-
-**Body:**
-```
-Got my hands on AirPods Pro 3 about a week ago. After using them daily for commutes, work calls, and music, wanted to share some thoughts.
-
-**The Good:**
-- ANC is noticeably better than Pro 2. Office chatter and train noise basically gone
-- Adaptive Audio is the sleeper feature - automatically blends ANC and Transparency based on environment
-- Battery finally lasts my full workday (7 hours vs 6)
-- IP55 rating makes me less paranoid about rain
-
-**The Meh:**
-- $279 price tag is hard to swallow
-- Still no lossless audio over Bluetooth
-- Case scratches within days
-
-**Quick comparison:**
-
-| Feature | Pro 2 | Pro 3 |
-|---------|-------|-------|
-| Battery | 6 hrs | 7 hrs |
-| ANC | Excellent | Better |
-| Water | IPX4 | IP55 |
-| Price | $249 | $279 |
-
-Full thoughts with more details: https://boredom-at-work.com/airpods-pro-3-review/
-
-For those who upgraded from Pro 2 - do you feel the same way? Curious if the ANC difference is as noticeable for others.
-```
-
----
-
-#### 📋 VORBEREITETER PINTEREST PIN → Board: Learn AI & Tech Skills
-
-**Title:** AirPods Pro 3 Review: Worth the Upgrade? (2026)
-
-**Description:**
-```
-Honest review of Apple's AirPods Pro 3 after one week of daily use. Better ANC, longer battery (7 hours), IP55 water resistance - but is it worth $279?
-
-Key upgrades over AirPods Pro 2:
-✓ H3 chip with improved noise cancellation
-✓ Adaptive Audio mode (game changer!)
-✓ 7 hours battery vs 6 hours
-✓ Better hearing health features
-
-Read the full review with comparison table.
-
-#AirPodsPro3 #AirPods #Apple #TechReview #Earbuds #AppleEcosystem #WirelessEarbuds #TechGadgets
-```
-**Link:** https://boredom-at-work.com/airpods-pro-3-review/
-
----
-
 ### 🚨 TODO für 31. Januar 2026 (Freitag)
 **Reddit Posts (nicht spammen - verteilt posten):**
 - [ ] DSLR vs Mirrorless → r/AskPhotography
 - [ ] ChatGPT Tutorial → r/ChatGPT
 - [ ] Weitere Posts für Februar-Artikel vorbereiten
 
+---
+
 ### Letzte Sitzung (28. Januar 2026)
 
-**✅ antigravity-Analyse KOMPLETT umgesetzt:**
+**✅ Reddit-Post veröffentlicht:**
+- AirPods Pro 3 Review → r/airpods ✅
 
-*Schema & SEO:*
-- TL;DR Box Komponente (Gradient-Design, Uhr-Icon)
-- 6 englische TL;DR Summaries
+**✅ American English Konsistenz:**
+- Alle Artikel geprüft — bereits sauber
+- `Co-Worker` → `Coworker` korrigiert
+- American English Style Guide in Workflow-Regeln hinzugefügt
+
+**✅ Februar-Artikel neu terminiert:**
+- Selling 3D Prints Online: 3. Feb
+- Samsung S26 Rumors: 6. Feb
+- macOS Tahoe Tricks: 9. Feb
+
+**✅ antigravity-Analyse KOMPLETT (27.-28. Jan):**
+- TL;DR Box Komponente + 6 Summaries
 - Product/Review Schema (5 Artikel mit Google-Sternen)
 - ItemList Schema (9 Listicle-Artikel)
-
-*Autorschaft:*
-- Author Bio Komponente am Ende jedes Artikels
-- Reddit-Link zu r/boredom_at_work
-
-*Hub-Pages (Cluster-Verlinkung):*
-- `/desk-upgrade-guide/` — Tech & Gadgets Hub
-- `/ai-learning-hub/` — AI Learning Hub
-- `/photography-buying-guide/` — Photography Hub
-
-*Work-Context (USP-Stärkung):*
-- 5 Artikel mit Office-relevanten Abschnitten erweitert
-- "Boredom at Work"-Winkel in Keyboards, AirPods, Kindle, ChatGPT, AI Tools
-
-**Neue Frontmatter-Felder:**
-- `tldr: "..."` — Optionale Kurzzusammenfassung
-- `review: { rating, productName, productBrand, priceRange }` — Für Google-Sterne
-- `isListicle: true` — Aktiviert ItemList Schema (H2s automatisch extrahiert)
+- Author Bio mit Reddit-Link
+- 3 Hub-Pages (Desk, AI Learning, Photography)
+- 5 Artikel mit Work-Context Abschnitten
 
 ### Vorherige Sitzung (27. Januar 2026)
 
