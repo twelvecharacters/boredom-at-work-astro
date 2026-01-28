@@ -9,6 +9,7 @@ import SocialShare from '../components/SocialShare.astro';
 import TldrBox from '../components/TldrBox.astro';
 import ReviewSchema from '../components/ReviewSchema.astro';
 import ListicleSchema from '../components/ListicleSchema.astro';
+import AuthorBio from '../components/AuthorBio.astro';
 import { SITE } from '../config';
 import { getPostSlug } from '../utils/blog';
 import type { CollectionEntry } from 'astro:content';
@@ -108,6 +109,9 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
 
     <!-- Social Share Buttons -->
     <SocialShare title={title} description={description} />
+
+    <!-- Author Bio -->
+    <AuthorBio />
 
     <!-- Related Posts -->
     <RelatedPosts currentSlug={getPostSlug(post)} currentTags={tags} />

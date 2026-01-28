@@ -5,6 +5,14 @@ export const SITE = {
   author: 'a bored human',
 };
 
+export const AUTHOR = {
+  name: 'bored chap',
+  bio: "I write about the things I discover while pretending to work. AI tools, gadgets, photography, and ways to make office hours actually useful. No fluff, no sponsored nonsense — just honest takes from someone who's been there.",
+  social: {
+    reddit: 'https://www.reddit.com/r/boredom_at_work/',
+  },
+};
+
 export const NAV_ITEMS = [
   { label: 'Home', href: '/' },
   { label: 'Learning Paths', href: '/learning-paths/' },
