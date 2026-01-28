@@ -4,14 +4,11 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 29. Januar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 30. Januar 2026)
 
-### 🚨 TODO für 29. Januar 2026 (Mittwoch)
+### 🚨 TODO für 30. Januar 2026 (Donnerstag)
 
-**1. Post-Publish Check:**
-- [ ] AirPods vs Galaxy Buds vs Sony Artikel prüfen (geht heute live)
-
-**2. Pinterest-Pin posten:**
+**Pinterest-Pin posten:**
 - [ ] AirPods Pro 3 Review → Board: Learn AI & Tech Skills
 
 **Pinterest-Pin Text:**
@@ -32,10 +29,6 @@ Key upgrades over AirPods Pro 2:
 Link: https://boredom-at-work.com/airpods-pro-3-review/
 ```
 
-**3. Reddit-Posts vorbereiten (für 31. Jan):**
-- [ ] DSLR vs Mirrorless Text schreiben
-- [ ] ChatGPT Tutorial Text schreiben
-
 ---
 
 ### 🚨 TODO für 31. Januar 2026 (Freitag)
@@ -45,7 +38,21 @@ Link: https://boredom-at-work.com/airpods-pro-3-review/
 
 ---
 
-### Letzte Sitzung (28. Januar 2026)
+### Letzte Sitzung (29. Januar 2026)
+
+**✅ Specs-Korrekturen nach Reddit-Feedback:**
+- AirPods Pro 3 Review: H3 → H2 chip, 7h → 8h, IP55 → IP57, 4 → 5 Ear Tips
+- AirPods vs Galaxy Buds vs Sony: Galaxy Buds3 Pro $229 → $249
+- Kindle vs Kobo: Paperwhite $149 → $159, 6.8" → 7", 205g → 211g
+- Is Kindle Worth It: Basic $99 → $109, Paperwhite $149 → $159, Signature $189 → $199
+- Kobo Clara 2E: $149 → $140
+
+**✅ Neuer Standard-Workflow hinzugefügt:**
+- "Produkt-Specs verifizieren" Section in CLAUDE.md
+- Offizielle Hersteller-Quellen als Pflicht vor dem Pushen
+- Liste häufiger Fehlerquellen pro Produktkategorie
+
+### Vorherige Sitzung (28. Januar 2026)
 
 **✅ Reddit-Post veröffentlicht:**
 - AirPods Pro 3 Review → r/airpods ✅
@@ -59,14 +66,6 @@ Link: https://boredom-at-work.com/airpods-pro-3-review/
 - Selling 3D Prints Online: 3. Feb
 - Samsung S26 Rumors: 6. Feb
 - macOS Tahoe Tricks: 9. Feb
-
-**✅ antigravity-Analyse KOMPLETT (27.-28. Jan):**
-- TL;DR Box Komponente + 6 Summaries
-- Product/Review Schema (5 Artikel mit Google-Sternen)
-- ItemList Schema (9 Listicle-Artikel)
-- Author Bio mit Reddit-Link
-- 3 Hub-Pages (Desk, AI Learning, Photography)
-- 5 Artikel mit Work-Context Abschnitten
 
 ### Vorherige Sitzung (27. Januar 2026)
 
