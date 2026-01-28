@@ -158,6 +158,37 @@ faq:
 
    **Ausnahmen:** `e-reader` und `e-book` mit Bindestrich sind auch im American English akzeptiert.
 
+### Produkt-Specs verifizieren (WICHTIG!)
+
+**Bei allen Artikeln mit technischen Produktdaten (Reviews, Vergleiche, Buying Guides):**
+
+1. **IMMER offizielle Hersteller-Specs prüfen** bevor der Artikel gepusht wird:
+   - Apple: support.apple.com/specs oder apple.com/[product]/specs
+   - Samsung: samsung.com/[product]
+   - Sony: sony.com/electronics
+   - Amazon (Kindle): amazon.com Produktseite
+   - Kobo: kobobooks.com
+   - Kamera-Hersteller: Canon, Nikon, Sony, Fujifilm offizielle Seiten
+
+2. **Kritische Specs die oft falsch sind:**
+   | Kategorie | Häufige Fehler |
+   |-----------|----------------|
+   | Earbuds | Akkulaufzeit, Chip-Generation, IP-Rating |
+   | E-Reader | Bildschirmgröße, Preis, Gewicht |
+   | Kameras | Preis mit Kit-Lens, Autofokus-Punkte, Video-Specs |
+   | Smartphones | Chip, RAM, Kamera-MP |
+
+3. **Workflow:**
+   ```
+   1. Artikel schreiben
+   2. Alle Produkt-Specs in Tabellen identifizieren
+   3. Gegen offizielle Quellen prüfen (WebSearch/WebFetch)
+   4. Korrekturen vornehmen
+   5. Erst dann pushen
+   ```
+
+4. **Bei Preisen:** Preise ändern sich häufig — Formulierungen wie "~$XXX" oder "starting at $XXX" verwenden
+
 ---
 
 ## Design-System
