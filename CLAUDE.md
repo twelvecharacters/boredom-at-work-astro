@@ -4,13 +4,44 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 28. Januar 2026 - Abend)
+## ⚠️ ERINNERUNGEN (Stand: 29. Januar 2026)
+
+### 🚨 TODO für 29. Januar 2026 (Mittwoch)
+
+**1. Post-Publish Check:**
+- [ ] AirPods vs Galaxy Buds vs Sony Artikel prüfen (geht heute live)
+
+**2. Pinterest-Pin posten:**
+- [ ] AirPods Pro 3 Review → Board: Learn AI & Tech Skills
+
+**Pinterest-Pin Text:**
+```
+Title: AirPods Pro 3 Review: Worth the Upgrade? (2026)
+
+Description:
+Honest review of Apple's AirPods Pro 3 after one week of daily use. Better ANC, longer battery (7 hours), IP55 water resistance - but is it worth $279?
+
+Key upgrades over AirPods Pro 2:
+✓ H3 chip with improved noise cancellation
+✓ Adaptive Audio mode (game changer!)
+✓ 7 hours battery vs 6 hours
+✓ Better hearing health features
+
+#AirPodsPro3 #AirPods #Apple #TechReview #Earbuds #WirelessEarbuds #TechGadgets
+
+Link: https://boredom-at-work.com/airpods-pro-3-review/
+```
+
+**3. Reddit-Posts vorbereiten (für 31. Jan):**
+- [ ] DSLR vs Mirrorless Text schreiben
+- [ ] ChatGPT Tutorial Text schreiben
+
+---
 
 ### 🚨 TODO für 31. Januar 2026 (Freitag)
-**Reddit Posts (nicht spammen - verteilt posten):**
+**Reddit Posts posten:**
 - [ ] DSLR vs Mirrorless → r/AskPhotography
 - [ ] ChatGPT Tutorial → r/ChatGPT
-- [ ] Weitere Posts für Februar-Artikel vorbereiten
 
 ---
 
