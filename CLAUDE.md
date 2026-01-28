@@ -4,40 +4,36 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 27. Januar 2026 - Abend)
-
-### 🚨 TODO für 27. Januar 2026
-
-**1. Pinterest Pins erstellen:** ✅ ERLEDIGT
-- [x] Best Cameras Under $500 → Board: Photography for Beginners ✅
-- [x] Free AI Courses → Board: Learn AI & Tech Skills ✅
-
-**2. Reddit Post:** ✅ ERLEDIGT
-- [x] ChatGPT Tutorial → r/learnmachinelearning ✅
-
-**3. 16 Bilder für AI Travel Cluster:** ✅ KOMPLETT
-- [x] `ai-travel-planning-guide.webp` ✅ (104 KB)
-- [x] `chatgpt-travel-prompts.webp` ✅ (64 KB)
-- [x] `best-ai-trip-planners.webp` ✅ (86 KB)
-- [x] `chatgpt-malaysia-trip.webp` ✅ (58 KB)
-- [x] `ai-travel-mistakes.webp` ✅ (199 KB)
-- [x] `claude-vs-chatgpt-travel.webp` ✅ (222 KB)
-- [x] `free-ai-travel-tools.webp` ✅ (280 KB)
-- [x] `ai-packing-list.webp` ✅ (307 KB)
-- [x] `gemini-travel-planning.webp` ✅ (249 KB)
-- [x] `perplexity-travel-research.webp` ✅ (334 KB)
-- [x] `ai-flight-search-agent.webp` ✅ (282 KB)
-- [x] `ai-southeast-asia-trip-2026.webp` ✅ (168 KB)
-- [x] `ai-trip-planning-japan.webp` ✅ (158 KB)
-- [x] `ai-trip-planning-vietnam.webp` ✅ (175 KB)
-- [x] `ai-trip-planning-cambodia.webp` ✅ (208 KB)
-- [x] `japan-vietnam-cambodia-comparison.webp` ✅ (152 KB)
+## ⚠️ ERINNERUNGEN (Stand: 28. Januar 2026 - Mittag)
 
 ### 🚨 TODO für 28. Januar 2026
 **⏰ 15:00 — AirPods Pro 3 Reddit-Post:**
 - [ ] Reddit-Post posten → r/airpods (Text unten vorbereitet)
 
-~~Pinterest-Pin~~ → Verschoben
+### ✅ Erledigt am 28. Januar 2026
+
+**SEO & Schema Verbesserungen (antigravity-Analyse):**
+- [x] TL;DR Box Komponente erstellt
+- [x] 6 Artikel mit englischen TL;DR Summaries
+- [x] Product/Review Schema (JSON-LD) für Google-Sterne
+- [x] ItemList Schema für Listicle-Artikel
+
+**Review Schema aktiv für:**
+- AirPods Pro 3 Review (4/5)
+- Kindle vs Kobo → Kindle Paperwhite (4/5)
+- AirPods vs Galaxy Buds vs Sony → Sony WF-1000XM5 (4.5/5)
+- Canon R100 vs Nikon Z50 → Canon EOS R100 (4/5)
+- Bambu A1 Mini vs Ender 3 → Bambu Lab A1 Mini (4.5/5)
+
+**ItemList Schema aktiv für:**
+- Best Cameras Under $500
+- Best Free AI Courses
+- Best Tech Gifts Under $50
+- Best Mechanical Keyboards
+- Best 3D Printers Under $300
+- Best Japanese Products
+- Best AI Chrome Extensions
+- Best AI Tools for Office
 
 ---
 
@@ -104,17 +100,28 @@ Read the full review with comparison table.
 - [ ] ChatGPT Tutorial → r/ChatGPT
 - [ ] Weitere Posts für Februar-Artikel vorbereiten
 
-### Letzte Sitzung (27. Januar 2026)
+### Letzte Sitzung (28. Januar 2026)
+
+**✅ SEO-Optimierungen nach antigravity-Analyse:**
+- TL;DR Box Komponente (Gradient-Design, Uhr-Icon)
+- 6 englische TL;DR Summaries für wichtigste Artikel
+- Product/Review Schema (5 Artikel mit Sterne-Bewertungen)
+- ItemList Schema für 8 Listicle-Artikel
+
+**Neue Frontmatter-Felder:**
+- `tldr: "..."` — Optionale Kurzzusammenfassung
+- `review: { rating, productName, productBrand, priceRange }` — Für Google-Sterne
+- `isListicle: true` — Aktiviert ItemList Schema (H2s werden automatisch extrahiert)
+
+### Vorherige Sitzung (27. Januar 2026)
 
 **✅ AI Travel Cluster komplett abgeschlossen:**
 - 16/16 Bilder erstellt und optimiert (~2.8 MB gesamt)
 - 16/16 Artikel geplant (März-Juni 2026, draft: false)
-- Alle Artikel werden automatisch am publishDate live gehen
 
 **✅ AirPods Pro 3 Posts vorbereitet:**
-- Reddit-Post für r/airpods (Text oben)
-- Pinterest-Pin (Text oben)
-- Veröffentlichung: 28. Jan um 07:30
+- Reddit-Post für r/airpods
+- Pinterest-Pin (verschoben)
 
 ### Vorherige Sitzung (26. Januar 2026)
 ✅ **Pagefind Search komplett überarbeitet:**
