@@ -40,7 +40,7 @@ Now let's dig into each category.
 
 ---
 
-## AI Assistants: Your Digital Co-Worker
+## AI Assistants: Your Digital Coworker
 
 ### Claude (Anthropic) — Best Overall
 
