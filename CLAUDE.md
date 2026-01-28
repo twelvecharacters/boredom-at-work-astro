@@ -4,13 +4,25 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 28. Januar 2026 - Nachmittag)
+## ⚠️ ERINNERUNGEN (Stand: 28. Januar 2026 - Abend)
 
 ### 🚨 TODO für 28. Januar 2026
 **⏰ 15:00 — AirPods Pro 3 Reddit-Post:**
 - [ ] Reddit-Post posten → r/airpods (Text unten vorbereitet)
 
-### ✅ Erledigt am 28. Januar 2026 — antigravity-Analyse KOMPLETT
+### ✅ Erledigt am 28. Januar 2026
+
+**American English Konsistenz:**
+- [x] Alle Artikel auf British English geprüft — bereits sauber
+- [x] `Co-Worker` → `Coworker` korrigiert (best-ai-tools-office-work.md)
+- [x] American English Style Guide in CLAUDE.md hinzugefügt
+
+**Februar-Artikel neu terminiert:**
+- [x] Selling 3D Prints Online: 2. Feb → **3. Feb**
+- [x] Samsung S26 Rumors: 5. Feb → **6. Feb**
+- [x] macOS Tahoe Tricks: 8. Feb → **9. Feb**
+
+**antigravity-Analyse KOMPLETT:**
 
 **SEO & Schema Verbesserungen:**
 - [x] TL;DR Box Komponente (Gradient-Design)
