@@ -7,7 +7,7 @@ author: "bored chap"
 image: "/images/best-ai-free-courses.jpg"
 tags: ["AI Courses", "Free Learning", "Career Development"]
 draft: false
-tldr: "Alle Kurse sind wirklich kostenlos (manche Zertifikate kosten extra). Google AI Essentials hat das beste Prestige, Elements of AI das kostenlose Zertifikat. Investment: 5-10 Stunden."
+tldr: "All courses are genuinely free (some certificates cost extra). Google AI Essentials has the best prestige, Elements of AI offers a free certificate. Time investment: 5-10 hours."
 faq:
   - question: "Are these courses really free?"
     answer: "Yes. All courses listed are free to access and complete. Some charge for certificates ($49 typically), but you can often audit the full content for free."

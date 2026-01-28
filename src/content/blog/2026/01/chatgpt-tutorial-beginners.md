@@ -7,7 +7,7 @@ author: "bored chap"
 image: "/images/chatgpt.jpg"
 tags: ["ChatGPT", "AI", "Tutorial", "Beginners"]
 draft: false
-tldr: "Kostenlos nutzbar, spart Stunden pro Tag bei E-Mails, Recherche und Brainstorming. Der Trick: Bessere Prompts = bessere Antworten. Die Basics lernst du in 30 Minuten."
+tldr: "Free to use, saves hours daily on emails, research, and brainstorming. The trick: better prompts = better answers. You can learn the basics in 30 minutes."
 faq:
   - question: "Is ChatGPT free?"
     answer: "Yes, the basic version is free. ChatGPT Plus costs $20/month and offers faster responses, priority access, and additional features."

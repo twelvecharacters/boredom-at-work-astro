@@ -7,7 +7,7 @@ author: "bored chap"
 image: "/images/claude-vs-chatgpt.webp"
 tags: ["AI", "ChatGPT", "Claude", "Productivity", "Comparison"]
 draft: false
-tldr: "Beide kosten $20/Monat. Claude ist besser für lange Texte und Analyse, ChatGPT für Websuche und Bildgenerierung. Für die meisten reicht einer — wähle nach deinem Hauptnutzen."
+tldr: "Both cost $20/month. Claude is better for long-form writing and analysis, ChatGPT for web search and image generation. Most people only need one — pick based on your main use case."
 faq:
   - question: "Is Claude better than ChatGPT?"
     answer: "Neither is universally better. Claude excels at long-form writing, nuanced analysis, and following complex instructions. ChatGPT is better for browsing, plugins, and image generation. Choose based on your primary use case."

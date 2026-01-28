@@ -7,7 +7,7 @@ author: "bored chap"
 image: "/images/airpods-pro-3-review.webp"
 tags: ["Tech & Gadgets", "AirPods", "Apple", "Earbuds", "Review"]
 draft: false
-tldr: "Besseres ANC, längere Akkulaufzeit (7h statt 6h), wasserfester — aber $279 ist kein Must-Upgrade von Pro 2. Lohnt sich vor allem bei Neuanschaffung oder wenn deine alten AirPods den Geist aufgeben."
+tldr: "Better ANC, longer battery (7h vs 6h), more water resistant — but $279 isn't a must-upgrade from Pro 2. Worth it if you're buying new or your old AirPods are dying."
 review:
   rating: 4
   productName: "AirPods Pro 3"
