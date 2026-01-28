@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/best-ai-tools-office-work.webp"
 tags: ["AI", "Productivity", "Office", "Tools", "Work"]
 draft: false
+isListicle: true
 faq:
   - question: "Are AI tools safe to use at work?"
     answer: "Most reputable AI tools have enterprise-grade security. However, avoid pasting confidential data into free tiers of AI chatbots. Check your company's AI policy and use tools with SOC 2 compliance for sensitive work."

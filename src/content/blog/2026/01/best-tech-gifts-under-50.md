@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/best-tech-gifts-under-50.webp"
 tags: ["Tech & Gadgets", "Gift Guide", "Budget Tech", "Gift Ideas"]
 draft: false
+isListicle: true
 faq:
   - question: "What is the best tech gift under $50?"
     answer: "It depends on the recipient, but universal favorites include wireless earbuds (like Soundcore Life P3), portable chargers (Anker 10000mAh), and smart plugs. These are useful for almost anyone."

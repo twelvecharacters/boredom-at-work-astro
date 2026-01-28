@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/3d-printers-under-300.jpg"
 tags: ["3D Printing", "Buying Guide", "3D Printers", "Comparison", "Budget"]
 draft: false
+isListicle: true
 faq:
   - question: "What is the best 3D printer under $300 for absolute beginners?"
     answer: "The Bambu Lab A1 Mini (~$280) is the best 3D printer under $300 for beginners. It prints right out of the box without calibration and delivers excellent quality. If you want to tinker, go for the Creality Ender 3 V3 SE (~$200)."

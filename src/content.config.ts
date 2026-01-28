@@ -28,6 +28,7 @@ const blog = defineCollection({
     faq: z.array(faqSchema).optional(),
     tldr: z.string().optional(), // TL;DR summary for quick reading
     review: reviewSchema.optional(), // Product review data for Schema.org
+    isListicle: z.boolean().default(false), // Enable ItemList Schema for listicles
     slug: z.string().optional(), // URL slug, overrides file path
   }),
 });

@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/mechanical-keyboards-beginners.webp"
 tags: ["Tech & Gadgets", "Mechanical Keyboards", "Peripherals", "Office Setup", "Beginners"]
 draft: false
+isListicle: true
 faq:
   - question: "Are mechanical keyboards worth it for office work?"
     answer: "Yes, if you type a lot. The improved tactile feedback reduces fatigue during long typing sessions. Just choose quieter switches (like Cherry MX Brown or Silent Reds) to avoid annoying coworkers."

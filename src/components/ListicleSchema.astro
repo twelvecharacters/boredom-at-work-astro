@@ -1,0 +1,50 @@
+---
+import { SITE } from '../config';
+
+interface Props {
+  title: string;
+  description: string;
+  url: string;
+  body: string;
+}
+
+const { title, description, url, body } = Astro.props;
+
+// Extract H2 headings from markdown body
+const h2Regex = /^##\s+(.+)$/gm;
+const matches = [...body.matchAll(h2Regex)];
+
+// Filter out common non-list headings
+const excludePatterns = [
+  /^(conclusion|summary|final thoughts|faq|frequently asked)/i,
+  /^(what is|how to|why|when|where|who)/i,
+  /^(the (quick|short|bottom) (answer|line|verdict))/i,
+  /^(quick comparison|overview|introduction)/i,
+];
+
+const listItems = matches
+  .map(match => match[1].trim())
+  .filter(heading => !excludePatterns.some(pattern => pattern.test(heading)))
+  .slice(0, 20); // Limit to 20 items
+
+// Only render if we have list items
+if (listItems.length < 2) {
+  return;
+}
+
+const schemaData = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": title,
+  "description": description,
+  "url": `${SITE.url}${url}`,
+  "numberOfItems": listItems.length,
+  "itemListElement": listItems.map((item, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "name": item
+  }))
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schemaData)} />

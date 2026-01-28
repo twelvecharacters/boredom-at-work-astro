@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/japanese-products-import.webp"
 tags: ["Japan Shopping", "Import Guide", "Japanese Products", "Gift Ideas"]
 draft: false
+isListicle: true
 faq:
   - question: "What is the best thing to buy from Japan?"
     answer: "Vintage cameras, Japanese stationery, and Kit-Kat flavors are popular choices. For value, secondhand electronics and vintage watches offer significant savings compared to Western prices."

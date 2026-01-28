@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/cameras-under-500.jpg"
 tags: ["Photography", "Cameras", "Budget", "Buying Guide"]
 draft: false
+isListicle: true
 tldr: "Canon EOS R100 (~$480) is the best all-rounder. Used buyers should grab a Nikon Z50 (~$450). Both easily beat any smartphone — good camera tech has never been cheaper."
 faq:
   - question: "What is the best camera under $500 in 2026?"

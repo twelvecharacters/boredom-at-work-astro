@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/best-ai-chrome-extensions.webp"
 tags: ["AI", "Chrome Extensions", "Productivity", "Browser", "Tools"]
 draft: false
+isListicle: true
 faq:
   - question: "Are AI Chrome extensions safe to use?"
     answer: "Reputable extensions from known companies are generally safe. However, be cautious: extensions can read your browsing data. Check reviews, verify the developer, and avoid extensions requesting excessive permissions. Never use unknown extensions for sensitive work."
