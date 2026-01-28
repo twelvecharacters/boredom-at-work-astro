@@ -52,6 +52,10 @@ Link: https://boredom-at-work.com/airpods-pro-3-review/
 - Offizielle Hersteller-Quellen als Pflicht vor dem Pushen
 - Liste häufiger Fehlerquellen pro Produktkategorie
 
+**✅ Homepage optimiert:**
+- "Why Waste Your Downtime?" Section entfernt (redundant mit Hero)
+- Bessere Mobile-Scroll-Experience
+
 ### Vorherige Sitzung (28. Januar 2026)
 
 **✅ Reddit-Post veröffentlicht:**
