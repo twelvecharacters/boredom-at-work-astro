@@ -7,6 +7,11 @@ author: "bored chap"
 image: "/images/airpods-vs-galaxy-buds-vs-sony.webp"
 tags: ["Tech & Gadgets", "Earbuds", "AirPods", "Galaxy Buds", "Sony", "Comparison"]
 draft: false
+review:
+  rating: 4.5
+  productName: "Sony WF-1000XM5"
+  productBrand: "Sony"
+  priceRange: "$299"
 faq:
   - question: "Are AirPods Pro worth it for Android users?"
     answer: "Not really. AirPods Pro work with Android but lose many features: no automatic ear detection, no easy pairing, no Spatial Audio. Galaxy Buds or Sony offer better value for Android users."

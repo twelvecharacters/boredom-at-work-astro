@@ -7,6 +7,11 @@ author: "bored chap"
 image: "/images/bambu-vs-creality.webp"
 tags: ["3D Printing", "Comparison", "Bambu Lab", "Creality", "Buying Guide"]
 draft: false
+review:
+  rating: 4.5
+  productName: "Bambu Lab A1 Mini"
+  productBrand: "Bambu Lab"
+  priceRange: "$280"
 faq:
   - question: "Is the Bambu A1 Mini better than the Creality Ender 3?"
     answer: "For most beginners, yes. The Bambu A1 Mini offers a better out-of-the-box experience and higher print quality. The Ender 3 V3 series is cheaper and gives you more room to print, but expect a steeper learning curve."

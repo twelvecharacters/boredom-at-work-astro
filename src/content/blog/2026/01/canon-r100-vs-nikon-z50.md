@@ -7,6 +7,11 @@ author: "bored chap"
 image: "/images/canon-r100-vs-nikon-z50.jpg"
 tags: ["Photography", "Cameras", "Canon", "Nikon", "Comparison"]
 draft: false
+review:
+  rating: 4
+  productName: "Canon EOS R100"
+  productBrand: "Canon"
+  priceRange: "$480"
 faq:
   - question: "Is the Canon R100 or Nikon Z50 better for beginners?"
     answer: "The Canon R100 is better for absolute beginners due to its Guided Display mode and simpler menus. The Nikon Z50 is better for beginners who want more features and are willing to spend more time learning."

@@ -7,6 +7,11 @@ author: "bored chap"
 image: "/images/kindle-vs-kobo.webp"
 tags: ["Tech & Gadgets", "Kindle", "Kobo", "E-Reader", "Comparison"]
 draft: false
+review:
+  rating: 4
+  productName: "Kindle Paperwhite"
+  productBrand: "Amazon"
+  priceRange: "$149"
 faq:
   - question: "Can I read Kindle books on a Kobo?"
     answer: "Not directly. Kindle books use Amazon's DRM protection. However, you can use software like Calibre to convert formats, though this exists in a legal gray area depending on your country."
