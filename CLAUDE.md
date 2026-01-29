@@ -6,7 +6,16 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 29. Januar 2026)
 
-### Letzte Sitzung (29. Januar 2026 - Nachmittag)
+### Letzte Sitzung (29. Januar 2026 - Abend)
+
+**✅ Neuer Artikel geplant:**
+- Ray-Ban Meta Review → 11. März 2026
+- Status: Draft (nach 3 Wochen Nutzung schreiben)
+- Bild noch erstellen: `ray-ban-meta-review.webp`
+
+---
+
+### Vorherige Sitzung (29. Januar 2026 - Nachmittag)
 
 **✅ Artikel veröffentlicht:**
 - AirPods vs Galaxy Buds vs Sony → Manueller Rebuild
@@ -372,7 +381,7 @@ rm bildname.png
 | 3D Printing | 6 | Aktiv |
 | Photography | 7 | Aktiv |
 | Japan Shopping | 3 | Aktiv |
-| Tech & Gadgets | 5 | Aktiv |
+| Tech & Gadgets | 6 | Aktiv |
 
 ### Geplante Artikel (Januar 2026)
 | Datum | Artikel | Kategorie |
@@ -397,6 +406,11 @@ rm bildname.png
 | 20. Feb | How to Use AI at Work (Without Getting in Trouble) | AI/Productivity | ✅ Geschrieben |
 | 23. Feb | AI Writing Tools: Grammarly vs Jasper vs Claude | AI | ✅ Geschrieben |
 | 26. Feb | Best AI Chrome Extensions for Productivity | AI/Productivity | ✅ Geschrieben |
+
+### Geplante Artikel (März 2026) - Tech Reviews
+| Datum | Artikel | Kategorie | Status |
+|-------|---------|-----------|--------|
+| 11. März | Ray-Ban Meta Review: 3 Weeks with Smart Glasses | Tech & Gadgets | 📝 Draft |
 
 ### AI Travel Planning Cluster (März-Juni 2026) - NEU!
 **Status:** ✅ Alle 16 Artikel geschrieben (Draft)
