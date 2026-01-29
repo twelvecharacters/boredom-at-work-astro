@@ -20,7 +20,7 @@
 - `/ai-travel-planning/` — Pillar Page für alle 16 Travel-Artikel
 - publishDate: 1. März 2026
 - llms.txt + llms-full.txt aktualisiert
-- TODO: Eigenes Bild erstellen (nutzt aktuell ai-travel-planning-guide.webp)
+- Eigenes Bild: `ai-travel-planning.webp` (64 KB)
 
 ---
 

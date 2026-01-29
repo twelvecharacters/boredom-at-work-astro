@@ -4,7 +4,7 @@ slug: "ai-travel-planning"
 description: "Master AI-powered trip planning with our comprehensive guide. ChatGPT prompts, tool comparisons, destination guides, and real trip case studies."
 publishDate: 2026-03-01
 author: "bored chap"
-image: "/images/ai-travel-planning-guide.webp"
+image: "/images/ai-travel-planning.webp"
 tags: ["AI", "Travel", "ChatGPT", "Trip Planning", "Hub Page"]
 draft: false
 faq:
