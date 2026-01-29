@@ -11,7 +11,7 @@
 **✅ Neuer Artikel geplant:**
 - Ray-Ban Meta Review → 11. März 2026
 - Status: Draft (nach 3 Wochen Nutzung schreiben)
-- Bild noch erstellen: `ray-ban-meta-review.webp`
+- ✅ Bild: `ray-ban-meta-review.webp` (58 KB)
 
 ---
 
