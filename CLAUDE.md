@@ -4,7 +4,19 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 30. Januar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 29. Januar 2026)
+
+### Letzte Sitzung (29. Januar 2026 - Nachmittag)
+
+**✅ Artikel veröffentlicht:**
+- AirPods vs Galaxy Buds vs Sony → Manueller Rebuild
+- URL: https://boredom-at-work.com/airpods-vs-galaxy-buds-vs-sony/
+
+**✅ Externer Cron-Job eingerichtet (cron-job.org):**
+- Triggert täglich 6:00 UTC → GitHub Actions workflow_dispatch
+- ⚠️ **GitHub Token läuft ab: 29. April 2026** → Dann erneuern!
+
+---
 
 ### 🚨 TODO für 30. Januar 2026 (Donnerstag)
 
@@ -38,7 +50,7 @@ Link: https://boredom-at-work.com/airpods-pro-3-review/
 
 ---
 
-### Letzte Sitzung (29. Januar 2026)
+### Vorherige Sitzung (29. Januar 2026 - Vormittag)
 
 **✅ Specs-Korrekturen nach Reddit-Feedback:**
 - AirPods Pro 3 Review: H3 → H2 chip, 7h → 8h, IP55 → IP57, 4 → 5 Ear Tips
