@@ -308,4 +308,4 @@ Based on our experience:
 - **Get the prompts we used**: [ChatGPT Travel Prompts That Work](/chatgpt-travel-planning-prompts/)
 - **Compare AI tools**: [Best AI Trip Planners 2026](/best-ai-trip-planners/)
 - **Avoid common mistakes**: [AI Travel Planning Mistakes](/ai-travel-planning-mistakes/)
-- **Complete guide**: [AI Travel Planning Guide](/ai-travel-planning-guide/)
+- **Complete guide**: [AI Travel Planning Hub](/ai-travel-planning/)

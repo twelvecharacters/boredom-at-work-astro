@@ -61,7 +61,7 @@ Guides for importing products from Japan.
 Guides for planning trips with AI tools like ChatGPT, Claude, and Perplexity.
 
 - [AI Travel Planning Hub](https://boredom-at-work.com/ai-travel-planning/): Complete guide to planning trips with AI (hub page)
-- [How to Plan Your Trip with AI](https://boredom-at-work.com/ai-travel-planning-guide/): The complete beginner guide
+- [Step-by-Step: Your First AI-Planned Trip](https://boredom-at-work.com/chatgpt-trip-planning-tutorial/): Beginner tutorial for planning trips with ChatGPT
 - [ChatGPT Travel Prompts](https://boredom-at-work.com/chatgpt-travel-planning-prompts/): 19 prompts that actually work
 - [Best AI Trip Planners 2026](https://boredom-at-work.com/best-ai-trip-planners/): 8 tools compared
 - [AI Travel Planning Mistakes](https://boredom-at-work.com/ai-travel-planning-mistakes/): 7 mistakes that ruin trips

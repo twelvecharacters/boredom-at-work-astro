@@ -348,4 +348,4 @@ Gemini isn't the best at everything, but its real-time capabilities fill a cruci
 - **Compare all AI tools**: [Best AI Trip Planners 2026](/best-ai-trip-planners/)
 - **Master ChatGPT prompts**: [ChatGPT Travel Prompts That Work](/chatgpt-travel-planning-prompts/)
 - **Try Perplexity**: [Perplexity AI for Travel Research](/perplexity-travel-research/)
-- **Complete guide**: [AI Travel Planning Guide](/ai-travel-planning-guide/)
+- **Complete guide**: [AI Travel Planning Hub](/ai-travel-planning/)

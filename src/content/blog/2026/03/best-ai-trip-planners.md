@@ -273,4 +273,4 @@ This hybrid approach gives you AI creativity plus real-world accuracy.
 - **Master ChatGPT prompts**: [15 Travel Prompts That Work](/chatgpt-travel-planning-prompts/)
 - **See real results**: [How I Planned My Malaysia Trip](/chatgpt-malaysia-trip-planning/)
 - **Avoid common errors**: [AI Travel Planning Mistakes](/ai-travel-planning-mistakes/)
-- **Complete guide**: [AI Travel Planning Guide](/ai-travel-planning-guide/)
+- **Complete guide**: [AI Travel Planning Hub](/ai-travel-planning/)

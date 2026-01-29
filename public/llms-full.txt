@@ -319,7 +319,7 @@ Central resource linking all AI travel planning content. Includes quick referenc
 **Key insight:** Different AI tools excel at different travel tasks. ChatGPT for itineraries, Perplexity for research, Gemini for real-time info.
 
 ### How to Plan Your Perfect Trip with AI
-**URL:** https://boredom-at-work.com/ai-travel-planning-guide/
+**URL:** https://boredom-at-work.com/chatgpt-trip-planning-tutorial/
 **Reading Time:** 15 minutes
 
 The foundational guide covering AI travel planning basics, prompting techniques, what AI does well (and poorly), and step-by-step workflow.

@@ -386,7 +386,7 @@ For now, agents excel at *finding* deals—you still click "book" yourself.
 
 ## What's Next?
 
-- **Use AI for your next trip**: [AI Travel Planning Guide](/ai-travel-planning-guide/)
+- **Use AI for your next trip**: [AI Travel Planning Hub](/ai-travel-planning/)
 - **Master ChatGPT for travel**: [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/)
 - **Compare AI tools**: [Best AI Trip Planners 2026](/best-ai-trip-planners/)
 - **Learn more about AI**: [Best Free AI Courses](/best-free-ai-courses/)

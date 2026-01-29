@@ -366,7 +366,7 @@ AI packing lists help avoid:
 
 ## What's Next?
 
-- **Plan the whole trip**: [AI Travel Planning Guide](/ai-travel-planning-guide/)
+- **Plan the whole trip**: [AI Travel Planning Hub](/ai-travel-planning/)
 - **Get better prompts**: [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/)
 - **Compare tools**: [Best AI Trip Planners 2026](/best-ai-trip-planners/)
 - **Avoid mistakes**: [AI Travel Planning Mistakes](/ai-travel-planning-mistakes/)

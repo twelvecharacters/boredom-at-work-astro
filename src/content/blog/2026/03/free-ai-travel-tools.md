@@ -329,4 +329,4 @@ For occasional travelers, free tools are more than sufficient.
 - **Master free ChatGPT**: [Travel Prompts That Work](/chatgpt-travel-planning-prompts/)
 - **Compare all tools**: [Best AI Trip Planners 2026](/best-ai-trip-planners/)
 - **Avoid mistakes**: [AI Travel Planning Mistakes](/ai-travel-planning-mistakes/)
-- **Complete guide**: [AI Travel Planning Guide](/ai-travel-planning-guide/)
+- **Complete guide**: [AI Travel Planning Hub](/ai-travel-planning/)

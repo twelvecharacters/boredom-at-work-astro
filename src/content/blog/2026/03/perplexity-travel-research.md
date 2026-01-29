@@ -335,4 +335,4 @@ Pair it with ChatGPT for itinerary building and Gemini for real-time prices, and
 - **Real-time planning**: [Google Gemini for Travel](/gemini-travel-planning/)
 - **Build your itinerary**: [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/)
 - **Compare all tools**: [Best AI Trip Planners 2026](/best-ai-trip-planners/)
-- **Complete guide**: [AI Travel Planning Guide](/ai-travel-planning-guide/)
+- **Complete guide**: [AI Travel Planning Hub](/ai-travel-planning/)

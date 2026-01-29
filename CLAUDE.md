@@ -419,7 +419,7 @@ rm bildname.png
 **Pillar + Core Guides (6 Artikel):**
 | Datum | Artikel | Slug |
 |-------|---------|------|
-| 1. März | How to Plan Your Perfect Trip with AI | `/ai-travel-planning-guide/` |
+| 1. März | Step-by-Step: Your First AI-Planned Trip | `/chatgpt-trip-planning-tutorial/` |
 | 8. März | ChatGPT Travel Prompts (19 Prompts) | `/chatgpt-travel-planning-prompts/` |
 | 15. März | Best AI Trip Planners 2026 | `/best-ai-trip-planners/` |
 | 22. März | Malaysia Trip with ChatGPT ⭐ | `/chatgpt-malaysia-trip-planning/` |
@@ -468,7 +468,7 @@ rm bildname.png
 - Highlights: Petronas Towers, Batu Caves (Dresscode + Affen!), Penang Hill, Kek Lok Si, Jetski Tour (600 MYR), Scooter (40 MYR/Tag), Duty-Free Langkawi
 
 **Benötigte Bilder (16 Stück):**
-- `ai-travel-planning-guide.webp`
+- `chatgpt-trip-planning-tutorial.webp`
 - `chatgpt-travel-prompts.webp`
 - `best-ai-trip-planners.webp`
 - `chatgpt-malaysia-trip.webp`

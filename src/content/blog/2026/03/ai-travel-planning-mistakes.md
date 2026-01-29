@@ -240,4 +240,4 @@ Use AI for the **creative and structural work**. Handle the **verification and l
 - **Get better prompts**: [ChatGPT Travel Prompts That Work](/chatgpt-travel-planning-prompts/)
 - **See mistakes in action**: [My Malaysia Trip with ChatGPT](/chatgpt-malaysia-trip-planning/)
 - **Choose better tools**: [Best AI Trip Planners 2026](/best-ai-trip-planners/)
-- **Complete guide**: [AI Travel Planning Guide](/ai-travel-planning-guide/)
+- **Complete guide**: [AI Travel Planning Hub](/ai-travel-planning/)

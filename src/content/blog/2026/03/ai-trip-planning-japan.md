@@ -285,4 +285,4 @@ For my potential November 2026 trip:
 - **Compare options:** [Japan vs Vietnam vs Cambodia](/japan-vietnam-cambodia-comparison/)
 - **Build your flight agent:** [AI Flight Search Tutorial](/build-ai-flight-search-agent/)
 - **Previous trip:** [Malaysia with ChatGPT](/chatgpt-malaysia-trip-planning/)
-- **Master AI travel:** [AI Travel Planning Guide](/ai-travel-planning-guide/)
+- **Master AI travel:** [AI Travel Planning Hub](/ai-travel-planning/)
