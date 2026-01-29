@@ -16,6 +16,12 @@
 - Triggert täglich 6:00 UTC → GitHub Actions workflow_dispatch
 - ⚠️ **GitHub Token läuft ab: 29. April 2026** → Dann erneuern!
 
+**✅ AI Travel Hub Page erstellt:**
+- `/ai-travel-planning/` — Pillar Page für alle 16 Travel-Artikel
+- publishDate: 1. März 2026
+- llms.txt + llms-full.txt aktualisiert
+- TODO: Eigenes Bild erstellen (nutzt aktuell ai-travel-planning-guide.webp)
+
 ---
 
 ### 🚨 TODO für 30. Januar 2026 (Donnerstag)

@@ -57,6 +57,27 @@ Guides for importing products from Japan.
 - [Buyee vs Sendico](https://boredom-at-work.com/buyee-vs-sendico-japan-proxy/): Comparison of popular proxy services
 - [Best Japanese Products to Import](https://boredom-at-work.com/best-japanese-products-to-import/): Top items worth importing from Japan
 
+### AI Travel Planning
+Guides for planning trips with AI tools like ChatGPT, Claude, and Perplexity.
+
+- [AI Travel Planning Hub](https://boredom-at-work.com/ai-travel-planning/): Complete guide to planning trips with AI (hub page)
+- [How to Plan Your Trip with AI](https://boredom-at-work.com/ai-travel-planning-guide/): The complete beginner guide
+- [ChatGPT Travel Prompts](https://boredom-at-work.com/chatgpt-travel-planning-prompts/): 19 prompts that actually work
+- [Best AI Trip Planners 2026](https://boredom-at-work.com/best-ai-trip-planners/): 8 tools compared
+- [AI Travel Planning Mistakes](https://boredom-at-work.com/ai-travel-planning-mistakes/): 7 mistakes that ruin trips
+- [Claude vs ChatGPT for Travel](https://boredom-at-work.com/claude-vs-chatgpt-travel-planning/): Which AI plans better trips?
+- [Free AI Travel Tools](https://boredom-at-work.com/free-ai-travel-tools/): Plan trips without spending money
+- [AI Packing Lists](https://boredom-at-work.com/ai-packing-list-travel-checklist/): Never forget essentials
+- [Gemini for Travel Planning](https://boredom-at-work.com/gemini-travel-planning/): Real-time travel info
+- [Perplexity for Travel Research](https://boredom-at-work.com/perplexity-travel-research/): Research with sources
+- [Build AI Flight Search Agent](https://boredom-at-work.com/build-ai-flight-search-agent/): Custom flight monitoring
+- [AI Trip Planning: Japan](https://boredom-at-work.com/ai-trip-planning-japan/): Complete Japan guide
+- [AI Trip Planning: Vietnam](https://boredom-at-work.com/ai-trip-planning-vietnam/): Complete Vietnam guide
+- [AI Trip Planning: Cambodia](https://boredom-at-work.com/ai-trip-planning-cambodia/): Complete Cambodia guide
+- [Japan vs Vietnam vs Cambodia](https://boredom-at-work.com/japan-vietnam-cambodia-comparison/): Destination comparison
+- [Malaysia Trip with ChatGPT](https://boredom-at-work.com/chatgpt-malaysia-trip-planning/): Real trip case study
+- [Southeast Asia Trip Planning](https://boredom-at-work.com/ai-planning-southeast-asia-trip-2026/): Multi-country planning
+
 ### Tech & Gadgets
 Reviews and comparisons of consumer technology.
 
