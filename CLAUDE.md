@@ -47,6 +47,29 @@ Key upgrades over AirPods Pro 2:
 Link: https://boredom-at-work.com/airpods-pro-3-review/
 ```
 
+**Reddit-Post posten:**
+- [ ] AirPods vs Galaxy Buds vs Sony → r/headphones oder r/earbuds
+
+**Reddit-Post Text:**
+```
+Title: I compared AirPods Pro, Galaxy Buds, and Sony WF-1000XM5 - here's what I found
+
+Body:
+Been testing all three flagship earbuds and wrote up a detailed comparison. Quick summary:
+
+**Sound Quality:** Sony wins (barely). Their bass and soundstage are unmatched.
+
+**ANC:** Sony slightly ahead, but AirPods Pro adaptive mode is more practical day-to-day.
+
+**Comfort:** Galaxy Buds are lightest, AirPods most universal fit, Sony can be fatiguing for long sessions.
+
+**Value:** Galaxy Buds at $249 offer the best balance. Sony at $299 if audio is priority. AirPods at $249 only if you're deep in Apple ecosystem.
+
+Full breakdown with specs: https://boredom-at-work.com/airpods-vs-galaxy-buds-vs-sony/
+
+What's your experience with any of these? Curious if others found the same.
+```
+
 ---
 
 ### 🚨 TODO für 31. Januar 2026 (Freitag)
