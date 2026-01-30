@@ -4,7 +4,7 @@ slug: "pearcleaner-homebrew-guide"
 description: "Meet Pearcleaner: the free, open-source app uninstaller that doesn't just delete apps—it masters your Homebrew setup too. Here's why you need it on your Mac."
 publishDate: 2026-02-15
 author: "bored chap"
-image: "/images/free-macos-software.webp"
+image: "/images/pearcleaner.webp"
 tags: ["Tech & Gadgets", "macOS", "Pearcleaner", "Homebrew", "Open Source"]
 draft: false
 faq:
