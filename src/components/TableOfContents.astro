@@ -5,7 +5,7 @@
 
 <nav class="toc bg-background-alt rounded-xl p-6 mb-8 not-prose">
   <h2 class="text-lg font-semibold mb-4 text-primary">Table of Contents</h2>
-  <ul id="toc-list" class="space-y-2 text-sm">
+  <ul class="toc-list space-y-2 text-sm">
     <!-- TOC items will be injected by JavaScript -->
   </ul>
 </nav>
@@ -16,8 +16,12 @@
     if (!article) return;
 
     const headings = article.querySelectorAll('h2, h3');
-    const tocList = document.getElementById('toc-list');
-    if (!tocList || headings.length === 0) return;
+    const tocLists = document.querySelectorAll('.toc-list');
+    
+    if (tocLists.length === 0 || headings.length === 0) return;
+
+    // Clear existing lists to avoid duplicates on re-renders
+    tocLists.forEach(list => list.innerHTML = '');
 
     headings.forEach((heading, index) => {
       // Create an ID if it doesn't have one
@@ -29,16 +33,20 @@
       const a = document.createElement('a');
       a.href = `#${heading.id}`;
       a.textContent = heading.textContent;
-      a.className = heading.tagName === 'H3'
+      a.className = (heading.tagName === 'H3')
         ? 'text-text-light hover:text-accent pl-4 block transition-colors'
         : 'text-text hover:text-accent block transition-colors font-medium';
 
       li.appendChild(a);
-      tocList.appendChild(li);
+      
+      // Clone for each TOC instance
+      tocLists.forEach(list => {
+        list.appendChild(li.cloneNode(true));
+      });
     });
   }
 
-  // Run on page load
+  // Run on page load and after swaps
   document.addEventListener('DOMContentLoaded', generateTOC);
   document.addEventListener('astro:page-load', generateTOC);
 </script>

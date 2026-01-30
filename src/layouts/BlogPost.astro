@@ -46,85 +46,197 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
 ---
 
 <BaseLayout title={title} description={description} image={image} article={true}>
-  <article class="max-w-4xl mx-auto px-4 py-8">
-    <!-- Breadcrumbs -->
-    <Breadcrumbs items={breadcrumbItems} />
-
-    <!-- Article Header -->
-    <header class="mb-8">
-      <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-primary mb-4 leading-tight">
-        {title}
-      </h1>
-
-      <div class="flex flex-wrap items-center gap-4 text-text-light text-sm mb-6">
-        <span>By {author}</span>
-        <span>•</span>
-        <time datetime={publishDate.toISOString()}>{formattedDate}</time>
-        <span>•</span>
-        <span>{readingTime} min read</span>
-        {updatedDate && (
-          <div class="flex items-center text-accent font-medium bg-accent/5 px-2 py-0.5 rounded ml-2">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-            </svg>
-            <span>Updated: {formattedUpdatedDate}</span>
-          </div>
-        )}
-      </div>
-
-      {tags.length > 0 && (
-        <div class="flex flex-wrap gap-2 mb-6">
-          {tags.map(tag => (
-            <span class="bg-background-alt text-text-light px-3 py-1 rounded-full text-sm">
-              {tag}
-            </span>
-          ))}
-        </div>
-      )}
-
-      <!-- Intro text before image for better SEO -->
-      <p class="text-lg text-text-light leading-relaxed mb-6">
-        {description}
-      </p>
-
-      {image && (
-        <OptimizedImage
-          src={image}
-          alt={title}
-          class="w-full rounded-xl shadow-lg"
-        />
-      )}
-    </header>
-
-    <!-- TL;DR Box -->
-    <TldrBox tldr={tldr} description={description} />
-
-    <!-- Table of Contents -->
-    <TableOfContents />
-
-    <!-- Article Content -->
-    <div class="prose" data-pagefind-body>
-      <slot />
+  <article class="max-w-5xl mx-auto px-4 py-8">
+    <!-- Breadcrumbs & Focus Mode Toggle -->
+    <div class="flex justify-between items-center mb-4">
+      <Breadcrumbs items={breadcrumbItems} />
+      
+      <button 
+        id="focus-mode-toggle" 
+        class="flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-text-light hover:text-accent transition-colors bg-background-alt px-3 py-1.5 rounded-lg border border-primary/10"
+        title="Toggle Stealth Focus Mode"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
+        </svg>
+        <span class="hidden sm:inline">Focus Mode</span>
+      </button>
     </div>
 
-    <!-- Social Share Buttons -->
-    <SocialShare title={title} description={description} />
+    <!-- Focus Mode CSS -->
+    <!-- Focus Mode CSS -->
+    <style is:global>
+      /* Global Focus Mode Styles */
+      body.focus-mode {
+        background: white !important;
+      }
+      .focus-mode article {
+        max-width: 850px !important;
+        margin: 0 auto !important;
+        box-shadow: none !important;
+      }
+      .focus-mode header:not(.doc-header), 
+      .focus-mode .tldr-box,
+      .focus-mode aside,
+      .focus-mode footer,
+      .focus-mode .related-posts,
+      .focus-mode .author-bio,
+      .focus-mode .social-share,
+      .focus-mode nav:not(.toc),
+      .focus-mode .breadcrumb-nav {
+        display: none !important;
+      }
+      /* Hide standard site header/footer when in focus mode */
+      .focus-mode > header, 
+      .focus-mode > footer {
+        display: none !important;
+      }
+      .focus-mode .prose {
+        font-family: "Georgia", "Times New Roman", serif !important;
+        font-size: 1.15rem !important;
+        line-height: 1.8 !important;
+        color: #111 !important;
+      }
+      .focus-mode h1, .focus-mode h2, .focus-mode h3 {
+        color: #000 !important;
+        font-family: "Arial", sans-serif !important;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 0.5rem;
+      }
+      .focus-mode .lg\:grid {
+        display: block !important;
+      }
+      .focus-mode #lightbox {
+        background: white !important;
+      }
+      .focus-mode #lightbox button {
+        color: black !important;
+      }
+      /* Simplified code blocks for Focus Mode */
+      .focus-mode .prose pre {
+        background-color: #fcfcfc !important;
+        border: 1px solid #e5e7eb !important;
+        box-shadow: none !important;
+      }
+      .focus-mode .prose code {
+        background-color: #f3f4f6 !important;
+      }
 
-    <!-- Author Bio -->
-    <AuthorBio />
+      /* Custom Scrollbar for ToC Sidebar */
+      .custom-scrollbar::-webkit-scrollbar {
+        width: 4px;
+      }
+      .custom-scrollbar::-webkit-scrollbar-track {
+        background: transparent;
+      }
+      .custom-scrollbar::-webkit-scrollbar-thumb {
+        background: rgba(139, 92, 246, 0.1);
+        border-radius: 10px;
+      }
+      .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+        background: rgba(139, 92, 246, 0.3);
+      }
+    </style>
 
-    <!-- Related Posts -->
-    <RelatedPosts currentSlug={getPostSlug(post)} currentTags={tags} />
+    <div class="flex flex-col lg:flex-row lg:gap-12 relative">
+      <div class="flex-1 min-w-0">
+        <!-- Article Header -->
+        <header class="mb-8">
+          <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-primary mb-4 leading-tight">
+            {title}
+          </h1>
+
+          <div class="flex flex-wrap items-center gap-4 text-text-light text-sm mb-6">
+            <span>By {author}</span>
+            <span>•</span>
+            <time datetime={publishDate.toISOString()}>{formattedDate}</time>
+            <span>•</span>
+            <span>{readingTime} min read</span>
+            {updatedDate && (
+              <div class="flex items-center text-accent font-medium bg-accent/5 px-2 py-0.5 rounded ml-2">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                </svg>
+                <span>Updated: {formattedUpdatedDate}</span>
+              </div>
+            )}
+          </div>
+
+          {tags.length > 0 && (
+            <div class="flex flex-wrap gap-2 mb-6">
+              {tags.map(tag => (
+                <span class="bg-background-alt text-text-light px-3 py-1 rounded-full text-sm">
+                  {tag}
+                </span>
+              ))}
+            </div>
+          )}
+
+          <!-- Intro text before image for better SEO -->
+          <p class="text-lg text-text-light leading-relaxed mb-6">
+            {description}
+          </p>
+
+          {image && (
+            <OptimizedImage
+              src={image}
+              alt={title}
+              class="w-full rounded-xl shadow-lg"
+            />
+          )}
+        </header>
+
+        <!-- TL;DR Box -->
+        <TldrBox tldr={tldr} description={description} />
+
+        <!-- Table of Contents (Mobile Only) -->
+        <div class="lg:hidden">
+          <TableOfContents />
+        </div>
+
+        <!-- Article Content -->
+        <div class="prose" data-pagefind-body>
+          <slot />
+        </div>
+
+        <!-- Social Share Buttons -->
+        <SocialShare title={title} description={description} />
+
+        <!-- Author Bio -->
+        <AuthorBio />
+
+        <!-- Related Posts -->
+        <RelatedPosts currentSlug={getPostSlug(post)} currentTags={tags} />
+      </div>
+
+      <!-- Sticky Sidebar (Desktop Only) -->
+      <aside class="hidden lg:block w-80 flex-shrink-0">
+        <div class="sticky top-28 space-y-8 max-h-[calc(100vh-8rem)] overflow-y-auto pr-2 custom-scrollbar">
+          <TableOfContents />
+          
+          <div class="bg-background-alt rounded-xl p-6">
+            <h3 class="text-lg font-semibold mb-2">Ready to learn more?</h3>
+            <p class="text-text-light mb-4 text-sm">
+              Check out our other guides on AI skills, certifications, and productive ways to use your work downtime.
+            </p>
+            <a href="/blog/" class="btn-primary w-full text-center">
+              Browse All Articles
+            </a>
+          </div>
+        </div>
+      </aside>
+    </div>
 
     <!-- Article Footer -->
     <footer class="mt-12 pt-8 border-t border-primary/10">
-      <div class="bg-background-alt rounded-xl p-6">
-        <h3 class="text-lg font-semibold mb-2">Ready to learn more?</h3>
-        <p class="text-text-light mb-4">
-          Check out our other guides on AI skills, certifications, and productive ways to use your work downtime.
-        </p>
+      <div class="flex justify-between items-center bg-background-alt rounded-xl p-6">
+        <div>
+          <span class="text-xs font-bold uppercase tracking-widest text-text-light mb-1 block">Continued...</span>
+          <p class="text-sm font-semibold">Done reading? Head back to the blog.</p>
+        </div>
         <a href="/blog/" class="btn-primary">
-          Browse All Articles
+          Back to Blog
         </a>
       </div>
     </footer>
@@ -170,15 +282,154 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
     />
   )}
 
-  <!-- Wrap tables in scrollable container for mobile -->
+  <!-- scripts -->
   <script>
-    document.querySelectorAll('.prose table').forEach(table => {
-      if (!table.parentElement?.classList.contains('table-scroll-wrapper')) {
-        const wrapper = document.createElement('div');
-        wrapper.className = 'table-scroll-wrapper';
-        table.parentNode?.insertBefore(wrapper, table);
-        wrapper.appendChild(table);
+    function setupArticleScripts() {
+      // Avoid duplicate initialization
+      if (window.hasOwnProperty('articleScriptsInitialized')) return;
+      (window as any).articleScriptsInitialized = true;
+
+      const article = document.querySelector('.prose');
+      if (!article) return;
+
+      // 1. Table responsiveness helper
+      article.querySelectorAll('table').forEach(table => {
+        if (!table.parentElement?.classList.contains('table-scroll-wrapper')) {
+          const wrapper = document.createElement('div');
+          wrapper.className = 'table-scroll-wrapper';
+          table.parentNode?.insertBefore(wrapper, table);
+          wrapper.appendChild(table);
+        }
+      });
+
+      // 2. Scroll-spy for TOC
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          const id = entry.target.getAttribute('id');
+          if (entry.isIntersecting) {
+            document.querySelectorAll('.toc a').forEach(link => {
+              link.classList.remove('text-accent', 'font-bold');
+              if (link.getAttribute('href') === `#${id}`) {
+                link.classList.add('text-accent', 'font-bold');
+              }
+            });
+          }
+        });
+      }, { rootMargin: '-100px 0px -70% 0px' });
+
+      article.querySelectorAll('h2, h3').forEach((heading) => {
+        observer.observe(heading);
+      });
+
+      // 3. Focus Mode Toggle
+      const focusToggle = document.getElementById('focus-mode-toggle');
+      if (focusToggle) {
+        focusToggle.addEventListener('click', () => {
+          document.body.classList.toggle('focus-mode');
+          const isFocus = document.body.classList.contains('focus-mode');
+          focusToggle.innerHTML = isFocus 
+            ? `<svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858.908a3 3 0 114.243 4.243M9.878 9.878l4.242 4.242M9.88 9.88l-3.29-3.29m7.532 7.532l3.29 3.29M3 3l18 18" /></svg> <span class="hidden sm:inline">Exit Focus</span>`
+            : `<svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" /></svg> <span class="hidden sm:inline">Focus Mode</span>`;
+        });
       }
+
+      // 4. Cmd+K Search Shortcut
+      document.addEventListener('keydown', (e) => {
+        if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+          e.preventDefault();
+          const searchInput = document.querySelector('.pagefind-ui__search-input') as HTMLInputElement | null;
+          if (searchInput) {
+            searchInput.focus();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+          } else {
+            const searchLink = document.querySelector('a[href*="search"]') as HTMLAnchorElement | null;
+            if (searchLink) searchLink.click();
+          }
+        }
+      });
+
+      // 5. Code Block Copy Button
+      article.querySelectorAll('pre').forEach((block) => {
+        if (block.querySelector('.copy-button')) return;
+
+        const button = document.createElement('button');
+        button.className = 'copy-button absolute top-3 right-3 flex items-center gap-1.5 px-3 py-1.5 bg-white/80 hover:bg-white border border-primary/20 hover:border-accent text-primary/60 hover:text-accent rounded-md transition-all duration-200 shadow-sm backdrop-blur-sm z-10 font-sans text-xs font-semibold';
+        button.innerHTML = `
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+          </svg>
+          <span>Copy</span>
+        `;
+        
+        block.classList.add('relative', 'group');
+        block.appendChild(button);
+
+        button.addEventListener('click', () => {
+          const code = block.querySelector('code')?.innerText || '';
+          navigator.clipboard.writeText(code).then(() => {
+            const span = button.querySelector('span');
+            const svg = button.querySelector('svg');
+            if (span) span.innerText = 'Copied!';
+            if (svg) svg.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />';
+            
+            button.classList.add('bg-green-50', 'border-green-500', 'text-green-600');
+            
+            setTimeout(() => {
+              if (span) span.innerText = 'Copy';
+              if (svg) svg.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />';
+              button.classList.remove('bg-green-50', 'border-green-500', 'text-green-600');
+            }, 2000);
+          });
+        });
+      });
+
+      // 6. Image Lightbox
+      const lightbox = document.createElement('div');
+      lightbox.id = 'lightbox';
+      lightbox.className = 'fixed inset-0 bg-black/90 z-[100] flex items-center justify-center opacity-0 pointer-events-none transition-opacity duration-300 p-4 drop-shadow-2xl';
+      lightbox.innerHTML = `
+        <button class="absolute top-6 right-6 text-white hover:text-accent transition-colors">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+        <img class="max-w-full max-h-full object-contain rounded-lg shadow-2xl" src="" alt="" />
+      `;
+      document.body.appendChild(lightbox);
+
+      const lightboxImg = lightbox.querySelector('img') as HTMLImageElement;
+      const lightboxClose = lightbox.querySelector('button') as HTMLButtonElement;
+
+      article.querySelectorAll('img').forEach((img) => {
+        img.classList.add('cursor-zoom-in');
+        img.addEventListener('click', () => {
+          lightboxImg.src = (img as HTMLImageElement).src;
+          lightboxImg.alt = (img as HTMLImageElement).alt;
+          lightbox.classList.remove('opacity-0', 'pointer-events-none');
+          document.body.style.overflow = 'hidden';
+        });
+      });
+
+      const closeLightbox = () => {
+        lightbox.classList.add('opacity-0', 'pointer-events-none');
+        document.body.style.overflow = '';
+      };
+
+      lightboxClose.addEventListener('click', closeLightbox);
+      lightbox.addEventListener('click', (e) => {
+        if (e.target === lightbox) closeLightbox();
+      });
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') closeLightbox();
+      });
+    }
+
+    // Reset initialization on page swap if using View Transitions
+    document.addEventListener('astro:after-swap', () => {
+      (window as any).articleScriptsInitialized = false;
     });
+
+    document.addEventListener('DOMContentLoaded', setupArticleScripts);
+    document.addEventListener('astro:page-load', setupArticleScripts);
   </script>
 </BaseLayout>
