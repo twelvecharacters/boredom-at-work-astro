@@ -105,6 +105,18 @@ Honest comparison of ChatGPT's paid ($20/month) vs free tier. Covers what you ac
 - Worth it if you use ChatGPT daily for work
 - Skip it for casual or occasional use — Free tier is capable enough
 
+### Google Gemini Review
+**URL:** https://boredom-at-work.com/google-gemini-review/
+**Reading Time:** 12 minutes
+
+Comprehensive review of Google Gemini after months of daily use. Covers strengths, weaknesses, and how it compares to ChatGPT and Claude.
+
+**Key insights:**
+- Excels at real-time information, Google Workspace integration, and 1M token context
+- Falls short on creative writing quality and complex reasoning
+- Free tier is generous; Advanced ($20/month) includes 2TB Google One storage
+- Best for Google power users; not a full ChatGPT replacement for most people
+
 ### Perplexity AI Guide
 **URL:** https://boredom-at-work.com/perplexity-ai-guide/
 **Reading Time:** 12 minutes
