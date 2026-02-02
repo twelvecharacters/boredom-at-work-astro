@@ -78,6 +78,76 @@
 
 ---
 
+## 💰 Monetarisierung (Strategie ab Feb 2026)
+
+### Zwei-Säulen-Strategie
+
+| Säule | Cluster | Zweck | Einnahmequelle |
+|-------|---------|-------|----------------|
+| **Traffic** | AI/Productivity | Volumen-Spiel | Display Ads |
+| **Conversion** | 3D Printing | Affiliate-Fokus | Produktempfehlungen |
+
+### Warum diese Kombination?
+
+**AI/Productivity:**
+- Riesiges Suchvolumen
+- Hohe CPMs bei Tech-Audience ($15-40 RPM)
+- Gut für digitale Produkte (Prompts, Templates)
+
+**3D Printing:**
+- Klare Produktempfehlungen (Drucker, Filament)
+- Kaufbereite Enthusiasten-Audience
+- Wiederkehrende Käufe (Filament = Verbrauchsmaterial)
+- High-Ticket Items ($200-1500)
+
+### Affiliate-Programme
+
+**AI Tools:**
+| Tool | Kommission |
+|------|------------|
+| Jasper AI | 30% recurring |
+| Copy.ai | 45% first year |
+| Writesonic | 30% recurring |
+| Grammarly | $0.20-$20/signup |
+
+**3D Printing:**
+| Partner | Kommission |
+|---------|------------|
+| Amazon Associates | 4% |
+| Bambu Lab (direkt) | 5-8% |
+| 3DJake (EU) | 5-8% |
+| Elegoo | 5% |
+
+### 12-Monats-Plan
+
+| Phase | Monate | Fokus | Ziel-Einnahmen |
+|-------|--------|-------|----------------|
+| Foundation | 1-3 | Content + Amazon/AdSense | €0-50/Mo |
+| Growth | 4-6 | Traffic skalieren | €100-300/Mo |
+| Monetization | 7-12 | Mediavine + Produkte | €500-2.000/Mo |
+
+### Digitale Produkte (ab Monat 6-8)
+
+**AI Cluster:**
+- "100 ChatGPT Prompts for Work" (PDF) — €9-19
+- AI Productivity Notion Template — €19-39
+- Mini-Kurs "Learn AI in a Weekend" — €49-99
+
+**3D Printing:**
+- Beginner's First Prints STL Bundle — €9-15
+- Troubleshooting Cheatsheet — €5-9
+- Desk Organization STL Pack — €12-20
+
+### Nächste Schritte
+
+- [ ] Amazon Associates beantragen
+- [ ] 3DJake Affiliate beantragen
+- [ ] Email-Liste/Newsletter starten
+- [ ] Bei 10k Pageviews: Ezoic testen
+- [ ] Bei 50k Sessions: Mediavine beantragen
+
+---
+
 ## Workflow-Regeln
 
 ### Blog-Beiträge erstellen
