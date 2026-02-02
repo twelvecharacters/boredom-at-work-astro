@@ -93,6 +93,18 @@ Head-to-head comparison of the two leading AI assistants. Covers writing quality
 - Claude has larger context window (200K vs 128K tokens)
 - Both cost $20/month for premium tiers
 
+### ChatGPT Plus vs Free
+**URL:** https://boredom-at-work.com/chatgpt-plus-vs-free/
+**Reading Time:** 10 minutes
+
+Honest comparison of ChatGPT's paid ($20/month) vs free tier. Covers what you actually get, what you miss, and whether the upgrade is worth it for different use cases.
+
+**Key insights:**
+- Plus gives full GPT-5.2 access, DALL-E images, Sora video, and priority speed
+- Free tier includes limited GPT-5.2/GPT-4o access with daily caps
+- Worth it if you use ChatGPT daily for work
+- Skip it for casual or occasional use — Free tier is capable enough
+
 ### Perplexity AI Guide
 **URL:** https://boredom-at-work.com/perplexity-ai-guide/
 **Reading Time:** 12 minutes

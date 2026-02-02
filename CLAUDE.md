@@ -4,157 +4,61 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 29. Januar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 2. Februar 2026)
 
-### Letzte Sitzung (29. Januar 2026 - Abend)
+### Letzte Sitzung (2. Februar 2026)
 
-**✅ Neuer Artikel geplant:**
-- Ray-Ban Meta Review → 11. März 2026
+**✅ Performance & Accessibility Optimierungen:**
+- A11y: Accent-alt Kontrastfarben für WCAG AA verbessert
+- Perf: Thumbnails komprimiert (claude-vs-chatgpt, airpods)
+- Perf: Doppelte Bilder entfernt, Thumbnails regeneriert
+- Perf: Große JPG/PNG zu WebP konvertiert (~4.5MB gespart)
+
+**✅ SEO Verbesserungen:**
+- Tag-Seiten und Blog-Pagination (Seite 2+) von Sitemap ausgeschlossen
+- noindex für Tag-Seiten und Pagination hinzugefügt
+- Veraltete Model-Referenzen in Feb 3-8 Artikeln gefixt, interne Links ergänzt
+
+**✅ Content Updates:**
+- ChatGPT Tutorial: GPT-5.2, neue Preisstufen, Sora, Codex, Web Search
+- Claude vs ChatGPT: Veraltete Infos korrigiert (Models, Web Search, neue Features)
+
+**✅ Neue Features:**
+- Focus Mode für Blog-Posts hinzugefügt
+- Table of Contents als Sticky Sidebar refactored
+- Pearcleaner Artikel + Bild hinzugefügt
+
+---
+
+### Geplanter Artikel
+
+**Ray-Ban Meta Review:**
+- Datum: 11. März 2026
 - Status: Draft (nach 3 Wochen Nutzung schreiben)
 - ✅ Bild: `ray-ban-meta-review.webp` (58 KB)
 
 ---
 
-### Vorherige Sitzung (29. Januar 2026 - Nachmittag)
+### Wichtige Erinnerungen
 
-**✅ Artikel veröffentlicht:**
-- AirPods vs Galaxy Buds vs Sony → Manueller Rebuild
-- URL: https://boredom-at-work.com/airpods-vs-galaxy-buds-vs-sony/
-
-**✅ Externer Cron-Job eingerichtet (cron-job.org):**
-- Triggert täglich 6:00 UTC → GitHub Actions workflow_dispatch
-- ⚠️ **GitHub Token läuft ab: 29. April 2026** → Dann erneuern!
-
-**✅ AI Travel Hub Page erstellt:**
-- `/ai-travel-planning/` — Pillar Page für alle 16 Travel-Artikel
-- publishDate: 1. März 2026
-- llms.txt + llms-full.txt aktualisiert
-- Eigenes Bild: `ai-travel-planning.webp` (64 KB)
+**⚠️ GitHub Token läuft ab: 29. April 2026** → Dann erneuern!
+- Externer Cron-Job (cron-job.org) triggert täglich 5:00 UTC → GitHub Actions
 
 ---
 
-### 🚨 TODO für 30. Januar 2026 (Donnerstag)
+### Verlauf (Januar 2026 - Zusammenfassung)
 
-**Pinterest-Pin posten:**
-- [ ] AirPods Pro 3 Review → Board: Learn AI & Tech Skills
+**29. Jan:** Specs-Korrekturen nach Reddit-Feedback (AirPods, Kindle, Kobo), Homepage optimiert, Produkt-Specs Workflow eingeführt
 
-**Pinterest-Pin Text:**
-```
-Title: AirPods Pro 3 Review: Worth the Upgrade? (2026)
+**28. Jan:** Reddit-Post r/airpods ✅, American English Konsistenz, Februar-Artikel terminiert
 
-Description:
-Honest review of Apple's AirPods Pro 3 after one week of daily use. Better ANC, longer battery (8 hours), IP57 water resistance - but is it worth $279?
+**27. Jan:** AI Travel Cluster komplett (16/16 Bilder + Artikel), AirPods Posts vorbereitet
 
-Key upgrades over AirPods Pro 2:
-✓ Upgraded H2 chip with improved noise cancellation
-✓ Adaptive Audio mode (game changer!)
-✓ 8 hours battery vs 6 hours
-✓ Better hearing health features
+**26. Jan:** Pagefind Search überarbeitet, A11y/Perf Fixes, ScrollToTop, AirPods Pro 3 Review
 
-#AirPodsPro3 #AirPods #Apple #TechReview #Earbuds #WirelessEarbuds #TechGadgets
+**23. Jan:** Alle 9 Februar-Bilder gepusht
 
-Link: https://boredom-at-work.com/airpods-pro-3-review/
-```
-
-**Reddit-Post posten:**
-- [ ] AirPods vs Galaxy Buds vs Sony → r/headphones oder r/earbuds
-
-**Reddit-Post Text:**
-```
-Title: I compared AirPods Pro, Galaxy Buds, and Sony WF-1000XM5 - here's what I found
-
-Body:
-Been testing all three flagship earbuds and wrote up a detailed comparison. Quick summary:
-
-**Sound Quality:** Sony wins (barely). Their bass and soundstage are unmatched.
-
-**ANC:** Sony slightly ahead, but AirPods Pro adaptive mode is more practical day-to-day.
-
-**Comfort:** Galaxy Buds are lightest, AirPods most universal fit, Sony can be fatiguing for long sessions.
-
-**Value:** Galaxy Buds at $249 offer the best balance. Sony at $299 if audio is priority. AirPods at $249 only if you're deep in Apple ecosystem.
-
-Full breakdown with specs: https://boredom-at-work.com/airpods-vs-galaxy-buds-vs-sony/
-
-What's your experience with any of these? Curious if others found the same.
-```
-
----
-
-### 🚨 TODO für 31. Januar 2026 (Freitag)
-**Reddit Posts posten:**
-- [ ] DSLR vs Mirrorless → r/AskPhotography
-- [ ] ChatGPT Tutorial → r/ChatGPT
-
----
-
-### Vorherige Sitzung (29. Januar 2026 - Vormittag)
-
-**✅ Specs-Korrekturen nach Reddit-Feedback:**
-- AirPods Pro 3 Review: H3 → H2 chip, 7h → 8h, IP55 → IP57, 4 → 5 Ear Tips
-- AirPods vs Galaxy Buds vs Sony: Galaxy Buds3 Pro $229 → $249
-- Kindle vs Kobo: Paperwhite $149 → $159, 6.8" → 7", 205g → 211g
-- Is Kindle Worth It: Basic $99 → $109, Paperwhite $149 → $159, Signature $189 → $199
-- Kobo Clara 2E: $149 → $140
-
-**✅ Neuer Standard-Workflow hinzugefügt:**
-- "Produkt-Specs verifizieren" Section in CLAUDE.md
-- Offizielle Hersteller-Quellen als Pflicht vor dem Pushen
-- Liste häufiger Fehlerquellen pro Produktkategorie
-
-**✅ Homepage optimiert:**
-- "Why Waste Your Downtime?" Section entfernt (redundant mit Hero)
-- Bessere Mobile-Scroll-Experience
-
-### Vorherige Sitzung (28. Januar 2026)
-
-**✅ Reddit-Post veröffentlicht:**
-- AirPods Pro 3 Review → r/airpods ✅
-
-**✅ American English Konsistenz:**
-- Alle Artikel geprüft — bereits sauber
-- `Co-Worker` → `Coworker` korrigiert
-- American English Style Guide in Workflow-Regeln hinzugefügt
-
-**✅ Februar-Artikel neu terminiert:**
-- Selling 3D Prints Online: 3. Feb
-- Samsung S26 Rumors: 6. Feb
-- macOS Tahoe Tricks: 9. Feb
-
-### Vorherige Sitzung (27. Januar 2026)
-
-**✅ AI Travel Cluster komplett abgeschlossen:**
-- 16/16 Bilder erstellt und optimiert (~2.8 MB gesamt)
-- 16/16 Artikel geplant (März-Juni 2026, draft: false)
-
-**✅ AirPods Pro 3 Posts vorbereitet:**
-- Reddit-Post für r/airpods
-- Pinterest-Pin (verschoben)
-
-### Vorherige Sitzung (26. Januar 2026)
-✅ **Pagefind Search komplett überarbeitet:**
-- Breite: Desktop 200px, Mobile 150px
-- Dunkles Dropdown-Design passend zum Header-Gradient
-- Clear-Button Fix, Mobile max-height 300px
-
-✅ **Accessibility & Performance Fixes:**
-- Kontrastfarben angepasst für WCAG AA
-- Non-Blocking Fonts, Logo optimiert, Mobile Tabellen
-
-✅ **Weitere Features:**
-- ScrollToTop Button, SEO optimiert
-- AirPods Pro 3 Review erstellt (publiziert am 28. Jan)
-
-### Vorherige Sitzung (23. Januar 2026)
-✅ Alle 9 Februar-Bilder hinzugefügt und gepusht
-
-### Reddit-Posts starten! 🚀
-**5 vorbereitete Posts ab heute posten** (siehe unten bei "VORBEREITETE REDDIT-POSTS")
-- Post 1: Best Cameras → r/AskPhotography ✅ 22. Jan gepostet
-- Post 2: Kindle → r/kindle (24. Jan)
-- Post 3: Japan Guide → r/JapaneseProducts (25. Jan)
-- Post 4: DSLR vs Mirrorless → r/AskPhotography (26. Jan)
-- Post 5: ChatGPT Tutorial → r/ChatGPT (27. Jan)
+**22. Jan:** Reddit-Kampagne gestartet (Best Cameras → r/AskPhotography)
 
 ---
 
@@ -383,7 +287,7 @@ rm bildname.png
 | Japan Shopping | 3 | Aktiv |
 | Tech & Gadgets | 6 | Aktiv |
 
-### Geplante Artikel (Januar 2026)
+### Veröffentlichte Artikel (Januar 2026) ✅
 | Datum | Artikel | Kategorie |
 |-------|---------|-----------|
 | 17. Jan | How to Buy from Japan: Beginner Guide | Japan Shopping |
@@ -412,9 +316,8 @@ rm bildname.png
 |-------|---------|-----------|--------|
 | 11. März | Ray-Ban Meta Review: 3 Weeks with Smart Glasses | Tech & Gadgets | 📝 Draft |
 
-### AI Travel Planning Cluster (März-Juni 2026) - NEU!
-**Status:** ✅ Alle 16 Artikel geschrieben (Draft)
-**Noch zu tun:** Bilder erstellen (16 Stück), Publish-Dates setzen
+### AI Travel Planning Cluster (März-Juni 2026)
+**Status:** ✅ Komplett — 16 Artikel + 16 Bilder fertig, Publish-Dates gesetzt
 
 **Pillar + Core Guides (6 Artikel):**
 | Datum | Artikel | Slug |
@@ -466,24 +369,6 @@ rm bildname.png
 - Besonderheit: Zöliakie/Glutenfrei-Winkel, Grab statt Uber, Lokale SIM-Karte
 - Hotels: Sky Villa Suites, Urban Suites, The Riyaz Lavanya, The Platinum
 - Highlights: Petronas Towers, Batu Caves (Dresscode + Affen!), Penang Hill, Kek Lok Si, Jetski Tour (600 MYR), Scooter (40 MYR/Tag), Duty-Free Langkawi
-
-**Benötigte Bilder (16 Stück):**
-- `chatgpt-trip-planning-tutorial.webp`
-- `chatgpt-travel-prompts.webp`
-- `best-ai-trip-planners.webp`
-- `chatgpt-malaysia-trip.webp`
-- `ai-travel-mistakes.webp`
-- `claude-vs-chatgpt-travel.webp`
-- `free-ai-travel-tools.webp`
-- `ai-packing-list.webp`
-- `gemini-travel-planning.webp`
-- `perplexity-travel-research.webp`
-- `ai-flight-search-agent.webp`
-- `ai-southeast-asia-trip-2026.webp`
-- `ai-trip-planning-japan.webp`
-- `ai-trip-planning-vietnam.webp`
-- `ai-trip-planning-cambodia.webp`
-- `japan-vietnam-cambodia-comparison.webp`
 
 ---
 
@@ -583,123 +468,18 @@ Ausführliche Beschreibung des Artikels mit Key Insights.
 - Beste Zeit: 14-20 Uhr MEZ (US wach)
 - Auf Kommentare antworten
 
-**Bereits gepostet:**
-- ✅ 3D Printing Beginner Mistakes → r/3Dprinting (Erfolg!)
-- ✅ Best Free AI Courses → r/learnmachinelearning (Erfolg!)
-- ✅ Best Cameras Under $500 → r/AskPhotography (22. Jan)
-- ✅ ChatGPT Tutorial for Beginners → r/learnmachinelearning (27. Jan)
+**Bereits gepostet (Januar):**
+- ✅ 3D Printing Beginner Mistakes → r/3Dprinting
+- ✅ Best Free AI Courses → r/learnmachinelearning
+- ✅ Best Cameras Under $500 → r/AskPhotography
+- ✅ ChatGPT Tutorial → r/learnmachinelearning
+- ✅ AirPods Pro 3 Review → r/airpods
 
 **Nächste Posts (Februar-Content):**
 - [ ] Claude vs ChatGPT → r/ChatGPT, r/ClaudeAI
 - [ ] Perplexity AI Guide → r/perplexity_ai
 - [ ] Best AI Tools for Office → r/productivity
 - [ ] AI Meeting Assistants → r/remotework
-
----
-
-### 📋 VORBEREITETE REDDIT-POSTS (Posten ab 23. Januar 2026)
-
-**Posting-Zeitplan:**
-| # | Artikel | Subreddit | Datum |
-|---|---------|-----------|-------|
-| 1 | Best Cameras Under $500 | r/AskPhotography | ✅ 22. Jan |
-| 2 | Is a Kindle Worth It | r/kindle | 24. Jan |
-| 3 | How to Buy from Japan | r/JapaneseProducts | 25. Jan |
-| 4 | DSLR vs Mirrorless | r/AskPhotography | 26. Jan |
-| 5 | ChatGPT Tutorial | r/ChatGPT | 27. Jan |
-
-**Beste Posting-Zeit:** 15-17 Uhr MEZ (US Ostküste wach)
-
----
-
-#### Post 1: Best Cameras Under $500 → r/photography
-
-**Title:** `I put together a guide for budget cameras under $500 - would love feedback from more experienced photographers`
-
-**Body:**
-```
-Hey everyone,
-
-I've been researching budget-friendly cameras for a while and finally wrote up my findings. Focused on what's actually worth buying in 2026 for beginners who want to step up from smartphones but don't want to break the bank.
-
-Covered mirrorless, some DSLRs (used market), and a few compact options. Tried to focus on real-world value rather than just specs.
-
-Here's the guide: https://boredom-at-work.com/best-cameras-under-500/
-
-Curious what this community thinks - did I miss any hidden gems in the sub-$500 range? Always looking to learn from people with more experience.
-```
-
----
-
-#### Post 2: Is a Kindle Worth It → r/kindle
-
-**Title:** `Wrote an honest assessment of whether Kindles are still worth it in 2026 - interested in this community's take`
-
-**Body:**
-```
-I've been using a Kindle for a while and recently wrote up my honest thoughts on whether they're actually worth buying in 2026.
-
-Covered the pros (battery life, eye strain, distraction-free reading) and cons (Amazon lock-in, PDF handling, the "do I really need another device" question).
-
-Link if anyone's interested: https://boredom-at-work.com/is-kindle-worth-it/
-
-For those of you who've had Kindles for years - do you think they're still as good a value as they used to be? Or has the smartphone Kindle app caught up enough?
-```
-
----
-
-#### Post 3: How to Buy from Japan → r/JapaneseProducts
-
-**Title:** `Complete guide to buying from Japan using proxy services - took me months to figure this out`
-
-**Body:**
-```
-Finally wrote up everything I learned about importing from Japan. Proxy services like Buyee and Sendico, Yahoo Auctions Japan, Mercari JP, the whole process.
-
-Took me a while to figure out all the fees, shipping options, and which services are actually reliable. Hopefully saves someone else the learning curve.
-
-Full guide here: https://boredom-at-work.com/how-to-buy-from-japan-beginners-guide/
-
-What's been your experience? Any tips I might have missed? Always looking to learn from people who've been doing this longer.
-```
-
----
-
-#### Post 4: DSLR vs Mirrorless → r/AskPhotography
-
-**Title:** `DSLR vs Mirrorless for beginners in 2026 - wrote a comparison, curious if you agree`
-
-**Body:**
-```
-The DSLR vs mirrorless debate comes up a lot, so I wrote a detailed comparison specifically for beginners trying to decide.
-
-My take: mirrorless is the future, but used DSLRs offer insane value right now. Tried to be balanced about when each makes sense.
-
-Here's the full breakdown: https://boredom-at-work.com/dslr-vs-mirrorless-beginners/
-
-Interested in what this community thinks - for someone buying their first "real" camera in 2026, would you still recommend a DSLR? Or is mirrorless the only sensible choice now?
-```
-
----
-
-#### Post 5: ChatGPT Tutorial → r/ChatGPT
-
-**Title:** `Made a beginner's guide to ChatGPT for people who are just getting started`
-
-**Body:**
-```
-A lot of friends and coworkers have been asking me how to actually use ChatGPT effectively, so I wrote up a comprehensive beginner's guide.
-
-Covers the basics but also some prompting techniques that took me a while to figure out. Tried to make it practical rather than theoretical.
-
-Guide here: https://boredom-at-work.com/chatgpt-tutorial-beginners/
-
-For the experienced users here - what do you wish you'd known when you first started? Might update the guide based on feedback.
-```
-
----
-
-*Nach dem Posten: Status hier aktualisieren und Notiz oben löschen.*
 
 ### Pinterest-Strategie
 
@@ -718,38 +498,6 @@ For the experienced users here - what do you wish you'd known when you first sta
 - ✅ 10 3D Printing Mistakes
 - ✅ Best Cameras Under $500 (27. Jan) — https://www.pinterest.com/pin/1123014857097046894/
 - ✅ 7 Free AI Courses (27. Jan) — https://www.pinterest.com/pin/1123014857097047528/
-
-**Nächste Pins erstellen:**
-
-**Pin 2: Best Cameras Under $500**
-```
-Titel: Best Cameras Under $500 for Beginners (2026 Guide)
-
-Beschreibung:
-Looking for your first real camera? These are the best cameras under $500 for beginners in 2026. Mirrorless, DSLR, and compact options compared. Perfect for learning photography without breaking the bank.
-
-📸 Includes specs, pros/cons, and which to pick
-
-#photography #camera #beginnerphotography #cameragear #mirrorless #sonycamera #canoncamera #nikoncamera
-
-Link: https://boredom-at-work.com/best-cameras-under-500/
-Board: Photography for Beginners
-```
-
-**Pin 3: Free AI Courses**
-```
-Titel: 7 Actually Free AI Courses (No Hidden Paywalls)
-
-Beschreibung:
-Want to learn AI without spending money? These 7 courses are genuinely free - including some with free certificates. From Google AI Essentials to OpenAI Academy. Perfect for career development during lunch breaks.
-
-⏱️ All under 10 hours to complete
-
-#artificialintelligence #ai #onlinelearning #freecourses #careerdevelopment #chatgpt #machinelearning #upskilling
-
-Link: https://boredom-at-work.com/best-free-ai-courses/
-Board: Learn AI & Tech Skills
-```
 
 **Pinterest-Tipps:**
 - 3-5 Pins pro Woche (Konsistenz wichtig)
@@ -795,7 +543,7 @@ Build-Zeit: ~1-2 Minuten via GitHub Actions
 **Lösung:** Täglicher Cron-Job in `.github/workflows/deploy.yml`:
 ```yaml
 schedule:
-  - cron: '0 6 * * *'  # Täglich 6:00 UTC (7:00 MEZ / 8:00 MESZ)
+  - cron: '0 5 * * *'  # Täglich 5:00 UTC (6:00 MEZ / 7:00 MESZ)
 ```
 
 **Manueller Rebuild** (falls nötig):
@@ -856,4 +604,4 @@ Siehe `CONTENT-PROMPTS.md` für vorgefertigte Prompts:
 
 ---
 
-*Letzte Aktualisierung: 27. Januar 2026 (Travel Cluster Bilder 1/16)*
+*Letzte Aktualisierung: 2. Februar 2026*
