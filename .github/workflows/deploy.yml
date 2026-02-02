@@ -5,8 +5,8 @@ on:
     branches: [master]
   workflow_dispatch:
   schedule:
-    # Daily rebuild at 6:00 UTC (7:00 MEZ / 8:00 MESZ) for scheduled posts
-    - cron: '0 6 * * *'
+    # Daily rebuild at 5:00 UTC (6:00 MEZ / 7:00 MESZ) for scheduled posts
+    - cron: '0 5 * * *'
 
 permissions:
   contents: read
