@@ -6,31 +6,37 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 2. Februar 2026)
 
-### Letzte Sitzung (2. Februar 2026)
+### Letzte Sitzung (2. Februar 2026 - Nachmittag)
 
-**✅ Performance & Accessibility Optimierungen:**
-- A11y: Accent-alt Kontrastfarben für WCAG AA verbessert
-- Perf: Thumbnails komprimiert (claude-vs-chatgpt, airpods)
-- Perf: Doppelte Bilder entfernt, Thumbnails regeneriert
-- Perf: Große JPG/PNG zu WebP konvertiert (~4.5MB gespart)
+**✅ 5 neue Artikel geschrieben & gepusht (~14.700 Wörter):**
 
-**✅ SEO Verbesserungen:**
-- Tag-Seiten und Blog-Pagination (Seite 2+) von Sitemap ausgeschlossen
-- noindex für Tag-Seiten und Pagination hinzugefügt
-- Veraltete Model-Referenzen in Feb 3-8 Artikeln gefixt, interne Links ergänzt
+| Artikel | Datum | Bild |
+|---------|-------|------|
+| ChatGPT Plus vs Free | 5. Feb | ✅ 26 KB |
+| Google Gemini Review | 8. Feb | ✅ 30 KB |
+| ChatGPT for Excel | 10. Feb | ✅ 22 KB |
+| ChatGPT Custom Instructions | 13. Feb | ✅ 25 KB |
+| AI Presentation Makers | 16. Feb | ✅ 28 KB |
 
-**✅ Content Updates:**
-- ChatGPT Tutorial: GPT-5.2, neue Preisstufen, Sora, Codex, Web Search
-- Claude vs ChatGPT: Veraltete Infos korrigiert (Models, Web Search, neue Features)
+**✅ Topical Map erstellt:**
+- `TOPICAL-MAP-AI-PRODUCTIVITY.md` — 60+ geplante Artikel für AI/Productivity Cluster
+- Basierend auf Koray Tugberk Gübür's Topical Authority Strategie
+- 5 Pillar-Cluster definiert: AI Assistants, AI für Aufgaben, AI Tools, AI Learning, Prompt Engineering
 
-**✅ Neue Features:**
-- Focus Mode für Blog-Posts hinzugefügt
-- Table of Contents als Sticky Sidebar refactored
-- Pearcleaner Artikel + Bild hinzugefügt
+**✅ llms.txt + llms-full.txt aktualisiert** mit allen neuen Artikeln
 
 ---
 
-### Geplanter Artikel
+### Vorherige Sitzung (2. Februar 2026 - Vormittag)
+
+- A11y/Perf Optimierungen, SEO Fixes
+- Content Updates (ChatGPT Tutorial, Claude vs ChatGPT)
+- Focus Mode + Sticky ToC
+- CLAUDE.md auf aktuellen Stand gebracht
+
+---
+
+### Geplanter Artikel (Draft)
 
 **Ray-Ban Meta Review:**
 - Datum: 11. März 2026
