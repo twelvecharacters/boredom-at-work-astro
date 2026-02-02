@@ -129,6 +129,18 @@ Practical guide to using ChatGPT for Excel tasks. Covers formula writing, data a
 - Creates VBA macros for automation
 - Better for learning and complex formulas; use Copilot for live Excel integration
 
+### ChatGPT Custom Instructions
+**URL:** https://boredom-at-work.com/chatgpt-custom-instructions/
+**Reading Time:** 12 minutes
+
+Complete guide to setting up ChatGPT custom instructions for better responses in every conversation. Includes copy-paste templates for different use cases.
+
+**Key insights:**
+- Two fields: "About you" (context) and "Response style" (format preferences)
+- Available on both Free and Plus tiers
+- Set once, benefit in every conversation
+- Templates included for: office workers, developers, writers, students, founders
+
 ### Perplexity AI Guide
 **URL:** https://boredom-at-work.com/perplexity-ai-guide/
 **Reading Time:** 12 minutes
