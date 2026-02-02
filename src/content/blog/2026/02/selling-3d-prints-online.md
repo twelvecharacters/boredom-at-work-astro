@@ -15,25 +15,25 @@ faq:
     answer: "Etsy is the gold standard for physical 3D prints due to its high traffic of people looking for unique, handmade items. For digital files (STL), Cults3D and MyMiniFactory are the better choices."
 ---
 
-So, you’ve mastered your printer. Your desk is covered in perfectly calibrated test cubes, and your family has enough 3D-printed vases to open a florist shop. Now, you’re sitting at work, staring at your computer screen, and thinking: *\"Could I actually make money doing this?\"*
+So, you've [mastered your printer](/3d-printing-beginners-guide/). Your desk is covered in perfectly calibrated test cubes, and your family has enough 3D-printed vases to open a florist shop. Now, you're sitting at work, staring at your computer screen, and thinking: *\"Could I actually make money doing this?\"*
 
 The short answer is: **Yes.**
 
-The long answer is that selling 3D prints is a real business, and like any business, it requires more than just hitting 'print'. But if you’re looking for a productive way to spend your office downtime, researching and setting up your online shop is the perfect pivot.
+The long answer is that selling 3D prints is a real business, and like any business, it requires more than just hitting 'print'. But if you're looking for a productive way to spend your office downtime, researching and setting up your online shop is the perfect pivot.
 
-In this guide, we’re going to walk through how to build a 3D printing side hustle from your desk, covering everything from platform selection to the scary legal stuff.
+In this guide, we're going to walk through how to build a 3D printing side hustle from your desk, covering everything from platform selection to the scary legal stuff.
 
 ## The Business Model: Physical vs. Digital
 
-Before you open a shop, you need to decide what you’re selling.
+Before you open a shop, you need to decide what you're selling.
 
 ### 1. Selling Physical Prints
 This is what most people think of. You print a physical object, box it up, and ship it to a customer.
-- **The Good:** Higher price points; you’re selling a finished product.
+- **The Good:** Higher price points; you're selling a finished product.
 - **The Bad:** You have to handle shipping, inventory, and machine maintenance.
 
 ### 2. Selling Digital Files (STL)
-If you’ve Mastered CAD (check out our [CAD software guide](/cad-software-3d-printing/)), you can sell the files themselves.
+If you've Mastered CAD (check out our [CAD software guide](/cad-software-3d-printing/)), you can sell the files themselves.
 - **The Good:** Passive income. Upload once, sell a thousand times. No shipping!
 - **The Bad:** You need to be a skilled designer.
 
@@ -59,6 +59,8 @@ The biggest mistake new sellers make is trying to sell everything. You can't com
 - **Photography & Video Gear:** Replacement parts, lens hood caps, or custom rig mounts.
 - **Home Organization:** Custom shelf brackets or specific kitchen gadgets.
 - **Replacement Parts:** Obscure knobs or handles for vintage appliances.
+
+Not sure where to start? Check out our list of [things to 3D print first](/what-to-3d-print-first/) for inspiration.
 
 ### Research Task: The 15-Minute "Bored at Work" Niche Hunt
 Open Etsy in a private tab. Search for "3D printed [your hobby]". Look for shops with high sales and low review counts (this indicates a trending niche).
@@ -107,7 +109,7 @@ If you're starting this at work, efficiency is your best friend. You can't be se
 Once you hit 5-10 orders a week, you'll reach a bottleneck. A single hobbyist printer can only produce so much plastic per day.
 
 ### The Expansion Roadmap:
-1. **The Second Machine:** Don't buy a different model. Buy an identical one. This means you only need one set of spare parts and one set of slicer settings.
+1. **The Second Machine:** Don't buy a different model. Buy an identical one. This means you only need one set of spare parts and one set of slicer settings. (See our [best 3D printers under $300](/best-3d-printers-under-300/) for recommendations.)
 2. **Dedicated Post-Processing Area:** Setup a station for removing supports, sanding, and packing.
 3. **Automated Shipping:** Use thermal label printers to save time and money.
 

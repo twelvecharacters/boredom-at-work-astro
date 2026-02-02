@@ -70,7 +70,7 @@ The key innovation: Perplexity doesn't just retrieve information — it understa
 | Pro searches (deeper research) | ~5/day | Unlimited |
 | File uploads | No | Yes |
 | Image uploads | Limited | Yes |
-| AI model choice | Default | GPT-4, Claude, etc. |
+| AI model choice | Default | GPT-5.2, Claude 4.5, etc. |
 | API access | No | Yes |
 
 **Is Pro worth it?**
