@@ -23,6 +23,7 @@ Guides for learning AI skills and earning certifications during work hours.
 - [Claude vs ChatGPT](https://boredom-at-work.com/claude-vs-chatgpt/): AI assistant comparison guide
 - [ChatGPT Plus vs Free](https://boredom-at-work.com/chatgpt-plus-vs-free/): Is $20/month worth it? Honest comparison
 - [Google Gemini Review](https://boredom-at-work.com/google-gemini-review/): Is it better than ChatGPT? Honest review
+- [ChatGPT for Excel](https://boredom-at-work.com/chatgpt-for-excel/): Write formulas, analyze data, automate tasks
 - [Perplexity AI Guide](https://boredom-at-work.com/perplexity-ai-guide/): AI-powered search engine for research
 - [Best AI Tools for Office Work](https://boredom-at-work.com/best-ai-tools-office-work/): Curated productivity tools for work
 - [Microsoft Copilot Review](https://boredom-at-work.com/microsoft-copilot-review/): Is $30/month worth it?

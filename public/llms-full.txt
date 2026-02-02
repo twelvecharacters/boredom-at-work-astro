@@ -117,6 +117,18 @@ Comprehensive review of Google Gemini after months of daily use. Covers strength
 - Free tier is generous; Advanced ($20/month) includes 2TB Google One storage
 - Best for Google power users; not a full ChatGPT replacement for most people
 
+### ChatGPT for Excel
+**URL:** https://boredom-at-work.com/chatgpt-for-excel/
+**Reading Time:** 12 minutes
+
+Practical guide to using ChatGPT for Excel tasks. Covers formula writing, data analysis, VBA macros, and real-world examples.
+
+**Key insights:**
+- ChatGPT writes Excel formulas from plain English descriptions
+- Upload spreadsheets (Plus) or describe structure for formula help
+- Creates VBA macros for automation
+- Better for learning and complex formulas; use Copilot for live Excel integration
+
 ### Perplexity AI Guide
 **URL:** https://boredom-at-work.com/perplexity-ai-guide/
 **Reading Time:** 12 minutes
