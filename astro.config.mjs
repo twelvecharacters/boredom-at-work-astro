@@ -12,5 +12,13 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
 
-  integrations: [sitemap()]
+  integrations: [
+    sitemap({
+      filter: (page) => 
+        // Exclude tag pages
+        !page.includes('/tags/') && 
+        // Exclude paginated blog pages (keep /blog/ but not /blog/2/, /blog/3/, etc.)
+        !/\/blog\/\d+\/?$/.test(page)
+    })
+  ]
 });
