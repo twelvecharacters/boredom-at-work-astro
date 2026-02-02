@@ -141,6 +141,18 @@ Complete guide to setting up ChatGPT custom instructions for better responses in
 - Set once, benefit in every conversation
 - Templates included for: office workers, developers, writers, students, founders
 
+### AI Presentation Makers
+**URL:** https://boredom-at-work.com/ai-presentation-makers/
+**Reading Time:** 14 minutes
+
+Comprehensive comparison of AI presentation tools. Tests Gamma, Beautiful.ai, Tome, Canva, PowerPoint Copilot, and more with the same prompt.
+
+**Key insights:**
+- Gamma is best overall (fast, beautiful, generous free tier)
+- Beautiful.ai is best for teams needing brand consistency
+- Tome excels at storytelling and non-traditional formats
+- PowerPoint + Copilot works if you must stay in Microsoft
+
 ### Perplexity AI Guide
 **URL:** https://boredom-at-work.com/perplexity-ai-guide/
 **Reading Time:** 12 minutes
