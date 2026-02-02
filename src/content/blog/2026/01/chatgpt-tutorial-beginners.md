@@ -3,6 +3,7 @@ title: "ChatGPT Tutorial for Complete Beginners (2026 Guide)"
 slug: "chatgpt-tutorial-beginners"
 description: "Learn how to use ChatGPT effectively with this comprehensive beginner's guide. From basic prompts to advanced techniques, master AI in your work hours."
 publishDate: 2026-01-05
+updatedDate: 2026-02-02
 author: "bored chap"
 image: "/images/chatgpt.jpg"
 tags: ["ChatGPT", "AI", "Tutorial", "Beginners"]
@@ -10,7 +11,7 @@ draft: false
 tldr: "Free to use, saves hours daily on emails, research, and brainstorming. The trick: better prompts = better answers. You can learn the basics in 30 minutes."
 faq:
   - question: "Is ChatGPT free?"
-    answer: "Yes, the basic version is free. ChatGPT Plus costs $20/month and offers faster responses, priority access, and additional features."
+    answer: "Yes, the basic version is free. ChatGPT Plus costs $20/month and offers faster responses, priority access, and additional features like Sora video generation."
   - question: "Is ChatGPT safe to use?"
     answer: "Generally yes, but be mindful of what you share. Don't input confidential or sensitive information. Review OpenAI's privacy policy for details."
   - question: "Can ChatGPT replace my job?"
@@ -33,42 +34,48 @@ ChatGPT is an AI chatbot created by OpenAI. You type messages, and it responds w
 
 ### How It Works (Simple Version)
 
-ChatGPT was trained on massive amounts of text from the internet—books, articles, websites, and more. It learned patterns in language, facts about the world, and how to structure responses.
+ChatGPT is powered by GPT-5.2, OpenAI's latest large language model. It was trained on massive amounts of text from the internet—books, articles, websites, and more. It learned patterns in language, facts about the world, and how to structure responses.
 
-When you ask it something, it's not searching the internet in real-time (unless you enable browsing). Instead, it's generating a response based on patterns it learned during training.
+When you ask it something, it can either generate a response based on its training or search the web for current information. You can also enable features like image generation, video creation, and deep research.
 
 ### What ChatGPT Can Do
 
 - **Write content** - Emails, reports, social media posts, articles, cover letters
 - **Answer questions** - Explain concepts, provide information, offer perspectives
+- **Search the web** - Find current information, news, and real-time data
 - **Analyze text** - Summarize documents, extract key points, identify themes
 - **Brainstorm ideas** - Generate options, explore possibilities, think creatively
-- **Help with code** - Write, explain, debug, and optimize code
+- **Help with code** - Write, explain, debug, and optimize code (Codex agent)
+- **Generate images** - Create images with DALL-E
+- **Generate videos** - Create short videos with Sora
+- **Deep research** - Agent mode for complex research tasks
 - **Assist with math** - Solve problems, explain concepts, check work
 - **Translate languages** - Convert text between languages
 - **Role-play scenarios** - Practice conversations, explore perspectives
 
 ### What ChatGPT Cannot Do
 
-- **Access real-time information** - Without browsing enabled, its knowledge has a cutoff date
-- **Remember past conversations** - Each new chat starts fresh (unless you use memory features)
-- **Replace human judgment** - It can make mistakes, especially on recent events or specialized topics
-- **Access your files or systems** - Unless you specifically upload something
 - **Be 100% accurate** - Always verify important information
+- **Replace human judgment** - It can make mistakes, especially on specialized topics
+- **Access your local files** - Unless you specifically upload something
+- **Remember everything forever** - Memory has limits, though it's much better now
 
-### Free vs Plus vs Team
+### ChatGPT Plans Compared
 
-| Feature | Free | Plus ($20/mo) | Team ($25/user/mo) |
-|---------|------|---------------|-------------------|
-| GPT-4o access | Limited | Full | Full |
-| Response speed | Standard | Faster | Faster |
-| Peak time access | May be limited | Priority | Priority |
-| Image generation | Limited | Yes (DALL-E 3) | Yes |
-| Custom GPTs | Limited | Full access | Full access |
-| File uploads | Limited | More | More |
-| Admin controls | No | No | Yes |
+| Feature | Free | Go | Plus ($20/mo) | Pro ($200/mo) |
+|---------|------|-----|---------------|---------------|
+| GPT-5.2 access | Limited | Expanded | Full | Unlimited |
+| Response speed | Standard | Faster | Fast | Fastest |
+| Web search | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes |
+| Image generation (DALL-E) | Limited | More | Expanded | Unlimited |
+| Video generation (Sora) | ❌ No | ❌ No | ✅ Yes | ✅ Expanded |
+| Deep research / Agent mode | Limited | Limited | Expanded | Maximum |
+| Codex (coding agent) | ❌ No | ❌ No | ✅ Yes | ✅ Priority |
+| Memory | Limited | Longer | Expanded | Maximum |
+| Custom GPTs | Limited | Limited | Full access | Full access |
+| File uploads | Limited | More | More | Unlimited |
 
-For most people, the free version is enough to get started. Upgrade to Plus if you use it heavily every day.
+For most people, the free version is enough to get started. **Go** is a new mid-tier for casual users who want more access. Upgrade to **Plus** if you use it heavily every day and want image/video generation. **Pro** is for power users who need unlimited access.
 
 ## Getting Started
 
@@ -76,7 +83,7 @@ Let's get you set up and running.
 
 ### Step 1: Create an Account
 
-1. Go to [chat.openai.com](https://chat.openai.com)
+1. Go to [chatgpt.com](https://chatgpt.com)
 2. Click "Sign up"
 3. Enter your email or sign in with Google/Microsoft/Apple
 4. Verify your email if required
@@ -92,9 +99,10 @@ When you log in, you'll see:
 - **Message box** - Where you type your prompts (at the bottom)
 - **New chat button** - Start a fresh conversation (top left)
 - **Chat history** - Your previous conversations (left sidebar)
-- **Model selector** - Choose between GPT-4o, GPT-4, etc. (top of chat)
+- **Model selector** - Choose between GPT-5.2 modes (top of chat)
 - **Attach button** - Upload files or images (in message box)
 - **Voice button** - Use voice input (in message box)
+- **Search toggle** - Enable/disable web search
 
 ### Step 3: Your First Conversation
 
@@ -279,8 +287,10 @@ Turn these bullet points into a professional weekly status report:
 
 ### 9. Research Topics Quickly
 
+Use the web search feature for current information:
+
 ```
-Give me a balanced overview of the pros and cons of remote work policies. Include perspectives from both employees and employers.
+Search for the latest trends in remote work policies for 2026. Give me a balanced overview of pros and cons from both employee and employer perspectives.
 ```
 
 ### 10. Create Excel Formulas
@@ -290,6 +300,34 @@ Even if you're not technical, you can get formulas explained or written:
 ```
 Write an Excel formula that looks up a product name in column A and returns the corresponding price from column B
 ```
+
+## New Features Worth Trying
+
+ChatGPT has evolved significantly. Here are features you should explore:
+
+### Web Search
+ChatGPT can now search the web in real-time. Just ask about current events, recent news, or anything that needs up-to-date information. It's available even in the free tier.
+
+### Image Generation (DALL-E)
+Ask ChatGPT to create images:
+```
+Create an image of a cozy home office with plants, natural light, and a minimalist desk setup
+```
+
+### Video Generation (Sora)
+Plus and Pro users can generate short videos:
+```
+Create a 5-second video of a coffee cup with steam rising, morning sunlight
+```
+
+### Deep Research Mode
+For complex research tasks, use the deep research / agent mode. ChatGPT will search multiple sources, synthesize information, and provide comprehensive answers.
+
+### Codex (Coding Agent)
+For coding tasks, the Codex agent can help write, debug, and explain code across many programming languages.
+
+### Memory
+ChatGPT now remembers context across conversations. It learns your preferences, writing style, and common tasks over time. You can manage what it remembers in Settings.
 
 ## Common Mistakes Beginners Make
 
@@ -309,7 +347,7 @@ Treat the first output as a draft. Ask for revisions, request changes, and itera
 
 ### Not Fact-Checking
 
-ChatGPT can be wrong, especially about recent events, statistics, or specialized topics. Always verify important information from authoritative sources.
+ChatGPT can be wrong, especially about statistics or specialized topics. Always verify important information from authoritative sources—even when it uses web search.
 
 ### Sharing Sensitive Information
 
@@ -326,13 +364,13 @@ Be smart about what you share:
 **What OpenAI does with your data:**
 - Conversations may be reviewed to improve the service
 - You can opt out of data training in settings
-- Enterprise and Team plans have stronger privacy guarantees
+- Business and Enterprise plans have stronger privacy guarantees
 
 **Best practices:**
 - Don't input confidential business information
 - Avoid sharing personal details (SSN, financial info, etc.)
 - Don't paste passwords or credentials
-- For sensitive work, consider ChatGPT Team or Enterprise
+- For sensitive work, consider ChatGPT Business or Enterprise
 - Use the temporary chat feature for private queries
 
 **To opt out of training:**
@@ -362,11 +400,11 @@ GPTs are specialized versions of ChatGPT built for specific tasks. Browse the GP
 ### Try Other AI Tools
 
 ChatGPT isn't the only option:
-- **Claude** - Anthropic's AI, known for nuanced responses
+- **Claude** - Anthropic's AI, known for nuanced writing and analysis
 - **Gemini** - Google's AI, integrated with Google services
 - **Copilot** - Microsoft's AI, built into Office products
 
-Each has strengths. Experiment to find what works for you.
+Each has strengths. For a detailed comparison, check out our [Claude vs ChatGPT guide](/claude-vs-chatgpt/).
 
 ### Take a Structured Course
 
@@ -381,7 +419,7 @@ For more options, browse our guide to the [best AI courses on Coursera](/best-ai
 
 ### Is ChatGPT free?
 
-Yes, the basic version is free. ChatGPT Plus costs $20/month and offers faster responses, priority access, and additional features.
+Yes, the basic version is free and includes web search. ChatGPT Plus costs $20/month and adds image/video generation, Codex, and expanded access. Pro at $200/month offers unlimited usage.
 
 ### Is ChatGPT safe to use?
 
@@ -393,7 +431,7 @@ Unlikely. ChatGPT is a tool that makes you more productive, not a replacement fo
 
 ### How accurate is ChatGPT?
 
-It's quite good but not perfect. It can make mistakes, especially with recent events, statistics, and specialized topics. Always verify important information.
+It's quite good but not perfect. It can make mistakes, especially with statistics and specialized topics. Always verify important information—even when it cites sources from web search.
 
 ### Can my employer see my ChatGPT history?
 
@@ -410,7 +448,7 @@ Some companies have explicit AI policies. Some ban it for security reasons. Some
 When in doubt:
 - Use ChatGPT for general tasks, not sensitive data
 - Don't paste client names, financials, or proprietary code
-- Consider ChatGPT Enterprise if your company offers it (data stays private)
+- Consider ChatGPT Business if your company offers it (data stays private)
 
 **The Disclosure Question**
 
@@ -427,7 +465,7 @@ AI makes easy things faster. It doesn't replace thinking. Use it as a first draf
 
 **The Productivity Illusion**
 
-Using AI to write faster doesn't help if you spend the saved time on Twitter. The goal is better work, not just faster work.
+Using AI to write faster doesn't help if you spend the saved time scrolling social media. The goal is better work, not just faster work.
 
 ## Start Using It Today
 
@@ -438,10 +476,12 @@ Here's your homework:
 1. Try the 5 sample prompts above
 2. Use ChatGPT for one real work task today
 3. Practice iterating—ask for revisions until you're happy
-4. Explore one feature you haven't tried yet
+4. Explore one new feature (web search, image generation, or deep research)
 
 In a week of regular use, you'll wonder how you worked without it.
 
 ---
+
+*Last updated: February 2026*
 
 *Ready to take your AI skills further? Check out our guide to the [best free AI courses](/best-free-ai-courses/) you can take at work.*
