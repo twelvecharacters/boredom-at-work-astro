@@ -4,7 +4,7 @@ slug: "camera-vs-smartphone"
 description: "Should you buy a camera when your smartphone takes great photos? We compare image quality, features, and real-world use cases to help you decide."
 publishDate: 2026-01-03
 author: "bored chap"
-image: "/images/camera-vs-smartphone.jpg"
+image: "/images/camera-vs-smartphone.webp"
 tags: ["Photography", "Cameras", "Smartphones", "Buying Guide"]
 draft: false
 faq:

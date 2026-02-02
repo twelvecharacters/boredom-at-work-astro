@@ -4,7 +4,7 @@ slug: "beginner-photography-mistakes"
 description: "Avoid the most common beginner photography mistakes that ruin your photos. Learn practical fixes for blurry images, bad composition, and exposure problems."
 publishDate: 2025-12-28
 author: "bored chap"
-image: "/images/photography-mistakes.jpg"
+image: "/images/photography-mistakes.webp"
 tags: ["Photography", "Beginners", "Tips", "Mistakes", "Tutorial"]
 draft: false
 faq:

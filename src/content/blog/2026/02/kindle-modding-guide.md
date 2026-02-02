@@ -4,7 +4,7 @@ slug: "kindle-modding-guide"
 description: "Ready to take your Kindle to the next level? From jailbreaking to installing KOReader, here is everything you need to know about Kindle modding."
 publishDate: 2026-02-18
 author: "bored chap"
-image: "/images/kindle-modding-guide.png"
+image: "/images/kindle-modding-guide.webp"
 tags: ["Tech & Gadgets", "Kindle", "Modding", "Jailbreak", "E-Reader"]
 draft: false
 faq:
