@@ -350,6 +350,22 @@ Practical guide to using AI for email writing. Includes templates, prompts, and 
 
 **Key insight:** AI drafts emails, you make them yours. Always add specific details, vary sentence length, and remove "AI-isms" before sending.
 
+### Best AI PDF Summarizers
+**URL:** https://boredom-at-work.com/ai-pdf-summarizers/
+**Reading Time:** 12 minutes
+
+Comprehensive guide to AI tools for summarizing PDFs and long documents. Upload a 100-page report, get key insights in seconds.
+
+**Tools compared:**
+1. ChatGPT — Best all-rounder
+2. Claude — Best for long documents (200K tokens)
+3. NotebookLM — Best for research (free, multi-doc)
+4. ChatPDF — Best dedicated PDF tool
+5. Humata — Best for heavy users
+6. Gemini — Best for Google users
+
+**Key insight:** For most people, ChatGPT or Claude's free tier works great. For academic research across multiple documents, NotebookLM is free and purpose-built.
+
 ### Best AI Chrome Extensions
 **URL:** https://boredom-at-work.com/best-ai-chrome-extensions/
 **Reading Time:** 14 minutes
