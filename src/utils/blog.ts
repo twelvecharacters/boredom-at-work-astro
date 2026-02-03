@@ -6,9 +6,13 @@ import { getCollection } from 'astro:content';
  */
 export async function getPublishedPosts() {
   const isDev = import.meta.env.DEV;
+  // Get today's date at midnight UTC for consistent comparison
+  const today = new Date();
+  today.setUTCHours(23, 59, 59, 999); // End of today UTC = include all of today
+  
   const allPosts = await getCollection('blog', ({ data }) => {
     const isNotDraft = !data.draft;
-    const isPublished = isDev || data.publishDate <= new Date();
+    const isPublished = isDev || data.publishDate <= today;
     return isNotDraft && isPublished;
   });
 
