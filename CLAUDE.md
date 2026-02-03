@@ -6,7 +6,37 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 3. Februar 2026)
 
-### Letzte Sitzung (3. Februar 2026)
+### Letzte Sitzung (3. Februar 2026 - Nachmittag)
+
+**✅ AI Cluster Phase 2 komplett — 8 Artikel (~28.200 Wörter):**
+
+| Artikel | Datum | Bild |
+|---------|-------|------|
+| AI Tools Guide (Hub) ⭐ | 4. März | ✅ 127 KB |
+| Learn AI Guide (Hub) ⭐ | 7. März | ✅ 105 KB |
+| ChatGPT Mastery Guide (Hub) ⭐ | 10. März | ✅ 42 KB |
+| Claude AI Review | 12. März | ✅ 93 KB |
+| ChatGPT Alternatives | 14. März | ✅ 40 KB |
+| AI for Email Writing | 16. März | ✅ 75 KB |
+| AI PDF Summarizers | 18. März | ✅ 73 KB |
+| Copilot Word Tutorial | 20. März | ✅ 97 KB |
+
+**Alle 3 Pillar Pages für AI Cluster sind jetzt fertig.**
+
+**✅ Publish-Dates angepasst:**
+- ChatGPT Plus vs Free: 5. Feb → **4. Feb**
+- Google Gemini Review: 8. Feb → **7. Feb**
+- Best Free macOS Apps: 12. Feb → **25. Feb**
+- AI Travel Planning Guide: 1. März → **28. Feb**
+
+**Nächste Session (4. Feb 10:30):** 3D Printing Cluster Phase 2
+- How Long Does 3D Printing Take?
+- Best 3D Printers Under $200
+- Resin 3D Printing for Beginners
+
+---
+
+### Vorherige Sitzung (3. Februar 2026 - Vormittag)
 
 **✅ 3D Printing Cluster Phase 1 komplett (~10.600 Wörter):**
 
@@ -18,34 +48,25 @@
 | Best Sites for Free 3D Models | 27. Feb | ✅ |
 | FDM vs Resin Printing | 2. März | ✅ |
 
-**✅ Build-Logik Fix für publishDate:**
-- Problem: Artikel mit heutigem `publishDate` wurden nicht angezeigt (UTC-Zeitzone-Problem bei GitHub Actions Build)
-- Lösung: `src/utils/blog.ts` → Vergleich jetzt mit Ende des Tages UTC (`23:59:59.999`)
-- Artikel mit heutigem Datum werden jetzt sofort angezeigt
+**✅ Build-Logik Fix für publishDate**
 
-**✅ Artikel live:**
-- `selling-3d-prints-online.md` — 3. Feb 2026
+**✅ Artikel live:** `selling-3d-prints-online.md` — 3. Feb 2026
 
 ---
 
-### Vorherige Sitzung (2. Februar 2026 - Nachmittag)
+### Sitzung (2. Februar 2026)
 
 **✅ 5 neue Artikel geschrieben & gepusht (~14.700 Wörter):**
 
 | Artikel | Datum | Bild |
 |---------|-------|------|
-| ChatGPT Plus vs Free | 5. Feb | ✅ 26 KB |
-| Google Gemini Review | 8. Feb | ✅ 30 KB |
-| ChatGPT for Excel | 10. Feb | ✅ 22 KB |
-| ChatGPT Custom Instructions | 13. Feb | ✅ 25 KB |
-| AI Presentation Makers | 16. Feb | ✅ 28 KB |
+| ChatGPT Plus vs Free | 4. Feb | ✅ |
+| Google Gemini Review | 7. Feb | ✅ |
+| ChatGPT for Excel | 10. Feb | ✅ |
+| ChatGPT Custom Instructions | 13. Feb | ✅ |
+| AI Presentation Makers | 16. Feb | ✅ |
 
-**✅ Topical Map erstellt:**
-- `TOPICAL-MAP-AI-PRODUCTIVITY.md` — 60+ geplante Artikel für AI/Productivity Cluster
-- Basierend auf Koray Tugberk Gübür's Topical Authority Strategie
-- 5 Pillar-Cluster definiert: AI Assistants, AI für Aufgaben, AI Tools, AI Learning, Prompt Engineering
-
-**✅ llms.txt + llms-full.txt aktualisiert** mit allen neuen Artikeln
+**✅ Topical Map erstellt:** `TOPICAL-MAP-AI-PRODUCTIVITY.md`
 
 ---
 
