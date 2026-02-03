@@ -4,7 +4,7 @@ slug: "pla-vs-petg-vs-abs"
 description: "Confused about filament types? We compare PLA, PETG, and ABS for strength, ease of use, and best applications to help you choose the right material."
 publishDate: 2026-02-19
 author: "bored chap"
-image: "/images/pla-vs-petg-vs-abs.webp"  # TODO: Generate image
+image: "/images/pla-vs-petg-vs-abs.webp"
 tags: ["3D Printing", "Filament", "PLA", "PETG", "ABS", "Comparison"]
 faq:
   - question: "Which filament is best for beginners?"
