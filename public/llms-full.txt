@@ -66,6 +66,26 @@ Step-by-step guide to learning AI from absolute beginner to job-ready skills. Co
 
 ---
 
+### ⭐ ChatGPT Mastery: Everything You Need to Know (Hub Page)
+**URL:** https://boredom-at-work.com/chatgpt-guide/
+**Reading Time:** 25 minutes
+
+The complete ChatGPT guide covering everything from first conversation to advanced workflows. Includes prompting techniques, Custom Instructions, file handling, image generation, and real-world use cases.
+
+**Parts covered:**
+1. Getting Started (accounts, first conversation)
+2. Understanding Models (GPT-4o, o1, Free vs Plus)
+3. Core Skills (prompts, Custom Instructions, files, images, voice)
+4. Real-World Workflows (emails, research, meetings, content, data)
+5. Advanced Techniques (chain-of-thought, role prompting, few-shot)
+6. Custom GPTs
+7. ChatGPT vs Alternatives
+8. Common Mistakes
+
+**Key insight:** Most people barely scratch the surface. Better prompts + Custom Instructions + iteration = 10x better results.
+
+---
+
 ### Best Free AI Courses You Can Take at Work
 **URL:** https://boredom-at-work.com/best-free-ai-courses/
 **Reading Time:** 12 minutes

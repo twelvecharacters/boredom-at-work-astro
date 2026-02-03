@@ -15,6 +15,7 @@ Guides for learning AI skills and earning certifications during work hours.
 
 - [**AI Tools Guide (Hub)**](https://boredom-at-work.com/ai-tools-guide/): Complete guide to AI tools for work — ChatGPT, Claude, Gemini, Copilot and more
 - [**Learn AI Guide (Hub)**](https://boredom-at-work.com/learn-ai-guide/): Step-by-step roadmap to learn AI in 2026 — from beginner to job-ready
+- [**ChatGPT Mastery Guide (Hub)**](https://boredom-at-work.com/chatgpt-guide/): Everything about ChatGPT — prompts, custom instructions, workflows, tips
 - [Best Free AI Courses](https://boredom-at-work.com/best-free-ai-courses/): Curated list of free AI courses you can take discreetly at work
 - [Google AI Essentials Review](https://boredom-at-work.com/google-ai-essentials-review/): In-depth review of Google's AI certification
 - [Best AI Courses on Coursera](https://boredom-at-work.com/best-ai-courses-coursera/): Top Coursera courses for AI learning
