@@ -34,6 +34,7 @@ Guides for learning AI skills and earning certifications during work hours.
 - [Perplexity AI Guide](https://boredom-at-work.com/perplexity-ai-guide/): AI-powered search engine for research
 - [Best AI Tools for Office Work](https://boredom-at-work.com/best-ai-tools-office-work/): Curated productivity tools for work
 - [Microsoft Copilot Review](https://boredom-at-work.com/microsoft-copilot-review/): Is $30/month worth it?
+- [Copilot in Word Tutorial](https://boredom-at-work.com/copilot-word-tutorial/): Complete guide to AI writing in Microsoft Word
 - [AI Meeting Assistants](https://boredom-at-work.com/ai-meeting-assistants/): Otter, Fireflies, Granola compared
 - [Notion AI vs Obsidian AI](https://boredom-at-work.com/notion-ai-vs-obsidian-ai/): Note-taking apps with AI compared
 - [How to Use AI at Work Safely](https://boredom-at-work.com/how-to-use-ai-at-work-safely/): Policies, privacy, and best practices

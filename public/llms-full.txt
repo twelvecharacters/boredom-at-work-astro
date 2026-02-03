@@ -281,6 +281,22 @@ Honest review of Microsoft 365 Copilot after months of daily use. Covers pricing
 - Worth it for heavy Microsoft 365 users whose company pays
 - Rating: 3.5/5 stars — useful but not transformative
 
+### Copilot in Word Tutorial
+**URL:** https://boredom-at-work.com/copilot-word-tutorial/
+**Reading Time:** 11 minutes
+
+Complete tutorial for using Microsoft Copilot directly in Word. From drafting documents to rewriting sections—everything you need to use AI within Microsoft Word.
+
+**Features covered:**
+- Draft new content from prompts
+- Rewrite and improve existing text
+- Summarize long documents
+- Chat about your document
+- Change tone (formal/casual)
+- Generate tables
+
+**Key insight:** Use Copilot for quick edits and drafts within Word, but use Claude or ChatGPT when writing quality matters most. Many power users use both.
+
 ### AI Meeting Assistants
 **URL:** https://boredom-at-work.com/ai-meeting-assistants/
 **Reading Time:** 14 minutes
