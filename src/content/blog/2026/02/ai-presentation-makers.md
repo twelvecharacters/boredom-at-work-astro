@@ -457,13 +457,10 @@ The best AI presentation maker is the one you'll actually use. Try the free tier
 
 ---
 
-## Related Guides
+## Related Articles
 
-- **AI for work:** [Best AI Tools for Office Work](/best-ai-tools-office-work/)
-- **Spreadsheets:** [ChatGPT for Excel](/chatgpt-for-excel/)
-- **Note-taking:** [Notion AI vs Obsidian AI](/notion-ai-vs-obsidian-ai/)
-- **Compare assistants:** [Claude vs ChatGPT](/claude-vs-chatgpt/)
-
----
-
-*Last updated: February 2026*
+- [AI Tools Guide](/ai-tools-guide/) — Complete hub for all AI tools
+- [Copilot in Word Tutorial](/copilot-word-tutorial/) — AI in Microsoft Office
+- [Best AI Tools for Office Work](/best-ai-tools-office-work/) — Curated productivity tools
+- [ChatGPT for Excel](/chatgpt-for-excel/) — AI for spreadsheets
+- [How to Learn AI in 2026](/learn-ai-guide/) — Your complete AI learning roadmap

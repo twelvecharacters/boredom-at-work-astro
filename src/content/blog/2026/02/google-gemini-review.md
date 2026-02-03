@@ -420,13 +420,10 @@ Gemini isn't going to replace ChatGPT for most people. But it's absolutely worth
 
 ---
 
-## Related Guides
+## Related Articles
 
-- **Compare options:** [Claude vs ChatGPT](/claude-vs-chatgpt/)
-- **Upgrade decision:** [ChatGPT Plus vs Free](/chatgpt-plus-vs-free/)
-- **Research focused:** [Perplexity AI Guide](/perplexity-ai-guide/)
-- **All AI tools:** [Best AI Tools for Office Work](/best-ai-tools-office-work/)
-
----
-
-*Last updated: February 2026*
+- [AI Tools Guide](/ai-tools-guide/) — Complete guide to all AI tools for work
+- [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything about ChatGPT
+- [Claude vs ChatGPT](/claude-vs-chatgpt/) — Head-to-head comparison
+- [ChatGPT Alternatives](/chatgpt-alternatives/) — 10 options compared
+- [Best AI Tools for Office Work](/best-ai-tools-office-work/) — Curated productivity tools

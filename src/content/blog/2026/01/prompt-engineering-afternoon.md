@@ -422,8 +422,12 @@ The templates in this guide will handle most professional use cases. Copy them, 
 
 By tonight, you'll be measurably better at getting value from AI. That's prompt engineering in one afternoon.
 
-Ready to go deeper? See our guide to [AI skills that will get you promoted](/ai-skills-for-promotion/) for how to turn these skills into career advancement.
-
 ---
 
-*New to ChatGPT? Check out our [complete ChatGPT tutorial for beginners](/chatgpt-tutorial-beginners/) before diving into prompt engineering.*
+## Related Articles
+
+- [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything you need to know about ChatGPT
+- [How to Learn AI in 2026](/learn-ai-guide/) — Your complete AI learning roadmap
+- [ChatGPT Tutorial for Beginners](/chatgpt-tutorial-beginners/) — Start here if you're new
+- [ChatGPT Custom Instructions](/chatgpt-custom-instructions/) — Set up once, get better responses
+- [AI Skills That Will Get You Promoted](/ai-skills-for-promotion/) — Turn skills into career growth

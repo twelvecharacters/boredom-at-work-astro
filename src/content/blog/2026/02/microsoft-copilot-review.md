@@ -325,4 +325,10 @@ Good enough to use daily, not good enough to be transformative. Microsoft has bu
 
 ---
 
-Looking for alternatives? Check out our [Best AI Tools for Office Work](/best-ai-tools-office-work/) for a complete comparison of productivity AI tools.
+## Related Articles
+
+- [Copilot in Word Tutorial](/copilot-word-tutorial/) — Complete guide to Copilot in Word
+- [AI Tools Guide](/ai-tools-guide/) — Compare all AI tools for work
+- [ChatGPT Mastery Guide](/chatgpt-guide/) — The main alternative to Copilot
+- [ChatGPT Alternatives](/chatgpt-alternatives/) — 10 options compared
+- [Best AI Tools for Office Work](/best-ai-tools-office-work/) — Curated productivity tools

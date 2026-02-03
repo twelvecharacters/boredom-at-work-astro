@@ -482,6 +482,10 @@ In a week of regular use, you'll wonder how you worked without it.
 
 ---
 
-*Last updated: February 2026*
+## Related Articles
 
-*Ready to take your AI skills further? Check out our guide to the [best free AI courses](/best-free-ai-courses/) you can take at work.*
+- [ChatGPT Mastery: Everything You Need to Know](/chatgpt-guide/) — Take your skills to the next level
+- [How to Learn AI in 2026: Complete Roadmap](/learn-ai-guide/) — Your full AI learning path
+- [Best Free AI Courses](/best-free-ai-courses/) — Structured learning options
+- [ChatGPT Custom Instructions Guide](/chatgpt-custom-instructions/) — Set up once, get better responses forever
+- [AI Tools Guide](/ai-tools-guide/) — Explore all AI tools for work

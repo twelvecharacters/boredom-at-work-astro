@@ -546,13 +546,10 @@ You'll always copy-paste manually.
 
 ---
 
-## Related Guides
+## Related Articles
 
-- **Compare AI options:** [Claude vs ChatGPT](/claude-vs-chatgpt/)
-- **Worth upgrading?** [ChatGPT Plus vs Free](/chatgpt-plus-vs-free/)
-- **Office AI tools:** [Best AI Tools for Office Work](/best-ai-tools-office-work/)
-- **Microsoft's option:** [Microsoft Copilot Review](/microsoft-copilot-review/)
-
----
-
-*Last updated: February 2026*
+- [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything you need to know about ChatGPT
+- [Copilot in Word Tutorial](/copilot-word-tutorial/) — AI in Microsoft Office
+- [Microsoft Copilot Review](/microsoft-copilot-review/) — Is Copilot worth it?
+- [AI Tools Guide](/ai-tools-guide/) — All AI tools for work compared
+- [Best AI Tools for Office Work](/best-ai-tools-office-work/) — Curated productivity tools

@@ -514,13 +514,10 @@ You can always refine later. The best custom instructions are the ones you actua
 
 ---
 
-## Related Guides
+## Related Articles
 
-- **Getting started:** [ChatGPT Tutorial for Beginners](/chatgpt-tutorial-beginners/)
-- **Worth upgrading?** [ChatGPT Plus vs Free](/chatgpt-plus-vs-free/)
-- **Better prompts:** [Learn Prompt Engineering](/prompt-engineering-afternoon/)
-- **Compare options:** [Claude vs ChatGPT](/claude-vs-chatgpt/)
-
----
-
-*Last updated: February 2026*
+- [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything you need to know about ChatGPT
+- [ChatGPT Tutorial for Beginners](/chatgpt-tutorial-beginners/) — Start here if you're new
+- [Learn Prompt Engineering](/prompt-engineering-afternoon/) — Write better prompts
+- [ChatGPT Plus vs Free](/chatgpt-plus-vs-free/) — Is the upgrade worth it?
+- [AI Tools Guide](/ai-tools-guide/) — All AI tools for work compared
