@@ -4,9 +4,30 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 3. Februar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 4. Februar 2026)
 
-### Letzte Sitzung (3. Februar 2026 - Nachmittag)
+### Letzte Sitzung (4. Februar 2026)
+
+**✅ Artikel-Update: `selling-3d-prints-online.md`**
+
+1. **FAQ Schema überarbeitet** — Neue Fragen mit echter Suchintention:
+   - "How much money can you make selling 3D prints?"
+   - "What 3D printer is best for starting a printing business?"
+   - "Is it legal to sell 3D printed items?"
+   - "Where is the best place to sell 3D prints online?"
+
+2. **Platform-Vergleich komplett neu** — Erweitert von 4 auf 6 Plattformen:
+   - Physical: Etsy, eBay, Facebook Marketplace/Craigslist (neu)
+   - Digital: Cults3D (Fees korrigiert: 8-20% statt pauschal 20%), MyMiniFactory, Thangs (neu)
+   - Own Brand: Shopify
+
+3. **Neue Struktur:** "The Smart Strategy" — Layer-Ansatz (Test → Scale → Diversify → Graduate)
+
+4. **Fees korrigiert:** Etsy ~10-12% total (nicht nur 6.5%), Cults3D 8-20% gestaffelt
+
+---
+
+### Sitzung (3. Februar 2026 - Nachmittag)
 
 **✅ AI Cluster Phase 2 komplett — 8 Artikel (~28.200 Wörter):**
 

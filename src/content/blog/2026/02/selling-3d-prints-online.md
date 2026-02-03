@@ -7,12 +7,14 @@ author: "bored chap"
 image: "/images/selling-3d-prints-online.webp"
 tags: ["3D Printing", "Side Hustle", "Business", "Etsy", "Selling"]
 faq:
-  - question: "Is it legal to sell 3D prints of models I found online?"
-    answer: "Only if the license allows it. Look for models with a 'Commercial License' or 'Creative Commons - Attribution' with commercial rights. Models on sites like Thingiverse often have 'Non-Commercial' licenses, meaning you cannot sell them."
-  - question: "How much profit can I actually make from a single 3D print?"
-    answer: "A typical profit margin is 3-5x the cost of material. If a print uses $2 worth of filament, you might sell it for $10-15. After platform fees and shipping, you might net $5-8 in profit."
-  - question: "Which platform is best for selling 3D printed physical goods?"
-    answer: "Etsy is the gold standard for physical 3D prints due to its high traffic of people looking for unique, handmade items. For digital files (STL), Cults3D and MyMiniFactory are the better choices."
+  - question: "How much money can you make selling 3D prints?"
+    answer: "Most side hustlers make $500-$2,000/month selling 3D prints. Your profit depends on print speed, material costs, and pricing strategy. Functional items and custom work typically yield 50-70% margins, while decorative pieces compete more on price. Top sellers on Etsy report $5,000+ monthly, but that requires treating it as a real business."
+  - question: "What 3D printer is best for starting a printing business?"
+    answer: "For beginners, the Bambu Lab A1 Mini ($199) or P1S ($599) offer the best reliability-to-cost ratio. Avoid cheap printers that waste your time on failed prints. One reliable machine beats three temperamental ones. Start with a single printer, master it, then scale."
+  - question: "Is it legal to sell 3D printed items?"
+    answer: "Yes, but with limits. You can sell your own designs or items printed from commercially-licensed files. You cannot sell prints of copyrighted characters (Disney, Marvel, etc.) or files marked 'personal use only'. Always check the license before printing for profit."
+  - question: "Where is the best place to sell 3D prints online?"
+    answer: "For physical prints: Etsy has the largest audience of non-technical buyers looking for gifts and decor. For digital STL files: Cults3D and MyMiniFactory offer access to maker communities. For maximum profit: your own Shopify store eliminates platform fees but requires driving your own traffic."
 ---
 
 So, you've [mastered your printer](/3d-printing-beginners-guide/). Your desk is covered in perfectly calibrated test cubes, and your family has enough 3D-printed vases to open a florist shop. Now, you're sitting at work, staring at your computer screen, and thinking: *\"Could I actually make money doing this?\"*
@@ -39,14 +41,69 @@ If you've Mastered CAD (check out our [CAD software guide](/cad-software-3d-prin
 
 ---
 
-## Where to Sell: Platform Comparison (2026)
+## Where to Actually Sell Your 3D Prints
 
-| Platform | Best For | Fees | Difficulty | Stealth Level at Work |
-|----------|----------|------|------------|-----------------------|
-| **Etsy** | Physical Goods | $0.20 listing + 6.5% transaction | Medium | High (Browser-based) |
-| **Shopify** | Scaling a Brand | Monthly subscription (~$39) | Hard | Medium (Requires more setup) |
-| **Cults3D** | Digital Files | 20% commission | Easy | High |
-| **eBay** | Clearance / Parts | Variable (~13%) | Easy | High |
+Skip the analysis paralysis. Here's what works in 2026:
+
+### Selling Physical Prints
+
+**Etsy** — The Default Choice  
+6.5% transaction fee + $0.20 listing fee + 3-4% payment processing (~10-12% total)  
+Best for: Gift items, home decor, cosplay props, personalized products  
+Reality check: Huge audience, but you're competing with thousands of sellers. Photography matters more than print quality.
+
+**eBay** — The Underdog  
+~13% total fees  
+Best for: Functional parts, replacement components, automotive accessories  
+Reality check: Less pretty, more practical. Buyers here want solutions, not aesthetics.
+
+**Facebook Marketplace / Craigslist** — Zero Fees  
+Best for: Local sales, large prints, testing demand  
+Reality check: No shipping hassle, cash transactions, but limited scale.
+
+### Selling Digital Files (STLs)
+
+**Cults3D** — Largest Marketplace  
+8-20% commission (depends on exclusivity and tier)  
+Best for: Gadgets, art, functional designs  
+Reality check: High traffic, high competition. Non-exclusive listings get less visibility.
+
+**MyMiniFactory** — Curated Quality  
+Tribe subscription model or per-sale commission (~30%)  
+Best for: Tabletop gaming, miniatures, high-detail models  
+Reality check: Smaller but dedicated audience. Quality standards mean less junk competition.
+
+**Thangs** — The New Player  
+Free to list, takes commission on sales  
+Best for: Getting discovered via their 3D search engine  
+Reality check: Growing fast, worth having presence even if not primary income source.
+
+### Building Your Own Brand
+
+**Shopify / WooCommerce** — Maximum Margins  
+~$29/month + ~2.9% payment processing  
+Best for: Scaling beyond side hustle, building email list, repeat customers  
+Reality check: You drive 100% of your own traffic. Only worth it once you've validated demand elsewhere.
+
+### Platform Comparison
+
+| Platform | Type | Total Fees | Audience | Best For |
+|----------|------|-----------|----------|----------|
+| **Etsy** | Physical | ~10-12% | Mainstream gift buyers | Decor, props, personalized items |
+| **eBay** | Physical | ~13% | Problem-solvers | Functional parts, replacements |
+| **FB Marketplace** | Physical | 0% | Local buyers | Large items, testing ideas |
+| **Cults3D** | Digital | 8-20% | Makers & hobbyists | Gadgets, art, functional STLs |
+| **MyMiniFactory** | Digital | ~30% or subscription | Tabletop/gaming fans | Miniatures, detailed models |
+| **Shopify** | Both | ~$29/mo + 2.9% | Your own traffic | Scaling, brand building |
+
+### The Smart Strategy
+
+Don't pick one. Layer them:
+
+1. **Test** on Facebook Marketplace (free, instant feedback)
+2. **Scale** on Etsy (traffic is built-in)
+3. **Diversify** with STL sales on Cults3D (passive income)
+4. **Graduate** to Shopify once you have repeat customers
 
 ---
 
