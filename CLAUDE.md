@@ -8,12 +8,22 @@
 
 ### Letzte Sitzung (3. Februar 2026)
 
+**✅ 3D Printing Cluster Phase 1 komplett (~10.600 Wörter):**
+
+| Artikel | Datum | Bild |
+|---------|-------|------|
+| PLA vs PETG vs ABS | 19. Feb | ✅ |
+| Cura Settings for Beginners | 21. Feb | ✅ |
+| 3D Print Not Sticking Fixes | 24. Feb | ✅ |
+| Best Sites for Free 3D Models | 27. Feb | ✅ |
+| FDM vs Resin Printing | 2. März | ✅ |
+
 **✅ Build-Logik Fix für publishDate:**
 - Problem: Artikel mit heutigem `publishDate` wurden nicht angezeigt (UTC-Zeitzone-Problem bei GitHub Actions Build)
 - Lösung: `src/utils/blog.ts` → Vergleich jetzt mit Ende des Tages UTC (`23:59:59.999`)
 - Artikel mit heutigem Datum werden jetzt sofort angezeigt
 
-**✅ Neuer Artikel live:**
+**✅ Artikel live:**
 - `selling-3d-prints-online.md` — 3. Feb 2026
 
 ---
