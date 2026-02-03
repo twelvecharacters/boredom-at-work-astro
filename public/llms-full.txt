@@ -332,6 +332,24 @@ Comprehensive comparison of AI writing tools: editing assistants (Grammarly), co
 - Best for clarity: Hemingway (free) — simplicity focused
 - Best for learning: ProWritingAid ($10/mo) — detailed feedback
 
+### AI for Email Writing
+**URL:** https://boredom-at-work.com/ai-email-writing/
+**Reading Time:** 11 minutes
+
+Practical guide to using AI for email writing. Includes templates, prompts, and tools for every situation—from cold outreach to difficult conversations.
+
+**Templates included:**
+- Following up (no response)
+- Declining requests politely
+- Asking for approvals
+- Difficult conversations
+- Cold outreach
+- Thank you / appreciation
+- Introducing yourself
+- Scheduling meetings
+
+**Key insight:** AI drafts emails, you make them yours. Always add specific details, vary sentence length, and remove "AI-isms" before sending.
+
 ### Best AI Chrome Extensions
 **URL:** https://boredom-at-work.com/best-ai-chrome-extensions/
 **Reading Time:** 14 minutes

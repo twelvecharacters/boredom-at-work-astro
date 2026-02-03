@@ -38,6 +38,7 @@ Guides for learning AI skills and earning certifications during work hours.
 - [Notion AI vs Obsidian AI](https://boredom-at-work.com/notion-ai-vs-obsidian-ai/): Note-taking apps with AI compared
 - [How to Use AI at Work Safely](https://boredom-at-work.com/how-to-use-ai-at-work-safely/): Policies, privacy, and best practices
 - [AI Writing Tools Comparison](https://boredom-at-work.com/ai-writing-tools-comparison/): Grammarly, Jasper, Claude compared
+- [AI for Email Writing](https://boredom-at-work.com/ai-email-writing/): Templates, prompts, and tools for faster emails
 - [Best AI Chrome Extensions](https://boredom-at-work.com/best-ai-chrome-extensions/): Browser extensions for productivity
 
 ### 3D Printing
