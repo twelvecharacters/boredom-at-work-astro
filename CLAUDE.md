@@ -4,9 +4,21 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 2. Februar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 3. Februar 2026)
 
-### Letzte Sitzung (2. Februar 2026 - Nachmittag)
+### Letzte Sitzung (3. Februar 2026)
+
+**✅ Build-Logik Fix für publishDate:**
+- Problem: Artikel mit heutigem `publishDate` wurden nicht angezeigt (UTC-Zeitzone-Problem bei GitHub Actions Build)
+- Lösung: `src/utils/blog.ts` → Vergleich jetzt mit Ende des Tages UTC (`23:59:59.999`)
+- Artikel mit heutigem Datum werden jetzt sofort angezeigt
+
+**✅ Neuer Artikel live:**
+- `selling-3d-prints-online.md` — 3. Feb 2026
+
+---
+
+### Vorherige Sitzung (2. Februar 2026 - Nachmittag)
 
 **✅ 5 neue Artikel geschrieben & gepusht (~14.700 Wörter):**
 
