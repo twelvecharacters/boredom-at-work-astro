@@ -32,6 +32,40 @@ All articles are:
 
 Guides for learning AI skills and earning certifications during work hours. AI literacy is the most in-demand professional skill of 2026.
 
+### ⭐ The Ultimate Guide to AI Tools for Work (Hub Page)
+**URL:** https://boredom-at-work.com/ai-tools-guide/
+**Reading Time:** 25 minutes
+
+Your complete guide to AI tools that actually boost productivity. This hub page covers all major AI assistants and specialized tools, helping you find the right AI for your workflow.
+
+**Categories covered:**
+- AI Assistants (ChatGPT, Claude, Gemini, Copilot)
+- Writing & Editing Tools
+- Research & Analysis Tools
+- Meeting & Productivity Tools
+- Browser Extensions
+
+**Key insight:** Most professionals benefit from having 2-3 AI tools: a general assistant (ChatGPT or Claude), a research tool (Perplexity), and a specialized tool for their main work (writing, data, presentations).
+
+---
+
+### ⭐ How to Learn AI in 2026: The Complete Roadmap (Hub Page)
+**URL:** https://boredom-at-work.com/learn-ai-guide/
+**Reading Time:** 22 minutes
+
+Step-by-step guide to learning AI from absolute beginner to job-ready skills. Covers the 5 levels of AI competency, free courses, certifications, and practical learning strategies.
+
+**The 5 Levels:**
+1. AI Aware — Understand what AI is (1-2 weeks)
+2. AI User — Use AI tools daily (2-4 weeks)
+3. AI Power User — Optimize workflows (1-2 months)
+4. AI Builder — Create AI solutions (3-6 months)
+5. AI Expert — Lead AI initiatives (6+ months)
+
+**Key insight:** Most professionals only need Level 2 or 3. You can become more AI-competent than 90% of workers in 30 days of deliberate practice.
+
+---
+
 ### Best Free AI Courses You Can Take at Work
 **URL:** https://boredom-at-work.com/best-free-ai-courses/
 **Reading Time:** 12 minutes
