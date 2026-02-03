@@ -231,10 +231,12 @@ See AI travel planning in action with real trips, including what worked and what
 
 **Planning a specific country?** Jump to the destination guides above
 
-**Want to see it in action?** Read the [Malaysia Case Study](/chatgpt-malaysia-trip-planning/)
-
-**Ready to build something advanced?** Try the [AI Flight Search Agent](/build-ai-flight-search-agent/)
-
 ---
 
-Have questions about AI travel planning? [Contact us](/contact/)—I love talking about this stuff.
+## Related Articles
+
+- [ChatGPT Mastery Guide](/chatgpt-guide/) — Master ChatGPT for all tasks
+- [AI Tools Guide](/ai-tools-guide/) — All AI tools compared
+- [Malaysia Trip Case Study](/chatgpt-malaysia-trip-planning/) — See AI planning in action
+- [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/) — 19 prompts that work
+- [AI Flight Search Agent](/build-ai-flight-search-agent/) — Build something advanced

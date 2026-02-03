@@ -349,9 +349,10 @@ When a prompt works well, save it. Create a travel planning template you can reu
 
 ---
 
-## What's Next?
+## Related Articles
 
-- **Compare AI tools**: [Best AI Trip Planners 2026](/best-ai-trip-planners/)
-- **See it in action**: [How I Planned My Malaysia Trip](/chatgpt-malaysia-trip-planning/)
-- **Avoid mistakes**: [AI Travel Planning Mistakes](/ai-travel-planning-mistakes/)
-- **Complete guide**: [AI Travel Planning Hub](/ai-travel-planning/)
+- [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything about ChatGPT
+- [AI Travel Planning Hub](/ai-travel-planning/) — Complete travel guide
+- [Best AI Trip Planners](/best-ai-trip-planners/) — Compare AI tools
+- [Malaysia Trip Case Study](/chatgpt-malaysia-trip-planning/) — See it in action
+- [AI Tools Guide](/ai-tools-guide/) — All AI tools compared

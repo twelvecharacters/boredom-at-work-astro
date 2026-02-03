@@ -268,9 +268,10 @@ This hybrid approach gives you AI creativity plus real-world accuracy.
 
 ---
 
-## What's Next?
+## Related Articles
 
-- **Master ChatGPT prompts**: [15 Travel Prompts That Work](/chatgpt-travel-planning-prompts/)
-- **See real results**: [How I Planned My Malaysia Trip](/chatgpt-malaysia-trip-planning/)
-- **Avoid common errors**: [AI Travel Planning Mistakes](/ai-travel-planning-mistakes/)
-- **Complete guide**: [AI Travel Planning Hub](/ai-travel-planning/)
+- [AI Tools Guide](/ai-tools-guide/) — All AI tools for work compared
+- [ChatGPT Mastery Guide](/chatgpt-guide/) — Master the #1 AI assistant
+- [AI Travel Planning Hub](/ai-travel-planning/) — Complete travel guide
+- [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/) — 19 prompts that work
+- [Perplexity AI Guide](/perplexity-ai-guide/) — Best for research

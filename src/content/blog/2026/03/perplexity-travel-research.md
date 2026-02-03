@@ -330,9 +330,10 @@ Pair it with ChatGPT for itinerary building and Gemini for real-time prices, and
 
 ---
 
-## What's Next?
+## Related Articles
 
-- **Real-time planning**: [Google Gemini for Travel](/gemini-travel-planning/)
-- **Build your itinerary**: [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/)
-- **Compare all tools**: [Best AI Trip Planners 2026](/best-ai-trip-planners/)
-- **Complete guide**: [AI Travel Planning Hub](/ai-travel-planning/)
+- [Perplexity AI Guide](/perplexity-ai-guide/) — Complete Perplexity guide
+- [AI Tools Guide](/ai-tools-guide/) — All AI tools compared
+- [AI Travel Planning Hub](/ai-travel-planning/) — Complete travel guide
+- [Best AI Trip Planners](/best-ai-trip-planners/) — Compare all tools
+- [ChatGPT Mastery Guide](/chatgpt-guide/) — Alternative for planning

@@ -389,10 +389,12 @@ You now have everything you need to plan your first AI-assisted trip. Here's whe
 - [AI Trip Planning: Vietnam](/ai-trip-planning-vietnam/)
 - [AI Trip Planning: Cambodia](/ai-trip-planning-cambodia/)
 
-**Want to see a real example?** [How I Planned My Malaysia Trip with ChatGPT](/chatgpt-malaysia-trip-planning/)
-
-**Back to the main hub:** [AI Travel Planning: Complete Guide](/ai-travel-planning/)
-
 ---
 
-Happy planning. Your first AI-assisted trip is going to be great.
+## Related Articles
+
+- [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything about ChatGPT
+- [AI Travel Planning Hub](/ai-travel-planning/) — Complete travel guide
+- [Malaysia Trip Case Study](/chatgpt-malaysia-trip-planning/) — Real example
+- [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/) — Copy-paste prompts
+- [AI Tools Guide](/ai-tools-guide/) — All AI tools compared

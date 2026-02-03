@@ -232,9 +232,10 @@ For celiac disease or serious allergies, Claude's cautious approach ("verify thi
 
 ---
 
-## Related Guides
+## Related Articles
 
-- **Get better prompts**: [ChatGPT Travel Prompts That Work](/chatgpt-travel-planning-prompts/)
-- **Compare all tools**: [Best AI Trip Planners 2026](/best-ai-trip-planners/)
-- **See real results**: [My Malaysia Trip with ChatGPT](/chatgpt-malaysia-trip-planning/)
-- **General comparison**: [Claude vs ChatGPT: Which Should You Use?](/claude-vs-chatgpt/)
+- [Claude vs ChatGPT](/claude-vs-chatgpt/) — General comparison
+- [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything about ChatGPT
+- [Claude AI Review](/claude-ai-review/) — In-depth Claude review
+- [AI Travel Planning Hub](/ai-travel-planning/) — Complete travel guide
+- [AI Tools Guide](/ai-tools-guide/) — All AI tools compared
