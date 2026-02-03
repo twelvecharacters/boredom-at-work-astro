@@ -147,6 +147,19 @@ Head-to-head comparison of the two leading AI assistants. Covers writing quality
 - Claude has larger context window (200K vs 128K tokens)
 - Both cost $20/month for premium tiers
 
+### Claude AI Review
+**URL:** https://boredom-at-work.com/claude-ai-review/
+**Reading Time:** 11 minutes
+
+In-depth Claude review after months of daily use. What it does better than ChatGPT, where it falls short, and whether Claude Pro is worth $20/month.
+
+**Key insights:**
+- Best AI for writing quality — more natural, nuanced text
+- 200K context window handles long documents better
+- No image generation (use ChatGPT for that)
+- Free tier is solid; Pro worth it for heavy users
+- Most power users have both Claude and ChatGPT
+
 ### ChatGPT Plus vs Free
 **URL:** https://boredom-at-work.com/chatgpt-plus-vs-free/
 **Reading Time:** 10 minutes

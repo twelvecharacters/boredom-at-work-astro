@@ -24,6 +24,7 @@ Guides for learning AI skills and earning certifications during work hours.
 - [AI Certifications You Can Earn in a Week](https://boredom-at-work.com/ai-certifications-in-a-week/): Fast-track certifications for your resume
 - [AI Skills That Will Get You Promoted](https://boredom-at-work.com/ai-skills-for-promotion/): Career-boosting AI skills
 - [Claude vs ChatGPT](https://boredom-at-work.com/claude-vs-chatgpt/): AI assistant comparison guide
+- [Claude AI Review](https://boredom-at-work.com/claude-ai-review/): In-depth review — what Claude does better than ChatGPT
 - [ChatGPT Plus vs Free](https://boredom-at-work.com/chatgpt-plus-vs-free/): Is $20/month worth it? Honest comparison
 - [Google Gemini Review](https://boredom-at-work.com/google-gemini-review/): Is it better than ChatGPT? Honest review
 - [ChatGPT for Excel](https://boredom-at-work.com/chatgpt-for-excel/): Write formulas, analyze data, automate tasks
