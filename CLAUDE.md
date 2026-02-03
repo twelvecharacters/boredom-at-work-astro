@@ -25,6 +25,18 @@
 
 4. **Fees korrigiert:** Etsy ~10-12% total (nicht nur 6.5%), Cults3D 8-20% gestaffelt
 
+**✅ Pillar Pages FAQ-Upgrade (3 Hub Articles):**
+
+| Artikel | Neue FAQs |
+|---------|-----------|
+| `ai-tools-guide.md` | 6 FAQs — ChatGPT vs Claude, Multi-Tool-Workflow, Kosten, Datenschutz |
+| `learn-ai-guide.md` | 6 FAQs — Einstieg ohne Erfahrung, Coding nicht nötig, beste Kurse, Skills für Jobs |
+| `chatgpt-guide.md` | 6 FAQs — GPT-4o erklärt, bessere Antworten bekommen, ChatGPT vs Google |
+
+**✅ Workflow-Regeln aktualisiert:**
+- Neue Regel 5: FAQ Schema mit echter Suchintention
+- Neue Regel 6: Vergleichs-Sections bei Tool/Platform-Artikeln
+
 ---
 
 ### Sitzung (3. Februar 2026 - Nachmittag)
@@ -240,6 +252,20 @@ faq:
    - Nur Artikel mit `publishDate` in der Vergangenheit oder heute
 
 4. **IMMER American English verwenden** (Zielgruppe: Nordamerika)
+
+5. **FAQ Schema mit echter Suchintention schreiben:**
+   - Fragen formulieren, die Leute wirklich googlen (nicht generische Fragen)
+   - Antworten mit konkreten Zahlen/Details (nicht vage)
+   - Gut: "How much money can you make selling 3D prints?"
+   - Schlecht: "Is 3D printing profitable?"
+   - Pro Pillar Page: 4-6 FAQs
+   - Pro normaler Artikel: 2-4 FAQs (wenn relevant)
+
+6. **Vergleichs-Sections bei Tool/Platform-Artikeln:**
+   - Immer echte Fees/Kosten recherchieren
+   - Pro/Contra für jede Option
+   - Zusammenfassende Tabelle
+   - "Smart Strategy" oder Empfehlung am Ende
 
    | British ❌ | American ✅ |
    |-----------|-------------|
