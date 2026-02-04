@@ -20,6 +20,21 @@ Everyone's talking about ChatGPT, but should you actually pay $20/month for Plus
 
 I've used both tiers extensively for work — writing, research, coding, and general productivity. Here's my honest take on whether the upgrade is worth it in 2026.
 
+## Watch the Video Version
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 2rem;">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/b6o1JZjI7dU" 
+    title="ChatGPT Plus vs Free: Is $20/Month Actually Worth It?"
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+*Prefer reading? Keep scrolling for the full written guide.*
+
 ## Quick Answer: Should You Upgrade?
 
 **Yes, upgrade to Plus if:**
