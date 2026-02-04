@@ -6,6 +6,7 @@ publishDate: 2026-02-03
 author: "bored chap"
 image: "/images/selling-3d-prints-online.webp"
 tags: ["3D Printing", "Side Hustle", "Business", "Etsy", "Selling"]
+draft: false
 faq:
   - question: "How much money can you make selling 3D prints?"
     answer: "Most side hustlers make $500-$2,000/month selling 3D prints. Your profit depends on print speed, material costs, and pricing strategy. Functional items and custom work typically yield 50-70% margins, while decorative pieces compete more on price. Top sellers on Etsy report $5,000+ monthly, but that requires treating it as a real business."

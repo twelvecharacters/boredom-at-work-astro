@@ -6,6 +6,7 @@ publishDate: 2026-02-24
 author: "bored chap"
 image: "/images/3d-print-not-sticking-fixes.webp"
 tags: ["3D Printing", "Troubleshooting", "First Layer", "Bed Adhesion", "Tutorial"]
+draft: false
 faq:
   - question: "Why does my first layer keep peeling up?"
     answer: "Usually it's one of three things: bed not level (nozzle too far), bed temperature too low, or a dirty/oily build surface. Start by re-leveling your bed and cleaning it with isopropyl alcohol."

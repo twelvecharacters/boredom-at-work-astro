@@ -7,6 +7,7 @@ updatedDate: 2026-03-07
 author: "bored chap"
 image: "/images/learn-ai-guide.webp"
 tags: ["AI", "Learning", "Career", "Courses", "Hub Page"]
+draft: false
 faq:
   - question: "How do I start learning AI with no experience?"
     answer: "Start by using AI tools, not studying theory. Create a free ChatGPT account and use it for real tasks—emails, research, brainstorming. After 1-2 weeks of daily use, take Google's free AI Essentials course (5 hours) to understand the fundamentals. This hands-on approach beats months of theoretical study."

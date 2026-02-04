@@ -7,6 +7,7 @@ updatedDate: 2026-03-12
 author: "bored chap"
 image: "/images/claude-ai-review.webp"
 tags: ["Claude", "AI", "Review", "Anthropic", "ChatGPT"]
+draft: false
 faq:
   - question: "Is Claude better than ChatGPT?"
     answer: "For writing and long-form analysis, yes. Claude produces more natural, nuanced text and handles longer documents better. For general tasks, image generation, and ecosystem integrations, ChatGPT wins. Most power users have both."

@@ -6,6 +6,7 @@ publishDate: 2026-02-12
 author: "bored chap"
 image: "/images/10-things-to-3d-print-first.webp"
 tags: ["3D Printing", "Beginner", "Productivity", "Desk Setup", "Organization"]
+draft: false
 faq:
   - question: "What is the very first thing I should print?"
     answer: "A calibration test like the '3DBenchy' or a 'Calibration Cube'. This ensures your printer is set up correctly and the dimensions are accurate before you move on to larger functional parts."

@@ -7,6 +7,7 @@ updatedDate: 2026-03-20
 author: "bored chap"
 image: "/images/copilot-word-tutorial.webp"
 tags: ["Copilot", "Microsoft", "Word", "AI", "Productivity"]
+draft: false
 faq:
   - question: "Is Copilot in Word free?"
     answer: "Copilot in Word requires a Microsoft 365 subscription plus Copilot Pro ($20/month) or a Copilot for Microsoft 365 business license ($30/month). The free Copilot at copilot.microsoft.com can help with Word tasks via copy/paste but doesn't integrate directly."

@@ -7,6 +7,7 @@ updatedDate: 2026-03-18
 author: "bored chap"
 image: "/images/ai-pdf-summarizers.webp"
 tags: ["AI", "PDF", "Productivity", "Tools", "Research"]
+draft: false
 faq:
   - question: "Can ChatGPT summarize PDFs?"
     answer: "Yes, ChatGPT can analyze PDFs you upload directly. The free tier allows file uploads, though with some limits. For very long documents (100+ pages), dedicated PDF tools like Claude or ChatPDF may work better."

@@ -6,6 +6,7 @@ publishDate: 2026-02-19
 author: "bored chap"
 image: "/images/pla-vs-petg-vs-abs.webp"
 tags: ["3D Printing", "Filament", "PLA", "PETG", "ABS", "Comparison"]
+draft: false
 faq:
   - question: "Which filament is best for beginners?"
     answer: "PLA is the best choice for beginners. It prints at lower temperatures, doesn't require a heated bed or enclosure, produces minimal warping, and has almost no odor. Once you're comfortable with PLA, you can experiment with PETG for stronger parts."

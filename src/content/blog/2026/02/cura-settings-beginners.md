@@ -6,6 +6,7 @@ publishDate: 2026-02-21
 author: "bored chap"
 image: "/images/cura-settings-beginners.webp"
 tags: ["3D Printing", "Cura", "Slicer", "Tutorial", "Settings"]
+draft: false
 faq:
   - question: "What is the best layer height for beginners?"
     answer: "0.2mm is the sweet spot for beginners. It balances print quality with reasonable print times. Use 0.12mm for detailed models and 0.28mm for quick drafts."

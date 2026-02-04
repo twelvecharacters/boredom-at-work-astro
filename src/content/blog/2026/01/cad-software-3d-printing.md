@@ -6,6 +6,7 @@ publishDate: 2026-01-31
 author: "bored chap"
 image: "/images/cad-software-3d-printing.webp"
 tags: ["3D Printing", "CAD", "Software", "Tutorial", "Skills"]
+draft: false
 faq:
   - question: "Which CAD software is best for absolute beginners?"
     answer: "Tinkercad is the best for absolute beginners. It's free, browser-based, and uses a simplified 'building block' approach that anyone can master in under an hour."

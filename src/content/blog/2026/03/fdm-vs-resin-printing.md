@@ -6,6 +6,7 @@ publishDate: 2026-03-02
 author: "bored chap"
 image: "/images/fdm-vs-resin-printing.webp"
 tags: ["3D Printing", "FDM", "Resin", "SLA", "Comparison", "Buying Guide"]
+draft: false
 faq:
   - question: "Which is better for beginners, FDM or resin?"
     answer: "FDM is better for beginners. It's safer (no toxic chemicals), easier to set up, cheaper to operate, and more forgiving of mistakes. Start with FDM, then add resin later if you need ultra-fine detail."

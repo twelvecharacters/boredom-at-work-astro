@@ -7,6 +7,7 @@ updatedDate: 2026-03-14
 author: "bored chap"
 image: "/images/chatgpt-alternatives.webp"
 tags: ["AI", "ChatGPT", "Claude", "Gemini", "Perplexity", "Tools"]
+draft: false
 faq:
   - question: "What is the best free alternative to ChatGPT?"
     answer: "Google Gemini offers unlimited free usage with a capable model. Claude's free tier is excellent for writing tasks. Microsoft Copilot is free and uses GPT-4. For research, Perplexity's free tier works well."

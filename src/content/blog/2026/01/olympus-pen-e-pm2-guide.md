@@ -6,6 +6,7 @@ publishDate: 2026-01-14
 author: "bored chap"
 image: "/images/olympus-e-pm2.jpg"
 tags: ["Photography", "Cameras", "Buying Guide", "Retro Tech"]
+draft: false
 faq:
   - question: "Is the Olympus E-PM2 still good in 2026?"
     answer: "Yes! Despite its age, it uses a 16MP sensor that is still very capable today. Its tiny size makes it perfect for stealthy street photography or taking to the office."

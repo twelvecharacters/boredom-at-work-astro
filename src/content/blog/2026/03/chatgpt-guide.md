@@ -7,6 +7,7 @@ updatedDate: 2026-03-10
 author: "bored chap"
 image: "/images/chatgpt-guide.webp"
 tags: ["ChatGPT", "AI", "Productivity", "OpenAI", "Hub Page"]
+draft: false
 faq:
   - question: "Is ChatGPT still free in 2026?"
     answer: "Yes, ChatGPT has a generous free tier including GPT-4o (the latest model), voice conversations, file uploads, and DALL-E image generation. Free users get limited messages during peak hours. ChatGPT Plus ($20/month) removes limits and gives priority access to new features."

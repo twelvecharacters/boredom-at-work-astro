@@ -7,6 +7,7 @@ updatedDate: 2026-03-16
 author: "bored chap"
 image: "/images/ai-email-writing.webp"
 tags: ["AI", "Email", "Productivity", "Writing", "ChatGPT"]
+draft: false
 faq:
   - question: "Is it okay to use AI to write emails?"
     answer: "Yes, for most professional emails. AI helps with drafting, not replacing your judgment. Always review before sending, add personal touches, and never use AI for highly sensitive communications without careful editing."
