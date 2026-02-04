@@ -6,7 +6,36 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 4. Februar 2026)
 
-### Letzte Sitzung (4. Februar 2026)
+### Letzte Sitzung (4. Februar 2026 - Abend)
+
+**🎉 YouTube Kanal gestartet!**
+
+- **Kanal:** @boredom-at-work
+- **URL:** https://www.youtube.com/@boredom-at-work
+
+**✅ Erstes Video hochgeladen:**
+- Titel: "ChatGPT Plus vs Free: Is $20/Month Actually Worth It? (2026)"
+- URL: https://youtu.be/b6o1JZjI7dU
+- Erstellt mit NotebookLM (Audio Overview)
+- Custom Thumbnail erstellt (Split-Design Free/Plus)
+
+**✅ Video in Artikel eingebettet:**
+- `chatgpt-plus-vs-free.md` — YouTube iframe nach Intro eingefügt
+
+**YouTube Workflow etabliert:**
+1. Script erstellen → NotebookLM für Audio
+2. Video in Clipchamp/CapCut zusammenbauen
+3. 5000+ Zeichen Description (SEO-optimiert)
+4. Custom Thumbnail (1280x720, max 2MB)
+
+**Nächste YouTube-Schritte (für morgen):**
+- [ ] Weitere Videos aus bestehenden Artikeln erstellen
+- [ ] Shorts testen (60 Sek aus Artikel-Highlights)
+- [ ] Reddit Promo für Video
+
+---
+
+### Sitzung (4. Februar 2026 - Vormittag)
 
 **✅ Artikel-Update: `selling-3d-prints-online.md`**
 
