@@ -4,9 +4,22 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 4. Februar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 5. Februar 2026)
 
-### Letzte Sitzung (4. Februar 2026 - Abend)
+### Letzte Sitzung (5. Februar 2026)
+
+**🧹 Cleanup:**
+- **clawdbot deinstalliert** — Drittanbieter-Tool das API-Kosten verursacht hat
+- **API-Key gelöscht** — In Anthropic Console rotiert
+
+**✅ Blog-Fix: 17 Artikel mit fehlendem `draft: false` korrigiert:**
+- 2× Januar (CAD Software, Olympus PEN)
+- 8× Februar (3D Printing Cluster)
+- 7× März (AI Cluster Hub Pages + Supporting Articles)
+
+---
+
+### Sitzung (4. Februar 2026 - Abend)
 
 **🎉 YouTube Kanal gestartet!**
 
