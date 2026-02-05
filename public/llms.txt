@@ -94,6 +94,7 @@ Guides for planning trips with AI tools like ChatGPT, Claude, and Perplexity.
 ### Home Office / Desk Setup
 Guides for building a productive home office workspace.
 
+- [**Desk Upgrade Guide (Hub)**](https://boredom-at-work.com/desk-upgrade-guide/): Complete guide to building the perfect home office setup
 - [Best Standing Desks Under $600](https://boredom-at-work.com/best-standing-desks/): FlexiSpot, Uplift, Branch, Autonomous compared
 - [Best Office Chairs for Long Hours](https://boredom-at-work.com/best-office-chairs/): Herman Miller, Secretlab, Branch, budget options compared
 - [Best Monitor Arms](https://boredom-at-work.com/best-monitor-arms/): Ergotron, Amazon Basics, VIVO—single and dual options
