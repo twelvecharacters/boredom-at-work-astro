@@ -353,6 +353,17 @@ chmod +x .git/hooks/pre-commit
 | 3DJake (EU) | 5-8% |
 | Elegoo | 5% |
 
+**Home Office / Desk Setup:**
+| Partner | Kommission | Cookie | Anmeldung |
+|---------|------------|--------|-----------|
+| Secretlab | 12% | 7 Tage | [secretlab.co/pages/affiliates](https://secretlab.co/pages/affiliates) |
+| Branch Furniture | 5% | 30 Tage | [branchfurniture.com/pages/affiliate-program](https://www.branchfurniture.com/pages/affiliate-program) |
+| FlexiSpot | 3-7.5% | 30 Tage | [flexispot.com/affiliate-program](https://www.flexispot.com/affiliate-program) |
+| Uplift Desk | 3% | 30 Tage | [upliftdesk.com/affiliate](https://www.upliftdesk.com/affiliate/) |
+| Amazon Associates | 1-4% | 24 Std | Deckt VIVO, HON, Ergotron, Kabel-Zubehör ab |
+
+*Kein Affiliate: Herman Miller, Ergotron (nur B2B Reseller)*
+
 ### 12-Monats-Plan
 
 | Phase | Monate | Fokus | Ziel-Einnahmen |
@@ -375,7 +386,10 @@ chmod +x .git/hooks/pre-commit
 
 ### Nächste Schritte
 
-- [ ] Amazon Associates beantragen
+- [ ] Amazon Associates beantragen (deckt mehrere Cluster ab)
+- [ ] Secretlab Affiliate beantragen (12% — höchste Kommission)
+- [ ] Branch Furniture Affiliate beantragen (5% + hoher AOV)
+- [ ] FlexiSpot Affiliate beantragen (meistempfohlene Standing Desk)
 - [ ] 3DJake Affiliate beantragen
 - [ ] Email-Liste/Newsletter starten
 - [ ] Bei 10k Pageviews: Ezoic testen
