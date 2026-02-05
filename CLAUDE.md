@@ -37,8 +37,8 @@
 | Artikel | Slug | Publish | Status |
 |---------|------|---------|--------|
 | Best Standing Desks | `/best-standing-desks/` | 8. März | ✅ Geschrieben |
+| Best Office Chairs | `/best-office-chairs/` | 10. März | ✅ Geschrieben |
 | Desk Upgrade Guide (Hub) | `/desk-upgrade-guide/` | TBD | ❌ TODO |
-| Best Office Chairs | `/best-office-chairs/` | TBD | ❌ TODO |
 | Monitor Arms Guide | `/monitor-arms-guide/` | TBD | ❌ TODO |
 | Cable Management Tips | `/cable-management-tips/` | TBD | ❌ TODO |
 
