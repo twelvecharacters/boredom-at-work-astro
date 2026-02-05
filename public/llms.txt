@@ -91,6 +91,11 @@ Guides for planning trips with AI tools like ChatGPT, Claude, and Perplexity.
 - [Malaysia Trip with ChatGPT](https://boredom-at-work.com/chatgpt-malaysia-trip-planning/): Real trip case study
 - [Southeast Asia Trip Planning](https://boredom-at-work.com/ai-planning-southeast-asia-trip-2026/): Multi-country planning
 
+### Home Office / Desk Setup
+Guides for building a productive home office workspace.
+
+- [Best Standing Desks Under $600](https://boredom-at-work.com/best-standing-desks/): FlexiSpot, Uplift, Branch, Autonomous compared
+
 ### Tech & Gadgets
 Reviews and comparisons of consumer technology.
 

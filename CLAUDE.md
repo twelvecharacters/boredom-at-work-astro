@@ -6,7 +6,25 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 5. Februar 2026)
 
-### Letzte Sitzung (5. Februar 2026 - Nachmittag)
+### Letzte Sitzung (5. Februar 2026 - Nachmittag/Abend)
+
+**🏠 Home Office Cluster gestartet:**
+
+| Artikel | Slug | Publish | Status |
+|---------|------|---------|--------|
+| Best Standing Desks | `/best-standing-desks/` | 8. März | ✅ Geschrieben |
+| Desk Upgrade Guide (Hub) | `/desk-upgrade-guide/` | TBD | ❌ TODO |
+| Best Office Chairs | `/best-office-chairs/` | TBD | ❌ TODO |
+| Monitor Arms Guide | `/monitor-arms-guide/` | TBD | ❌ TODO |
+| Cable Management Tips | `/cable-management-tips/` | TBD | ❌ TODO |
+
+**✅ Fact-Checking Prozess etabliert:**
+| Tier | Maßnahme |
+|------|----------|
+| 1 | Offizielle Hersteller-Specs prüfen |
+| 2 | Hedging-Sprache bei Preisen ("~$500", "starting at") |
+| 3 | Quellen dokumentieren (Tom's Guide, TechRadar etc.) |
+| 4 | Verifikationsdatum im Artikel notieren |
 
 **✅ Author Bio verbessert (E-E-A-T):**
 - Neue Bio: "Tech enthusiast with 10+ years in online marketing..."
@@ -32,8 +50,8 @@
 AI/Productivity ─► ai-tools-guide (15+ Artikel)
 AI Learning ─────► learn-ai-guide (10+ Artikel)
 ChatGPT ─────────► chatgpt-guide (8+ Artikel)
-3D Printing ─────► 3d-printing-guide (14 Artikel) ⭐ NEU
-Photography ─────► photography-guide (7 Artikel) ⭐ NEU
+3D Printing ─────► 3d-printing-guide (14 Artikel)
+Photography ─────► photography-guide (7 Artikel)
 ```
 
 **📺 YouTube Videos Status:**
@@ -47,6 +65,7 @@ Photography ─────► photography-guide (7 Artikel) ⭐ NEU
 **⏰ TODO:**
 - [ ] Video für `chatgpt-guide.md` erstellen
 - [ ] **7. März:** learn-ai-guide Video auf PUBLIC schalten
+- [ ] Home Office Cluster weiter ausbauen (Hub Page, Chairs, Monitor Arms)
 
 ---
 
@@ -397,6 +416,97 @@ faq:
    ```
 
 4. **Bei Preisen:** Preise ändern sich häufig — Formulierungen wie "~$XXX" oder "starting at $XXX" verwenden
+
+### Fact-Checking-Prozess (PFLICHT!)
+
+**Gilt für ALLE Artikel — nicht nur Produkt-Reviews!**
+
+#### 1. Vor dem Schreiben
+| Check | Aktion |
+|-------|--------|
+| Offizielle Quellen | Für jedes Produkt/Tool die offizielle Website identifizieren |
+| Aktuelle Preise | Mit Datum notieren (Preise ändern sich!) |
+| Software-Versionen | Aktuelle Version + Erscheinungsdatum prüfen |
+| Feature-Listen | Von offiziellen Seiten, nicht aus anderen Blogs |
+
+#### 2. Während des Schreibens
+| Regel | Beispiel |
+|-------|----------|
+| Keine Zahlen ohne Quelle | ❌ "90% der Nutzer..." ✅ "Laut OpenAI Blog (Jan 2026)..." |
+| Preise flexibel formulieren | ❌ "$199" ✅ "~$199" oder "starting at $199" |
+| Versionsnummern angeben | ❌ "ChatGPT kann..." ✅ "GPT-4o (Stand: Feb 2026) kann..." |
+| Affiliate-Fees verifizieren | Gegen aktuelle Partner-Dashboards prüfen |
+
+#### 3. Vor dem Pushen — Checkliste
+```
+□ Alle Produkt-Specs gegen offizielle Quellen geprüft
+□ Alle Preise auf Aktualität geprüft (max 30 Tage alt)
+□ Alle externen Links getestet (keine 404s)
+□ Software-Features noch aktuell (AI-Tools ändern sich monatlich!)
+□ Vergleichstabellen: Alle Werte verifiziert
+□ Screenshots aktuell (UI-Änderungen?)
+```
+
+#### 4. Kategorienspezifische Checks
+
+**AI Tools:**
+| Check | Quelle |
+|-------|--------|
+| Preise/Tiers | Offizielle Pricing-Seite |
+| Features | Changelog/Release Notes |
+| Modell-Versionen | API-Dokumentation |
+| Limits (Tokens, Requests) | Offizielle Docs |
+
+**3D Printing:**
+| Check | Quelle |
+|-------|--------|
+| Drucker-Specs | Hersteller-Produktseite |
+| Filament-Temperaturen | Hersteller-Datenblatt |
+| Build Volume | Offizielle Specs (nicht Marketing!) |
+| Preise | Amazon/3DJake aktuell |
+
+**Photography:**
+| Check | Quelle |
+|-------|--------|
+| Kamera-Specs | Hersteller-Specs-Seite |
+| Preis mit/ohne Kit-Lens | Unterscheiden! |
+| Sensor-Größe | Offizielle technische Daten |
+| Video-Specs | Genau: 4K30 ≠ 4K60 |
+
+**Tech & Gadgets:**
+| Check | Quelle |
+|-------|--------|
+| Akkulaufzeit | Hersteller (mit Testbedingungen!) |
+| Chip/Prozessor | Offizielle Specs |
+| IP-Rating | Zertifizierung prüfen |
+| Kompatibilität | Aktuelle OS-Versionen |
+
+#### 5. Regelmäßige Wartung
+
+| Intervall | Aktion |
+|-----------|--------|
+| **Monatlich** | AI-Tool-Artikel auf Feature-Änderungen prüfen |
+| **Quartalsweise** | Preise in Top-10-Artikeln aktualisieren |
+| **Halbjährlich** | Alle Vergleichstabellen überprüfen |
+| **Bei großen Updates** | Betroffene Artikel sofort aktualisieren |
+
+#### 6. Quellen-Hierarchie (Vertrauenswürdigkeit)
+
+| Rang | Quelle | Beispiel |
+|------|--------|----------|
+| 1 | Offizielle Hersteller-Seite | apple.com/specs |
+| 2 | Offizielle Dokumentation | docs.anthropic.com |
+| 3 | Pressemitteilungen | newsroom.apple.com |
+| 4 | Verifizierte Reviews (Wirecutter, RTINGS) | Nur als Ergänzung |
+| 5 | Andere Blogs | ❌ NIEMALS als Primärquelle |
+
+#### 7. Fact-Check-Log führen
+
+Bei jedem Artikel im Frontmatter optional:
+```yaml
+factChecked: 2026-02-05
+factCheckNotes: "Preise aktualisiert, GPT-4o-Limits verifiziert"
+```
 
 ---
 
