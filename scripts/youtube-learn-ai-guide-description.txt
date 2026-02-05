@@ -1,0 +1,89 @@
+How to Learn AI in 2026: Complete Roadmap (No Coding Required!)
+
+Overwhelmed by AI? Everyone says "learn AI" but nobody explains HOW. In this video, I break down the exact path from complete beginner to AI-competent professional—without learning to code or going back to school.
+
+I'll show you the 5 levels of AI competency, which level YOU actually need (spoiler: it's not Level 5), and give you a 30-day quick start plan to get there.
+
+===================
+TIMESTAMPS
+===================
+0:00 - Intro: The Problem with "Learn AI" Advice
+1:00 - The 5 Levels of AI Competency (Overview)
+2:30 - Level 1: AI Aware (Foundation)
+4:30 - Level 2: AI User (Daily Productivity)
+7:00 - Level 3: AI Power User (Workflows)
+9:30 - Levels 4 & 5: Builder & Expert
+10:30 - The Certification Question
+12:00 - 30-Day Quick Start Plan
+14:00 - Common Mistakes to Avoid
+15:30 - The Bottom Line + Your Next Step
+
+===================
+THE 5 LEVELS
+===================
+Level 1: AI Aware — Understand what AI is (1-2 weeks)
+Level 2: AI User — Use AI for daily tasks (2-4 weeks)
+Level 3: AI Power User — Optimize workflows (1-2 months)
+Level 4: AI Builder — Create AI solutions (3-6 months)
+Level 5: AI Expert — Lead AI initiatives (6+ months)
+
+Most professionals only need Level 2 or 3!
+
+===================
+30-DAY QUICK START
+===================
+Week 1: Create accounts, tutorials, first tasks
+Week 2: Pick main tool, learn prompting, build habit
+Week 3: Expand to writing, research, data
+Week 4: Custom instructions, workflows, document wins
+
+===================
+FREE RESOURCES TO START
+===================
+Google AI Essentials: https://www.coursera.org/learn/google-ai-essentials
+ChatGPT: https://chat.openai.com
+Claude: https://claude.ai
+Google Gemini: https://gemini.google.com
+
+===================
+LINKS FROM THIS VIDEO
+===================
+Full Learning Roadmap: https://boredom-at-work.com/learn-ai-guide/
+ChatGPT Tutorial for Beginners: https://boredom-at-work.com/chatgpt-tutorial-beginners/
+Best Free AI Courses: https://boredom-at-work.com/best-free-ai-courses/
+Claude vs ChatGPT: https://boredom-at-work.com/claude-vs-chatgpt/
+Prompt Engineering Guide: https://boredom-at-work.com/prompt-engineering-afternoon/
+AI Tools Guide: https://boredom-at-work.com/ai-tools-guide/
+
+===================
+RECOMMENDED CERTIFICATIONS
+===================
+Beginners:
+- Google AI Essentials (free to audit)
+- IBM AI Foundations (Coursera)
+
+Professionals:
+- Microsoft AI-900 (Azure AI Fundamentals)
+- AWS Certified AI Practitioner
+- Google Cloud AI certifications
+
+===================
+ABOUT THIS CHANNEL
+===================
+Boredom at Work helps you turn office downtime into productive learning. AI skills, 3D printing, photography, and tech reviews—all the stuff you can learn while looking busy at work.
+
+Subscribe for weekly guides on AI tools, productivity hacks, and tech reviews.
+
+===================
+TAGS
+===================
+#LearnAI #AITutorial #ChatGPT #Claude #AIForBeginners #AISkills #Productivity #CareerDevelopment #AILearning #AICourses #FreeAICourses #AIRoadmap #2026
+
+===================
+CHAPTERS
+===================
+See timestamps above for easy navigation.
+
+---
+Full article with complete roadmap: https://boredom-at-work.com/learn-ai-guide/
+Questions? Comment below or visit: https://boredom-at-work.com/contact/
