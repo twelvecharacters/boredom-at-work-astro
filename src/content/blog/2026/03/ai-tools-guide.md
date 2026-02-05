@@ -463,6 +463,14 @@ Quick links to all tools mentioned:
 
 ---
 
+## Related Guides
+
+- [Learn AI Guide](/learn-ai-guide/) — Your complete AI learning roadmap
+- [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything about ChatGPT
+- [Desk Upgrade Guide](/desk-upgrade-guide/) — Build a productive workspace for using these tools
+
+---
+
 *This guide is updated regularly as new AI tools emerge. Last updated: March 2026.*
 
 *Have a tool suggestion? Found an error? [Let us know](/contact/).*

@@ -324,6 +324,7 @@ Whatever you choose, get a dual-motor desk with at least a 5-year warranty. Your
 ## Related Guides
 
 - [The Ultimate Desk Upgrade Guide](/desk-upgrade-guide/) — Complete workspace optimization
+- [Best Office Chairs](/best-office-chairs/) — Pair with your standing desk
 - [Best Mechanical Keyboards for Beginners](/best-mechanical-keyboards-beginners/) — Your hands touch it all day
 - [AirPods vs Galaxy Buds vs Sony](/airpods-vs-galaxy-buds-vs-sony/) — Best audio for your desk
 

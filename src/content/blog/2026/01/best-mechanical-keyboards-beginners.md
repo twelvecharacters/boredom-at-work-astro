@@ -271,4 +271,8 @@ On a budget? **Royal Kludge RK87**. Remarkable value, and good enough to know if
 
 Welcome to the hobby. Your fingers will thank you.
 
-Looking for more desk upgrade ideas? Check out our [best tech gifts under $50](/best-tech-gifts-under-50/) for mice, desk lamps, and other office essentials.
+## Related Guides
+
+- [Best Tech Gifts Under $50](/best-tech-gifts-under-50/) — Mice, desk lamps, and office essentials
+- [Desk Upgrade Guide](/desk-upgrade-guide/) — Standing desks, chairs, and monitor arms
+- [Best Office Chairs](/best-office-chairs/) — Complete your ergonomic setup

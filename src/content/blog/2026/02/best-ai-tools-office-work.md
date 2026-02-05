@@ -513,3 +513,4 @@ The people who learn to work effectively with AI tools will outcompete those who
 - [ChatGPT Mastery Guide](/chatgpt-guide/) — Master the most popular AI tool
 - [Best Free AI Courses](/best-free-ai-courses/) — Build a solid AI foundation
 - [How to Use AI at Work Safely](/how-to-use-ai-at-work-safely/) — Stay compliant
+- [Desk Upgrade Guide](/desk-upgrade-guide/) — Build a productive home office setup

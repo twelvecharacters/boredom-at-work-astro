@@ -135,6 +135,8 @@ Adds ports to laptops: USB-A, HDMI, SD card. Essential for new MacBooks and thin
 - LED desk lamp (#17)
 - Logitech mouse (#16)
 
+Looking to go beyond budget gifts? Check out our [complete desk upgrade guide](/desk-upgrade-guide/) for standing desks, ergonomic chairs, and monitor arms.
+
 ### For the Minimalist
 - Anker 65W charger (#7)
 - 3-in-1 cable (#8)
