@@ -98,6 +98,14 @@ Photography ─────► photography-guide (7 Artikel)
 - E-Reader Lineup ändert sich häufig — vor Publish prüfen
 - Marketplace-Gebühren variieren — immer offizielle Docs checken
 
+**🤖 Fact-Check Hook AKTIV:**
+```
+Trigger: git commit (wenn Blog-Artikel staged)
+Script:  ~/.claude/fact-check-hook.sh
+Config:  ~/.claude/settings.local.json → PreToolUse Hook
+```
+Zeigt automatisch Checkliste + Quellen-Hierarchie vor jedem Commit mit Blog-Änderungen.
+
 ---
 
 ### Sitzung (5. Februar 2026 - Vormittag)
