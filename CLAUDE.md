@@ -89,7 +89,7 @@ Photography ─────► photography-guide (7 Artikel)
 **⏰ TODO:**
 - [ ] Video für `chatgpt-guide.md` erstellen
 - [ ] **7. März:** learn-ai-guide Video auf PUBLIC schalten
-- [ ] Home Office Cluster weiter ausbauen (Hub Page, Chairs, Monitor Arms)
+- [x] ~~Home Office Cluster ausbauen~~ ✅ KOMPLETT (5 Artikel + Hub Page)
 
 **🔍 Fact-Check Erkenntnisse (für zukünftige Artikel):**
 - Preise ändern sich schnell — immer "~$XXX" oder "starting at" verwenden
