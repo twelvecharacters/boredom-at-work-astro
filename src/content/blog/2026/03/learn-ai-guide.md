@@ -31,6 +31,19 @@ Here's what actually works: a structured path from complete beginner to genuinel
 
 This guide is your roadmap. Bookmark it, follow the steps, and check back when you're ready for the next level.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 2rem;">
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/h-V_Lu_J_hw"
+    title="How to Learn AI in 2026: Complete Roadmap"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+*Prefer reading? Keep scrolling for the full written guide.*
+
 ---
 
 ## How to Use This Guide
