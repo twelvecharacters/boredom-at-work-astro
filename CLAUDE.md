@@ -32,7 +32,7 @@
 
 ### Sitzung (5. Februar 2026 - Nachmittag/Abend)
 
-**🏠 Home Office Cluster gestartet:**
+**🏠 Home Office Cluster komplett:**
 
 | Artikel | Slug | Publish | Status |
 |---------|------|---------|--------|
