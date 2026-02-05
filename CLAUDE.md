@@ -6,7 +6,31 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 5. Februar 2026)
 
-### Letzte Sitzung (5. Februar 2026 - Nachmittag/Abend)
+### Letzte Sitzung (5. Februar 2026 - Spätabend)
+
+**✅ Umfassender Fact-Check durchgeführt — 26 Artikel korrigiert:**
+
+| Kategorie | Korrekturen |
+|-----------|-------------|
+| **Preise** | Bambu A1 Mini ($280→$219), AirPods Pro 3 ($279→$249), Kindle Scribe ($339→$499), Z50 II ($860→$960) |
+| **Kursdauer** | Elements of AI (6h→25-50h), IBM AI Foundations (6h→~20h), Prompt Eng (5h→~2h) |
+| **Marketplace** | Cults3D (8-20%→20% flat), MyMiniFactory (30%→10-15%) |
+| **Software** | Notion AI ($10 Add-on → in Business inkl.), Gemini Limits dokumentiert |
+| **Veraltetes** | ChatGPT Plugins (April 2024 eingestellt) → "Custom GPTs" + "Web Search" |
+
+**Korrigierte Artikel (Top-Priorität):**
+- `bambu-a1-mini-vs-creality-ender-3.md` — Preise + Specs
+- `airpods-pro-3-review.md` — Preis $249
+- `kindle-vs-kobo.md` — Komplette Lineup-Aktualisierung
+- `notion-ai-vs-obsidian-ai.md` — Pricing-Modell
+- `best-ai-trip-planners.md` — Plugin → Web Search
+- `claude-vs-chatgpt.md` — Plugins → Custom GPTs
+
+**Commit:** `f78bede fix: comprehensive fact-check corrections across 26 articles`
+
+---
+
+### Sitzung (5. Februar 2026 - Nachmittag/Abend)
 
 **🏠 Home Office Cluster gestartet:**
 
@@ -66,6 +90,13 @@ Photography ─────► photography-guide (7 Artikel)
 - [ ] Video für `chatgpt-guide.md` erstellen
 - [ ] **7. März:** learn-ai-guide Video auf PUBLIC schalten
 - [ ] Home Office Cluster weiter ausbauen (Hub Page, Chairs, Monitor Arms)
+
+**🔍 Fact-Check Erkenntnisse (für zukünftige Artikel):**
+- Preise ändern sich schnell — immer "~$XXX" oder "starting at" verwenden
+- ChatGPT Plugins gibt es nicht mehr (seit April 2024) — nur noch GPTs + native Features
+- Kursdauern auf offiziellen Seiten prüfen (oft falsch geschätzt)
+- E-Reader Lineup ändert sich häufig — vor Publish prüfen
+- Marketplace-Gebühren variieren — immer offizielle Docs checken
 
 ---
 
