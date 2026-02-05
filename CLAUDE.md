@@ -98,13 +98,23 @@ Photography ─────► photography-guide (7 Artikel)
 - E-Reader Lineup ändert sich häufig — vor Publish prüfen
 - Marketplace-Gebühren variieren — immer offizielle Docs checken
 
-**🤖 Fact-Check Hook AKTIV:**
+**🤖 Fact-Check Hook AKTIV (BLOCKIEREND):**
+
+| Schritt | Aktion |
+|---------|--------|
+| 1. | `git add` Blog-Artikel |
+| 2. | `git commit` → **BLOCKIERT** mit Checkliste |
+| 3. | `~/.claude/confirm-fact-check.sh` ausführen |
+| 4. | `git commit` → **ERLAUBT** (1h gültig) |
+
 ```
-Trigger: git commit (wenn Blog-Artikel staged)
-Script:  ~/.claude/fact-check-hook.sh
-Config:  ~/.claude/settings.local.json → PreToolUse Hook
+Scripts:
+  ~/.claude/fact-check-hook.sh      # Blockiert Commits
+  ~/.claude/confirm-fact-check.sh   # Bestätigt Fact-Check
+Config:
+  ~/.claude/settings.local.json     # PreToolUse Hook
+  .gitignore                        # .fact-check-confirmed
 ```
-Zeigt automatisch Checkliste + Quellen-Hierarchie vor jedem Commit mit Blog-Änderungen.
 
 ---
 
