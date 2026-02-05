@@ -7,9 +7,16 @@ export const SITE = {
 
 export const AUTHOR = {
   name: 'bored chap',
-  bio: "I write about the things I discover while pretending to work. AI tools, gadgets, photography, and ways to make office hours actually useful. No fluff, no sponsored nonsense — just honest takes from someone who's been there.",
+  bio: "Tech enthusiast with 10+ years in corporate IT. I've tested over 50 AI tools, built my own 3D printing setup, and traveled Southeast Asia planning trips entirely with ChatGPT. Everything I write comes from hands-on experience — no affiliate-driven recommendations, no AI-generated fluff.",
+  credentials: [
+    { icon: '🧪', text: '50+ AI tools tested' },
+    { icon: '🖨️', text: '3D printing since 2019' },
+    { icon: '✈️', text: '6 countries planned with AI' },
+  ],
   social: {
     reddit: 'https://www.reddit.com/r/boredom_at_work/',
+    youtube: 'https://www.youtube.com/@boredom-at-work',
+    email: 'twelvecharacters@proton.me',
   },
 };
 
