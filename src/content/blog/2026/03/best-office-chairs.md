@@ -88,7 +88,7 @@ The Branch Ergonomic Chair Pro hits the sweet spot between price and features. I
 **Key Specs:**
 | Spec | Branch Ergonomic Chair Pro |
 |------|----------------------------|
-| Weight capacity | 300 lbs |
+| Weight capacity | 275 lbs |
 | Lumbar support | 2-way adjustable (height + depth) |
 | Armrests | 5D (height, width, depth, angle, pivot) |
 | Recline | Up to 128° with tension control |
@@ -256,7 +256,7 @@ If $500 is too much, the HON Ignition 2.0 is the best chair under $400 that I ca
 | Feature | Branch Pro | Aeron | Titan Evo | ErgoChair Pro | HON 2.0 |
 |---------|------------|-------|-----------|---------------|---------|
 | **Price** | ~$500 | ~$1,400 | ~$550+ | ~$499 | ~$400 |
-| **Weight capacity** | 300 lbs | 350 lbs | 395 lbs (XL) | 350 lbs | 300 lbs |
+| **Weight capacity** | 275 lbs | 350 lbs | 395 lbs (XL) | 350 lbs | 300 lbs |
 | **Lumbar** | 2-way | PostureFit SL | 4-way | 2-way | Basic |
 | **Armrests** | 5D | 4D | 4D | 3D | 2D |
 | **Warranty** | 7 years | 12 years | 5 years | 2 years | Lifetime* |

@@ -21,7 +21,7 @@ faq:
     answer: "For a single monitor setup, 48x24 inches is enough. For dual monitors or more workspace, get 55x28 or 60x30 inches. Measure your space first—standing desks need room to raise without hitting shelves or windows above. Also consider depth: 30 inches is better than 24 if you have space."
   - question: "Which standing desk brand is most reliable?"
     answer: "FlexiSpot and Uplift lead in reliability, both offering 10-15 year warranties on frames. Autonomous and Branch are good mid-tier options with 5-7 year warranties. Avoid no-name Amazon brands with 1-2 year warranties—standing desks have motors and electronics that can fail."
-tldr: "Get the FlexiSpot E7 Pro (~$500) for the best balance of quality, stability, and price. The Uplift V2 (~$570+) offers more customization if you want specific desktop materials. Budget pick: Branch Duo (~$450). All prices as of March 2026—check current prices before buying."
+tldr: "Get the FlexiSpot E7 Pro (~$500) for the best balance of quality, stability, and price. The Uplift V2 (~$599+) offers more customization if you want specific desktop materials. Budget pick: Branch Duo (~$549). All prices as of March 2026—check current prices before buying."
 isListicle: true
 ---
 
@@ -36,8 +36,8 @@ I've researched the major brands, compared specs, and identified the best option
 | Desk | Price | Best For | Our Verdict |
 |------|-------|----------|-------------|
 | **FlexiSpot E7 Pro** | ~$500 | Most people | ⭐ Best overall |
-| **Uplift V2** | ~$570+ | Customization | Best premium option |
-| **Branch Duo** | ~$450 | Budget + storage | Best value |
+| **Uplift V2** | ~$599+ | Customization | Best premium option |
+| **Branch Duo** | ~$549 | Budget + storage | Best value |
 | **Autonomous SmartDesk Pro** | ~$500 | Clean aesthetics | Good alternative |
 
 *Prices fluctuate—check current prices on manufacturer websites before buying.*
@@ -111,7 +111,7 @@ The E7 Pro consistently wins comparison tests, and for good reason. It's not the
 
 ### 2. Uplift V2 — Best for Customization
 
-**Price:** Starting at ~$570 (goes up significantly with options)
+**Price:** Starting at ~$599 (goes up significantly with options)
 
 If you want to spec out your dream desk with specific desktop materials, sizes, and accessories, Uplift is unmatched. They offer over 20 desktop materials from basic laminate to solid walnut.
 
@@ -139,7 +139,7 @@ If you want to spec out your dream desk with specific desktop materials, sizes, 
 
 **Best for:** People who want specific materials (bamboo, reclaimed wood, etc.) or plan to build out a full accessory setup.
 
-**Price warning:** That $570 starting price can easily hit $1000+ with a nice desktop and accessories. Configure carefully.
+**Price warning:** That $599 starting price can easily hit $1000+ with a nice desktop and accessories. Configure carefully.
 
 **Sources:** [CNN Underscored](https://www.cnn.com/cnn-underscored/reviews/uplift-v2-commercial-standing-desk), [Tom's Guide](https://www.tomsguide.com/reviews/uplift-v2-standing-desk)
 
@@ -147,7 +147,7 @@ If you want to spec out your dream desk with specific desktop materials, sizes, 
 
 ### 3. Branch Duo — Best Budget Option
 
-**Price:** Starting at ~$450
+**Price:** Starting at ~$549
 
 Branch is relatively new to standing desks but has made a strong entry. The Duo model includes built-in storage (a shelf under the desktop) which most competitors charge extra for.
 
@@ -155,10 +155,10 @@ Branch is relatively new to standing desks but has made a strong entry. The Duo 
 | Spec | Branch Duo |
 |------|------------|
 | Weight capacity | 275 lbs |
-| Height range | 24.5" to 50" |
-| Lifting speed | 1.4"/second |
+| Height range | 28" to 47.3" |
+| Lifting speed | Dual motor |
 | Motors | Dual motor |
-| Frame warranty | 7 years |
+| Frame warranty | 10 years |
 
 **What I Like:**
 - Built-in storage shelf included
@@ -226,10 +226,10 @@ If you want IKEA pricing, consider building your own with their TROTTEN legs and
 
 | Feature | FlexiSpot E7 Pro | Uplift V2 | Branch Duo | Autonomous Pro |
 |---------|------------------|-----------|------------|----------------|
-| **Price (starting)** | ~$480 | ~$570 | ~$450 | ~$500 |
+| **Price (starting)** | ~$480 | ~$599 | ~$549 | ~$500 |
 | **Weight capacity** | 440 lbs | 355 lbs | 275 lbs | 310 lbs |
 | **Height range** | 25-50.6" | 25-50.9" | 24.5-50" | 25.2-51" |
-| **Frame warranty** | 10 years | 15 years | 7 years | 7 years |
+| **Frame warranty** | 10 years | 15 years | 10 years | 7 years |
 | **Motor warranty** | 5 years | 5 years | 7 years | 5 years |
 | **Best feature** | Stability | Customization | Storage | Aesthetics |
 
