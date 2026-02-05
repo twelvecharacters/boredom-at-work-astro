@@ -6,7 +6,26 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 5. Februar 2026)
 
-### Letzte Sitzung (5. Februar 2026 - Spätabend)
+### Letzte Sitzung (5. Februar 2026 - Nacht)
+
+**✅ Internes Linking optimiert (Home Office Cluster):**
+
+| Datei | Neuer Link |
+|-------|------------|
+| `best-ai-tools-office-work.md` | → `/desk-upgrade-guide/` |
+| `best-tech-gifts-under-50.md` | → `/desk-upgrade-guide/` |
+| `best-mechanical-keyboards-beginners.md` | → `/desk-upgrade-guide/`, `/best-office-chairs/` |
+| `ai-tools-guide.md` | → `/desk-upgrade-guide/` (neue Related Section) |
+| `best-standing-desks.md` | → `/best-office-chairs/` |
+
+**🧹 Image-Ordner aufgeräumt:**
+- 64 Source-Dateien gelöscht (PNG/JPG)
+- **150 MB** Speicherplatz freigemacht
+- WebP-Versionen in `public/images/` bleiben (101 Dateien, ~8 MB)
+
+---
+
+### Sitzung (5. Februar 2026 - Spätabend)
 
 **✅ Umfassender Fact-Check durchgeführt — 26 Artikel korrigiert:**
 
