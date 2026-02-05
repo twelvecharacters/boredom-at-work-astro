@@ -39,7 +39,7 @@
 | Best Standing Desks | `/best-standing-desks/` | 8. März | ✅ Geschrieben |
 | Best Office Chairs | `/best-office-chairs/` | 10. März | ✅ Geschrieben |
 | Desk Upgrade Guide (Hub) | `/desk-upgrade-guide/` | TBD | ❌ TODO |
-| Monitor Arms Guide | `/monitor-arms-guide/` | TBD | ❌ TODO |
+| Best Monitor Arms | `/best-monitor-arms/` | 12. März | ✅ Geschrieben |
 | Cable Management Tips | `/cable-management-tips/` | TBD | ❌ TODO |
 
 **✅ Fact-Checking Prozess etabliert:**
