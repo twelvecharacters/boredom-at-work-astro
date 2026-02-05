@@ -64,14 +64,14 @@ Reality check: No shipping hassle, cash transactions, but limited scale.
 
 ### Selling Digital Files (STLs)
 
-**Cults3D** — Largest Marketplace  
-8-20% commission (depends on exclusivity and tier)  
-Best for: Gadgets, art, functional designs  
-Reality check: High traffic, high competition. Non-exclusive listings get less visibility.
+**Cults3D** — Largest Marketplace
+20% flat commission (seller receives 80%)
+Best for: Gadgets, art, functional designs
+Reality check: High traffic, high competition. Simple fee structure with no tiers.
 
-**MyMiniFactory** — Curated Quality  
-Tribe subscription model or per-sale commission (~30%)  
-Best for: Tabletop gaming, miniatures, high-detail models  
+**MyMiniFactory** — Curated Quality
+10-15% commission depending on creator tier (+ payment processing)
+Best for: Tabletop gaming, miniatures, high-detail models
 Reality check: Smaller but dedicated audience. Quality standards mean less junk competition.
 
 **Thangs** — The New Player  
@@ -93,8 +93,8 @@ Reality check: You drive 100% of your own traffic. Only worth it once you've val
 | **Etsy** | Physical | ~10-12% | Mainstream gift buyers | Decor, props, personalized items |
 | **eBay** | Physical | ~13% | Problem-solvers | Functional parts, replacements |
 | **FB Marketplace** | Physical | 0% | Local buyers | Large items, testing ideas |
-| **Cults3D** | Digital | 8-20% | Makers & hobbyists | Gadgets, art, functional STLs |
-| **MyMiniFactory** | Digital | ~30% or subscription | Tabletop/gaming fans | Miniatures, detailed models |
+| **Cults3D** | Digital | 20% flat | Makers & hobbyists | Gadgets, art, functional STLs |
+| **MyMiniFactory** | Digital | 10-15% | Tabletop/gaming fans | Miniatures, detailed models |
 | **Shopify** | Both | ~$29/mo + 2.9% | Your own traffic | Scaling, brand building |
 
 ### The Smart Strategy

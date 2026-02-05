@@ -7,12 +7,12 @@ author: "bored chap"
 image: "/images/airpods-pro-3-review.webp"
 tags: ["Tech & Gadgets", "AirPods", "Apple", "Earbuds", "Review"]
 draft: false
-tldr: "Better ANC, longer battery (8h vs 6h), more water resistant — but $279 isn't a must-upgrade from Pro 2. Worth it if you're buying new or your old AirPods are dying."
+tldr: "Better ANC, longer battery (8h vs 6h), more water resistant — but $249 isn't a must-upgrade from Pro 2. Worth it if you're buying new or your old AirPods are dying."
 review:
   rating: 4
   productName: "AirPods Pro 3"
   productBrand: "Apple"
-  priceRange: "$279"
+  priceRange: "$249"
 faq:
   - question: "Are AirPods Pro 3 worth upgrading from AirPods Pro 2?"
     answer: "If your AirPods Pro 2 still work well, probably not. The improvements are incremental. But if you're coming from the original AirPods Pro or regular AirPods, it's a significant upgrade in sound quality and ANC."
@@ -39,9 +39,9 @@ But under the hood:
 | Battery (case) | 30 hours | 24 hours |
 | ANC | Excellent | Even better |
 | Water resistance | IPX4 | IP57 |
-| Price | $249 | $279 |
+| Price | $249 | $249 |
 
-The $30 price bump stings a bit, but the improvements are real.
+The price stays the same as the Pro 2, and the improvements are real.
 
 ## Sound Quality: Noticeably Improved
 
@@ -93,7 +93,7 @@ I'm not old enough to need hearing aids (yet), but the hearing test was surprisi
 
 ## What I Don't Love
 
-**The price creep.** $279 for earbuds is a lot. The original AirPods Pro launched at $249.
+**Still premium pricing.** $249 for earbuds is still a lot, even if Apple kept the price the same as the Pro 2.
 
 **Still no lossless audio.** Bluetooth limitations mean you're not getting the full quality of Apple Music Lossless tracks. Disappointing for a premium product.
 

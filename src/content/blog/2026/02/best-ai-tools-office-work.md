@@ -76,7 +76,7 @@ ChatGPT pioneered the category and still offers the most features:
 **Strengths:**
 - Web browsing for current information
 - DALL-E image generation built in
-- Huge plugin ecosystem
+- Huge Custom GPT ecosystem
 - Code interpreter for data analysis
 - Better mobile app
 
@@ -109,7 +109,7 @@ See our full [Perplexity AI guide](/perplexity-ai-guide/) for tips and tricks.
 ### Which AI Assistant Should You Use?
 
 **Use Claude for:** Writing, analysis, working with documents
-**Use ChatGPT for:** Web research, images, plugins
+**Use ChatGPT for:** Web research, images, Custom GPTs
 **Use Perplexity for:** Quick research with sources
 
 Many power users subscribe to 2-3 of these. They complement each other well.

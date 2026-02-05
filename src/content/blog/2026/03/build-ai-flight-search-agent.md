@@ -10,7 +10,7 @@ faq:
   - question: "What is an AI flight search agent?"
     answer: "An AI agent that automatically searches multiple flight sources, compares prices, considers your preferences, and finds the best routes—like having a personal travel assistant working 24/7."
   - question: "Can I build a flight search agent without coding?"
-    answer: "Yes! Tools like ChatGPT with plugins, Zapier, and Make.com let you create basic flight search automation without writing code. For more control, simple Python scripts are beginner-friendly."
+    answer: "Yes! Tools like ChatGPT with web search, Zapier, and Make.com let you create basic flight search automation without writing code. For more control, simple Python scripts are beginner-friendly."
   - question: "Is it legal to scrape flight prices?"
     answer: "Scraping airline websites directly often violates terms of service. Instead, use official APIs like Amadeus, Skyscanner, or Kiwi.com which provide legal access to flight data."
 ---
@@ -40,12 +40,12 @@ Unlike a simple flight search, an agent can:
 
 Let's start with tools anyone can use right now.
 
-### Option A: ChatGPT with Kayak Plugin
+### Option A: ChatGPT with Web Search
 
-If you have ChatGPT Plus ($20/month), you can enable the Kayak plugin:
+If you have ChatGPT Plus ($20/month), you can use web search to check real flight prices:
 
-1. Go to ChatGPT → Settings → Plugins
-2. Enable "Kayak"
+1. Enable web search in your ChatGPT conversation
+2. Ask ChatGPT to search for flights
 3. Ask naturally:
 
 ```
@@ -55,9 +55,9 @@ and can fly from any Berlin-area airport.
 Show me options with 1 stop maximum.
 ```
 
-**What you get:** ChatGPT searches Kayak, compares options, and presents results conversationally.
+**What you get:** ChatGPT searches flight sites, compares options, and presents results conversationally.
 
-**Limitations:** Only searches Kayak's inventory, can't monitor prices over time.
+**Limitations:** Results vary based on search quality; can't monitor prices over time automatically.
 
 ### Option B: Google Flights + Gemini
 
@@ -377,7 +377,7 @@ For now, agents excel at *finding* deals—you still click "book" yourself.
 ## Key Takeaways
 
 1. **AI agents are tools + intelligence** - They search, analyze, and decide
-2. **Start simple** - ChatGPT plugins work for most people
+2. **Start simple** - ChatGPT with web search works for most people
 3. **Official APIs are key** - Don't scrape; use Amadeus, Skyscanner, or Kiwi
 4. **AI adds the magic** - Transforms raw data into personalized recommendations
 5. **The future is autonomous** - Agents will book for you, not just search

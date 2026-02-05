@@ -44,7 +44,7 @@ This fundamental difference shapes everything about their AI implementations.
 
 | Feature | Notion AI | Obsidian AI (Plugins) |
 |---------|-----------|----------------------|
-| Price | $10/mo add-on | Free - $20/mo (varies) |
+| Price | Included in Business ($20/user/mo) | Free - $20/mo (varies) |
 | Setup | One click | Requires configuration |
 | Privacy | Cloud processed | Can be local |
 | Integration | Native, seamless | Plugin-dependent |
@@ -56,7 +56,7 @@ This fundamental difference shapes everything about their AI implementations.
 
 ### What You Get
 
-Notion AI is a $10/month add-on to any Notion plan (including free). It adds AI capabilities throughout the app:
+Notion AI is now bundled into Notion's Business plan ($20/user/month). The previous $10/month add-on was discontinued for new users in May 2025. Here's what Notion AI offers:
 
 **Writing Assistance**
 - Generate drafts from prompts
@@ -93,7 +93,7 @@ AI is built into every text block. Highlight text, press a shortcut, and AI opti
 This is Notion AI's killer feature. Ask questions about anything in your workspace, and it finds and synthesizes answers. Game-changer for large knowledge bases.
 
 **Zero Configuration**
-Click a button, pay $10/month, done. No API keys, no setup, no technical knowledge required.
+Just upgrade to Business plan and AI is enabled. No API keys, no setup, no technical knowledge required.
 
 **Collaborative**
 AI-generated content is visible to all workspace members. Great for teams.
@@ -104,7 +104,7 @@ AI-generated content is visible to all workspace members. Great for teams.
 Everything is processed on Notion's servers. Your notes, your prompts, your AI queries — all sent to the cloud.
 
 **Cost Adds Up**
-$10/user/month. For a team of 10, that's $100/month just for AI, plus Notion subscription costs.
+AI is only available on Business plan ($20/user/month). For a team of 10, that's $200/month for Notion with AI included.
 
 **Limited Customization**
 You can't choose models, adjust parameters, or use custom prompts. You get what Notion provides.
@@ -226,15 +226,15 @@ Obsidian is fundamentally single-user. Sharing AI features with a team is awkwar
 
 ### Cost (Individual User)
 
-**Notion AI:** $10/month flat fee
+**Notion AI:** Requires Business plan ($20/month) — AI no longer available as standalone add-on
 
 **Obsidian:** Free (local models) to ~$5-20/month (API usage for heavy users)
 
-**Winner:** Depends on usage. Light users save with Obsidian. Heavy users might prefer Notion's flat rate.
+**Winner:** Obsidian for cost-conscious users who don't need Notion's collaboration features.
 
 ### Cost (Team of 10)
 
-**Notion AI:** $100/month ($10 × 10 users)
+**Notion AI:** $200/month (Business plan × 10 users, AI included)
 
 **Obsidian:** Varies wildly. Could be $0 (local) to $200+ (heavy API usage)
 

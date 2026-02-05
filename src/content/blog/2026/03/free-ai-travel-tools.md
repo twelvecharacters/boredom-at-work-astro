@@ -8,9 +8,9 @@ tags: ["AI", "Travel", "Budget", "Free Tools"]
 draft: false
 faq:
   - question: "Is the free version of ChatGPT good enough for travel planning?"
-    answer: "Yes, for basic itineraries. The free version lacks web browsing and the Expedia plugin, but it can still create solid trip frameworks. Verify details manually."
+    answer: "Yes, for basic itineraries. The free version has limited web browsing, but it can still create solid trip frameworks. Verify details manually."
   - question: "What's the best free AI trip planner?"
-    answer: "Google Gemini offers the best completely free experience with real-time information. For dedicated planners, Wanderlog's free tier is excellent for road trips."
+    answer: "Google Gemini offers a generous free tier with real-time information (though advanced models have daily limits). For dedicated planners, Wanderlog's free tier is excellent for road trips."
   - question: "Do I need to pay for AI travel planning?"
     answer: "No. You can plan excellent trips using only free tools. Premium features add convenience but aren't necessary for great travel planning."
 ---
@@ -24,7 +24,7 @@ Here's how to use completely free AI tools for budget travel planning.
 ### 1. Google Gemini - Best Overall Free Option
 
 **Why it's great**:
-- Completely free with no usage limits
+- Generous free tier (with daily limits on advanced models)
 - Real-time information (unlike ChatGPT free)
 - Integrates naturally with Google Maps, Flights, Hotels
 - Gives current prices and availability
@@ -61,8 +61,8 @@ Here's how to use completely free AI tools for budget travel planning.
 - Explaining cultural context
 
 **Limitations**:
-- No web browsing (information may be outdated)
-- No Expedia plugin (can't check real prices)
+- Limited web browsing on free tier (information may be outdated)
+- Can't reliably check real-time prices
 - Usage limits during peak times
 
 **Best for**: Creating the framework of your trip, then verifying elsewhere.
@@ -299,7 +299,7 @@ I want adequate protection without overpaying.
 Free tools handle 90% of travel planning needs. Consider paying only if:
 
 - **You travel frequently**: Premium tools save time if you plan multiple trips per year
-- **You need real-time booking**: ChatGPT Plus with Expedia plugin speeds up price checking
+- **You need real-time booking**: ChatGPT Plus with web search speeds up price checking
 - **You're planning extremely complex trips**: Claude Pro's longer context helps with multi-week adventures
 - **You collaborate extensively**: Premium Wanderlog makes team planning easier
 

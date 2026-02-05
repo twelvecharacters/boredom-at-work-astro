@@ -8,11 +8,11 @@ tags: ["AI", "Travel", "ChatGPT", "Claude"]
 draft: false
 faq:
   - question: "Is Claude or ChatGPT better for travel planning?"
-    answer: "ChatGPT is better for quick itineraries and has the Expedia plugin for bookings. Claude excels at detailed research, nuanced recommendations, and handling complex multi-destination trips."
+    answer: "ChatGPT is better for quick itineraries and has web search for checking current prices. Claude excels at detailed research, nuanced recommendations, and handling complex multi-destination trips."
   - question: "Does Claude have travel planning features?"
-    answer: "Claude doesn't have travel-specific plugins like ChatGPT, but its longer context window and thoughtful responses make it excellent for detailed trip research and planning."
+    answer: "Claude now has web search capabilities like ChatGPT, and its longer context window and thoughtful responses make it excellent for detailed trip research and planning."
   - question: "Can I use both Claude and ChatGPT for one trip?"
-    answer: "Yes! Many travelers use Claude for research and detailed planning, then ChatGPT with Expedia for checking prices and availability."
+    answer: "Yes! Many travelers use Claude for research and detailed planning, then ChatGPT with web search for checking current prices and availability."
 ---
 
 ChatGPT gets all the hype for travel planning, but Claude has quietly become a serious contender. We tested both AI assistants on the same travel planning tasks to find out which one actually helps you plan better trips.
@@ -174,9 +174,9 @@ Not because Claude was more accurate, but because Claude was more honest about l
 
 ### Tools and Integrations
 
-**ChatGPT** wins hands-down with the Expedia plugin for checking real prices and availability.
+**ChatGPT** has web search built-in for checking real prices and availability.
 
-**Claude** has no travel-specific integrations, which limits its utility for booking.
+**Claude** now also has web search, narrowing the gap. Neither directly books travel, but both can find current pricing.
 
 ### Knowledge Approach
 
@@ -191,7 +191,7 @@ Not because Claude was more accurate, but because Claude was more honest about l
 ### Use ChatGPT When:
 
 - You need a quick, standard itinerary
-- You want to check prices and availability (Expedia plugin)
+- You want quick price checks via web search
 - Planning a popular destination with well-worn routes
 - You're short on time and need "good enough" fast
 
@@ -208,7 +208,7 @@ Not because Claude was more accurate, but because Claude was more honest about l
 This is our recommended approach:
 
 1. **Claude for research**: Initial brainstorming, detailed itinerary, nuanced recommendations
-2. **ChatGPT for booking**: Price checking with Expedia, availability confirmation
+2. **ChatGPT for price checking**: Quick web searches for current prices and availability
 3. **Claude for refinement**: Adjusting based on constraints, getting alternatives
 
 ### For Dietary Restrictions

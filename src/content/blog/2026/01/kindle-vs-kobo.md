@@ -11,7 +11,7 @@ review:
   rating: 4
   productName: "Kindle Paperwhite"
   productBrand: "Amazon"
-  priceRange: "$149"
+  priceRange: "$160"
 faq:
   - question: "Can I read Kindle books on a Kobo?"
     answer: "Not directly. Kindle books use Amazon's DRM protection. However, you can use software like Calibre to convert formats, though this exists in a legal gray area depending on your country."
@@ -45,7 +45,7 @@ Let's break down the real differences.
 
 | Feature | Kindle Paperwhite | Kobo Clara 2E |
 |---------|-------------------|---------------|
-| Price | $159 | $140 |
+| Price | $160 | $140 |
 | Screen Size | 7" | 6" |
 | Resolution | 300 PPI | 300 PPI |
 | Storage | 16GB | 16GB |
@@ -133,17 +133,18 @@ You can convert EPUBs for Kindle using Calibre software, but it's an extra step.
 | Model | Price | Screen | Key Features |
 |-------|-------|--------|--------------|
 | Kindle | $109 | 6" | Basic, budget-friendly |
-| Paperwhite | $159 | 7" | Best value, waterproof |
-| Paperwhite Signature | $199 | 7" | Wireless charging, 32GB |
-| Oasis | $249 | 7" | Physical buttons, metal body |
-| Scribe | $339 | 10.2" | Stylus, note-taking |
+| Paperwhite | $160 | 7" | Best value, waterproof |
+| Paperwhite Signature | $200 | 7" | Wireless charging, 32GB |
+| Scribe | $499 | 10.2" | Stylus, note-taking |
+
+*Note: Kindle Oasis discontinued in 2025*
 
 ### Kobo Lineup (2026)
 
 | Model | Price | Screen | Key Features |
 |-------|-------|--------|--------------|
-| Kobo Nia | $109 | 6" | Budget option |
-| Kobo Clara 2E | $149 | 6" | Made from recycled plastic |
+| Kobo Clara BW | $129 | 6" | Budget option |
+| Kobo Clara Colour | $150 | 6" | Color screen, recycled plastic |
 | Kobo Libra 2 | $189 | 7" | Physical buttons, waterproof |
 | Kobo Sage | $259 | 8" | Stylus support, Dropbox |
 | Kobo Elipsa 2E | $399 | 10.3" | Large screen, note-taking |

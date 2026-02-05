@@ -12,7 +12,7 @@ faq:
   - question: "Should I use ChatGPT Plus for travel planning?"
     answer: "The free version works for basic planning, but ChatGPT Plus offers better accuracy and can browse the web for current information. If you're planning an expensive trip, the $20/month is worth it."
   - question: "Can ChatGPT book flights and hotels?"
-    answer: "ChatGPT itself cannot book directly, but the Expedia plugin allows you to see real prices and transfer to Expedia for booking. For actual bookings, use dedicated travel sites."
+    answer: "ChatGPT cannot book directly, but it can use web search to find current prices and link you to booking sites. For actual bookings, use dedicated travel sites like Expedia, Kayak, or Google Flights."
 ---
 
 ChatGPT can be an incredible travel planning assistant—if you know how to ask. The difference between a mediocre AI response and a genuinely useful one comes down to your prompts.

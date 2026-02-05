@@ -8,10 +8,10 @@ author: "bored chap"
 image: "/images/claude-vs-chatgpt.webp"
 tags: ["AI", "ChatGPT", "Claude", "Productivity", "Comparison"]
 draft: false
-tldr: "Both cost $20/month. Claude is better for long-form writing and analysis, ChatGPT for image/video generation and plugins. Both now have web search. Most people only need one — pick based on your main use case."
+tldr: "Both cost $20/month. Claude is better for long-form writing and analysis, ChatGPT for image/video generation and Custom GPTs. Both now have web search. Most people only need one — pick based on your main use case."
 faq:
   - question: "Is Claude better than ChatGPT?"
-    answer: "Neither is universally better. Claude excels at long-form writing, nuanced analysis, and following complex instructions. ChatGPT is better for image/video generation, plugins, and has a larger ecosystem. Choose based on your primary use case."
+    answer: "Neither is universally better. Claude excels at long-form writing, nuanced analysis, and following complex instructions. ChatGPT is better for image/video generation, Custom GPTs, and has a larger ecosystem. Choose based on your primary use case."
   - question: "Can I use Claude for free?"
     answer: "Yes, Claude offers a free tier with limited messages per day, including web search. For heavy use, Claude Pro costs $20/month — the same as ChatGPT Plus."
   - question: "Which AI is better for coding?"
@@ -37,7 +37,7 @@ After using both extensively for work, I'll break down where each excels — and
 
 **Choose ChatGPT if:**
 - You need image generation (DALL-E) or video (Sora)
-- You use plugins and integrations heavily
+- You use Custom GPTs and integrations heavily
 - You want deep research and agent mode
 - You prefer a larger ecosystem of tools
 
@@ -137,7 +137,7 @@ Both are excellent coding assistants with dedicated coding agents now.
 - **Codex agent** — Advanced coding assistant
 - More integrations (GitHub Copilot ecosystem)
 - Code Interpreter for running Python
-- Larger training data and plugin ecosystem
+- Larger training data and GPT ecosystem
 
 **For day-to-day coding help:** Both work well. Choose based on your workflow.
 
@@ -280,7 +280,7 @@ If privacy matters, Claude has a slight edge for individual users. Both offer bu
 ### Use ChatGPT For:
 - Image generation (DALL-E)
 - Video generation (Sora)
-- Plugin-based workflows
+- Custom GPT workflows
 - Quick answers to straightforward questions
 - Deep research with agent mode
 - Anything requiring visual content creation
@@ -313,7 +313,7 @@ Both cost $20/month for Pro/Plus. Both have useful free tiers.
 
 **Start with Claude** if you primarily need an AI for writing, analysis, or working with long documents. The quality difference is worth it.
 
-**Start with ChatGPT** if you need image/video generation, or use lots of plugins and integrations.
+**Start with ChatGPT** if you need image/video generation, or use lots of Custom GPTs and integrations.
 
 **Get both** if you use AI heavily for work. They complement each other well — Claude for quality, ChatGPT for visual content and features.
 

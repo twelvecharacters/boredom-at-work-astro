@@ -74,7 +74,7 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 
 **Best for**: Road trips, multi-city itineraries, group travel.
 
-**Price**: Free basic / $8 per month for Pro.
+**Price**: Free basic / $4.99 per month for Pro.
 
 **Our take**: If your trip involves any driving, Wanderlog is unbeatable. The map-based interface makes complex routes simple.
 
@@ -89,7 +89,7 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 - Conversational refinement
 - Handles unusual requests well
 - Great for brainstorming
-- Expedia plugin for real prices
+- Expedia integration for real prices
 
 **What could be better**:
 - No visual itinerary organization

@@ -210,7 +210,7 @@ How does it compare to other popular options?
 
 | Feature | Google AI Essentials | Elements of AI | IBM AI Foundations |
 |---------|---------------------|----------------|-------------------|
-| Time | 10 hours | 6 hours | 6 hours |
+| Time | 10 hours | 25-50 hours | ~20 hours |
 | Cost | Free/$49 | Free (incl. cert) | Free/$49 |
 | Certificate | Google | University of Helsinki | IBM |
 | Focus | Practical use | Conceptual understanding | Business context |

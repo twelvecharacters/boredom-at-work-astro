@@ -10,7 +10,7 @@ draft: false
 isListicle: true
 faq:
   - question: "What is the best 3D printer under $300 for absolute beginners?"
-    answer: "The Bambu Lab A1 Mini (~$280) is the best 3D printer under $300 for beginners. It prints right out of the box without calibration and delivers excellent quality. If you want to tinker, go for the Creality Ender 3 V3 SE (~$200)."
+    answer: "The Bambu Lab A1 Mini (~$219) is the best 3D printer under $300 for beginners. It prints right out of the box without calibration and delivers excellent quality. If you want to tinker, go for the Creality Ender 3 V3 SE (~$200)."
   - question: "Is a cheap 3D printer under $200 worth it?"
     answer: "Yes, but with limitations. The Creality Ender 3 V3 SE at ~$200 is excellent but requires more learning. Below $150, quality becomes problematic - these printers often cost more long-term through frustration and upgrades."
   - question: "Bambu or Creality - which brand is better?"
@@ -29,15 +29,15 @@ In this 3D printer comparison, I'll introduce you to the best beginner printers 
 
 | Printer | Price | Print Volume | Speed | Best For |
 |---------|-------|--------------|-------|----------|
-| **Bambu Lab A1 Mini** | ~$280 | 180x180x180mm | 500mm/s | Beginners who don't want to tinker |
+| **Bambu Lab A1 Mini** | ~$219 | 180x180x180mm | 500mm/s | Beginners who don't want to tinker |
 | **Creality Ender 3 V3 SE** | ~$200 | 220x220x250mm | 250mm/s | Budget tinkerers |
 | **Creality Ender 3 V3** | ~$280 | 220x220x250mm | 500mm/s | Best Creality option |
-| **Anycubic Kobra 3** | ~$250 | 220x220x250mm | 500mm/s | Solid middle ground |
+| **Anycubic Kobra 3** | ~$350 | 250x250x260mm | 500mm/s | Solid middle ground |
 | **Elegoo Neptune 4** | ~$230 | 225x225x265mm | 500mm/s | Value champion |
 
 ## 1. Bambu Lab A1 Mini - Best for Beginners
 
-**Price:** ~$280 | **Print Volume:** 180x180x180mm
+**Price:** ~$219 | **Print Volume:** 180x180x180mm
 
 The Bambu Lab A1 Mini is the best 3D printer under $300 for beginners. It has revolutionized how we think about affordable 3D printers.
 
@@ -137,7 +137,7 @@ For everyone who needs more print volume than the A1 Mini but doesn't want the B
 
 ## 4. Anycubic Kobra 3 - The Dark Horse
 
-**Price:** ~$250 | **Print Volume:** 220x220x250mm
+**Price:** ~$350 | **Print Volume:** 250x250x260mm
 
 Anycubic has a solid mid-range printer with the Kobra 3 that's often overlooked.
 
@@ -199,7 +199,7 @@ The Elegoo Neptune 4 offers excellent value for money with Klipper firmware pre-
 - Want the best print quality
 - Need a compact device for your desk
 - Might want multi-color printing later
-- Are willing to invest $280
+- Are willing to invest ~$220
 
 ### Choose the Creality Ender 3 V3 SE if you...
 
@@ -253,7 +253,7 @@ The Bambu A1 Mini fits on any desk (~16x14 inches). Larger printers like the End
 
 ### Is the Bambu Worth the Extra Money?
 
-If you want to print immediately and avoid frustration: Yes, absolutely. The $80 difference to the Ender 3 V3 SE saves you in the first weeks through fewer failed prints and time saved.
+If you want to print immediately and avoid frustration: Yes, absolutely. The ~$20 premium over the Ender 3 V3 SE saves you time and frustration through fewer failed prints.
 
 ## My Verdict: The Best 3D Printer Under $300 in 2026
 

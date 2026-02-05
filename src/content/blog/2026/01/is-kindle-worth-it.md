@@ -27,10 +27,11 @@ A Kindle is Amazon's e-reader — a device designed specifically for reading dig
 
 The current Kindle lineup (2026):
 - **Kindle (basic)** — $109, 6" screen, 16GB
-- **Kindle Paperwhite** — $159, 7" screen, waterproof, 16GB
-- **Kindle Paperwhite Signature Edition** — $199, wireless charging, auto-brightness, 32GB
-- **Kindle Scribe** — $339, 10.2" screen, stylus for notes
-- **Kindle Oasis** — $249, premium build, physical buttons
+- **Kindle Paperwhite** — $160, 7" screen, waterproof, 16GB
+- **Kindle Paperwhite Signature Edition** — $200, wireless charging, auto-brightness, 32GB
+- **Kindle Scribe** — $499, 10.2" screen, stylus for notes
+
+*Note: Kindle Oasis discontinued in 2025*
 
 ## The Case FOR Buying a Kindle
 
@@ -136,7 +137,7 @@ Yes, the battery lasts weeks. But it's still another device to keep track of, pa
 
 ## Which Kindle Should You Buy?
 
-**For most people: Kindle Paperwhite ($159)**
+**For most people: Kindle Paperwhite ($160)**
 
 The Paperwhite hits the sweet spot: larger 7" screen than the basic Kindle, waterproof (read in the bath!), and adjustable warm light. It's the best value in the lineup.
 
@@ -144,13 +145,13 @@ The Paperwhite hits the sweet spot: larger 7" screen than the basic Kindle, wate
 
 Fine for casual readers. Smaller screen, no waterproofing, and the light isn't as good, but it does the core job well.
 
-**For note-takers: Kindle Scribe ($339)**
+**For note-takers: Kindle Scribe ($499)**
 
 If you want to annotate books or use it as a digital notebook, the Scribe is excellent. But it's a significant investment.
 
-**Skip the Oasis**
+**Note on the Oasis**
 
-The Oasis was premium in its day, but it hasn't been updated in years. The Paperwhite is now better in most ways at a lower price.
+The Kindle Oasis was discontinued in 2025. The Paperwhite now offers similar or better features at a lower price.
 
 ## Kindle vs. Kobo vs. Phone
 
@@ -158,7 +159,7 @@ Not sure which e-reader brand to choose? Check out our detailed [Kindle vs Kobo 
 
 | Feature | Kindle Paperwhite | Kobo Clara 2E | Phone (Kindle App) |
 |---------|-------------------|---------------|-------------------|
-| Price | $159 | $140 | Free (you have one) |
+| Price | $160 | $140 | Free (you have one) |
 | Screen | 7" E Ink | 6" E Ink | Varies (LCD) |
 | Eye strain | Low | Low | Higher |
 | Battery | Weeks | Weeks | Hours |

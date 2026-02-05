@@ -9,7 +9,7 @@ tags: ["3D Printing", "Beginners", "Guide", "FDM", "Tutorial"]
 draft: false
 faq:
   - question: "How much does a good beginner 3D printer cost?"
-    answer: "A solid beginner 3D printer costs between $200-400. The Bambu Lab A1 Mini (~$300) or Creality Ender 3 V3 SE (~$200) are excellent options for getting started."
+    answer: "A solid beginner 3D printer costs between $200-300. The Bambu Lab A1 Mini (~$219) or Creality Ender 3 V3 SE (~$200) are excellent options for getting started."
   - question: "Is 3D printing hard to learn?"
     answer: "Getting started is easier than you think. With modern printers like the Bambu Lab A1 Mini, you can create your first successful print within hours. The learning curve is steep initially but flattens quickly."
   - question: "What material should beginners use?"
@@ -51,7 +51,7 @@ The Ender 3 V3 SE offers unbeatable value for money:
 
 **Perfect for:** Tinkerers who like to experiment and learn.
 
-### Premium Pick: Bambu Lab A1 Mini (~$300)
+### Premium Pick: Bambu Lab A1 Mini (~$219)
 
 The A1 Mini is the Tesla of beginner printers:
 - Fully automatic - unbox and print

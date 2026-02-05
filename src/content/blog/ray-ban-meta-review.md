@@ -7,12 +7,12 @@ image: "/images/ray-ban-meta-review.webp"
 tags: ["Tech", "Gadgets", "Smart Glasses", "Meta", "Review"]
 draft: true
 faq:
-  - question: "Are Ray-Ban Meta glasses worth $299?"
-    answer: "It depends on your use case. For hands-free calls, music, and quick photos, they're excellent. But if you're expecting AR features or all-day battery life, you might be disappointed. They're best for people already wearing glasses who want smart features without extra devices."
+  - question: "Are Ray-Ban Meta glasses worth $379?"
+    answer: "It depends on your use case. For hands-free calls, music, and quick photos, the Gen 2 model is excellent with improved 8-hour battery life. But if you're expecting full AR features, you might be disappointed. They're best for people already wearing glasses who want smart features without extra devices."
   - question: "Can you use Ray-Ban Meta glasses at work?"
     answer: "Yes, they're discreet enough for office use. The speakers are surprisingly good for calls and music without bothering coworkers. However, be mindful of the camera - some workplaces have policies about recording devices."
   - question: "How long does Ray-Ban Meta battery last?"
-    answer: "With moderate use (some music, a few calls, occasional photos), I get about 4-5 hours. The charging case provides additional charges, giving you roughly 32 hours total before needing a power outlet."
+    answer: "The Gen 2 model offers up to 8 hours with moderate use (some music, a few calls, occasional photos) - double the original. The charging case provides additional charges, giving you roughly 48 hours total before needing a power outlet."
 ---
 
 *This article will be written after 3 weeks of real-world testing.*

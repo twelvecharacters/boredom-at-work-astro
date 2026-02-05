@@ -33,10 +33,10 @@ The goal isn't to become an AI expert in a week. It's to build foundational know
 | Certification | Time | Cost | Provider | Certificate |
 |---------------|------|------|----------|-------------|
 | Google AI Essentials | 10 hrs | Free/$49 | Google | Yes |
-| Microsoft AI Fundamentals | 8 hrs | Free/$165 | Microsoft | Optional exam |
-| IBM AI Foundations | 6 hrs | Free/$49 | IBM | Yes |
-| LinkedIn AI Certificate | 15 hrs | $30/mo | LinkedIn | Yes |
-| ChatGPT Prompt Engineering | 5 hrs | Free | DeepLearning.AI | Yes |
+| Microsoft AI Fundamentals | 8 hrs | Free/$99 | Microsoft | Optional exam |
+| IBM AI Foundations | ~20 hrs | Free/$49 | IBM | Yes |
+| LinkedIn AI Certificate | 15 hrs | $39.99/mo | LinkedIn | Yes |
+| ChatGPT Prompt Engineering | ~2 hrs | Free | DeepLearning.AI | Yes |
 
 ## 1. Google AI Essentials
 
@@ -103,7 +103,7 @@ Microsoft's AI learning path prepares you for the AI-900 certification. The lear
 - **Format:** Text-based modules with exercises
 - **Prerequisites:** None
 - **Learning:** Free
-- **Optional exam:** $165 for AI-900 certification
+- **Optional exam:** $99 for AI-900 certification
 
 ### Who It's For
 
@@ -111,9 +111,9 @@ Professionals in corporate or enterprise environments, especially those whose co
 
 ## 3. IBM AI Foundations for Business
 
-**Time: ~6 hours | Certificate: $49**
+**Time: ~20 hours | Certificate: $49**
 
-IBM's course approaches AI from a business strategy perspective. It's less about using tools and more about understanding how AI fits into organizations.
+IBM's course approaches AI from a business strategy perspective. It's less about using tools and more about understanding how AI fits into organizations. While the core content can be completed faster, the full program takes about 20 hours.
 
 ### What You'll Learn
 
@@ -173,7 +173,7 @@ LinkedIn's "Career Essentials in Generative AI" is a collection of courses that 
 - **Platform:** LinkedIn Learning
 - **Format:** Video courses with exercises
 - **Prerequisites:** None
-- **Cost:** $30/month subscription (free trial available)
+- **Cost:** $39.99/month subscription (free trial available)
 
 ### Who It's For
 
@@ -181,7 +181,7 @@ Job seekers who want visible LinkedIn credentials, and anyone whose company prov
 
 ## 5. ChatGPT Prompt Engineering
 
-**Time: ~5 hours | Certificate: Free**
+**Time: ~2 hours | Certificate: Free**
 
 DeepLearning.AI's prompt engineering course is short, practical, and taught by the team behind some of the most popular AI courses in the world. For a self-paced alternative, see our guide to [learning prompt engineering in one afternoon](/prompt-engineering-afternoon/).
 

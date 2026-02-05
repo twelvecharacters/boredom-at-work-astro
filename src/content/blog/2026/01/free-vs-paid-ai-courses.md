@@ -80,7 +80,7 @@ Google's flagship AI course is free to audit. You get all video content, most re
 
 The University of Helsinki's course is completely free, including the certificate. Over 1.8 million people have taken it.
 
-- **Time:** 6 hours
+- **Time:** 25-50 hours (self-paced over several weeks)
 - **What you miss:** Nothing
 - **Quality:** Excellent
 
@@ -158,19 +158,19 @@ Unlimited access to most Coursera courses including all certificates. If you'll 
 **Best for:** Continuous learners, multiple certifications
 **Value:** Excellent if used consistently
 
-### LinkedIn Learning ($30/month)
+### LinkedIn Learning ($39.99/month)
 
 Huge library of professional courses. Certificate appears automatically on LinkedIn.
 
 **Best for:** Job seekers, broad skill building
 **Value:** Good, especially if job hunting
 
-### DataCamp ($25/month)
+### DataCamp (~$43/month)
 
 Hands-on data science and AI courses. Very practice-focused.
 
 **Best for:** Analysts, data-focused roles
-**Value:** Excellent for data roles
+**Value:** Good for data roles (pricey but comprehensive)
 
 ### Individual Coursera Certificates ($49 each)
 

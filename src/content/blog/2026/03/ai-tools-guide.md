@@ -12,7 +12,7 @@ faq:
   - question: "What are the best AI tools for productivity in 2026?"
     answer: "The top 5 AI tools for work productivity are: ChatGPT (best all-rounder), Claude (best for writing and analysis), Perplexity (best for research), Otter.ai (best for meetings), and Grammarly (best for editing). Most professionals use 2-3 tools for different tasks rather than relying on just one."
   - question: "Is ChatGPT or Claude better?"
-    answer: "ChatGPT is more versatile with better plugins, image generation, and integrations. Claude is better for long-form writing, nuanced analysis, and handling large documents (up to 200k tokens). For most office work, either works well. Power users often use both—ChatGPT for quick tasks and Claude for complex writing."
+    answer: "ChatGPT is more versatile with better Custom GPTs, image generation, and integrations. Claude is better for long-form writing, nuanced analysis, and handling large documents (up to 200k tokens). For most office work, either works well. Power users often use both—ChatGPT for quick tasks and Claude for complex writing."
   - question: "How much does it cost to use AI tools at work?"
     answer: "Free tiers cover most casual use. Premium plans cost $20/month for ChatGPT Plus, Claude Pro, or Gemini Advanced. Specialized tools like Jasper ($39-59/month) or Otter.ai ($8-20/month) vary by features. Most professionals start free and only upgrade when hitting daily limits."
   - question: "Are AI tools safe to use with company data?"
@@ -79,7 +79,7 @@ These are the Swiss Army knives of AI—general-purpose tools that handle almost
 
 ### ChatGPT (OpenAI)
 
-**Best for:** All-around versatility, plugins, image generation
+**Best for:** All-around versatility, Custom GPTs, image generation
 
 ChatGPT is the AI that started the revolution and remains the most popular. It's the safest choice if you want one tool that does everything reasonably well.
 

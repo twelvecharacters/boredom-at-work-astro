@@ -417,7 +417,7 @@ Both can help with Excel, but they work differently:
 | **VBA macro creation** | ⭐⭐⭐⭐⭐ | ⭐⭐ |
 | **Learning/teaching** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 | **Live data analysis** | ❌ No | ✅ Yes |
-| **Price** | $20/mo (Plus) | $30/mo (Copilot Pro) |
+| **Price** | $20/mo (Plus) | $20/mo (Copilot Pro) |
 | **Free option** | ✅ Yes | ❌ No |
 
 ### When to Use Each:

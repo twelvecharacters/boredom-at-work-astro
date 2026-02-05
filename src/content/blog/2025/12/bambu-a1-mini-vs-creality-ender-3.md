@@ -11,14 +11,14 @@ review:
   rating: 4.5
   productName: "Bambu Lab A1 Mini"
   productBrand: "Bambu Lab"
-  priceRange: "$280"
+  priceRange: "$219"
 faq:
   - question: "Is the Bambu A1 Mini better than the Creality Ender 3?"
     answer: "For most beginners, yes. The Bambu A1 Mini offers a better out-of-the-box experience and higher print quality. The Ender 3 V3 series is cheaper and gives you more room to print, but expect a steeper learning curve."
   - question: "Why is the Bambu A1 Mini more expensive than the Ender 3?"
     answer: "You're paying for the automation. It handles calibration, vibration compensation, and flow rates on its own. For most people, that's worth the ~$80 premium."
   - question: "Can the Ender 3 print as fast as the Bambu?"
-    answer: "The standard Ender 3 V3 hits the same 500mm/s as the Bambu. However, the budget SE version is capped at 250mm/s, which is noticeably slower."
+    answer: "The standard Ender 3 V3 maxes out at 250mm/s, which is half the Bambu's 500mm/s. The budget SE version is also capped at 250mm/s. For Bambu-matching speeds, you'd need the Ender 3 V3 KE or V3 Plus."
 ---
 
 The question of whether to grab a **Bambu Lab A1 Mini** or a **Creality Ender 3** is something every newcomer to 3D printing is asking in 2026. Both are solid entry points, but they are built for very different people.
@@ -29,9 +29,9 @@ In this deep dive, I’ll break down the real-world differences so you can decid
 
 | Feature | Bambu Lab A1 Mini | Creality Ender 3 V3 SE | Creality Ender 3 V3 |
 |---------|-------------------|------------------------|---------------------|
-| **Price** | ~$280 | ~$200 | ~$280 |
+| **Price** | ~$219 | ~$200 | ~$280 |
 | **Print Volume** | 180x180x180mm | 220x220x250mm | 220x220x250mm |
-| **Max Speed** | 500mm/s | 250mm/s | 500mm/s |
+| **Max Speed** | 500mm/s | 250mm/s | 250mm/s |
 | **Auto-Leveling** | Fully automatic | CR Touch | CR Touch |
 | **Setup Time** | 20 minutes | 30-45 minutes | 30-45 minutes |
 | **Noise Level** | ~48dB | ~55dB | ~52dB |

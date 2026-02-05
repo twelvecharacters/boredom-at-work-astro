@@ -32,8 +32,8 @@ Before we dive deep, here are my top picks for different needs and budgets:
 |--------|-------|----------|----------|
 | **Canon EOS R50** | ~$680 | Best Overall | Perfect balance of features and ease of use |
 | **Canon EOS R100** | ~$480 | Best Budget | Incredible value, great for learning |
-| **Nikon Z50 II** | ~$860 | Best Nikon | Excellent image quality, robust build |
-| **Sony A6100** | ~$600 | Best Autofocus | Unbeatable eye-tracking for portraits |
+| **Nikon Z50 II** | ~$960 | Best Nikon | Excellent image quality, robust build |
+| **Sony A6100** | ~$750 | Best Autofocus | Unbeatable eye-tracking for portraits |
 | **Fujifilm X-T30 II** | ~$900 | Best Colors | Gorgeous film simulations, retro design |
 
 ## What Makes a Good Beginner Camera?
@@ -100,7 +100,7 @@ The Canon EOS R50 is my top recommendation for most beginners in 2026. It strike
 - Intuitive touchscreen interface
 - Excellent Dual Pixel autofocus with eye detection
 - 4K video for vlogging
-- Lightweight (376g body only)
+- Lightweight (328g body only)
 - Feature Assistant explains settings
 
 **Pros:**
@@ -143,7 +143,7 @@ The Canon EOS R100 proves you don't need to spend a fortune to get a capable cam
 
 ### 3. Nikon Z50 II - Best Nikon Option
 
-**Price:** ~$860 with kit lens | **Sensor:** 20.9MP APS-C
+**Price:** ~$960 with kit lens | **Sensor:** 20.9MP APS-C
 
 The Nikon Z50 II improves on the original with better autofocus and a more capable feature set. It's the best entry into Nikon's mirrorless system.
 
@@ -168,7 +168,7 @@ The Nikon Z50 II improves on the original with better autofocus and a more capab
 
 ### 4. Sony A6100 - Best Autofocus
 
-**Price:** ~$600 with kit lens | **Sensor:** 24.2MP APS-C
+**Price:** ~$750 with kit lens | **Sensor:** 24.2MP APS-C
 
 The Sony A6100 may be a few years old, but its autofocus system remains one of the best at any price. For portraits and action, it's hard to beat.
 

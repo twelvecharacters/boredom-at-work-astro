@@ -33,24 +33,24 @@ In this detailed comparison, I'll break down every important difference to help 
 
 | Feature | Canon EOS R100 | Nikon Z50 II |
 |---------|----------------|--------------|
-| **Price (with kit lens)** | ~$480 | ~$860 |
+| **Price (with kit lens)** | ~$480 | ~$960 |
 | **Sensor** | 24.1MP APS-C | 20.9MP APS-C |
 | **Autofocus Points** | 3,975 | 209 |
 | **ISO Range** | 100-12,800 | 100-51,200 |
 | **Continuous Shooting** | 6.5 fps | 11 fps |
 | **Video** | 4K 24p (cropped) | 4K 30p |
-| **Screen** | 3.0" fixed | 3.0" tilting |
+| **Screen** | 3.0" fixed | 3.2" vari-angle |
 | **Viewfinder** | 2.36M dots | 2.36M dots |
 | **Image Stabilization** | None | None |
-| **Weight (body only)** | 356g | 395g |
+| **Weight (body only)** | 356g | 550g |
 | **Weather Sealing** | No | Basic |
 
 ## Price: Canon R100 Wins on Value
 
 **Canon EOS R100:** ~$480 with kit lens
-**Nikon Z50 II:** ~$860 with kit lens
+**Nikon Z50 II:** ~$960 with kit lens
 
-The Canon R100 costs nearly half the price of the Nikon Z50 II. That's a significant $380 difference that could buy:
+The Canon R100 costs about half the price of the Nikon Z50 II. That's a significant $480 difference that could buy:
 - Two quality lenses
 - A year's worth of photography education
 - Tripod, bag, and accessories
@@ -171,9 +171,9 @@ The R100 is impressively small and light. It's easy to carry all day but may fee
 
 ### Nikon Z50
 
-- More substantial build (395g)
+- More substantial build (550g)
 - Deep, comfortable grip
-- Tilting LCD screen
+- 3.2" vari-angle LCD screen
 - Basic weather sealing
 - Better button layout
 - More premium feel

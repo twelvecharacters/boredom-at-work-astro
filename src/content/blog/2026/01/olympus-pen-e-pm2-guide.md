@@ -47,7 +47,7 @@ If you're trying to explain to a coworker why you're looking at cameras instead 
 | **Stabilization** | In-body (IBIS) | Helps prevent blurry photos even if your hands aren't perfectly steady. |
 | **Autofocus** | Fast Contrast Detect | It’s surprisingly snappy, even by modern standards. |
 | **Video** | 1080p HD | Fine for clips, but this is primarily a stills camera. |
-| **Compactness** | 269g (Body) | Smaller than most modern smartphones in height/width. |
+| **Compactness** | 269g (with battery & card) | Smaller than most modern smartphones in height/width. |
 
 ## Comparing the "Mini" Siblings
 
