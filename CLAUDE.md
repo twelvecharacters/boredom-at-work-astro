@@ -108,12 +108,17 @@ Photography ─────► photography-guide (7 Artikel)
 | 4. | `git commit` → **ERLAUBT** (1h gültig) |
 
 ```
-Scripts:
-  ~/.claude/fact-check-hook.sh      # Blockiert Commits
+Hooks:
+  .git/hooks/pre-commit             # Git Hook (blockiert echt!)
   ~/.claude/confirm-fact-check.sh   # Bestätigt Fact-Check
-Config:
-  ~/.claude/settings.local.json     # PreToolUse Hook
-  .gitignore                        # .fact-check-confirmed
+Ignoriert:
+  .fact-check-confirmed             # Temporäre Bestätigungsdatei
+```
+
+⚠️ **WICHTIG:** Hook liegt in `.git/hooks/` (nicht versioniert!). Bei neuem Clone:
+```bash
+cp ~/.claude/fact-check-hook.sh .git/hooks/pre-commit
+chmod +x .git/hooks/pre-commit
 ```
 
 ---
