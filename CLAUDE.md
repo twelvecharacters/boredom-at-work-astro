@@ -21,17 +21,25 @@
 - Thumbnail: 225 KB (Desktop)
 - Script + Description: `scripts/youtube-ai-tools-guide.md`
 
-**📺 YouTube Videos Status:**
-| Artikel | Video |
-|---------|-------|
-| `chatgpt-plus-vs-free.md` | ✅ https://youtu.be/b6o1JZjI7dU |
-| `ai-tools-guide.md` | ✅ https://youtu.be/IoGF-x_prXQ |
-| `learn-ai-guide.md` | ❌ TODO |
-| `chatgpt-guide.md` | ❌ TODO |
+**✅ Drittes YouTube Video erstellt:**
+- Titel: "How to Learn AI in 2026: Complete Roadmap"
+- URL: https://youtu.be/h-V_Lu_J_hw
+- Status: **Unlisted** (public am 7. März mit Artikel)
+- Eingebettet in: `learn-ai-guide.md`
+- Thumbnail: 186 KB (Desktop)
+- Script + Description: `scripts/youtube-learn-ai-guide.md`
 
-**⏰ TODO (heute 15:00):**
-- [ ] Video für `learn-ai-guide.md` erstellen
+**📺 YouTube Videos Status:**
+| Artikel | Video | Status |
+|---------|-------|--------|
+| `chatgpt-plus-vs-free.md` | ✅ https://youtu.be/b6o1JZjI7dU | Live |
+| `ai-tools-guide.md` | ✅ https://youtu.be/IoGF-x_prXQ | Live (Artikel: 4. März) |
+| `learn-ai-guide.md` | ✅ https://youtu.be/h-V_Lu_J_hw | Unlisted → **7. März public** |
+| `chatgpt-guide.md` | ❌ TODO | |
+
+**⏰ TODO:**
 - [ ] Video für `chatgpt-guide.md` erstellen
+- [ ] **7. März:** learn-ai-guide Video auf PUBLIC schalten
 
 ---
 
