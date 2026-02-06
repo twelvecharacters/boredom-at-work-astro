@@ -336,8 +336,7 @@ chmod +x .git/hooks/pre-commit
 
 ### Wichtige Erinnerungen
 
-**⚠️ GitHub Token läuft ab: 29. April 2026** → Dann erneuern!
-- Externer Cron-Job (cron-job.org) triggert täglich 5:00 UTC → GitHub Actions
+**✅ Scheduled Posts:** GitHub Actions eigener Cron (`0 5 * * *`) reicht aus — externer Cron-Job (cron-job.org) wurde entfernt, kein separater Token mehr nötig.
 
 ---
 
