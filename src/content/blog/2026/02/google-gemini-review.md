@@ -9,11 +9,11 @@ draft: false
 tldr: "Gemini excels at real-time info, Google Workspace integration, and multimodal tasks. Falls short on creative writing and complex reasoning. Free tier is generous. Worth trying alongside ChatGPT, not as a replacement."
 faq:
   - question: "Is Google Gemini better than ChatGPT?"
-    answer: "Neither is universally better. Gemini excels at real-time information, Google integration, and multimodal tasks. ChatGPT is better for creative writing, complex reasoning, and has more features like DALL-E and Sora. Choose based on your primary use case."
+    answer: "Neither is universally better. Gemini excels at real-time information, Google integration, and multimodal tasks. ChatGPT is better for creative writing, complex reasoning, and has a more mature ecosystem with Custom GPTs and Sora 2 video. Choose based on your primary use case."
   - question: "Is Google Gemini free to use?"
-    answer: "Yes, Gemini offers a generous free tier with access to Gemini 1.5 Flash and limited Gemini 2.0 access. Gemini Advanced costs $20/month (included with Google One AI Premium) and gives full access to the latest models."
+    answer: "Yes, Gemini offers a generous free tier with access to Gemini 2.5 Flash. Google AI Pro (formerly Gemini Advanced) costs $20/month (included with Google One AI Premium) and gives full access to the latest models including Gemini 3 Pro."
   - question: "Can Gemini access my Google Drive and Gmail?"
-    answer: "Yes, with Gemini Advanced you can connect Google Workspace (Gmail, Drive, Docs, Calendar). Gemini can search your emails, summarize documents, and help with scheduling — a major advantage over ChatGPT."
+    answer: "Yes, with Google AI Pro (formerly Gemini Advanced) you can connect Google Workspace (Gmail, Drive, Docs, Calendar). Gemini can search your emails, summarize documents, and help with scheduling — a major advantage over ChatGPT."
 ---
 
 Google's AI assistant has come a long way from its rocky Bard launch. Rebranded as Gemini, it's now a serious contender in the AI assistant space.
@@ -47,30 +47,30 @@ Gemini is Google's AI assistant, powered by their Gemini family of language mode
 
 | Model | Best For | Availability |
 |-------|----------|--------------|
-| **Gemini 2.0 Flash** | Fast, everyday tasks | Free + Advanced |
-| **Gemini 2.0 Pro** | Complex reasoning | Advanced only |
-| **Gemini 1.5 Pro** | Long context (1M tokens) | Advanced only |
-| **Gemini 1.5 Flash** | Quick responses | Free tier |
+| **Gemini 3 Flash** | Fast, everyday tasks | Free + AI Pro |
+| **Gemini 3 Pro** | Complex reasoning, coding | AI Pro only |
+| **Gemini 2.5 Pro** | Long context (1M tokens), deep thinking | AI Pro only |
+| **Gemini 2.5 Flash** | Fast with controllable thinking | Free + AI Pro |
 
-The free tier gives you access to Gemini 1.5 Flash and limited 2.0 Flash usage. Advanced ($20/month) unlocks everything.
+The free tier gives you access to Gemini 2.5 Flash and limited Gemini 3 Flash usage. Google AI Pro ($20/month, formerly Gemini Advanced) unlocks everything. Google also offers an AI Ultra tier at ~$250/month for power users.
 
 ---
 
-## Gemini Free vs Advanced: Quick Comparison
+## Gemini Free vs AI Pro: Quick Comparison
 
-| Feature | Free | Advanced ($20/mo) |
+| Feature | Free | AI Pro ($20/mo) |
 |---------|------|-------------------|
-| **Gemini 2.0 Flash** | Limited | Full |
-| **Gemini 2.0 Pro** | ❌ | ✅ |
-| **Gemini 1.5 Pro (1M context)** | ❌ | ✅ |
+| **Gemini 3 Flash** | Limited | Full |
+| **Gemini 3 Pro** | ❌ | ✅ |
+| **Gemini 2.5 Pro (1M context)** | ❌ | ✅ |
 | **Google Workspace integration** | ❌ | ✅ |
-| **Image generation (Imagen 3)** | Limited | Full |
+| **Image generation (Imagen 4)** | Limited | Full |
 | **Deep Research** | ❌ | ✅ |
 | **Gems (custom AI)** | Limited | Full |
 | **Priority access** | ❌ | ✅ |
 | **Google One storage** | ❌ | 2TB included |
 
-The $20/month for Advanced includes 2TB of Google One storage, which alone costs $10/month. If you need cloud storage anyway, Advanced is effectively $10/month for the AI features.
+The $20/month for AI Pro includes 2TB of Google One storage, which alone costs $10/month. If you need cloud storage anyway, AI Pro is effectively $10/month for the AI features.
 
 ---
 
@@ -91,11 +91,11 @@ This is Gemini's biggest advantage over ChatGPT.
 
 ChatGPT can browse the web, but Gemini's integration with Google Search is faster and more reliable. For anything requiring current information, Gemini wins.
 
-### 2. Google Workspace Integration (Advanced)
+### 2. Google Workspace Integration (AI Pro)
 
 This is the killer feature for Google users.
 
-With Gemini Advanced connected to your Google account:
+With Google AI Pro connected to your Google account:
 
 **Gmail:**
 - "Summarize my unread emails"
@@ -116,7 +116,7 @@ With Gemini Advanced connected to your Google account:
 - "Help me edit this document" (opens in Docs)
 - "Create a presentation outline from this doc"
 
-No other AI assistant has this level of integration with productivity tools. If you live in Google Workspace, this alone might justify Advanced.
+No other AI assistant has this level of integration with productivity tools. If you live in Google Workspace, this alone might justify AI Pro.
 
 ### 3. Multimodal Capabilities
 
@@ -128,7 +128,7 @@ Gemini handles images, audio, and video natively.
 - Read text from images (OCR)
 - Identify objects, plants, products
 
-**Image generation (Imagen 3):**
+**Image generation (Imagen 4):**
 - Generate images from text prompts
 - Edit existing images
 - Create variations
@@ -137,8 +137,9 @@ Gemini handles images, audio, and video natively.
 - Upload videos for analysis
 - Summarize YouTube videos (paste the URL)
 - Transcribe audio files
+- Generate video with Veo 3 (AI Pro)
 
-The image generation is comparable to DALL-E, though ChatGPT's implementation feels more polished.
+The image generation with Imagen 4 has caught up significantly with DALL-E. Both produce impressive results now.
 
 ### 4. Coding with Current Documentation
 
@@ -152,7 +153,7 @@ For web development, Gemini often provides more accurate answers about modern fr
 
 ### 5. Long Context Window
 
-Gemini 1.5 Pro offers a 1 million token context window — about 700,000 words.
+Gemini 2.5 Pro offers a 1 million token context window — about 700,000 words.
 
 **Use cases:**
 - Analyze entire codebases
@@ -161,7 +162,7 @@ Gemini 1.5 Pro offers a 1 million token context window — about 700,000 words.
 
 ChatGPT's 128K tokens is generous, but Gemini's 1M is in a different league for handling large documents.
 
-### 6. Deep Research Mode (Advanced)
+### 6. Deep Research Mode (AI Pro)
 
 Similar to ChatGPT's research mode, Gemini can:
 - Search multiple sources
@@ -201,7 +202,7 @@ For multi-step problems and nuanced analysis, Gemini struggles more than competi
 - Less reliable for math and logic puzzles
 - Tends to oversimplify when depth is needed
 
-Gemini 2.0 Pro improved this significantly, but ChatGPT and Claude still feel more reliable for complex tasks.
+Gemini 3 Pro improved this significantly, but ChatGPT and Claude still feel more reliable for complex tasks.
 
 ### 3. Following Specific Instructions
 
@@ -223,14 +224,14 @@ For quick tasks, this doesn't matter. For extended work sessions, it makes a dif
 
 ### 5. Ecosystem and Features
 
-ChatGPT simply has more:
-- DALL-E integration is more polished
-- Sora video generation (Gemini has nothing comparable)
+ChatGPT still has a broader feature set:
+- DALL-E integration is polished and reliable
+- Sora 2 video generation (though Gemini now has Veo 3)
 - Custom GPTs are more mature than Gems
-- Plugin ecosystem is larger
+- The GPT Store offers thousands of specialized assistants
 - More third-party integrations
 
-Gemini is catching up, but the gap is still noticeable.
+Gemini is catching up fast — especially with Veo 3 for video — but ChatGPT's ecosystem remains larger.
 
 ---
 
@@ -243,7 +244,7 @@ Gemini is catching up, but the gap is still noticeable.
 | Coding help | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Tie |
 | Complex reasoning | ⭐⭐⭐ | ⭐⭐⭐⭐ | ChatGPT |
 | Image generation | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ChatGPT |
-| Video generation | ❌ | ⭐⭐⭐⭐ | ChatGPT |
+| Video generation | ⭐⭐⭐ | ⭐⭐⭐⭐ | ChatGPT |
 | Workspace integration | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | Gemini |
 | Context window | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Gemini |
 | Free tier value | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Gemini |
@@ -262,7 +263,8 @@ For completeness, here's how Gemini compares to Claude:
 | Writing quality | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Claude |
 | Reasoning | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Claude |
 | Real-time info | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Gemini |
-| Image features | ⭐⭐⭐⭐ | ❌ | Gemini |
+| Image analysis | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Tie |
+| Image generation | ⭐⭐⭐⭐ | ❌ | Gemini |
 | Workspace integration | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | Gemini |
 | Context window | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Gemini |
 
@@ -278,7 +280,7 @@ For detailed comparisons, see our [Claude vs ChatGPT](/claude-vs-chatgpt/) guide
 
 1. **You live in Google Workspace**
    - Gmail, Drive, Docs, Calendar integration is unmatched
-   - Advanced is worth it for this alone
+   - AI Pro is worth it for this alone
 
 2. **You need real-time information**
    - News, weather, prices, current events
@@ -293,7 +295,7 @@ For detailed comparisons, see our [Claude vs ChatGPT](/claude-vs-chatgpt/) guide
    - Good for testing before committing to paid
 
 5. **You're already paying for Google One**
-   - 2TB storage included with Advanced
+   - 2TB storage included with AI Pro
    - Effectively cheaper if you need storage
 
 ### Probably Skip Gemini If:
@@ -301,8 +303,8 @@ For detailed comparisons, see our [Claude vs ChatGPT](/claude-vs-chatgpt/) guide
 1. **Writing quality matters most**
    - ChatGPT or Claude produce better content
 
-2. **You need video generation**
-   - Sora (ChatGPT) has no Gemini equivalent
+2. **You need top-tier video generation**
+   - Sora 2 (ChatGPT) is still ahead of Gemini's Veo 3
 
 3. **You want the most polished experience**
    - ChatGPT feels more refined
@@ -340,7 +342,7 @@ After months of testing, here's how Gemini fits my workflow:
 ## Tips for Getting the Most from Gemini
 
 ### 1. Connect Your Google Account
-Without Workspace integration, you're missing Gemini's biggest advantage. Go to Settings → Extensions → Enable Google Workspace.
+Without Workspace integration, you're missing Gemini's biggest advantage. Go to Settings → Extensions → Enable Google Workspace. Requires AI Pro subscription.
 
 ### 2. Use It for Real-Time Queries
 Lean into what Gemini does best. "What's in the news about X?" "Current price of Y?" "Weather for Z?"
@@ -359,22 +361,23 @@ If you need great writing, switch to ChatGPT or Claude. Use each tool for what i
 
 ---
 
-## Gemini Pricing: Is Advanced Worth It?
+## Gemini Pricing: Is AI Pro Worth It?
 
 ### Free Tier
-- Gemini 1.5 Flash (unlimited)
-- Limited Gemini 2.0 Flash
+- Gemini 2.5 Flash (unlimited)
+- Limited Gemini 3 Flash
 - Basic image generation
 - No Workspace integration
 
 **Verdict:** Surprisingly capable. Good for trying Gemini and casual use.
 
-### Gemini Advanced ($20/month)
-- All models including 2.0 Pro
-- 1M token context (1.5 Pro)
+### Google AI Pro ($20/month, formerly Gemini Advanced)
+- All models including Gemini 3 Pro
+- 1M token context (2.5 Pro)
 - Full Google Workspace integration
-- Unlimited image generation
+- Unlimited image generation (Imagen 4)
 - Deep Research mode
+- Veo 3 video generation
 - **2TB Google One storage included**
 
 **Verdict:** Worth it if you use Google Workspace heavily OR need the cloud storage. The storage alone is worth $10/month.
@@ -383,7 +386,7 @@ If you need great writing, switch to ChatGPT or Claude. Use each tool for what i
 
 | Service | Price | Best For |
 |---------|-------|----------|
-| Gemini Advanced | $20/mo | Google users, real-time info |
+| Google AI Pro | $20/mo | Google users, real-time info |
 | ChatGPT Plus | $20/mo | All-around, images, video |
 | Claude Pro | $20/mo | Writing, reasoning |
 | Perplexity Pro | $20/mo | Research, citations |
@@ -411,7 +414,7 @@ Google Gemini has evolved from an embarrassing Bard launch to a genuinely useful
 
 **My recommendation:**
 
-- **Google power users:** Get Advanced. The Workspace integration alone is worth it.
+- **Google power users:** Get AI Pro. The Workspace integration alone is worth it.
 - **General AI users:** Stick with ChatGPT Plus as primary, use Gemini Free for real-time queries.
 - **Writers and analysts:** Use Claude or ChatGPT. Gemini isn't there yet.
 - **Budget-conscious:** Gemini Free + Claude Free is a powerful free combo.
