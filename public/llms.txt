@@ -89,6 +89,7 @@ Guides for planning trips with AI tools like ChatGPT, Claude, and Perplexity.
 - [AI Trip Planning: Cambodia](https://boredom-at-work.com/ai-trip-planning-cambodia/): Complete Cambodia guide
 - [Japan vs Vietnam vs Cambodia](https://boredom-at-work.com/japan-vietnam-cambodia-comparison/): Destination comparison
 - [Malaysia Trip with ChatGPT](https://boredom-at-work.com/chatgpt-malaysia-trip-planning/): Real trip case study
+- [AI-Planned London Weekend](https://boredom-at-work.com/ai-planned-london-weekend/): Real trip with Clawd.bot — gluten-free tested
 - [Southeast Asia Trip Planning](https://boredom-at-work.com/ai-planning-southeast-asia-trip-2026/): Multi-country planning
 
 ### Home Office / Desk Setup

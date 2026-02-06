@@ -250,7 +250,9 @@ What hidden ingredients should I watch for?
 Create phrases in the local language to explain my needs.
 ```
 
-**More details:** See [My Malaysia Trip with ChatGPT](/chatgpt-malaysia-trip-planning/) for real-world gluten-free travel planning.
+**Real trip reports with dietary restrictions:**
+- [My Malaysia Trip with ChatGPT](/chatgpt-malaysia-trip-planning/) — 2 weeks, gluten-free, zero issues
+- [AI-Planned London Weekend](/ai-planned-london-weekend/) — Clawd.bot found 3 celiac-safe restaurants
 
 ---
 

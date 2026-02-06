@@ -605,6 +605,12 @@ AI-powered comparison based on budget, travel style, interests, and time of year
 
 Real 2-week itinerary through KL, Penang, and Langkawi. Actual prompts used, what worked, and what flopped.
 
+### AI-Planned London Weekend (Case Study)
+**URL:** https://boredom-at-work.com/ai-planned-london-weekend/
+**Reading Time:** 7 minutes
+
+Real weekend trip planned with Clawd.bot. MJ The Musical, Chinatown, and three gluten-free restaurants tested without a single celiac reaction. Includes lesson learned about pre-booked train tickets.
+
 ### Southeast Asia Trip Planning with AI
 **URL:** https://boredom-at-work.com/ai-planning-southeast-asia-trip-2026/
 **Reading Time:** 15 minutes

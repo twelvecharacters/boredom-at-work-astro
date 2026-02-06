@@ -303,6 +303,10 @@ Based on our experience:
 
 ---
 
+## More Trip Reports
+
+- [AI-Planned London Weekend](/ai-planned-london-weekend/) — Another real trip with Clawd.bot (gluten-free tested)
+
 ## Related Articles
 
 - [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything about ChatGPT
