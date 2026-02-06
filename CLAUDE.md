@@ -6,7 +6,54 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 6. Februar 2026)
 
-### Letzte Sitzung (6. Februar 2026)
+### Letzte Sitzung (6. Februar 2026 - Abend)
+
+**✅ Fact-Check Korrekturen: 6 Artikel, ~49 Fixes**
+
+| Artikel | Publish | Fixes | Highlights |
+|---------|---------|-------|------------|
+| `best-ai-tools-office-work.md` | 8. Feb | 13 | Tome → Canva AI, Claude Web Search, Notion AI Pricing, ~10 Preise korrigiert |
+| `chatgpt-for-excel.md` | 10. Feb | 12 | Free Tier Upload, Copilot Free Option, Excel 2021+ Funktionen |
+| `microsoft-copilot-review.md` | 11. Feb | 6 | GPT-4→GPT-5.2, Individual-Pläne, Prompt Gallery |
+| `10-things-to-print-new-3d-printer.md` | 12. Feb | 1 | Thingiverse "largest" → "one of the most well-known" |
+| `chatgpt-custom-instructions.md` | 13. Feb | 6 | UI-Update: Personality Dropdown + Single Field |
+| `macos-tahoe-tricks-and-hacks.md` | 25. Feb | 11 | LLM Siri → macOS 26.4, iPhone Mirroring → Sequoia, Shortcuts korrigiert |
+
+**Commit:** `7da478b fix: fact-check corrections across 6 articles (~49 fixes)`
+
+---
+
+### Sitzung (6. Februar 2026 - Nachmittag)
+
+**✅ Post-Publish Check: Samsung S26 Rumors**
+
+| Check | Status |
+|-------|--------|
+| Artikel online | ✅ Live unter `/samsung-s26-rumors/` |
+| Title (52 Zeichen) | ✅ |
+| Description (155 Zeichen) | ✅ |
+| WebP-Bild | ✅ |
+| Tags (5) | ✅ |
+| FAQ (3) | ✅ |
+| Interne Links (2) | ✅ |
+| llms.txt + llms-full.txt | ✅ Nachgetragen |
+
+**✅ Fact-Check: Google Gemini Review (Publish: 7. Feb)**
+
+| # | Problem | Fix |
+|---|---------|-----|
+| 1 | Model-Lineup veraltet (2.0/1.5) | → Gemini 3 Flash/Pro + 2.5 Pro/Flash |
+| 2 | "Gemini Advanced" Branding | → "Google AI Pro" (durchgängig) |
+| 3 | "Plugin ecosystem" (falsch!) | → GPT Store + Custom GPTs |
+| 4 | Sora ohne Gemini-Pendant | → Sora 2 + Gemini hat jetzt Veo 3 |
+| 5 | Claude Image Features ❌ | → Aufgeteilt: Analysis ✅ / Generation ❌ |
+| 6 | Imagen 3 | → Imagen 4 |
+
+**Commit:** `a5472bf fix: update Gemini review facts + add Samsung S26 to llms.txt`
+
+---
+
+### Sitzung (6. Februar 2026 - Vormittag)
 
 **✅ Neuer Artikel: AI-Planned London Weekend**
 
