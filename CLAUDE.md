@@ -8,6 +8,24 @@
 
 ### Letzte Sitzung (6. Februar 2026)
 
+**✅ Neuer Artikel: AI-Planned London Weekend**
+
+| Detail | Wert |
+|--------|------|
+| Slug | `/ai-planned-london-weekend/` |
+| Publish | 15. Februar 2026 |
+| Bilder | 4 (Chinatown, Dumplings, MJ Musical, Theater) |
+| Cluster | AI Travel Planning |
+
+**Inhalt:** Echter Trip Report mit Clawd.bot. MJ Musical, Chinatown spontan, 3 GF-Restaurants (Brick Lane Coffee, Ugly Dumpling, Wicked Fish). Stansted Express Ticket-Fehler als Lesson Learned.
+
+**Interne Verlinkung:**
+- `best-ai-trip-planners.md` → Link zum London-Artikel
+- `chatgpt-malaysia-trip-planning.md` → "More Trip Reports" Sektion
+- `llms.txt` + `llms-full.txt` aktualisiert
+
+---
+
 **📢 Reddit-Posts für Februar-Content:**
 
 | Subreddit | Artikel | Status |
@@ -19,6 +37,7 @@
 **Nächste Reddit-Posts (noch offen):**
 - [ ] Best AI Tools for Office → r/productivity
 - [ ] AI Meeting Assistants → r/remotework
+- [ ] AI-Planned London Weekend → r/travel, r/solotravel (nach 15. Feb)
 
 ---
 
