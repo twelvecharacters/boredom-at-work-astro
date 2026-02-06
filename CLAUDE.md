@@ -8,7 +8,7 @@
 
 ### Letzte Sitzung (6. Februar 2026 - Abend)
 
-**✅ Fact-Check Korrekturen: 6 Artikel, ~49 Fixes**
+**✅ Fact-Check Korrekturen: 8 Artikel, ~67 Fixes**
 
 | Artikel | Publish | Fixes | Highlights |
 |---------|---------|-------|------------|
@@ -18,8 +18,12 @@
 | `10-things-to-print-new-3d-printer.md` | 12. Feb | 1 | Thingiverse "largest" → "one of the most well-known" |
 | `chatgpt-custom-instructions.md` | 13. Feb | 6 | UI-Update: Personality Dropdown + Single Field |
 | `macos-tahoe-tricks-and-hacks.md` | 25. Feb | 11 | LLM Siri → macOS 26.4, iPhone Mirroring → Sequoia, Shortcuts korrigiert |
+| `ai-meeting-assistants.md` | 14. Feb | 13 | Granola Pricing + "local processing" falsch, Fathom/tl;dv Pricing, Free Tier Limits |
+| `ai-planned-london-weekend.md` | 15. Feb | 5 | Clawd.bot Open-Source, Stansted Express Contactless-Warnung, Ratings gehedgt |
 
-**Commit:** `7da478b fix: fact-check corrections across 6 articles (~49 fixes)`
+**Commits:**
+- `7da478b fix: fact-check corrections across 6 articles (~49 fixes)`
+- `8c1993d fix: fact-check corrections for Feb 14+15 articles`
 
 ---
 
