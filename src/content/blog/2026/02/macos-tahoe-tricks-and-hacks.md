@@ -1,7 +1,7 @@
 ---
 title: "macOS Tahoe: 25 Tips, Tricks & Hidden Features in Apple's 'Liquid Glass' Redesign"
 slug: "macos-tahoe-tricks-and-hacks"
-description: "Master macOS 26 Tahoe with these essential tips and hidden features. From Liquid Glass customization to the new LLM Siri, get the most out of Apple's biggest redesign in years."
+description: "Master macOS 26 Tahoe with these essential tips and hidden features. From Liquid Glass customization to Apple Intelligence, get the most out of Apple's biggest redesign in years."
 publishDate: 2026-02-09
 author: "bored chap"
 image: "/images/macos-tahoe.webp"
@@ -13,7 +13,7 @@ faq:
   - question: "Does macOS Tahoe support Intel Macs?"
     answer: "Yes, but it is the final version to do so. Only specific Intel models from 2019-2020 are supported: Mac Pro (2019), iMac (2020), and MacBook Pro (2019-2020)."
   - question: "How do I get the new Siri in macOS Tahoe?"
-    answer: "The advanced LLM Siri requires Apple Intelligence, which is enabled in System Settings > Apple Intelligence & Siri. Full features are rolling out throughout early 2026."
+    answer: "Basic Apple Intelligence features are available now in System Settings > Apple Intelligence & Siri. The advanced LLM-powered Siri with personal context and on-screen awareness is expected to arrive in macOS 26.4 (spring 2026)."
   - question: "Is macOS Tahoe stable for daily use?"
     answer: "Yes, macOS Tahoe is generally stable. Some third-party apps needed updates for the new visual style, but most major apps are now compatible."
   - question: "Can I turn off the Liquid Glass transparency effects?"
@@ -49,13 +49,13 @@ Not everyone loves the glass effect. If you find it distracting or your Mac feel
 
 This makes windows more solid and opaque. It also improves performance on older Macs by reducing GPU load.
 
-### 3. Customize the Accent Color
+### 3. Customize the Theme Color
 
-Tahoe's Liquid Glass reflects your accent color more prominently than before:
+Tahoe's Liquid Glass reflects your theme color more prominently than before. In Tahoe, "Accent Color" has been renamed to just **"Color"** under the new Theme section:
 
-**System Settings > Appearance > Accent Color**
+**System Settings > Appearance > Theme > Color**
 
-Try different colors with your wallpaper — some combinations look stunning with the new transparency effects.
+Try different colors with your wallpaper — some combinations look stunning with the new transparency effects. There's also a separate **Text highlight color** option now, so you can make selected text a different shade from buttons and menus.
 
 ### 4. Use Dark Mode with Liquid Glass
 
@@ -75,41 +75,43 @@ Your wallpaper now affects the entire look of the OS. Liquid Glass tints windows
 
 ---
 
-## LLM Siri: The New AI-Powered Assistant
+## Apple Intelligence & the Upcoming LLM Siri
 
 ### 6. Enable Apple Intelligence
 
-The new LLM-powered Siri requires Apple Intelligence to be enabled:
+Apple Intelligence powers many of Tahoe's smartest features. Make sure it's enabled:
 
 **System Settings > Apple Intelligence & Siri > Apple Intelligence**
 
-This requires an Apple Silicon Mac (M1 or later) and will gradually enable new features as they roll out in 2026.
+This requires an Apple Silicon Mac (M1 or later). Basic features like Writing Tools and notification summaries are available now. The much-anticipated **LLM-powered Siri** — with personal context, on-screen awareness, and the ability to take actions across apps — is expected to arrive in **macOS 26.4 (around March 2026)**.
 
-### 7. Use Natural Language with Siri
+### 7. What LLM Siri Will Bring
 
-The new Siri actually understands context. Try complex requests:
+When the full LLM Siri arrives, Apple has promised complex, context-aware requests like:
 
 - "Find that PDF about marketing from last week and email it to Sarah"
 - "What did John say in yesterday's meeting notes?"
 - "Remind me about this email tomorrow morning"
 
-Siri can now reference files, emails, and conversations — not just web searches.
+Siri will be able to reference files, emails, and conversations — not just web searches. For now, Siri handles basic requests and integrates with Apple Intelligence for summarization and writing tasks.
 
 ### 8. Type to Siri (The Better Way)
 
-Don't want to talk to your computer in the office? The new Type to Siri interface is much better:
+Don't want to talk to your computer in the office? Type to Siri is much better now:
 
-**Press and hold Command key** (or change in System Settings)
+**Double-press the Command key** (or change the shortcut in System Settings > Apple Intelligence & Siri > Keyboard Shortcut)
 
 A sleek glass bar appears at the bottom of the screen. Type your request and press Enter. No more awkward voice commands at your desk.
 
-### 9. Use Siri for Summarization
+### 9. Use Writing Tools for Summarization
 
-Select any text, right-click, and choose **Summarize with Siri**. Or ask:
+Select any text, right-click, and choose **Writing Tools** (part of Apple Intelligence). From there you can:
 
-- "Summarize my unread emails"
-- "What's important in this document?"
-- "Give me the key points from this webpage"
+- **Summarize** — Get a concise summary
+- **Key Points** — Extract the most important takeaways
+- **List** or **Table** — Reorganize the text into structured formats
+
+Writing Tools work in most apps, including Mail, Notes, Pages, and many third-party apps.
 
 ### 10. Siri + Shortcuts Integration
 
@@ -141,15 +143,17 @@ When you miss a call, you can send a quick text reply directly from the notifica
 
 ---
 
-## iPhone Mirroring 2.0
+## iPhone Mirroring Improvements
 
-### 14. Bi-Directional Drag and Drop
+### 14. Drag and Drop Between Mac and iPhone
 
-iPhone Mirroring got a major upgrade. You can now drag files **both ways**:
+If you haven't tried it yet, iPhone Mirroring supports **bi-directional drag and drop** (added in macOS Sequoia 15.1). You can:
 
-- Drag a photo from your Mac to an iPhone app
+- Drag a photo from your Mac into an iPhone app
 - Drag a file from your iPhone to your Mac desktop
 - Works with almost any app on either device
+
+In Tahoe, the mirroring experience feels smoother overall, with better performance and reduced latency.
 
 ### 15. Control iPhone with Keyboard
 
@@ -158,9 +162,9 @@ While mirroring, your Mac keyboard works in iPhone apps:
 - Use keyboard shortcuts (Cmd+C, Cmd+V work)
 - Arrow keys navigate some interfaces
 
-### 16. Wireless iPhone Mirroring
+### 16. iPhone Mirroring Is Wireless (Always Has Been)
 
-Tahoe's mirroring now works over WiFi (not just when plugged in). Your iPhone just needs to be on the same network.
+A common misconception: iPhone Mirroring has been wireless since it launched in macOS Sequoia. Your iPhone and Mac just need Bluetooth and Wi-Fi turned on, signed into the same Apple ID. No cable required — your iPhone can be in another room.
 
 ---
 
@@ -175,17 +179,18 @@ Tahoe improves window tiling with AI-suggested layouts:
 - Works better with ultrawide monitors
 
 Keyboard shortcuts:
-- **Fn + Control + ←/→** — Tile left/right
-- **Fn + Control + ↑** — Maximize
-- **Fn + Control + ↓** — Return to original size
+- **Fn + Control + ←/→** — Tile left/right half
+- **Fn + Control + ↑/↓** — Tile top/bottom half
+- **Fn + Control + F** — Fill the entire screen
+- **Fn + Control + C** — Center the window
 
-### 18. Focus Modes with Screen Layouts
+### 18. Focus Modes and Desktop Customization
 
-Focus modes can now save and restore **window arrangements**:
+Focus modes in Tahoe let you filter notifications, apps, and even customize which Home Screen pages appear. Combined with **Focus Filters**, you can show specific Safari Tab Groups, Mail accounts, or Messages conversations per Focus mode.
 
-**System Settings > Focus > [Your Focus] > Screen Layout**
+**System Settings > Focus > [Your Focus] > Filters**
 
-When you activate "Work" focus, your windows automatically arrange themselves. When you switch to "Personal," different apps and layouts appear.
+For full window arrangement saving/restoring, you'll still need a third-party tool like **Moom** or **Rectangle Pro** — but combining Focus modes with Stage Manager gets you close to automatic workspace switching.
 
 ### 19. Better Stage Manager
 
@@ -195,7 +200,7 @@ Stage Manager is actually usable in Tahoe:
 - Works better with multiple monitors
 - Quick switch between window sets with keyboard
 
-Toggle: **Control Center > Stage Manager** or **Fn + F**
+Toggle: **Control Center > Stage Manager** (or assign a custom keyboard shortcut in System Settings > Keyboard > Keyboard Shortcuts > Mission Control)
 
 ### 20. Finder Quick Actions Expanded
 
@@ -247,9 +252,9 @@ If you have an 8GB Mac that felt cramped in Sequoia, Tahoe may feel smoother.
 
 A gorgeous new screensaver shows aerial footage of Lake Tahoe with the Liquid Glass aesthetic:
 
-**System Settings > Screen Saver > Tahoe**
+**System Settings > Wallpaper > Screen Saver...**
 
-It dynamically adjusts based on time of day and matches the new design language beautifully.
+Look for the Tahoe options in the list. They dynamically adjust based on time of day and match the new design language beautifully.
 
 ### 25. Terminal Gets a Glass Makeover
 
@@ -259,7 +264,7 @@ Even Terminal embraces Liquid Glass:
 - Updated default color schemes
 - Better font rendering
 
-To customize: **Terminal > Settings > Profiles** — try the new "Liquid" profile.
+To customize: **Terminal > Settings > Profiles** — explore the redesigned themes that align with the Liquid Glass aesthetic.
 
 ---
 
@@ -316,10 +321,10 @@ macOS Tahoe is Apple's most significant visual update since Big Sur, and the AI 
 **Worth upgrading?** Yes, especially on Apple Silicon Macs. Intel users should update for security but won't get the full experience.
 
 **Best new features:**
-1. LLM Siri that actually understands context
+1. Apple Intelligence (Writing Tools, notification summaries — with LLM Siri coming in macOS 26.4)
 2. The Phone app (finally!)
-3. iPhone Mirroring improvements
-4. Focus modes with screen layouts
+3. Liquid Glass design overhaul
+4. Window tiling and Stage Manager improvements
 
 Take a weekend to explore. There's a lot here, and the hidden features are worth discovering.
 

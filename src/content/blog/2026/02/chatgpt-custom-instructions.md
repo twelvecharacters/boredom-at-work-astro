@@ -6,12 +6,12 @@ author: "bored chap"
 image: "/images/chatgpt-custom-instructions.webp"
 tags: ["AI", "ChatGPT", "Productivity", "Tutorial"]
 draft: false
-tldr: "Custom Instructions tell ChatGPT who you are and how you want responses. Set them once, benefit forever. Key sections: 'What would you like ChatGPT to know about you?' and 'How would you like ChatGPT to respond?' Copy our templates to get started instantly."
+tldr: "Custom Instructions tell ChatGPT who you are and how you want responses. Set them once, benefit forever. Choose a personality preset for the overall tone, then add custom instructions for specifics. Copy our templates to get started instantly."
 faq:
   - question: "What are ChatGPT custom instructions?"
-    answer: "Custom instructions are persistent settings that tell ChatGPT about you and your preferences. They apply to every conversation automatically, so you don't have to repeat context like your job, expertise level, or preferred response format."
+    answer: "Custom instructions are persistent settings that tell ChatGPT about you and your preferences. Combined with a personality preset, they apply to all conversations (including existing ones) automatically, so you don't have to repeat context like your job, expertise level, or preferred response format."
   - question: "Are custom instructions available on ChatGPT free?"
-    answer: "Yes, custom instructions are available on both Free and Plus tiers. It's one of the most valuable free features that many users don't know about."
+    answer: "Yes, custom instructions are available on all ChatGPT tiers — Free, Go ($8/month), Plus ($20/month), and Pro ($200/month). It's one of the most valuable free features that many users don't know about."
   - question: "Can I have different custom instructions for different tasks?"
     answer: "Not directly, but you can use Custom GPTs (Plus) for different contexts, or manually update your instructions when switching between work modes. Some users keep a notes file with different instruction sets to copy-paste."
 ---
@@ -24,17 +24,13 @@ Here's how to set them up properly.
 
 ## What Are Custom Instructions?
 
-Custom Instructions are two text fields that persist across all your ChatGPT conversations:
+Custom Instructions are part of ChatGPT's **Personalization** settings. The system has two layers:
 
-1. **"What would you like ChatGPT to know about you?"**
-   - Your background, job, expertise level
-   - Context that helps ChatGPT understand you
+1. **Personality preset** — A "Base style and tone" dropdown that lets you choose from presets like Default, Professional, Friendly, Candid, Quirky, Efficient, Nerdy, and Cynical. This sets the overall vibe of ChatGPT's responses.
 
-2. **"How would you like ChatGPT to respond?"**
-   - Response format preferences
-   - Tone, length, style guidelines
+2. **Custom Instructions field** — A text field where you can write anything you want ChatGPT to always keep in mind: your background, job, expertise level, response format preferences, tone, length, and style guidelines. You get ~1,500 characters to work with.
 
-Think of it as a permanent system prompt that shapes every interaction.
+These settings persist across **all** your ChatGPT conversations — including existing ones. Think of it as a permanent system prompt that shapes every interaction.
 
 ## Why Custom Instructions Matter
 
@@ -61,32 +57,36 @@ ChatGPT already knows this. Every response is tailored to you from the first mes
 ### Step 1: Open Settings
 
 **On Desktop:**
-1. Click your profile picture (bottom-left)
+1. Click your profile icon (bottom-right of the sidebar)
 2. Click "Settings"
 3. Select "Personalization"
 4. Click "Custom instructions"
 
 **On Mobile:**
-1. Tap your profile picture
+1. Tap your profile icon
 2. Tap "Settings"
 3. Tap "Personalization"
 4. Tap "Custom instructions"
 
-### Step 2: Fill Both Fields
+### Step 2: Choose a Personality Preset
 
-You'll see two text boxes with ~1,500 characters each. Fill both for best results.
+Use the **"Base style and tone"** dropdown to pick a personality (Default, Professional, Friendly, Candid, Quirky, Efficient, Nerdy, or Cynical). This sets the general tone for all responses.
 
-### Step 3: Enable the Toggle
+### Step 3: Write Your Custom Instructions
 
-Make sure "Enable for new chats" is turned on.
+Below the personality dropdown, you'll see the custom instructions field (~1,500 characters). This is where you add specific details about yourself, your preferences, and how you want responses formatted.
 
-That's it. Every new conversation now uses your instructions.
+### Step 4: Enable the Toggle
+
+Make sure **"Enable customization"** is turned on.
+
+That's it. Your settings apply immediately to **all** conversations — including ones you've already started.
 
 ---
 
-## Field 1: What to Tell ChatGPT About You
+## Part 1: What to Tell ChatGPT About You
 
-This field sets context. Include:
+The first part of your custom instructions should set context. Include:
 
 ### Your Professional Role
 ```
@@ -138,9 +138,9 @@ global audience. I prefer American English spelling.
 
 ---
 
-## Field 2: How You Want Responses
+## Part 2: How You Want Responses
 
-This field controls output format and style. Be specific:
+The second part of your custom instructions should control output format and style. Be specific:
 
 ### Tone Preferences
 ```
@@ -414,8 +414,8 @@ Both personalize ChatGPT, but differently:
 
 | Feature | Custom Instructions | Custom GPTs |
 |---------|-------------------|-------------|
-| Applies to | All chats | Specific GPT only |
-| Setup | Text fields | Full builder |
+| Applies to | All chats (including existing) | Specific GPT only |
+| Setup | Personality dropdown + text field | Full builder |
 | Switchable | One active set | Many GPTs available |
 | Knowledge upload | ❌ | ✅ |
 | Actions/APIs | ❌ | ✅ |
@@ -454,7 +454,9 @@ Options:
 
 ### "I hit the character limit"
 
+The custom instructions field caps at ~1,500 characters. To make the most of it:
 - Prioritize: what causes the most repeated corrections?
+- Let the personality preset handle tone — save your character budget for specifics
 - Use shorthand and abbreviations
 - Remove instructions that don't noticeably improve responses
 - Move less critical preferences to Custom GPTs
@@ -465,24 +467,18 @@ Options:
 
 Here's what I actually use:
 
-**About Me:**
+**Personality preset:** Candid (direct and straightforward)
+
+**Custom Instructions:**
 ```
 Tech writer creating content for professionals learning AI tools.
 Expert in: productivity software, AI assistants, writing
 Intermediate: coding (Python, JS), data analysis
 Based in Europe, writing in American English.
 I value clarity over cleverness.
-```
 
-**Response Style:**
-```
-Be direct. Skip the preamble — I don't need "Great question!"
-
-Format:
-- Short paragraphs (2-3 sentences)  
-- Bullet points for lists
-- Headers for longer responses
-- Code blocks with syntax highlighting
+Format: short paragraphs, bullet points, headers for longer responses,
+code blocks with syntax highlighting.
 
 When I ask about tools: mention pricing, alternatives, honest limitations.
 When I ask for writing help: give options, not just one answer.
@@ -497,14 +493,13 @@ Don't hedge everything. If you're unsure, say so directly.
 
 Don't overthink it. Start with this minimal setup:
 
-**About You (minimum viable):**
+1. **Pick a personality preset** — "Professional" or "Efficient" are safe defaults for work
+2. **Add minimal custom instructions:**
+
 ```
 I'm a [your job] who needs [main use case for ChatGPT].
 My expertise level: [beginner/intermediate/advanced] in relevant areas.
-```
 
-**Response Style (minimum viable):**
-```
 Be concise and direct. Use bullet points.
 Skip phrases like "Great question!" — just answer.
 Include examples when helpful.

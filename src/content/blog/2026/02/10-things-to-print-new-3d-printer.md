@@ -86,7 +86,7 @@ Finally, print something that looks like a boring office supply but has a secret
 If you're not ready to design your own in CAD yet, check out these three main repositories:
 1. **Printables.com:** The best community and the highest-quality models.
 2. **MakerWorld:** Optimized specifically for Bambu Lab users.
-3. **Thingiverse:** The "old guard" with the largest library of files.
+3. **Thingiverse:** The "old guard" and one of the most well-known model libraries, though many older files may no longer be accessible.
 
 ## Summary Checklist for Your First Spool
 - [ ] Calibrate your bed and Z-offset.

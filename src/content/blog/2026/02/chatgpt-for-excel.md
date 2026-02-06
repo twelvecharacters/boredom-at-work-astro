@@ -11,7 +11,7 @@ faq:
   - question: "Can ChatGPT write Excel formulas?"
     answer: "Yes, ChatGPT excels at writing Excel formulas. Describe what you want in plain English ('sum all sales from January where region is East') and ChatGPT will give you the exact formula. It handles VLOOKUP, INDEX-MATCH, array formulas, and complex nested functions."
   - question: "Can I upload an Excel file to ChatGPT?"
-    answer: "Yes, with ChatGPT Plus you can upload .xlsx files directly. ChatGPT will analyze the data, suggest insights, create charts, and write formulas specific to your spreadsheet. Free users can describe their data structure instead."
+    answer: "Yes, both free and Plus users can upload .xlsx files directly. ChatGPT will analyze the data, suggest insights, create charts, and write formulas specific to your spreadsheet. Plus users get higher upload limits and faster analysis."
   - question: "Is ChatGPT better than Copilot for Excel?"
     answer: "Different tools for different needs. Copilot works inside Excel with live data integration. ChatGPT is better for learning, complex formula help, and when you need detailed explanations. Many users use both."
 ---
@@ -30,7 +30,7 @@ Let's be clear about capabilities:
 - ✅ Debugging formulas that aren't working
 - ✅ Suggesting better approaches to problems
 - ✅ Creating VBA macros and scripts
-- ✅ Analyzing uploaded spreadsheets (Plus)
+- ✅ Analyzing uploaded spreadsheets (free and Plus)
 - ✅ Teaching Excel concepts
 
 ### ChatGPT Cannot:
@@ -51,16 +51,16 @@ Simply tell ChatGPT what you're trying to do:
 
 **You:** "I have sales data in column A (product names) and column B (sales amounts). I need a formula to sum all sales for products containing 'Premium' in the name."
 
-**ChatGPT:** 
+**ChatGPT:**
 ```
 =SUMIF(A:A,"*Premium*",B:B)
 ```
 
 This works with the free tier. Just describe your spreadsheet structure clearly.
 
-### Method 2: Upload Your Spreadsheet (ChatGPT Plus)
+### Method 2: Upload Your Spreadsheet (Free and Plus)
 
-With Plus, you can upload .xlsx files directly:
+Both free and Plus users can upload .xlsx files directly:
 
 1. Click the attachment icon in ChatGPT
 2. Select your Excel file
@@ -74,15 +74,17 @@ With Plus, you can upload .xlsx files directly:
 
 ChatGPT sees your actual column names, data types, and values — giving much more accurate help.
 
+> **Note:** Free users can upload up to 3 files per day (25 MB each). Plus users get significantly higher limits.
+
 ### Method 3: Screenshot Your Spreadsheet
 
-Don't have Plus? Take a screenshot:
+Prefer not to upload your file? Take a screenshot instead:
 
 1. Screenshot the relevant part of your spreadsheet
 2. Upload the image to ChatGPT
 3. Ask your question
 
-ChatGPT can read the structure and give formula help based on what it sees.
+ChatGPT can read the structure and give formula help based on what it sees. This is also useful when you're working with sensitive data you'd rather not upload as a file.
 
 ---
 
@@ -192,7 +194,7 @@ Or the modern way:
 
 **"Count unique values in column A"**
 
-Modern Excel (365):
+Modern Excel (365/2021+):
 ```
 =ROWS(UNIQUE(A2:A100))
 ```
@@ -287,23 +289,23 @@ Need to automate repetitive tasks? ChatGPT writes VBA code too.
 Sub FormatNewData()
     Dim ws As Worksheet
     Set ws = ActiveSheet
-    
+
     ' Find the used range
     Dim dataRange As Range
     Set dataRange = ws.UsedRange
-    
+
     ' Bold the header row
     dataRange.Rows(1).Font.Bold = True
-    
+
     ' Auto-fit all columns
     dataRange.Columns.AutoFit
-    
+
     ' Add borders
     With dataRange.Borders
         .LineStyle = xlContinuous
         .Weight = xlThin
     End With
-    
+
     MsgBox "Formatting complete!"
 End Sub
 ```
@@ -331,9 +333,9 @@ This kind of automation used to require hiring a developer or hours of learning 
 
 ## Analyzing Data with ChatGPT
 
-### Upload and Explore (Plus Feature)
+### Upload and Explore
 
-After uploading a spreadsheet, try these prompts:
+After uploading a spreadsheet (available on both free and Plus tiers), try these prompts:
 
 **Initial exploration:**
 - "What's in this spreadsheet?"
@@ -357,7 +359,7 @@ After uploading a spreadsheet, try these prompts:
 - "Show me a trend line of monthly revenue"
 - "Make a pie chart of market share"
 
-ChatGPT (Plus) will generate charts using its Code Interpreter feature. You can download the chart or ask for modifications.
+ChatGPT will generate charts using its built-in data analysis feature. You can download the chart or ask for modifications.
 
 ---
 
@@ -410,15 +412,17 @@ Both can help with Excel, but they work differently:
 
 | Feature | ChatGPT | Copilot in Excel |
 |---------|---------|------------------|
-| **Works inside Excel** | ❌ No | ✅ Yes |
-| **Edits cells directly** | ❌ No | ✅ Yes |
-| **Formula explanations** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
-| **Complex formula help** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| **VBA macro creation** | ⭐⭐⭐⭐⭐ | ⭐⭐ |
-| **Learning/teaching** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
-| **Live data analysis** | ❌ No | ✅ Yes |
-| **Price** | $20/mo (Plus) | $20/mo (Copilot Pro) |
-| **Free option** | ✅ Yes | ❌ No |
+| **Works inside Excel** | No | Yes |
+| **Edits cells directly** | No | Yes |
+| **Formula explanations** | Excellent | Good |
+| **Complex formula help** | Excellent | Very Good |
+| **VBA macro creation** | Excellent | Limited |
+| **Learning/teaching** | Excellent | Good |
+| **Live data analysis** | No | Yes |
+| **Price** | $20/mo (Plus) | Included in M365 Personal/Family; $30/mo (Copilot for Business) |
+| **Free option** | Yes | Yes (Copilot Chat — limited) |
+
+> **Important:** Copilot in Excel requires a Microsoft 365 subscription (Personal, Family, or Business). The standalone Copilot Pro plan was discontinued in late 2025. Free Copilot Chat is rolling out inside M365 apps with basic AI features, though premium capabilities like editing cells directly still require a paid plan.
 
 ### When to Use Each:
 
@@ -427,7 +431,7 @@ Both can help with Excel, but they work differently:
 - You're creating complex or nested formulas
 - You need VBA macros
 - You want detailed explanations
-- You're on a budget (free tier works)
+- You're on a budget (free tier works for file uploads and formula help)
 
 **Use Copilot when:**
 - You want AI directly in Excel
@@ -449,37 +453,37 @@ Here are prompts you can copy-paste for common tasks:
 
 ### Lookups
 ```
-Write an INDEX-MATCH formula to look up [value] from [source column] 
+Write an INDEX-MATCH formula to look up [value] from [source column]
 and return the corresponding value from [result column].
 ```
 
 ### Conditional Sums
 ```
-Write a SUMIFS formula to sum [sum column] where [condition column 1] 
+Write a SUMIFS formula to sum [sum column] where [condition column 1]
 equals [value 1] AND [condition column 2] is greater than [value 2].
 ```
 
 ### Date Calculations
 ```
-Write a formula to calculate the number of [days/months/years] 
+Write a formula to calculate the number of [days/months/years]
 between the date in [cell 1] and [cell 2/today].
 ```
 
 ### Text Extraction
 ```
-Write a formula to extract [first X characters / everything after 
+Write a formula to extract [first X characters / everything after
 the @ symbol / numbers only] from [cell].
 ```
 
 ### Data Validation
 ```
-Write a formula for data validation that only allows [specific 
+Write a formula for data validation that only allows [specific
 criteria, e.g., dates in the future, numbers between X and Y].
 ```
 
 ### Pivot Table Alternative
 ```
-Write a formula to summarize [column] by [category column], 
+Write a formula to summarize [column] by [category column],
 showing [sum/average/count] for each category.
 ```
 
@@ -497,16 +501,16 @@ Always test formulas before using them on important data:
 ### Complex Spreadsheets Need Context
 
 For intricate spreadsheets with multiple sheets and references:
-- Upload the file (Plus) for best results
+- Upload the file for best results (available on free and Plus)
 - Or describe the structure in detail
 - Include sample data in your prompt
 
 ### Some Functions Are Version-Specific
 
 ChatGPT might suggest:
-- XLOOKUP (Excel 365/2021 only)
-- FILTER (Excel 365 only)
-- Dynamic arrays (Excel 365 only)
+- XLOOKUP (Excel 365/2021+ only)
+- FILTER (Excel 365/2021+ only)
+- Dynamic arrays (Excel 365/2021+ only)
 
 Mention your version to avoid compatibility issues.
 
@@ -534,7 +538,8 @@ You'll always copy-paste manually.
    - Try lookup functions
    - Experiment with VBA
 
-3. **Upload a real spreadsheet (Plus)**
+3. **Upload a real spreadsheet**
+   - Works on both free and Plus (free allows up to 3 files/day)
    - Use a copy, not your original
    - Ask for analysis and suggestions
    - Request specific formulas for your columns

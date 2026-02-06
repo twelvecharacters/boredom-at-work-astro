@@ -31,10 +31,10 @@ These are AI tools I've actually used in a real office environment. Tools that s
 | Research | Perplexity | $20/mo | Answers with sources |
 | Email | Superhuman | $30/mo | AI triage + speed |
 | Meetings | Otter.ai | $16/mo | Best transcription |
-| Writing | Grammarly | $12/mo | Works everywhere |
-| Notes | Notion AI | $10/mo | Integrated workspace |
-| Presentations | Gamma | $10/mo | AI-generated slides |
-| Scheduling | Reclaim | Free/$10 | Smart calendar blocking |
+| Writing | Grammarly | ~$12/mo (annual) | Works everywhere |
+| Notes | Notion AI | From $20/mo | Integrated workspace |
+| Presentations | Gamma | ~$8/mo (annual) | AI-generated slides |
+| Scheduling | Reclaim | Free/$8 | Smart calendar blocking |
 
 Now let's dig into each category.
 
@@ -62,7 +62,7 @@ Claude is the AI assistant I reach for first. Here's why:
 - Code review and explanation
 
 **Limitations:**
-- No web browsing (knowledge cutoff)
+- Web search available but less mature than ChatGPT's
 - No image generation
 
 For a detailed comparison, see our [Claude vs ChatGPT guide](/claude-vs-chatgpt/).
@@ -84,7 +84,7 @@ ChatGPT pioneered the category and still offers the most features:
 - Research requiring current info
 - Creating images and visuals
 - Data analysis with Code Interpreter
-- Anything requiring web access
+- Heavy web-based research tasks
 
 ### Perplexity — Best for Research
 
@@ -201,7 +201,7 @@ Similar to Otter but with stronger integrations.
 
 ### Granola — Best for Privacy-Conscious
 
-**Price:** Free / $10/month
+**Price:** Free (25 meetings) / ~$18/month Individual
 
 Granola runs locally and doesn't send your audio to the cloud.
 
@@ -219,7 +219,7 @@ Granola runs locally and doesn't send your audio to the cloud.
 
 ### Grammarly — Best All-Around
 
-**Price:** Free tier / $12/month Premium
+**Price:** Free tier / ~$12/month Pro (annual) or $30/month (monthly)
 
 Grammarly works everywhere — email, docs, Slack, browser.
 
@@ -247,7 +247,7 @@ Hemingway makes your writing bold and clear.
 
 ### Wordtune — Best for Rewriting
 
-**Price:** Free tier / $10/month Premium
+**Price:** Free tier / ~$7/month Advanced (annual) or ~$14/month (monthly)
 
 Wordtune excels at rephrasing existing text.
 
@@ -265,9 +265,9 @@ Wordtune excels at rephrasing existing text.
 
 ### Notion AI — Best Integrated
 
-**Price:** $10/month (add-on to Notion)
+**Price:** Included in Business plan (~$20/user/month, billed annually)
 
-If you already use Notion, the AI add-on is a no-brainer.
+Notion discontinued its separate AI add-on in May 2025. Full AI features are now bundled into the Business and Enterprise plans (Free and Plus tiers get limited AI access).
 
 **Features:**
 - Summarize pages and databases
@@ -280,7 +280,7 @@ If you already use Notion, the AI add-on is a no-brainer.
 
 ### Mem — Best for Automatic Organization
 
-**Price:** Free tier / $15/month
+**Price:** Free tier / ~$8/month (annual) or ~$15/month (monthly)
 
 Mem uses AI to organize your notes automatically.
 
@@ -312,7 +312,7 @@ Clean, fast note-taking with AI features.
 
 ### Gamma — Best AI Slide Creator
 
-**Price:** Free tier / $10/month
+**Price:** Free tier / ~$8/month Plus (annual) or $10/month (monthly)
 
 Describe your presentation, get professional slides.
 
@@ -324,23 +324,24 @@ Describe your presentation, get professional slides.
 
 **Best for:** Quick presentations, pitch decks
 
-### Tome — Best for Storytelling
+### Canva AI — Best for Visual Presentations
 
-**Price:** Free tier / $16/month
+**Price:** Free tier / ~$13/month (Canva Pro, billed annually)
 
-Tome creates narrative presentations that look modern.
+Canva's AI features turn simple prompts into polished, visual presentations.
 
 **Features:**
-- AI-generated content and layouts
-- Embedded media support
-- Interactive elements
-- Web-native format
+- Magic Design generates slides from text prompts
+- Massive template library (thousands of presentation designs)
+- AI image generation and editing built in
+- Brand kit for consistent styling
+- Easy collaboration and sharing
 
-**Best for:** Creative presentations, portfolio pieces
+**Best for:** Visual presentations, social media decks, non-designers
 
 ### Beautiful.ai — Best for Design-Challenged
 
-**Price:** $12/month
+**Price:** ~$12/month Pro (annual) or $45/month (monthly)
 
 Smart templates that prevent you from making ugly slides.
 
@@ -356,7 +357,7 @@ Smart templates that prevent you from making ugly slides.
 
 ### Reclaim — Best Calendar AI
 
-**Price:** Free tier / $10/month
+**Price:** Free tier (Lite) / ~$8/month Starter
 
 Reclaim automatically blocks time for habits, tasks, and focus time.
 
@@ -371,7 +372,7 @@ Reclaim automatically blocks time for habits, tasks, and focus time.
 
 ### Clockwise — Best for Teams
 
-**Price:** Free tier / $8/month
+**Price:** Starting at ~$6.75/user/month (Teams, annual)
 
 Clockwise optimizes calendars across your whole team.
 
@@ -403,7 +404,7 @@ Motion combines tasks and calendar with AI scheduling.
 
 ### Sider — AI Sidebar
 
-**Price:** Free tier / $10/month
+**Price:** Starting at ~$5/month (Starter) / $10/month (Basic)
 
 Adds Claude/GPT/Perplexity to any webpage via sidebar.
 
@@ -466,8 +467,8 @@ Copilot deserves its own article (coming soon). Quick summary:
 
 - Integrates directly into Microsoft 365
 - Works in Word, Excel, PowerPoint, Outlook, Teams
-- Requires Microsoft 365 Business ($30/user/month)
-- Plus Copilot add-on ($30/user/month)
+- Requires Microsoft 365 Business Standard (~$12.50/user/month)
+- Plus Copilot add-on (~$18/user/month)
 
 **Best for:** Companies already deep in Microsoft ecosystem
 **Skip if:** You don't use Microsoft 365 heavily

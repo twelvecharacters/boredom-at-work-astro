@@ -9,11 +9,11 @@ tags: ["AI", "Microsoft", "Copilot", "Productivity", "Review"]
 draft: false
 faq:
   - question: "How much does Microsoft Copilot cost?"
-    answer: "Microsoft 365 Copilot costs $30/user/month, but requires a Microsoft 365 Business subscription ($12.50-22/user/month) as a prerequisite. Total cost is $42.50-52/user/month minimum."
+    answer: "For businesses, the full Microsoft 365 Copilot add-on costs $30/user/month on top of a Microsoft 365 Business subscription (~$7-22/user/month). For individuals, Copilot is included in Microsoft 365 Personal ($9.99/mo) and Family ($12.99/mo). Note: business base prices are increasing July 2026."
   - question: "Is Microsoft Copilot the same as ChatGPT?"
     answer: "Copilot uses OpenAI's technology but is deeply integrated into Microsoft 365 apps. It can access your emails, documents, and calendar — something ChatGPT cannot do. They're complementary, not interchangeable."
   - question: "Can individuals buy Microsoft Copilot?"
-    answer: "Microsoft 365 Copilot is currently only available for business accounts. Individuals can use the free Copilot in Windows, Edge, and Bing, which has fewer features but no cost."
+    answer: "Yes. Since January 2025, Copilot is included in Microsoft 365 Personal ($9.99/mo) and Family ($12.99/mo) plans. For heavier usage, Microsoft 365 Premium ($10.83/mo) offers enhanced Copilot access. The free Copilot in Windows, Edge, and Bing is also available with fewer features."
 ---
 
 Microsoft Copilot promises to revolutionize how you work with Office apps. After using it daily for several months, I can tell you: it's genuinely useful, occasionally magical, and frustratingly inconsistent.
@@ -31,25 +31,39 @@ Microsoft Copilot is AI assistance built directly into Microsoft 365 apps:
 - **Teams** — Meeting summaries, catch-up on missed discussions
 - **OneNote** — Summarize notes, generate content
 
-It's powered by OpenAI's GPT-4 but has deep access to your Microsoft 365 data — your emails, documents, calendar, and Teams conversations.
+It's powered by OpenAI's latest models — currently GPT-5.2 with real-time model routing that picks the best model for each task — and has deep access to your Microsoft 365 data: your emails, documents, calendar, and Teams conversations.
 
 ## The Price Reality
 
-Let's talk money first, because it's significant:
+Let's talk money first, because it's significant.
+
+### Business Pricing
 
 | Component | Cost |
 |-----------|------|
-| Microsoft 365 Business Basic | $6/user/month |
-| Microsoft 365 Business Standard | $12.50/user/month |
+| Microsoft 365 Business Basic | ~$6/user/month |
+| Microsoft 365 Business Standard | ~$12.50/user/month |
 | Microsoft 365 Business Premium | $22/user/month |
 | **Copilot Add-on** | **$30/user/month** |
 
-**Total minimum cost:** $36/user/month (Basic + Copilot)
-**Realistic cost:** $42.50-52/user/month (Standard/Premium + Copilot)
+**Total minimum cost:** ~$36/user/month (Basic + Copilot)
+**Realistic cost:** ~$42.50-52/user/month (Standard/Premium + Copilot)
 
 For a team of 10, that's $420-520/month just for Copilot.
 
-This is enterprise pricing. Microsoft is clearly targeting companies, not individuals.
+> **Note:** Microsoft is raising base M365 business prices effective July 1, 2026 (e.g., Business Basic to $7, Business Standard to $14). Check [Microsoft's pricing page](https://www.microsoft.com/en-us/microsoft-365-copilot/pricing) for the latest numbers.
+
+### Individual Pricing
+
+Since January 2025, Copilot is also available for individuals:
+
+| Plan | Cost | Copilot Access |
+|------|------|----------------|
+| Microsoft 365 Personal | $9.99/month | Included (basic) |
+| Microsoft 365 Family | $12.99/month | Included (owner only) |
+| Microsoft 365 Premium | ~$10.83/month (annual) | Enhanced Copilot |
+
+This is a big change — Copilot is no longer business-only. Individual users get Copilot in Word, Excel, PowerPoint, Outlook, and OneNote right out of the box, though with usage limits compared to the full business add-on.
 
 ## What Copilot Does Well
 
@@ -149,13 +163,11 @@ This makes it hard to rely on for time-sensitive work.
 
 ### 3. Limited Customization
 
-You can't:
+You still can't:
 - Train it on your writing style
-- Create custom templates for repeated tasks
-- Save prompts for reuse
 - Adjust its behavior preferences
 
-Every interaction starts fresh. Compare this to tools like Notion AI that learn your workspace.
+However, Microsoft has improved here. The **Prompt Gallery** now lets you save, reuse, and share prompts with colleagues — a welcome addition. Custom templates for repeated tasks are also rolling out (in Public Preview as of late 2025). These are steps in the right direction, but Copilot still doesn't learn your preferences over time the way tools like Notion AI adapt to your workspace.
 
 ### 4. Slow Response Times
 
@@ -222,7 +234,7 @@ At $30/month, that's $6-10 per hour saved. Worth it if your time is valuable; qu
 
 **Claude advantages:**
 - Superior writing quality
-- Larger context window (200K tokens)
+- Larger context window (200K tokens standard, up to 1M on newer models)
 - Better reasoning and analysis
 - Cheaper
 
@@ -255,7 +267,7 @@ At $30/month, that's $6-10 per hour saved. Worth it if your time is valuable; qu
 ### Skip It If:
 
 - You mostly use Google Workspace
-- You're an individual (not available anyway)
+- You're an individual and don't want to pay $9.99+/month (try the free Copilot in Windows/Edge first)
 - Your work is creative rather than document-heavy
 - You can accomplish the same with free AI tools
 - $30/month per person strains your budget
