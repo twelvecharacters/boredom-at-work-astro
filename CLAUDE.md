@@ -4,9 +4,25 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 5. Februar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 6. Februar 2026)
 
-### Letzte Sitzung (5. Februar 2026 - Nacht)
+### Letzte Sitzung (6. Februar 2026)
+
+**📢 Reddit-Posts für Februar-Content:**
+
+| Subreddit | Artikel | Status |
+|-----------|---------|--------|
+| r/ChatGPT | Claude vs ChatGPT | ✅ Gepostet |
+| r/ClaudeAI | Claude vs ChatGPT | ✅ Gepostet |
+| r/perplexity_ai | Perplexity AI Guide | ✅ Gepostet |
+
+**Nächste Reddit-Posts (noch offen):**
+- [ ] Best AI Tools for Office → r/productivity
+- [ ] AI Meeting Assistants → r/remotework
+
+---
+
+### Sitzung (5. Februar 2026 - Nacht)
 
 **✅ Internes Linking optimiert (Home Office Cluster):**
 
