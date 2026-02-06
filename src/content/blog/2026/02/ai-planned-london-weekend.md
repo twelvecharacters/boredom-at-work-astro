@@ -11,7 +11,7 @@ faq:
   - question: "Can AI really plan a trip for someone with dietary restrictions?"
     answer: "Yes! I used Clawd.bot to plan a gluten-free weekend in London. It found dedicated GF restaurants like Ugly Dumpling and suggested celiac-safe options. All three restaurants we visited had proper GF menus and I had zero reactions."
   - question: "Is Clawd.bot free to use for trip planning?"
-    answer: "Clawd.bot offers both free and paid tiers. The free version handles basic itineraries well. For a weekend trip with specific requirements like gluten-free dining, it worked perfectly."
+    answer: "Clawd.bot is open-source and free to install. Your only costs are hosting (~$5/month on a VPS) and AI API usage, which varies by how much you use it. For a weekend trip with specific requirements like gluten-free dining, it worked perfectly without racking up a big bill."
   - question: "How accurate are AI-generated travel itineraries?"
     answer: "Pretty accurate for logistics (train times, distances, opening hours), but you'll still deviate. We skipped one breakfast spot and added Chinatown spontaneously. The AI gives you a solid framework — you add the human element."
 ---
@@ -35,7 +35,7 @@ Within minutes, I had a detailed itinerary with train times, restaurant recommen
 
 **The AI's Saturday plan:**
 - 08:35 — Land at Stansted
-- Stansted Express to Liverpool Street (47 min)
+- Stansted Express to Liverpool Street (~48 min)
 - Tube to Notting Hill
 - Breakfast at Libby's (dedicated GF bakery)
 - Portobello Road Market
@@ -58,7 +58,7 @@ Instead of tubing across London to Notting Hill for breakfast, we walked to Bric
 - Full English Breakfast for me
 - Excellent coffee
 
-**GF notes for celiacs:** They're not a dedicated GF facility, but [FindMeGlutenFree rates them 4.5/5](https://www.findmeglutenfree.com/biz/brick-lane-coffee/5174708163706880) with 16 community ratings. Items aren't labeled GF on the menu — ask staff. They reportedly have 20+ GF options including crepes, waffles, brownies, and cakes. No dedicated fryer though, so skip fried items if you're highly sensitive.
+**GF notes for celiacs:** They're not a dedicated GF facility, but [FindMeGlutenFree lists them as GF-friendly](https://www.findmeglutenfree.com/biz/brick-lane-coffee/5174708163706880) with positive community ratings. Items aren't labeled GF on the menu — ask staff. They reportedly have 20+ GF options including crepes, waffles, brownies, and cakes. No dedicated fryer though, so skip fried items if you're highly sensitive.
 
 **Lesson #1:** AI gives you a plan. You give it flexibility.
 
@@ -90,13 +90,13 @@ The red lanterns were glowing, the streets were packed, and we spent a good 30 m
 
 This was the real test. As someone with celiac disease, I can't just "try" a restaurant. One wrong sauce and I'm sick for days.
 
-Clawd.bot had recommended [Ugly Dumpling](https://uglydumpling.co.uk/) specifically because they have a dedicated gluten-free menu and excellent reviews on [FindMeGlutenFree (96 ratings)](https://www.findmeglutenfree.com/biz/ugly-dumpling/6243481373245440). The AI even linked to their celiac-safe rating.
+Clawd.bot had recommended [Ugly Dumpling](https://uglydumpling.co.uk/) specifically because they have a dedicated gluten-free menu and excellent reviews on [FindMeGlutenFree](https://www.findmeglutenfree.com/biz/ugly-dumpling/6243481373245440) (90+ community ratings at time of writing). The AI even linked to their celiac-safe rating.
 
 **The verdict:** Absolutely legit.
 
 **What makes Ugly Dumpling celiac-safe:**
 - **Black plates = gluten-free** — All GF dishes come on black plates for easy identification
-- **Dedicated fryer** — 46 community reports confirm separate fryer for GF items
+- **Dedicated fryer** — Dozens of community reports on FindMeGlutenFree confirm a separate fryer for GF items
 - **Separate prep space** — GF food prepared with dedicated tools
 - **Handmade daily** — Their GF dumplings are made fresh every day
 - **Staff training** — One reviewer was greeted with "welcome to coeliac heaven"
@@ -130,7 +130,7 @@ I'd pre-booked Stansted Express tickets for both directions. On the return journ
 
 At Stansted Airport, we tapped out with the pre-booked ticket. Which means somewhere in Greater Anglia's system, there's an incomplete journey on her card.
 
-We're still waiting to see what they charge her.
+**Important:** Contactless and Oyster are currently NOT valid for Stansted Express journeys to/from the airport (only between Liverpool Street and Tottenham Hale). In the worst case, this could result in a penalty fare of up to £100. Pay-as-you-go contactless for the full Stansted route is expected to roll out in summer 2026. We're still waiting to see what they charge her.
 
 **Lesson #2:** If you've got pre-booked tickets, remind everyone in your group before they reach the barriers. Contactless muscle memory is real.
 

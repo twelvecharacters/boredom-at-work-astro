@@ -9,7 +9,7 @@ tags: ["AI", "Meetings", "Productivity", "Otter.ai", "Comparison"]
 draft: false
 faq:
   - question: "Are AI meeting assistants safe for confidential meetings?"
-    answer: "Most cloud-based tools (Otter, Fireflies) process audio on their servers. For sensitive meetings, consider Granola (local processing) or disable the assistant entirely. Always check your company's policy on recording meetings."
+    answer: "Most cloud-based tools (Otter, Fireflies) process audio on their servers. For sensitive meetings, consider Granola (no bot joins your call and audio is not stored) or disable the assistant entirely. Always check your company's policy on recording meetings."
   - question: "Do participants know they're being recorded?"
     answer: "Most tools announce themselves when joining or display a recording indicator. Many jurisdictions require consent from all participants. Always inform attendees that you're using an AI assistant."
   - question: "Can AI meeting assistants work with in-person meetings?"
@@ -28,9 +28,9 @@ After testing every major option, here's what actually works.
 |------|----------|-------|--------------|
 | **Otter.ai** | General use | Free/$16/mo | Best transcription accuracy |
 | **Fireflies.ai** | Sales teams | Free/$18/mo | CRM integrations |
-| **Granola** | Privacy-focused | Free/$10/mo | Local processing |
-| **Fathom** | Free option | Free/$24/mo | Generous free tier |
-| **tl;dv** | Video clips | Free/$20/mo | Shareable highlights |
+| **Granola** | Privacy-focused | Free/~$14/mo | No bot, no audio stored |
+| **Fathom** | Free option | Free/~$19/mo | Generous free tier |
+| **tl;dv** | Video clips | Free/~$18/mo | Shareable highlights |
 | **Tactiq** | Google Meet | Free/$12/mo | Chrome extension |
 
 ## How AI Meeting Assistants Work
@@ -147,14 +147,14 @@ Chat with your meeting history:
 
 ## Granola — Best for Privacy
 
-**Price:** Free / $10/mo Pro
+**Price:** Free (Basic) / ~$14/mo Business / $18/mo Individual / $35/mo Enterprise
 
-Granola is different: it runs locally on your device.
+Granola is different: no bot joins your call, and audio is never stored.
 
 ### What It Does Well
 
-**Local Processing**
-Audio is processed on your Mac — nothing sent to the cloud. For confidential meetings, this matters.
+**No Bot, No Stored Audio**
+Granola captures your system audio and sends it to transcription providers (like Deepgram) in real time. Once transcription is complete, all audio is deleted — nothing is stored on Granola's servers or by third parties. No bot joins the call, so participants won't see a recording indicator.
 
 **Lightweight**
 No bot joins the call. Granola just listens through your system audio. Participants don't know it's there (make sure to inform them anyway for legal/ethical reasons).
@@ -162,36 +162,36 @@ No bot joins the call. Granola just listens through your system audio. Participa
 **Clean Interface**
 Minimalist design. Meeting notes appear in a simple, searchable format.
 
-**Offline Capable**
-Works without internet connection. Sync later if needed.
+**Offline Note Access**
+You can read and edit existing notes without an internet connection. However, transcription and AI features require internet.
 
 ### Limitations
 
-- Mac only (no Windows yet)
-- Less accurate than cloud-based options
-- No automatic calendar integration
-- Limited team features
-- No real-time transcription
+- Audio still sent to cloud for transcription (not fully local)
+- Windows version available but still in beta
+- Less accurate than dedicated cloud-based options
+- Limited team features on free tier
+- Google account required for Windows sign-in
 
 ### Best For
 
-- Confidential or sensitive meetings
-- Privacy-conscious users
-- Mac users wanting lightweight option
-- Solo users (not teams)
+- Privacy-conscious users who want no bot and no audio storage
+- Users wanting a lightweight, non-intrusive option
+- Mac or Windows users
+- Solo users or small teams
 
 ---
 
 ## Fathom — Best Free Option
 
-**Price:** Free (unlimited) / $24/mo Team
+**Price:** Free / ~$19/mo Premium / ~$29/mo Team (annual)
 
 Fathom offers the most generous free tier — unlimited recordings and transcriptions for individuals.
 
 ### What It Does Well
 
-**Truly Free**
-Unlimited meetings, unlimited transcription, no credit card required. The catch? Team features require paid plans.
+**Truly Free (With Limits)**
+Unlimited recordings, unlimited transcription, no credit card required. The catch? Advanced AI summaries are limited to 5 per month on the free plan (after that, you get basic chronological summaries only). Team features require paid plans.
 
 **Quick Highlights**
 Click during a meeting to mark important moments. Fathom creates clips automatically.
@@ -207,8 +207,9 @@ Summaries appear within minutes of meeting end.
 
 ### Limitations
 
-- Team features are expensive ($24/user)
+- Team features are expensive (~$29-39/user/mo)
 - Fewer integrations than competitors
+- AI summaries limited to 5/month on free plan
 - No CRM connections on free plan
 - Limited conversation analytics
 
@@ -223,7 +224,7 @@ Summaries appear within minutes of meeting end.
 
 ## tl;dv — Best for Sharing
 
-**Price:** Free (10 recordings/mo) / $20/mo Pro
+**Price:** Free (unlimited recordings, 10 AI notes) / ~$18/mo Pro (annual)
 
 tl;dv excels at creating shareable meeting clips and highlights.
 
@@ -246,7 +247,8 @@ Transcription in 30+ languages. Summaries can be translated.
 
 ### Limitations
 
-- Limited free tier (10 recordings/month)
+- Free AI notes limited to 10 (then only first 10 min per meeting)
+- Free recordings auto-deleted after 3 months
 - Video storage uses significant space
 - No local processing option
 - Mobile app is basic
@@ -284,10 +286,10 @@ At $12/month, it's the cheapest paid option with good features.
 
 ### Limitations
 
-- Chrome only (no desktop app)
-- Google Meet focused (Zoom/Teams support is newer)
+- Chrome/Edge extension only (Zoom desktop app in beta for Mac)
+- Originally Google Meet focused (Zoom/Teams now supported)
 - Less accurate than dedicated apps
-- Limited team features
+- Pro plan AI credits limited to 10/month
 
 ### Best For
 
@@ -312,7 +314,7 @@ If your organization uses Microsoft Teams with Copilot, you already have meeting
 
 ### Limitations
 
-- Requires Microsoft 365 + Copilot ($30/user/mo add-on)
+- Requires Microsoft 365 + Copilot (~$30/user/mo add-on, bundled options also available)
 - Only works with Teams meetings
 - Can't process external meetings
 
@@ -329,18 +331,21 @@ See our full [Microsoft Copilot review](/microsoft-copilot-review/) for more det
 
 | Feature | Otter | Fireflies | Granola | Fathom | tl;dv | Tactiq |
 |---------|-------|-----------|---------|--------|-------|--------|
-| Free tier | 300 min | 800 min | Limited | Unlimited | 10 mtgs | 10 trans |
-| Pro price | $17/mo | $18/mo | $10/mo | $24/mo | $20/mo | $12/mo |
+| Free tier | 300 min | 800 min | Limited | Unlimited* | Unlimited** | 10 trans |
+| Paid price | ~$17/mo | ~$18/mo | ~$14/mo | ~$19/mo | ~$18/mo | $12/mo |
 | Accuracy | ★★★★★ | ★★★★ | ★★★ | ★★★★ | ★★★★ | ★★★ |
 | Zoom | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Teams | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ |
+| Teams | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Meet | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Local processing | ❌ | ❌ | ✅ | ❌ | ❌ | ⚠️ |
-| CRM integration | ⚠️ | ✅ | ❌ | ⚠️ | ⚠️ | ❌ |
+| No bot required | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ |
+| CRM integration | ⚠️ | ✅ | ⚠️ | ⚠️ | ⚠️ | ❌ |
 | Video clips | ❌ | ✅ | ❌ | ⚠️ | ✅ | ❌ |
-| Mobile app | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Mobile app | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
 
 ✅ = Full support | ⚠️ = Limited | ❌ = Not available
+
+*Fathom: Unlimited recordings, but AI summaries limited to 5/month on free plan.
+**tl;dv: Unlimited recordings, but 10 AI notes total on free plan; recordings deleted after 3 months.
 
 ---
 
@@ -353,10 +358,10 @@ If you want the most accurate transcription and don't have special requirements,
 The CRM integration and conversation analytics make it invaluable for sales teams.
 
 ### Best for Privacy: Granola
-When confidentiality matters and you're on Mac, Granola's local processing is unmatched.
+When confidentiality matters, Granola stands out — no bot joins the call and audio is never stored. Available on Mac and Windows.
 
 ### Best Free: Fathom
-Unlimited free transcription for individuals. Can't beat that.
+Unlimited free recordings and transcription for individuals (AI summaries limited to 5/month). Can't beat that.
 
 ### Best for Sharing: tl;dv
 When you need to share clips and highlights with teammates or stakeholders.
@@ -390,12 +395,13 @@ Configure the tool to highlight when specific topics (budget, timeline, competit
 
 ## Privacy and Security Considerations
 
-### Cloud vs. Local
+### Bot vs. No-Bot Approaches
 
 | Approach | Pros | Cons |
 |----------|------|------|
-| Cloud (Otter, Fireflies) | Better accuracy, more features | Data leaves your device |
-| Local (Granola) | Data stays private | Less accurate, fewer features |
+| Bot-based (Otter, Fireflies) | Better accuracy, more features | Bot joins call, audio stored on servers |
+| No-bot (Granola) | No bot visible, audio not stored | Audio still sent to cloud for transcription |
+| Extension-based (Tactiq) | No bot, runs in browser | Accuracy depends on browser audio |
 
 ### Before Using at Work
 
