@@ -51,7 +51,14 @@ Looked solid on paper. But would it survive contact with reality?
 
 We landed on time and grabbed the Stansted Express (pro tip: buy tickets in advance — £75 for two people round trip). But at Liverpool Street, we made an audible.
 
-Instead of tubing across London to Notting Hill for breakfast, we walked to Brick Lane. The neighborhood was buzzing, and we found a coffee shop with gluten-free crepes for my girlfriend and a proper Full English for me.
+Instead of tubing across London to Notting Hill for breakfast, we walked to Brick Lane. The neighborhood was buzzing, and we found [Brick Lane Coffee Shop](https://bricklanecoffeeshop.co.uk/) — a spot with surprisingly good gluten-free options.
+
+**What we ordered:**
+- GF crepes for my girlfriend (they have dedicated GF batter)
+- Full English Breakfast for me
+- Excellent coffee
+
+**GF notes for celiacs:** They're not a dedicated GF facility, but [FindMeGlutenFree rates them 4.5/5](https://www.findmeglutenfree.com/biz/brick-lane-coffee/5174708163706880) with 16 community ratings. Items aren't labeled GF on the menu — ask staff. They reportedly have 20+ GF options including crepes, waffles, brownies, and cakes. No dedicated fryer though, so skip fried items if you're highly sensitive.
 
 **Lesson #1:** AI gives you a plan. You give it flexibility.
 
@@ -83,16 +90,27 @@ The red lanterns were glowing, the streets were packed, and we spent a good 30 m
 
 This was the real test. As someone with celiac disease, I can't just "try" a restaurant. One wrong sauce and I'm sick for days.
 
-Clawd.bot had recommended Ugly Dumpling specifically because they have a dedicated gluten-free menu and good reviews on FindMeGlutenFree. The AI even linked to their celiac-safe rating.
+Clawd.bot had recommended [Ugly Dumpling](https://uglydumpling.co.uk/) specifically because they have a dedicated gluten-free menu and excellent reviews on [FindMeGlutenFree (96 ratings)](https://www.findmeglutenfree.com/biz/ugly-dumpling/6243481373245440). The AI even linked to their celiac-safe rating.
 
 **The verdict:** Absolutely legit.
 
-They had:
-- A separate GF menu (not just "we can modify things")
-- Gluten-free beer options
-- Staff who understood cross-contamination
+**What makes Ugly Dumpling celiac-safe:**
+- **Black plates = gluten-free** — All GF dishes come on black plates for easy identification
+- **Dedicated fryer** — 46 community reports confirm separate fryer for GF items
+- **Separate prep space** — GF food prepared with dedicated tools
+- **Handmade daily** — Their GF dumplings are made fresh every day
+- **Staff training** — One reviewer was greeted with "welcome to coeliac heaven"
 
-We ordered way too many dumplings, and I had zero reaction. For celiacs reading this: Ugly Dumpling is safe.
+**What we ordered:**
+- Cheeseburger dumplings (yes, really — and they're amazing)
+- Duck dumplings
+- Tempura aubergine
+- Nutella dessert dumplings
+- Gluten-free beer
+
+**Pro tip:** Visit on Sunday or Monday for their GF meal deal. Avoid weekday evenings and Saturdays if you're highly sensitive — they note that "during busy hours there are longer waiting times for GF foods to decrease cross-contamination risk." We went Saturday evening and had no issues, but it's good they're transparent about it.
+
+We ordered way too many dumplings, and I had zero reaction. For celiacs reading this: Ugly Dumpling is safe. Check their [current GF menu (PDF)](https://uglydumpling.co.uk/menus/) before you go.
 
 ### Sunday: British Museum + Fish & Chips
 
@@ -147,7 +165,7 @@ Three restaurants. Zero reactions. That's a win.
 | **Transport** | Stansted Express (£75/2 pax RT) + Tube |
 | **Hotel** | The Westbourne Hyde Park |
 | **AI Tool Used** | Clawd.bot |
-| **GF Restaurants** | Brick Lane Coffee, Ugly Dumpling, Wicked Fish |
+| **GF Restaurants** | [Brick Lane Coffee](https://bricklanecoffeeshop.co.uk/), [Ugly Dumpling](https://uglydumpling.co.uk/), Wicked Fish Spitalfields |
 | **Celiac Reactions** | 0 |
 
 ## Related Reading
