@@ -20,5 +20,9 @@ export default defineConfig({
         // Exclude paginated blog pages (keep /blog/ but not /blog/2/, /blog/3/, etc.)
         !/\/blog\/\d+\/?$/.test(page)
     })
-  ]
+  ],
+  redirects: {
+    '/learning-paths': '/',
+    '/learning-paths/[...slug]': '/'
+  }
 });

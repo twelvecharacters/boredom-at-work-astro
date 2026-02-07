@@ -22,7 +22,6 @@ export const AUTHOR = {
 
 export const NAV_ITEMS = [
   { label: 'Home', href: '/' },
-  { label: 'Learning Paths', href: '/learning-paths/' },
   { label: 'Blog', href: '/blog/' },
 ];
 
@@ -119,7 +118,6 @@ export const CATEGORIES = [
 export const FOOTER_LINKS = {
   quick: [
     { label: 'Home', href: '/' },
-    { label: 'Learning Paths', href: '/learning-paths/' },
     { label: 'Blog', href: '/blog/' },
     { label: 'Stop Being Bored', href: '/productive-things-bored-at-work/' },
     { label: 'Contact', href: '/contact/' },
