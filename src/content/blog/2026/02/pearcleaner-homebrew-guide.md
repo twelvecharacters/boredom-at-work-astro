@@ -1,7 +1,7 @@
 ---
 title: "Pearcleaner: The Ultimate Homebrew and App Management Guide"
 slug: "pearcleaner-homebrew-guide"
-description: "Meet Pearcleaner: the free, open-source app uninstaller that doesn't just delete apps—it masters your Homebrew setup too. Here's why you need it on your Mac."
+description: "Meet Pearcleaner: the free, source-available app uninstaller that doesn't just delete apps—it masters your Homebrew setup too. Here's why you need it on your Mac."
 publishDate: 2026-02-15
 author: "bored chap"
 image: "/images/pearcleaner.webp"
@@ -9,11 +9,11 @@ tags: ["Tech & Gadgets", "macOS", "Pearcleaner", "Homebrew", "Open Source"]
 draft: false
 faq:
   - question: "How is Pearcleaner different from AppCleaner?"
-    answer: "While AppCleaner is great for basic uninstallation, Pearcleaner is open-source and features deep Homebrew integration, allowing you to adopt and manage command-line apps alongside GUI ones."
+    answer: "While AppCleaner is great for basic uninstallation, Pearcleaner is source-available (Apache 2.0 + Commons Clause) and features deep Homebrew integration, allowing you to adopt and manage command-line apps alongside GUI ones."
   - question: "What is the 'Sentinel' monitor in Pearcleaner?"
     answer: "Sentinel is an optional background helper that watches your Trash folder. When you delete an app the 'old' way, Pearcleaner automatically pops up to offer a deep clean of its leftover files."
   - question: "Can I manage Homebrew updates through Pearcleaner?"
-    answer: "Yes! Pearcleaner can check for available updates, run maintenance tasks like 'brew doctor', and even adopt non-Homebrew apps into your Homebrew ecosystem."
+    answer: "Yes! Pearcleaner can run maintenance tasks like 'brew cleanup', adopt non-Homebrew apps into your Homebrew ecosystem, and manage updates for your installed casks."
 ---
 
 If you’ve been using a Mac for more than five minutes, you know that dragging an app to the Trash is a lie. macOS leaves behind caches, logs, and preference files that can eat up gigabytes of space over time.
@@ -26,7 +26,7 @@ Meet **Pearcleaner**.
 
 ## What is Pearcleaner?
 
-Pearcleaner is a free, open-source app uninstaller for macOS. It was built with a simple goal: to be the most thorough and user-friendly way to keep your Mac clean. 
+Pearcleaner is a free, source-available app uninstaller for macOS (licensed under Apache 2.0 with Commons Clause). It was built with a simple goal: to be the most thorough and user-friendly way to keep your Mac clean. 
 
 It doesn't just find the main `.app` bundle; it scans your entire system for the "ghosts" left behind in `~/Library/Application Support`, `~/Library/Caches`, and beyond.
 
@@ -37,10 +37,10 @@ It doesn't just find the main `.app` bundle; it scans your entire system for the
 This is where Pearcleaner pulls ahead of every other uninstaller. Most Mac power users use **Homebrew** to install software, but managing those "casks" often requires jumping into the Terminal. Pearcleaner brings that power to a beautiful GUI.
 
 ### 1. Adopt Apps into Homebrew
-Have an app you installed manually that you wish was managed by Homebrew? Pearcleaner's **Updater Page (v2)** can "adopt" it. This means Homebrew takes over the update process, keeping your software stack unified and easily updatable with a single command.
+Have an app you installed manually that you wish was managed by Homebrew? Pearcleaner's **Updater Page** can "adopt" it. This means Homebrew takes over the update process, keeping your software stack unified and easily updatable with a single command.
 
 ### 2. Maintenance with One Click
-Instead of typing `brew doctor` or `brew cleanup` into the terminal, Pearcleaner can handle these tasks from its preferences. It helps you find broken symlinks and clear out old "bottles" (Homebrew's term for installation files) that are wasting space. It can even manage Homebrew analytics settings for you.
+Instead of typing `brew cleanup` into the terminal, Pearcleaner can handle maintenance tasks from its preferences. It helps you clear out old "bottles" (Homebrew's term for installation files) that are wasting space, manage updates for your installed casks, and even manage Homebrew analytics settings for you.
 
 ---
 
@@ -92,7 +92,7 @@ Once installed, I highly recommend enabling **Sentinel** in the settings. It sta
 ## FAQ: The Quick Hits
 
 **Is Pearcleaner actually free?**  
-Yes, it is completely free and open-source. You can find the source code on GitHub and contribute if you're a developer!
+Yes, it is completely free and source-available. You can find the source code on GitHub (licensed under Apache 2.0 with Commons Clause) and contribute if you're a developer!
 
 **Does it work on Intel Macs?**  
 Yes! Pearcleaner supports both Apple Silicon and Intel-based Macs, though features like "App Lipo" are most useful for the former.

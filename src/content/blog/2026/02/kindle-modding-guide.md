@@ -58,11 +58,16 @@ Not every Kindle is eligible. Amazon is constantly patching security holes to pr
 **The Golden Rule:** Do not update your firmware if you plan to mod!
 
 ### **Check your Firmware Version**
-Go to `Settings -> Device Options -> Device Info`. 
-In early 2026, most devices running firmware version **5.16.x** or lower are potentially exploitable. If you've already updated to the latest 2026 patches, you might have to wait for a new exploit to be discovered.
+Go to `Settings -> Device Options -> Device Info`.
+In early 2026, nearly all Kindle firmware versions are exploitable thanks to multiple jailbreak methods:
+- **WinterBreak** — Works on firmware up to **5.18.0** (covers most Kindles released since 2013)
+- **AdBreak** — Works on firmware **5.18.1 through 5.18.5.0.1** (for newer updates)
+- **LanguageBreak** (legacy) — Works on firmware **5.14.3 through 5.16.2.1.1**
+
+If you've updated to the very latest 2026 patches beyond 5.18.5, you might have to wait for a new exploit.
 
 ### **Identify your Model**
-Use the first 4-6 characters of your serial number to find your specific model on the [MobileRead Wiki](https://wiki.mobileread.com/wiki/Kindle_Serial_Numbers). The **Kindle Paperwhite (11th Gen)** and the **Kindle Scribe** are currently the most popular targets for modders.
+Use the first 4-6 characters of your serial number to find your specific model on the [MobileRead Wiki](https://wiki.mobileread.com/wiki/Kindle_Serial_Numbers). The **Kindle Paperwhite (11th Gen)** is currently the most popular target for modders. Note that the **Kindle Scribe** is supported by WinterBreak but is excluded from AdBreak, so jailbreak options may be more limited on the latest Scribe firmware.
 
 ---
 
@@ -75,7 +80,7 @@ KOReader is a versatile e-book reader application that runs alongside (or instea
 - **Vast Format Support:** It handles EPUB, DJVU, CBZ, and more natively.
 - **Deep Customization:** You can tweak everything from line spacing to the specific way E Ink refreshes.
 
-You can find the latest installation guides on the [official Kindle Modding Wiki](https://kindlemodding.org/).
+You can find the latest installation guides on the [community-run Kindle Modding Wiki](https://kindlemodding.org/).
 
 ---
 
@@ -98,8 +103,8 @@ For those who like to keep things updated, KPM is an on-device manager that hand
 
 If you're too nervous to jailbreak, you can still improve your experience with these "soft" mods:
 
-### **Custom Fonts**
-Did you know you can just plug your Kindle into a computer and drag-and-drop `.ttf` or `.otf` files into the `fonts` folder? I highly recommend **Literata** or **Bookerly** (if you're not on a Kindle) for the best reading experience.
+### **Custom Fonts (Built-in Feature!)**
+Did you know you can just plug your Kindle into a computer and drag-and-drop `.ttf` or `.otf` files into the `fonts` folder? This has been a native Kindle feature since firmware 5.9.6 — no jailbreak required. For the best results, install the full font family (regular, bold, italic, bold-italic). I highly recommend **Literata** or **Bookerly** (if you're not on a Kindle) for the best reading experience.
 
 ### **The Magic of Calibre**
 [Calibre](https://calibre-ebook.com/) is essential software for any Kindle owner. It’s a library manager that can automatically convert any file type to Kindle-friendly formats, fetch metadata, and even send your favorite RSS feeds to your device as a "daily newspaper."
@@ -110,12 +115,13 @@ Did you know you can just plug your Kindle into a computer and drag-and-drop `.t
 
 Let's address the elephant in the room: **Can you brick your Kindle?**
 
-Technically, yes. If you lose power during a firmware flash or skip a critical step, you could end up with a very expensive paperweight. However, the modern jailbreak methods (like *LanguageBreak*) are very stable. 
+Technically, yes. If you lose power during a firmware flash or skip a critical step, you could end up with a very expensive paperweight. The modern jailbreak methods (like *WinterBreak* and *AdBreak*) are generally stable, but bricking is a documented risk — the KindleModding.org FAQ itself warns that "even after following precautions, it is not guaranteed your device won't brick." Certain operations like manually replacing screensavers or editing system files are considered especially risky.
 
 **Tips for a safe mod:**
 1. **Charge to 100%:** Never start a mod on a low battery.
 2. **Read the README:** Twice. Every device is slightly different.
 3. **Turn off Airplane Mode:** Wait, actually, *keep it on*! You don't want Amazon pushing an "emergency update" in the middle of your jailbreak.
+4. **Back up first:** A factory reset can usually undo a jailbreak, but having a backup gives you peace of mind.
 
 ---
 
@@ -126,7 +132,7 @@ If you're ready to take the plunge, your first stop should be the **MobileRead F
 A modded Kindle is more than just a gadget; it’s a statement that you own your hardware. And honestly, watching a Linux terminal scroll across an E Ink screen while your boss thinks you're reading "Market Trends 2026" is a feeling that's hard to beat.
 
 ### **Useful Quick Links:**
-- [Official Kindle Modding Wiki](https://kindlemodding.org/): The definitive starting point.
+- [Kindle Modding Wiki](https://kindlemodding.org/): The definitive community starting point.
 - [KindleModShelf](https://kindlemodshelf.me/): Browse available apps and games.
 - [MobileRead Forums](https://www.mobileread.com/forums/): The heart of the community.
 

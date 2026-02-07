@@ -11,9 +11,9 @@ faq:
   - question: "What is Liquid Glass in macOS Tahoe?"
     answer: "Liquid Glass is the new design language in macOS 26, featuring translucent materials, dynamic reflections, and a depth-heavy interface inspired by visionOS."
   - question: "Does macOS Tahoe support Intel Macs?"
-    answer: "Yes, but it is the final version to do so. Only specific Intel models from 2019-2020 are supported: Mac Pro (2019), iMac (2020), and MacBook Pro (2019-2020)."
+    answer: "Yes, but it is the final version to do so. Only four specific Intel models are supported: Mac Pro (2019), iMac (Retina 5K, 27-inch, 2020), MacBook Pro (16-inch, 2019), and MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)."
   - question: "How do I get the new Siri in macOS Tahoe?"
-    answer: "Basic Apple Intelligence features are available now in System Settings > Apple Intelligence & Siri. The advanced LLM-powered Siri with personal context and on-screen awareness is expected to arrive in macOS 26.4 (spring 2026)."
+    answer: "Basic Apple Intelligence features are available now in System Settings > Apple Intelligence & Siri. The advanced LLM-powered Siri with personal context and on-screen awareness is expected to arrive via macOS 26.4 in spring 2026."
   - question: "Is macOS Tahoe stable for daily use?"
     answer: "Yes, macOS Tahoe is generally stable. Some third-party apps needed updates for the new visual style, but most major apps are now compatible."
   - question: "Can I turn off the Liquid Glass transparency effects?"
@@ -83,7 +83,7 @@ Apple Intelligence powers many of Tahoe's smartest features. Make sure it's enab
 
 **System Settings > Apple Intelligence & Siri > Apple Intelligence**
 
-This requires an Apple Silicon Mac (M1 or later). Basic features like Writing Tools and notification summaries are available now. The much-anticipated **LLM-powered Siri** — with personal context, on-screen awareness, and the ability to take actions across apps — is expected to arrive in **macOS 26.4 (around March 2026)**.
+This requires an Apple Silicon Mac (M1 or later). Basic features like Writing Tools and notification summaries are available now. The much-anticipated **LLM-powered Siri** — with personal context, on-screen awareness, and the ability to take actions across apps — is expected to arrive in **macOS 26.4 (spring 2026)**.
 
 ### 7. What LLM Siri Will Bring
 
@@ -130,7 +130,9 @@ Tahoe introduces a dedicated **Phone app** (finally). No more digging for your i
 Features:
 - View and manage voicemail
 - See recent call history
-- Make FaceTime Audio and regular calls
+- Make and receive regular cellular calls (routed through your iPhone)
+- **Call Screening** — see a live transcription of who's calling before you pick up
+- **Hold Assist** — AI monitors hold music and alerts you when a human picks up
 - Send calls to voicemail with a tap
 
 ### 12. Visual Voicemail on Mac
@@ -202,13 +204,13 @@ Stage Manager is actually usable in Tahoe:
 
 Toggle: **Control Center > Stage Manager** (or assign a custom keyboard shortcut in System Settings > Keyboard > Keyboard Shortcuts > Mission Control)
 
-### 20. Finder Quick Actions Expanded
+### 20. AI-Powered Actions Across macOS
 
-Right-click any file for new AI-powered Quick Actions:
-- **Summarize** — Get a summary of document contents
-- **Transcribe** — Convert audio/video to text
-- **Remove Background** — One-click for images
-- **Translate** — Translate document contents
+Tahoe adds AI-powered actions in several places:
+- **Remove Background** — Right-click any image in Finder for a one-click background removal (Quick Action)
+- **Summarize & Key Points** — Select text in any app, right-click, and use **Writing Tools** to get summaries
+- **Transcribe** — Available through Shortcuts automations and Spotlight Actions for audio/video files
+- **Translate** — Works through Apple Intelligence in supported apps and via Writing Tools
 
 ---
 
@@ -281,8 +283,9 @@ To customize: **Terminal > Settings > Profiles** — explore the redesigned them
 - iMac (M1, 2021 and later)
 
 **Intel (Final Version — Limited Support):**
-- MacBook Pro (2019, 2020)
-- iMac (2020)
+- MacBook Pro (16-inch, 2019)
+- MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)
+- iMac (Retina 5K, 27-inch, 2020)
 - Mac Pro (2019)
 
 ### What Intel Macs Don't Get
