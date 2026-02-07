@@ -23,6 +23,7 @@ export default defineConfig({
   ],
   redirects: {
     '/learning-paths': '/',
-    '/learning-paths/[...slug]': '/'
+    '/learning-paths/ai-mastery': '/',
+    '/learning-paths/3d-printing-startup': '/'
   }
 });
