@@ -4,9 +4,46 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 6. Februar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 7. Februar 2026)
 
-### Letzte Sitzung (6. Februar 2026 - Abend)
+### Letzte Sitzung (7. Februar 2026)
+
+**✅ Post-Publish Check & Fixes: Manis neue Artikel (ClawDBot + RapidRAW)**
+
+Mani (Bruder) hat 5 Commits gepusht mit:
+- `clawdbot-openclaw-guide.md` (Publish: 7. Feb)
+- `rapid-raw-image-editor-guide.md` (Publish: 12. Feb)
+- Learning Paths entfernt (Redirects → Homepage)
+- Index-Seite: Random Category Display
+
+**Fixes durchgeführt:**
+
+| Artikel | Fixes | Highlights |
+|---------|-------|------------|
+| `clawdbot-openclaw-guide.md` | 4 | "Moltbot" Kontext korrigiert, LLM API Privacy-Caveat (Ollama), 3 interne Links, FAQ korrigiert |
+| `rapid-raw-image-editor-guide.md` | 4 | Title 81→47 Zeichen, Lizenz GPL→AGPL-3.0, 3 interne Links, Bild optimiert (287→102 KB) |
+
+**llms.txt + llms-full.txt:** Beide Artikel nachgetragen.
+
+**Commit:** `64bdfe0 fix: post-publish fixes for ClawDBot + RapidRAW articles`
+
+---
+
+**✅ Fact-Check Korrekturen: 3 Artikel von Mani, 13 Fixes**
+
+| Artikel | Publish | Fixes | Highlights |
+|---------|---------|-------|------------|
+| `pearcleaner-homebrew-guide.md` | 15. Feb | 3 | "open-source" → "source-available" (Apache 2.0 + Commons Clause), `brew doctor` unverified entfernt, "(v2)" entfernt |
+| `kindle-modding-guide.md` | 18. Feb | 6 | WinterBreak/AdBreak als aktuelle Methoden, Scribe-Caveat, "official" → "community-run" Wiki, Bricking-Warnung verstärkt, Custom Fonts = kein Jailbreak |
+| `macos-tahoe-tricks-and-hacks.md` | 9. Feb | 4 | LLM Siri → "spring 2026", Phone App: FaceTime Audio → Cellular + Call Screening/Hold Assist, Quick Actions korrigiert, Intel-Mac-Liste präzisiert |
+
+**Commit:** `4acd650 fix: fact-check corrections for Pearcleaner, Kindle Modding, macOS Tahoe`
+
+**Hinweis:** Mani soll zukünftig den Fact-Check selbst vor dem Commit durchführen.
+
+---
+
+### Sitzung (6. Februar 2026 - Abend)
 
 **✅ Fact-Check Korrekturen: 8 Artikel, ~67 Fixes**
 
@@ -17,7 +54,7 @@
 | `microsoft-copilot-review.md` | 11. Feb | 6 | GPT-4→GPT-5.2, Individual-Pläne, Prompt Gallery |
 | `10-things-to-print-new-3d-printer.md` | 12. Feb | 1 | Thingiverse "largest" → "one of the most well-known" |
 | `chatgpt-custom-instructions.md` | 13. Feb | 6 | UI-Update: Personality Dropdown + Single Field |
-| `macos-tahoe-tricks-and-hacks.md` | 25. Feb | 11 | LLM Siri → macOS 26.4, iPhone Mirroring → Sequoia, Shortcuts korrigiert |
+| `macos-tahoe-tricks-and-hacks.md` | 9. Feb | 11 | LLM Siri → macOS 26.4, iPhone Mirroring → Sequoia, Shortcuts korrigiert |
 | `ai-meeting-assistants.md` | 14. Feb | 13 | Granola Pricing + "local processing" falsch, Fathom/tl;dv Pricing, Free Tier Limits |
 | `ai-planned-london-weekend.md` | 15. Feb | 5 | Clawd.bot Open-Source, Stansted Express Contactless-Warnung, Ratings gehedgt |
 
@@ -815,11 +852,11 @@ rm bildname.png
 | Kategorie | Anzahl Artikel | Status |
 |-----------|----------------|--------|
 | AI/Learning | 10 | Aktiv |
-| AI/Travel | 16 | Draft (März-Juni) |
+| AI/Travel | 17 | Aktiv (1 Feb) + Draft (März-Juni) |
 | 3D Printing | 6 | Aktiv |
-| Photography | 7 | Aktiv |
+| Photography | 8 | Aktiv (+RapidRAW) |
 | Japan Shopping | 3 | Aktiv |
-| Tech & Gadgets | 6 | Aktiv |
+| Tech & Gadgets | 10 | Aktiv (+ClawDBot, macOS Tahoe, Pearcleaner, Kindle Modding) |
 
 ### Veröffentlichte Artikel (Januar 2026) ✅
 | Datum | Artikel | Kategorie |
@@ -844,6 +881,16 @@ rm bildname.png
 | 20. Feb | How to Use AI at Work (Without Getting in Trouble) | AI/Productivity | ✅ Geschrieben |
 | 23. Feb | AI Writing Tools: Grammarly vs Jasper vs Claude | AI | ✅ Geschrieben |
 | 26. Feb | Best AI Chrome Extensions for Productivity | AI/Productivity | ✅ Geschrieben |
+
+### Geplante Artikel (Februar 2026) - Mani / Tech & Gadgets
+| Datum | Artikel | Kategorie | Status |
+|-------|---------|-----------|--------|
+| 7. Feb | ClawDBot (OpenClaw) Guide | Tech & Gadgets | ✅ Geschrieben (Mani) |
+| 9. Feb | macOS Tahoe: 25 Tips & Hidden Features | Tech & Gadgets | ✅ Geschrieben (Mani) |
+| 12. Feb | RapidRAW Image Editor Guide | Photography / Open Source | ✅ Geschrieben (Mani) |
+| 15. Feb | Pearcleaner Homebrew Guide | Tech & Gadgets / macOS | ✅ Geschrieben (Mani) |
+| 15. Feb | AI-Planned London Weekend (Trip Report) | AI Travel | ✅ Geschrieben |
+| 18. Feb | Kindle Modding Guide | Tech & Gadgets / E-Reader | ✅ Geschrieben (Mani) |
 
 ### Geplante Artikel (März 2026) - Tech Reviews
 | Datum | Artikel | Kategorie | Status |
