@@ -395,6 +395,18 @@ Curated list of AI Chrome extensions that improve productivity without leaving y
 - Best for research: Perplexity (free) — search with sources
 - Best for writing: Grammarly ($12/mo) — works everywhere
 
+### Meet ClawDBot (OpenClaw): Self-Hosted AI Assistant
+**URL:** https://boredom-at-work.com/clawdbot-openclaw-guide/
+**Reading Time:** 4 minutes
+
+Introduction to OpenClaw (formerly ClawDBot), a self-hosted, open-source AI assistant platform. Runs on your own hardware with persistent memory and messaging app integration (WhatsApp, Telegram, Slack, Discord, Signal).
+
+**Key insights:**
+- Self-hosted means your data stays on your hardware — true privacy
+- Persistent memory builds a database of your preferences over time
+- Deep system access: execute terminal commands, read/write local files
+- Always-on Gateway process for background task automation
+
 ### Productive Things to Do When Bored at Work
 **URL:** https://boredom-at-work.com/productive-things-bored-at-work/
 Overview of productive activities for work downtime, beyond just AI learning.
@@ -474,6 +486,19 @@ Common errors new photographers make and how to avoid them.
 ### Olympus PEN E-PM2 Guide
 **URL:** https://boredom-at-work.com/olympus-pen-e-pm2-guide/
 Guide to the vintage Olympus PEN E-PM2, a great budget option on the used market.
+
+### RapidRAW: Open-Source Lightroom Alternative
+**URL:** https://boredom-at-work.com/rapid-raw-image-editor-guide/
+**Reading Time:** 4 minutes
+
+Review of RapidRAW, an open-source RAW photo editor built with Rust and GPU-accelerated shaders. Offers non-destructive editing, AI-powered masking, and local ComfyUI integration — all without subscription fees.
+
+**Key insights:**
+- Rust backend + GPU acceleration = near-instant adjustments on high-res RAW files
+- AI-powered subject/sky masking runs locally — no cloud processing
+- Tauri + React UI is lightweight compared to Electron apps
+- Supports ComfyUI integration for local Stable Diffusion generative edits
+- Still in early development but showing massive potential
 
 ---
 

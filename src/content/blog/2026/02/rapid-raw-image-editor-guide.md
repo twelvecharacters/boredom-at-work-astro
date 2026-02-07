@@ -1,5 +1,5 @@
 ---
-title: "RapidRAW: The High-Performance, GPU-Accelerated Open-Source Lightroom Alternative"
+title: "RapidRAW: The Open-Source Lightroom Alternative"
 slug: "rapid-raw-image-editor-guide"
 description: "Tired of slow RAW editors? Discover RapidRAW, the open-source powerhouse built with Rust and GPU acceleration for lightning-fast photo editing."
 publishDate: 2026-02-12
@@ -10,7 +10,7 @@ tags: ["Photography", "Open Source", "RAW Editing", "RapidRAW", "Rust", "GPU Acc
 draft: false
 faq:
   - question: "Is RapidRAW completely free?"
-    answer: "Yes, RapidRAW is an open-source project released under the GPL-3.0 license, meaning it is free to use, modify, and distribute."
+    answer: "Yes, RapidRAW is an open-source project released under the AGPL-3.0 license, meaning it is free to use, modify, and distribute."
   - question: "Which operating systems are supported?"
     answer: "Thanks to its Tauri-based architecture, RapidRAW is available for Windows, macOS, and Linux."
   - question: "Does it support AI masking like Lightroom?"
@@ -23,7 +23,7 @@ isListicle: false
 
 For years, the world of RAW photo editing has been dominated by a few heavy hitters. Adobe Lightroom is the industry standard, but it comes with a recurring subscription. Open-source alternatives like Darktable and RawTherapee are powerful but often criticized for their steep learning curves and sometimes sluggish performance.
 
-Enter **RapidRAW**—a fresh, ambitious project that aims to bridge the gap between professional power and open-source accessibility.
+Enter **RapidRAW**—a fresh, ambitious project that aims to bridge the gap between professional power and open-source accessibility. If you're just getting into photography, check out our [best cameras for beginners](/best-cameras-for-beginners/) guide first.
 
 ---
 
@@ -68,4 +68,4 @@ RapidRAW is still in early development, but it's already showing massive potenti
 
 RapidRAW isn't just another fork of an old tool. It’s a ground-up reimagining of what a photo editor should be in the age of GPUs and AI. While it may not yet have every single feature of Lightroom, its performance and modern architecture make it one of the most exciting projects in the photography space today.
 
-*Scheduled for release on our blog on February 12, 2026. Stay tuned for our full setup guide!*
+For more photography tips and gear recommendations, see our [photography guide](/photography-guide/) and [camera vs smartphone](/camera-vs-smartphone/) comparison.
