@@ -407,6 +407,21 @@ Introduction to OpenClaw (formerly ClawDBot), a self-hosted, open-source AI assi
 - Deep system access: execute terminal commands, read/write local files
 - Always-on Gateway process for background task automation
 
+### macOS Tahoe: 25 Tips, Tricks & Hidden Features
+**URL:** https://boredom-at-work.com/macos-tahoe-tricks-and-hacks/
+**Reading Time:** 10 minutes
+
+25 essential tips for mastering macOS 26 Tahoe and its Liquid Glass redesign. Covers visual customization, Apple Intelligence features, the new Phone app, iPhone Mirroring improvements, and productivity tricks.
+
+**Key insights:**
+- Liquid Glass uses translucent materials and dynamic reflections — reduce transparency in Accessibility settings if it's too much
+- Apple Intelligence enables Writing Tools (summarize, rewrite) in most apps; LLM-powered Siri with personal context expected in macOS 26.4 (spring 2026)
+- New Phone app brings call management, Call Screening, and Hold Assist to Mac
+- Only 4 Intel Mac models supported (final version for Intel)
+- Window tiling and Stage Manager significantly improved for productivity
+
+---
+
 ### Productive Things to Do When Bored at Work
 **URL:** https://boredom-at-work.com/productive-things-bored-at-work/
 Overview of productive activities for work downtime, beyond just AI learning.

@@ -123,8 +123,8 @@ Mani (Bruder) hat 5 Commits gepusht mit:
 | r/perplexity_ai | Perplexity AI Guide | ✅ Gepostet |
 
 **Nächste Reddit-Posts (noch offen):**
-- [ ] Best AI Tools for Office → r/productivity
-- [ ] AI Meeting Assistants → r/remotework
+- [x] Best AI Tools for Office → r/productivity ✅ Gepostet (8. Feb)
+- [x] AI Meeting Assistants → r/remotework ✅ Gepostet (8. Feb)
 - [ ] AI-Planned London Weekend → r/travel, r/solotravel (nach 15. Feb)
 
 ---

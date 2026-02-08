@@ -113,6 +113,7 @@ Reviews and comparisons of consumer technology.
 - [Samsung Galaxy S26 Rumors](https://boredom-at-work.com/samsung-s26-rumors/): Everything we know about Samsung's next flagship — specs, price, release date
 - [ClawDBot (OpenClaw) Guide](https://boredom-at-work.com/clawdbot-openclaw-guide/): Self-hosted, open-source AI assistant — local execution, persistent memory, messaging app integration
 - [RapidRAW Image Editor Guide](https://boredom-at-work.com/rapid-raw-image-editor-guide/): Open-source GPU-accelerated RAW photo editor built with Rust — Lightroom alternative
+- [macOS Tahoe: 25 Tips & Hidden Features](https://boredom-at-work.com/macos-tahoe-tricks-and-hacks/): Essential tips for Apple's Liquid Glass redesign — customization, Apple Intelligence, productivity tricks
 
 ## Contact
 
