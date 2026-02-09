@@ -1,0 +1,18 @@
+name: Keepalive Workflow
+
+on:
+  schedule:
+    # Runs every 45 days to prevent GitHub from disabling scheduled workflows
+    # (GitHub disables cron after 60 days of repo inactivity)
+    - cron: '0 12 1,15 * *'  # 1st and 15th of each month at noon UTC
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/keepalive-workflow@v2
+        with:
+          time_elapsed: 45
