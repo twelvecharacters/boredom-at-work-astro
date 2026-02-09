@@ -4,9 +4,61 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 7. Februar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 9. Februar 2026)
 
-### Letzte Sitzung (7. Februar 2026)
+### Letzte Sitzung (9. Februar 2026)
+
+**✅ macOS Tahoe Artikel live geschaltet**
+
+- `publishDate: 2026-02-09` → GitHub Actions Cron hatte **nicht** automatisch getriggert
+- Manueller `workflow_dispatch` ausgelöst → Artikel ist jetzt live unter `/macos-tahoe-tricks-and-hacks/`
+
+**✅ Cron-Zuverlässigkeit verbessert (doppelte Absicherung)**
+
+| Maßnahme | Status |
+|----------|--------|
+| **Keepalive-Workflow** | ✅ Gepusht — `.github/workflows/keepalive.yml` (1. + 15. jedes Monats) |
+| **Externer Cron (cron-job.org)** | 🔧 Manuell einzurichten — `workflow_dispatch` um 05:15 UTC täglich |
+
+**Warum:** GitHub Actions Crons können verzögert werden/ausfallen + werden nach 60 Tagen Inaktivität deaktiviert.
+
+**Commit:** `1294e85 ci: add keepalive workflow to prevent cron deactivation`
+
+---
+
+**✅ Post-Publish Check: macOS Tahoe**
+
+| Check | Status |
+|-------|--------|
+| Artikel online | ✅ Live unter `/macos-tahoe-tricks-and-hacks/` |
+| Title (49 Zeichen) | ✅ |
+| Description (152 Zeichen) | ✅ |
+| WebP-Bild (47 KB) | ✅ |
+| Tags (5) | ✅ |
+| FAQ (5 Fragen) | ✅ Schema.org |
+| Interne Links (3+) | ✅ |
+| llms.txt + llms-full.txt | ✅ |
+
+---
+
+**✅ Fact-Check: macOS Tahoe — 8 Fixes**
+
+| # | Tip | Problem | Fix |
+|---|-----|---------|-----|
+| 1 | Type to Siri | "glass bar at bottom" (= iOS) | → "top-right corner" (macOS) |
+| 2 | Theme Color | Pfad `Appearance > Theme > Color` unbestätigt | → `Appearance > Color` |
+| 3 | Window Tiling | "AI-suggested layouts" falsch | → Snap-to-edge (seit Sequoia) |
+| 4 | Stage Manager | "Keyboard switching" zwischen Groups falsch | → Realistische Beschreibung |
+| 5 | Call Screening | Klang wie alle Anrufe | → Nur unbekannte Nummern |
+| 6 | Quick Reply | Mac-Feature unbestätigt | → iPhone/Mac-Unterschied klargestellt |
+| 7 | Remove Background | Als neu + AI dargestellt | → Seit Ventura, nicht AI-powered |
+| 8 | Transcribe | "Spotlight Action" falsch | → Notes-Transkription |
+
+**Commit:** `0e3e0c8 fix: fact-check corrections for macOS Tahoe article (8 fixes)`
+
+---
+
+### Sitzung (7. Februar 2026)
 
 **✅ Post-Publish Check & Fixes: Manis neue Artikel (ClawDBot + RapidRAW)**
 
