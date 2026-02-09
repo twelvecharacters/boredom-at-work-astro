@@ -51,9 +51,9 @@ This makes windows more solid and opaque. It also improves performance on older 
 
 ### 3. Customize the Theme Color
 
-Tahoe's Liquid Glass reflects your theme color more prominently than before. In Tahoe, "Accent Color" has been renamed to just **"Color"** under the new Theme section:
+Tahoe's Liquid Glass reflects your theme color more prominently than before. In Tahoe, "Accent Color" has been renamed to just **"Color"** in the redesigned Appearance settings:
 
-**System Settings > Appearance > Theme > Color**
+**System Settings > Appearance > Color**
 
 Try different colors with your wallpaper — some combinations look stunning with the new transparency effects. There's also a separate **Text highlight color** option now, so you can make selected text a different shade from buttons and menus.
 
@@ -101,7 +101,7 @@ Don't want to talk to your computer in the office? Type to Siri is much better n
 
 **Double-press the Command key** (or change the shortcut in System Settings > Apple Intelligence & Siri > Keyboard Shortcut)
 
-A sleek glass bar appears at the bottom of the screen. Type your request and press Enter. No more awkward voice commands at your desk.
+A sleek Siri interface appears in the top-right corner of the screen. Type your request and press Enter. No more awkward voice commands at your desk.
 
 ### 9. Use Writing Tools for Summarization
 
@@ -131,7 +131,7 @@ Features:
 - View and manage voicemail
 - See recent call history
 - Make and receive regular cellular calls (routed through your iPhone)
-- **Call Screening** — see a live transcription of who's calling before you pick up
+- **Call Screening** — for unknown numbers, Siri asks who's calling and why, then shows a live transcription so you can decide whether to pick up
 - **Hold Assist** — AI monitors hold music and alerts you when a human picks up
 - Send calls to voicemail with a tap
 
@@ -141,7 +141,7 @@ The Phone app includes visual voicemail. Play, delete, or transcribe voicemails 
 
 ### 13. Quick Reply to Missed Calls
 
-When you miss a call, you can send a quick text reply directly from the notification without opening any app.
+On your iPhone, you can send a quick text reply to missed calls directly from the notification. On Mac, missed call notifications appear in the Phone app, where you can call back or start a message.
 
 ---
 
@@ -174,11 +174,11 @@ A common misconception: iPhone Mirroring has been wireless since it launched in 
 
 ### 17. Window Tiling Gets Smart
 
-Tahoe improves window tiling with AI-suggested layouts:
+Tahoe refines the window tiling introduced in Sequoia with smoother snap-to-edge behavior:
 
-- Drag a window to the edge → See suggested layouts
-- System remembers your preferences per app
-- Works better with ultrawide monitors
+- Drag a window to the edge → See layout previews for halves and quarters
+- The green zoom button shows all available tiling options
+- Hover over a corner to snap into quarter-screen layouts
 
 Keyboard shortcuts:
 - **Fn + Control + ←/→** — Tile left/right half
@@ -192,24 +192,24 @@ Focus modes in Tahoe let you filter notifications, apps, and even customize whic
 
 **System Settings > Focus > [Your Focus] > Filters**
 
-For full window arrangement saving/restoring, you'll still need a third-party tool like **Moom** or **Rectangle Pro** — but combining Focus modes with Stage Manager gets you close to automatic workspace switching.
+Combining Focus modes with Stage Manager gets you close to automatic workspace switching.
 
 ### 19. Better Stage Manager
 
-Stage Manager is actually usable in Tahoe:
+Stage Manager continues to improve in Tahoe:
 
-- Less aggressive window grouping
-- Works better with multiple monitors
-- Quick switch between window sets with keyboard
+- Independent stages per display for multi-monitor setups
+- Visual refinements with the Liquid Glass aesthetic
+- Toggle via **Control Center > Stage Manager** (or assign a keyboard shortcut in System Settings > Keyboard > Keyboard Shortcuts > Mission Control)
 
-Toggle: **Control Center > Stage Manager** (or assign a custom keyboard shortcut in System Settings > Keyboard > Keyboard Shortcuts > Mission Control)
+For full workspace management (saving/restoring window arrangements), you'll still want a third-party tool like **Moom** or **Rectangle Pro**.
 
-### 20. AI-Powered Actions Across macOS
+### 20. Smart Actions Across macOS
 
-Tahoe adds AI-powered actions in several places:
-- **Remove Background** — Right-click any image in Finder for a one-click background removal (Quick Action)
-- **Summarize & Key Points** — Select text in any app, right-click, and use **Writing Tools** to get summaries
-- **Transcribe** — Available through Shortcuts automations and Spotlight Actions for audio/video files
+Tahoe combines Apple Intelligence with existing macOS features for a smoother workflow:
+- **Writing Tools** — Select text in any app, right-click, and use **Writing Tools** to summarize, extract key points, or rewrite
+- **Remove Background** — Right-click any image in Finder > Quick Actions (available since Ventura, still handy)
+- **Transcribe in Notes** — Record audio in Notes and get an automatic transcript, then use Apple Intelligence to summarize it
 - **Translate** — Works through Apple Intelligence in supported apps and via Writing Tools
 
 ---
