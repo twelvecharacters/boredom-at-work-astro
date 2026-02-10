@@ -4,9 +4,23 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 9. Februar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 10. Februar 2026)
 
-### Letzte Sitzung (9. Februar 2026)
+### Letzte Sitzung (10. Februar 2026)
+
+**✅ Fact-Check: 3 Artikel (10.–12. Feb) — 5 Fixes**
+
+| Artikel | Publish | Fixes | Details |
+|---------|---------|-------|---------|
+| `chatgpt-for-excel.md` | 10. Feb | 2 | Upload-Limit 25MB→50MB/512MB, CONCAT "modern way"→"useful when joining ranges" |
+| `microsoft-copilot-review.md` | 11. Feb | 3 | GPT-5.2→GPT-5, M365 Premium $10.83→$19.99/mo, Alt+I nur in Word (nicht alle Apps) |
+| `rapid-raw-image-editor-guide.md` | 12. Feb | 0 | Alle 12 Claims verifiziert (Existenz, AGPL-3.0, Rust, WGSL, Tauri, AI Masking, ComfyUI) |
+
+**Commit:** `68967c2 fix: fact-check corrections for ChatGPT Excel + Copilot Review (5 fixes)`
+
+---
+
+### Sitzung (9. Februar 2026)
 
 **✅ macOS Tahoe Artikel live geschaltet**
 
