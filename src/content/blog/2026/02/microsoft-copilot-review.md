@@ -13,7 +13,7 @@ faq:
   - question: "Is Microsoft Copilot the same as ChatGPT?"
     answer: "Copilot uses OpenAI's technology but is deeply integrated into Microsoft 365 apps. It can access your emails, documents, and calendar — something ChatGPT cannot do. They're complementary, not interchangeable."
   - question: "Can individuals buy Microsoft Copilot?"
-    answer: "Yes. Since January 2025, Copilot is included in Microsoft 365 Personal ($9.99/mo) and Family ($12.99/mo) plans. For heavier usage, Microsoft 365 Premium ($10.83/mo) offers enhanced Copilot access. The free Copilot in Windows, Edge, and Bing is also available with fewer features."
+    answer: "Yes. Since January 2025, Copilot is included in Microsoft 365 Personal ($9.99/mo) and Family ($12.99/mo) plans. For heavier usage, Microsoft 365 Premium ($19.99/mo) offers enhanced Copilot access. The free Copilot in Windows, Edge, and Bing is also available with fewer features."
 ---
 
 Microsoft Copilot promises to revolutionize how you work with Office apps. After using it daily for several months, I can tell you: it's genuinely useful, occasionally magical, and frustratingly inconsistent.
@@ -31,7 +31,7 @@ Microsoft Copilot is AI assistance built directly into Microsoft 365 apps:
 - **Teams** — Meeting summaries, catch-up on missed discussions
 - **OneNote** — Summarize notes, generate content
 
-It's powered by OpenAI's latest models — currently GPT-5.2 with real-time model routing that picks the best model for each task — and has deep access to your Microsoft 365 data: your emails, documents, calendar, and Teams conversations.
+It's powered by OpenAI's latest models — currently GPT-5 with real-time model routing that picks the best model for each task — and has deep access to your Microsoft 365 data: your emails, documents, calendar, and Teams conversations.
 
 ## The Price Reality
 
@@ -61,7 +61,7 @@ Since January 2025, Copilot is also available for individuals:
 |------|------|----------------|
 | Microsoft 365 Personal | $9.99/month | Included (basic) |
 | Microsoft 365 Family | $12.99/month | Included (owner only) |
-| Microsoft 365 Premium | ~$10.83/month (annual) | Enhanced Copilot |
+| Microsoft 365 Premium | $19.99/month ($199.99/year) | Enhanced Copilot |
 
 This is a big change — Copilot is no longer business-only. Individual users get Copilot in Word, Excel, PowerPoint, Outlook, and OneNote right out of the box, though with usage limits compared to the full business add-on.
 
@@ -298,8 +298,8 @@ Always review Copilot's output, especially for:
 
 ### 4. Learn Keyboard Shortcuts
 
-- `Alt + I` in any Office app opens Copilot
-- Makes access feel more natural
+- `Alt + I` opens Draft with Copilot in Word (on a blank line)
+- Use the Copilot button in the ribbon for other Office apps
 
 ### 5. Combine with Other Tools
 

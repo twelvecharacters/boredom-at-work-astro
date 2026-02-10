@@ -74,7 +74,7 @@ Both free and Plus users can upload .xlsx files directly:
 
 ChatGPT sees your actual column names, data types, and values — giving much more accurate help.
 
-> **Note:** Free users can upload up to 3 files per day (25 MB each). Plus users get significantly higher limits.
+> **Note:** Free users can upload up to 3 files per day (~50 MB for spreadsheets, 512 MB for other files). Plus users get significantly higher limits.
 
 ### Method 3: Screenshot Your Spreadsheet
 
@@ -153,7 +153,7 @@ ChatGPT will explain when to use VLOOKUP vs INDEX-MATCH and why.
 =A2&" "&B2
 ```
 
-Or the modern way:
+Or using CONCAT (useful when joining ranges):
 ```
 =CONCAT(A2," ",B2)
 ```
