@@ -18,6 +18,20 @@
 
 **Commit:** `68967c2 fix: fact-check corrections for ChatGPT Excel + Copilot Review (5 fixes)`
 
+**✅ Post-Publish Check: ChatGPT for Excel**
+
+| Check | Status |
+|-------|--------|
+| Artikel online | ✅ Live unter `/chatgpt-for-excel/` |
+| Title (62 Zeichen) | ✅ |
+| Description (152 Zeichen) | ✅ |
+| WebP-Bild (22 KB) | ✅ |
+| Tags (4) | ✅ |
+| FAQ (3 Fragen) | ✅ Schema.org |
+| Interne Links (5) | ✅ |
+| Eingehende Links (6) | ✅ ai-tools-guide, chatgpt-guide, learn-ai-guide, ai-presentation-makers |
+| llms.txt + llms-full.txt | ✅ |
+
 ---
 
 ### Sitzung (9. Februar 2026)
