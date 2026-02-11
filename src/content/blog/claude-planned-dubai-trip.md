@@ -2,7 +2,7 @@
 title: "I Let Claude Plan Our Dubai Trip — Here's How It Went"
 slug: "claude-planned-dubai-trip"
 description: "I asked Claude to plan a 3-day Dubai trip for me and two colleagues. Burj Khalifa, a helicopter flight, 5-star hotel — all on a $100/day budget."
-publishDate: 2026-02-22
+publishDate: 2026-02-11
 author: "bored chap"
 image: "/images/claude-dubai-trip.webp"
 tags: ["AI", "Travel", "Dubai", "Claude", "Trip Planning"]
