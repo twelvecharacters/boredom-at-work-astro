@@ -37,7 +37,7 @@
 
 ---
 
-**✅ Claude-Planned Dubai Trip geschrieben (Publish: 22. Feb)**
+**✅ Claude-Planned Dubai Trip geschrieben & LIVE (11. Feb)**
 
 | Detail | Wert |
 |--------|------|
@@ -49,20 +49,17 @@
 | Tags | 5 (AI, Travel, Dubai, Claude, Trip Planning) |
 | FAQ | 3 Fragen |
 | Interne Links | 4 (Trip Planners, Tutorial, London, Malaysia) |
-| Zusatz-Bilder | 2 (Dubai Mall Waterfall 139 KB, Museum of the Future 86 KB) |
+| Bilder | 5 (Featured + Hotel + Mall Waterfall + Museum of the Future + Rüya) |
 | llms.txt + llms-full.txt | ✅ |
+| Status | ✅ **Live** unter `/claude-planned-dubai-trip/` |
 
 **Inhalt:** Trip Report (9.–12. Feb 2026) geframed als "Claude hat geplant":
 - Tag 0: Ankunft Mitternacht (EK128), Five Palm Jumeirah
 - Tag 1: Dubai Mall, Burj Khalifa (nicht oben — nicht gebucht!), FRNDS + Secret Room (Einladung Geschäftspartner)
-- Tag 2: Falcon Helitours 45 Min, Rüya Restaurant
+- Tag 2: Falcon Helitours 45 Min, Rüya Restaurant (Michelin-Stern seit 2023, ~$79/Person)
 - Tag 3: Ausschlafen, Abreise (EK95)
 - Budget: $80–120/Tag, Uber mit Lexus/Audi A8
 - Cross-Promo mit Ray-Ban Meta Review (Heli-Footage)
-
-**⚠️ TODO:**
-- [ ] Rüya-Restaurant Details ergänzen (`[Details to be updated after tonight's dinner]`)
-- [ ] Optional: Weitere Fotos/Videos vom Trip einbauen
 
 ---
 
