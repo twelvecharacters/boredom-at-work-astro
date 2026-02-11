@@ -75,6 +75,20 @@
 
 ---
 
+**✅ Fact-Check: Copilot Review (erneut) — 3 Fixes**
+
+| # | Problem | Fix |
+|---|---------|-----|
+| 1 | GPT-5 (Feb-10-Fix war falsch) | → GPT-5.2 (seit Dez 2025, Microsoft Blog bestätigt) |
+| 2 | Copilot Add-on pauschal $30/mo | → $21/mo Business, $30/mo Enterprise + alle Berechnungen angepasst |
+| 3 | Claude "up to 1M on newer models" | → "up to 1M via API" (1M nur API/Opus 4.6) |
+
+**Commit:** `425d9c7 fix: fact-check corrections for Copilot review (3 fixes)`
+
+**Hinweis:** Feb-10-Fix "GPT-5.2→GPT-5" war inkorrekt — GPT-5.2 wurde am 11. Dez 2025 per [Microsoft Blog](https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/) bestätigt.
+
+---
+
 ### Sitzung (10. Februar 2026)
 
 **✅ Fact-Check: 3 Artikel (10.–12. Feb) — 5 Fixes**
