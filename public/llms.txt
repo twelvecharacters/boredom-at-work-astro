@@ -90,6 +90,7 @@ Guides for planning trips with AI tools like ChatGPT, Claude, and Perplexity.
 - [Japan vs Vietnam vs Cambodia](https://boredom-at-work.com/japan-vietnam-cambodia-comparison/): Destination comparison
 - [Malaysia Trip with ChatGPT](https://boredom-at-work.com/chatgpt-malaysia-trip-planning/): Real trip case study
 - [AI-Planned London Weekend](https://boredom-at-work.com/ai-planned-london-weekend/): Real trip with Clawd.bot — gluten-free tested
+- [Claude-Planned Dubai Trip](https://boredom-at-work.com/claude-planned-dubai-trip/): 3-day Dubai trip planned by Claude — helicopter flight, Burj Khalifa, 5-star hotel on $100/day
 - [Southeast Asia Trip Planning](https://boredom-at-work.com/ai-planning-southeast-asia-trip-2026/): Multi-country planning
 
 ### Home Office / Desk Setup
@@ -114,6 +115,7 @@ Reviews and comparisons of consumer technology.
 - [ClawDBot (OpenClaw) Guide](https://boredom-at-work.com/clawdbot-openclaw-guide/): Self-hosted, open-source AI assistant — local execution, persistent memory, messaging app integration
 - [RapidRAW Image Editor Guide](https://boredom-at-work.com/rapid-raw-image-editor-guide/): Open-source GPU-accelerated RAW photo editor built with Rust — Lightroom alternative
 - [macOS Tahoe: 25 Tips & Hidden Features](https://boredom-at-work.com/macos-tahoe-tricks-and-hacks/): Essential tips for Apple's Liquid Glass redesign — customization, Apple Intelligence, productivity tricks
+- [Ray-Ban Meta Review](https://boredom-at-work.com/ray-ban-meta-review/): Honest review after 2 weeks — camera quality, battery life, audio, and a helicopter flight over Dubai
 
 ## Contact
 

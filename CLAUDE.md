@@ -4,9 +4,69 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 10. Februar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 11. Februar 2026)
 
-### Letzte Sitzung (10. Februar 2026)
+### Letzte Sitzung (11. Februar 2026)
+
+**✅ Ray-Ban Meta Review geschrieben (Publish: 11. März)**
+
+| Detail | Wert |
+|--------|------|
+| Datei | `ray-ban-meta-review.md` |
+| Slug | `/ray-ban-meta-review/` |
+| Title | 48 Zeichen |
+| Description | 128 Zeichen |
+| Bild | `ray-ban-meta-review.webp` (58 KB, existierte bereits) |
+| Tags | 5 (Tech & Gadgets, Smart Glasses, Meta, Ray-Ban, Review) |
+| FAQ | 3 Fragen |
+| Rating | 4/5 |
+| Interne Links | 2 (AirPods Pro 3, Best AI Trip Planners) |
+| llms.txt + llms-full.txt | ✅ |
+
+**Inhalt:** Ehrlicher Review nach 2 Wochen Nutzung. Highlights:
+- Helicopter-Flug über Dubai als Kamera-Test (stabile, scharfe Videos)
+- Kein Zoom, 3-Min-Video-Limit als Minuspunkte
+- Audio: Podcasts, WhatsApp, Video-Calls — ersetzt Kopfhörer
+- Akku: 3–4h bei aktiver Kamera-Nutzung, 6h mit 28% bei gemischter Nutzung
+- Fazit: "Würde sie nicht selbst kaufen, aber als Geschenk nutze ich sie täglich"
+
+**✅ Fact-Check: Preis korrigiert $299 → $379**
+- Gen 2 Wayfarer startet bei **$379** (nicht $299 wie im ursprünglichen Draft)
+- Transitions: ~$459, Polarized: ~$409
+- Korrektur in Artikel, FAQs, llms-full.txt durchgeführt
+
+---
+
+**✅ Claude-Planned Dubai Trip geschrieben (Publish: 22. Feb)**
+
+| Detail | Wert |
+|--------|------|
+| Datei | `claude-planned-dubai-trip.md` |
+| Slug | `/claude-planned-dubai-trip/` |
+| Title | 52 Zeichen |
+| Description | 148 Zeichen |
+| Bild | `claude-dubai-trip.webp` (84 KB) — Burj Khalifa |
+| Tags | 5 (AI, Travel, Dubai, Claude, Trip Planning) |
+| FAQ | 3 Fragen |
+| Interne Links | 4 (Trip Planners, Tutorial, London, Malaysia) |
+| Zusatz-Bilder | 2 (Dubai Mall Waterfall 139 KB, Museum of the Future 86 KB) |
+| llms.txt + llms-full.txt | ✅ |
+
+**Inhalt:** Trip Report (9.–12. Feb 2026) geframed als "Claude hat geplant":
+- Tag 0: Ankunft Mitternacht (EK128), Five Palm Jumeirah
+- Tag 1: Dubai Mall, Burj Khalifa (nicht oben — nicht gebucht!), FRNDS + Secret Room (Einladung Geschäftspartner)
+- Tag 2: Falcon Helitours 45 Min, Rüya Restaurant
+- Tag 3: Ausschlafen, Abreise (EK95)
+- Budget: $80–120/Tag, Uber mit Lexus/Audi A8
+- Cross-Promo mit Ray-Ban Meta Review (Heli-Footage)
+
+**⚠️ TODO:**
+- [ ] Rüya-Restaurant Details ergänzen (`[Details to be updated after tonight's dinner]`)
+- [ ] Optional: Weitere Fotos/Videos vom Trip einbauen
+
+---
+
+### Sitzung (10. Februar 2026)
 
 **✅ Fact-Check: 3 Artikel (10.–12. Feb) — 5 Fixes**
 
@@ -493,12 +553,13 @@ chmod +x .git/hooks/pre-commit
 
 ---
 
-### Geplanter Artikel (Draft)
+### Geplanter Artikel
 
 **Ray-Ban Meta Review:**
 - Datum: 11. März 2026
-- Status: Draft (nach 3 Wochen Nutzung schreiben)
+- Status: ✅ Geschrieben (11. Feb Sitzung)
 - ✅ Bild: `ray-ban-meta-review.webp` (58 KB)
+- ⚠️ Rüya-Restaurant Details noch ergänzen im Dubai-Artikel
 
 ---
 
@@ -971,6 +1032,7 @@ rm bildname.png
 | 15. Feb | Pearcleaner Homebrew Guide | Tech & Gadgets / macOS | ✅ Geschrieben (Mani) |
 | 15. Feb | AI-Planned London Weekend (Trip Report) | AI Travel | ✅ Geschrieben |
 | 18. Feb | Kindle Modding Guide | Tech & Gadgets / E-Reader | ✅ Geschrieben (Mani) |
+| 22. Feb | Claude-Planned Dubai Trip | AI Travel | ✅ Geschrieben |
 
 ### Geplante Artikel (März 2026) - Tech Reviews
 | Datum | Artikel | Kategorie | Status |

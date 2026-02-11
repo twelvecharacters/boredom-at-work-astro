@@ -651,6 +651,21 @@ Real 2-week itinerary through KL, Penang, and Langkawi. Actual prompts used, wha
 
 Real weekend trip planned with Clawd.bot. MJ The Musical, Chinatown, and three gluten-free restaurants tested without a single celiac reaction. Includes lesson learned about pre-booked train tickets.
 
+### Claude-Planned Dubai Trip
+**URL:** https://boredom-at-work.com/claude-planned-dubai-trip/
+**Reading Time:** 9 minutes
+
+Real trip report: Claude planned a 3-day Dubai trip for three colleagues on a $100/day budget. Five Palm Jumeirah hotel, Dubai Mall, helicopter flight with Falcon Helitours, FRNDS restaurant and Secret Room nightclub. Includes budget breakdown and lessons learned.
+
+**Key insights:**
+- Claude's best advice: "Don't try to see everything in 3 days" — focus on fewer, better experiences
+- Book Burj Khalifa observation deck in advance or you'll miss out
+- Uber in Dubai is cheap and you often get luxury cars (Lexus, Audi A8)
+- AI handles logistics perfectly but the best nights come from local connections
+- Jetlag is real — build recovery time into short trips crossing time zones
+
+---
+
 ### Southeast Asia Trip Planning with AI
 **URL:** https://boredom-at-work.com/ai-planning-southeast-asia-trip-2026/
 **Reading Time:** 15 minutes
@@ -780,6 +795,22 @@ Hands-on review of Apple's AirPods Pro 3. Covers H3 chip improvements, better AN
 ### AirPods vs Galaxy Buds vs Sony
 **URL:** https://boredom-at-work.com/airpods-vs-galaxy-buds-vs-sony/
 Wireless earbuds comparison. AirPods Pro for Apple users, Galaxy Buds for Samsung, Sony for audiophiles.
+
+### Ray-Ban Meta Review: 2 Weeks with Smart Glasses
+**URL:** https://boredom-at-work.com/ray-ban-meta-review/
+**Reading Time:** 8 minutes
+
+Honest review of Ray-Ban Meta smart glasses (Wayfarer) after 2 weeks of daily use, including a real-world test during a helicopter flight over Dubai. Covers camera quality, battery life, audio features, and the hands-free advantage for travelers.
+
+**Key insights:**
+- Camera quality is fantastic — stable, sharp 3K video even during a helicopter flight
+- No zoom (fixed ultra-wide lens) and 3-minute video limit are the main downsides
+- Audio replaces earbuds for podcasts, calls, and voice messages
+- Battery lasts 3-4 hours with heavy camera use, closer to 8 hours for light use
+- Starting at ~$379 — best for travelers and content creators
+- Looks like regular Ray-Ban Wayfarers, nobody notices the tech
+
+---
 
 ### Samsung Galaxy S26 Rumors: Everything We Know So Far
 **URL:** https://boredom-at-work.com/samsung-s26-rumors/
