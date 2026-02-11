@@ -20,6 +20,14 @@ pnpm-debug.log*
 # macOS-specific files
 .DS_Store
 
+# editor files
+*.swp
+*.swo
+*~
+
+# python cache
+__pycache__/
+
 # jetbrains setting folder
 .idea/
 .fact-check-confirmed
