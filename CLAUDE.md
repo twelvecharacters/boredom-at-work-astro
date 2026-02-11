@@ -56,10 +56,22 @@
 **Inhalt:** Trip Report (9.–12. Feb 2026) geframed als "Claude hat geplant":
 - Tag 0: Ankunft Mitternacht (EK128), Five Palm Jumeirah
 - Tag 1: Dubai Mall, Burj Khalifa (nicht oben — nicht gebucht!), FRNDS + Secret Room (Einladung Geschäftspartner)
-- Tag 2: Falcon Helitours 45 Min, Rüya Restaurant (Michelin-Stern seit 2023, ~$79/Person)
+- Tag 2: Falcon Helitours 45 Min, Rüya Restaurant (Michelin Guide-recommended, ~$79/Person)
 - Tag 3: Ausschlafen, Abreise (EK95)
 - Budget: $80–120/Tag, Uber mit Lexus/Audi A8
+- Hotel + Helikopter von Geschäftspartnern bezahlt
 - Cross-Promo mit Ray-Ban Meta Review (Heli-Footage)
+
+**✅ Fact-Check: Dubai Trip — 2 Fixes**
+
+| # | Problem | Fix |
+|---|---------|-----|
+| 1 | Rüya "Michelin star since 2023" | → "Michelin Guide-recommended" (nicht Stern, nur empfohlen) |
+| 2 | Audi A8 → A6 (falscher Fact-Check) | → Zurück auf A8 (vom Autor bestätigt) |
+
+**Commits:**
+- `2aa73e5 fix: fact-check corrections for Dubai trip article (3 fixes)`
+- `437f4af fix: revert Audi A6 back to A8 (confirmed by author)`
 
 ---
 
