@@ -9,7 +9,7 @@ tags: ["AI", "Microsoft", "Copilot", "Productivity", "Review"]
 draft: false
 faq:
   - question: "How much does Microsoft Copilot cost?"
-    answer: "For businesses, the full Microsoft 365 Copilot add-on costs $30/user/month on top of a Microsoft 365 Business subscription (~$7-22/user/month). For individuals, Copilot is included in Microsoft 365 Personal ($9.99/mo) and Family ($12.99/mo). Note: business base prices are increasing July 2026."
+    answer: "For businesses, the Microsoft 365 Copilot add-on costs $21/user/month (Business) or $30/user/month (Enterprise), on top of a Microsoft 365 subscription (~$6-22/user/month). For individuals, Copilot is included in Microsoft 365 Personal ($9.99/mo) and Family ($12.99/mo). Note: business base prices are increasing July 2026."
   - question: "Is Microsoft Copilot the same as ChatGPT?"
     answer: "Copilot uses OpenAI's technology but is deeply integrated into Microsoft 365 apps. It can access your emails, documents, and calendar — something ChatGPT cannot do. They're complementary, not interchangeable."
   - question: "Can individuals buy Microsoft Copilot?"
@@ -31,7 +31,7 @@ Microsoft Copilot is AI assistance built directly into Microsoft 365 apps:
 - **Teams** — Meeting summaries, catch-up on missed discussions
 - **OneNote** — Summarize notes, generate content
 
-It's powered by OpenAI's latest models — currently GPT-5 with real-time model routing that picks the best model for each task — and has deep access to your Microsoft 365 data: your emails, documents, calendar, and Teams conversations.
+It's powered by OpenAI's latest models — currently GPT-5.2 with real-time model routing that picks the best model for each task — and has deep access to your Microsoft 365 data: your emails, documents, calendar, and Teams conversations.
 
 ## The Price Reality
 
@@ -44,12 +44,13 @@ Let's talk money first, because it's significant.
 | Microsoft 365 Business Basic | ~$6/user/month |
 | Microsoft 365 Business Standard | ~$12.50/user/month |
 | Microsoft 365 Business Premium | $22/user/month |
-| **Copilot Add-on** | **$30/user/month** |
+| **Copilot Add-on (Business)** | **$21/user/month** |
+| Copilot Add-on (Enterprise) | $30/user/month |
 
-**Total minimum cost:** ~$36/user/month (Basic + Copilot)
-**Realistic cost:** ~$42.50-52/user/month (Standard/Premium + Copilot)
+**Total minimum cost:** ~$27/user/month (Basic + Copilot Business)
+**Realistic cost:** ~$33.50-43/user/month (Standard/Premium + Copilot Business)
 
-For a team of 10, that's $420-520/month just for Copilot.
+For a team of 10, that's $335-430/month just for Copilot.
 
 > **Note:** Microsoft is raising base M365 business prices effective July 1, 2026 (e.g., Business Basic to $7, Business Standard to $14). Check [Microsoft's pricing page](https://www.microsoft.com/en-us/microsoft-365-copilot/pricing) for the latest numbers.
 
@@ -206,7 +207,7 @@ After months of use, here's my honest assessment:
 
 **Overall:** I estimate Copilot saves me 3-5 hours per week on a heavy Microsoft 365 workflow.
 
-At $30/month, that's $6-10 per hour saved. Worth it if your time is valuable; questionable if you could accomplish the same with free tools.
+At $21-30/month (depending on your plan), that's $4-10 per hour saved. Worth it if your time is valuable; questionable if you could accomplish the same with free tools.
 
 ## Copilot vs. The Competition
 
@@ -234,7 +235,7 @@ At $30/month, that's $6-10 per hour saved. Worth it if your time is valuable; qu
 
 **Claude advantages:**
 - Superior writing quality
-- Larger context window (200K tokens standard, up to 1M on newer models)
+- Larger context window (200K tokens standard, up to 1M via API)
 - Better reasoning and analysis
 - Cheaper
 
@@ -262,7 +263,7 @@ At $30/month, that's $6-10 per hour saved. Worth it if your time is valuable; qu
 - You spend 4+ hours/day in Outlook, Word, Excel, Teams
 - You attend many meetings and need catch-up summaries
 - Your company is paying (not you personally)
-- Time savings of 3-5 hours/week is worth $30/month
+- Time savings of 3-5 hours/week is worth $21-30/month
 
 ### Skip It If:
 
@@ -270,7 +271,7 @@ At $30/month, that's $6-10 per hour saved. Worth it if your time is valuable; qu
 - You're an individual and don't want to pay $9.99+/month (try the free Copilot in Windows/Edge first)
 - Your work is creative rather than document-heavy
 - You can accomplish the same with free AI tools
-- $30/month per person strains your budget
+- $21-30/month per person strains your budget
 
 ### Wait If:
 
@@ -325,7 +326,7 @@ It disappoints at:
 - Customization
 - Value for money (for some users)
 
-**Is it worth $30/month?**
+**Is it worth $21-30/month?**
 
 If your company is paying and you're a heavy Microsoft 365 user, yes. The time savings on email and meetings alone justify it.
 
