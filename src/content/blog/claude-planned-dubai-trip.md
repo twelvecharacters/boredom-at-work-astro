@@ -9,7 +9,7 @@ tags: ["AI", "Travel", "Dubai", "Claude", "Trip Planning"]
 draft: false
 faq:
   - question: "Can AI plan a luxury Dubai trip on a budget?"
-    answer: "Yes. We asked Claude to plan 3 days in Dubai. Our business partners covered the hotel and helicopter tour, so our out-of-pocket costs were just $80-120/day per person for food, Uber, and activities. Claude suggested Uber over taxis (luxury cars like Lexus and Audi A8 are standard) and prioritized free attractions like the Dubai Mall."
+    answer: "Yes. We asked Claude to plan 3 days in Dubai. Our business partners covered the hotel and helicopter tour, so our out-of-pocket costs were just $80-120/day per person for food, Uber, and activities. Claude suggested Uber over taxis (luxury cars like Lexus and Audi A6 are standard) and prioritized free attractions like the Dubai Mall."
   - question: "How much does a helicopter tour in Dubai cost?"
     answer: "Falcon Helitours at Palm Jumeirah offers tours from 12 to 60 minutes. A 12-minute sharing tour starts around AED 715 (~$195). Longer private tours like our 45-minute flight cost significantly more. Book directly through falconhelitours.com for the best rates."
   - question: "Is Dubai expensive for a short trip?"
@@ -96,7 +96,7 @@ I was wearing my [Ray-Ban Meta smart glasses](/ray-ban-meta-review/) during the 
 
 ### Evening: Rüya Restaurant
 
-For our last proper dinner in Dubai, Claude had suggested **Rüya** — a Turkish restaurant that's held a Michelin star since 2023. It turned out to be the perfect way to end the trip.
+For our last proper dinner in Dubai, Claude had suggested **Rüya** — a Michelin Guide-recommended Turkish restaurant. It turned out to be the perfect way to end the trip.
 
 ![Rüya's rooftop terrace at night — pool, palm trees, and Dubai skyline views](/images/dubai-ruya-restaurant-view.webp)
 
@@ -116,7 +116,7 @@ The rooftop setting alone was worth the visit: an open-air terrace with a pool, 
 | Side | Triple-Cooked Chips (garlic, lemon & chili) x2 | 110 |
 | | **Total** | **870 AED (~$237)** |
 
-That's **~$79 per person** at a Michelin-starred restaurant. For Dubai, that's surprisingly reasonable — and the food was genuinely excellent. The manti and the Adana kebap were the standouts.
+That's **~$79 per person** at a Michelin Guide-recommended restaurant. For Dubai, that's surprisingly reasonable — and the food was genuinely excellent. The manti and the Adana kebap were the standouts.
 
 ## Day 3: The Departure (Wednesday, Feb 12)
 
@@ -142,7 +142,7 @@ Our business partners generously covered the hotel (Five Palm Jumeirah) and the 
 | Helicopter tour | Covered by partners |
 | **Daily average (our pocket)** | **$80–120** |
 
-**Uber in Dubai** deserves its own mention. It's cheap, reliable, and — here's the kicker — your standard Uber is often a **Lexus** or **Audi A8**. In most cities, that's a premium ride. In Dubai, it's Tuesday.
+**Uber in Dubai** deserves its own mention. It's cheap, reliable, and — here's the kicker — your standard Uber is often a **Lexus** or **Audi A6**. In most cities, that's a premium ride. In Dubai, it's Tuesday.
 
 ## What Claude Got Right
 
