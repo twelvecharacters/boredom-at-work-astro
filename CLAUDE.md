@@ -6,7 +6,33 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 11. Februar 2026)
 
-### Letzte Sitzung (11. Februar 2026)
+### Letzte Sitzung (11. Februar 2026 - Abend)
+
+**✅ Netlify komplett entfernt & Repo aufgeräumt**
+
+| Aktion | Details |
+|--------|---------|
+| Netlify-Projekt gelöscht | Dashboard → Site deleted (verbrauchte unnötig Credits) |
+| `netlify.toml` entfernt | Build-Config nicht mehr nötig (GitHub Pages) |
+| `DEPLOYMENT.md` entfernt | Veraltete Netlify-Anleitung (Jan 2026) |
+| `MIGRATION-SUMMARY.md` entfernt | WordPress→Netlify Migration, erledigt |
+| `CHANGELOG.md` entfernt | Veraltetes Changelog (Jan 2026) |
+| `CONTENT-PROMPTS.md` entfernt | Veraltet, superseded by CLAUDE.md |
+| `TOPICAL-MAP-*.md` entfernt | Interne Planungsdateien |
+| `__pycache__/` entfernt | Alter Python-Cache (WordPress-Migration) |
+| `.env` lokal gelöscht | Alte WordPress-Credentials |
+| `.gitignore` erweitert | `*.swp`, `*.swo`, `*~`, `__pycache__/` |
+
+**Ergebnis:** ~1.626 Zeilen weniger im Repo, keine Netlify-Kosten mehr.
+
+**Commits:**
+- `929ab3e chore: remove netlify.toml (site moved to GitHub Pages)`
+- `2cfd426 chore: remove outdated migration docs (Netlify/WordPress)`
+- `694b281 chore: remove outdated files and improve .gitignore`
+
+---
+
+### Sitzung (11. Februar 2026)
 
 **✅ Ray-Ban Meta Review geschrieben (Publish: 11. März)**
 
