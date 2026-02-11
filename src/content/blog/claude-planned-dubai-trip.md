@@ -1,7 +1,7 @@
 ---
 title: "I Let Claude Plan Our Dubai Trip — Here's How It Went"
 slug: "claude-planned-dubai-trip"
-description: "I asked Claude to plan a 3-day Dubai trip for me and two colleagues. Burj Khalifa, a helicopter flight, 5-star hotel — all on a $100/day budget."
+description: "I asked Claude to plan a 3-day Dubai trip for me and two colleagues. Burj Khalifa, helicopter flight, Michelin-star dinner — here's how it went."
 publishDate: 2026-02-11
 author: "bored chap"
 image: "/images/claude-dubai-trip.webp"
@@ -9,11 +9,11 @@ tags: ["AI", "Travel", "Dubai", "Claude", "Trip Planning"]
 draft: false
 faq:
   - question: "Can AI plan a luxury Dubai trip on a budget?"
-    answer: "Yes. We asked Claude to plan 3 days in Dubai for around $100/day per person. It found Five Palm Jumeirah at a reasonable rate, suggested Uber over taxis (luxury cars like Lexus and Audi A8 are standard), and prioritized free attractions like the Dubai Mall. The helicopter tour was a splurge, but the daily budget held up."
+    answer: "Yes. We asked Claude to plan 3 days in Dubai. Our business partners covered the hotel and helicopter tour, so our out-of-pocket costs were just $80-120/day per person for food, Uber, and activities. Claude suggested Uber over taxis (luxury cars like Lexus and Audi A8 are standard) and prioritized free attractions like the Dubai Mall."
   - question: "How much does a helicopter tour in Dubai cost?"
     answer: "Falcon Helitours at Palm Jumeirah offers tours from 12 to 60 minutes. A 12-minute sharing tour starts around AED 715 (~$195). Longer private tours like our 45-minute flight cost significantly more. Book directly through falconhelitours.com for the best rates."
   - question: "Is Dubai expensive for a short trip?"
-    answer: "It can be surprisingly affordable if you plan smart. We spent $80-120 per person per day (excluding hotel and flights). The Dubai Mall is free, Uber is cheap for a luxury city, and restaurant prices are comparable to major European cities. The biggest expenses are hotel and experiences like helicopter tours."
+    answer: "It can be surprisingly affordable if you plan smart. We spent $80-120 per person per day on food, transport, and activities. Our hotel and helicopter tour were covered by business partners, but even without that, the Dubai Mall is free, Uber is cheap for a luxury city, and restaurant prices are comparable to major European cities."
 ---
 
 I've written guides about [AI trip planners](/best-ai-trip-planners/) and even let AI plan a [London weekend](/ai-planned-london-weekend/). But this time the stakes were different: a short business-adjacent trip to Dubai with two colleagues, barely any time to plan, and a city I'd never visited before.
@@ -24,7 +24,7 @@ So I asked Claude to figure it out. Three days, three guys, one prompt.
 
 Here's what I gave Claude:
 
-> Plan a 3-day trip to Dubai for me and two work colleagues. We arrive late Sunday night (Feb 9) and fly out Wednesday afternoon (Feb 12). Budget: around $100/day per person excluding hotel and flights. We want to see the main landmarks, have some great dinners, and do something memorable. No dietary restrictions.
+> Plan a 3-day trip to Dubai for me and two work colleagues. We arrive late Sunday night (Feb 9) and fly out Wednesday afternoon (Feb 12). Our business partners are covering the hotel and one big activity. Budget for food, transport, and other activities: around $100/day per person. We want to see the main landmarks, have some great dinners, and do something memorable. No dietary restrictions.
 
 Within minutes, Claude delivered a day-by-day itinerary with restaurant suggestions, landmark priorities, and a transportation strategy. The key insight it gave us: **don't try to do everything — Dubai is huge and 3 days is short.**
 
@@ -81,7 +81,7 @@ After dinner, they took us to **[Secret Room](https://secretroomdubai.com/)** �
 
 ### Falcon Helitours: The Highlight of the Trip
 
-Claude recommended **[Falcon Helitours](https://falconhelitours.com/)** at the Atlantis Helipad on Palm Jumeirah. We booked a 45-minute flight, and it was the single best experience of the entire trip.
+Claude recommended **[Falcon Helitours](https://falconhelitours.com/)** at the Atlantis Helipad on Palm Jumeirah. Our business partners arranged a 45-minute flight for us, and it was the single best experience of the entire trip.
 
 The route took us over:
 - **Palm Jumeirah** from above (you finally understand the palm shape)
@@ -131,14 +131,16 @@ We had a long breakfast at Five Palm Jumeirah (again, incredible), packed slowly
 
 ## The Numbers: What Dubai Actually Cost
 
+Our business partners generously covered the hotel (Five Palm Jumeirah) and the helicopter tour. Here's what we paid out of pocket:
+
 | Expense | Cost (per person/day) |
 |---------|----------------------|
-| Hotel (Five Palm Jumeirah, split 3 ways) | Varies by dates |
 | Food & drinks | $40–60 |
 | Uber rides | $15–25 |
 | Activities (Dubai Mall) | Free |
-| Helicopter tour (one-time) | Splurge |
-| **Daily average (excl. hotel & flights)** | **$80–120** |
+| Hotel (Five Palm Jumeirah) | Covered by partners |
+| Helicopter tour | Covered by partners |
+| **Daily average (our pocket)** | **$80–120** |
 
 **Uber in Dubai** deserves its own mention. It's cheap, reliable, and — here's the kicker — your standard Uber is often a **Lexus** or **Audi A8**. In most cities, that's a premium ride. In Dubai, it's Tuesday.
 
