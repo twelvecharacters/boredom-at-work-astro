@@ -1,43 +1,57 @@
-# Astro Starter Kit: Minimal
+# ☕️ Boredom at Work
 
-```sh
-npm create astro@latest -- --template minimal
-```
+> Transform your 9-to-5 downtime into personal growth. From mastering AI skills to starting a 3D printing hobby or finding the perfect camera gear — we help you make every boring minute count.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+[boredom-at-work.com](https://boredom-at-work.com)
 
-## 🚀 Project Structure
+## 🚀 Features
 
-Inside of your Astro project, you'll see the following folders and files:
+- **Blog Content**: Regularly updated articles on AI, 3D printing, photography, and more.
+- **Stealth Learning Paths**: Documentation-style guides designed for discreet learning at work.
+- **Full-Text Search**: Powered by [Pagefind](https://pagefind.app/) for fast, client-side searching.
+- **Optimized Images**: Automatic thumbnail generation and WebP conversion for performance.
+- **Modern Tech Stack**: Built with Astro 5 and Tailwind CSS 4.
+
+## 🛠 Tech Stack
+
+- **Framework**: [Astro 5](https://astro.build/)
+- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/)
+- **Search**: [Pagefind](https://pagefind.app/)
+- **Processing**: [Sharp](https://sharp.pixelplumbing.com/) (for image optimization)
+- **Language**: TypeScript
+
+## 📂 Project Structure
 
 ```text
 /
-├── public/
+├── public/          # Static assets (images, favicon, etc.)
+├── scripts/         # Utility scripts (thumbnail generation)
 ├── src/
-│   └── pages/
-│       └── index.astro
+│   ├── components/  # Astro & UI components
+│   ├── content/     # Blog posts and collections
+│   ├── layouts/     # Page layouts
+│   ├── pages/       # Route-based pages
+│   ├── styles/      # Global CSS and Tailwind
+│   └── utils/       # Helper functions
+├── astro.config.mjs
 └── package.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
 ## 🧞 Commands
 
-All commands are run from the root of the project, from a terminal:
+All commands are run from the root of the project:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+| Command | Action |
+| :--- | :--- |
+| `npm install` | Installs dependencies |
+| `npm run dev` | Starts local dev server at `localhost:4321` |
+| `npm run build` | Builds for production (includes Pagefind indexing) |
+| `npm run preview` | Preview production build locally |
+| `npm run thumbnails` | Generate missing blog thumbnails |
 
-## 👀 Want to learn more?
+## 📬 Contact
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- **Author**: bored chap
+- **Reddit**: [r/boredom_at_work](https://www.reddit.com/r/boredom_at_work/)
+- **Email**: twelvecharacters@proton.me
+
