@@ -57,6 +57,10 @@ The results? I was honestly surprised. The videos came out **stable, sharp, and 
 
 **The hands-free advantage is real.** During the helicopter flight, I could look around freely while recording. No fumbling with a phone, no awkward angles trying to film through the window. I just looked at what I wanted to capture and tapped the frame.
 
+Here's footage I shot at the **Dubai Fountain show** — no phone, no gimbal, just the glasses:
+
+<iframe width="315" height="560" src="https://www.youtube.com/embed/npcqic4geOA" title="Dubai Fountain Show filmed with Ray-Ban Meta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display:block;margin:1.5rem auto;max-width:100%;border-radius:12px;"></iframe>
+
 ### What the Camera Can't Do
 
 **No zoom.** At all. The ultra-wide lens captures everything in your field of view, which is great for landscapes and wide shots. But if you want to zoom into a building or a detail in the distance? Out of luck.

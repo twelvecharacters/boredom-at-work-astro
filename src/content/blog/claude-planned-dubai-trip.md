@@ -64,6 +64,10 @@ Our trip was last-minute, and by the time we checked availability, prime slots w
 
 **Lesson #1:** For Burj Khalifa, book early. Claude told us. We didn't listen.
 
+But we did catch the **Dubai Fountain show** — and I filmed the whole thing hands-free with my [Ray-Ban Meta smart glasses](/ray-ban-meta-review/):
+
+<iframe width="315" height="560" src="https://www.youtube.com/embed/npcqic4geOA" title="Dubai Fountain Show filmed with Ray-Ban Meta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display:block;margin:1.5rem auto;max-width:100%;border-radius:12px;"></iframe>
+
 ### Evening: FRNDS Restaurant & Secret Room
 
 This part wasn't in Claude's itinerary at all. Our business partners in Dubai invited us to dinner at **FRNDS**, a restaurant and lounge concept. Great food, great atmosphere, the kind of place where the evening starts relaxed and builds momentum.
