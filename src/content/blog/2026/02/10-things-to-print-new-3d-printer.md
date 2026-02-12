@@ -1,7 +1,7 @@
 ---
-title: "The New Printer Checklist: 10 Essential (And Productive) Things to 3D Print First"
+title: "10 Things You Should 3D Print First (New Printer)"
 slug: "10-things-to-print-new-3d-printer"
-description: "Just unboxed your first 3D printer? Skip the decorative dust-collectors and start with these 10 functional, productive prints that will upgrade your desk and your workflow."
+description: "Just unboxed your first 3D printer? Skip the dust-collectors — here are 10 functional prints that upgrade your desk and workflow."
 publishDate: 2026-02-12
 author: "bored chap"
 image: "/images/10-things-to-3d-print-first.webp"
@@ -96,3 +96,7 @@ If you're not ready to design your own in CAD yet, check out these three main re
 - [ ] Print, iterate, and enjoy your new productive hobby.
 
 **Ready to take it to the next level?** Check out our guide on [The Best CAD Software for 3D Printing Beginners](/cad-software-3d-printing/) to start designing your own solutions!
+
+---
+
+*New to 3D printing? Start with our [complete beginner's guide](/3d-printing-beginners-guide/) or learn which [filament type is right for your project](/pla-vs-petg-vs-abs/). Already printing but struggling? Check out our [troubleshooting guide for prints that won't stick](/3d-print-not-sticking-fixes/).*

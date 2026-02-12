@@ -391,6 +391,7 @@ Raw photos need editing. Free/cheap options:
 | **Lightroom Mobile** | iOS/Android | Free (limited) |
 | **Snapseed** | iOS/Android | Free |
 | **Darktable** | Desktop | Free |
+| **[RapidRAW](/rapid-raw-image-editor-guide/)** | Desktop | Free (open-source) |
 | **Lightroom Classic** | Desktop | $10/month |
 
 Start with Lightroom Mobile—it's powerful and free for basic editing.
