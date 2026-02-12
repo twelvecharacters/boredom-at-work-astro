@@ -39,6 +39,19 @@
 
 **Commit:** `bcbc2ff feat: embed Dubai Fountain YouTube Short in Dubai trip + Ray-Ban Meta articles`
 
+**✅ Post-Publish SEO Fixes: 10 Things to 3D Print + RapidRAW**
+
+| Fix | Vorher | Nachher |
+|-----|--------|---------|
+| 3D Print Bild | 679 KB (JPEG als .webp!) | **60 KB** (echtes WebP) |
+| 3D Print Title | 78 Zeichen | **51 Zeichen** |
+| 3D Print Description | 170 Zeichen | **120 Zeichen** |
+| 3D Print interne Links | 1 | **4** (+Beginner Guide, PLA vs PETG, Not Sticking) |
+| 3D Print llms.txt + llms-full.txt | Fehlte | ✅ Nachgetragen |
+| RapidRAW eingehende Links | 0 | **1** (photography-guide Editing-Tabelle) |
+
+**Commit:** `77e7926 fix: SEO fixes for 3D print + RapidRAW articles (title, image, links, llms.txt)`
+
 ---
 
 ### Letzte Sitzung (11. Februar 2026 - Abend)
