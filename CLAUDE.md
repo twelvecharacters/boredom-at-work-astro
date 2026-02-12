@@ -4,7 +4,23 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 11. Februar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 12. Februar 2026)
+
+### Sitzung (12. Februar 2026)
+
+**✅ YouTube Short: Dubai Fountain Show**
+
+| Detail | Wert |
+|--------|------|
+| URL | https://youtube.com/shorts/npcqic4geOA |
+| Inhalt | Dubai Fountain Show am Burj Khalifa |
+| Aufgenommen mit | Ray-Ban Meta Smart Glasses (hands-free) |
+| Format | Vertical (1552x2064), 60 Sekunden |
+| Eingebettet in | `claude-planned-dubai-trip.md` + `ray-ban-meta-review.md` |
+
+**Commit:** `bcbc2ff feat: embed Dubai Fountain YouTube Short in Dubai trip + Ray-Ban Meta articles`
+
+---
 
 ### Letzte Sitzung (11. Februar 2026 - Abend)
 
@@ -416,6 +432,7 @@ Photography ─────► photography-guide (7 Artikel)
 | `ai-tools-guide.md` | ✅ https://youtu.be/IoGF-x_prXQ | Live (Artikel: 4. März) |
 | `learn-ai-guide.md` | ✅ https://youtu.be/h-V_Lu_J_hw | Unlisted → **7. März public** |
 | `chatgpt-guide.md` | ❌ TODO | |
+| `claude-planned-dubai-trip.md` + `ray-ban-meta-review.md` | ✅ https://youtube.com/shorts/npcqic4geOA | Live (Short, Dubai Fountain) |
 
 **⏰ TODO:**
 - [ ] Video für `chatgpt-guide.md` erstellen
