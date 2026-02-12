@@ -18,6 +18,25 @@
 | Format | Vertical (1552x2064), 60 Sekunden |
 | Eingebettet in | `claude-planned-dubai-trip.md` + `ray-ban-meta-review.md` |
 
+**YouTube Description:**
+> The Dubai Fountain show at Burj Khalifa — filmed entirely hands-free with Ray-Ban Meta smart glasses. No phone, no gimbal, just tap and record.
+>
+> The world's largest choreographed fountain system, 900 ft long, shooting water up to 500 ft into the air. Free show every 30 minutes starting at 6 PM.
+>
+> 📖 Full Dubai trip report (planned by Claude AI): https://www.boredom-at-work.com/claude-planned-dubai-trip/
+> 🕶️ Ray-Ban Meta review after 2 weeks: https://www.boredom-at-work.com/ray-ban-meta-review/
+>
+> 📍 Burj Khalifa, Downtown Dubai — February 2026
+>
+> #Shorts #Dubai #DubaiFountain #BurjKhalifa #RayBanMeta #SmartGlasses #POV #HandsFreeFilming #TravelDubai
+
+**Gepinnter Kommentar:**
+> No phone, no gimbal — just Ray-Ban Meta smart glasses 🕶️
+>
+> This is the Dubai Fountain show at Burj Khalifa, filmed completely hands-free. Full story of our 3-day Dubai trip (planned entirely by Claude AI): https://www.boredom-at-work.com/claude-planned-dubai-trip/
+>
+> Ray-Ban Meta review after 2 weeks of daily use: https://www.boredom-at-work.com/ray-ban-meta-review/
+
 **Commit:** `bcbc2ff feat: embed Dubai Fountain YouTube Short in Dubai trip + Ray-Ban Meta articles`
 
 ---
