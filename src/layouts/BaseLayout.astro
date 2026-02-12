@@ -4,6 +4,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import ReadingProgressBar from '../components/ReadingProgressBar.astro';
 import ScrollToTop from '../components/ScrollToTop.astro';
+import { SEO } from 'astro-seo';
 import { SITE } from '../config';
 
 interface Props {
@@ -12,6 +13,9 @@ interface Props {
   image?: string;
   article?: boolean;
   preloadHero?: boolean;
+  publishDate?: Date;
+  updatedDate?: Date;
+  tags?: string[];
   noindex?: boolean;
 }
 
@@ -21,6 +25,9 @@ const {
   image = "/images/og-default.jpg",
   article = false,
   preloadHero = false,
+  publishDate,
+  updatedDate,
+  tags = [],
   noindex = false
 } = Astro.props;
 
@@ -62,27 +69,42 @@ const socialImageURL = new URL(image, Astro.site);
       </>
     )}
 
-    <!-- Primary Meta Tags -->
-    <title>{title} | {SITE.title}</title>
-    <meta name="title" content={`${title} | ${SITE.title}`} />
-    <meta name="description" content={description} />
-    <meta name="author" content={SITE.author} />
-    {noindex && <meta name="robots" content="noindex, follow" />}
-
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content={article ? "article" : "website"} />
-    <meta property="og:url" content={canonicalURL} />
-    <meta property="og:title" content={title} />
-    <meta property="og:description" content={description} />
-    <meta property="og:image" content={socialImageURL} />
-    <meta property="og:site_name" content={SITE.title} />
-
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content={canonicalURL} />
-    <meta property="twitter:title" content={title} />
-    <meta property="twitter:description" content={description} />
-    <meta property="twitter:image" content={socialImageURL} />
+    <SEO
+      title={`${title} | ${SITE.title}`}
+      description={description}
+      canonical={canonicalURL.toString()}
+      noindex={noindex}
+      openGraph={{
+        basic: {
+          title: title,
+          type: article ? "article" : "website",
+          image: socialImageURL.toString(),
+          url: canonicalURL.toString(),
+        },
+        optional: {
+          siteName: SITE.title,
+          description: description,
+        },
+        article: article ? {
+          publishedTime: publishDate?.toISOString(),
+          modifiedTime: (updatedDate || publishDate)?.toISOString(),
+          authors: [SITE.author],
+          tags: tags,
+        } : undefined
+      }}
+      twitter={{
+        card: "summary_large_image",
+        title: title,
+        description: description,
+        image: socialImageURL.toString(),
+      }}
+      extend={{
+        meta: [
+          { name: "author", content: SITE.author },
+          { name: "generator", content: Astro.generator },
+        ],
+      }}
+    />
 
     <!-- Schema.org JSON-LD -->
     <script type="application/ld+json" set:html={JSON.stringify({

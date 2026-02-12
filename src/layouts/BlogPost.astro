@@ -45,7 +45,15 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
 });
 ---
 
-<BaseLayout title={title} description={description} image={image} article={true}>
+<BaseLayout 
+  title={title} 
+  description={description} 
+  image={image} 
+  article={true}
+  publishDate={publishDate}
+  updatedDate={updatedDate}
+  tags={tags}
+>
   <article class="max-w-5xl mx-auto px-4 py-8">
     <!-- Breadcrumbs & Focus Mode Toggle -->
     <div class="flex justify-between items-center mb-4">
