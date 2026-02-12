@@ -6,9 +6,10 @@ interface Props {
   description: string;
   ctaText: string;
   ctaHref: string;
+  typewriterPhrases?: string[];
 }
 
-const { title, description, ctaText, ctaHref } = Astro.props;
+const { title, description, ctaText, ctaHref, typewriterPhrases = [] } = Astro.props;
 ---
 
 <section class="mesh-gradient text-white py-20 md:py-32 relative overflow-hidden hero-section">
@@ -22,7 +23,11 @@ const { title, description, ctaText, ctaHref } = Astro.props;
       🚀 Use your downtime wisely
     </div>
     <h1 class="text-4xl md:text-7xl font-bold mb-6 text-gradient leading-tight tracking-tight animate-in fade-in slide-in-from-bottom-6 duration-1000 delay-150">
-      {title}
+      {typewriterPhrases.length > 0 ? (
+        <span id="typewriter" data-phrases={JSON.stringify(typewriterPhrases)}>{title}</span><span class="typewriter-cursor">|</span>
+      ) : (
+        title
+      )}
     </h1>
     <p class="text-lg md:text-xl text-white/70 mb-10 max-w-2xl mx-auto leading-relaxed animate-in fade-in slide-in-from-bottom-8 duration-1000 delay-300">
       {description}
@@ -38,17 +43,58 @@ const { title, description, ctaText, ctaHref } = Astro.props;
   </div>
 </section>
 
+
 <script>
   function initHeroEffects() {
-    const hero = document.querySelector('.hero-section');
+    const hero = document.querySelector('.hero-section') as HTMLElement;
     if (!hero) return;
 
     const blobs = hero.querySelectorAll('.parallax-blob');
-    const magneticContent = hero.querySelector('.magnetic-content');
-    const magneticWrap = hero.querySelector('.magnetic-wrap');
+    const magneticContent = hero.querySelector('.magnetic-content') as HTMLElement;
+    const magneticWrap = hero.querySelector('.magnetic-wrap') as HTMLElement;
+    const typewriterElement = document.getElementById('typewriter');
+
+    // Typewriter Logic
+    if (typewriterElement) {
+      const phrases = JSON.parse(typewriterElement.getAttribute('data-phrases') || '[]');
+      let phraseIndex = 0;
+      let charIndex = 0;
+      let isDeleting = false;
+      let typingSpeed = 100;
+
+      function type() {
+        if (!typewriterElement) return;
+        const currentPhrase = phrases[phraseIndex];
+        
+        if (isDeleting) {
+          typewriterElement.textContent = currentPhrase.substring(0, charIndex - 1);
+          charIndex--;
+          typingSpeed = 50;
+        } else {
+          typewriterElement.textContent = currentPhrase.substring(0, charIndex + 1);
+          charIndex++;
+          typingSpeed = 100;
+        }
+
+        if (!isDeleting && charIndex === currentPhrase.length) {
+          isDeleting = true;
+          typingSpeed = 2000; // Pause at end
+        } else if (isDeleting && charIndex === 0) {
+          isDeleting = false;
+          phraseIndex = (phraseIndex + 1) % phrases.length;
+          typingSpeed = 500;
+        }
+
+        setTimeout(type, typingSpeed);
+      }
+
+      if (phrases.length > 0) {
+        type();
+      }
+    }
 
     // Parallax & Mouse Radial Effect
-    hero.addEventListener('mousemove', (e) => {
+    hero.addEventListener('mousemove', (e: MouseEvent) => {
       const rect = hero.getBoundingClientRect();
       const x = e.clientX - rect.left;
       const y = e.clientY - rect.top;
@@ -63,7 +109,7 @@ const { title, description, ctaText, ctaHref } = Astro.props;
 
       blobs.forEach((blob) => {
         const speed = parseFloat(blob.getAttribute('data-speed') || '0.05');
-        blob.style.transform = `translate(${moveX * speed * 100}px, ${moveY * speed * 100}px)`;
+        (blob as HTMLElement).style.transform = `translate(${moveX * speed * 100}px, ${moveY * speed * 100}px)`;
       });
 
       // Magnetic Button
@@ -82,7 +128,7 @@ const { title, description, ctaText, ctaHref } = Astro.props;
     });
 
     hero.addEventListener('mouseleave', () => {
-      blobs.forEach(blob => blob.style.transform = '');
+      blobs.forEach(blob => (blob as HTMLElement).style.transform = '');
       if (magneticContent) magneticContent.style.transform = '';
     });
   }
@@ -103,4 +149,15 @@ const { title, description, ctaText, ctaHref } = Astro.props;
     will-change: transform;
     transition: transform 0.2s cubic-bezier(0.33, 1, 0.68, 1);
   }
+  .typewriter-cursor {
+    display: inline-block;
+    margin-left: 2px;
+    animation: blink 1s step-end infinite;
+    color: var(--color-accent, #6366f1);
+  }
+  @keyframes blink {
+    from, to { opacity: 1; }
+    50% { opacity: 0; }
+  }
 </style>
+
