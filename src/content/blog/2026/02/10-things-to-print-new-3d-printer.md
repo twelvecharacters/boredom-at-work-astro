@@ -27,24 +27,75 @@ Here are 10 essential prints every new 3D printer owner should queue up in their
 ---
 
 ## 1. The Mandatory Calibration Benchie
-Before you do anything else, you must print the [3DBenchy](https://www.3dbenchy.com/). 
+Before you do anything else, you must print the 3DBenchy.
+
+<div class="resource-card mb-8">
+  <div class="resource-info">
+    <div class="resource-icon">🚢</div>
+    <div>
+      <h4 class="resource-title">The Official 3DBenchy</h4>
+      <p class="resource-desc">The industry standard for testing 3D printer performance and quality.</p>
+    </div>
+  </div>
+  <a href="https://makerworld.com/en/models/40146-benchy-bambu-pla-basic?from=search#profileId-109644" class="btn-primary" target="_blank" rel="noopener noreferrer">Download on MakerWorld</a>
+</div>
+
 - **The Purpose:** It’s a torture test for your printer. It tests overhangs, cooling, holes, and dimensions.
 - **Why at work?** It’s a small, fast print. You can have it running while you’re answering emails and check on it every 20 minutes to make sure the machine is healthy.
 
 ## 2. Under-Desk Cable Management Clips
+
+
 Your desk probably has a "spaghetti monster" of wires living behind the monitor.
-- **The Fix:** Print a set of modular cable clips. You can find designs that screw into the desk or use double-sided tape.
+
+<div class="resource-card mb-8">
+  <div class="resource-info">
+    <div class="resource-icon">🔌</div>
+    <div>
+      <h4 class="resource-title">UnderWare Cable Management</h4>
+      <p class="resource-desc">Modular clips that snap together for a perfectly organized desk.</p>
+    </div>
+  </div>
+  <a href="https://makerworld.com/en/models/545105-underware-ultimate-cable-management-system-mb?from=search#profileId-464000" class="btn-primary" target="_blank" rel="noopener noreferrer">Download on MakerWorld</a>
+</div>
+
+- **The Fix:** Print a set of modular cable clips. The **UnderWare Ultimate Cable Management System** is a fantastic choice:
+You can find designs that screw into the desk or use double-sided tape.
 - **Productivity Boost:** A clean desk leads to a clean mind. Removing cable clutter is the fastest way to make your office feel professional.
 
 ## 3. The Minimalist Headphone Stand
 Stop leaving your expensive noise-canceling headphones lying flat on the desk where they get scratched.
-- **The Design:** Look for a sleek, geometric "Omega" style stand or a simple hook that clips onto the side of your monitor arm.
+
+<div class="resource-card mb-8">
+  <div class="resource-info">
+    <div class="resource-icon">🎧</div>
+    <div>
+      <h4 class="resource-title">Designer Headphone Stand</h4>
+      <p class="resource-desc">A premium, geometric stand that keeps your gear safe and stylish.</p>
+    </div>
+  </div>
+  <a href="https://makerworld.com/en/models/515356-design-headphone-stand?from=search#profileId-433379" class="btn-primary" target="_blank" rel="noopener noreferrer">Download on MakerWorld</a>
+</div>
+
+- **The Design:** Look for a sleek, geometric "Omega" style stand or a simple hook that clips onto the side of your monitor arm. 
+
 - **Materials:** Use a matte filament (like Matte Black PLA) to give it a premium, non-plastic look.
 
 ---
 
 ## 4. Universal Phone & Tablet Stand
 You need a dedicated place for your phone to sit so you can see notifications without picking it up.
+<div class="resource-card mb-8">
+  <div class="resource-info">
+    <div class="resource-icon">📱</div>
+    <div>
+      <h4 class="resource-title">Universal Phone Stand</h4>
+      <p class="resource-desc">Ultra-portable, folding design that fits in any pocket.</p>
+    </div>
+  </div>
+  <a href="https://makerworld.com/en/models/819327-phone-stand?from=search#profileId-762142" class="btn-primary" target="_blank" rel="noopener noreferrer">Download on MakerWorld</a>
+</div>
+
 - **The Twist:** Print a "stealth" stand that folds flat. This is perfect for throwing into your laptop bag if you move between home and the office.
 - **CAD Challenge:** Try to design your own with your initials embossed on the back!
 
@@ -84,9 +135,9 @@ Finally, print something that looks like a boring office supply but has a secret
 
 ## Where to Find These Files
 If you're not ready to design your own in CAD yet, check out these three main repositories:
-1. **Printables.com:** The best community and the highest-quality models.
-2. **MakerWorld:** Optimized specifically for Bambu Lab users.
-3. **Thingiverse:** The "old guard" and one of the most well-known model libraries, though many older files may no longer be accessible.
+1. [**Printables.com:**](https://www.printables.com/) The best community and the highest-quality models.
+2. [**MakerWorld:** ](https://makerworld.com/en) Optimized specifically for Bambu Lab users.
+3. [**Thingiverse:**](https://www.thingiverse.com/) The "old guard" and one of the most well-known model libraries, though many older files may no longer be accessible.
 
 ## Summary Checklist for Your First Spool
 - [ ] Calibrate your bed and Z-offset.
