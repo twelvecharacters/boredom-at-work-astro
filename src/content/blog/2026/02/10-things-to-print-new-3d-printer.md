@@ -101,6 +101,18 @@ You need a dedicated place for your phone to sit so you can see notifications wi
 
 ## 5. SD Card & USB Drive Organizer
 If you're a photographer or a tech enthusiast, you likely have a dozen tiny cards and drives rolling around in your drawer.
+
+<div class="resource-card mb-8">
+  <div class="resource-info">
+    <div class="resource-icon">💾</div>
+    <div>
+      <h4 class="resource-title">Memory Card Holder with Tray</h4>
+      <p class="resource-desc">A dedicated "dock" with slots specifically for SD, MicroSD, and USB-A/C ports.</p>
+    </div>
+  </div>
+  <a href="https://makerworld.com/en/models/508624-memory-card-holder-with-tray?from=search#profileId-424451" class="btn-primary" target="_blank" rel="noopener noreferrer">Download on MakerWorld</a>
+</div>
+
 - **The Fix:** A dedicated "dock" with slots specifically for SD, MicroSD, and USB-A/C ports.
 - **Pro Tip:** Print this in a bright color so it’s easy to find in the depths of your desk.
 
@@ -150,4 +162,4 @@ If you're not ready to design your own in CAD yet, check out these three main re
 
 ---
 
-*New to 3D printing? Start with our [complete beginner's guide](/3d-printing-beginners-guide/) or learn which [filament type is right for your project](/pla-vs-petg-vs-abs/). Already printing but struggling? Check out our [troubleshooting guide for prints that won't stick](/3d-print-not-sticking-fixes/).*
+*New to 3D printing? Start with our [complete beginner's guide](/3d-printing-beginners-guide/).*
