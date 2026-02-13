@@ -27,16 +27,16 @@ Here are the extensions worth installing.
 
 | Extension | Best For | Price | Rating |
 |-----------|----------|-------|--------|
-| **Sider** | AI sidebar anywhere | Free/$10mo | ★★★★★ |
-| **Monica** | All-in-one AI | Free/$10mo | ★★★★☆ |
-| **Merlin** | Quick AI access | Free/$15mo | ★★★★☆ |
-| **Perplexity** | Research | Free | ★★★★★ |
-| **Grammarly** | Writing | Free/$12mo | ★★★★★ |
-| **Tactiq** | Meeting notes | Free/$12mo | ★★★★☆ |
-| **Glasp** | Highlighting | Free | ★★★★☆ |
+| **[Sider](https://sider.ai)** | AI sidebar anywhere | Free/$10mo | ★★★★★ |
+| **[Monica](https://monica.im)** | All-in-one AI | Free/$10mo | ★★★★☆ |
+| **[Merlin](https://merlin.fyi)** | Quick AI access | Free/$15mo | ★★★★☆ |
+| **[Perplexity](https://perplexity.ai)** | Research | Free | ★★★★★ |
+| **[Grammarly](https://grammarly.com)** | Writing | Free/$12mo | ★★★★★ |
+| **[Tactiq](https://tactiq.io)** | Meeting notes | Free/$12mo | ★★★★☆ |
+| **[Glasp](https://glasp.co)** | Highlighting | Free | ★★★★☆ |
 | **Wiseone** | Article reading | Free/$10mo | ★★★★☆ |
-| **MaxAI** | Summarization | Free/$10mo | ★★★★☆ |
-| **Compose AI** | Email writing | Free/$10mo | ★★★☆☆ |
+| **[MaxAI](https://maxai.me)** | Summarization | Free/$10mo | ★★★★☆ |
+| **[Compose AI](https://compose.ai)** | Email writing | Free/$10mo | ★★★☆☆ |
 
 ---
 

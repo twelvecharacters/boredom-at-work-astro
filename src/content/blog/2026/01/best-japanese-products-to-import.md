@@ -93,7 +93,7 @@ Japan is ground zero for anime merchandise. Selection, prices, and availability 
 - **Nendoroids** — Cheaper domestically
 - **Limited convention exclusives**
 
-**Where to shop:** Mandarake (used), Suruga-ya, AmiAmi, Yahoo Auctions
+**Where to shop:** [Mandarake](https://earth.mandarake.co.jp) (used), [Suruga-ya](https://www.suruga-ya.jp/en/), [AmiAmi](https://www.amiami.com), [Yahoo Auctions](https://auctions.yahoo.co.jp)
 
 **Budget:** $15 for prize figures, $100+ for scale figures
 
@@ -167,7 +167,7 @@ Japan kept games that never got Western releases, and the secondhand market is t
 - Retro consoles in better condition
 - Limited edition systems
 
-**Where to shop:** Suruga-ya, Hard Off, Yahoo Auctions
+**Where to shop:** [Suruga-ya](https://www.suruga-ya.jp/en/), [Hard Off](https://www.hardoff.co.jp/en/), [Yahoo Auctions](https://auctions.yahoo.co.jp)
 
 **Budget:** $10-200+ depending on rarity
 

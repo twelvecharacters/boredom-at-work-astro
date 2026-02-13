@@ -69,7 +69,7 @@ If anyone asks, you're "staying current with AI developments that could help the
 
 Some platforms are more workplace-appropriate than others:
 
-### Microsoft Learn (Excellent)
+### [Microsoft Learn](https://learn.microsoft.com) (Excellent)
 
 **Why it's perfect:** The interface looks completely corporate. You're literally on a Microsoft website learning Microsoft-related skills.
 
@@ -77,7 +77,7 @@ Some platforms are more workplace-appropriate than others:
 
 **Bonus:** It's free, including some certifications
 
-### LinkedIn Learning (Excellent)
+### [LinkedIn Learning](https://linkedin.com/learning) (Excellent)
 
 **Why it's perfect:** It's LinkedIn. A professional platform for professional development. No one questions LinkedIn.
 
@@ -85,7 +85,7 @@ Some platforms are more workplace-appropriate than others:
 
 **Bonus:** Your company might already pay for it
 
-### Coursera with Transcripts (Good)
+### [Coursera](https://coursera.org) with Transcripts (Good)
 
 **Why it works:** Use transcript mode instead of video. Looks like reading an article.
 

@@ -264,9 +264,9 @@ These platforms offer millions of free models for your next 3D print:
 
 ### Top 3 Platforms for Beginners
 
-1. **Printables.com** - Best quality, curated by Prusa
-2. **Thingiverse.com** - Largest selection, classic marketplace
-3. **MyMiniFactory.com** - High-quality, tested designs
+1. **[Printables.com](https://printables.com)** - Best quality, curated by Prusa
+2. **[Thingiverse.com](https://thingiverse.com)** - Largest selection, classic marketplace
+3. **[MyMiniFactory.com](https://myminifactory.com)** - High-quality, tested designs
 
 ### Specialized Platforms
 

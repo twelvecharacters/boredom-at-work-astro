@@ -41,7 +41,7 @@ In this deep dive, I’ll break down the real-world differences so you can decid
 
 ### The A1 Mini Is Perfect for You If...
 
-You just want to print. If you’re the type of person who wants the "Apple experience" where you unbox it and start making things immediately, this is your machine.
+You just want to print. If you’re the type of person who wants the "Apple experience" where you unbox it and start making things immediately, this is your machine. Visit the [official Bambu Lab website](https://bambulab.com) for more details.
 
 ### Strengths of the Bambu A1 Mini
 
@@ -80,7 +80,7 @@ If you need a new nozzle, you’re looking at about $15 for an official one. Com
 
 ### The Ender 3 Is Perfect for You If...
 
-You love to tinker. If you’re the kind of person who wants to understand exactly how your machine works and isn't afraid to pick up a wrench, the Ender 3 is your "driving school."
+You love to tinker. If you’re the kind of person who wants to understand exactly how your machine works and isn't afraid to pick up a wrench, the Ender 3 is your "driving school." Explore the [official Creality website](https://www.creality.com) for the full Ender 3 lineup.
 
 ### Strengths of the Ender 3 Series
 

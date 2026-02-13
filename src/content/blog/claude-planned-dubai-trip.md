@@ -11,7 +11,7 @@ faq:
   - question: "Can AI plan a luxury Dubai trip on a budget?"
     answer: "Yes. We asked Claude to plan 3 days in Dubai. Our business partners covered the hotel and helicopter tour, so our out-of-pocket costs were just $80-120/day per person for food, Uber, and activities. Claude suggested Uber over taxis (luxury cars like Lexus and Audi A8 are standard) and prioritized free attractions like the Dubai Mall."
   - question: "How much does a helicopter tour in Dubai cost?"
-    answer: "Falcon Helitours at Palm Jumeirah offers tours from 12 to 60 minutes. A 12-minute sharing tour starts around AED 715 (~$195). Longer private tours like our 45-minute flight cost significantly more. Book directly through falconhelitours.com for the best rates."
+    answer: "Falcon Helitours at Palm Jumeirah offers tours from 12 to 60 minutes. A 12-minute sharing tour starts around AED 715 (~$195). Longer private tours like our 45-minute flight cost significantly more. Book directly through [falconhelitours.com](https://falconhelitours.com) for the best rates."
   - question: "Is Dubai expensive for a short trip?"
     answer: "It can be surprisingly affordable if you plan smart. We spent $80-120 per person per day on food, transport, and activities. Our hotel and helicopter tour were covered by business partners, but even without that, the Dubai Mall is free, Uber is cheap for a luxury city, and restaurant prices are comparable to major European cities."
 ---

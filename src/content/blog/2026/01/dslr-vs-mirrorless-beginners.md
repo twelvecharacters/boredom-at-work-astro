@@ -96,7 +96,7 @@ Without the mirror box, mirrorless cameras are significantly more compact:
 
 | Camera | Type | Body Weight |
 |--------|------|-------------|
-| Canon EOS R100 | Mirrorless | 356g |
+| [Canon EOS R100](https://www.usa.canon.com/shop/p/eos-r100) | Mirrorless | 356g |
 | Canon Rebel T7 | DSLR | 475g |
 | Nikon Z50 | Mirrorless | 395g |
 | Nikon D3500 | DSLR | 415g |

@@ -35,11 +35,15 @@ After using both extensively for work, I'll break down where each excels — and
 - You value thoughtful, well-structured responses
 - You want memory across conversations
 
+**Visit [Claude.ai](https://claude.ai)**
+
 **Choose ChatGPT if:**
 - You need image generation (DALL-E) or video (Sora)
 - You use Custom GPTs and integrations heavily
 - You want deep research and agent mode
 - You prefer a larger ecosystem of tools
+
+**Visit [ChatGPT.com](https://chatgpt.com)**
 
 ## Head-to-Head Comparison
 

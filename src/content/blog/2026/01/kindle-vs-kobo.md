@@ -61,7 +61,7 @@ At the entry level, these devices are remarkably similar. The differences that m
 
 ## Ecosystem: The Biggest Difference
 
-### Amazon Kindle Ecosystem
+### [Amazon Kindle](https://amazon.com/kindle) Ecosystem
 
 Amazon runs the world's largest ebook store. Period.
 
@@ -78,7 +78,7 @@ Amazon runs the world's largest ebook store. Period.
 - DRM restrictions on purchased books
 - Amazon controls your library
 
-### Kobo Ecosystem
+### [Kobo](https://kobo.com) Ecosystem
 
 Kobo is owned by Rakuten (Japanese e-commerce giant) and has a strong international presence.
 

@@ -73,6 +73,7 @@ export const CATEGORIES = [
       { text: 'Best Cameras for Beginners', href: '/best-cameras-for-beginners/' },
       { text: 'DSLR vs Mirrorless: Which is Best?', href: '/dslr-vs-mirrorless-beginners/' },
       { text: 'Camera vs Smartphone for Travel', href: '/camera-vs-smartphone/' },
+      { text: 'RapidRAW: Free Lightroom Alternative', href: '/rapid-raw-image-editor-guide/' },
       { text: 'Olympus PEN E-PM2 User Guide', href: '/olympus-pen-e-pm2-guide/' },
     ],
     viewAllHref: '/tags/photography/',
@@ -125,6 +126,7 @@ export const FOOTER_LINKS = {
   popular: [
     { label: 'ChatGPT Beginner Guide', href: '/chatgpt-tutorial-beginners/' },
     { label: 'Free AI Courses', href: '/best-free-ai-courses/' },
+    { label: 'RapidRAW Guide', href: '/rapid-raw-image-editor-guide/' },
     { label: 'Fast Certifications', href: '/ai-certifications-in-a-week/' },
   ],
 };

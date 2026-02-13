@@ -47,7 +47,7 @@ The magic is in the summaries. Instead of scrolling through an hour of transcrip
 
 ## Otter.ai — Best Overall
 
-**Price:** Free (300 min/mo) / $16.99/mo Pro / $30/mo Business
+**Price:** Free (300 min/mo) / $16.99/mo Pro / $30/mo Business | **Website:** [Otter.ai](https://otter.ai)
 
 Otter is the most polished and accurate meeting assistant available.
 
@@ -97,7 +97,7 @@ Their bot joins Zoom, Teams, or Meet automatically based on your calendar. No ma
 
 ## Fireflies.ai — Best for Sales Teams
 
-**Price:** Free (800 min/mo) / $18/mo Pro / $29/mo Business
+**Price:** Free (800 min/mo) / $18/mo Pro / $29/mo Business | **Website:** [Fireflies.ai](https://fireflies.ai)
 
 Fireflies shines when you need to connect meeting insights to your CRM.
 
@@ -147,7 +147,7 @@ Chat with your meeting history:
 
 ## Granola — Best for Privacy
 
-**Price:** Free (Basic) / ~$14/mo Business / $18/mo Individual / $35/mo Enterprise
+**Price:** Free (Basic) / ~$14/mo Business / $18/mo Individual / $35/mo Enterprise | **Website:** [Granola.so](https://granola.so)
 
 Granola is different: no bot joins your call, and audio is never stored.
 
@@ -184,7 +184,7 @@ You can read and edit existing notes without an internet connection. However, tr
 
 ## Fathom — Best Free Option
 
-**Price:** Free / ~$19/mo Premium / ~$29/mo Team (annual)
+**Price:** Free / ~$19/mo Premium / ~$29/mo Team (annual) | **Website:** [Fathom.video](https://fathom.video)
 
 Fathom offers the most generous free tier — unlimited recordings and transcriptions for individuals.
 
@@ -224,7 +224,7 @@ Summaries appear within minutes of meeting end.
 
 ## tl;dv — Best for Sharing
 
-**Price:** Free (unlimited recordings, 10 AI notes) / ~$18/mo Pro (annual)
+**Price:** Free (unlimited recordings, 10 AI notes) / ~$18/mo Pro (annual) | **Website:** [tldv.io](https://tldv.io)
 
 tl;dv excels at creating shareable meeting clips and highlights.
 
@@ -264,7 +264,7 @@ Transcription in 30+ languages. Summaries can be translated.
 
 ## Tactiq — Best for Google Meet
 
-**Price:** Free (10 transcripts/mo) / $12/mo Pro
+**Price:** Free (10 transcripts/mo) / $12/mo Pro | **Website:** [Tactiq.io](https://tactiq.io)
 
 Tactiq is a Chrome extension focused on Google Meet users.
 

@@ -78,7 +78,7 @@ This is the first choice you'll face. Here's the simple answer: **buy mirrorless
 
 ### Why Mirrorless Wins in 2026
 
-- **It's the future.** Canon, Nikon, and Sony have all shifted R&D to mirrorless. New lenses and features come to mirrorless first.
+- **It's the future.** [Canon](https://canon.com), [Nikon](https://nikon.com), and [Sony](https://sony.com) have all shifted R&D to mirrorless. New lenses and features come to mirrorless first.
 - **Better autofocus.** Eye-tracking AF that follows subjects across the frame is standard on mirrorless, rare on DSLRs.
 - **Smaller and lighter.** No mirror box means more compact bodies.
 - **What you see is what you get.** The electronic viewfinder shows your actual exposure in real-time.
@@ -105,9 +105,9 @@ At this level, you're looking at entry-level mirrorless or used gear.
 
 | Camera | Price | Pros | Cons |
 |--------|-------|------|------|
-| **Canon EOS R100** | ~$480 | Compact, great colors, Canon ecosystem | No image stabilization, fixed screen |
+| **[Canon EOS R100](https://www.usa.canon.com/shop/p/eos-r100)** | ~$480 | Compact, great colors, Canon ecosystem | No image stabilization, fixed screen |
 | **Used Sony A6000** | ~$300-350 | Excellent AF, compact | Older (2014), no 4K |
-| **Used Nikon Z50** | ~$450-500 | Great image quality, tilting screen | Smaller lens selection |
+| **[Used Nikon Z50](https://www.nikonusa.com/en/nikon-products/product/mirrorless-cameras/z-50.html)** | ~$450-500 | Great image quality, tilting screen | Smaller lens selection |
 | **Used Fujifilm X-T200** | ~$400 | Beautiful colors, fun dials | Discontinued |
 
 **Our pick:** Canon EOS R100 for new gear, Used Sony A6000 for maximum value.
@@ -242,8 +242,8 @@ Some of the best camera deals are on the Japanese used market. Japanese sellers 
 
 You'll need a proxy service that buys on your behalf and ships internationally:
 
-- **Buyee** — Easiest to use, higher fees
-- **Sendico** — Lower fees, more manual
+- **[Buyee](https://buyee.jp)** — Easiest to use, higher fees
+- **[Sendico](https://sendico.com)** — Lower fees, more manual
 - **From Japan** — Good for high-value items
 
 **Recommended reading:**

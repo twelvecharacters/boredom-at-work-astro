@@ -31,6 +31,8 @@ The current Kindle lineup (2026):
 - **Kindle Paperwhite Signature Edition** — $200, wireless charging, auto-brightness, 32GB
 - **Kindle Scribe** — $499, 10.2" screen, stylus for notes
 
+**Website:** [Amazon Kindle](https://www.amazon.com/kindle-ereaders/)
+
 *Note: Kindle Oasis discontinued in 2025*
 
 ## The Case FOR Buying a Kindle
@@ -159,6 +161,7 @@ Not sure which e-reader brand to choose? Check out our detailed [Kindle vs Kobo 
 
 | Feature | Kindle Paperwhite | Kobo Clara 2E | Phone (Kindle App) |
 |---------|-------------------|---------------|-------------------|
+| Website | [Amazon](https://amazon.com/kindle) | [Kobo.com](https://www.kobo.com/) | [Kindle App](https://www.amazon.com/kindle-dbs/fd/kcp) |
 | Price | $160 | $140 | Free (you have one) |
 | Screen | 7" E Ink | 6" E Ink | Varies (LCD) |
 | Eye strain | Low | Low | Higher |

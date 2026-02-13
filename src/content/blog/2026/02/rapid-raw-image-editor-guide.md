@@ -23,7 +23,7 @@ isListicle: false
 
 For years, the world of RAW photo editing has been dominated by a few heavy hitters. Adobe Lightroom is the industry standard, but it comes with a recurring subscription. Open-source alternatives like Darktable and RawTherapee are powerful but often criticized for their steep learning curves and sometimes sluggish performance.
 
-Enter **RapidRAW**—a fresh, ambitious project that aims to bridge the gap between professional power and open-source accessibility. If you're just getting into photography, check out our [best cameras for beginners](/best-cameras-for-beginners/) guide first.
+Enter **RapidRAW**—a fresh, ambitious project that aims to bridge the gap between professional power and open-source accessibility. Visit the [official RapidRAW website](https://getrapidraw.com) to download it for your platform. If you're just getting into photography, check out our [best cameras for beginners](/best-cameras-for-beginners/) guide first.
 
 ---
 

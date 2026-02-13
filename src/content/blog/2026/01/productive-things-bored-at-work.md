@@ -32,9 +32,9 @@ The best part? You can become proficient in AI basics in just 10 hours of learni
 
 **Best courses to take at your desk:**
 
-- **[Google AI Essentials](/google-ai-essentials-review/)** (10 hours) - The gold standard for beginners. Covers everything from basic concepts to practical prompting. Free to audit, $49 for a certificate.
+- **[Google AI Essentials](/google-ai-essentials-review/)** (10 hours) - The gold standard for beginners. Covers everything from basic concepts to practical prompting. Free to audit via [Coursera](https://coursera.org), $49 for a certificate.
 - **Elements of AI** (25-50 hours, self-paced) - Created by the University of Helsinki, taken by over 1.8 million people. Completely free with certificate.
-- **OpenAI Academy** (varies) - Learn directly from the creators of ChatGPT. Free and constantly updated.
+- **[OpenAI Academy](https://openai.com/academy)** (varies) - Learn directly from the creators of ChatGPT. Free and constantly updated.
 
 These courses are designed to be taken in short bursts, look professional on your screen, and result in certificates you can add to LinkedIn.
 
@@ -206,7 +206,7 @@ Some learning platforms look more "work-appropriate" than others. These won't ra
 - Very corporate interface
 - Free certifications available
 
-**LinkedIn Learning**
+**[LinkedIn Learning](https://linkedin.com/learning)**
 - It's literally LinkedIn
 - Thousands of professional courses
 - Your company might already pay for it

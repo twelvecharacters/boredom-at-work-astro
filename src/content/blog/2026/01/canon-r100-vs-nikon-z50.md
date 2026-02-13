@@ -31,7 +31,7 @@ In this detailed comparison, I'll break down every important difference to help 
 
 ## Canon R100 vs Nikon Z50: Quick Specs Comparison
 
-| Feature | Canon EOS R100 | Nikon Z50 II |
+| Feature | [Canon EOS R100](https://www.usa.canon.com/shop/p/eos-r100) | [Nikon Z50 II](https://www.nikonusa.com/en/nikon-products/product/mirrorless-cameras/z-50.html) |
 |---------|----------------|--------------|
 | **Price (with kit lens)** | ~$480 | ~$960 |
 | **Sensor** | 24.1MP APS-C | 20.9MP APS-C |
@@ -48,7 +48,7 @@ In this detailed comparison, I'll break down every important difference to help 
 ## Price: Canon R100 Wins on Value
 
 **Canon EOS R100:** ~$480 with kit lens
-**Nikon Z50 II:** ~$960 with kit lens
+**[Nikon Z50 II](https://www.nikonusa.com/en/nikon-products/product/mirrorless-cameras/z-50.html):** ~$960 with kit lens
 
 The Canon R100 costs about half the price of the Nikon Z50 II. That's a significant $480 difference that could buy:
 - Two quality lenses

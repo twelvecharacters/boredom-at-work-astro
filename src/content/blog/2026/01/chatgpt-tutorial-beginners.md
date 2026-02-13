@@ -400,9 +400,9 @@ GPTs are specialized versions of ChatGPT built for specific tasks. Browse the GP
 ### Try Other AI Tools
 
 ChatGPT isn't the only option:
-- **Claude** - Anthropic's AI, known for nuanced writing and analysis
-- **Gemini** - Google's AI, integrated with Google services
-- **Copilot** - Microsoft's AI, built into Office products
+- **[Claude](https://claude.ai)** - Anthropic's AI, known for nuanced writing and analysis
+- **[Gemini](https://gemini.google.com)** - Google's AI, integrated with Google services
+- **[Copilot](https://microsoft.com/copilot)** - Microsoft's AI, built into Office products
 
 Each has strengths. For a detailed comparison, check out our [Claude vs ChatGPT guide](/claude-vs-chatgpt/).
 

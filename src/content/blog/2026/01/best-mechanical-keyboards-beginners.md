@@ -103,7 +103,7 @@ Mechanical keyboards come in different sizes. Smaller isn't always better — pi
 
 ## Best Mechanical Keyboards for Beginners (2026)
 
-### Best Overall: Keychron K8 Pro
+### Best Overall: [Keychron K8 Pro](https://keychron.com/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard)
 **Price:** $100-120
 
 The Keychron K8 Pro does everything well. TKL layout, hot-swappable switches (swap without soldering), wireless and wired modes, Mac and Windows compatible.
@@ -116,7 +116,7 @@ The Keychron K8 Pro does everything well. TKL layout, hot-swappable switches (sw
 
 **Best for:** Anyone who wants a great keyboard without overthinking it.
 
-### Best Budget: Royal Kludge RK87
+### Best Budget: [Royal Kludge RK87](https://rkgamingstore.com/products/rk87-80-wireless-mechanical-keyboard)
 **Price:** $45-55
 
 Shocking value for the price. Hot-swappable, wireless, RGB lighting, decent build quality.
@@ -128,7 +128,7 @@ Shocking value for the price. Hot-swappable, wireless, RGB lighting, decent buil
 
 **Best for:** Testing if you like mechanical keyboards without major investment.
 
-### Best for Gaming: SteelSeries Apex Pro TKL
+### Best for Gaming: [SteelSeries Apex Pro TKL](https://steelseries.com/gaming-keyboards/apex-pro-tkl)
 **Price:** $150-180
 
 Adjustable actuation point means you can customize how sensitive each key is. Fast linear switches for gaming.
@@ -140,7 +140,7 @@ Adjustable actuation point means you can customize how sensitive each key is. Fa
 
 **Best for:** Gamers who want every possible advantage.
 
-### Best for Typing/Office: Leopold FC750R
+### Best for Typing/Office: [Leopold FC750R](https://leopold.co.kr)
 **Price:** $100-130
 
 No RGB, no wireless, no frills. Just exceptional build quality and the best stock typing experience.
@@ -164,7 +164,7 @@ No RGB, no wireless, no frills. Just exceptional build quality and the best stoc
 
 **Best for:** People who want a premium compact keyboard.
 
-### Best Quiet: Logitech G515 Lightspeed TKL
+### Best Quiet: [Logitech G515 Rockspeed TKL](https://www.logitechg.com/en-us/products/gaming-keyboards/g515-low-profile-mechanical-gaming-keyboard.html)
 **Price:** $130-150
 
 Low-profile mechanical switches — shorter travel, quieter operation, more laptop-like feel.

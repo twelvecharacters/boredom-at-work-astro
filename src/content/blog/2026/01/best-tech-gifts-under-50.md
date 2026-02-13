@@ -23,16 +23,16 @@ These 25 picks are actually useful, well-reviewed, and won't embarrass you when 
 
 ## Audio & Entertainment
 
-### 1. Soundcore Life P3 Wireless Earbuds — $50
+### 1. [Soundcore Life P3](https://soundcore.com/products/life-p3) Wireless Earbuds — $50
 Noise cancellation, 35-hour battery with case, multiple sound modes. Best budget earbuds on the market. Period. (Looking for premium options? See our [AirPods vs Galaxy Buds vs Sony comparison](/airpods-vs-galaxy-buds-vs-sony/).)
 
-### 2. Amazon Echo Dot (5th Gen) — $35-50
+### 2. [Amazon Echo Dot](https://amazon.com/echodot) (5th Gen) — $35-50
 The entry point to smart homes. Great speaker for the size, Alexa built-in, works as a Bluetooth speaker too.
 
-### 3. Roku Express 4K — $35-40
+### 3. [Roku Express 4K](https://roku.com/products/players/roku-express-4k) — $35-40
 Turn any TV into a smart TV. 4K streaming, simple remote, all the apps. Better than cheap smart TVs' built-in software.
 
-### 4. SteelSeries Arctis Nova 1 Gaming Headset — $50
+### 4. [SteelSeries Arctis Nova 1](https://steelseries.com/gaming-headsets/arctis-nova-1) Gaming Headset — $50
 Comfortable gaming headset that doesn't look ridiculous. Great mic, good sound, works with everything.
 
 ### 5. Anker Soundcore Mini 3 Speaker — $30-35

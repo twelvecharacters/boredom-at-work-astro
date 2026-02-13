@@ -33,7 +33,7 @@ Here are the best sites to find them.
 
 ## The Big Three (Start Here)
 
-### 1. Printables (printables.com)
+### 1. [Printables](https://printables.com) (printables.com)
 
 **Best for:** High-quality, tested models with active community
 
@@ -59,7 +59,7 @@ Printables is run by Prusa (the printer manufacturer), and it shows. The site is
 
 ---
 
-### 2. Thingiverse (thingiverse.com)
+### 2. [Thingiverse](https://thingiverse.com) (thingiverse.com)
 
 **Best for:** Largest selection, classic designs
 
@@ -89,7 +89,7 @@ Thingiverse is the OG of 3D model sites. It's been around since 2008 and has ove
 
 ---
 
-### 3. Thangs (thangs.com)
+### 3. [Thangs](https://thangs.com) (thangs.com)
 
 **Best for:** Searching across ALL sites at once
 
@@ -120,7 +120,7 @@ Thangs is a search engine for 3D models. It indexes Thingiverse, Printables, MyM
 
 ## Specialty Sites
 
-### 4. MyMiniFactory (myminifactory.com)
+### 4. [MyMiniFactory](https://myminifactory.com) (myminifactory.com)
 
 **Best for:** Tabletop gaming, miniatures, high-quality designs
 
@@ -144,7 +144,7 @@ MyMiniFactory curates its collection—models must be tested before being approv
 
 ---
 
-### 5. Cults3D (cults3d.com)
+### 5. [Cults3D](https://cults3d.com) (cults3d.com)
 
 **Best for:** Artistic designs, unique creations, European designers
 
@@ -375,11 +375,11 @@ Graduate to:
 
 You don't need to design your own models to have fun with 3D printing. Millions of free designs are waiting:
 
-- **Printables** — Best quality, tested models
-- **Thingiverse** — Largest selection, hit or miss
-- **Thangs** — Search everything at once
-- **MyMiniFactory** — Miniatures and gaming
-- **Cults3D** — Artistic and unique
+- **[Printables](https://printables.com)** — Best quality, tested models
+- **[Thingiverse](https://thingiverse.com)** — Largest selection, hit or miss
+- **[Thangs](https://thangs.com)** — Search everything at once
+- **[MyMiniFactory](https://myminifactory.com)** — Miniatures and gaming
+- **[Cults3D](https://cults3d.com)** — Artistic and unique
 
 Start with Printables, use Thangs to search broadly, and always check the license before selling.
 

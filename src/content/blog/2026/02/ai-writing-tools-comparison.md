@@ -34,13 +34,13 @@ Understanding this helps you choose the right tool for your needs.
 
 | Tool | Best For | Price | Strength |
 |------|----------|-------|----------|
-| **Grammarly** | Editing everything | $12/mo | Works everywhere |
-| **Claude** | Long-form writing | $20/mo | Best quality |
-| **ChatGPT** | Quick generation | $20/mo | Most versatile |
-| **Jasper** | Marketing copy | $49/mo | Templates + brand voice |
-| **Copy.ai** | Short-form marketing | $49/mo | Fast iterations |
-| **ProWritingAid** | Deep editing | $10/mo | Detailed feedback |
-| **Hemingway** | Clarity | Free/$20 | Simplicity |
+| **[Grammarly](https://grammarly.com)** | Editing everything | $12/mo | Works everywhere |
+| **[Claude](https://claude.ai)** | Long-form writing | $20/mo | Best quality |
+| **[ChatGPT](https://chatgpt.com)** | Quick generation | $20/mo | Most versatile |
+| **[Jasper](https://jasper.ai)** | Marketing copy | $49/mo | Templates + brand voice |
+| **[Copy.ai](https://copy.ai)** | Short-form marketing | $49/mo | Fast iterations |
+| **[ProWritingAid](https://prowritingaid.com)** | Deep editing | $10/mo | Detailed feedback |
+| **[Hemingway](https://hemingwayapp.com)** | Clarity | Free/$20 | Simplicity |
 
 ---
 

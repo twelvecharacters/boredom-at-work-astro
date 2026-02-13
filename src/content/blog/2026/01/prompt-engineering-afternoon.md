@@ -428,6 +428,6 @@ By tonight, you'll be measurably better at getting value from AI. That's prompt 
 
 - [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything you need to know about ChatGPT
 - [How to Learn AI in 2026](/learn-ai-guide/) — Your complete AI learning roadmap
-- [ChatGPT Tutorial for Beginners](/chatgpt-tutorial-beginners/) — Start here if you're new
-- [ChatGPT Custom Instructions](/chatgpt-custom-instructions/) — Set up once, get better responses
-- [AI Skills That Will Get You Promoted](/ai-skills-for-promotion/) — Turn skills into career growth
+- **[OpenAI Academy](https://openai.com/academy)** — Start here if you're new
+- **[Coursera Prompt Engineering](https://coursera.org/specializations/prompt-engineering)** — Professional certification
+- **[DeepLearning.AI](https://deeplearning.ai)** — Technical deep dives
