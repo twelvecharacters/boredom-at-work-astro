@@ -23,13 +23,13 @@ isListicle: false
 
 In the age of cloud-based AI, the idea of a truly *personal* assistant often feels like a compromise between convenience and privacy. Every prompt you send to a major AI service is processed on their servers, stored in their databases, and used to train their models.
 
-Enter **ClawDBot** (now known as **OpenClaw**, briefly called Moltbot)—a paradigm shift in how we interact with artificial intelligence.
+Enter **ClawDBot** (now known as **[OpenClaw](https://github.com/openclaw/openclaw)**, briefly called Moltbot)—a paradigm shift in how we interact with artificial intelligence.
 
-OpenClaw isn't just another chatbot; it's a self-hosted, open-source platform designed to act as a digital employee that lives on your own devices. If you're already using cloud-based assistants like [ChatGPT](/chatgpt-tutorial-beginners/) or [Claude](/claude-vs-chatgpt/), OpenClaw offers a fundamentally different approach.
+OpenClaw isn't just another chatbot; it's a self-hosted, open-source platform designed to act as a digital employee that lives on your own devices. If you're already using cloud-based assistants like [ChatGPT](/chatgpt-tutorial-beginners/) or [Claude](/claude-vs-chatgpt/), [OpenClaw](https://github.com/openclaw/openclaw) offers a fundamentally different approach.
 
 ---
 
-## What is OpenClaw?
+## What is [OpenClaw](https://github.com/openclaw/openclaw)?
 
 OpenClaw is a personal AI assistant platform that focuses on **local execution** and **persistent memory**. Unlike ChatGPT or Claude, which exist in the cloud, OpenClaw is designed to be installed on your own server (or even a powerful home computer) and accessed through the messaging apps you already use every day.
 
@@ -44,7 +44,7 @@ Its architecture is built around two main components:
 Most AI assistants are "passengers" in your browser. OpenClaw is a "resident" in your infrastructure. This brings three massive advantages:
 
 ### 1. True Privacy
-Your data stays on your hardware. If you ask your assistant to summarize a sensitive work email or manage your private calendar, that information isn't being uploaded to a third-party cloud. Note that OpenClaw still requires an LLM API key (Anthropic or OpenAI) for its AI "brain" — those prompts do leave your machine. For fully local operation, you can use [Ollama](https://ollama.com/) with a local model instead.
+Your data stays on your hardware. If you ask your assistant to summarize a sensitive work email or manage your private calendar, that information isn't being uploaded to a third-party cloud. Note that OpenClaw still requires an LLM API key (Anthropic or OpenAI) for its AI "brain" — those prompts do leave your machine. For fully local operation, you can use **[Ollama](https://ollama.com/)** with a local model instead.
 
 ### 2. Infinite Memory
 OpenClaw is designed with long-term memory in mind. It doesn't just forget the conversation after you close the tab. It builds a database of your preferences, past projects, and specific instructions, becoming more useful the longer you use it.

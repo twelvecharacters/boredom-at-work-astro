@@ -36,7 +36,7 @@ In this guide, we’re going to break down the best CAD software for 3D printing
 
 ---
 
-## 1. [Tinkercad](https://tinkercad.com): The "Gateway Drug" to Design
+## 1. [Tinkercad](https://tinkercad.com) (tinkercad.com): The "Gateway Drug" to Design
 
 If the thought of "engineering software" makes you sweat, start here. Tinkercad is owned by Autodesk (the same people who make Fusion 360), but it looks like a video game.
 
@@ -57,7 +57,7 @@ It runs entirely in your browser. No installation needed. You can log in, mess a
 
 ---
 
-## 2. [Fusion 360](https://autodesk.com/products/fusion-360): The Gold Standard
+## 2. [Fusion 360](https://www.autodesk.com/products/fusion-360) (autodesk.com): The Gold Standard
 
 If you find yourself watching 3D printing YouTube, you've seen Fusion 360. It is a "Parametric" modeler, which is a fancy way of saying everything is based on measurements and history.
 
@@ -79,7 +79,7 @@ Fusion 360 is a professional-grade skill. Learning this isn't just a hobby; it�
 
 ---
 
-## 3. [Onshape](https://onshape.com): The "Work-Friendly" Powerhouse
+## 3. [Onshape](https://onshape.com) (onshape.com): The "Work-Friendly" Powerhouse
 
 Onshape was started by the same people who created SolidWorks (the industry standard for mechanical engineers). It is essentially Fusion 360, but it lives entirely in the cloud.
 
@@ -100,7 +100,7 @@ The free version of Onshape requires all your designs to be "Public." This means
 
 ---
 
-## 4. [Blender](https://blender.org): For the Artists
+## 4. [Blender](https://blender.org) (blender.org): For the Artists
 
 All the software we’ve mentioned so far is "Mechanical CAD." Blender is "Mesh Modeling."
 
@@ -115,6 +115,22 @@ Think of Mechanical CAD like building with wood and screws. Think of Blender lik
 - The interface is notoriously intimidating
 - Not great for "dimensionally accurate" engineering parts
 - Very high learning curve
+
+---
+
+## 5. [FreeCAD](https://www.freecad.org) (freecad.org): The Open Source Engineering Alternative
+
+All the software we’ve mentioned so far is either cloud-based or artistic. FreeCAD is the heavy hitter for those who want a professional, parametric mechanical CAD tool that is 100% free and open-source.
+
+**Pros:**
+- Completely free and open-source forever
+- Professional-grade parametric features
+- Privacy-focused (all data stays local)
+
+**Cons:**
+- Interface can be clunky compared to Fusion 360
+- Learning curve is quite steep
+- Slower development cycle
 
 ---
 

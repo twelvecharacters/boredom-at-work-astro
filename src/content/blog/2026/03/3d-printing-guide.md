@@ -207,7 +207,7 @@ Your slicer converts 3D models into printer instructions. The most popular:
 | **Bambu Studio** | Bambu Lab printers | Free |
 | **OrcaSlicer** | Power users | Free |
 
-If you have a Bambu printer, use Bambu Studio. Everyone else: start with Cura.
+If you have a Bambu printer, use Bambu Studio. Everyone else: start with Cura. For those looking for more advanced calibration tools, check out our **[OrcaSlicer Guide](/orcaslicer-guide/)**.
 
 **Deep dive:** [Cura Settings for Beginners: The Only Guide You Need](/cura-settings-beginners/)
 

@@ -174,7 +174,7 @@ Cults has a more curated, artistic vibe. Lots of interesting designs you won't f
 
 ---
 
-### 7. Yeggi (yeggi.com)
+### 7. [Yeggi](https://www.yeggi.com) (yeggi.com)
 
 **Best for:** Search engine for 3D models
 
@@ -196,7 +196,7 @@ Like Thangs but older and simpler. Searches across 40+ sites.
 
 ## Niche & Specialized Sites
 
-### 8. NASA 3D Resources (nasa.gov/resources/3d-models)
+### 8. [NASA 3D Resources](https://www.nasa.gov/resources/3d-models) (nasa.gov)
 
 **Best for:** Space stuff (obviously)
 
@@ -214,7 +214,7 @@ NASA releases 3D models of spacecraft, satellites, asteroids, and more. Perfect 
 
 ---
 
-### 9. NIH 3D Print Exchange (3dprint.nih.gov)
+### 9. [NIH 3D Print Exchange](https://3dprint.nih.gov) (nih.gov)
 
 **Best for:** Medical and scientific models
 
@@ -232,7 +232,7 @@ The National Institutes of Health hosts 3D models for medical and scientific edu
 
 ---
 
-### 10. GrabCAD (grabcad.com)
+### 10. [GrabCAD](https://grabcad.com) (grabcad.com)
 
 **Best for:** Engineering and mechanical parts
 
@@ -250,7 +250,7 @@ GrabCAD is aimed at engineers and designers. Models are often CAD files (STEP, I
 
 ---
 
-### 11. Pinshape (pinshape.com)
+### 11. [Pinshape](https://pinshape.com) (pinshape.com)
 
 **Best for:** Curated quality designs
 
@@ -268,7 +268,7 @@ Smaller but quality-focused. Good mix of free and premium.
 
 ---
 
-### 12. Free3D (free3d.com)
+### 12. [Free3D](https://free3d.com) (free3d.com)
 
 **Best for:** Models for rendering (not all are printable)
 
