@@ -4,7 +4,73 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 12. Februar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 14. Februar 2026)
+
+### Sitzung (14. Februar 2026)
+
+**✅ Post-Publish Check: AI Meeting Assistants**
+
+| Check | Status |
+|-------|--------|
+| Deployment (Cron 05:38 UTC) | ✅ |
+| Artikel online `/ai-meeting-assistants/` | ✅ Live |
+| Title (56 Zeichen) | ✅ |
+| Description (134 Zeichen) | ✅ |
+| WebP-Bild (84 KB) | ✅ |
+| Tags (5) | ✅ |
+| FAQ (3) | ✅ |
+| llms.txt + llms-full.txt | ✅ |
+
+**✅ Fact-Check: Pearcleaner Homebrew Guide — 5 Fixes**
+
+| # | Problem | Fix |
+|---|---------|-----|
+| 1 | Tag `"Open Source"` | → `"Source-Available"` (Apache 2.0 + Commons Clause) |
+| 2 | "Translucent Themes: Match Liquid Glass" | → Native System Appearance |
+| 3 | "M1/M2/M3" | → M1/M2/M3/M4 |
+| 4 | Sentinel "less than 5MB of RAM" | → "about 2MB" |
+| 5 | "installation files" | → "pre-compiled binary packages" |
+
+**Commit:** `59f1cd1 fix: fact-check corrections for Pearcleaner article (5 fixes)`
+
+**✅ SEO-Fixes: Pearcleaner — 6 Fixes**
+
+| # | Fix | Details |
+|---|-----|---------|
+| 1 | Description | 161 → **154 Zeichen** |
+| 2 | Body-FAQs → Frontmatter | 3 → **6 FAQs** mit Schema.org |
+| 3 | Interne Links | 1 → **3** (+Best Free macOS Apps, ClawDBot) |
+| 4 | llms.txt | ✅ Nachgetragen |
+| 5 | llms-full.txt | ✅ Nachgetragen |
+| 6 | macOS Tahoe Link-Text | "open-source" → "source-available" |
+
+**Commit:** `864ac93 fix: SEO fixes for Pearcleaner article (description, FAQs, links, llms.txt)`
+
+**✅ Pearcleaner Artikel erweitert**
+
+| Vorher | Nachher | Neue Sections |
+|--------|---------|---------------|
+| 941 Wörter | **1.394 Wörter** (+48%) | Pearcleaner vs AppCleaner (Vergleichstabelle), Visual Cask Overview, First-Run Setup (4 Schritte), What Pearcleaner Can't Do (Limitationen) |
+
+- Incoming Link von `best-free-macos-software.md` → Pearcleaner als "Power user upgrade" unter AppCleaner
+
+**Commit:** `5458653 fix: expand Pearcleaner article (+450 words) and add incoming link from macOS apps`
+
+**✅ OpenAI DALL-E MCP Server eingerichtet**
+
+| Detail | Wert |
+|--------|------|
+| MCP Server Name | `dalle` |
+| Paket | `@robinson_ai_systems/openai-mcp` |
+| Transport | stdio |
+| Status | ✓ Connected |
+| Config | `~/.claude.json` (lokal) |
+
+**Befehl:** `claude mcp add --transport stdio dalle --env OPENAI_API_KEY=... -- npx -y @robinson_ai_systems/openai-mcp`
+
+**Hinweis:** MCP Tools werden erst beim Start einer neuen Session geladen.
+
+---
 
 ### Sitzung (12. Februar 2026)
 
