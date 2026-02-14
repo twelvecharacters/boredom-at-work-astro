@@ -80,6 +80,19 @@
 | r/smartglasses | ✅ Gepostet |
 | r/gadgets | ✅ Gepostet |
 
+**✅ Fact-Check: 6 Artikel KW 8 (16.–21. Feb) — 21 Fixes**
+
+| Artikel | Publish | Fixes | Highlights |
+|---------|---------|-------|------------|
+| `ai-presentation-makers.md` | 16. Feb | 7 | **Tome eingestellt** → Plus AI, Gamma Credits 40→10, Canva $13→$15, Copilot Pricing, Google AI Pro, Slidebean, Beautiful.ai |
+| `notion-ai-vs-obsidian-ai.md` | 17. Feb | 5 | Obsidian Commercial License kostenlos (seit Feb 2025), Notion nutzt OpenAI+Anthropic, Modellwahl möglich, ollama.com |
+| `kindle-modding-guide.md` | 18. Feb | 1 | Scribe von WinterBreak UND AdBreak ausgeschlossen |
+| `pla-vs-petg-vs-abs.md` | 19. Feb | 4 | ABS UV-Claim falsch (PETG besser!), Strongest→Toughest, Moisture-Levels, Trocknungstemps pro Material |
+| `how-to-use-ai-at-work-safely.md` | 20. Feb | 1 | "Claude for Business" → "Claude Team/Enterprise" |
+| `cura-settings-beginners.md` | 21. Feb | 1 | "Ultimaker" → "UltiMaker", Wall Line Count |
+
+**Commit:** `20e2bbe fix: fact-check corrections across 6 articles (21 fixes)`
+
 ---
 
 ### Sitzung (12. Februar 2026)
