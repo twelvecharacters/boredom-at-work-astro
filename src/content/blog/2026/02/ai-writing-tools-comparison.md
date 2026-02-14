@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/ai-writing-tools-comparison.webp"
 tags: ["AI", "Writing", "Grammarly", "Productivity", "Comparison"]
 draft: false
+isListicle: true
 faq:
   - question: "Is Grammarly better than ChatGPT for writing?"
     answer: "They serve different purposes. Grammarly excels at fixing existing text (grammar, tone, clarity). ChatGPT/Claude are better at generating new content from scratch. Many writers use both together."

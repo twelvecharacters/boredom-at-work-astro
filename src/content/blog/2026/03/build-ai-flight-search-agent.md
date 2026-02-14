@@ -6,6 +6,17 @@ author: "bored chap"
 image: "/images/ai-flight-search-agent.webp"
 tags: ["AI", "Travel", "Agents", "Automation", "Tutorial"]
 draft: false
+howTo:
+  totalTime: "PT30M"
+  steps:
+    - name: "Start with no-code flight search"
+      text: "Use ChatGPT with web search or Google Flights to manually compare routes and find the best deals."
+    - name: "Set up automated price alerts"
+      text: "Configure Google Flights alerts or Skyscanner price tracking to get notified when prices drop for your routes."
+    - name: "Build a low-code automation"
+      text: "Use Zapier or Make.com to create a workflow that checks flight prices on a schedule and sends you notifications."
+    - name: "Upgrade to a Python-based agent"
+      text: "For full control, build a Python script using the Amadeus or Kiwi.com API to search, compare, and filter flights automatically."
 faq:
   - question: "What is an AI flight search agent?"
     answer: "An AI agent that automatically searches multiple flight sources, compares prices, considers your preferences, and finds the best routes—like having a personal travel assistant working 24/7."

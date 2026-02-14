@@ -7,6 +7,7 @@ author: "bored chap"
 tags: ["AI Certification", "Career Development", "Quick Learning"]
 image: "/images/ai-certifications.jpg"
 draft: false
+isListicle: true
 ---
 
 AI certifications don't have to take months. The best ones—from Google, Microsoft, IBM, and other respected providers—can be completed in days.

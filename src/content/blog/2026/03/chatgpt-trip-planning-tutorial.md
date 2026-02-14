@@ -7,6 +7,19 @@ author: "bored chap"
 image: "/images/chatgpt-trip-planning-tutorial.webp"
 tags: ["AI", "Travel", "ChatGPT", "Tutorial", "Beginners"]
 draft: false
+howTo:
+  totalTime: "PT45M"
+  steps:
+    - name: "Write the opening prompt with trip details"
+      text: "Tell ChatGPT your destination, dates, budget, travel style, and any dietary or accessibility needs."
+    - name: "Push back and refine the initial suggestions"
+      text: "Ask follow-up questions to improve the itinerary — remove tourist traps, add local favorites, adjust pacing."
+    - name: "Build the day-by-day plan"
+      text: "Have ChatGPT create a detailed daily schedule with times, locations, and travel between stops."
+    - name: "Run the verification checklist"
+      text: "Cross-check opening hours, prices, distances, and seasonal closures using Google Maps and official websites."
+    - name: "Add logistics and special needs"
+      text: "Ask ChatGPT to add transportation, restaurant reservations, dietary requirements, and a pre-trip packing checklist."
 faq:
   - question: "Can AI really plan a good trip?"
     answer: "Yes, AI can create solid travel itineraries, but you should always verify details like opening hours, prices, and distances. Studies show 90% of AI itineraries contain at least one error—verification is essential."

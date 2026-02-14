@@ -8,6 +8,10 @@ author: "bored chap"
 image: "/images/ai-tools-guide.webp"
 tags: ["AI", "Productivity", "Tools", "ChatGPT", "Claude", "Gemini", "Hub Page"]
 draft: false
+video:
+  youtubeId: "IoGF-x_prXQ"
+  title: "Best AI Tools for Work in 2026"
+  description: "Complete guide to the best AI tools for productivity in 2026. From ChatGPT to Claude to specialized assistants for every workflow."
 faq:
   - question: "What are the best AI tools for productivity in 2026?"
     answer: "The top 5 AI tools for work productivity are: ChatGPT (best all-rounder), Claude (best for writing and analysis), Perplexity (best for research), Otter.ai (best for meetings), and Grammarly (best for editing). Most professionals use 2-3 tools for different tasks rather than relying on just one."

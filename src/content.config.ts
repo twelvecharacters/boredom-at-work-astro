@@ -13,6 +13,23 @@ const reviewSchema = z.object({
   priceRange: z.string().optional(), // e.g. "$200-$300"
 });
 
+const videoSchema = z.object({
+  youtubeId: z.string(),
+  title: z.string(),
+  description: z.string(),
+  duration: z.string().optional(), // ISO 8601, e.g. "PT1M"
+});
+
+const howToStepSchema = z.object({
+  name: z.string(),
+  text: z.string(),
+});
+
+const howToSchema = z.object({
+  totalTime: z.string().optional(), // ISO 8601, e.g. "PT30M"
+  steps: z.array(howToStepSchema).min(2),
+});
+
 const blog = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/blog' }),
   schema: z.object({
@@ -29,6 +46,8 @@ const blog = defineCollection({
     tldr: z.string().optional(), // TL;DR summary for quick reading
     review: reviewSchema.optional(), // Product review data for Schema.org
     isListicle: z.boolean().default(false), // Enable ItemList Schema for listicles
+    video: videoSchema.optional(), // YouTube video for VideoObject schema
+    howTo: howToSchema.optional(), // HowTo schema for tutorial articles
     slug: z.string().optional(), // URL slug, overrides file path
   }),
 });

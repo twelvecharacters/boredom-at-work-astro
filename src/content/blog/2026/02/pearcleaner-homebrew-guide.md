@@ -7,6 +7,17 @@ author: "bored chap"
 image: "/images/pearcleaner.webp"
 tags: ["Tech & Gadgets", "macOS", "Pearcleaner", "Homebrew", "Source-Available"]
 draft: false
+howTo:
+  totalTime: "PT10M"
+  steps:
+    - name: "Install Pearcleaner via Homebrew"
+      text: "Run 'brew install --cask pearcleaner' in Terminal to install Pearcleaner on your Mac."
+    - name: "Grant required permissions"
+      text: "Open Pearcleaner and grant Full Disk Access in System Settings > Privacy & Security when prompted."
+    - name: "Adopt existing apps into Homebrew"
+      text: "Use the Homebrew tab to adopt apps you installed manually so they can be managed and updated through Homebrew."
+    - name: "Enable the Sentinel monitor"
+      text: "Turn on Sentinel in Pearcleaner preferences to automatically detect and clean leftover files when you trash an app."
 faq:
   - question: "How is Pearcleaner different from AppCleaner?"
     answer: "While AppCleaner is great for basic uninstallation, Pearcleaner is source-available (Apache 2.0 + Commons Clause) and features deep Homebrew integration, allowing you to adopt and manage command-line apps alongside GUI ones."

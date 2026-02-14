@@ -8,6 +8,11 @@ author: "bored chap"
 image: "/images/claude-ai-review.webp"
 tags: ["Claude", "AI", "Review", "Anthropic", "ChatGPT"]
 draft: false
+review:
+  rating: 4.5
+  productName: "Claude AI"
+  productBrand: "Anthropic"
+  priceRange: "Free–$20/month"
 faq:
   - question: "Is Claude better than ChatGPT?"
     answer: "For writing and long-form analysis, yes. Claude produces more natural, nuanced text and handles longer documents better. For general tasks, image generation, and ecosystem integrations, ChatGPT wins. Most power users have both."

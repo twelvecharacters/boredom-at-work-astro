@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/photography-mistakes.webp"
 tags: ["Photography", "Beginners", "Tips", "Mistakes", "Tutorial"]
 draft: false
+isListicle: true
 faq:
   - question: "Why are my photos always blurry?"
     answer: "Blurry photos are usually caused by: shutter speed too slow (use 1/125s or faster for handheld), camera shake (brace yourself or use a tripod), or missed focus (ensure AF is on the right subject). Increase ISO if needed to get faster shutter speeds."

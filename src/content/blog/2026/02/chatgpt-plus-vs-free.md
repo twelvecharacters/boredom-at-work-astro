@@ -6,6 +6,10 @@ author: "bored chap"
 image: "/images/chatgpt-plus-vs-free.webp"
 tags: ["AI", "ChatGPT", "Productivity", "Comparison"]
 draft: false
+video:
+  youtubeId: "b6o1JZjI7dU"
+  title: "ChatGPT Plus vs Free: Is $20/Month Actually Worth It?"
+  description: "Honest comparison of ChatGPT Plus vs Free in 2026. What you get with the paid plan, what you miss on free, and whether the upgrade is worth it."
 tldr: "ChatGPT Plus ($20/month) gives you GPT-5.2 access, image generation with DALL-E, video with Sora, and priority speed. Free users get limited GPT-5.2 and GPT-4o access. Worth it if you use ChatGPT daily for work — skip it for casual use."
 faq:
   - question: "Is ChatGPT Plus worth $20 a month?"

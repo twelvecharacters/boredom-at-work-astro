@@ -7,6 +7,18 @@ author: "bored chap"
 image: "/images/selling-3d-prints-online.webp"
 tags: ["3D Printing", "Side Hustle", "Business", "Etsy", "Selling"]
 draft: false
+howTo:
+  steps:
+    - name: "Choose your business model"
+      text: "Decide between selling physical prints (higher margins, more work) or digital STL files (passive income, lower per-sale revenue)."
+    - name: "Find your niche"
+      text: "Pick a specific category like desk organizers, cosplay props, or replacement parts. Specialization beats being a generalist."
+    - name: "Calculate your costs and pricing"
+      text: "Factor in filament cost, electricity, print time, shipping, and platform fees. Aim for 50-70% margins on functional items."
+    - name: "Set up your first storefront"
+      text: "Start on Etsy for physical prints or Cults3D for digital files. Create listings with good photos and SEO-friendly descriptions."
+    - name: "Scale up when orders are consistent"
+      text: "Add a second printer, expand to more platforms, or start your own Shopify store to reduce platform fees."
 faq:
   - question: "How much money can you make selling 3D prints?"
     answer: "Most side hustlers make $500-$2,000/month selling 3D prints. Your profit depends on print speed, material costs, and pricing strategy. Functional items and custom work typically yield 50-70% margins, while decorative pieces compete more on price. Top sellers on Etsy report $5,000+ monthly, but that requires treating it as a real business."

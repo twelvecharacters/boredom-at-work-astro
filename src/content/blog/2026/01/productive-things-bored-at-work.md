@@ -7,6 +7,7 @@ author: "bored chap"
 tags: ["Productivity", "Career Growth", "Work Tips"]
 image: "/images/productive-work.jpg"
 draft: false
+isListicle: true
 ---
 
 We've all been there. The afternoon slump hits, your to-do list is clear, or you're stuck waiting for someone else before you can move forward. Instead of mindlessly scrolling through social media or watching the clock, why not turn that downtime into something valuable?

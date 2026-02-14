@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/free-macos-software.webp"
 tags: ["Tech & Gadgets", "macOS", "Apps", "Free Software", "Homebrew", "Productivity"]
 draft: false
+isListicle: true
 faq:
   - question: "Is Homebrew safe to use?"
     answer: "Yes, Homebrew is an open-source tool used by millions of developers and regular users. It installs software in its own prefix and doesn't require root permissions for most operations."

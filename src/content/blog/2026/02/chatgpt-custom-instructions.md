@@ -6,6 +6,19 @@ author: "bored chap"
 image: "/images/chatgpt-custom-instructions.webp"
 tags: ["AI", "ChatGPT", "Productivity", "Tutorial"]
 draft: false
+howTo:
+  totalTime: "PT15M"
+  steps:
+    - name: "Open Custom Instructions settings"
+      text: "Go to ChatGPT Settings, then select Personalization and Custom Instructions."
+    - name: "Choose a personality preset"
+      text: "Select a personality preset that matches your preferred tone — this sets the overall style of responses."
+    - name: "Fill in what ChatGPT should know about you"
+      text: "Describe your role, expertise level, and key context like industry or common tasks."
+    - name: "Define how you want responses formatted"
+      text: "Specify preferred response length, format, tone, and any restrictions like avoiding jargon or including examples."
+    - name: "Test and iterate"
+      text: "Start a new conversation and check if responses match your expectations. Adjust the instructions until they feel right."
 tldr: "Custom Instructions tell ChatGPT who you are and how you want responses. Set them once, benefit forever. Choose a personality preset for the overall tone, then add custom instructions for specifics. Copy our templates to get started instantly."
 faq:
   - question: "What are ChatGPT custom instructions?"

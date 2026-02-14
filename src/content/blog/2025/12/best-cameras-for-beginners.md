@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/best-cameras-beginners.jpg"
 tags: ["Photography", "Cameras", "Beginners", "Buying Guide"]
 draft: false
+isListicle: true
 faq:
   - question: "What is the best camera for a complete beginner?"
     answer: "The Canon EOS R50 is the best overall camera for beginners in 2026. It offers excellent autofocus, intuitive controls, and great image quality at around $680 with kit lens. For tighter budgets, the Canon EOS R100 at $480 is excellent."

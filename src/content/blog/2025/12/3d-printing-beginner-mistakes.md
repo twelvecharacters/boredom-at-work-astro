@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/3d-printing-mistakes.jpg"
 tags: ["3D Printing", "Beginners", "Tips", "Troubleshooting", "Mistakes"]
 draft: false
+isListicle: true
 faq:
   - question: "Why won't my 3D print stick to the bed?"
     answer: "The most common causes are: print bed not clean (clean with IPA), nozzle-bed distance too large (check leveling), bed temperature too low (PLA: 50-60°C), or wrong bed material. Always watch the first layer!"

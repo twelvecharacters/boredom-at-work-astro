@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/ai-meeting-assistants.webp"
 tags: ["AI", "Meetings", "Productivity", "Otter.ai", "Comparison"]
 draft: false
+isListicle: true
 faq:
   - question: "Are AI meeting assistants safe for confidential meetings?"
     answer: "Most cloud-based tools (Otter, Fireflies) process audio on their servers. For sensitive meetings, consider Granola (no bot joins your call and audio is not stored) or disable the assistant entirely. Always check your company's policy on recording meetings."

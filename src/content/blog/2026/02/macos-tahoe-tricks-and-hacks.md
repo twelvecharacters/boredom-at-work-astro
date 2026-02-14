@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/macos-tahoe.webp"
 tags: ["Tech & Gadgets", "macOS", "Apple", "Tahoe", "Productivity"]
 draft: false
+isListicle: true
 faq:
   - question: "What is Liquid Glass in macOS Tahoe?"
     answer: "Liquid Glass is the new design language in macOS 26, featuring translucent materials, dynamic reflections, and a depth-heavy interface inspired by visionOS."

@@ -6,6 +6,7 @@ author: "bored chap"
 image: "/images/ai-presentation-makers.webp"
 tags: ["AI", "Productivity", "Presentations", "Comparison"]
 draft: false
+isListicle: true
 tldr: "Gamma is the best overall AI presentation maker — fast, beautiful results, generous free tier. Beautiful.ai is best for teams needing brand consistency. Canva AI offers the most design flexibility. PowerPoint + Copilot wins if you're already in Microsoft 365. All beat starting from scratch."
 faq:
   - question: "What is the best AI presentation maker?"

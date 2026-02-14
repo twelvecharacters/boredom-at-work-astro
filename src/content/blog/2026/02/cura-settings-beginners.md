@@ -7,6 +7,19 @@ author: "bored chap"
 image: "/images/cura-settings-beginners.webp"
 tags: ["3D Printing", "Cura", "Slicer", "Tutorial", "Settings"]
 draft: false
+howTo:
+  totalTime: "PT20M"
+  steps:
+    - name: "Download and set up Cura"
+      text: "Download UltiMaker Cura, select your printer model during setup, and load the default profile for your printer."
+    - name: "Set layer height and wall count"
+      text: "Set layer height to 0.2mm for a good quality-speed balance. Set wall line count to 3 for strong prints."
+    - name: "Configure temperature and infill"
+      text: "Set print temperature to 200-210C and bed temperature to 60C for PLA. Set infill to 20% for most prints."
+    - name: "Adjust speed and enable retraction"
+      text: "Set print speed to 50mm/s and first layer speed to 25mm/s. Enable retraction to prevent stringing between parts."
+    - name: "Save your profile"
+      text: "Once you have settings that work, save them as a custom profile so you can reuse them for future prints."
 faq:
   - question: "What is the best layer height for beginners?"
     answer: "0.2mm is the sweet spot for beginners. It balances print quality with reasonable print times. Use 0.12mm for detailed models and 0.28mm for quick drafts."

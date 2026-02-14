@@ -7,6 +7,11 @@ author: "bored chap"
 image: "/images/claude-dubai-trip.webp"
 tags: ["AI", "Travel", "Dubai", "Claude", "Trip Planning"]
 draft: false
+video:
+  youtubeId: "npcqic4geOA"
+  title: "Dubai Fountain Show — Filmed Hands-Free with Ray-Ban Meta"
+  description: "The Dubai Fountain show at Burj Khalifa filmed entirely hands-free with Ray-Ban Meta smart glasses. No phone, no gimbal, just tap and record."
+  duration: "PT1M"
 faq:
   - question: "Can AI plan a luxury Dubai trip on a budget?"
     answer: "Yes. We asked Claude to plan 3 days in Dubai. Our business partners covered the hotel and helicopter tour, so our out-of-pocket costs were just $80-120/day per person for food, Uber, and activities. Claude suggested Uber over taxis (luxury cars like Lexus and Audi A8 are standard) and prioritized free attractions like the Dubai Mall."

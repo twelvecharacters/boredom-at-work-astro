@@ -7,6 +7,11 @@ author: "bored chap"
 image: "/images/ray-ban-meta-review.webp"
 tags: ["Tech & Gadgets", "Smart Glasses", "Meta", "Ray-Ban", "Review"]
 draft: false
+video:
+  youtubeId: "npcqic4geOA"
+  title: "Dubai Fountain Show — Filmed Hands-Free with Ray-Ban Meta"
+  description: "The Dubai Fountain show at Burj Khalifa filmed entirely hands-free with Ray-Ban Meta smart glasses during our Dubai trip."
+  duration: "PT1M"
 tldr: "Fantastic camera quality, great open-ear audio for calls and podcasts, and they look like regular Ray-Bans. Battery lasts 3-4 hours with heavy camera use. I wouldn't buy them myself, but as a gift? I'm using them daily."
 review:
   rating: 4

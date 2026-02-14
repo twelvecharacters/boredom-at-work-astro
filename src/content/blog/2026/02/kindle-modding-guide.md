@@ -7,6 +7,19 @@ author: "bored chap"
 image: "/images/kindle-modding-guide.webp"
 tags: ["Tech & Gadgets", "Kindle", "Modding", "Jailbreak", "E-Reader"]
 draft: false
+howTo:
+  totalTime: "PT60M"
+  steps:
+    - name: "Check if your Kindle model is compatible"
+      text: "Verify your Kindle model and firmware version against the compatibility list on the MobileRead Wiki. Not all models can be jailbroken."
+    - name: "Jailbreak your Kindle"
+      text: "Follow the appropriate jailbreak method for your firmware version — WinterBreak for newer models. Always back up your Kindle first."
+    - name: "Install KUAL and MR Package Installer"
+      text: "Install KUAL (Kindle Unified Application Launcher) and MRPI to manage additional mods and extensions."
+    - name: "Install KOReader"
+      text: "Install KOReader for superior EPUB, PDF, and DJVU support with advanced typography and reading options."
+    - name: "Try safe mods that need no jailbreak"
+      text: "Explore custom screensavers, fonts via Kindle settings, and Send to Kindle for sideloading EPUBs — no jailbreak required."
 faq:
   - question: "Will jailbreaking my Kindle void the warranty?"
     answer: "Technically, yes. Modifying your device's software is against Amazon's terms. However, it's often possible to revert to factory settings if needed, and hardware failures are rarely linked to software mods."

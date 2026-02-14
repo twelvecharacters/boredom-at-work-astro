@@ -6,6 +6,11 @@ author: "bored chap"
 image: "/images/google-gemini-review.webp"
 tags: ["AI", "Google Gemini", "Productivity", "Review"]
 draft: false
+review:
+  rating: 4
+  productName: "Google Gemini"
+  productBrand: "Google"
+  priceRange: "Free–$20/month"
 tldr: "Gemini excels at real-time info, Google Workspace integration, and multimodal tasks. Falls short on creative writing and complex reasoning. Free tier is generous. Worth trying alongside ChatGPT, not as a replacement."
 faq:
   - question: "Is Google Gemini better than ChatGPT?"

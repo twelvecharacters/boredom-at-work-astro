@@ -7,6 +7,7 @@ author: "bored chap"
 tags: ["Coursera", "AI Courses", "Online Learning"]
 image: "/images/coursera-courses.jpg"
 draft: false
+isListicle: true
 ---
 
 Coursera has over 500 AI-related courses. Machine learning fundamentals, generative AI applications, prompt engineering, AI for business—the options are overwhelming.

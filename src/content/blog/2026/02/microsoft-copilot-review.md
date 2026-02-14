@@ -7,6 +7,11 @@ author: "bored chap"
 image: "/images/microsoft-copilot-review.webp"
 tags: ["AI", "Microsoft", "Copilot", "Productivity", "Review"]
 draft: false
+review:
+  rating: 3.5
+  productName: "Microsoft 365 Copilot"
+  productBrand: "Microsoft"
+  priceRange: "$21–$30/month"
 faq:
   - question: "How much does Microsoft Copilot cost?"
     answer: "For businesses, the Microsoft 365 Copilot add-on costs $21/user/month (Business) or $30/user/month (Enterprise), on top of a Microsoft 365 subscription (~$6-22/user/month). For individuals, Copilot is included in Microsoft 365 Personal ($9.99/mo) and Family ($12.99/mo). Note: business base prices are increasing July 2026."

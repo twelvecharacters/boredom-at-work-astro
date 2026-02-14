@@ -8,6 +8,19 @@ author: "bored chap"
 image: "/images/cable-management-tips.webp"
 tags: ["Office Setup", "Cable Management", "Work From Home", "Desk Organization", "Guide"]
 draft: false
+howTo:
+  totalTime: "PT30M"
+  steps:
+    - name: "Unplug everything and plan your layout"
+      text: "Disconnect all cables, clean the area, and plan which devices go where. Group cables by destination."
+    - name: "Mount a cable tray under your desk"
+      text: "Attach an under-desk cable tray to hold your power strip and excess cable length out of sight."
+    - name: "Bundle and route cables"
+      text: "Use velcro ties to bundle cables together and cable clips to route them along the desk edge or legs."
+    - name: "Handle standing desk cables"
+      text: "For standing desks, add a cable management spine or flexible sleeve that extends when the desk raises."
+    - name: "Reconnect and test"
+      text: "Plug everything back in, test all connections, and adjust cable lengths so nothing pulls or tangles."
 faq:
   - question: "What is the best way to manage cables under a desk?"
     answer: "Use a cable management tray mounted under your desk to hold power strips and excess cable length. Route cables through J-channel raceways attached to the desk's underside. Bundle cables with velcro ties (not zip ties—they're reusable). This three-step approach handles 90% of desk cable mess."

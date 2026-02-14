@@ -8,6 +8,10 @@ author: "bored chap"
 image: "/images/learn-ai-guide.webp"
 tags: ["AI", "Learning", "Career", "Courses", "Hub Page"]
 draft: false
+video:
+  youtubeId: "h-V_Lu_J_hw"
+  title: "How to Learn AI in 2026: Complete Roadmap"
+  description: "Step-by-step guide to learning AI in 2026. From absolute beginner to job-ready skills with free courses, certifications, and practical projects."
 faq:
   - question: "How do I start learning AI with no experience?"
     answer: "Start by using AI tools, not studying theory. Create a free ChatGPT account and use it for real tasks—emails, research, brainstorming. After 1-2 weeks of daily use, take Google's free AI Essentials course (5 hours) to understand the fundamentals. This hands-on approach beats months of theoretical study."

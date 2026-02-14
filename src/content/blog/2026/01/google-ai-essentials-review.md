@@ -7,6 +7,11 @@ author: "bored chap"
 tags: ["Google AI", "Course Review", "AI Certification"]
 image: "/images/google-ai.jpg"
 draft: false
+review:
+  rating: 4.5
+  productName: "Google AI Essentials"
+  productBrand: "Google"
+  priceRange: "Free–$49"
 faq:
   - question: "Is Google AI Essentials really free?"
     answer: "The content is free to audit. The certificate costs $49. You can learn everything without paying—you just won't get the official credential."

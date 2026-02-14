@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/first-3d-prints.jpg"
 tags: ["3D Printing", "Beginners", "Projects", "Ideas", "Printables"]
 draft: false
+isListicle: true
 faq:
   - question: "What is the best first 3D print for beginners?"
     answer: "The 3D Benchy is the perfect first print. It tests all important functions of your printer in just 1-2 hours and helps you identify problems."

@@ -7,6 +7,7 @@ author: "bored chap"
 image: "/images/best-sites-free-3d-models.webp"
 tags: ["3D Printing", "STL Files", "Free Models", "Resources", "Downloads"]
 draft: false
+isListicle: true
 faq:
   - question: "What is an STL file?"
     answer: "STL (Standard Tessellation Language) is the most common file format for 3D printing. It contains the 3D geometry of a model as a mesh of triangles. Your slicer software (like Cura) converts STL files into instructions your printer can understand."
