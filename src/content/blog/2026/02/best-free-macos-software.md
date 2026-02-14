@@ -88,6 +88,8 @@ Dragging an app to Trash doesn't actually delete everything. macOS leaves behind
 
 **Paid alternative it replaces:** CleanMyMac ($35/year)
 
+**Power user upgrade:** If you use Homebrew heavily, check out [Pearcleaner](/pearcleaner-homebrew-guide/) — it does everything AppCleaner does plus full Homebrew cask management, App Lipo (strip unused Intel code), and an automatic Sentinel monitor that catches leftover files when you drag apps to Trash.
+
 ### 5. Maccy (Clipboard Manager)
 
 macOS doesn't have clipboard history. Maccy adds it:
