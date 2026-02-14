@@ -93,6 +93,18 @@
 
 **Commit:** `20e2bbe fix: fact-check corrections across 6 articles (21 fixes)`
 
+**✅ Internes Linking: Ray-Ban Meta Review — 3 Incoming Links**
+
+| Zielartikel | Link hinzugefügt |
+|-------------|-----------------|
+| `airpods-pro-3-review.md` | Ray-Ban Meta als hands-free Audio-Alternative |
+| `best-tech-gifts-under-50.md` | Ray-Ban Meta Erwähnung in Audio-Section |
+| `best-ai-trip-planners.md` | Dubai Trip Report mit Ray-Ban Meta Filming |
+
+Ergebnis: Ray-Ban Meta incoming Links von **2** auf **5** erhöht.
+
+**Commit:** `651acac fix: add incoming links to Ray-Ban Meta review from 3 articles`
+
 ---
 
 ### Sitzung (12. Februar 2026)
