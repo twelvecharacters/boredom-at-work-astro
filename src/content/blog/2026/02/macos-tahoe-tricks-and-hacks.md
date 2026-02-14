@@ -337,4 +337,4 @@ Take a weekend to explore. There's a lot here, and the hidden features are worth
 
 - [Best Free macOS Software](/best-free-macos-software/) — Essential apps for your Mac that won't cost you anything
 - [Best AI Tools for Office Work](/best-ai-tools-office-work/) — AI tools that actually boost your productivity
-- [Pearcleaner: The Best Free Mac App Uninstaller](/pearcleaner-homebrew-guide/) — Keep your Mac clean with this open-source tool
+- [Pearcleaner: The Best Free Mac App Uninstaller](/pearcleaner-homebrew-guide/) — Keep your Mac clean with this source-available tool

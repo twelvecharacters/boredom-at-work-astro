@@ -817,6 +817,21 @@ Honest review of Ray-Ban Meta smart glasses (Wayfarer) after 2 weeks of daily us
 
 ---
 
+### Pearcleaner: The Ultimate Homebrew and App Management Guide
+**URL:** https://boredom-at-work.com/pearcleaner-homebrew-guide/
+**Reading Time:** 4 minutes
+
+Guide to Pearcleaner, a free, source-available Mac app uninstaller (Apache 2.0 + Commons Clause) with deep Homebrew integration. Covers Homebrew cask adoption, one-click maintenance, App Lipo (strip unused Intel code on Apple Silicon), orphaned file search, PKG/plugin management, and the Sentinel background monitor (~2MB RAM).
+
+**Key insights:**
+- Adopt manually installed apps into Homebrew for unified update management
+- App Lipo strips unnecessary Intel code from Universal apps on Apple Silicon Macs
+- Sentinel Monitor watches your Trash and auto-detects leftover files when you delete apps
+- Supports macOS 13+ (Ventura, Sonoma, Sequoia, Tahoe) on both Intel and Apple Silicon
+- Install via `brew install --cask pearcleaner`
+
+---
+
 ### Samsung Galaxy S26 Rumors: Everything We Know So Far
 **URL:** https://boredom-at-work.com/samsung-s26-rumors/
 **Reading Time:** 5 minutes

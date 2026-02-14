@@ -1,7 +1,7 @@
 ---
 title: "Pearcleaner: The Ultimate Homebrew and App Management Guide"
 slug: "pearcleaner-homebrew-guide"
-description: "Meet Pearcleaner: the free, source-available app uninstaller that doesn't just delete apps—it masters your Homebrew setup too. Here's why you need it on your Mac."
+description: "Meet Pearcleaner: the free, source-available Mac app uninstaller with Homebrew integration. Clean leftover files, adopt apps, and manage casks in one GUI."
 publishDate: 2026-02-15
 author: "bored chap"
 image: "/images/pearcleaner.webp"
@@ -14,6 +14,12 @@ faq:
     answer: "Sentinel is an optional background helper that watches your Trash folder. When you delete an app the 'old' way, Pearcleaner automatically pops up to offer a deep clean of its leftover files."
   - question: "Can I manage Homebrew updates through Pearcleaner?"
     answer: "Yes! Pearcleaner can run maintenance tasks like 'brew cleanup', adopt non-Homebrew apps into your Homebrew ecosystem, and manage updates for your installed casks."
+  - question: "Is Pearcleaner actually free?"
+    answer: "Yes, it is completely free and source-available. You can find the source code on GitHub (licensed under Apache 2.0 with Commons Clause) and contribute if you're a developer."
+  - question: "Does it work on Intel Macs?"
+    answer: "Yes! Pearcleaner supports both Apple Silicon and Intel-based Macs (macOS 13+), though features like App Lipo are most useful on Apple Silicon."
+  - question: "Is it safe to strip Intel code with App Lipo?"
+    answer: "Generally, yes. It only removes code that your specific Mac can't execute anyway. However, it's always good practice to have a backup before performing system-wide cleaning operations."
 ---
 
 If you’ve been using a Mac for more than five minutes, you know that dragging an app to the Trash is a lie. macOS leaves behind caches, logs, and preference files that can eat up gigabytes of space over time.
@@ -89,17 +95,4 @@ Once installed, I highly recommend enabling **Sentinel** in the settings. It sta
 
 ---
 
-## FAQ: The Quick Hits
-
-**Is Pearcleaner actually free?**  
-Yes, it is completely free and source-available. You can find the source code on GitHub (licensed under Apache 2.0 with Commons Clause) and contribute if you're a developer!
-
-**Does it work on Intel Macs?**  
-Yes! Pearcleaner supports both Apple Silicon and Intel-based Macs, though features like "App Lipo" are most useful for the former.
-
-**Is it safe to strip Intel code with App Lipo?**  
-Generally, yes. It only removes code that your specific Mac can't execute anyway. However, it's always good practice to have a backup before performing system-wide cleaning operations.
-
----
-
-*Looking for more ways to optimize your workflow? Check out our article on [macOS Tahoe's new 'Liquid Glass' redesign](/macos-tahoe-tricks-and-hacks/) for more tips.*
+*Looking for more ways to optimize your Mac? Check out our [macOS Tahoe tips and hidden features](/macos-tahoe-tricks-and-hacks/), explore [30 essential free macOS apps](/best-free-macos-software/), or see how [OpenClaw brings AI to your desktop](/clawdbot-openclaw-guide/).*

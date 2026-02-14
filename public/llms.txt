@@ -116,6 +116,7 @@ Reviews and comparisons of consumer technology.
 - [ClawDBot (OpenClaw) Guide](https://boredom-at-work.com/clawdbot-openclaw-guide/): Self-hosted, open-source AI assistant — local execution, persistent memory, messaging app integration
 - [RapidRAW Image Editor Guide](https://boredom-at-work.com/rapid-raw-image-editor-guide/): Open-source GPU-accelerated RAW photo editor built with Rust — Lightroom alternative
 - [macOS Tahoe: 25 Tips & Hidden Features](https://boredom-at-work.com/macos-tahoe-tricks-and-hacks/): Essential tips for Apple's Liquid Glass redesign — customization, Apple Intelligence, productivity tricks
+- [Pearcleaner Homebrew Guide](https://boredom-at-work.com/pearcleaner-homebrew-guide/): Free source-available Mac app uninstaller with deep Homebrew integration — adopt apps, clean leftovers, manage casks
 - [Ray-Ban Meta Review](https://boredom-at-work.com/ray-ban-meta-review/): Honest review after 2 weeks — camera quality, battery life, audio, and a helicopter flight over Dubai
 
 ## Contact
