@@ -105,6 +105,13 @@ Ergebnis: Ray-Ban Meta incoming Links von **2** auf **5** erhöht.
 
 **Commit:** `651acac fix: add incoming links to Ray-Ban Meta review from 3 articles`
 
+**✅ Housekeeping**
+
+| Item | Status |
+|------|--------|
+| März-Lücke (11. März frei nach Ray-Ban-Verschiebung) | ✅ Kein Problem — 10. März (2 Artikel) + 12. März (3 Artikel) |
+| OpenAI API-Key rotieren | ⚠️ Manuell im [OpenAI Dashboard](https://platform.openai.com/api-keys) erledigen |
+
 ---
 
 ### Sitzung (12. Februar 2026)
