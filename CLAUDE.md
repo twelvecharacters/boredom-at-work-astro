@@ -72,6 +72,14 @@
 
 **Commit:** `8496281 feat: publish Ray-Ban Meta review today (Valentine's Day gift angle)`
 
+**✅ Reddit-Posts: Ray-Ban Meta Review**
+
+| Subreddit | Status |
+|-----------|--------|
+| r/RayBanMeta | ✅ Gepostet |
+| r/smartglasses | ✅ Gepostet |
+| r/gadgets | ✅ Gepostet |
+
 ---
 
 ### Sitzung (12. Februar 2026)
@@ -725,7 +733,7 @@ chmod +x .git/hooks/pre-commit
 - Datum: ~~11. März 2026~~ → **14. Februar 2026** ✅ LIVE
 - Status: ✅ Veröffentlicht
 - ✅ Bild: `ray-ban-meta-review.webp` (58 KB)
-- ⚠️ Rüya-Restaurant Details noch ergänzen im Dubai-Artikel
+- ✅ Rüya-Restaurant Details im Dubai-Artikel enthalten
 
 ---
 
