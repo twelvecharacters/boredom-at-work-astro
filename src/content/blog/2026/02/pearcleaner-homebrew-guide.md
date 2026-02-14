@@ -5,7 +5,7 @@ description: "Meet Pearcleaner: the free, source-available app uninstaller that 
 publishDate: 2026-02-15
 author: "bored chap"
 image: "/images/pearcleaner.webp"
-tags: ["Tech & Gadgets", "macOS", "Pearcleaner", "Homebrew", "Open Source"]
+tags: ["Tech & Gadgets", "macOS", "Pearcleaner", "Homebrew", "Source-Available"]
 draft: false
 faq:
   - question: "How is Pearcleaner different from AppCleaner?"
@@ -40,7 +40,7 @@ This is where Pearcleaner pulls ahead of every other uninstaller. Most Mac power
 Have an app you installed manually that you wish was managed by Homebrew? Pearcleaner's **Updater Page** can "adopt" it. This means Homebrew takes over the update process, keeping your software stack unified and easily updatable with a single command.
 
 ### 2. Maintenance with One Click
-Instead of typing `brew cleanup` into the terminal, Pearcleaner can handle maintenance tasks from its preferences. It helps you clear out old "bottles" (Homebrew's term for installation files) that are wasting space, manage updates for your installed casks, and even manage Homebrew analytics settings for you.
+Instead of typing `brew cleanup` into the terminal, Pearcleaner can handle maintenance tasks from its preferences. It helps you clear out old "bottles" (Homebrew's pre-compiled binary packages) that are wasting space, manage updates for your installed casks, and even manage Homebrew analytics settings for you.
 
 ---
 
@@ -49,7 +49,7 @@ Instead of typing `brew cleanup` into the terminal, Pearcleaner can handle maint
 Pearcleaner isn't just about deleting things. It includes several advanced tools that usually require expensive paid utilities:
 
 ### App Lipo: Slim Down Your Apps
-If you’re on an Apple Silicon Mac (M1/M2/M3), many "Universal" apps contain code for both Intel and Apple Silicon. Pearcleaner's **App Lipo** feature can strip out the unnecessary Intel code, often saving hundreds of megabytes per app without affecting performance.
+If you're on an Apple Silicon Mac (M1/M2/M3/M4), many "Universal" apps contain code for both Intel and Apple Silicon. Pearcleaner's **App Lipo** feature can strip out the unnecessary Intel code, often saving hundreds of megabytes per app without affecting performance.
 
 ### Orphaned File Search
 It’s a digital archeology tool. Pearcleaner can hunt for "ghost files" left behind by apps you deleted months or even years *before* you installed it. It’s one of the best ways to reclaim storage on an older Mac setup.
@@ -61,7 +61,7 @@ Some software is installed via `.pkg` installers rather than simple drag-and-dro
 
 ## Automation: The Sentinel Monitor
 
-The **Sentinel Monitor** (also known as Smart Detection) is an optional background helper that watches your Trash folder. It's designed to be extremely lightweight, using less than 5MB of RAM. 
+The **Sentinel Monitor** (also known as Smart Detection) is an optional background helper that watches your Trash folder. It's designed to be extremely lightweight, using about 2MB of RAM. 
 
 When you drag an app to the Trash the "old-fashioned" way, Sentinel automatically detects it and pops up a notification. One click, and it scans for the associated support files, ensuring you never leave junk behind again.
 
@@ -70,7 +70,7 @@ When you drag an app to the Trash the "old-fashioned" way, Sentinel automaticall
 ## Customization: Make it Yours
 
 Pearcleaner fits right into the modern macOS aesthetic. It supports:
-- **Translucent Themes:** Match the 'Liquid Glass' look of macOS Tahoe.
+- **System Appearance:** As a native macOS app, Pearcleaner follows your system theme — including macOS Tahoe's translucent design.
 - **Custom Color Schemes:** Fully personalize the UI to your liking.
 - **Mini-Mode:** A compact view for those who want a minimal footprint.
 - **Finder Extension:** Right-click any app in Finder and select "Uninstall with Pearcleaner" for instant action.
