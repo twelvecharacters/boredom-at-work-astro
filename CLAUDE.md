@@ -62,6 +62,16 @@
 - `dalle` aus `~/.claude.json` entfernt
 - OpenAI API-Key sollte im Dashboard rotiert/gelöscht werden
 
+**✅ Ray-Ban Meta Review vorgezogen & LIVE**
+
+| Detail | Wert |
+|--------|------|
+| Publish | 11. März → **14. Februar** (Valentinstag) |
+| URL | `/ray-ban-meta-review/` |
+| Post-Publish Check | ✅ Alle Checks bestanden |
+
+**Commit:** `8496281 feat: publish Ray-Ban Meta review today (Valentine's Day gift angle)`
+
 ---
 
 ### Sitzung (12. Februar 2026)
@@ -140,7 +150,7 @@
 
 ### Sitzung (11. Februar 2026)
 
-**✅ Ray-Ban Meta Review geschrieben (Publish: 11. März)**
+**✅ Ray-Ban Meta Review geschrieben (LIVE: 14. Februar)**
 
 | Detail | Wert |
 |--------|------|
@@ -712,8 +722,8 @@ chmod +x .git/hooks/pre-commit
 ### Geplanter Artikel
 
 **Ray-Ban Meta Review:**
-- Datum: 11. März 2026
-- Status: ✅ Geschrieben (11. Feb Sitzung)
+- Datum: ~~11. März 2026~~ → **14. Februar 2026** ✅ LIVE
+- Status: ✅ Veröffentlicht
 - ✅ Bild: `ray-ban-meta-review.webp` (58 KB)
 - ⚠️ Rüya-Restaurant Details noch ergänzen im Dubai-Artikel
 
@@ -1193,7 +1203,7 @@ rm bildname.png
 ### Geplante Artikel (März 2026) - Tech Reviews
 | Datum | Artikel | Kategorie | Status |
 |-------|---------|-----------|--------|
-| 11. März | Ray-Ban Meta Review: 3 Weeks with Smart Glasses | Tech & Gadgets | 📝 Draft |
+| ~~11. März~~ 14. Feb | Ray-Ban Meta Review: 2 Weeks with Smart Glasses | Tech & Gadgets | ✅ Live |
 
 ### AI Travel Planning Cluster (März-Juni 2026)
 **Status:** ✅ Komplett — 16 Artikel + 16 Bilder fertig, Publish-Dates gesetzt
