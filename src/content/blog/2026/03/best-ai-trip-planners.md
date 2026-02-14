@@ -253,6 +253,7 @@ Create phrases in the local language to explain my needs.
 **Real trip reports with dietary restrictions:**
 - [My Malaysia Trip with ChatGPT](/chatgpt-malaysia-trip-planning/) — 2 weeks, gluten-free, zero issues
 - [AI-Planned London Weekend](/ai-planned-london-weekend/) — Clawd.bot found 3 celiac-safe restaurants
+- [Claude-Planned Dubai Trip](/claude-planned-dubai-trip/) — 3 days, filmed hands-free with [Ray-Ban Meta smart glasses](/ray-ban-meta-review/)
 
 ---
 

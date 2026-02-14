@@ -24,7 +24,7 @@ These 25 picks are actually useful, well-reviewed, and won't embarrass you when 
 ## Audio & Entertainment
 
 ### 1. [Soundcore Life P3](https://soundcore.com/products/life-p3) Wireless Earbuds — $50
-Noise cancellation, 35-hour battery with case, multiple sound modes. Best budget earbuds on the market. Period. (Looking for premium options? See our [AirPods vs Galaxy Buds vs Sony comparison](/airpods-vs-galaxy-buds-vs-sony/).)
+Noise cancellation, 35-hour battery with case, multiple sound modes. Best budget earbuds on the market. Period. (Looking for premium options? See our [AirPods vs Galaxy Buds vs Sony comparison](/airpods-vs-galaxy-buds-vs-sony/). For something completely different, check out [Ray-Ban Meta smart glasses](/ray-ban-meta-review/) — earbuds, camera, and sunglasses in one.)
 
 ### 2. [Amazon Echo Dot](https://amazon.com/echodot) (5th Gen) — $35-50
 The entry point to smart homes. Great speaker for the size, Alexa built-in, works as a Bluetooth speaker too.
