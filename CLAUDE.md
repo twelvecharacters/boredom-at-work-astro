@@ -8,6 +8,31 @@
 
 ### Sitzung (14. Februar 2026)
 
+**✅ Schema Markup Expansion — 2 neue Schema-Typen + 34 Artikel-Updates**
+
+| Schema-Typ | Neu/Bestehend | Artikel |
+|------------|---------------|---------|
+| **VideoObject** | ✅ Neu | 5 (chatgpt-plus-vs-free, ai-tools-guide, learn-ai-guide, claude-planned-dubai-trip, ray-ban-meta-review) |
+| **HowTo** | ✅ Neu | 8 (chatgpt-custom-instructions, chatgpt-trip-planning-tutorial, pearcleaner-homebrew-guide, kindle-modding-guide, cura-settings-beginners, cable-management-tips, selling-3d-prints-online, build-ai-flight-search-agent) |
+| **ItemList** (isListicle) | Bestehend | 17 Artikel geflaggt (best-cameras, best-ai-courses, ai-certifications, 3d-printing-mistakes, photography-mistakes, productive-things, what-to-3d-print, cad-software, ai-presentation-makers, ai-meeting-assistants, best-sites-free-3d-models, best-free-macos, 10-things-to-print, ai-writing-tools, best-ai-trip-planners, macos-tahoe, free-ai-travel-tools) |
+| **Product+Review** | Bestehend | 4 Artikel geflaggt (google-ai-essentials 4.5/5, microsoft-copilot 3.5/5, google-gemini 4/5, claude-ai 4.5/5) |
+
+**Infrastruktur-Änderungen:**
+
+| Datei | Änderung |
+|-------|----------|
+| `src/content.config.ts` | `videoSchema` + `howToSchema` Zod-Schemas + Felder in Collection |
+| `src/components/VideoSchema.astro` | **Neu** — VideoObject JSON-LD (YouTube thumbnail, embedUrl) |
+| `src/components/HowToSchema.astro` | **Neu** — HowTo JSON-LD mit HowToStep items |
+| `src/layouts/BlogPost.astro` | Import + conditional render beider neuer Schemas |
+
+**Schema-Übersicht (jetzt 8 Typen):**
+```
+Organization, Article, BreadcrumbList, FAQPage, Product+Review, ItemList, VideoObject, HowTo
+```
+
+**Commit:** `b0b91e0 feat: expand schema markup with VideoObject, HowTo, and flag missing isListicle/review`
+
 **✅ Post-Publish Check: AI Meeting Assistants**
 
 | Check | Status |
