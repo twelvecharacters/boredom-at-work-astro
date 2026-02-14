@@ -34,7 +34,7 @@ The long answer involves trade-offs between ease of printing, strength, flexibil
 | Property | PLA | PETG | ABS |
 |----------|-----|------|-----|
 | **Ease of Printing** | ⭐⭐⭐⭐⭐ Easiest | ⭐⭐⭐⭐ Easy | ⭐⭐ Difficult |
-| **Strength** | ⭐⭐⭐ Moderate | ⭐⭐⭐⭐ Strong | ⭐⭐⭐⭐⭐ Strongest |
+| **Toughness** | ⭐⭐⭐ Moderate | ⭐⭐⭐⭐ Strong | ⭐⭐⭐⭐⭐ Toughest |
 | **Flexibility** | ⭐⭐ Brittle | ⭐⭐⭐⭐ Flexible | ⭐⭐⭐ Moderate |
 | **Heat Resistance** | ⭐⭐ ~60°C | ⭐⭐⭐ ~80°C | ⭐⭐⭐⭐ ~100°C |
 | **Warping** | Minimal | Low | High |
@@ -143,7 +143,7 @@ First Layer: Print slow (20mm/s) and squish it
 - **Best heat resistance (~100°C)** — Survives hot environments
 - **Can be acetone-smoothed** — Professional finish possible
 - **Excellent machinability** — Can be drilled, sanded, painted
-- **Long-term durability** — Handles UV better than PETG
+- **Long-term durability** — Can be acetone-smoothed for a professional finish
 
 ### ABS's Serious Limitations
 
@@ -224,9 +224,9 @@ All three filaments are hygroscopic (absorb moisture from air), but to different
 
 | Filament | Moisture Sensitivity | Storage Requirement |
 |----------|---------------------|---------------------|
-| PLA | Low | Sealed bag with desiccant |
+| PLA | Low-Medium | Sealed bag with desiccant |
 | PETG | High | Dry box, use within 2-3 weeks once opened |
-| ABS | Medium | Sealed bag, dry before printing if issues |
+| ABS | Low-Medium | Sealed bag, dry before printing if issues |
 
 **Signs of wet filament:**
 - Popping/sizzling during printing
@@ -234,7 +234,7 @@ All three filaments are hygroscopic (absorb moisture from air), but to different
 - Stringing worse than usual
 - Poor layer adhesion
 
-**Fix:** Dry in a food dehydrator or filament dryer at 45-50°C for 4-6 hours.
+**Fix:** Dry in a food dehydrator or filament dryer — PLA at 45-50°C, PETG at 55-70°C, ABS at 60-80°C — for 4-6 hours.
 
 ---
 

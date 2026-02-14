@@ -23,7 +23,7 @@ faq:
 tldr: "Focus on these 10 settings: Layer Height (0.2mm), Wall Count (3), Infill (20%), Print Temp (200-210°C for PLA), Bed Temp (60°C), Print Speed (50mm/s), Supports (only when needed), Retraction (enabled), Cooling (100% for PLA), and Adhesion (skirt or brim). Ignore everything else until you need it."
 ---
 
-You downloaded **[Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)**, opened it up, and immediately saw 400+ settings staring back at you. Layer height, wall thickness, infill density, flow rate, retraction distance, coasting, combing, z-hop...
+You downloaded **[UltiMaker Cura](https://ultimaker.com/software/ultimaker-cura)**, opened it up, and immediately saw 400+ settings staring back at you. Layer height, wall thickness, infill density, flow rate, retraction distance, coasting, combing, z-hop...
 
 **Take a breath.** You don't need most of these.
 
@@ -77,7 +77,7 @@ That's it. Cura now has reasonable defaults for your setup.
 
 ---
 
-### 3. Wall Count (2-4 walls)
+### 3. Wall Line Count (2-4 walls)
 
 **What it does:** Sets how many outer perimeter lines surround your print.
 

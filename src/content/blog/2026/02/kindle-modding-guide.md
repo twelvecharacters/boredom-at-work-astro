@@ -67,7 +67,7 @@ In early 2026, nearly all Kindle firmware versions are exploitable thanks to mul
 If you've updated to the very latest 2026 patches beyond 5.18.5, you might have to wait for a new exploit.
 
 ### **Identify your Model**
-Use the first 4-6 characters of your serial number to find your specific model on the [MobileRead Wiki](https://wiki.mobileread.com/wiki/Kindle_Serial_Numbers). The **Kindle Paperwhite (11th Gen)** is currently the most popular target for modders. Note that the **Kindle Scribe** is supported by WinterBreak but is excluded from AdBreak, so jailbreak options may be more limited on the latest Scribe firmware.
+Use the first 4-6 characters of your serial number to find your specific model on the [MobileRead Wiki](https://wiki.mobileread.com/wiki/Kindle_Serial_Numbers). The **Kindle Paperwhite (11th Gen)** is currently the most popular target for modders. Note that the **Kindle Scribe** and **Kindle Colorsoft** are excluded from both WinterBreak and AdBreak — the Scribe can only be jailbroken via LanguageBreak if on firmware 5.16.2.1.1 or lower.
 
 ---
 

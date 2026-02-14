@@ -70,7 +70,7 @@ When you paste text into ChatGPT or Claude:
 
 | Option | Privacy Level | Cost |
 |--------|--------------|------|
-| Enterprise AI (ChatGPT Enterprise, Claude for Business) | High | $$$ |
+| Enterprise AI (ChatGPT Enterprise, Claude Team/Enterprise) | High | $$$ |
 | Microsoft Copilot (with proper licensing) | High | $30/user/mo |
 | Local AI (Ollama, LM Studio) | Complete | Free |
 | Anonymize data first | Medium | Free |

@@ -9,7 +9,7 @@ tags: ["AI", "Notion", "Obsidian", "Productivity", "Note-Taking", "Comparison"]
 draft: false
 faq:
   - question: "Is Obsidian really free?"
-    answer: "Yes, Obsidian is free for personal use. You only pay for optional add-ons: Sync ($4/mo), Publish ($8/mo), and Commercial license ($50/year). AI plugins are separate and have their own costs."
+    answer: "Yes, Obsidian is free for all use, including commercial (since February 2025). You only pay for optional add-ons: Sync ($4/mo) and Publish ($8/mo). AI plugins are separate and have their own costs."
   - question: "Does Notion AI work offline?"
     answer: "No, Notion AI requires an internet connection. Notion itself has limited offline support, but AI features need to be online. Obsidian with local AI plugins can work completely offline."
   - question: "Can I switch from Notion to Obsidian?"
@@ -56,7 +56,7 @@ This fundamental difference shapes everything about their AI implementations.
 
 ### What You Get
 
-Notion AI is now bundled into Notion's Business plan ($20/user/month). The previous $10/month add-on was discontinued for new users in May 2025. Here's what Notion AI offers:
+Notion AI is now bundled into Notion's Business plan ($20/user/month, billed annually). The previous $8-10/month add-on (depending on billing cycle) was discontinued for new users in May 2025. Here's what Notion AI offers:
 
 **Writing Assistance**
 - Generate drafts from prompts
@@ -107,7 +107,7 @@ Everything is processed on Notion's servers. Your notes, your prompts, your AI q
 AI is only available on Business plan ($20/user/month). For a team of 10, that's $200/month for Notion with AI included.
 
 **Limited Customization**
-You can't choose models, adjust parameters, or use custom prompts. You get what Notion provides.
+You can now choose between models (GPT-5, Claude, etc.), but you can't adjust parameters like temperature or use fully custom system prompts.
 
 **Vendor Lock-in**
 Your notes are in Notion's format. AI features only work within Notion. Switching apps means losing AI capabilities.
@@ -313,7 +313,7 @@ Let's be direct about privacy:
 
 **Notion AI:**
 - Your notes are on Notion's servers (already true without AI)
-- AI queries send content to OpenAI (Notion's AI partner)
+- AI queries send content to LLM providers (Notion uses both OpenAI and Anthropic models)
 - Notion's privacy policy covers this
 - Enterprise plans have additional protections
 
@@ -348,7 +348,7 @@ If you want to try Obsidian's AI capabilities, here's the quick path:
 
 ### Option 2: Local AI (Most Private)
 
-1. Install Ollama (ollama.ai)
+1. Install Ollama (ollama.com)
 2. Download a model: `ollama pull llama3`
 3. Install "Copilot" or "Ollama" plugin
 4. Configure to use local endpoint
@@ -376,7 +376,7 @@ If you want to try Obsidian's AI capabilities, here's the quick path:
 
 ### My Recommendation
 
-**For most people:** Start with Notion AI. It's easier, more polished, and the workspace Q&A alone is worth $10/month if you have lots of notes.
+**For most people:** Start with Notion AI. It's easier, more polished, and the workspace Q&A alone is worth the Business plan price if you have lots of notes.
 
 **For privacy-sensitive use:** Obsidian + Ollama. The setup is worth it for complete control over your data.
 
