@@ -56,19 +56,11 @@
 
 **Commit:** `5458653 fix: expand Pearcleaner article (+450 words) and add incoming link from macOS apps`
 
-**✅ OpenAI DALL-E MCP Server eingerichtet**
+**🗑️ OpenAI DALL-E MCP Server entfernt**
 
-| Detail | Wert |
-|--------|------|
-| MCP Server Name | `dalle` |
-| Paket | `@robinson_ai_systems/openai-mcp` |
-| Transport | stdio |
-| Status | ✓ Connected |
-| Config | `~/.claude.json` (lokal) |
-
-**Befehl:** `claude mcp add --transport stdio dalle --env OPENAI_API_KEY=... -- npx -y @robinson_ai_systems/openai-mcp`
-
-**Hinweis:** MCP Tools werden erst beim Start einer neuen Session geladen.
+- Grund: Billing-Limit erreicht, nicht kostenlos nutzbar
+- `dalle` aus `~/.claude.json` entfernt
+- OpenAI API-Key sollte im Dashboard rotiert/gelöscht werden
 
 ---
 
