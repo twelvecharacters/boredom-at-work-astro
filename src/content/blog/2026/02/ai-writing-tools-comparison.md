@@ -38,7 +38,7 @@ Understanding this helps you choose the right tool for your needs.
 | **[Grammarly](https://grammarly.com)** | Editing everything | $12/mo | Works everywhere |
 | **[Claude](https://claude.ai)** | Long-form writing | $20/mo | Best quality |
 | **[ChatGPT](https://chatgpt.com)** | Quick generation | $20/mo | Most versatile |
-| **[Jasper](https://jasper.ai)** | Marketing copy | $49/mo | Templates + brand voice |
+| **[Jasper](https://jasper.ai)** | Marketing copy | $49/mo+ | Templates + brand voice |
 | **[Copy.ai](https://copy.ai)** | Short-form marketing | $49/mo | Fast iterations |
 | **[ProWritingAid](https://prowritingaid.com)** | Deep editing | $10/mo | Detailed feedback |
 | **[Hemingway](https://hemingwayapp.com)** | Clarity | Free/$20 | Simplicity |
@@ -47,7 +47,7 @@ Understanding this helps you choose the right tool for your needs.
 
 ## Grammarly — Best All-Around Writing Assistant
 
-**Price:** Free / $12/mo Premium / $15/mo Business
+**Price:** Free / ~$12/mo Pro (annual) / Enterprise (custom pricing)
 
 Grammarly is the most widely-used writing tool for good reason: it works everywhere and catches mistakes you'd miss.
 
@@ -228,7 +228,7 @@ Tends to over-explain. You'll often cut 30% of what it writes.
 
 ## Jasper — Best for Marketing Teams
 
-**Price:** $49/mo Creator / $125/mo Pro
+**Price:** $49/mo Creator / $69/mo Pro
 
 Jasper is purpose-built for marketing content at scale.
 
@@ -257,7 +257,7 @@ Approval processes, shared assets, collaboration tools.
 ### Weaknesses
 
 **Expensive**
-$49-125/month is steep, especially when Claude/ChatGPT cost $20.
+$49-69/month is steep, especially when Claude/ChatGPT cost $20.
 
 **Marketing-Focused**
 Overkill for general business writing. You're paying for features you won't use.
@@ -335,7 +335,7 @@ Needs more editing than premium tools.
 
 ## ProWritingAid — Best for Serious Editing
 
-**Price:** Free tier / $10/mo Premium
+**Price:** Free tier / ~$10/mo Premium (annual, $30/mo monthly)
 
 ProWritingAid goes deeper than Grammarly on style and structure.
 

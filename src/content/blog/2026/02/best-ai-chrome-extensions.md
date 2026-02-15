@@ -29,14 +29,14 @@ Here are the extensions worth installing.
 |-----------|----------|-------|--------|
 | **[Sider](https://sider.ai)** | AI sidebar anywhere | Free/$10mo | ★★★★★ |
 | **[Monica](https://monica.im)** | All-in-one AI | Free/$10mo | ★★★★☆ |
-| **[Merlin](https://merlin.fyi)** | Quick AI access | Free/$15mo | ★★★★☆ |
+| **[Merlin](https://getmerlin.in)** | Quick AI access | Free/$19mo | ★★★★☆ |
 | **[Perplexity](https://perplexity.ai)** | Research | Free | ★★★★★ |
 | **[Grammarly](https://grammarly.com)** | Writing | Free/$12mo | ★★★★★ |
 | **[Tactiq](https://tactiq.io)** | Meeting notes | Free/$12mo | ★★★★☆ |
 | **[Glasp](https://glasp.co)** | Highlighting | Free | ★★★★☆ |
 | **Wiseone** | Article reading | Free/$10mo | ★★★★☆ |
-| **[MaxAI](https://maxai.me)** | Summarization | Free/$10mo | ★★★★☆ |
-| **[Compose AI](https://compose.ai)** | Email writing | Free/$10mo | ★★★☆☆ |
+| **[MaxAI](https://maxai.me)** | Summarization | Free/$12mo+ | ★★★★☆ |
+| **[Compose AI](https://compose.ai)** | Email writing | Free/$15mo | ★★★☆☆ |
 
 ---
 
@@ -140,7 +140,7 @@ Keyboard shortcut triggers AI anywhere. Fast for quick tasks.
 
 ## Merlin — Best for Speed
 
-**Price:** Free tier / $15/month Pro
+**Price:** Free tier / $19/month Pro
 
 Merlin focuses on fast AI access through keyboard shortcuts.
 
@@ -172,7 +172,7 @@ Use AI directly in email compose boxes, comment fields, etc.
 ### Limitations
 
 - Less powerful than Sider or Monica
-- Premium is pricier ($15 vs $10)
+- Premium is pricier ($19 vs $10)
 - Fewer model options
 
 ### Verdict
@@ -409,7 +409,7 @@ Discover other perspectives on the topic you're reading.
 
 ## MaxAI — Best for Summarization
 
-**Price:** Free tier / $10/month Pro
+**Price:** Free tier / ~$12/month Pro (annual, $30/mo monthly)
 
 MaxAI specializes in summarizing web content quickly.
 
@@ -453,7 +453,7 @@ Summarize videos without watching them.
 
 ## Compose AI — Best for Email Automation
 
-**Price:** Free tier / $10/month Pro
+**Price:** Free tier / ~$15/month Premium
 
 Compose AI focuses specifically on helping you write emails faster.
 
@@ -499,8 +499,8 @@ Gets better at matching your style over time.
 ### ChatGPT Official Extension
 OpenAI's official extension for quick ChatGPT access. Decent but basic compared to Sider or Monica.
 
-### Claude (No Official Extension)
-Anthropic hasn't released an official Chrome extension. Use Sider to access Claude in the browser.
+### Claude for Chrome (Official Extension)
+Anthropic launched [Claude for Chrome](https://claude.com/blog/claude-for-chrome) in August 2025. Available to all paid plan users (Pro, Team, Enterprise), it can read pages, draft emails, manage calendars, and navigate websites. A solid official option alongside third-party tools like Sider.
 
 ### Otter.ai Extension
 Meeting transcription when visiting Google Meet. Good but the standalone app is better.

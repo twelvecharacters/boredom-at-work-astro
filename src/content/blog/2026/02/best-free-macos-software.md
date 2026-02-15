@@ -45,7 +45,7 @@ Stop using Spotlight. **Raycast** is a faster, more extensible launcher that doe
 
 **Install:** `brew install --cask raycast` or [raycast.com](https://raycast.com)
 
-**Paid alternative it replaces:** Alfred ($60)
+**Paid alternative it replaces:** Alfred (~$42 Powerpack)
 
 ### 2. Rectangle (Window Management)
 
@@ -58,7 +58,7 @@ macOS window management is terrible. Rectangle fixes it:
 
 **Install:** `brew install --cask rectangle` or [rectangleapp.com](https://rectangleapp.com)
 
-**Paid alternative it replaces:** Magnet ($5), Moom ($10)
+**Paid alternative it replaces:** Magnet ($5), Moom ($15)
 
 ### 3. Obsidian (Notes)
 
@@ -87,7 +87,7 @@ Dragging an app to Trash doesn't actually delete everything. macOS leaves behind
 
 **Install:** `brew install --cask appcleaner` or [freemacsoft.net/appcleaner](https://freemacsoft.net/appcleaner/)
 
-**Paid alternative it replaces:** CleanMyMac ($35/year)
+**Paid alternative it replaces:** CleanMyMac (~$40/year)
 
 **Power user upgrade:** If you use Homebrew heavily, check out [Pearcleaner](/pearcleaner-homebrew-guide/) — it does everything AppCleaner does plus full Homebrew cask management, App Lipo (strip unused Intel code), and an automatic Sentinel monitor that catches leftover files when you drag apps to Trash.
 
@@ -114,7 +114,7 @@ Too many menu bar icons? Hidden Bar lets you hide the ones you don't need to see
 
 **Install:** `brew install --cask hiddenbar` or Mac App Store
 
-**Paid alternative it replaces:** Bartender ($16)
+**Paid alternative it replaces:** Bartender ($25)
 
 ### 7. Amphetamine (Keep Mac Awake)
 
@@ -156,7 +156,7 @@ Writing papers, articles, or books? Zettlr is a Markdown editor designed for lon
 
 **Install:** `brew install --cask zettlr` or [zettlr.com](https://zettlr.com)
 
-**Paid alternative it replaces:** Scrivener ($50), Ulysses ($50/year)
+**Paid alternative it replaces:** Scrivener ($60), Ulysses ($40/year)
 
 ### 10. LibreOffice (Office Suite)
 
@@ -302,7 +302,7 @@ See CPU, memory, disk, network, and battery in your menu bar:
 
 **Install:** `brew install --cask stats` or [GitHub](https://github.com/exelban/stats)
 
-**Paid alternative it replaces:** iStat Menus ($10)
+**Paid alternative it replaces:** iStat Menus ($12)
 
 ### 21. Keka (File Archiver)
 
@@ -343,7 +343,7 @@ See and control which apps access the internet:
 
 **Install:** `brew install --cask lulu` or [objective-see.com/products/lulu](https://objective-see.com/products/lulu.html)
 
-**Paid alternative it replaces:** Little Snitch ($69)
+**Paid alternative it replaces:** Little Snitch ($59)
 
 ### 24. Mullvad Browser (Private Browsing)
 

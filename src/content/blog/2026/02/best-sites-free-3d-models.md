@@ -14,7 +14,7 @@ faq:
   - question: "Are free 3D models really free to print and sell?"
     answer: "Not always. Each model has a license. 'Personal use only' means you can print for yourself but not sell. 'Creative Commons' licenses vary—some allow commercial use, others don't. Always check the license before selling prints."
   - question: "Which site has the most free 3D models?"
-    answer: "Thingiverse has the largest collection with over 2 million models. However, quantity doesn't mean quality—Printables and Thangs often have better-curated, more reliable models."
+    answer: "Thingiverse has the largest collection with over 2.5 million models. However, quantity doesn't mean quality—Printables and Thangs often have better-curated, more reliable models."
   - question: "Why do some STL files fail to print?"
     answer: "Common reasons: the model wasn't designed for 3D printing (bad geometry), it needs supports you didn't add, or it's too detailed for your printer's resolution. Look for models marked as 'tested' or 'print-ready' and check the comments for print settings."
   - question: "Can I modify free 3D models?"
@@ -64,7 +64,7 @@ Printables is run by Prusa (the printer manufacturer), and it shows. The site is
 
 **Best for:** Largest selection, classic designs
 
-Thingiverse is the OG of 3D model sites. It's been around since 2008 and has over 2 million models. If it exists, someone probably uploaded it to Thingiverse.
+Thingiverse is the OG of 3D model sites. It's been around since 2008 and has over 2.5 million models. If it exists, someone probably uploaded it to Thingiverse.
 
 **Why it's great:**
 - Massive library—find almost anything
@@ -77,7 +77,7 @@ Thingiverse is the OG of 3D model sites. It's been around since 2008 and has ove
 - Search is mediocre
 - Quality varies wildly
 - Many outdated/abandoned models
-- Owned by MakerBot (controversial in the community)
+- Recently acquired by MyMiniFactory (Feb 2026), future direction unclear
 
 **What you'll find:**
 - Everything. Literally everything.
@@ -125,7 +125,7 @@ Thangs is a search engine for 3D models. It indexes Thingiverse, Printables, MyM
 
 **Best for:** Tabletop gaming, miniatures, high-quality designs
 
-MyMiniFactory curates its collection—models must be tested before being approved. This means higher quality but smaller selection.
+MyMiniFactory curates its collection—models must be tested before being approved. This means higher quality but smaller selection. They also acquired Thingiverse in February 2026, though both platforms remain separate.
 
 **Why it's great:**
 - Every model is print-tested
@@ -169,13 +169,7 @@ Cults has a more curated, artistic vibe. Lots of interesting designs you won't f
 
 ---
 
-### 6. PrusaPrinters / Printables
-
-*(Same as #1—Prusa rebranded PrusaPrinters to Printables)*
-
----
-
-### 7. [Yeggi](https://www.yeggi.com) (yeggi.com)
+### 6. [Yeggi](https://www.yeggi.com) (yeggi.com)
 
 **Best for:** Search engine for 3D models
 
@@ -197,7 +191,7 @@ Like Thangs but older and simpler. Searches across 40+ sites.
 
 ## Niche & Specialized Sites
 
-### 8. [NASA 3D Resources](https://www.nasa.gov/resources/3d-models) (nasa.gov)
+### 8. [NASA 3D Resources](https://www.nasa.gov/3d-resources/) (nasa.gov)
 
 **Best for:** Space stuff (obviously)
 
@@ -215,7 +209,7 @@ NASA releases 3D models of spacecraft, satellites, asteroids, and more. Perfect 
 
 ---
 
-### 9. [NIH 3D Print Exchange](https://3dprint.nih.gov) (nih.gov)
+### 9. [NIH 3D](https://3d.nih.gov) (nih.gov)
 
 **Best for:** Medical and scientific models
 
@@ -251,21 +245,21 @@ GrabCAD is aimed at engineers and designers. Models are often CAD files (STEP, I
 
 ---
 
-### 11. [Pinshape](https://pinshape.com) (pinshape.com)
+### 11. [MakerWorld](https://makerworld.com) (makerworld.com)
 
-**Best for:** Curated quality designs
+**Best for:** Bambu Lab users, curated quality designs
 
-Smaller but quality-focused. Good mix of free and premium.
+MakerWorld is Bambu Lab's model-sharing platform. Growing fast, with pre-configured print profiles for Bambu printers.
 
 **What you'll find:**
-- Home goods
-- Toys and games
-- Fashion items
-- Designer pieces
+- Print-ready models optimized for Bambu printers
+- Functional prints, toys, and gadgets
+- Designer reward system (earn points for uploads)
+- One-click print integration with Bambu Studio
 
 **License:** Varies per model
 
-**Verdict:** ⭐⭐⭐ Solid alternative to the big sites
+**Verdict:** ⭐⭐⭐⭐ Best for Bambu Lab owners, growing fast
 
 ---
 
