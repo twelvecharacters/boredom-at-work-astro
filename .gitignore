@@ -31,3 +31,6 @@ __pycache__/
 # jetbrains setting folder
 .idea/
 .fact-check-confirmed
+
+# medium cross-post drafts (not part of site)
+medium-drafts/

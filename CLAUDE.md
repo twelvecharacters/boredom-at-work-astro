@@ -73,6 +73,27 @@ ItemList, VideoObject, HowTo, SoftwareApplication, Course
 
 **Commit:** `3c579cd feat: add IndexNow API, SoftwareApplication/Course schemas, and CTR-optimized titles`
 
+**✅ Grey Hat SEO: Web 2.0 Satellite Sites — Medium**
+
+| Detail | Wert |
+|--------|------|
+| Medium Account | `@mohammadmehdivazirian` |
+| Artikel #1 | [Claude vs ChatGPT (2026)](https://medium.com/@mohammadmehdivazirian/i-use-claude-and-chatgpt-every-day-heres-which-one-actually-wins-in-2026-fa449dc9f684) |
+| Status | ✅ Live |
+| Backlinks | `/claude-vs-chatgpt/` + Homepage |
+| Hinweis | Medium erlaubt nur 1 Gratis-Artikel — restliche 4 auf Dev.to, Hashnode, LinkedIn |
+
+**Noch offen (nächste Session "grey hat SEO action plan"):**
+
+| Plattform | Artikel | Status |
+|-----------|---------|--------|
+| Dev.to | #2 Best AI Tools for Office | TODO |
+| LinkedIn | #3 Free AI Courses | TODO |
+| Hashnode | #4 ChatGPT Plus vs Free | TODO |
+| LinkedIn | #5 AI Certifications | TODO |
+
+Alle 5 Drafts liegen in `medium-drafts/` (in `.gitignore`).
+
 ---
 
 ### Sitzung (15. Februar 2026)
