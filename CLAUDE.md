@@ -4,7 +4,58 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 14. Februar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 15. Februar 2026)
+
+### Sitzung (15. Februar 2026)
+
+**✅ Post-Publish Check: 2 Artikel (15. Feb)**
+
+| Artikel | URL | Status |
+|---------|-----|--------|
+| AI-Planned London Weekend | `/ai-planned-london-weekend/` | ✅ Live |
+| Pearcleaner Homebrew Guide | `/pearcleaner-homebrew-guide/` | ✅ Live |
+
+Beide Artikel: Title, Description, Bild, Tags, FAQs, interne Links, llms.txt — alles OK.
+
+**✅ AirPods Pro 2 → Pro 3 Update: Earbuds Comparison**
+
+| Detail | Vorher | Nachher |
+|--------|--------|---------|
+| Title | AirPods Pro 2 vs... | AirPods Pro 3 vs... |
+| Battery (Buds) | 6h | 8h |
+| Battery (Case) | 30h | 24h |
+| Water Resistance | IPX4 | IP57 |
+| ANC Ranking | Sony #1, AirPods #2 | AirPods #1, Sony #2 |
+| Neue Features | — | Heart Rate, Hearing Test, Live Translation, 5 Ear Tips |
+
+**Commit:** `0e3d0d7 fix: update earbuds comparison from AirPods Pro 2 to Pro 3`
+
+**✅ Fact-Check: KW9 (23.–27. Feb) — 20 Fixes**
+
+| Artikel | Fixes | Highlights |
+|---------|-------|------------|
+| `ai-writing-tools-comparison.md` | 3 | Jasper Pro $125→$69, Grammarly "Premium"→"Pro" + Enterprise, ProWritingAid Billing |
+| `3d-print-not-sticking.md` | 0 | Alle Claims korrekt |
+| `best-free-macos-software.md` | 7 | Alfred $60→~$42, Moom $10→$15, CleanMyMac ~$40/yr, Bartender $25, Little Snitch $59, iStat $12, Scrivener $60, Ulysses $40/yr |
+| `best-ai-chrome-extensions.md` | 6 | Claude for Chrome (Aug 2025) hinzugefügt, Merlin $19/mo + URL, MaxAI ~$12/mo, Compose AI ~$15/mo |
+| `best-sites-free-3d-models.md` | 4 | Thingiverse → MyMiniFactory Acquisition (Feb 2026), NASA URL Fix, NIH 3D Name, Pinshape → MakerWorld |
+
+**Commit:** `dc915cd fix: fact-check corrections across 4 articles (20 fixes, KW9)`
+
+**✅ Fact-Check: KW8 (16.–21. Feb, Wiederholung) — 8 Fixes**
+
+| Artikel | Fixes | Highlights |
+|---------|-------|------------|
+| `ai-presentation-makers.md` | 5 | Beautiful.ai Enterprise→custom pricing, Copilot $21/mo Business, Google Slides Workspace-Bundling, Slidebean $12/mo Starter |
+| `notion-ai-vs-obsidian-ai.md` | 3 | Add-on $8-10→$8, Google/Gemini als dritter Provider, GPT-5→GPT-5.2 |
+| `kindle-modding-guide.md` | 0 | Korrekt |
+| `pla-vs-petg-vs-abs.md` | 0 | Korrekt |
+| `how-to-use-ai-at-work-safely.md` | 0 | Korrekt |
+| `cura-settings-beginners.md` | 0 | Korrekt |
+
+**Commit:** `2c9ac8e fix: fact-check corrections for KW8 articles (8 fixes)`
+
+---
 
 ### Sitzung (14. Februar 2026)
 
