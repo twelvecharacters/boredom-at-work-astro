@@ -6,6 +6,75 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 15. Februar 2026)
 
+### Sitzung (15. Februar 2026 — Abend)
+
+**✅ Grey Hat SEO: IndexNow API Integration**
+
+| Detail | Wert |
+|--------|------|
+| IndexNow Key | `33eb690ddefc36d78165765c86948671` |
+| Key File | `public/33eb690ddefc36d78165765c86948671.txt` |
+| Script | `scripts/indexnow.js` (batch-submit via IndexNow API) |
+| CI Step | `.github/workflows/deploy.yml` — runs after build, `continue-on-error: true` |
+| npm Script | `npm run indexnow` (uses `--changed` flag for git-diff-based URLs) |
+| Endpoint | `https://api.indexnow.org/indexnow` (Bing, Yandex, etc.) |
+
+**✅ Grey Hat SEO: 2 neue Schema-Typen (SoftwareApplication + Course)**
+
+| Datei | Typ | Beschreibung |
+|-------|-----|--------------|
+| `src/components/SoftwareAppSchema.astro` | **Neu** | SoftwareApplication JSON-LD (Rating, OS, Category, Price) |
+| `src/components/CourseSchema.astro` | **Neu** | Course JSON-LD (Provider, Duration, Free/Paid) |
+| `src/content.config.ts` | Erweitert | `softwareAppSchema` + `courseSchema` Zod-Schemas |
+| `src/layouts/BlogPost.astro` | Erweitert | Import + conditional render beider Schemas |
+
+**Artikel mit SoftwareApplication Schema (5):**
+
+| Artikel | Rating | OS | Preis |
+|---------|--------|----|-------|
+| `google-gemini-review.md` | 4/5 | Web, Android, iOS | Free–$20/mo |
+| `microsoft-copilot-review.md` | 3.5/5 | Web, Windows, macOS | $21–$30/mo |
+| `claude-ai-review.md` | 4.5/5 | Web, iOS, Android | Free–$20/mo |
+| `chatgpt-plus-vs-free.md` | — | Web, iOS, Android, macOS, Windows | Free–$20/mo |
+| `perplexity-ai-guide.md` | — | Web, iOS, Android | Free–$20/mo |
+
+**Artikel mit Course Schema (2):**
+
+| Artikel | Provider | Duration | Free? |
+|---------|----------|----------|-------|
+| `google-ai-essentials-review.md` | Google (Coursera) | PT10H | Nein ($49) |
+| `learn-ai-guide.md` | Boredom at Work | PT4W | Ja |
+
+**Schema-Übersicht (jetzt 10 Typen):**
+```
+Organization, Article, BreadcrumbList, FAQPage, Product+Review,
+ItemList, VideoObject, HowTo, SoftwareApplication, Course
+```
+
+**✅ Grey Hat SEO: CTR-optimierte Titles & Descriptions (13 Artikel)**
+
+| Artikel | Vorher (Title) | Nachher (Title) |
+|---------|---------------|-----------------|
+| `best-ai-tools-office-work.md` | Best AI Tools for Office Work in 2026: Actually Useful... | 15 Best AI Tools for Office Work (I Tested 50+) |
+| `claude-vs-chatgpt.md` | Claude vs ChatGPT: Which AI Assistant... | Claude vs ChatGPT (2026): I Use Both Daily — Here's My Pick |
+| `ai-writing-tools-comparison.md` | AI Writing Tools Compared: Grammarly vs... | Best AI Writing Tools 2026 [Tested]: Grammarly vs Jasper vs Claude |
+| `best-ai-chrome-extensions.md` | Best AI Chrome Extensions for Productivity (2026) | 12 Best AI Chrome Extensions (2026) — Actually Worth Installing |
+| `best-cameras-for-beginners.md` | Best Cameras for Beginners: Complete Guide (2026) | 8 Best Cameras for Beginners in 2026 [Tested & Ranked] |
+| `3d-printing-beginners-guide.md` | 3D Printing for Beginners: The Complete Guide (2026) | 3D Printing for Beginners (2026): From Zero to First Print |
+| `productive-things-bored-at-work.md` | 25 Productive Things to Do When Bored at Work | + (2026) suffix |
+| `best-free-ai-courses.md` | Best Free AI Courses You Can Take at Work (2026) | 7 Best Free AI Courses (2026) — Take Them at Work |
+| `ai-certifications-in-a-week.md` | 5 AI Certifications You Can Complete in a Week | 5 AI Certifications You Can Finish in One Week (2026) |
+| `kindle-vs-kobo.md` | Kindle vs Kobo: Which E-Reader Should You Buy... | Kindle vs Kobo (2026): I Own Both — Here's Which to Buy |
+| `is-kindle-worth-it.md` | Is a Kindle Worth It in 2026? An Honest Assessment | Is a Kindle Worth It in 2026? (Honest Answer After 3 Years) |
+| `ai-tools-guide.md` | The Ultimate Guide to AI Tools for Work (2026) | AI Tools for Work: The Only Guide You Need (2026) |
+| `chatgpt-guide.md` | ChatGPT Mastery: Everything You Need to Know (2026) | ChatGPT Guide 2026: Beginner to Power User in One Read |
+
+**CTR-Patterns angewendet:** Zahlen im Title, [Brackets], First-Person Proof ("I Tested", "I Own Both"), Year Markers, Power Words, Curiosity Gaps
+
+**Commit:** `3c579cd feat: add IndexNow API, SoftwareApplication/Course schemas, and CTR-optimized titles`
+
+---
+
 ### Sitzung (15. Februar 2026)
 
 **✅ Post-Publish Check: 2 Artikel (15. Feb)**
