@@ -1,7 +1,7 @@
 ---
-title: "ChatGPT Mastery: Everything You Need to Know (2026)"
+title: "ChatGPT Guide 2026: Beginner to Power User in One Read"
 slug: "chatgpt-guide"
-description: "The complete ChatGPT guide. From first conversation to advanced prompts, custom instructions, and real-world workflows. Everything in one place."
+description: "Master ChatGPT from scratch. Prompts, custom instructions, plugins, and real workflows — the only guide you need to go from beginner to power user."
 publishDate: 2026-03-10
 updatedDate: 2026-03-10
 author: "bored chap"

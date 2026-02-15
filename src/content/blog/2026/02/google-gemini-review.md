@@ -11,6 +11,13 @@ review:
   productName: "Google Gemini"
   productBrand: "Google"
   priceRange: "Free–$20/month"
+softwareApp:
+  name: "Google Gemini"
+  operatingSystem: "Web, Android, iOS"
+  category: "BusinessApplication"
+  rating: 4
+  priceRange: "Free–$20/month"
+  url: "https://gemini.google.com"
 tldr: "Gemini excels at real-time info, Google Workspace integration, and multimodal tasks. Falls short on creative writing and complex reasoning. Free tier is generous. Worth trying alongside ChatGPT, not as a replacement."
 faq:
   - question: "Is Google Gemini better than ChatGPT?"

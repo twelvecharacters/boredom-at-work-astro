@@ -1,0 +1,58 @@
+---
+interface Props {
+  softwareApp: {
+    name: string;
+    operatingSystem?: string;
+    category?: string;
+    rating?: number;
+    ratingCount?: number;
+    priceRange?: string;
+    url?: string;
+  };
+  publishDate: Date;
+  author: string;
+}
+
+const { softwareApp, publishDate, author } = Astro.props;
+
+const schemaData = {
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": softwareApp.name,
+  ...(softwareApp.operatingSystem && { "operatingSystem": softwareApp.operatingSystem }),
+  ...(softwareApp.category && { "applicationCategory": softwareApp.category }),
+  ...(softwareApp.url && { "url": softwareApp.url }),
+  ...(softwareApp.priceRange && {
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceRange": softwareApp.priceRange
+    }
+  }),
+  ...(softwareApp.rating && {
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": softwareApp.rating,
+      "bestRating": 5,
+      "worstRating": 1,
+      "ratingCount": softwareApp.ratingCount || 1,
+      "reviewCount": 1
+    },
+    "review": {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": softwareApp.rating,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "author": {
+        "@type": "Person",
+        "name": author
+      },
+      "datePublished": publishDate.toISOString().split('T')[0]
+    }
+  })
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schemaData)} />

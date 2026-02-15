@@ -26,6 +26,14 @@ faq:
   - question: "What AI skills are employers looking for?"
     answer: "Top in-demand skills: prompt engineering, AI-assisted writing and analysis, workflow automation, and critical evaluation of AI outputs. Employers value people who know when to use AI and when not to. Soft skills—like fact-checking AI responses—are increasingly important as AI adoption grows."
 tldr: "Start with free AI tools (ChatGPT, Claude) and use them daily for real tasks. Take Google AI Essentials for foundations. Learn prompt engineering in an afternoon. Add certifications only if your career requires them. Focus on practical skills over theory—the best AI learners are the ones who use AI every day."
+course:
+  name: "How to Learn AI in 2026: The Complete Roadmap"
+  description: "Step-by-step guide to learning AI from beginner to job-ready. Free courses, certifications, and practical projects included."
+  provider: "Boredom at Work"
+  providerUrl: "https://boredom-at-work.com"
+  duration: "PT4W"
+  language: "en"
+  isFree: true
 isListicle: false
 ---
 

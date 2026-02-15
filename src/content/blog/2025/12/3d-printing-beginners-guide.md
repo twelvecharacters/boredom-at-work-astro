@@ -1,7 +1,7 @@
 ---
-title: "3D Printing for Beginners: The Complete Guide (2026)"
+title: "3D Printing for Beginners (2026): From Zero to First Print"
 slug: "3d-printing-beginners-guide"
-description: "Learn everything about 3D printing as a beginner. From choosing your first printer to materials and your first successful print - the ultimate starter guide."
+description: "Start 3D printing today. Printer recommendations under $300, material guide, and step-by-step to your first successful print."
 publishDate: 2025-12-24
 author: "bored chap"
 image: "/images/3d-printing-beginners.jpg"

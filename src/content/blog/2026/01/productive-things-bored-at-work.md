@@ -1,7 +1,7 @@
 ---
-title: "25 Productive Things to Do When Bored at Work"
+title: "25 Productive Things to Do When Bored at Work (2026)"
 slug: "productive-things-bored-at-work"
-description: "Turn your work downtime into career growth. Discover 25 genuinely productive things you can do when bored at work, from learning AI to updating your resume."
+description: "Bored at work? These 25 productive activities turn downtime into career growth — learn AI, build skills, and get ahead without anyone noticing."
 publishDate: 2026-01-11
 author: "bored chap"
 tags: ["Productivity", "Career Growth", "Work Tips"]

@@ -1,7 +1,7 @@
 ---
-title: "Claude vs ChatGPT: Which AI Assistant Should You Use in 2026?"
+title: "Claude vs ChatGPT (2026): I Use Both Daily — Here's My Pick"
 slug: "claude-vs-chatgpt"
-description: "Comparing Claude and ChatGPT head-to-head: writing, coding, reasoning, and which AI is better for your specific needs."
+description: "After using Claude and ChatGPT daily for 6+ months, here's which wins at writing, coding, and reasoning — with side-by-side examples."
 publishDate: 2026-02-02
 updatedDate: 2026-02-02
 author: "bored chap"

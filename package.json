@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build && pagefind --site dist",
+    "indexnow": "node scripts/indexnow.js --changed",
     "preview": "astro preview",
     "astro": "astro",
     "thumbnails": "node scripts/generate-thumbnails.js"

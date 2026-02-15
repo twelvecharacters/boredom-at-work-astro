@@ -39,6 +39,10 @@ jobs:
       - name: Build Astro
         run: npm run build
 
+      - name: Submit to IndexNow
+        run: npm run indexnow
+        continue-on-error: true
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

@@ -1,7 +1,7 @@
 ---
-title: "The Ultimate Guide to AI Tools for Work (2026)"
+title: "AI Tools for Work: The Only Guide You Need (2026)"
 slug: "ai-tools-guide"
-description: "Your complete guide to AI tools that actually boost productivity. From ChatGPT to specialized assistants—find the right AI for your workflow."
+description: "Every AI tool worth using at work in 2026. ChatGPT, Claude, Copilot, and 20+ specialized tools — organized by task with honest ratings."
 publishDate: 2026-03-04
 updatedDate: 2026-03-04
 author: "bored chap"

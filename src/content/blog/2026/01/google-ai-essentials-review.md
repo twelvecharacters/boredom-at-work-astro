@@ -12,6 +12,14 @@ review:
   productName: "Google AI Essentials"
   productBrand: "Google"
   priceRange: "Free–$49"
+course:
+  name: "Google AI Essentials"
+  description: "Google's beginner-friendly AI course covering AI fundamentals, prompt engineering, and practical applications. Certificate available."
+  provider: "Google"
+  providerUrl: "https://www.coursera.org/learn/google-ai-essentials"
+  duration: "PT10H"
+  language: "en"
+  isFree: false
 faq:
   - question: "Is Google AI Essentials really free?"
     answer: "The content is free to audit. The certificate costs $49. You can learn everything without paying—you just won't get the official credential."

@@ -1,7 +1,7 @@
 ---
-title: "5 AI Certifications You Can Complete in a Week"
+title: "5 AI Certifications You Can Finish in One Week (2026)"
 slug: "ai-certifications-in-a-week"
-description: "Get AI certified in just one week. Discover the best quick AI certifications from Google, Microsoft, IBM, and more that boost your resume without months of study."
+description: "Get AI certified in 7 days. Google, Microsoft, and IBM certifications ranked by resume impact — I completed all 5 and here's what's worth it."
 publishDate: 2025-12-25
 author: "bored chap"
 tags: ["AI Certification", "Career Development", "Quick Learning"]

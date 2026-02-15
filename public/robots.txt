@@ -26,6 +26,9 @@ Allow: /
 # Sitemap
 Sitemap: https://boredom-at-work.com/sitemap-index.xml
 
+# IndexNow
+# Key: https://boredom-at-work.com/33eb690ddefc36d78165765c86948671.txt
+
 # LLM Context
 # See https://llmstxt.org for specification
 # LLMs.txt: https://boredom-at-work.com/llms.txt

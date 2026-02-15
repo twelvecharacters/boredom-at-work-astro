@@ -1,0 +1,50 @@
+---
+import { SITE } from '../config';
+
+interface Props {
+  course: {
+    name: string;
+    description: string;
+    provider?: string;
+    providerUrl?: string;
+    duration?: string;
+    language?: string;
+    isFree?: boolean;
+  };
+  articleUrl: string;
+}
+
+const { course, articleUrl } = Astro.props;
+
+const schemaData = {
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": course.name,
+  "description": course.description,
+  "url": `${SITE.url}${articleUrl}`,
+  ...(course.provider && {
+    "provider": {
+      "@type": "Organization",
+      "name": course.provider,
+      ...(course.providerUrl && { "url": course.providerUrl })
+    }
+  }),
+  ...(course.language && { "inLanguage": course.language }),
+  ...(course.duration && { "timeRequired": course.duration }),
+  ...(course.isFree !== undefined && {
+    "isAccessibleForFree": course.isFree
+  }),
+  "offers": {
+    "@type": "Offer",
+    "price": course.isFree ? "0" : undefined,
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "category": "Paid"
+  }
+};
+
+// Clean undefined values
+const cleanSchema = JSON.parse(JSON.stringify(schemaData));
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(cleanSchema)} />

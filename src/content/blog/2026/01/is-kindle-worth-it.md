@@ -1,7 +1,7 @@
 ---
-title: "Is a Kindle Worth It in 2026? An Honest Assessment"
+title: "Is a Kindle Worth It in 2026? (Honest Answer After 3 Years)"
 slug: "is-kindle-worth-it"
-description: "Wondering if a Kindle is worth buying? We break down the pros, cons, and whether an e-reader makes sense for your reading habits."
+description: "After 3 years with a Kindle, here's my honest take. Pros, cons, and exactly who should (and shouldn't) buy one in 2026."
 publishDate: 2026-01-21
 author: "bored chap"
 image: "/images/kindle-worth-it.webp"

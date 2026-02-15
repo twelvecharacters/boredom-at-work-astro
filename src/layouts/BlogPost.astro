@@ -11,6 +11,8 @@ import ReviewSchema from '../components/ReviewSchema.astro';
 import ListicleSchema from '../components/ListicleSchema.astro';
 import VideoSchema from '../components/VideoSchema.astro';
 import HowToSchema from '../components/HowToSchema.astro';
+import SoftwareAppSchema from '../components/SoftwareAppSchema.astro';
+import CourseSchema from '../components/CourseSchema.astro';
 import AuthorBio from '../components/AuthorBio.astro';
 import { SITE } from '../config';
 import { getPostSlug } from '../utils/blog';
@@ -21,7 +23,7 @@ interface Props {
 }
 
 const { post } = Astro.props;
-const { title, description, publishDate, updatedDate, author, image, tags, faq, tldr, review, isListicle, video, howTo } = post.data;
+const { title, description, publishDate, updatedDate, author, image, tags, faq, tldr, review, isListicle, video, howTo, softwareApp, course } = post.data;
 
 // Calculate reading time (average 200 words per minute)
 const content = post.body || '';
@@ -304,6 +306,21 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
       howTo={howTo}
       articleTitle={title}
       articleDescription={description}
+    />
+  )}
+
+  {softwareApp && (
+    <SoftwareAppSchema
+      softwareApp={softwareApp}
+      publishDate={publishDate}
+      author={author}
+    />
+  )}
+
+  {course && (
+    <CourseSchema
+      course={course}
+      articleUrl={`/${getPostSlug(post)}/`}
     />
   )}
 

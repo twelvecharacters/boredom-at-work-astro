@@ -13,6 +13,13 @@ review:
   productName: "Claude AI"
   productBrand: "Anthropic"
   priceRange: "Free–$20/month"
+softwareApp:
+  name: "Claude AI"
+  operatingSystem: "Web, iOS, Android"
+  category: "BusinessApplication"
+  rating: 4.5
+  priceRange: "Free–$20/month"
+  url: "https://claude.ai"
 faq:
   - question: "Is Claude better than ChatGPT?"
     answer: "For writing and long-form analysis, yes. Claude produces more natural, nuanced text and handles longer documents better. For general tasks, image generation, and ecosystem integrations, ChatGPT wins. Most power users have both."

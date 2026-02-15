@@ -7,6 +7,12 @@ author: "bored chap"
 image: "/images/perplexity-ai-guide.webp"
 tags: ["AI", "Perplexity", "Productivity", "Research", "Search"]
 draft: false
+softwareApp:
+  name: "Perplexity AI"
+  operatingSystem: "Web, iOS, Android"
+  category: "BusinessApplication"
+  priceRange: "Free–$20/month"
+  url: "https://www.perplexity.ai"
 faq:
   - question: "Is Perplexity AI free to use?"
     answer: "Yes, Perplexity offers a free tier with limited Pro searches per day. Perplexity Pro costs $20/month and includes unlimited Pro searches, file uploads, and access to multiple AI models."
