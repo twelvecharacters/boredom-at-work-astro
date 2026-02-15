@@ -26,12 +26,12 @@ I tested all the major AI presentation tools with the same prompt to see which a
 | Tool | Best For | Price | Free Tier | Rating |
 |------|----------|-------|-----------|--------|
 | **Gamma** | Overall best | $10-20/mo | ✅ 400 credits | ⭐⭐⭐⭐⭐ |
-| **Beautiful.ai** | Teams/brands | $12-50/mo | 14-day trial | ⭐⭐⭐⭐ |
+| **Beautiful.ai** | Teams/brands | $12-40/mo | 14-day trial | ⭐⭐⭐⭐ |
 | **Canva AI** | Design flexibility | $15/mo | ✅ Basic | ⭐⭐⭐⭐ |
-| **PowerPoint + Copilot** | Microsoft users | $20-30/mo | ❌ | ⭐⭐⭐⭐ |
-| **Google Slides + Gemini** | Google users | Free-$20/mo | ✅ | ⭐⭐⭐ |
+| **PowerPoint + Copilot** | Microsoft users | $20-30/mo+ | ❌ | ⭐⭐⭐⭐ |
+| **Google Slides + Gemini** | Google users | Free-$22/mo | ✅ | ⭐⭐⭐ |
 | **SlidesAI** | Google Slides users | $10/mo | ✅ 3 presentations | ⭐⭐⭐ |
-| **Slidebean** | Pitch decks | $12-19/mo | ✅ Limited | ⭐⭐⭐ |
+| **Slidebean** | Pitch decks | $12/mo | ✅ Limited | ⭐⭐⭐ |
 
 **My pick:** Gamma for most users. Beautiful.ai for teams. Canva if you want design control.
 
@@ -94,7 +94,7 @@ The remote work presentation included relevant sections (productivity tools, asy
 
 ## 2. Beautiful.ai — Best for Teams
 
-**Price:** $12/mo (Pro) / $40/mo (Team) / $50/mo (Enterprise)
+**Price:** $12/mo (Pro, annual) / $40/mo (Team, annual) / Enterprise (custom pricing)
 
 Beautiful.ai pioneered "smart" presentation design. The AI constrains your choices to ensure everything looks good.
 
@@ -207,7 +207,7 @@ Gave me options rather than one finished product. More work to get to done, but 
 
 ## 5. Microsoft PowerPoint + Copilot
 
-**Price:** $19.99/mo (Microsoft 365 Premium for individuals) or $30/user/mo (Copilot add-on for business, requires M365 subscription)
+**Price:** $19.99/mo (Microsoft 365 Premium for individuals) or $21/user/mo (Copilot for Business) / $30/user/mo (Enterprise)
 
 Microsoft's AI built directly into PowerPoint.
 
@@ -225,7 +225,7 @@ Microsoft's AI built directly into PowerPoint.
 
 ### What I Don't Like:
 
-- Expensive ($19.99/mo for individuals, $30/user/mo add-on for business on top of M365)
+- Expensive ($19.99/mo for individuals, $21-30/user/mo for business on top of M365)
 - Design quality inferior to dedicated tools
 - Copilot suggestions can be hit or miss
 - Still feels like PowerPoint with AI bolted on
@@ -245,9 +245,9 @@ Functional but uninspired. The AI helped with content but designs looked like...
 
 ## 6. Google Slides + Gemini
 
-**Price:** Free / ~$20/mo (Google AI Pro)
+**Price:** Free (personal) / included in Google Workspace plans ($7-22/user/mo)
 
-Google is adding Gemini AI throughout Workspace, including Slides.
+Google has integrated Gemini AI throughout Workspace, including Slides.
 
 ### What I Like:
 
@@ -316,7 +316,7 @@ Functional slides within Google Slides limitations. Not as polished as standalon
 
 ## 8. Slidebean — Best for Pitch Decks
 
-**Price:** ~$12-19/mo (All-Access) / $99/mo (Accelerate)
+**Price:** $12/mo Starter ($7/mo annual) / $99/mo Accelerate
 
 Slidebean focuses specifically on startup pitch decks.
 
