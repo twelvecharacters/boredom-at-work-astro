@@ -33,6 +33,17 @@ Organization, Article, BreadcrumbList, FAQPage, Product+Review, ItemList, VideoO
 
 **Commit:** `b0b91e0 feat: expand schema markup with VideoObject, HowTo, and flag missing isListicle/review`
 
+**✅ Rich Results Validation (Live-Seiten geprüft)**
+
+| Seite | Schemas | Status |
+|-------|---------|--------|
+| `/chatgpt-plus-vs-free/` | Organization, BreadcrumbList, Article, FAQPage, **VideoObject** | ✅ |
+| `/chatgpt-custom-instructions/` | Organization, BreadcrumbList, Article, FAQPage, **HowTo** (5 Steps, PT15M) | ✅ |
+| `/google-ai-essentials-review/` | Organization, BreadcrumbList, Article, FAQPage, **Product+Review** (4.5/5, Google) | ✅ |
+| `/best-cameras-for-beginners/` | Organization, BreadcrumbList, Article, FAQPage, **ItemList** (8 Items) | ✅ |
+
+Alle 4 neuen Schema-Kombinationen rendern korrekt auf der Live-Seite. Jede Seite hat 5 JSON-LD Blöcke: 3 Basis (Organization, Breadcrumbs, Article) + FAQPage + typ-spezifisches Schema.
+
 **✅ Post-Publish Check: AI Meeting Assistants**
 
 | Check | Status |
