@@ -1,7 +1,7 @@
 ---
-title: "AirPods Pro vs Galaxy Buds vs Sony WF-1000XM5: Which Earbuds Win?"
+title: "AirPods Pro 3 vs Galaxy Buds vs Sony WF-1000XM5: Which Win?"
 slug: "airpods-vs-galaxy-buds-vs-sony"
-description: "Comparing the top wireless earbuds from Apple, Samsung, and Sony. Sound quality, ANC, comfort, and which ones are worth your money."
+description: "AirPods Pro 3 vs Galaxy Buds3 Pro vs Sony WF-1000XM5. Sound, ANC, battery, comfort — which earbuds are worth your money in 2026?"
 publishDate: 2026-01-29
 author: "bored chap"
 image: "/images/airpods-vs-galaxy-buds-vs-sony.webp"
@@ -16,7 +16,7 @@ faq:
   - question: "Are AirPods Pro worth it for Android users?"
     answer: "Not really. AirPods Pro work with Android but lose many features: no automatic ear detection, no easy pairing, no Spatial Audio. Galaxy Buds or Sony offer better value for Android users."
   - question: "Which earbuds have the best noise cancellation?"
-    answer: "Sony WF-1000XM5 leads in pure noise cancellation performance. AirPods Pro 2 is close behind with excellent adaptive ANC. Galaxy Buds are good but a step behind both."
+    answer: "AirPods Pro 3 and Sony WF-1000XM5 are neck and neck for best-in-class ANC. Apple claims 2x more noise reduction over Pro 2. Galaxy Buds are good but a step behind both."
   - question: "How long do wireless earbuds last before the battery degrades?"
     answer: "Typically 2-3 years of heavy use before noticeable battery degradation. The case battery usually lasts longer. None of these earbuds have replaceable batteries, which is a downside of the form factor."
 ---
@@ -29,16 +29,17 @@ Let's break down which ones actually deserve your money.
 
 ## The Contenders
 
-| Feature | AirPods Pro 2 | Galaxy Buds3 Pro | Sony WF-1000XM5 |
+| Feature | AirPods Pro 3 | Galaxy Buds3 Pro | Sony WF-1000XM5 |
 |---------|---------------|------------------|-----------------|
 | Price | $249 | $249 | $299 |
-| ANC | Excellent | Very Good | Best in Class |
+| ANC | Best in Class | Very Good | Best in Class |
 | Sound Quality | Very Good | Excellent | Excellent |
-| Battery (buds) | 6 hours | 6 hours | 8 hours |
-| Battery (w/case) | 30 hours | 30 hours | 24 hours |
+| Battery (buds) | 8 hours | 6 hours | 8 hours |
+| Battery (w/case) | 24 hours | 30 hours | 24 hours |
+| Water Resistance | IP57 | IP57 | IPX4 |
 | Best for | iPhone users | Samsung/Android | Audiophiles |
 
-## AirPods Pro 2: The iPhone Default
+## AirPods Pro 3: The iPhone Default
 
 ### What Apple Gets Right
 
@@ -53,23 +54,25 @@ If you have an iPhone, AirPods Pro "just work" in a way other earbuds can't matc
 
 **Adaptive Audio**
 
-AirPods Pro 2 introduced Adaptive Audio — a mode that dynamically mixes noise cancellation and transparency based on your environment. Walking down a busy street? More cancellation. Someone talking to you? It lets them through.
-
-It's genuinely useful and something competitors haven't matched.
+AirPods Pro 3 take Adaptive Audio even further — dynamically mixing noise cancellation and transparency based on your environment. Walking down a busy street? More cancellation. Someone talking to you? It lets them through. Voice Isolation on calls cuts out background noise better than ever.
 
 **Comfort and Fit**
 
-The stem design isn't for everyone visually, but it's comfortable for hours. Four silicone tip sizes help find the right seal.
+The stem design isn't for everyone visually, but it's comfortable for hours. Five silicone tip sizes (including a new XXS) help find the right seal. The new IP57 rating means much better dust and water resistance than the Pro 2's IPX4.
 
-**Excellent ANC**
+**Best-in-Class ANC**
 
-Not quite Sony-level, but close. Very good at blocking low-frequency sounds like airplane engines and office HVAC. Conversation Awareness pauses music when you speak.
+Apple claims 2x more noise cancellation than the Pro 2, and it shows. AirPods Pro 3 now rival Sony for the best ANC in any earbuds. Airplane engines, office chatter, street noise — all significantly reduced. Conversation Awareness pauses music when you speak.
+
+**Health Features**
+
+New to the Pro 3: built-in heart rate monitoring during workouts, a clinical-grade hearing test, hearing aid mode for mild to moderate hearing loss, and Live Translation for real-time conversations across languages.
 
 ### Where AirPods Fall Short
 
 **Sound Quality**
 
-Good, not great. AirPods Pro prioritize clarity and balance over bass and dynamics. Audiophiles often find them flat compared to Sony or even Galaxy Buds.
+Improved over the Pro 2 with a fuller bass and better dynamic range, but Sony still edges ahead for pure audiophile listening. Galaxy Buds3 Pro also have a slight edge in raw sound quality.
 
 **Android Experience**
 
@@ -79,18 +82,19 @@ AirPods work with Android, but you lose:
 - Spatial Audio
 - Find My tracking
 - Battery widget
+- Health features (heart rate, hearing test)
 
 If you're on Android, these aren't worth $249.
 
-**Price**
+**Case Battery Trade-Off**
 
-At $249, you're paying for the Apple ecosystem, not necessarily the best audio performance.
+The case holds 24 hours total (down from 30h on the Pro 2), though the buds themselves last 8 hours — 2 more than before. Net result: fewer case top-ups needed.
 
-### Buy AirPods Pro 2 If:
+### Buy AirPods Pro 3 If:
 - You have an iPhone (and ideally other Apple devices)
 - Seamless integration matters more than audio perfection
-- You want Adaptive Audio and Conversation Awareness
-- You value the "it just works" experience
+- You want best-in-class ANC with Adaptive Audio
+- Health features (heart rate, hearing test) interest you
 
 ---
 
@@ -133,7 +137,7 @@ Galaxy Buds work with iPhones, but like AirPods with Android, you lose features:
 
 **ANC Not Best-in-Class**
 
-Good, but Sony and AirPods Pro 2 both beat it in raw noise cancellation performance.
+Good, but Sony and AirPods Pro 3 both beat it in raw noise cancellation performance.
 
 **Durability Questions**
 
@@ -161,18 +165,18 @@ Sony's audio pedigree shows. The WF-1000XM5 sound incredible:
 
 For pure listening enjoyment, Sony wins.
 
-**Best Noise Cancellation**
+**Excellent Noise Cancellation**
 
-Industry-leading ANC. These block more noise than any competitor:
+Sony's ANC is still among the best, though AirPods Pro 3 now match it:
 - Airplane cabin noise: virtually gone
 - Office chatter: significantly reduced
 - Street traffic: heavily dampened
 
-If you travel frequently or work in noisy environments, nothing else comes close.
+If you travel frequently or work in noisy environments, Sony remains a top pick.
 
 **Battery Life**
 
-8 hours with ANC on — 2 hours more than competitors. The case adds 16 hours. Sony optimizes their chips efficiently.
+8 hours with ANC on — matching AirPods Pro 3, and 2 hours more than Galaxy Buds. The case adds 16 hours. Sony optimizes their chips efficiently.
 
 **Multipoint Connection**
 
@@ -212,7 +216,7 @@ Unlike AirPods and Galaxy Buds, the standard case isn't wireless charging compat
 
 ## Sound Quality Comparison
 
-| Aspect | AirPods Pro 2 | Galaxy Buds3 Pro | Sony WF-1000XM5 |
+| Aspect | AirPods Pro 3 | Galaxy Buds3 Pro | Sony WF-1000XM5 |
 |--------|---------------|------------------|-----------------|
 | Bass | Balanced | Punchy | Deep, controlled |
 | Mids | Clear | Detailed | Rich |
@@ -226,20 +230,20 @@ Unlike AirPods and Galaxy Buds, the standard case isn't wireless charging compat
 
 ## Noise Cancellation Ranked
 
-1. **Sony WF-1000XM5** — Best overall, especially for low frequencies
-2. **AirPods Pro 2** — Excellent, with smart adaptive features
+1. **AirPods Pro 3** — Best overall, 2x improvement over Pro 2
+2. **Sony WF-1000XM5** — Neck and neck, especially for low frequencies
 3. **Galaxy Buds3 Pro** — Good, but a step behind
 
 ## Call Quality Ranked
 
-1. **AirPods Pro 2** — Best microphones, best wind noise handling
+1. **AirPods Pro 3** — Best microphones, best wind noise handling
 2. **Galaxy Buds3 Pro** — Very good, slight wind issues
 3. **Sony WF-1000XM5** — Good, not exceptional
 
 ## Ecosystem Lock-In Reality Check
 
 **If you have an iPhone:**
-1. AirPods Pro 2 (seamless)
+1. AirPods Pro 3 (seamless)
 2. Sony WF-1000XM5 (if audio is priority)
 3. Galaxy Buds (missing features)
 
@@ -255,7 +259,7 @@ Unlike AirPods and Galaxy Buds, the standard case isn't wireless charging compat
 
 ## The Verdict
 
-### Best Overall for iPhone Users: AirPods Pro 2
+### Best Overall for iPhone Users: AirPods Pro 3
 The integration is unmatched. Sound and ANC are excellent, just not the absolute best. Worth it for the seamless experience.
 
 ### Best Overall for Android Users: Sony WF-1000XM5
@@ -265,16 +269,16 @@ Without Apple's ecosystem advantages, pure audio quality and ANC win. The price 
 $249 for excellent sound, good ANC, and great Samsung integration. Good value, especially during sales.
 
 ### Best for Travelers: Sony WF-1000XM5
-Nothing blocks airplane noise better. 8-hour battery means most flights covered without the case.
+Excellent ANC and 8-hour battery means most flights covered without the case. Multipoint connection lets you switch between laptop and phone seamlessly.
 
-### Best for Calls: AirPods Pro 2
+### Best for Calls: AirPods Pro 3
 Apple's microphone technology is ahead. If you take lots of calls, this matters.
 
 ---
 
 ## Quick Decision Guide
 
-**Buy AirPods Pro 2 if:**
+**Buy AirPods Pro 3 if:**
 - You have an iPhone
 - You value integration over raw performance
 - You take lots of calls
@@ -291,4 +295,4 @@ Apple's microphone technology is ahead. If you take lots of calls, this matters.
 
 All three are excellent. The "best" one depends entirely on what phone you carry and what you prioritize.
 
-Looking for more affordable options? Check out our [best tech gifts under $50](/best-tech-gifts-under-50/) for budget-friendly earbuds and other gadgets.
+*Want the full deep dive on Apple's latest? Read my [AirPods Pro 3 hands-on review](/airpods-pro-3-review/). Looking for more affordable options? Check out our [best tech gifts under $50](/best-tech-gifts-under-50/) for budget-friendly earbuds and other gadgets.*
