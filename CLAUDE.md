@@ -27,6 +27,22 @@
 | Canonical URL | `/best-ai-tools-office-work/` |
 | Backlinks | AI Tools Guide + Homepage |
 
+**✅ YouTube Video: ChatGPT Guide**
+
+| Detail | Wert |
+|--------|------|
+| URL | https://youtu.be/0YHgavdF_3E |
+| Status | 🔒 Unlisted → **10. März** public schalten |
+| Thumbnail | `thumbnail-chatgpt-guide-resized.png` |
+| Einbetten in | `chatgpt-guide.md` (am 10. März) |
+
+**✅ Reddit Posts: London Weekend**
+
+| Subreddit | Status |
+|-----------|--------|
+| r/travel | ✅ Gepostet |
+| r/Celiac | ✅ Gepostet |
+
 **Web 2.0 Satellites Stand:**
 
 | Plattform | Artikel | Status |
@@ -680,7 +696,7 @@ Mani (Bruder) hat 5 Commits gepusht mit:
 **Nächste Reddit-Posts (noch offen):**
 - [x] Best AI Tools for Office → r/productivity ✅ Gepostet (8. Feb)
 - [x] AI Meeting Assistants → r/remotework ✅ Gepostet (8. Feb)
-- [ ] AI-Planned London Weekend → r/travel, r/solotravel (nach 15. Feb)
+- [x] AI-Planned London Weekend → r/travel, r/Celiac ✅ Gepostet (16. Feb)
 
 ---
 
