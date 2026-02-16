@@ -9,7 +9,7 @@ tags: ["AI", "Travel", "London", "Gluten-Free", "Trip Planning"]
 draft: false
 faq:
   - question: "Can AI really plan a trip for someone with dietary restrictions?"
-    answer: "Yes! I used Clawd.bot to plan a gluten-free weekend in London. It found dedicated GF restaurants like Ugly Dumpling and suggested celiac-safe options. All three restaurants we visited had proper GF menus and I had zero reactions."
+    answer: "Yes! I used Clawd.bot to plan a gluten-free weekend in London for my girlfriend who has celiac disease. It found dedicated GF restaurants like Ugly Dumpling and suggested celiac-safe options. All three restaurants we visited had proper GF menus and she had zero reactions."
   - question: "Is Clawd.bot free to use for trip planning?"
     answer: "Clawd.bot is open-source and free to install. Your only costs are hosting (~$5/month on a VPS) and AI API usage, which varies by how much you use it. For a weekend trip with specific requirements like gluten-free dining, it worked perfectly without racking up a big bill."
   - question: "How accurate are AI-generated travel itineraries?"
@@ -18,7 +18,7 @@ faq:
 
 I've written plenty about [AI trip planning tools](/best-ai-trip-planners/) — and I even [let Claude plan a 3-day Dubai trip](/claude-planned-dubai-trip/) with helicopter tours and Michelin-recommended dinners. But there's a difference between testing an app and actually trusting it with your weekend.
 
-So when my girlfriend and I booked last-minute flights to London, I decided to let AI do the heavy lifting. One catch: I have celiac disease, so every restaurant recommendation needed to be genuinely gluten-free safe.
+So when my girlfriend and I booked last-minute flights to London, I decided to let AI do the heavy lifting. One catch: my girlfriend has celiac disease, so every restaurant recommendation needed to be genuinely gluten-free safe.
 
 Here's the unfiltered trip report.
 
@@ -88,7 +88,7 @@ The red lanterns were glowing, the streets were packed, and we spent a good 30 m
 
 ![Gluten-free dumplings at Ugly Dumpling](/images/ai-london-trip-dumplings.webp)
 
-This was the real test. As someone with celiac disease, I can't just "try" a restaurant. One wrong sauce and I'm sick for days.
+This was the real test. My girlfriend has celiac disease — she can't just "try" a restaurant. One wrong sauce and she's sick for days.
 
 Clawd.bot had recommended [Ugly Dumpling](https://uglydumpling.co.uk/) specifically because they have a dedicated gluten-free menu and excellent reviews on [FindMeGlutenFree](https://www.findmeglutenfree.com/biz/ugly-dumpling/6243481373245440) (90+ community ratings at time of writing). The AI even linked to their celiac-safe rating.
 
@@ -110,7 +110,7 @@ Clawd.bot had recommended [Ugly Dumpling](https://uglydumpling.co.uk/) specifica
 
 **Pro tip:** Visit on Sunday or Monday for their GF meal deal. Avoid weekday evenings and Saturdays if you're highly sensitive — they note that "during busy hours there are longer waiting times for GF foods to decrease cross-contamination risk." We went Saturday evening and had no issues, but it's good they're transparent about it.
 
-We ordered way too many dumplings, and I had zero reaction. For celiacs reading this: Ugly Dumpling is safe. Check their [current GF menu (PDF)](https://uglydumpling.co.uk/menus/) before you go.
+We ordered way too many dumplings, and she had zero reaction. For celiacs reading this: Ugly Dumpling is safe. Check their [current GF menu (PDF)](https://uglydumpling.co.uk/menus/) before you go.
 
 ### Sunday: British Museum + Fish & Chips
 
