@@ -6,6 +6,31 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 16. Februar 2026)
 
+### Sitzung (16. Februar 2026 — Nachmittag)
+
+**✅ Fix: Zöliakie-Zuordnung im London-Artikel korrigiert**
+
+| Stelle | Vorher | Nachher |
+|--------|--------|---------|
+| Intro | "I have celiac disease" | "my girlfriend has celiac disease" |
+| FAQ | "I had zero reactions" | "she had zero reactions" |
+| Ugly Dumpling | "As someone with celiac disease, I can't..." | "My girlfriend has celiac disease — she can't..." |
+| Fazit | "I had zero reaction" | "she had zero reaction" |
+
+**Commit:** `c29446e fix: correct celiac disease attribution in London trip article`
+
+**✅ Konsistenz-Check: Alle Artikel geprüft**
+- Malaysia, Southeast Asia, Japan/Vietnam/Cambodia Comparison: ✅ Korrekt ("partner has celiac disease")
+- Dubai: ✅ Korrekt ("No dietary restrictions" — Freundin war nicht dabei)
+- Prompt-Templates in Code-Blöcken: ✅ Generisch, OK
+- London war der einzige inkonsistente Artikel
+
+**✅ Personal Facts Memory angelegt**
+- `~/.claude/projects/.../memory/personal-facts.md` — Persönliche Details die artikelübergreifend konsistent sein müssen
+- Wichtigste Regel: **Freundin hat Zöliakie, NICHT der Autor**
+
+---
+
 ### Sitzung (16. Februar 2026)
 
 **✅ Internal Linking: London ↔ Dubai Trip Artikel**
