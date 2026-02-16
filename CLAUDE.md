@@ -4,7 +4,55 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 16. Februar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 16. Februar 2026 Abend)
+
+### Sitzung (16. Februar 2026 — Abend)
+
+**✅ Home Office Cluster Expansion geplant (5 → 15 Artikel)**
+
+| # | Artikel | Publish | Priorität |
+|---|---------|---------|-----------|
+| 1 | Best Monitors for WFH 2026 | 24. März | ✅ Geschrieben |
+| 2 | Best USB-C Docking Stations | 26. März | TODO |
+| 3 | Best Ergonomic Mice | 31. März | TODO |
+| 4 | Best Monitor Light Bars | 2. April | TODO |
+| 5 | Best Webcams for WFH | 7. April | TODO |
+| 6 | Best NC Headphones for Office | 9. April | TODO |
+| 7 | Best Desk Mats | 14. April | TODO |
+| 8 | Best Laptop Stands | 16. April | TODO |
+| 9 | Dual Monitor Setup Guide | 21. April | TODO |
+| 10 | Best Under-Desk Footrests | 23. April | TODO |
+
+**✅ NEUES Cluster: Finance/Investing at Work**
+
+Angle: **Tools & Learning** — keine Anlageberatung! YMYL-Disclaimer in jedem Artikel.
+
+| # | Artikel | Publish | Priorität |
+|---|---------|---------|-----------|
+| 1 | Best Paper Trading Apps | 28. April | ✅ Geschrieben |
+| 2 | Free Investing Courses | 30. April | TODO |
+| 3 | Investing Tools Guide (Hub) | 5. Mai | TODO |
+| 4 | Polymarket vs Kalshi | 7. Mai | TODO |
+| 5 | Best Stock Screeners | 12. Mai | TODO |
+| 6 | Investing Apps for Beginners | 14. Mai | TODO |
+| 7 | Crypto Portfolio Trackers | 19. Mai | TODO |
+| 8 | Stock News Apps | 21. Mai | TODO |
+| 9 | ChatGPT for Stock Research | 26. Mai | TODO |
+| 10 | How Prediction Markets Work | 28. Mai | TODO |
+| 11 | Dividend Tracker Apps | 2. Juni | TODO |
+| 12 | Finance Subreddits | 4. Juni | TODO |
+| 13 | Investing Podcasts | 9. Juni | TODO |
+
+**Top Affiliate-Partner (Finance):**
+- Webull (bis $1.400/Ref), Robinhood ($20/Signup), Koinly (20% recurring), TradingView (50%), Seeking Alpha (~$15-20/Sub), Kalshi ($10-50/Ref)
+
+**Commit:** `6d27040 feat: add Best Monitors for WFH + Best Paper Trading Apps articles`
+
+**Noch offen für beide Artikel:**
+- Featured Images (WebP)
+- llms.txt + llms-full.txt Update
+
+---
 
 ### Sitzung (16. Februar 2026 — Nachmittag)
 
@@ -1453,6 +1501,8 @@ rm bildname.png
 | AI/Travel | 17 | Aktiv (1 Feb) + Draft (März-Juni) |
 | 3D Printing | 6 | Aktiv |
 | Photography | 8 | Aktiv (+RapidRAW) |
+| Home Office / Desk Setup | 5 → 15 | Aktiv (Expansion läuft, 1/10 neue geschrieben) |
+| Finance / Investing | 1 → 13 | **NEU** (1/13 geschrieben, Hub + 12 Supporting) |
 | Japan Shopping | 3 | Aktiv |
 | Tech & Gadgets | 10 | Aktiv (+ClawDBot, macOS Tahoe, Pearcleaner, Kindle Modding) |
 
@@ -1495,6 +1545,37 @@ rm bildname.png
 | Datum | Artikel | Kategorie | Status |
 |-------|---------|-----------|--------|
 | ~~11. März~~ 14. Feb | Ray-Ban Meta Review: 2 Weeks with Smart Glasses | Tech & Gadgets | ✅ Live |
+
+### Home Office Cluster Expansion (März-April 2026)
+| Datum | Artikel | Slug | Status |
+|-------|---------|------|--------|
+| 24. März | Best Monitors for WFH 2026 | `/best-monitors-working-from-home/` | ✅ Geschrieben |
+| 26. März | Best USB-C Docking Stations | `/best-usb-c-docking-stations/` | TODO |
+| 31. März | Best Ergonomic Mice | `/best-ergonomic-mice-office/` | TODO |
+| 2. April | Best Monitor Light Bars | `/best-monitor-light-bars/` | TODO |
+| 7. April | Best Webcams for WFH | `/best-webcams-working-from-home/` | TODO |
+| 9. April | Best NC Headphones for Office | `/best-noise-canceling-headphones-office/` | TODO |
+| 14. April | Best Desk Mats | `/best-desk-mats/` | TODO |
+| 16. April | Best Laptop Stands | `/best-laptop-stands/` | TODO |
+| 21. April | Dual Monitor Setup Guide | `/dual-monitor-setup-guide/` | TODO |
+| 23. April | Best Under-Desk Footrests | `/best-under-desk-footrests/` | TODO |
+
+### Finance/Investing Cluster (April-Juni 2026) — NEU
+| Datum | Artikel | Slug | Status |
+|-------|---------|------|--------|
+| 28. April | Best Paper Trading Apps | `/best-paper-trading-apps/` | ✅ Geschrieben |
+| 30. April | Free Investing Courses | `/best-free-investing-courses/` | TODO |
+| 5. Mai | Investing Tools Guide (Hub) | `/investing-tools-guide/` | TODO |
+| 7. Mai | Polymarket vs Kalshi | `/polymarket-vs-kalshi/` | TODO |
+| 12. Mai | Best Stock Screeners | `/best-stock-screeners/` | TODO |
+| 14. Mai | Investing Apps for Beginners | `/best-investing-apps-beginners/` | TODO |
+| 19. Mai | Crypto Portfolio Trackers | `/best-crypto-portfolio-trackers/` | TODO |
+| 21. Mai | Stock News Apps | `/best-stock-news-apps/` | TODO |
+| 26. Mai | ChatGPT for Stock Research | `/chatgpt-stock-research/` | TODO |
+| 28. Mai | How Prediction Markets Work | `/prediction-markets-guide/` | TODO |
+| 2. Juni | Dividend Tracker Apps | `/best-dividend-tracker-apps/` | TODO |
+| 4. Juni | Finance Subreddits | `/best-finance-subreddits/` | TODO |
+| 9. Juni | Investing Podcasts | `/best-investing-podcasts/` | TODO |
 
 ### AI Travel Planning Cluster (März-Juni 2026)
 **Status:** ✅ Komplett — 16 Artikel + 16 Bilder fertig, Publish-Dates gesetzt
