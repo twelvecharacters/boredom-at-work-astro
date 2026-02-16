@@ -4,53 +4,66 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 16. Februar 2026 Abend)
+## ⚠️ ERINNERUNGEN (Stand: 16. Februar 2026 Nacht)
 
-### Sitzung (16. Februar 2026 — Abend)
+### Sitzung (16. Februar 2026 — Nacht)
 
-**✅ Home Office Cluster Expansion geplant (5 → 15 Artikel)**
+**✅ 16 Artikel geschrieben für Home Office + Finance Cluster**
 
-| # | Artikel | Publish | Priorität |
-|---|---------|---------|-----------|
-| 1 | Best Monitors for WFH 2026 | 24. März | ✅ Geschrieben |
-| 2 | Best USB-C Docking Stations | 26. März | TODO |
-| 3 | Best Ergonomic Mice | 31. März | TODO |
-| 4 | Best Monitor Light Bars | 2. April | TODO |
-| 5 | Best Webcams for WFH | 7. April | TODO |
-| 6 | Best NC Headphones for Office | 9. April | TODO |
-| 7 | Best Desk Mats | 14. April | TODO |
-| 8 | Best Laptop Stands | 16. April | TODO |
-| 9 | Dual Monitor Setup Guide | 21. April | TODO |
-| 10 | Best Under-Desk Footrests | 23. April | TODO |
+In einer Session 16 von 22 geplanten Artikeln geschrieben, reviewed und gepusht.
 
-**✅ NEUES Cluster: Finance/Investing at Work**
+**Home Office Cluster (8/10 fertig):**
 
-Angle: **Tools & Learning** — keine Anlageberatung! YMYL-Disclaimer in jedem Artikel.
+| # | Artikel | Slug | Publish | Status |
+|---|---------|------|---------|--------|
+| 1 | Best Monitors for WFH | `/best-monitors-working-from-home/` | 24. März | ✅ |
+| 2 | Best USB-C Docking Stations | `/best-usb-c-docking-stations/` | 26. März | ✅ |
+| 3 | Best Ergonomic Mice | `/best-ergonomic-mice/` | 31. März | ✅ |
+| 4 | Best Monitor Light Bars | `/best-monitor-light-bars/` | 2. April | ✅ |
+| 5 | Best Webcams for WFH | `/best-webcams-working-from-home/` | 7. April | ✅ |
+| 6 | Best NC Headphones | `/best-noise-canceling-headphones-office/` | 9. April | ✅ |
+| 7 | Best Desk Mats | `/best-desk-mats/` | 14. April | ✅ |
+| 8 | Best Laptop Stands | `/best-laptop-stands/` | 16. April | ✅ |
+| 9 | Dual Monitor Setup Guide | `/dual-monitor-setup-guide/` | 21. April | TODO |
+| 10 | Best Under-Desk Footrests | `/best-footrests/` | 23. April | TODO |
 
-| # | Artikel | Publish | Priorität |
-|---|---------|---------|-----------|
-| 1 | Best Paper Trading Apps | 28. April | ✅ Geschrieben |
-| 2 | Free Investing Courses | 30. April | TODO |
-| 3 | Investing Tools Guide (Hub) | 5. Mai | TODO |
-| 4 | Polymarket vs Kalshi | 7. Mai | TODO |
-| 5 | Best Stock Screeners | 12. Mai | TODO |
-| 6 | Investing Apps for Beginners | 14. Mai | TODO |
-| 7 | Crypto Portfolio Trackers | 19. Mai | TODO |
-| 8 | Stock News Apps | 21. Mai | TODO |
-| 9 | ChatGPT for Stock Research | 26. Mai | TODO |
-| 10 | How Prediction Markets Work | 28. Mai | TODO |
-| 11 | Dividend Tracker Apps | 2. Juni | TODO |
-| 12 | Finance Subreddits | 4. Juni | TODO |
-| 13 | Investing Podcasts | 9. Juni | TODO |
+**Finance Cluster (8/13 fertig):**
+
+| # | Artikel | Slug | Publish | Status |
+|---|---------|------|---------|--------|
+| 1 | Best Paper Trading Apps | `/best-paper-trading-apps/` | 28. April | ✅ |
+| 2 | Free Investing Courses | `/best-free-investing-courses/` | 30. April | ✅ |
+| 3 | Investing Tools Guide (Hub) | `/investing-tools-guide/` | 5. Mai | TODO |
+| 4 | Polymarket vs Kalshi | `/polymarket-vs-kalshi/` | 7. Mai | ✅ |
+| 5 | Best Stock Screeners | `/best-free-stock-screeners/` | 12. Mai | ✅ |
+| 6 | Investing Apps for Beginners | `/best-investing-apps-beginners/` | 14. Mai | ✅ |
+| 7 | Crypto Portfolio Trackers | `/best-crypto-portfolio-trackers/` | 19. Mai | ✅ |
+| 8 | Stock News Apps | `/best-stock-news-apps/` | 21. Mai | ✅ |
+| 9 | ChatGPT for Stock Research | `/chatgpt-stock-research/` | 26. Mai | ✅ |
+| 10 | How Prediction Markets Work | `/prediction-markets-guide/` | 28. Mai | TODO |
+| 11 | Dividend Tracker Apps | `/best-dividend-trackers/` | 2. Juni | TODO |
+| 12 | Finance Subreddits | `/best-finance-subreddits/` | 4. Juni | TODO |
+| 13 | Investing Podcasts | `/best-investing-podcasts/` | 9. Juni | TODO |
+
+**Angle Finance Cluster:** Tools & Learning — keine Anlageberatung! YMYL-Disclaimer in jedem Finance-Artikel.
 
 **Top Affiliate-Partner (Finance):**
 - Webull (bis $1.400/Ref), Robinhood ($20/Signup), Koinly (20% recurring), TradingView (50%), Seeking Alpha (~$15-20/Sub), Kalshi ($10-50/Ref)
 
-**Commit:** `6d27040 feat: add Best Monitors for WFH + Best Paper Trading Apps articles`
+**Commits:**
+- `6d27040` — Monitors + Paper Trading
+- `059711c` — USB-C Docking Stations + Free Investing Courses
+- `bd0cfd4` — Ergonomic Mice + Polymarket vs Kalshi
+- `a2c6d5a` — Monitor Light Bars + Free Stock Screeners
+- `43a91e2` — Webcams + Investing Apps
+- `542eabf` — NC Headphones + Crypto Trackers
+- `b5582da` — Desk Mats + Stock News Apps
+- `46f2494` — Laptop Stands + ChatGPT Stock Research
 
-**Noch offen für beide Artikel:**
-- Featured Images (WebP)
-- llms.txt + llms-full.txt Update
+**Noch offen für alle 16 Artikel:**
+- Featured Images (WebP) erstellen
+- llms.txt + llms-full.txt Updates
+- Nächste Session: Verbleibende 6 Artikel schreiben
 
 ---
 
