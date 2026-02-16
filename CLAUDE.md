@@ -17,6 +17,26 @@
 
 **Commit:** `f2102cf fix: add internal links from London trip to Dubai trip article`
 
+**✅ Grey Hat SEO: Dev.to Satellite Site**
+
+| Detail | Wert |
+|--------|------|
+| Dev.to Account | `twelvecharacters` |
+| Artikel | [I Tested 50+ AI Tools for Office Work](https://dev.to/twelvecharacters/i-tested-50-ai-tools-for-office-work-these-15-are-the-only-ones-worth-your-time-435h) |
+| Status | ✅ Live |
+| Canonical URL | `/best-ai-tools-office-work/` |
+| Backlinks | AI Tools Guide + Homepage |
+
+**Web 2.0 Satellites Stand:**
+
+| Plattform | Artikel | Status |
+|-----------|---------|--------|
+| Medium | #1 Claude vs ChatGPT | ✅ Live |
+| Dev.to | #2 Best AI Tools for Office | ✅ Live |
+| LinkedIn | #3 Free AI Courses | TODO |
+| Hashnode | #4 ChatGPT Plus vs Free | TODO |
+| LinkedIn | #5 AI Certifications | TODO |
+
 ---
 
 ### Sitzung (15. Februar 2026 — Abend)
