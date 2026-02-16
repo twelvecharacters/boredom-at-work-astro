@@ -4,7 +4,20 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 15. Februar 2026)
+## ⚠️ ERINNERUNGEN (Stand: 16. Februar 2026)
+
+### Sitzung (16. Februar 2026)
+
+**✅ Internal Linking: London ↔ Dubai Trip Artikel**
+
+| Richtung | Status | Details |
+|----------|--------|---------|
+| Dubai → London | ✅ Bereits vorhanden | Intro + Outro (2 Links) |
+| London → Dubai | ✅ Neu hinzugefügt | Intro + Related Reading (2 Links) |
+
+**Commit:** `f2102cf fix: add internal links from London trip to Dubai trip article`
+
+---
 
 ### Sitzung (15. Februar 2026 — Abend)
 
