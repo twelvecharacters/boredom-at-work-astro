@@ -16,7 +16,7 @@ faq:
     answer: "Pretty accurate for logistics (train times, distances, opening hours), but you'll still deviate. We skipped one breakfast spot and added Chinatown spontaneously. The AI gives you a solid framework — you add the human element."
 ---
 
-I've written plenty about [AI trip planning tools](/best-ai-trip-planners/). But there's a difference between testing an app and actually trusting it with your weekend.
+I've written plenty about [AI trip planning tools](/best-ai-trip-planners/) — and I even [let Claude plan a 3-day Dubai trip](/claude-planned-dubai-trip/) with helicopter tours and Michelin-recommended dinners. But there's a difference between testing an app and actually trusting it with your weekend.
 
 So when my girlfriend and I booked last-minute flights to London, I decided to let AI do the heavy lifting. One catch: I have celiac disease, so every restaurant recommendation needed to be genuinely gluten-free safe.
 
@@ -173,5 +173,6 @@ Three restaurants. Zero reactions. That's a win.
 If you're interested in AI-powered travel planning:
 
 - [Best AI Trip Planners 2026](/best-ai-trip-planners/) — Full comparison of tools
+- [I Let Claude Plan Our Dubai Trip](/claude-planned-dubai-trip/) — Helicopter tours, Burj Khalifa, and Michelin dining
 - [How I Planned Malaysia with ChatGPT](/chatgpt-malaysia-trip-planning/) — Another real trip report
 - [AI Travel Planning Mistakes to Avoid](/ai-travel-planning-mistakes/) — What can go wrong
