@@ -760,6 +760,178 @@ Practical guide to cable management with product recommendations and step-by-ste
 
 **Key insight:** An under-desk cable tray does 50% of the work. Start there. Every cable needs a home, a path, and a place to hide excess length.
 
+### Best Monitors for Working From Home
+**URL:** https://boredom-at-work.com/best-monitors-working-from-home/
+**Reading Time:** 14 minutes
+
+7 best monitors for WFH in 2026, from $280 budget 4K to $820 Thunderbolt ultrawide. Covers 27-inch 4K and 34-inch ultrawide options with USB-C hub features.
+
+**Top picks:**
+- Best overall: Dell U2725QE (~$680) — Thunderbolt 4, 140W PD, IPS Black
+- Best value USB-C: Dell P2725QE (~$520) — 90W PD, built-in hub
+- Best budget 4K: Dell S2725QS (~$280) — sharp 4K, no USB-C
+- Best ultrawide: Dell U3425WE (~$820) — 34" curved, Thunderbolt 4
+
+### Best USB-C Docking Stations
+**URL:** https://boredom-at-work.com/best-usb-c-docking-stations/
+**Reading Time:** 12 minutes
+
+One cable for everything — dual monitors, charging, peripherals. Covers Thunderbolt and USB-C docks from $50 to $300.
+
+### Best Ergonomic Mice
+**URL:** https://boredom-at-work.com/best-ergonomic-mice/
+**Reading Time:** 12 minutes
+
+Vertical mice, trackballs, and ergonomic options from Logitech, Kensington, and Razer. Prevent wrist strain during long work days.
+
+### Best Monitor Light Bars
+**URL:** https://boredom-at-work.com/best-monitor-light-bars/
+**Reading Time:** 12 minutes
+
+BenQ ScreenBar, Xiaomi, Quntis, and budget options compared. Reduce eye strain with proper desk lighting that doesn't create screen glare.
+
+### Best Webcams for WFH
+**URL:** https://boredom-at-work.com/best-webcams-working-from-home/
+**Reading Time:** 14 minutes
+
+Upgrade your video call quality. Logitech Brio, Elgato Facecam, Anker PowerConf compared for remote workers.
+
+### Best Noise-Canceling Headphones for Office
+**URL:** https://boredom-at-work.com/best-noise-canceling-headphones-office/
+**Reading Time:** 14 minutes
+
+Sony WH-1000XM5, Bose QuietComfort Ultra, AirPods Max compared for open offices. Focus mode and call quality ranked.
+
+### Best Desk Mats
+**URL:** https://boredom-at-work.com/best-desk-mats/
+**Reading Time:** 12 minutes
+
+From $8 PU leather to $180 full-grain leather. Grovemade, Orbitkey, YSAGi, and Harber London compared.
+
+### Best Laptop Stands
+**URL:** https://boredom-at-work.com/best-laptop-stands/
+**Reading Time:** 10 minutes
+
+Fix your posture for $15–90. Rain Design mStand, Roost V3, Nulaxy C1, and budget options compared.
+
+### Dual Monitor Setup Guide
+**URL:** https://boredom-at-work.com/dual-monitor-setup-guide/
+**Reading Time:** 12 minutes
+
+Step-by-step guide to setting up dual monitors. Covers ports and cables, display settings (Windows and macOS), ergonomic positioning, Apple Silicon quirks, and troubleshooting common problems.
+
+**Key insight:** A dual monitor setup is the highest ROI desk upgrade after a good chair. Takes 30 minutes, costs nothing if you already have a second monitor.
+
+### Best Under-Desk Footrests
+**URL:** https://boredom-at-work.com/best-footrests/
+**Reading Time:** 10 minutes
+
+7 footrests from $18 to $130. Humanscale FM300 (rocking), ErgoFoam (adjustable foam), Kensington SoleMate (tilting platform), and budget options.
+
+**Key insight:** If your feet don't reach the floor when your chair is at the right height, a footrest is essential — not optional.
+
+---
+
+## Category: Finance / Investing
+
+Tools and learning resources for beginner investors. Educational content — not financial advice.
+
+### ⭐ Investing Tools Guide (Hub Page)
+**URL:** https://boredom-at-work.com/investing-tools-guide/
+**Reading Time:** 15 minutes
+
+Complete roadmap to investing tools, organized by phase: learn → practice → start → research → track → explore. Links to detailed guides for each tool category.
+
+**The roadmap:**
+1. Learn: Free courses (Khan Academy, Yale on Coursera)
+2. Practice: Paper trading apps (Webull, thinkorswim)
+3. Start: Brokerage apps (Fidelity, Schwab, Robinhood)
+4. Research: Stock screeners, news apps, ChatGPT
+5. Track: Dividend and portfolio trackers
+6. Explore: Prediction markets, crypto
+
+**Key insight:** Most beginners over-tool and under-learn. Start with a free brokerage, one course, and a paper trading app. Add tools as your knowledge grows.
+
+### Best Paper Trading Apps
+**URL:** https://boredom-at-work.com/best-paper-trading-apps/
+**Reading Time:** 12 minutes
+
+7 stock market simulators for practicing trades with zero risk. Webull, thinkorswim, TradingView, Investopedia, and more compared.
+
+### Best Free Investing Courses
+**URL:** https://boredom-at-work.com/best-free-investing-courses/
+**Reading Time:** 12 minutes
+
+8 free investing courses ranked by quality. Yale Financial Markets, Khan Academy, Morningstar Classroom — learn during work hours.
+
+### Polymarket vs Kalshi
+**URL:** https://boredom-at-work.com/polymarket-vs-kalshi/
+**Reading Time:** 14 minutes
+
+Side-by-side comparison of the two biggest prediction market platforms. Fees, regulation, markets, and which to choose in 2026.
+
+### Best Free Stock Screeners
+**URL:** https://boredom-at-work.com/best-free-stock-screeners/
+**Reading Time:** 12 minutes
+
+Finviz, Yahoo Finance, TradingView, Seeking Alpha compared. How to filter thousands of stocks by P/E, yield, growth, and more.
+
+### Best Investing Apps for Beginners
+**URL:** https://boredom-at-work.com/best-investing-apps-beginners/
+**Reading Time:** 14 minutes
+
+7 brokerage apps compared for new investors. All $0 commissions, no minimums, fractional shares. Fidelity, Schwab, Robinhood, Vanguard, SoFi, Webull, Acorns.
+
+**Key insight:** Fidelity is the best overall for beginners — zero-fee index funds, $1 fractional shares, and the best educational library.
+
+### Best Crypto Portfolio Trackers
+**URL:** https://boredom-at-work.com/best-crypto-portfolio-trackers/
+**Reading Time:** 12 minutes
+
+Track crypto across wallets and exchanges. CoinStats, CoinGecko, Delta, Koinly compared for portfolio management and tax reporting.
+
+### Best Stock News Apps
+**URL:** https://boredom-at-work.com/best-stock-news-apps/
+**Reading Time:** 12 minutes
+
+Stay informed without drowning in financial noise. Bloomberg, Reuters, Seeking Alpha, Finimize, and more compared.
+
+### ChatGPT for Stock Research
+**URL:** https://boredom-at-work.com/chatgpt-stock-research/
+**Reading Time:** 12 minutes
+
+10 prompts for using ChatGPT to research stocks during lunch breaks. What it can do (explain concepts, analyze fundamentals) and what it can't (predict prices, real-time data).
+
+### How Prediction Markets Work
+**URL:** https://boredom-at-work.com/prediction-markets-guide/
+**Reading Time:** 12 minutes
+
+Complete beginner's guide to prediction markets. How event contracts work, where the money goes, major platforms (Kalshi, Polymarket), and whether it's worth your time.
+
+**Key insight:** Prediction markets aggregate information more efficiently than polls or pundits. The 2024 election proved it — Polymarket was more accurate than virtually every traditional poll.
+
+### Best Dividend Tracker Apps
+**URL:** https://boredom-at-work.com/best-dividend-trackers/
+**Reading Time:** 12 minutes
+
+7 apps for tracking dividend income. Stock Events (best free), Sharesight (best for taxes), DivTracker (best design), Simply Wall St (best analysis).
+
+### Best Finance Subreddits
+**URL:** https://boredom-at-work.com/best-finance-subreddits/
+**Reading Time:** 14 minutes
+
+12 Reddit communities for investors, ranked by quality and helpfulness. r/personalfinance for basics, r/Bogleheads for index investing, r/dividends for income, plus honest warnings about r/wallstreetbets.
+
+**Key insight:** Use Reddit for education and perspectives, not stock picks. r/Bogleheads and r/personalfinance have the best signal-to-noise ratio.
+
+### Best Investing Podcasts
+**URL:** https://boredom-at-work.com/best-investing-podcasts/
+**Reading Time:** 12 minutes
+
+8 podcasts from beginner to advanced. Planet Money (economic literacy), The Plain Bagel (clear explanations), We Study Billionaires (value investing), Animal Spirits (market commentary).
+
+**Key insight:** Earbuds in, headphones on — investing podcasts are stealth education during work hours.
+
 ---
 
 ## Category: Tech & Gadgets

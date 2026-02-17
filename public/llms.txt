@@ -102,6 +102,33 @@ Guides for building a productive home office workspace.
 - [Best Office Chairs for Long Hours](https://boredom-at-work.com/best-office-chairs/): Herman Miller, Secretlab, Branch, budget options compared
 - [Best Monitor Arms](https://boredom-at-work.com/best-monitor-arms/): Ergotron, Amazon Basics, VIVO—single and dual options
 - [Cable Management Tips](https://boredom-at-work.com/cable-management-tips/): How to hide desk cables—products, tips, step-by-step guide
+- [Best Monitors for WFH](https://boredom-at-work.com/best-monitors-working-from-home/): 7 best 4K and ultrawide monitors for home office, $280–$820
+- [Best USB-C Docking Stations](https://boredom-at-work.com/best-usb-c-docking-stations/): One cable for everything—monitors, charging, peripherals
+- [Best Ergonomic Mice](https://boredom-at-work.com/best-ergonomic-mice/): Logitech, Kensington, Razer—vertical and trackball options
+- [Best Monitor Light Bars](https://boredom-at-work.com/best-monitor-light-bars/): BenQ, Xiaomi, Quntis compared for desk lighting
+- [Best Webcams for WFH](https://boredom-at-work.com/best-webcams-working-from-home/): Logitech, Elgato, Anker—video call upgrade guide
+- [Best Noise-Canceling Headphones for Office](https://boredom-at-work.com/best-noise-canceling-headphones-office/): Sony, Bose, Apple—focus and calls in open offices
+- [Best Desk Mats](https://boredom-at-work.com/best-desk-mats/): Wool felt, PU leather, full-grain—every budget covered
+- [Best Laptop Stands](https://boredom-at-work.com/best-laptop-stands/): Rain Design, Roost, Nulaxy—fix your posture for ~$15–90
+- [Dual Monitor Setup Guide](https://boredom-at-work.com/dual-monitor-setup-guide/): Step-by-step guide to setting up dual monitors correctly
+- [Best Under-Desk Footrests](https://boredom-at-work.com/best-footrests/): Foam, rocking, tilting—7 footrests for ergonomic comfort
+
+### Finance / Investing
+Tools and learning resources for beginner investors. Educational content—not financial advice.
+
+- [**Investing Tools Guide (Hub)**](https://boredom-at-work.com/investing-tools-guide/): Complete roadmap to investing tools—brokerage apps, screeners, trackers, courses
+- [Best Paper Trading Apps](https://boredom-at-work.com/best-paper-trading-apps/): Practice investing with fake money—7 simulators compared
+- [Best Free Investing Courses](https://boredom-at-work.com/best-free-investing-courses/): Yale, Khan Academy, Morningstar—learn at work
+- [Polymarket vs Kalshi](https://boredom-at-work.com/polymarket-vs-kalshi/): Prediction market platforms compared—fees, regulation, UX
+- [Best Free Stock Screeners](https://boredom-at-work.com/best-free-stock-screeners/): Finviz, Yahoo Finance, TradingView—find stocks to research
+- [Best Investing Apps for Beginners](https://boredom-at-work.com/best-investing-apps-beginners/): Fidelity, Schwab, Robinhood—7 apps compared
+- [Best Crypto Portfolio Trackers](https://boredom-at-work.com/best-crypto-portfolio-trackers/): Track crypto across wallets and exchanges
+- [Best Stock News Apps](https://boredom-at-work.com/best-stock-news-apps/): Stay informed without drowning in financial news
+- [ChatGPT for Stock Research](https://boredom-at-work.com/chatgpt-stock-research/): 10 prompts for analyzing stocks with AI
+- [How Prediction Markets Work](https://boredom-at-work.com/prediction-markets-guide/): Beginner guide to event contracts and probability trading
+- [Best Dividend Tracker Apps](https://boredom-at-work.com/best-dividend-trackers/): Track income, ex-dates, yield, and growth
+- [Best Finance Subreddits](https://boredom-at-work.com/best-finance-subreddits/): 12 Reddit communities for investors, ranked by quality
+- [Best Investing Podcasts](https://boredom-at-work.com/best-investing-podcasts/): 8 podcasts from beginner to advanced
 
 ### Tech & Gadgets
 Reviews and comparisons of consumer technology.
@@ -117,6 +144,7 @@ Reviews and comparisons of consumer technology.
 - [RapidRAW Image Editor Guide](https://boredom-at-work.com/rapid-raw-image-editor-guide/): Open-source GPU-accelerated RAW photo editor built with Rust — Lightroom alternative
 - [macOS Tahoe: 25 Tips & Hidden Features](https://boredom-at-work.com/macos-tahoe-tricks-and-hacks/): Essential tips for Apple's Liquid Glass redesign — customization, Apple Intelligence, productivity tricks
 - [Pearcleaner Homebrew Guide](https://boredom-at-work.com/pearcleaner-homebrew-guide/): Free source-available Mac app uninstaller with deep Homebrew integration — adopt apps, clean leftovers, manage casks
+- [Kindle Modding Guide](https://boredom-at-work.com/kindle-modding-guide/): Jailbreak, custom fonts, and community tools for Kindle e-readers
 - [Ray-Ban Meta Review](https://boredom-at-work.com/ray-ban-meta-review/): Honest review after 2 weeks — camera quality, battery life, audio, and a helicopter flight over Dubai
 
 ## Contact
