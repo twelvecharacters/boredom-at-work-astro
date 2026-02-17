@@ -4,15 +4,15 @@
 
 ---
 
-## ⚠️ ERINNERUNGEN (Stand: 16. Februar 2026 Nacht)
+## ⚠️ ERINNERUNGEN (Stand: 17. Februar 2026)
 
-### Sitzung (16. Februar 2026 — Nacht)
+### Sitzung (17. Februar 2026)
 
-**✅ 16 Artikel geschrieben für Home Office + Finance Cluster**
+**✅ Alle 22 Artikel fertig — Home Office + Finance Cluster KOMPLETT**
 
-In einer Session 16 von 22 geplanten Artikeln geschrieben, reviewed und gepusht.
+Letzte 7 Artikel geschrieben, fact-checked und gepusht. llms.txt + llms-full.txt aktualisiert.
 
-**Home Office Cluster (8/10 fertig):**
+**Home Office Cluster (10/10 fertig):**
 
 | # | Artikel | Slug | Publish | Status |
 |---|---------|------|---------|--------|
@@ -24,26 +24,26 @@ In einer Session 16 von 22 geplanten Artikeln geschrieben, reviewed und gepusht.
 | 6 | Best NC Headphones | `/best-noise-canceling-headphones-office/` | 9. April | ✅ |
 | 7 | Best Desk Mats | `/best-desk-mats/` | 14. April | ✅ |
 | 8 | Best Laptop Stands | `/best-laptop-stands/` | 16. April | ✅ |
-| 9 | Dual Monitor Setup Guide | `/dual-monitor-setup-guide/` | 21. April | TODO |
-| 10 | Best Under-Desk Footrests | `/best-footrests/` | 23. April | TODO |
+| 9 | Dual Monitor Setup Guide | `/dual-monitor-setup-guide/` | 21. April | ✅ |
+| 10 | Best Under-Desk Footrests | `/best-footrests/` | 23. April | ✅ |
 
-**Finance Cluster (8/13 fertig):**
+**Finance Cluster (13/13 fertig):**
 
 | # | Artikel | Slug | Publish | Status |
 |---|---------|------|---------|--------|
 | 1 | Best Paper Trading Apps | `/best-paper-trading-apps/` | 28. April | ✅ |
 | 2 | Free Investing Courses | `/best-free-investing-courses/` | 30. April | ✅ |
-| 3 | Investing Tools Guide (Hub) | `/investing-tools-guide/` | 5. Mai | TODO |
+| 3 | Investing Tools Guide (Hub) | `/investing-tools-guide/` | 5. Mai | ✅ |
 | 4 | Polymarket vs Kalshi | `/polymarket-vs-kalshi/` | 7. Mai | ✅ |
 | 5 | Best Stock Screeners | `/best-free-stock-screeners/` | 12. Mai | ✅ |
 | 6 | Investing Apps for Beginners | `/best-investing-apps-beginners/` | 14. Mai | ✅ |
 | 7 | Crypto Portfolio Trackers | `/best-crypto-portfolio-trackers/` | 19. Mai | ✅ |
 | 8 | Stock News Apps | `/best-stock-news-apps/` | 21. Mai | ✅ |
 | 9 | ChatGPT for Stock Research | `/chatgpt-stock-research/` | 26. Mai | ✅ |
-| 10 | How Prediction Markets Work | `/prediction-markets-guide/` | 28. Mai | TODO |
-| 11 | Dividend Tracker Apps | `/best-dividend-trackers/` | 2. Juni | TODO |
-| 12 | Finance Subreddits | `/best-finance-subreddits/` | 4. Juni | TODO |
-| 13 | Investing Podcasts | `/best-investing-podcasts/` | 9. Juni | TODO |
+| 10 | How Prediction Markets Work | `/prediction-markets-guide/` | 28. Mai | ✅ |
+| 11 | Dividend Tracker Apps | `/best-dividend-trackers/` | 2. Juni | ✅ |
+| 12 | Finance Subreddits | `/best-finance-subreddits/` | 4. Juni | ✅ |
+| 13 | Investing Podcasts | `/best-investing-podcasts/` | 9. Juni | ✅ |
 
 **Angle Finance Cluster:** Tools & Learning — keine Anlageberatung! YMYL-Disclaimer in jedem Finance-Artikel.
 
@@ -59,11 +59,11 @@ In einer Session 16 von 22 geplanten Artikeln geschrieben, reviewed und gepusht.
 - `542eabf` — NC Headphones + Crypto Trackers
 - `b5582da` — Desk Mats + Stock News Apps
 - `46f2494` — Laptop Stands + ChatGPT Stock Research
+- `a308de8` — Dual Monitor + Footrests + Investing Hub + Prediction Markets + Dividends + Subreddits + Podcasts
+- `97d442a` — llms.txt + llms-full.txt Updates
 
-**Noch offen für alle 16 Artikel:**
+**Noch offen für alle 22 Artikel:**
 - Featured Images (WebP) erstellen
-- llms.txt + llms-full.txt Updates
-- Nächste Session: Verbleibende 6 Artikel schreiben
 
 ---
 
@@ -1514,8 +1514,8 @@ rm bildname.png
 | AI/Travel | 17 | Aktiv (1 Feb) + Draft (März-Juni) |
 | 3D Printing | 6 | Aktiv |
 | Photography | 8 | Aktiv (+RapidRAW) |
-| Home Office / Desk Setup | 5 → 15 | Aktiv (Expansion läuft, 1/10 neue geschrieben) |
-| Finance / Investing | 1 → 13 | **NEU** (1/13 geschrieben, Hub + 12 Supporting) |
+| Home Office / Desk Setup | 15 | ✅ Komplett (5 Basis + 10 Expansion) |
+| Finance / Investing | 13 | ✅ Komplett (Hub + 12 Supporting) |
 | Japan Shopping | 3 | Aktiv |
 | Tech & Gadgets | 10 | Aktiv (+ClawDBot, macOS Tahoe, Pearcleaner, Kindle Modding) |
 
@@ -1559,36 +1559,36 @@ rm bildname.png
 |-------|---------|-----------|--------|
 | ~~11. März~~ 14. Feb | Ray-Ban Meta Review: 2 Weeks with Smart Glasses | Tech & Gadgets | ✅ Live |
 
-### Home Office Cluster Expansion (März-April 2026)
+### Home Office Cluster Expansion (März-April 2026) — ✅ KOMPLETT
 | Datum | Artikel | Slug | Status |
 |-------|---------|------|--------|
-| 24. März | Best Monitors for WFH 2026 | `/best-monitors-working-from-home/` | ✅ Geschrieben |
-| 26. März | Best USB-C Docking Stations | `/best-usb-c-docking-stations/` | TODO |
-| 31. März | Best Ergonomic Mice | `/best-ergonomic-mice-office/` | TODO |
-| 2. April | Best Monitor Light Bars | `/best-monitor-light-bars/` | TODO |
-| 7. April | Best Webcams for WFH | `/best-webcams-working-from-home/` | TODO |
-| 9. April | Best NC Headphones for Office | `/best-noise-canceling-headphones-office/` | TODO |
-| 14. April | Best Desk Mats | `/best-desk-mats/` | TODO |
-| 16. April | Best Laptop Stands | `/best-laptop-stands/` | TODO |
-| 21. April | Dual Monitor Setup Guide | `/dual-monitor-setup-guide/` | TODO |
-| 23. April | Best Under-Desk Footrests | `/best-under-desk-footrests/` | TODO |
+| 24. März | Best Monitors for WFH 2026 | `/best-monitors-working-from-home/` | ✅ |
+| 26. März | Best USB-C Docking Stations | `/best-usb-c-docking-stations/` | ✅ |
+| 31. März | Best Ergonomic Mice | `/best-ergonomic-mice/` | ✅ |
+| 2. April | Best Monitor Light Bars | `/best-monitor-light-bars/` | ✅ |
+| 7. April | Best Webcams for WFH | `/best-webcams-working-from-home/` | ✅ |
+| 9. April | Best NC Headphones for Office | `/best-noise-canceling-headphones-office/` | ✅ |
+| 14. April | Best Desk Mats | `/best-desk-mats/` | ✅ |
+| 16. April | Best Laptop Stands | `/best-laptop-stands/` | ✅ |
+| 21. April | Dual Monitor Setup Guide | `/dual-monitor-setup-guide/` | ✅ |
+| 23. April | Best Under-Desk Footrests | `/best-footrests/` | ✅ |
 
-### Finance/Investing Cluster (April-Juni 2026) — NEU
+### Finance/Investing Cluster (April-Juni 2026) — ✅ KOMPLETT
 | Datum | Artikel | Slug | Status |
 |-------|---------|------|--------|
-| 28. April | Best Paper Trading Apps | `/best-paper-trading-apps/` | ✅ Geschrieben |
-| 30. April | Free Investing Courses | `/best-free-investing-courses/` | TODO |
-| 5. Mai | Investing Tools Guide (Hub) | `/investing-tools-guide/` | TODO |
-| 7. Mai | Polymarket vs Kalshi | `/polymarket-vs-kalshi/` | TODO |
-| 12. Mai | Best Stock Screeners | `/best-stock-screeners/` | TODO |
-| 14. Mai | Investing Apps for Beginners | `/best-investing-apps-beginners/` | TODO |
-| 19. Mai | Crypto Portfolio Trackers | `/best-crypto-portfolio-trackers/` | TODO |
-| 21. Mai | Stock News Apps | `/best-stock-news-apps/` | TODO |
-| 26. Mai | ChatGPT for Stock Research | `/chatgpt-stock-research/` | TODO |
-| 28. Mai | How Prediction Markets Work | `/prediction-markets-guide/` | TODO |
-| 2. Juni | Dividend Tracker Apps | `/best-dividend-tracker-apps/` | TODO |
-| 4. Juni | Finance Subreddits | `/best-finance-subreddits/` | TODO |
-| 9. Juni | Investing Podcasts | `/best-investing-podcasts/` | TODO |
+| 28. April | Best Paper Trading Apps | `/best-paper-trading-apps/` | ✅ |
+| 30. April | Free Investing Courses | `/best-free-investing-courses/` | ✅ |
+| 5. Mai | Investing Tools Guide (Hub) | `/investing-tools-guide/` | ✅ |
+| 7. Mai | Polymarket vs Kalshi | `/polymarket-vs-kalshi/` | ✅ |
+| 12. Mai | Best Stock Screeners | `/best-free-stock-screeners/` | ✅ |
+| 14. Mai | Investing Apps for Beginners | `/best-investing-apps-beginners/` | ✅ |
+| 19. Mai | Crypto Portfolio Trackers | `/best-crypto-portfolio-trackers/` | ✅ |
+| 21. Mai | Stock News Apps | `/best-stock-news-apps/` | ✅ |
+| 26. Mai | ChatGPT for Stock Research | `/chatgpt-stock-research/` | ✅ |
+| 28. Mai | How Prediction Markets Work | `/prediction-markets-guide/` | ✅ |
+| 2. Juni | Dividend Tracker Apps | `/best-dividend-trackers/` | ✅ |
+| 4. Juni | Finance Subreddits | `/best-finance-subreddits/` | ✅ |
+| 9. Juni | Investing Podcasts | `/best-investing-podcasts/` | ✅ |
 
 ### AI Travel Planning Cluster (März-Juni 2026)
 **Status:** ✅ Komplett — 16 Artikel + 16 Bilder fertig, Publish-Dates gesetzt
