@@ -6,6 +6,34 @@
 
 ## ⚠️ ERINNERUNGEN (Stand: 17. Februar 2026)
 
+### Sitzung (17. Februar 2026 — Abend)
+
+**✅ Internal Linking: 28 Artikel gefixt**
+- 8 Orphan-Artikel eliminiert, Hub-Backlinks überall ergänzt
+- desk-upgrade-guide: "All Home Office Guides" von 5 auf 15 Links erweitert
+- 8 Finance-Artikel: investing-tools-guide Hub-Link hinzugefügt
+- 7 Photography-Artikel: photography-guide + photography-buying-guide Links
+- 9 3D-Printing-Artikel: 3d-printing-guide Hub-Link
+- pixel-10a, samsung-s26, best-tech-gifts: Cross-Links
+- chatgpt-guide-for-notebooklm.md nach medium-drafts/ verschoben (kein Artikel)
+
+**Commit:** `ecbd6f3 fix: improve internal linking across 28 articles`
+
+**✅ Home Office Featured Images: 15/15 KOMPLETT**
+- 10 neue Bilder erstellt (alle visuell unterschiedlich)
+- 2 bestehende Bilder ersetzt (monitor-arms + cable-management waren zu ähnlich)
+- 2 weitere bestehende Bilder aktualisiert (standing-desks, desk-upgrade-guide)
+
+**Commits:**
+- `1b2f36f feat: add unique featured images for 10 Home Office expansion articles`
+- `9812012 fix: replace 4 Home Office images for visual variety`
+
+**Noch offen:**
+- [ ] 13 Finance Cluster Featured Images erstellen
+- [ ] Alle Bilder committen/pushen
+
+---
+
 ### Sitzung (17. Februar 2026)
 
 **✅ Alle 22 Artikel fertig — Home Office + Finance Cluster KOMPLETT**
