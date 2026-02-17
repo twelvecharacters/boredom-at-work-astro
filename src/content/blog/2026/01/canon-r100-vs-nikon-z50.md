@@ -309,4 +309,4 @@ Pick the one that feels right, and start shooting. The best camera is the one yo
 
 ---
 
-*Still deciding? Read our complete guide to the [best cameras for beginners](/best-cameras-for-beginners/) or learn about [DSLR vs mirrorless cameras](/dslr-vs-mirrorless-beginners/).*
+*Still deciding? Read our complete guide to the [best cameras for beginners](/best-cameras-for-beginners/) or learn about [DSLR vs mirrorless cameras](/dslr-vs-mirrorless-beginners/). For all our photography content, see the [Photography Guide](/photography-guide/) and [Photography Buying Guide](/photography-buying-guide/).*

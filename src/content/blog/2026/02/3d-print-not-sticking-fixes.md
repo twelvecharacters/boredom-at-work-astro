@@ -400,4 +400,4 @@ Now go rescue that failed print.
 
 ---
 
-*Want to understand your slicer better? Check out [Cura Settings for Beginners](/cura-settings-beginners/). Having issues with specific materials? Read [PLA vs PETG vs ABS](/pla-vs-petg-vs-abs/).*
+*Want to understand your slicer better? Check out [Cura Settings for Beginners](/cura-settings-beginners/). Having issues with specific materials? Read [PLA vs PETG vs ABS](/pla-vs-petg-vs-abs/). For all our 3D printing content, see the [3D Printing Guide](/3d-printing-guide/).*

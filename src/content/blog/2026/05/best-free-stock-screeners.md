@@ -292,6 +292,7 @@ The best screener is the one you actually use consistently. Pick one, learn its 
 
 **Related reading:**
 
+- [Investing Tools Guide: Everything You Need to Start](/investing-tools-guide/) — The complete hub for all our investing and finance content
 - [7 Best Paper Trading Apps](/best-paper-trading-apps/) — Practice trading with virtual money after you find stocks worth watching
 - [Best Free Investing Courses](/best-free-investing-courses/) — Learn what all those financial metrics actually mean
 - [25 Productive Things to Do When Bored at Work](/productive-things-bored-at-work/) — More ways to stay sharp during slow days

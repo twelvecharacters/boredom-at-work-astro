@@ -293,3 +293,12 @@ The best paper trading app is the one you'll actually use. For most people, that
 Pick one. Open it tomorrow during your lunch break. Place a virtual trade. See how it feels.
 
 That's better than watching another stock go up 12% and wishing you'd bought it.
+
+---
+
+## Related Articles
+
+- [Investing Tools Guide: Everything You Need to Start](/investing-tools-guide/) — The complete hub for all our investing and finance content
+- [Best Free Investing Courses](/best-free-investing-courses/) — Learn the fundamentals before putting real money in
+- [Best Free Stock Screeners](/best-free-stock-screeners/) — Research tools to find your next trade
+- [25 Productive Things to Do When Bored at Work](/productive-things-bored-at-work/) — More ways to use your downtime wisely

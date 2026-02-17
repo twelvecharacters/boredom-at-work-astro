@@ -273,4 +273,4 @@ The camera is a tool. Master composition, light, and timing. Those skills transf
 
 ---
 
-*Ready to choose? See our [best cameras for beginners](/best-cameras-for-beginners/) or compare specific models in our [Canon R100 vs Nikon Z50 comparison](/canon-r100-vs-nikon-z50/).*
+*Ready to choose? See our [best cameras for beginners](/best-cameras-for-beginners/) or compare specific models in our [Canon R100 vs Nikon Z50 comparison](/canon-r100-vs-nikon-z50/). For the full picture, check out our [Photography Guide](/photography-guide/) and [Photography Buying Guide](/photography-buying-guide/).*

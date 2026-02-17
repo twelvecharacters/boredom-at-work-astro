@@ -332,4 +332,4 @@ Whatever you choose, remember that any camera in this guide can produce professi
 
 ---
 
-*Ready to learn more? Check out our guide to the [best cameras for beginners](/best-cameras-for-beginners/) or learn about [DSLR vs mirrorless cameras](/dslr-vs-mirrorless-beginners/).*
+*Ready to learn more? Check out our guide to the [best cameras for beginners](/best-cameras-for-beginners/) or learn about [DSLR vs mirrorless cameras](/dslr-vs-mirrorless-beginners/). For the full picture, see our [Photography Guide](/photography-guide/) and [Photography Buying Guide](/photography-buying-guide/).*

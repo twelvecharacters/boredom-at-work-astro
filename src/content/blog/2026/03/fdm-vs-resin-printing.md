@@ -350,4 +350,8 @@ Now go print something.
 
 ---
 
+*Want to learn more? Check out the [3D Printing Guide](/3d-printing-guide/) for all our 3D printing content, or read the [3D Printing Beginner Guide](/3d-printing-beginners-guide/) to get started.*
+
+---
+
 *Ready to start? Check out [3D Printing for Beginners: Complete Guide](/3d-printing-beginners-guide/) or learn about [PLA vs PETG vs ABS](/pla-vs-petg-vs-abs/) materials.*

@@ -187,3 +187,7 @@ Stop downloading other people’s designs. The true magic of 3D printing happens
 Mastering CAD is the ultimate "bored at work" project. It’s quiet, it looks like you’re doing serious engineering work, and by the end of the month, you’ll have a superpower.
 
 Happy designing!
+
+---
+
+*Want to learn more about 3D printing? Check out our [3D Printing Guide](/3d-printing-guide/) for the complete overview, or read the [3D Printing Beginner Guide](/3d-printing-beginners-guide/) to get started with your first prints.*

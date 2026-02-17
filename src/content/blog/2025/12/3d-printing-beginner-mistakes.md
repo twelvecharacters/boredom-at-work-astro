@@ -331,4 +331,4 @@ The most important tip: Be patient with yourself. 3D printing is a skill that im
 
 ---
 
-*Ready to start? Read our [complete 3D Printing Beginner Guide](/3d-printing-beginners-guide/) or find out [what you should print first](/what-to-3d-print-first/).*
+*Ready to start? Read our [complete 3D Printing Beginner Guide](/3d-printing-beginners-guide/) or find out [what you should print first](/what-to-3d-print-first/). For all our 3D printing content, see the [3D Printing Guide](/3d-printing-guide/).*

@@ -368,6 +368,7 @@ These are pulled from the frontmatter FAQ schema above — they represent the qu
 
 If you're building a stock research workflow, these guides will round out your toolkit:
 
+- **[Investing Tools Guide](/investing-tools-guide/)** — The complete hub for all our investing and finance content
 - **[Complete ChatGPT Guide 2026](/chatgpt-guide/)** — Master ChatGPT from scratch, including prompting techniques that make every prompt in this article work better
 - **[7 Best Free Stock Screeners](/best-free-stock-screeners/)** — The dedicated tools that complement ChatGPT for data-driven screening
 - **[Best Free Investing Courses](/best-free-investing-courses/)** — Learn the fundamentals of investing at your desk

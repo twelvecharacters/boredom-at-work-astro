@@ -232,3 +232,7 @@ Setting up a shop is a marathon, not a sprint. Use your office downtime to build
 You're already at your desk. You're already on your computer. You might as well be building a business that lets you print your way to freedom.
 
 Go get 'em, CEO.
+
+---
+
+*New to 3D printing? Start with our [3D Printing Guide](/3d-printing-guide/) for the complete overview, or read about [common beginner mistakes](/3d-printing-beginner-mistakes/) to avoid.*

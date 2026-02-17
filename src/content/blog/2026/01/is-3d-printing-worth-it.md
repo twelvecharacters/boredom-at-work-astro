@@ -276,4 +276,4 @@ If you're mainly interested because of cost savings and otherwise have no intere
 
 ---
 
-*Ready to get started? Read our [3D Printing Beginner Guide](/3d-printing-beginners-guide/) or compare the [best 3D printers under $300](/best-3d-printers-under-300/).*
+*Ready to get started? Read our [3D Printing Beginner Guide](/3d-printing-beginners-guide/) or compare the [best 3D printers under $300](/best-3d-printers-under-300/). For all our 3D printing content, see the [3D Printing Guide](/3d-printing-guide/).*

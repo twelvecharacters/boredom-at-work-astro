@@ -131,3 +131,7 @@ No, built-in Wi-Fi wasn't standard back then. However, you can buy a "Toshiba Fl
 
 **Is a 16MP sensor enough in 2026 when phones have 48MP?**
 Yes! Don't let the "megapixels" trap fool you. A 16MP sensor in the E-PM2 is much larger than a phone sensor. It captures more light, has better "depth," and produces much cleaner images when the lights go down. Quality over quantity!
+
+---
+
+*Looking for more photography gear? Check out our [best cameras for beginners](/best-cameras-for-beginners/) for modern alternatives, or browse all our photography content in the [Photography Guide](/photography-guide/) and [Photography Buying Guide](/photography-buying-guide/).*

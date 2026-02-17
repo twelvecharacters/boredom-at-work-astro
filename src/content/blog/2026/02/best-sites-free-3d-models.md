@@ -382,4 +382,4 @@ Now go find something cool to print.
 
 ---
 
-*New to printing? Start with [What Should I 3D Print First?](/what-to-3d-print-first/) or learn [Cura Settings for Beginners](/cura-settings-beginners/).*
+*New to printing? Start with [What Should I 3D Print First?](/what-to-3d-print-first/) or learn [Cura Settings for Beginners](/cura-settings-beginners/). For all our 3D printing content, see the [3D Printing Guide](/3d-printing-guide/).*

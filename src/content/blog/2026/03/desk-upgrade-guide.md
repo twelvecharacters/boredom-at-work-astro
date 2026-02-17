@@ -316,18 +316,28 @@ The best gear set up wrong is worse than average gear set up right. Spend 10 min
 
 ## All Home Office Guides
 
-**Desk:**
+**Desk & Chair:**
 - [Best Standing Desks Under $600](/best-standing-desks/)
-
-**Chair:**
 - [Best Office Chairs for Long Hours](/best-office-chairs/)
 
-**Accessories:**
+**Monitors & Display:**
+- [Best Monitors for Working from Home](/best-monitors-working-from-home/)
 - [Best Monitor Arms](/best-monitor-arms/)
-- [Cable Management Tips](/cable-management-tips/)
+- [Best Monitor Light Bars](/best-monitor-light-bars/)
+- [Dual Monitor Setup Guide](/dual-monitor-setup-guide/)
 
-**Related:**
+**Peripherals:**
+- [Best USB-C Docking Stations](/best-usb-c-docking-stations/)
+- [Best Ergonomic Mice](/best-ergonomic-mice/)
+- [Best Webcams for Working from Home](/best-webcams-working-from-home/)
+- [Best Noise-Canceling Headphones for the Office](/best-noise-canceling-headphones-office/)
 - [Best Mechanical Keyboards for Beginners](/best-mechanical-keyboards-beginners/)
+
+**Desk Accessories:**
+- [Best Desk Mats](/best-desk-mats/)
+- [Best Laptop Stands](/best-laptop-stands/)
+- [Best Under-Desk Footrests](/best-footrests/)
+- [Cable Management Tips](/cable-management-tips/)
 
 ---
 

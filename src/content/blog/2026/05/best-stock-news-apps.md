@@ -284,6 +284,7 @@ And if reading about markets has inspired you to actually learn the fundamentals
 
 ## Related Articles
 
+- [Investing Tools Guide: Everything You Need to Start](/investing-tools-guide/) — The complete hub for all our investing and finance content
 - [7 Best Free Stock Screeners [Tested]](/best-free-stock-screeners/) — Once you've found the news, use these to dig into specific stocks
 - [7 Best Investing Apps for Beginners](/best-investing-apps-beginners/) — Ready to act on what you've learned? Here's where to start trading
 - [Best Free Investing Courses](/best-free-investing-courses/) — Learn the fundamentals before putting real money in
