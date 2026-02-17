@@ -28,9 +28,10 @@
 - `1b2f36f feat: add unique featured images for 10 Home Office expansion articles`
 - `9812012 fix: replace 4 Home Office images for visual variety`
 
-**Noch offen:**
-- [ ] 13 Finance Cluster Featured Images erstellen
-- [ ] Alle Bilder committen/pushen
+**✅ Mechanical Keyboards bereits im HO Cluster** — Link in desk-upgrade-guide (Peripherals) + Rücklinks vorhanden.
+
+**Noch offen (nächste Session):**
+- [ ] 13 Finance Cluster Featured Images erstellen (Prompts generieren → ChatGPT → konvertieren → pushen)
 
 ---
 
