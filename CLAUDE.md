@@ -57,15 +57,14 @@ ItemList, VideoObject, HowTo, SoftwareApplication, Course
 |-----------|---------|---------|--------|
 | Medium | Claude vs ChatGPT | `@mohammadmehdivazirian` | ✅ Live |
 | Dev.to | Best AI Tools for Office | `twelvecharacters` | ✅ Live |
-| LinkedIn | Free AI Courses | — | TODO |
-| Hashnode | ChatGPT Plus vs Free | — | TODO |
-| LinkedIn | AI Certifications | — | TODO |
+| LinkedIn | Free AI Courses | Company Page: `boredom-at-work` | ✅ Live |
+| LinkedIn | AI Certifications | Company Page: `boredom-at-work` | Draft fertig |
 
 Drafts in `medium-drafts/` (in `.gitignore`).
 
 ### Offene TODOs
 
-- [ ] Web 2.0 Satellites: LinkedIn #3, Hashnode #4, LinkedIn #5
+- [ ] Web 2.0 Satellites: LinkedIn #5 (AI Certifications) — ab ~20. Feb posten
 - [ ] Video für `chatgpt-guide.md` erstellen
 - [ ] **7. März:** learn-ai-guide Video → PUBLIC
 - [ ] **10. März:** chatgpt-guide Video → PUBLIC + in Artikel einbetten

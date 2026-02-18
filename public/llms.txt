@@ -16,6 +16,7 @@ Guides for learning AI skills and earning certifications during work hours.
 - [**AI Tools Guide (Hub)**](https://boredom-at-work.com/ai-tools-guide/): Complete guide to AI tools for work — ChatGPT, Claude, Gemini, Copilot and more
 - [**Learn AI Guide (Hub)**](https://boredom-at-work.com/learn-ai-guide/): Step-by-step roadmap to learn AI in 2026 — from beginner to job-ready
 - [**ChatGPT Mastery Guide (Hub)**](https://boredom-at-work.com/chatgpt-guide/): Everything about ChatGPT — prompts, custom instructions, workflows, tips
+- [AI Learning Hub](https://boredom-at-work.com/ai-learning-hub/): Complete learning path — free courses, tutorials, tools, and practical AI skills
 - [Best Free AI Courses](https://boredom-at-work.com/best-free-ai-courses/): Curated list of free AI courses you can take discreetly at work
 - [Google AI Essentials Review](https://boredom-at-work.com/google-ai-essentials-review/): In-depth review of Google's AI certification
 - [Best AI Courses on Coursera](https://boredom-at-work.com/best-ai-courses-coursera/): Top Coursera courses for AI learning
@@ -46,17 +47,26 @@ Guides for learning AI skills and earning certifications during work hours.
 ### 3D Printing
 Beginner guides for getting started with 3D printing.
 
+- [**3D Printing Guide (Hub)**](https://boredom-at-work.com/3d-printing-guide/): Complete guide to 3D printing — from choosing your first printer to selling your prints
 - [3D Printing Beginner's Guide](https://boredom-at-work.com/3d-printing-beginners-guide/): Complete introduction to 3D printing
 - [Is 3D Printing Worth It?](https://boredom-at-work.com/is-3d-printing-worth-it/): Cost-benefit analysis for beginners
 - [Best 3D Printers Under $300](https://boredom-at-work.com/best-3d-printers-under-300/): Budget-friendly printer recommendations
 - [Bambu A1 Mini vs Creality Ender 3](https://boredom-at-work.com/bambu-a1-mini-vs-creality-ender-3/): Popular printer comparison
+- [FDM vs Resin 3D Printing](https://boredom-at-work.com/fdm-vs-resin-printing/): Which technology should you choose?
+- [OrcaSlicer Guide](https://boredom-at-work.com/orcaslicer-guide/): The best 3D printing slicer — advanced features, calibration tools, modern UI
+- [Best CAD Software for 3D Printing](https://boredom-at-work.com/cad-software-3d-printing/): Tinkercad, Fusion 360, Onshape, Blender compared
+- [Best Sites for Free 3D Models](https://boredom-at-work.com/best-sites-free-3d-models/): 12 best sites to download STL files
 - [What to 3D Print First](https://boredom-at-work.com/what-to-3d-print-first/): Project ideas for beginners
+- [10 Things to 3D Print First](https://boredom-at-work.com/10-things-to-print-new-3d-printer/): Essential functional prints for new 3D printer owners
+- [3D Print Not Sticking to Bed](https://boredom-at-work.com/3d-print-not-sticking-fixes/): Every fix for first layer adhesion problems
 - [3D Printing Beginner Mistakes](https://boredom-at-work.com/3d-printing-beginner-mistakes/): Common errors and how to avoid them
-- [10 Things to 3D Print First](https://boredom-at-work.com/10-things-to-print-new-3d-printer/): Essential functional prints for new 3D printer owners — desk upgrades, cable management, organizers
+- [Selling 3D Prints Online](https://boredom-at-work.com/selling-3d-prints-online/): Turn your 3D printing hobby into a side hustle
 
 ### Photography
 Camera guides and photography tips for beginners.
 
+- [**Photography Guide (Hub)**](https://boredom-at-work.com/photography-guide/): Complete guide to photography — from choosing your first camera to taking better photos
+- [Photography Buying Guide](https://boredom-at-work.com/photography-buying-guide/): Everything you need to buy your first camera in 2026
 - [Best Cameras for Beginners](https://boredom-at-work.com/best-cameras-for-beginners/): Top camera recommendations for new photographers
 - [Best Cameras Under $500](https://boredom-at-work.com/best-cameras-under-500/): Budget camera guide
 - [DSLR vs Mirrorless for Beginners](https://boredom-at-work.com/dslr-vs-mirrorless-beginners/): Camera type comparison
@@ -140,6 +150,9 @@ Reviews and comparisons of consumer technology.
 - [AirPods Pro 3 Review](https://boredom-at-work.com/airpods-pro-3-review/): First impressions and hands-on review
 - [AirPods vs Galaxy Buds vs Sony](https://boredom-at-work.com/airpods-vs-galaxy-buds-vs-sony/): Wireless earbuds comparison
 - [Samsung Galaxy S26 Rumors](https://boredom-at-work.com/samsung-s26-rumors/): Everything we know about Samsung's next flagship — specs, price, release date
+- [Google Pixel 10a vs 9a](https://boredom-at-work.com/pixel-10a-vs-9a/): Should you wait or buy the Pixel 9a now?
+- [Best Free macOS Apps](https://boredom-at-work.com/best-free-macos-software/): 30 essential free apps for Mac + Homebrew guide
+- [Kindle Modding Guide](https://boredom-at-work.com/kindle-modding-guide/): Jailbreak, custom fonts, KOReader — unlock your e-reader
 - [ClawDBot (OpenClaw) Guide](https://boredom-at-work.com/clawdbot-openclaw-guide/): Self-hosted, open-source AI assistant — local execution, persistent memory, messaging app integration
 - [RapidRAW Image Editor Guide](https://boredom-at-work.com/rapid-raw-image-editor-guide/): Open-source GPU-accelerated RAW photo editor built with Rust — Lightroom alternative
 - [macOS Tahoe: 25 Tips & Hidden Features](https://boredom-at-work.com/macos-tahoe-tricks-and-hacks/): Essential tips for Apple's Liquid Glass redesign — customization, Apple Intelligence, productivity tricks
