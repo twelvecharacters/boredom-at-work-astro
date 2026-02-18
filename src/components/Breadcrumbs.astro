@@ -24,7 +24,7 @@ const schemaData = {
     "@type": "ListItem",
     "position": index + 1,
     "name": item.name,
-    "item": `https://boredom-at-work.com${item.url}`
+    "item": new URL(item.url, Astro.site).toString()
   }))
 };
 ---
