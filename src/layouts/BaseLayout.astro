@@ -162,9 +162,12 @@ const socialImageURL = new URL(image, Astro.site);
 
     <!-- Google Analytics 4 - Deferred loading -->
     <script>
-      // Load GA after page is interactive
-      window.addEventListener('load', function() {
-        setTimeout(function() {
+      // Load GA on first user interaction or after 5s (whichever comes first)
+      (function() {
+        var loaded = false;
+        function loadGA() {
+          if (loaded) return;
+          loaded = true;
           var script = document.createElement('script');
           script.src = 'https://www.googletagmanager.com/gtag/js?id=GT-PL3RVFQX';
           script.async = true;
@@ -175,8 +178,12 @@ const socialImageURL = new URL(image, Astro.site);
           window.gtag = gtag;
           gtag('js', new Date());
           gtag('config', 'GT-PL3RVFQX');
-        }, 100);
-      });
+        }
+        ['scroll', 'click', 'touchstart', 'keydown'].forEach(function(evt) {
+          window.addEventListener(evt, loadGA, { once: true, passive: true });
+        });
+        setTimeout(loadGA, 5000);
+      })();
     </script>
     <ScrollToTop />
   </body>
