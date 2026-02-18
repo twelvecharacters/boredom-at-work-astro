@@ -5,7 +5,7 @@ description: "Google has officially teased the Pixel 10a. Here is how it compare
 publishDate: 2026-02-05
 updatedDate: 2026-02-05
 author: "bored chap"
-image: "/images/pixel-10a.png"
+image: "/images/pixel-10a.webp"
 tags: ["Google", "Pixel 10a", "Pixel 9a", "Smartphone", "Rumors", "Comparison"]
 draft: false
 faq:

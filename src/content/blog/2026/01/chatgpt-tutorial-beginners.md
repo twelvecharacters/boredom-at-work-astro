@@ -5,7 +5,7 @@ description: "Learn how to use ChatGPT effectively with this comprehensive begin
 publishDate: 2026-01-05
 updatedDate: 2026-02-02
 author: "bored chap"
-image: "/images/chatgpt.jpg"
+image: "/images/chatgpt.webp"
 tags: ["ChatGPT", "AI", "Tutorial", "Beginners"]
 draft: false
 tldr: "Free to use, saves hours daily on emails, research, and brainstorming. The trick: better prompts = better answers. You can learn the basics in 30 minutes."

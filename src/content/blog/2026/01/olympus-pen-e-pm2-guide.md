@@ -4,7 +4,7 @@ slug: "olympus-pen-e-pm2-guide"
 description: "Discover why the Olympus PEN Lite E-PM2 is a hidden gem for photography enthusiasts and bored office workers alike. Specs, prices, and tips included."
 publishDate: 2026-01-14
 author: "bored chap"
-image: "/images/olympus-e-pm2.jpg"
+image: "/images/olympus-e-pm2.webp"
 tags: ["Photography", "Cameras", "Buying Guide", "Retro Tech"]
 draft: false
 faq:

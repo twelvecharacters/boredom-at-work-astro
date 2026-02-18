@@ -5,7 +5,7 @@ description: "An honest review of Google AI Essentials course. Find out if the c
 publishDate: 2026-01-08
 author: "bored chap"
 tags: ["Google AI", "Course Review", "AI Certification"]
-image: "/images/google-ai.jpg"
+image: "/images/google-ai.webp"
 draft: false
 review:
   rating: 4.5

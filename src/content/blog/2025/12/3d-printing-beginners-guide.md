@@ -4,7 +4,7 @@ slug: "3d-printing-beginners-guide"
 description: "Start 3D printing today. Printer recommendations under $300, material guide, and step-by-step to your first successful print."
 publishDate: 2025-12-24
 author: "bored chap"
-image: "/images/3d-printing-beginners.jpg"
+image: "/images/3d-printing-beginners.webp"
 tags: ["3D Printing", "Beginners", "Guide", "FDM", "Tutorial"]
 draft: false
 faq:

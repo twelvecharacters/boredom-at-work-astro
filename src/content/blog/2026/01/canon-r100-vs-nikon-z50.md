@@ -4,7 +4,7 @@ slug: "canon-r100-vs-nikon-z50"
 description: "Canon R100 or Nikon Z50? We compare these popular beginner mirrorless cameras head-to-head on image quality, autofocus, features, and value."
 publishDate: 2026-01-04
 author: "bored chap"
-image: "/images/canon-r100-vs-nikon-z50.jpg"
+image: "/images/canon-r100-vs-nikon-z50.webp"
 tags: ["Photography", "Cameras", "Canon", "Nikon", "Comparison"]
 draft: false
 review:

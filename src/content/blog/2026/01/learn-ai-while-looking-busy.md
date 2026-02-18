@@ -5,7 +5,7 @@ description: "The ultimate guide to learning AI skills during work downtime. Dis
 publishDate: 2026-01-10
 author: "bored chap"
 tags: ["AI Learning", "Productivity", "Career Tips", "Tutorial"]
-image: "/images/looking-busy.jpg"
+image: "/images/looking-busy.webp"
 draft: false
 ---
 

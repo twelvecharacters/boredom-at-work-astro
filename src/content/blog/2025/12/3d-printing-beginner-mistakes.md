@@ -4,7 +4,7 @@ slug: "3d-printing-beginner-mistakes"
 description: "Almost every 3D printing beginner makes these mistakes. Learn from others and save yourself frustration, time, and filament with our tips."
 publishDate: 2025-12-23
 author: "bored chap"
-image: "/images/3d-printing-mistakes.jpg"
+image: "/images/3d-printing-mistakes.webp"
 tags: ["3D Printing", "Beginners", "Tips", "Troubleshooting", "Mistakes"]
 draft: false
 isListicle: true

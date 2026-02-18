@@ -5,7 +5,7 @@ description: "Get AI certified in 7 days. Google, Microsoft, and IBM certificati
 publishDate: 2025-12-25
 author: "bored chap"
 tags: ["AI Certification", "Career Development", "Quick Learning"]
-image: "/images/ai-certifications.jpg"
+image: "/images/ai-certifications.webp"
 draft: false
 isListicle: true
 ---

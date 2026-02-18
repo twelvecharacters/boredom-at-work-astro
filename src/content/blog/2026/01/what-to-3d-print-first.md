@@ -4,7 +4,7 @@ slug: "what-to-3d-print-first"
 description: "Your first 3D print is coming up? Here are 25 perfect beginner projects from test prints to practical objects - sorted by difficulty level."
 publishDate: 2026-01-13
 author: "bored chap"
-image: "/images/first-3d-prints.jpg"
+image: "/images/first-3d-prints.webp"
 tags: ["3D Printing", "Beginners", "Projects", "Ideas", "Printables"]
 draft: false
 isListicle: true

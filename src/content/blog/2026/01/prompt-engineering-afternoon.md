@@ -5,7 +5,7 @@ description: "Master prompt engineering in just a few hours. Learn the core prin
 publishDate: 2026-01-12
 author: "bored chap"
 tags: ["Prompt Engineering", "ChatGPT", "AI Skills", "Tutorial"]
-image: "/images/prompt-engineering.jpg"
+image: "/images/prompt-engineering.webp"
 draft: false
 ---
 

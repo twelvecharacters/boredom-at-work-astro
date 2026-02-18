@@ -5,7 +5,7 @@ description: "Discover the specific AI skills that lead to career advancement. L
 publishDate: 2025-12-26
 author: "bored chap"
 tags: ["Career Development", "AI Skills", "Promotion"]
-image: "/images/ai-skills-promotion.jpg"
+image: "/images/ai-skills-promotion.webp"
 draft: false
 ---
 
