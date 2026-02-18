@@ -13,11 +13,11 @@ const { title, description, ctaText, ctaHref, typewriterPhrases = [] } = Astro.p
 ---
 
 <section class="mesh-gradient text-white py-20 md:py-32 relative overflow-hidden hero-section">
-  <!-- Interactive Background Blobs (contain to prevent CLS) -->
+  <!-- Interactive Background Blobs (animations deferred to prevent CLS) -->
   <div class="absolute inset-0 overflow-hidden pointer-events-none" aria-hidden="true" style="contain: layout style paint;">
-    <div class="absolute top-[10%] left-[10%] w-[400px] h-[400px] bg-accent/20 rounded-full blur-[100px] parallax-blob floating will-change-transform" data-speed="0.05"></div>
-    <div class="absolute bottom-[10%] right-[10%] w-[500px] h-[500px] bg-primary-light/30 rounded-full blur-[120px] parallax-blob floating-delayed will-change-transform" data-speed="0.08"></div>
-    <div class="absolute top-[40%] right-[20%] w-[300px] h-[300px] bg-accent-alt/10 rounded-full blur-[80px] parallax-blob floating-slow will-change-transform" data-speed="0.03"></div>
+    <div class="absolute top-[10%] left-[10%] w-[400px] h-[400px] bg-accent/20 rounded-full blur-[100px] parallax-blob hero-blob will-change-transform" data-speed="0.05" data-anim="floating"></div>
+    <div class="absolute bottom-[10%] right-[10%] w-[500px] h-[500px] bg-primary-light/30 rounded-full blur-[120px] parallax-blob hero-blob will-change-transform" data-speed="0.08" data-anim="floating-delayed"></div>
+    <div class="absolute top-[40%] right-[20%] w-[300px] h-[300px] bg-accent-alt/10 rounded-full blur-[80px] parallax-blob hero-blob will-change-transform" data-speed="0.03" data-anim="floating-slow"></div>
   </div>
 
   <div class="max-w-4xl mx-auto px-4 text-center relative z-10">
@@ -135,9 +135,26 @@ const { title, description, ctaText, ctaHref, typewriterPhrases = [] } = Astro.p
     });
   }
 
+  // Defer blob animations to prevent CLS
+  function activateBlobAnimations() {
+    document.querySelectorAll('.hero-blob[data-anim]').forEach((blob) => {
+      const anim = blob.getAttribute('data-anim');
+      if (anim) blob.classList.add(anim);
+    });
+  }
+
   // Initialize
   initHeroEffects();
-  document.addEventListener('astro:after-swap', initHeroEffects);
+  // Activate blob animations after layout is stable
+  if (document.readyState === 'complete') {
+    activateBlobAnimations();
+  } else {
+    window.addEventListener('load', activateBlobAnimations);
+  }
+  document.addEventListener('astro:after-swap', () => {
+    initHeroEffects();
+    activateBlobAnimations();
+  });
 </script>
 
 <style>
