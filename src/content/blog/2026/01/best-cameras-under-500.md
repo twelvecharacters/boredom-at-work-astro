@@ -1,7 +1,7 @@
 ---
 title: "Best Cameras Under $500: Top Picks for Budget Photographers (2026)"
 slug: "best-cameras-under-500"
-description: "Looking for the best camera under $500? We review the top budget cameras from Canon, Nikon, and Sony that deliver excellent image quality without breaking the bank."
+description: "Best cameras under $500 from Canon, Nikon, and Sony. We review the top budget cameras that deliver excellent image quality for beginners."
 publishDate: 2026-01-01
 author: "bored chap"
 image: "/images/cameras-under-500.webp"

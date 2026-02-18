@@ -23,7 +23,7 @@ interface Props {
 }
 
 const { post } = Astro.props;
-const { title, description, publishDate, updatedDate, author, image, tags, faq, tldr, review, isListicle, video, howTo, softwareApp, course } = post.data;
+const { title, description, publishDate, updatedDate, author, image, imageAlt, tags, faq, tldr, review, isListicle, video, howTo, softwareApp, course } = post.data;
 
 // Calculate reading time (average 200 words per minute)
 const content = post.body || '';
@@ -193,7 +193,7 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
           {image && (
             <OptimizedImage
               src={image}
-              alt={title}
+              alt={imageAlt || title}
               class="w-full rounded-xl shadow-lg"
               width={1200}
               height={630}

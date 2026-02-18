@@ -3,13 +3,6 @@
 User-agent: *
 Allow: /
 
-# Block old WordPress URLs (no longer exist)
-Disallow: /feed
-Disallow: /comments/
-Disallow: /archives/
-Disallow: /search/
-Disallow: /sample-page/
-
 # AI Crawlers
 User-agent: GPTBot
 Allow: /

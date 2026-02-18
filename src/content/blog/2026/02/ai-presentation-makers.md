@@ -1,6 +1,6 @@
 ---
 title: "Best AI Presentation Makers in 2026: Create Slides in Minutes"
-description: "Compare the best AI presentation tools: Gamma, Beautiful.ai, Canva AI, and more. Find out which one creates the best slides and whether they're worth paying for."
+description: "Best AI presentation tools compared: Gamma, Beautiful.ai, Canva AI, and more. Which creates the best slides and is it worth paying for?"
 publishDate: 2026-02-16
 author: "bored chap"
 image: "/images/ai-presentation-makers.webp"

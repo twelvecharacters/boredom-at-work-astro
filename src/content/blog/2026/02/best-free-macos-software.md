@@ -1,7 +1,7 @@
 ---
 title: "The Best Free macOS Apps in 2026: 30 Essential Tools + Homebrew Guide"
 slug: "best-free-macos-software"
-description: "Setting up a new Mac? Don't break the bank. Here are 30 essential free apps for productivity, creativity, and system utilities, plus a complete beginner's guide to Homebrew."
+description: "Setting up a new Mac? Here are 30 essential free apps for productivity, creativity, and system utilities, plus a Homebrew beginner's guide."
 publishDate: 2026-02-25
 author: "bored chap"
 image: "/images/free-macos-software.webp"

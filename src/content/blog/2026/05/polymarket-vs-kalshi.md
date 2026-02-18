@@ -1,7 +1,7 @@
 ---
 title: "Polymarket vs Kalshi (2026): I Tried Both — Here's My Pick"
 slug: "polymarket-vs-kalshi"
-description: "I compared Polymarket and Kalshi side by side — fees, markets, regulation, and UX. Here's which prediction market platform is actually worth your time in 2026."
+description: "Polymarket vs Kalshi compared side by side — fees, markets, regulation, and UX. Which prediction market platform is actually worth it?"
 publishDate: 2026-05-07
 author: "bored chap"
 image: "/images/polymarket-vs-kalshi.webp"
