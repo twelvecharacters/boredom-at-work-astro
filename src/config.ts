@@ -16,6 +16,7 @@ export const AUTHOR = {
   social: {
     reddit: 'https://www.reddit.com/r/boredom_at_work/',
     youtube: 'https://www.youtube.com/@boredom-at-work',
+    linkedin: 'https://www.linkedin.com/company/boredom-at-work',
     email: 'twelvecharacters@proton.me',
   },
 };
