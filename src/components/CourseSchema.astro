@@ -39,7 +39,7 @@ const schemaData = {
     "price": course.isFree ? "0" : undefined,
     "priceCurrency": "USD",
     "availability": "https://schema.org/InStock",
-    "category": "Paid"
+    "category": course.isFree ? "Free" : "Paid"
   }
 };
 

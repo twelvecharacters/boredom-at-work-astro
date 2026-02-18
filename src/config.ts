@@ -2,7 +2,7 @@ export const SITE = {
   title: 'Boredom at Work',
   description: "Transform your 9-to-5 downtime into personal growth. From mastering AI skills to starting a 3D printing hobby or finding the perfect camera gear — we help you make every boring minute count.",
   url: 'https://boredom-at-work.com',
-  author: 'a bored human',
+  author: 'bored chap',
 };
 
 export const AUTHOR = {
@@ -115,6 +115,45 @@ export const CATEGORIES = [
     ],
     viewAllHref: '/tags/tech-gadgets/',
   },
+  {
+    title: 'Home Office Upgrades',
+    id: 'home-office',
+    icon: '🪑',
+    description: "Build the home office that makes you actually want to work. Standing desks, ergonomic chairs, monitors, and everything in between.",
+    links: [
+      { text: 'Desk Upgrade Guide (Hub)', href: '/desk-upgrade-guide/' },
+      { text: 'Best Standing Desks Under $600', href: '/best-standing-desks/' },
+      { text: 'Best Office Chairs for Long Hours', href: '/best-office-chairs/' },
+      { text: 'Best Monitor Arms', href: '/best-monitor-arms/' },
+    ],
+    viewAllHref: '/tags/home-office/',
+  },
+  {
+    title: 'Investing & Finance Tools',
+    id: 'finance',
+    icon: '📈',
+    description: "Learn investing during work downtime. Paper trading, stock screeners, courses, and tools — no financial advice, just education.",
+    links: [
+      { text: 'Investing Tools Guide (Hub)', href: '/investing-tools-guide/' },
+      { text: 'Best Paper Trading Apps', href: '/best-paper-trading-apps/' },
+      { text: 'Best Free Investing Courses', href: '/best-free-investing-courses/' },
+      { text: 'Best Investing Apps for Beginners', href: '/best-investing-apps-beginners/' },
+    ],
+    viewAllHref: '/tags/investing/',
+  },
+  {
+    title: 'AI Travel Planning',
+    id: 'ai-travel',
+    icon: '✈️',
+    description: "Plan your next trip with ChatGPT, Claude, and Perplexity. Real trip reports, prompts that work, and destination guides.",
+    links: [
+      { text: 'AI Travel Planning Hub', href: '/ai-travel-planning/' },
+      { text: 'ChatGPT Trip Planning Tutorial', href: '/chatgpt-trip-planning-tutorial/' },
+      { text: 'Best AI Trip Planners 2026', href: '/best-ai-trip-planners/' },
+      { text: 'AI Trip Planning: Japan', href: '/ai-trip-planning-japan/' },
+    ],
+    viewAllHref: '/tags/ai-travel/',
+  },
 ];
 
 export const FOOTER_LINKS = {
@@ -125,9 +164,11 @@ export const FOOTER_LINKS = {
     { label: 'Contact', href: '/contact/' },
   ],
   popular: [
-    { label: 'ChatGPT Beginner Guide', href: '/chatgpt-tutorial-beginners/' },
-    { label: 'Free AI Courses', href: '/best-free-ai-courses/' },
-    { label: 'RapidRAW Guide', href: '/rapid-raw-image-editor-guide/' },
-    { label: 'Fast Certifications', href: '/ai-certifications-in-a-week/' },
+    { label: 'AI Tools Guide', href: '/ai-tools-guide/' },
+    { label: 'ChatGPT Mastery Guide', href: '/chatgpt-guide/' },
+    { label: '3D Printing Guide', href: '/3d-printing-guide/' },
+    { label: 'Photography Guide', href: '/photography-guide/' },
+    { label: 'Desk Upgrade Guide', href: '/desk-upgrade-guide/' },
+    { label: 'Investing Tools Guide', href: '/investing-tools-guide/' },
   ],
 };

@@ -24,8 +24,7 @@ const displayCategories = CATEGORIES.map(category => ({
   })
 }))
 .filter(category => category.links.length > 0)
-.sort(() => Math.random() - 0.5)
-.slice(0, 6);
+;
 ---
 
 <BaseLayout 

@@ -260,9 +260,13 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
     "@type": "Article",
     "headline": title,
     "description": description,
-    "image": image,
+    "image": new URL(image, Astro.site).toString(),
     "datePublished": publishDate.toISOString(),
     "dateModified": (updatedDate || publishDate).toISOString(),
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": new URL(Astro.url.pathname, Astro.site).toString()
+    },
     "author": {
       "@type": "Person",
       "name": author

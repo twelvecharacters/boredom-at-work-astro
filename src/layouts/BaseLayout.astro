@@ -108,8 +108,16 @@ const socialImageURL = new URL(image, Astro.site);
       "@context": "https://schema.org",
       "@type": "Organization",
       "name": SITE.title,
-      "url": Astro.site,
-      "description": SITE.description
+      "url": new URL('/', Astro.site).toString(),
+      "description": SITE.description,
+      "logo": new URL('/images/logo.webp', Astro.site).toString(),
+      "sameAs": [
+        "https://www.youtube.com/@boredom-at-work",
+        "https://www.linkedin.com/company/boredom-at-work",
+        "https://www.reddit.com/r/boredom_at_work/",
+        "https://medium.com/@mohammadmehdivazirian",
+        "https://dev.to/twelvecharacters"
+      ]
     })} />
 
     <meta name="generator" content={Astro.generator} />
