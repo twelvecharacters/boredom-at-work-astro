@@ -11,7 +11,7 @@ draft: false
 
 AI isn't replacing jobs. It's changing who gets promoted.
 
-![AI Robot representing future skills](/images/ai-robot.jpg)
+![AI Robot representing future skills](/images/ai-robot.webp)
 
 The professionals who learn to work effectively with AI are becoming more productive, more valuable, and more promotable. The ones who don't are falling behind.
 
