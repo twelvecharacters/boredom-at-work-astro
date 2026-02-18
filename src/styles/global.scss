@@ -59,10 +59,10 @@
   }
 
   @keyframes floating {
-    0% { transform: translateY(0px) rotate(0deg); }
-    33% { transform: translateY(-15px) rotate(2deg); }
-    66% { transform: translateY(5px) rotate(-1deg); }
-    100% { transform: translateY(0px) rotate(0deg); }
+    0% { transform: translate3d(0, 0, 0) rotate(0deg); }
+    33% { transform: translate3d(0, -15px, 0) rotate(2deg); }
+    66% { transform: translate3d(0, 5px, 0) rotate(-1deg); }
+    100% { transform: translate3d(0, 0, 0) rotate(0deg); }
   }
 
   .shine-effect {
