@@ -19,7 +19,7 @@ faq:
   - question: "Which filament is food-safe?"
     answer: "None of these filaments are truly food-safe for repeated use. While PLA is made from plant-based materials, the layer lines harbor bacteria. For food contact, you'd need food-safe coatings or single-use applications. PETG is used in food packaging industrially but FDM prints aren't certified food-safe."
   - question: "What temperature should I print each filament at?"
-    answer: "PLA: 190-220°C nozzle, 0-60°C bed. PETG: 220-250°C nozzle, 70-80°C bed. ABS: 230-260°C nozzle, 90-110°C bed. Always check your specific filament brand's recommendations."
+    answer: "PLA: 190-220°C nozzle, 0-60°C bed. PETG: 220-250°C nozzle, 70-90°C bed. ABS: 220-250°C nozzle, 90-110°C bed. Always check your specific filament brand's recommendations."
 tldr: "PLA is easiest to print and best for beginners. PETG offers better strength and flexibility for functional parts. ABS is strongest but hardest to print—skip it unless you need heat resistance. Most hobbyists only need PLA and PETG."
 ---
 
@@ -40,7 +40,7 @@ The long answer involves trade-offs between ease of printing, strength, flexibil
 | **Warping** | Minimal | Low | High |
 | **Odor** | None | Minimal | Strong |
 | **Enclosure Needed** | No | No | Yes |
-| **Price (avg)** | $20-25/kg | $22-28/kg | $20-25/kg |
+| **Price (avg)** | $18-25/kg | $22-28/kg | $20-25/kg |
 | **Best For** | Decorative, Prototypes | Functional Parts | Heat-resistant Parts |
 
 ## PLA: The Beginner's Best Friend
@@ -115,14 +115,14 @@ The long answer involves trade-offs between ease of printing, strength, flexibil
 
 - **Prusament PETG** — Benchmark quality
 - **Overture PETG** — Great value
-- **eSUN PETG** — Consistent performer
-- **Polymaker PolyLite PETG** — Wide color selection
+- **eSUN PETG** — Consistent performer (note: lower Tg ~60°C than typical PETG)
+- **Polymaker PETG** — Wide color selection, updated formula
 
 ### PETG Print Settings Tips
 
 ```
 Nozzle: 230-245°C (start at 235°C)
-Bed: 70-80°C
+Bed: 70-90°C (80°C is a good starting point)
 Speed: 40-60mm/s (slower than PLA)
 Cooling: 30-50% (less than PLA)
 Retraction: Increase by 20% vs PLA
@@ -143,7 +143,7 @@ First Layer: Print slow (20mm/s) and squish it
 - **Best heat resistance (~100°C)** — Survives hot environments
 - **Can be acetone-smoothed** — Professional finish possible
 - **Excellent machinability** — Can be drilled, sanded, painted
-- **Long-term durability** — Can be acetone-smoothed for a professional finish
+- **Long-term durability** — Resists degradation better than PLA in most environments
 
 ### ABS's Serious Limitations
 
@@ -195,8 +195,8 @@ Unless you specifically need:
 
 | Setting | PLA | PETG | ABS |
 |---------|-----|------|-----|
-| **Nozzle Temp** | 190-220°C | 220-250°C | 230-260°C |
-| **Bed Temp** | 0-60°C | 70-80°C | 90-110°C |
+| **Nozzle Temp** | 190-220°C | 220-250°C | 220-250°C |
+| **Bed Temp** | 0-60°C | 70-90°C | 90-110°C |
 | **Print Speed** | 50-80mm/s | 40-60mm/s | 40-60mm/s |
 | **Cooling Fan** | 100% | 30-50% | 0-20% |
 | **Enclosure** | Not needed | Not needed | Required |

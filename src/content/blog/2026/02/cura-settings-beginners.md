@@ -125,7 +125,7 @@ Cura offers many patterns. Here's what matters:
 
 | Pattern | Strength | Print Time | Best For |
 |---------|----------|------------|----------|
-| **Grid** | Good all-around | Medium | Default choice |
+| **Grid** | Good all-around | Medium | General purpose |
 | **Cubic** | Good in all directions | Medium | Functional parts |
 | **Gyroid** | Excellent | Slower | Flexible/organic parts |
 | **Lines** | Weak | Fast | Quick prototypes |
@@ -211,7 +211,7 @@ Cura offers many patterns. Here's what matters:
 | **Normal** | Simple, reliable | Harder to remove, leaves marks |
 | **Tree** | Easy removal, less scarring | Can fail on complex geometry |
 
-**Recommendation:** Use **Tree Supports** when possible. Set "Support Overhang Angle" to **50 degrees**.
+**Recommendation:** Use **Tree Supports** when possible. Set "Support Overhang Angle" to **45 degrees** (Cura's default — increase to 50° once you're confident your printer handles overhangs well).
 
 ---
 

@@ -151,8 +151,8 @@ Will tell you when your writing has problems, not just make superficial changes.
 
 ### Weaknesses
 
-**No Integration**
-Doesn't plug into your email or documents. You copy-paste between apps.
+**Limited Integration**
+Claude now has a Chrome extension for paid users that works across websites, but it still lacks the ubiquitous text-field integration that Grammarly offers. For most workflows, you'll copy-paste between apps.
 
 **Requires Good Prompts**
 Garbage in, garbage out. You need to learn prompting for best results.
@@ -388,7 +388,7 @@ Integrations aren't as seamless as Grammarly's.
 
 ## Hemingway Editor — Best for Clarity
 
-**Price:** Free (web) / $20 one-time (desktop)
+**Price:** Free (web) / ~$20 one-time (desktop) / $100/year for Hemingway Plus (AI features)
 
 Hemingway has one job: make your writing clear and bold.
 

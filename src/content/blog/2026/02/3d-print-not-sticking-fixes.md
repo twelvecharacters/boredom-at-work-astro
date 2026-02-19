@@ -200,7 +200,7 @@ Different surfaces work better with different materials:
 |---------|----------|-------|
 | **PEI (smooth)** | PLA, ABS | PETG (sticks too well) |
 | **PEI (textured)** | PETG, PLA | — |
-| **Glass** | PLA (with glue) | PETG, ABS |
+| **Glass** | PLA (with glue), ABS (with hairspray) | PETG (without release agent) |
 | **BuildTak** | PLA, ABS | PETG |
 | **Magnetic flex plates** | Varies | Check manufacturer |
 
@@ -313,7 +313,7 @@ When surface adhesion isn't enough, add more surface area:
 
 **Settings:**
 - Brim width: 8-15mm
-- Brim lines: 10-20
+- Brim lines: 5-15
 
 **Pros:** Uses minimal material, easy to remove
 **Cons:** Leaves slight edge to clean up

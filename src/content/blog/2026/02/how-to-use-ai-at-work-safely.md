@@ -55,8 +55,8 @@ This is the most important rule. Get it wrong, and you could face serious conseq
 
 When you paste text into ChatGPT or Claude:
 - It's transmitted to their servers
-- It may be used to train future models (depending on settings)
-- It's stored in logs (at least temporarily)
+- It may be used to train future models (ChatGPT and Claude both use consumer data for training by default — you can opt out in settings)
+- It's stored in logs (at least temporarily — and possibly longer due to ongoing legal proceedings)
 - You've effectively shared company data with a third party
 
 **Real consequences:**
@@ -70,8 +70,8 @@ When you paste text into ChatGPT or Claude:
 
 | Option | Privacy Level | Cost |
 |--------|--------------|------|
-| Enterprise AI (ChatGPT Enterprise, Claude Team/Enterprise) | High | $$$ |
-| Microsoft Copilot (with proper licensing) | High | $30/user/mo |
+| Enterprise AI (ChatGPT Enterprise, Claude for Work/Enterprise) | High | $$$ |
+| Microsoft Copilot (M365 add-on, requires existing license) | High | $30/user/mo + M365 |
 | Local AI (Ollama, LM Studio) | Complete | Free |
 | Anonymize data first | Medium | Free |
 
