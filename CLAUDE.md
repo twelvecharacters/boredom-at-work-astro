@@ -272,10 +272,10 @@ rm temp.png
 ### Home Office Cluster (März-April 2026) — ✅ KOMPLETT
 | Datum | Artikel | Slug |
 |-------|---------|------|
-| 8. März | Best Standing Desks | `/best-standing-desks/` |
+| 9. März | Best Standing Desks | `/best-standing-desks/` |
 | 10. März | Best Office Chairs | `/best-office-chairs/` |
 | 12. März | Best Monitor Arms | `/best-monitor-arms/` |
-| 14. März | Cable Management Tips | `/cable-management-tips/` |
+| 13. März | Cable Management Tips | `/cable-management-tips/` |
 | 15. März | Desk Upgrade Guide (Hub) | `/desk-upgrade-guide/` |
 | 24. März | Best Monitors for WFH | `/best-monitors-working-from-home/` |
 | 26. März | Best USB-C Docking Stations | `/best-usb-c-docking-stations/` |
