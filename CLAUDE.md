@@ -269,11 +269,25 @@ rm temp.png
 
 ## Content-Kategorien & Artikel-Zeitpläne
 
+### Ausstehende Artikel Februar 2026
+| Datum | Artikel | Slug |
+|-------|---------|------|
+| 19. Feb | PLA vs PETG vs ABS | `/pla-vs-petg-vs-abs/` |
+| 20. Feb | How to Use AI at Work Safely | `/how-to-use-ai-at-work-safely/` |
+| 21. Feb | Cura Settings for Beginners | `/cura-settings-beginners/` |
+| 23. Feb | AI Writing Tools Comparison | `/ai-writing-tools-comparison/` |
+| 24. Feb | 3D Print Not Sticking Fixes | `/3d-print-not-sticking-fixes/` |
+| 25. Feb | Best Free macOS Software | `/best-free-macos-software/` |
+| 26. Feb | Best AI Chrome Extensions | `/best-ai-chrome-extensions/` |
+| 27. Feb | Best Sites Free 3D Models | `/best-sites-free-3d-models/` |
+| 28. Feb | AI Travel Planning (Hub) | `/ai-travel-planning/` |
+
 ### Home Office Cluster (März-April 2026) — ✅ KOMPLETT
 | Datum | Artikel | Slug |
 |-------|---------|------|
 | 9. März | Best Standing Desks | `/best-standing-desks/` |
 | 10. März | Best Office Chairs | `/best-office-chairs/` |
+| 11. März | Claude AI Review | `/claude-ai-review/` |
 | 12. März | Best Monitor Arms | `/best-monitor-arms/` |
 | 13. März | Cable Management Tips | `/cable-management-tips/` |
 | 15. März | Desk Upgrade Guide (Hub) | `/desk-upgrade-guide/` |
