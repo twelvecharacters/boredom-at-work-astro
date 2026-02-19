@@ -358,8 +358,11 @@ Whatever you choose, even a basic monitor arm dramatically improves your desk se
 
 ## Related Guides
 
+- [The Ultimate Desk Upgrade Guide](/desk-upgrade-guide/) — Complete workspace optimization
 - [Best Standing Desks Under $600](/best-standing-desks/) — Pair with your arm
 - [Best Office Chairs for Long Hours](/best-office-chairs/) — Complete the setup
+- [Best Monitors for Working From Home](/best-monitors-working-from-home/) — What to mount on your new arm
+- [Dual Monitor Setup Guide](/dual-monitor-setup-guide/) — Set up two screens the right way
 - [Cable Management Tips](/cable-management-tips/) — Hide those wires
 
 ---

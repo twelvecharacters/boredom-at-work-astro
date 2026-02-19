@@ -366,6 +366,8 @@ Whatever you choose, prioritize adjustable lumbar support and proper setup. Your
 
 - [Best Standing Desks Under $600](/best-standing-desks/) — Pair with your chair
 - [The Ultimate Desk Upgrade Guide](/desk-upgrade-guide/) — Complete workspace optimization
+- [Best Monitor Arms](/best-monitor-arms/) — Fix your screen height
+- [Cable Management Tips](/cable-management-tips/) — Clean up your desk
 - [Best Mechanical Keyboards for Beginners](/best-mechanical-keyboards-beginners/) — Complete the setup
 
 ---

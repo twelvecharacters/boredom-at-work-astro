@@ -59,6 +59,8 @@ Beginner guides for getting started with 3D printing.
 - [What to 3D Print First](https://boredom-at-work.com/what-to-3d-print-first/): Project ideas for beginners
 - [10 Things to 3D Print First](https://boredom-at-work.com/10-things-to-print-new-3d-printer/): Essential functional prints for new 3D printer owners
 - [3D Print Not Sticking to Bed](https://boredom-at-work.com/3d-print-not-sticking-fixes/): Every fix for first layer adhesion problems
+- [PLA vs PETG vs ABS](https://boredom-at-work.com/pla-vs-petg-vs-abs/): Which 3D printing filament should you use?
+- [Cura Settings for Beginners](https://boredom-at-work.com/cura-settings-beginners/): The 10 slicer settings that actually matter
 - [3D Printing Beginner Mistakes](https://boredom-at-work.com/3d-printing-beginner-mistakes/): Common errors and how to avoid them
 - [Selling 3D Prints Online](https://boredom-at-work.com/selling-3d-prints-online/): Turn your 3D printing hobby into a side hustle
 

@@ -252,4 +252,4 @@ Now go print something. That spool isn't going to use itself.
 
 ---
 
-*Looking for project ideas? Check out [What Should I 3D Print First?](/what-to-3d-print-first/) or browse [Best Sites for Free 3D Models](/best-sites-free-3d-models/).*
+*Looking for project ideas? Check out [What Should I 3D Print First?](/what-to-3d-print-first/) or browse [Best Sites for Free 3D Models](/best-sites-free-3d-models/). Need help dialing in your settings? Read [Cura Settings for Beginners](/cura-settings-beginners/). For all our 3D printing content, see the [3D Printing Guide](/3d-printing-guide/).*

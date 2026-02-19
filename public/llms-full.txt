@@ -508,6 +508,22 @@ Design your own 3D prints. Compares Tinkercad (beginner), Fusion 360 (intermedia
 
 First layer keeps failing? Every reason your 3D print won't stick and how to fix it — bed leveling, temperature, adhesion helpers, and more.
 
+### PLA vs PETG vs ABS: Which 3D Printing Filament Should You Use?
+**URL:** https://boredom-at-work.com/pla-vs-petg-vs-abs/
+**Reading Time:** 12 minutes
+
+Comprehensive filament comparison for beginners. PLA for easy prints, PETG for functional parts, ABS for heat resistance. Covers temperature settings, strength, flexibility, ease of printing, and best use cases for each material.
+
+**Key insight:** Most hobbyists only need PLA and PETG. Skip ABS unless you specifically need heat resistance above 80°C.
+
+### Cura Settings for Beginners: The Only Guide You Need
+**URL:** https://boredom-at-work.com/cura-settings-beginners/
+**Reading Time:** 10 minutes
+
+Cura has 400+ settings but only 10 matter for beginners. Covers layer height, wall count, infill, temperature, speed, retraction, and supports with recommended values for PLA.
+
+**Key insight:** Start with 0.2mm layer height, 200°C nozzle, 60°C bed, 20% infill, and 50mm/s speed. Save it as a profile and tweak from there.
+
 ### 3D Printing Beginner Mistakes
 **URL:** https://boredom-at-work.com/3d-printing-beginner-mistakes/
 Common errors and how to avoid them. Covers bed adhesion, temperature settings, and support structures.
