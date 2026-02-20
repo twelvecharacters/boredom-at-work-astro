@@ -8,7 +8,7 @@ import { getPublishedPosts, slugifyTag, getPostSlug } from '../../utils/blog';
 
 export async function getStaticPaths({ paginate }: any) {
   const posts = await getPublishedPosts();
-  return paginate(posts, { pageSize: 6 });
+  return paginate(posts, { pageSize: 12 });
 }
 
 const { page } = Astro.props;
