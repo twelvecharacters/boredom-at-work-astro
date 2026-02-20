@@ -9,17 +9,21 @@ interface Props {
     priceRange?: string;
   };
   articleTitle: string;
+  articleDescription: string;
   articleUrl: string;
+  articleImage?: string;
   publishDate: Date;
   author: string;
 }
 
-const { review, articleTitle, articleUrl, publishDate, author } = Astro.props;
+const { review, articleTitle, articleDescription, articleUrl, articleImage, publishDate, author } = Astro.props;
 
 const schemaData = {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": review.productName,
+  "description": articleDescription,
+  ...(articleImage && { "image": `${SITE.url}${articleImage}` }),
   ...(review.productBrand && { "brand": { "@type": "Brand", "name": review.productBrand } }),
   ...(review.priceRange && { "offers": { "@type": "AggregateOffer", "priceRange": review.priceRange } }),
   "review": {
@@ -35,7 +39,7 @@ const schemaData = {
       "name": author
     },
     "datePublished": publishDate.toISOString().split('T')[0],
-    "reviewBody": articleTitle,
+    "reviewBody": articleDescription,
     "publisher": {
       "@type": "Organization",
       "name": SITE.title

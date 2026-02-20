@@ -289,7 +289,9 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
     <ReviewSchema
       review={review}
       articleTitle={title}
+      articleDescription={description}
       articleUrl={`/${getPostSlug(post)}/`}
+      articleImage={image}
       publishDate={publishDate}
       author={author}
     />
