@@ -349,7 +349,7 @@ rm temp.png
 - [ ] 3-5 relevante Tags
 - [ ] FAQ-Section (3 Fragen) für Schema.org
 - [ ] Interne Verlinkung zu 2-3 verwandten Artikeln
-- [ ] **llms.txt + llms-full.txt aktualisieren**
+- [ ] ~~llms.txt + llms-full.txt aktualisieren~~ (automatisch bei Build via `src/pages/llms.txt.ts` + `llms-full.txt.ts`)
 
 ---
 
@@ -357,10 +357,10 @@ rm temp.png
 
 | Datei | URL |
 |-------|-----|
-| `public/llms.txt` | https://boredom-at-work.com/llms.txt |
-| `public/llms-full.txt` | https://boredom-at-work.com/llms-full.txt |
+| `src/pages/llms.txt.ts` | https://boredom-at-work.com/llms.txt |
+| `src/pages/llms-full.txt.ts` | https://boredom-at-work.com/llms-full.txt |
 
-Bei neuen Artikeln **beide Dateien** aktualisieren.
+**Automatisch generiert bei jedem Build** aus veröffentlichten Artikeln. Keine manuelle Pflege nötig.
 
 ---
 
