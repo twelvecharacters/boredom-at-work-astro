@@ -29,11 +29,11 @@ In this 3D printer comparison, I'll introduce you to the best beginner printers 
 
 | Printer | Price | Print Volume | Speed | Best For |
 |---------|-------|--------------|-------|----------|
-| **Bambu Lab A1 Mini** | ~$219 | 180x180x180mm | 500mm/s | Beginners who don't want to tinker |
-| **Creality Ender 3 V3 SE** | ~$200 | 220x220x250mm | 250mm/s | Budget tinkerers |
-| **Creality Ender 3 V3** | ~$280 | 220x220x250mm | 500mm/s | Best Creality option |
-| **Anycubic Kobra 3** | ~$350 | 250x250x260mm | 500mm/s | Solid middle ground |
-| **Elegoo Neptune 4** | ~$230 | 225x225x265mm | 500mm/s | Value champion |
+| **[Bambu Lab A1 Mini](https://bambulab.com/en/a1-mini)** | ~$219 | 180x180x180mm | 500mm/s | Beginners who don't want to tinker |
+| **[Creality Ender 3 V3 SE](https://www.creality.com/products/ender-3-v3-se)** | ~$200 | 220x220x250mm | 250mm/s | Budget tinkerers |
+| **[Creality Ender 3 V3](https://www.creality.com/products/ender-3-v3)** | ~$280 | 220x220x250mm | 500mm/s | Best Creality option |
+| **[Anycubic Kobra 3](https://www.anycubic.com/products/kobra-3)** | ~$350 | 250x250x260mm | 500mm/s | Solid middle ground |
+| **[Elegoo Neptune 4](https://www.elegoo.com/products/elegoo-neptune-4)** | ~$230 | 225x225x265mm | 500mm/s | Value champion |
 
 ## 1. Bambu Lab A1 Mini - Best for Beginners
 

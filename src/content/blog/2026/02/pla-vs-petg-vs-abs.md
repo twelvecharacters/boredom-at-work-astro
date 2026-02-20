@@ -242,7 +242,7 @@ All three filaments are hygroscopic (absorb moisture from air), but to different
 
 If you're new to 3D printing, here's my honest advice:
 
-1. **Start with PLA** — Learn your printer without fighting the material
+1. **Start with PLA** — Learn your printer without fighting the material. Dial in your [slicer settings](/cura-settings-beginners/) first
 2. **Graduate to PETG** — When you need stronger functional parts
 3. **Skip ABS** — Unless you have a specific need AND an enclosed printer with ventilation
 

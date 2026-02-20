@@ -129,7 +129,7 @@ Invest in quality filament:
 
 ## Mistake 5: Wrong Print Temperature
 
-Every filament has an optimal temperature range. The default setting in the slicer is often just a starting point.
+Every filament has an optimal temperature range. The default setting in your slicer (like [Cura](https://ultimaker.com/software/ultimaker-cura/) or [Bambu Studio](https://bambulab.com/en/download/studio)) is often just a starting point.
 
 ### The Problem
 

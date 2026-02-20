@@ -99,7 +99,7 @@ Mechanical keyboards come in different sizes. Smaller isn't always better — pi
 - Best for: Enthusiasts, extreme minimalists, people who've memorized shortcuts
 - Width: ~11 inches
 
-**For beginners:** Start with **TKL (80%)** or **75%**. You get more desk space without losing functionality.
+**For beginners:** Start with **TKL (80%)** or **75%**. You get more desk space without losing functionality. Planning a full [desk upgrade](/desk-upgrade-guide/)? A keyboard is one of the best starting points.
 
 ## Best Mechanical Keyboards for Beginners (2026)
 
@@ -234,7 +234,7 @@ When shopping, prioritize:
 
 ## Office Reality Check: Will My Coworkers Hate Me?
 
-Let's be real — you're probably using this keyboard at work. Here's what matters in an office:
+Let's be real — you're probably using this keyboard at work. Pair it with a good [ergonomic office chair](/best-office-chairs/) and you've got a solid setup. Here's what matters in an office:
 
 **The Noise Question**
 

@@ -78,7 +78,7 @@ The Canon EOS R100 represents the best value in mirrorless cameras under $500. I
 - Limited 4K video (cropped, 24p only)
 - Single card slot
 
-**Best For:** Beginners wanting modern mirrorless technology, family photographers, travel photography.
+**Best For:** Beginners wanting modern mirrorless technology, family photographers, travel photography. For a detailed side-by-side, see our [Canon R100 vs Nikon Z50 comparison](/canon-r100-vs-nikon-z50/).
 
 ## 2. Nikon Z50 (Used) - Best Used Value
 
@@ -179,6 +179,8 @@ Released in 2014, the Sony A6000 remains a capable camera thanks to its excellen
 If you want a new camera with warranty and have the tightest budget, the Canon Rebel T7 (EOS 2000D internationally) remains available and capable.
 
 ### Why Choose a DSLR in 2026?
+
+Not sure which type to pick? Our [DSLR vs mirrorless guide](/dslr-vs-mirrorless-beginners/) breaks down the key differences.
 
 **Lower Price Point:** New DSLRs are cheaper than comparable mirrorless cameras. That savings can go toward lenses or accessories.
 

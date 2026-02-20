@@ -7,6 +7,10 @@ author: "bored chap"
 image: "/images/best-ai-tools-office-work.webp"
 tags: ["AI", "Productivity", "Office", "Tools", "Work"]
 draft: false
+video:
+  youtubeId: "IoGF-x_prXQ"
+  title: "Best AI Tools for Productivity in 2026"
+  description: "A walkthrough of the best AI tools that actually boost office productivity in 2026. Tested with real work tasks."
 isListicle: true
 faq:
   - question: "Are AI tools safe to use at work?"
@@ -22,6 +26,17 @@ Most "AI tools" lists are filled with overhyped garbage that sounds impressive b
 This isn't that list.
 
 These are AI tools I've actually used in a real office environment. Tools that save time, reduce tedious work, and make you look more competent than you feel. No crypto projects, no tools that require a PhD to use, no vaporware.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 2rem;">
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/IoGF-x_prXQ"
+    title="Best AI Tools for Productivity in 2026"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## The Quick List
 

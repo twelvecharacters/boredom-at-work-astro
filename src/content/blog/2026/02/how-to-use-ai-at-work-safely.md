@@ -40,7 +40,7 @@ This is the most important rule. Get it wrong, and you could face serious conseq
 
 ### What NOT to Paste Into AI
 
-**Never put these into ChatGPT, Claude, or any AI tool:**
+**Never put these into [ChatGPT, Claude](/claude-vs-chatgpt/), or any AI tool:**
 
 - Customer data (names, emails, account info)
 - Employee information (salaries, reviews, personal details)
@@ -400,7 +400,7 @@ AI use at work is becoming normal. Companies are moving from "should we allow AI
 - Integration into standard workflows
 
 **What this means for you:**
-- Learning AI tools is career-positive
+- [Learning AI tools](/learn-ai-guide/) is career-positive
 - Responsible use builds trust
 - Early adopters have advantages
 - Poor AI hygiene has consequences

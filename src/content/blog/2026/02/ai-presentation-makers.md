@@ -19,7 +19,7 @@ faq:
 
 Creating presentations is one of those tasks everyone hates but everyone has to do. Now AI can do the heavy lifting.
 
-I tested all the major AI presentation tools with the same prompt to see which actually delivers. Here's what works, what doesn't, and which one you should use.
+I tested all the major AI presentation tools with the same prompt to see which actually delivers. Here's what works, what doesn't, and which one you should use. (Looking for more AI productivity tools? Check our [Best AI Tools for Office Work](/best-ai-tools-office-work/) roundup.)
 
 ## Quick Comparison: Best AI Presentation Makers
 
@@ -209,7 +209,7 @@ Gave me options rather than one finished product. More work to get to done, but 
 
 **Price:** $19.99/mo (Microsoft 365 Premium for individuals) or $21/user/mo (Copilot for Business) / $30/user/mo (Enterprise)
 
-Microsoft's AI built directly into PowerPoint.
+Microsoft's AI built directly into PowerPoint. We cover Copilot in detail in our [Copilot in Word tutorial](/copilot-word-tutorial/) — the same AI powers the Slides features.
 
 ### What I Like:
 

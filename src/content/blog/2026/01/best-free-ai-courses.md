@@ -44,19 +44,19 @@ All the courses below meet these criteria.
 
 | Course | Provider | Time | Certificate | Best For |
 |--------|----------|------|-------------|----------|
-| Google AI Essentials | Google/Coursera | 10 hrs | Yes ($49) | Everyone |
-| Elements of AI | Univ. Helsinki | 6 hrs | Yes (Free) | Non-technical beginners |
-| OpenAI Academy | OpenAI | 5 hrs | Yes (Free) | Hands-on ChatGPT users |
-| Microsoft AI Fundamentals | Microsoft Learn | 8 hrs | Exam fee for cert | Corporate environments |
-| IBM AI Foundations | IBM/Coursera | 6 hrs | Yes ($49) | Business professionals |
-| Salesforce AI Course | Trailhead | 5 hrs | Badge (Free) | Sales/Marketing |
-| Prompt Engineering | DeepLearning.AI | 5 hrs | Yes (Free) | Daily AI users |
+| [Google AI Essentials](https://www.coursera.org/learn/google-ai-essentials) | Google/Coursera | 10 hrs | Yes ($49) | Everyone |
+| [Elements of AI](https://www.elementsofai.com/) | Univ. Helsinki | 6 hrs | Yes (Free) | Non-technical beginners |
+| [OpenAI Academy](https://academy.openai.com/) | OpenAI | 5 hrs | Yes (Free) | Hands-on ChatGPT users |
+| [Microsoft AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | Microsoft Learn | 8 hrs | Exam fee for cert | Corporate environments |
+| [IBM AI Foundations](https://www.coursera.org/professional-certificates/ibm-artificial-intelligence) | IBM/Coursera | 6 hrs | Yes ($49) | Business professionals |
+| [Salesforce AI Course](https://trailhead.salesforce.com/content/learn/trails/get-started-with-ai) | Trailhead | 5 hrs | Badge (Free) | Sales/Marketing |
+| [Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) | DeepLearning.AI | 5 hrs | Yes (Free) | Daily AI users |
 
 ## Google AI Essentials
 
 **Our top pick for most people.**
 
-Google AI Essentials is the gold standard for AI beginners. Created by Google's career certificate team and hosted on Coursera, it's designed to take anyone from zero to competent.
+[Google AI Essentials](https://www.coursera.org/learn/google-ai-essentials) is the gold standard for AI beginners. Created by Google's career certificate team and hosted on [Coursera](https://www.coursera.org/), it's designed to take anyone from zero to competent.
 
 ### What You'll Learn
 

@@ -21,7 +21,7 @@ faq:
     answer: "Start with RAW+JPEG. JPEG is ready to share immediately. RAW gives you flexibility to fix exposure mistakes and learn editing later. Storage is cheap - shoot both until you develop a preference."
 ---
 
-Every photographer makes mistakes when starting out. The difference between those who improve and those who get frustrated is learning to recognize and fix these mistakes quickly.
+Every photographer makes mistakes when starting out. The difference between those who improve and those who get frustrated is learning to recognize and fix these mistakes quickly. (These tips apply to any camera — from the [Canon EOS R100](https://www.usa.canon.com/shop/p/eos-r100) to a smartphone.)
 
 In this guide, I'll show you the 10 most common beginner photography mistakes I see constantly - and exactly how to fix each one. These aren't theoretical problems; they're real issues that affect nearly every new photographer.
 
