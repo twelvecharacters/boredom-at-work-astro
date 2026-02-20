@@ -55,7 +55,7 @@ This is the most important rule. Get it wrong, and you could face serious conseq
 
 When you paste text into ChatGPT or Claude:
 - It's transmitted to their servers
-- It may be used to train future models (ChatGPT and Claude both use consumer data for training by default — you can opt out in settings)
+- It may be used to train future models (ChatGPT uses free-tier conversations for training by default — you can opt out in settings. Claude does not use conversations for model training.)
 - It's stored in logs (at least temporarily — and possibly longer due to ongoing legal proceedings)
 - You've effectively shared company data with a third party
 
