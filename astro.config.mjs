@@ -26,6 +26,11 @@ function getBlogDates(dir = 'src/content/blog') {
 
 const blogDates = getBlogDates();
 
+// Find most recent publishDate for homepage/blog lastmod
+const mostRecentDate = [...blogDates.values()].sort().pop() || new Date().toISOString();
+blogDates.set('https://boredom-at-work.com/', mostRecentDate);
+blogDates.set('https://boredom-at-work.com/blog/', mostRecentDate);
+
 // https://astro.build/config
 export default defineConfig({
   site: 'https://boredom-at-work.com',

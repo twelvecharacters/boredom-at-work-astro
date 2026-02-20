@@ -19,15 +19,15 @@ const breadcrumbItems = [
 ];
 ---
 
-<BaseLayout title={`Blog ${page.currentPage > 1 ? `- Page ${page.currentPage}` : ''}`} description="Guides, tutorials, and tips for learning AI skills during work downtime." noindex={page.currentPage > 1}>
+<BaseLayout title={`Blog — AI Tools, 3D Printing, Tech Guides ${page.currentPage > 1 ? `- Page ${page.currentPage}` : ''}`} description="Practical guides for office workers: AI tools, 3D printing, photography, desk setup, and tech reviews. Turn your work downtime into skills." noindex={page.currentPage > 1}>
   <section class="py-12">
     <div class="max-w-6xl mx-auto px-4">
       <div class="grid lg:grid-cols-4 gap-12">
         <div class="lg:col-span-3">
           <Breadcrumbs items={breadcrumbItems} />
-          <h1 class="text-3xl md:text-4xl font-bold mb-4">Blog</h1>
+          <h1 class="text-3xl md:text-4xl font-bold mb-4">Blog — Guides, Tutorials & Reviews</h1>
           <p class="text-text-light mb-8">
-            Guides, tutorials, and tips for learning AI skills during work downtime.
+            Practical guides for office workers: AI tools, 3D printing, photography, desk setup, and tech reviews.
           </p>
 
           {posts.length > 0 ? (
