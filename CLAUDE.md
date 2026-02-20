@@ -4,7 +4,7 @@
 
 ---
 
-## Aktueller Stand (18. Februar 2026)
+## Aktueller Stand (20. Februar 2026)
 
 ### Cluster-Status
 
@@ -62,14 +62,37 @@ ItemList, VideoObject, HowTo, SoftwareApplication, Course
 
 Drafts in `medium-drafts/` (in `.gitignore`).
 
+### SEO-Fixes (20. Feb 2026)
+
+- [x] llms.txt auto-generiert bei Build (`src/pages/llms.txt.ts` + `llms-full.txt.ts`)
+- [x] Blog Pagination: 12 Artikel/Seite (vorher 6)
+- [x] Blog Meta Description + H1 mit Keywords
+- [x] Sitemap lastmod für `/` und `/blog/`
+- [x] Product/Review Schema: `description`, `image`, `reviewBody` (10 Artikel)
+- [x] Video Embeds: `best-ai-tools-office-work` + `claude-vs-chatgpt`
+- [x] Kontextuelle interne Links in 7 Artikeln
+- [x] Outbound Links: Kursplattformen, Hersteller, Slicer-Software
+- [x] Affiliate Link Map: `medium-drafts/affiliate-link-map.md`
+
+### Affiliate Status
+
+| Programm | Status |
+|----------|--------|
+| Awin/Bambu Lab | ❌ Abgelehnt → Appeal vorbereitet (global-approvals@awin.com) |
+| Amazon Associates | ⏳ Noch nicht beantragt |
+| Webull | ⏳ Noch nicht beantragt (höchster ROI: bis $1.400/Ref) |
+| TradingView | ⏳ Noch nicht beantragt (50% recurring) |
+| Secretlab / Branch / FlexiSpot | ⏳ Noch nicht beantragt |
+
 ### Offene TODOs
 
-- [ ] Web 2.0 Satellites: LinkedIn #5 (AI Certifications) — ab ~20. Feb posten
+- [ ] **Awin Appeal absenden** (Bambu Lab) — Plan B: Bambu Lab direkt
+- [ ] **Affiliate beantragen:** Webull, TradingView, Amazon Associates
+- [ ] Secretlab / Branch / FlexiSpot Affiliate beantragen
+- [ ] Web 2.0 Satellites: LinkedIn #5 (AI Certifications) — Draft fertig
 - [ ] Video für `chatgpt-guide.md` erstellen
 - [ ] **7. März:** learn-ai-guide Video → PUBLIC
 - [ ] **10. März:** chatgpt-guide Video → PUBLIC + in Artikel einbetten
-- [ ] Amazon Associates beantragen
-- [ ] Secretlab / Branch / FlexiSpot Affiliate beantragen
 - [ ] Email-Liste/Newsletter starten
 
 ### Finance Cluster Details
