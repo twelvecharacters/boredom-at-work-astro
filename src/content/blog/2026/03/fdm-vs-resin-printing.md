@@ -38,7 +38,7 @@ Here's everything you need to know to choose the right one.
 | **Print Quality** | Good (visible layer lines) | Excellent (smooth, detailed) |
 | **Build Volume** | Large (often 220x220x250mm+) | Small (usually 130x80x150mm) |
 | **Material Cost** | $20-30/kg | $30-50/L |
-| **Material Safety** | Safe (PLA is food-grade base) | Toxic until cured |
+| **Material Safety** | Safe (PLA is non-toxic) | Toxic until cured |
 | **Post-Processing** | Minimal | Washing + UV curing required |
 | **Ease of Use** | Beginner-friendly | Moderate learning curve |
 | **Best For** | Functional parts, large prints | Miniatures, jewelry, dental |
@@ -309,17 +309,17 @@ They complement each other perfectly. The cost of a decent resin printer ($200-3
 | Budget | Printer | Price |
 |--------|---------|-------|
 | Entry | Creality Ender 3 V3 SE | ~$200 |
-| Mid-range | Bambu Lab A1 Mini | ~$300 |
-| Enthusiast | Bambu Lab P1S | ~$700 |
-| Premium | Prusa MK4 | ~$800 |
+| Mid-range | Bambu Lab A1 Mini | ~$220 |
+| Enthusiast | Bambu Lab P1S | ~$450 |
+| Premium | Prusa MK4S | ~$800 (kit) |
 
 ### Resin Recommendations
 
 | Budget | Printer | Price |
 |--------|---------|-------|
 | Entry | Elegoo Mars 4 | ~$170 |
-| Mid-range | Anycubic Photon Mono M5s | ~$300 |
-| Large format | Elegoo Saturn 3 | ~$450 |
+| Mid-range | Anycubic Photon Mono M5s | ~$500 |
+| Large format | Elegoo Saturn 3 | ~$300 |
 | Premium | Formlabs Form 4 | ~$4,000 |
 
 ---

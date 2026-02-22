@@ -22,13 +22,13 @@ howTo:
       text: "Ask ChatGPT to add transportation, restaurant reservations, dietary requirements, and a pre-trip packing checklist."
 faq:
   - question: "Can AI really plan a good trip?"
-    answer: "Yes, AI can create solid travel itineraries, but you should always verify details like opening hours, prices, and distances. Studies show 90% of AI itineraries contain at least one error—verification is essential."
+    answer: "Yes, AI can create solid travel itineraries, but you should always verify details like opening hours, prices, and distances. A 2024 study found 90% of ChatGPT-generated itineraries contained at least one error—verification is essential."
   - question: "Is ChatGPT or a dedicated trip planner better?"
     answer: "ChatGPT offers more flexibility and conversation, while dedicated planners like Mindtrip or Wanderlog have built-in booking features. Use ChatGPT for brainstorming and planning, dedicated tools for booking and organization."
   - question: "How much time can AI save in travel planning?"
-    answer: "Travel advisors report AI cuts planning time in half. For a 2-week trip, you might save 5-10 hours of research by using AI effectively."
+    answer: "Many travel advisors report AI significantly reduces planning time. For a 2-week trip, you might save 5-10 hours of research by using AI effectively."
   - question: "Do I need ChatGPT Plus for travel planning?"
-    answer: "No, the free version works great for most travel planning. Plus gives you faster responses and GPT-4o access, but the free tier is sufficient for creating itineraries and brainstorming."
+    answer: "No, the free version works great for most travel planning. Plus gives you faster responses and more GPT-4o messages, but the free tier is sufficient for creating itineraries and brainstorming."
 ---
 
 *This is a hands-on tutorial. By the end, you'll have a complete trip itinerary created with ChatGPT.*
@@ -50,7 +50,7 @@ No prior AI experience needed. Just follow along.
 ### What You'll Need
 
 1. **A ChatGPT account** (free works fine)
-   - Go to [chat.openai.com](https://chat.openai.com)
+   - Go to [chatgpt.com](https://chatgpt.com)
    - Sign up with Google, Microsoft, Apple, or email
    
 2. **A destination in mind** (or let AI help you choose)
