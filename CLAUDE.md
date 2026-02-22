@@ -204,6 +204,11 @@ faq:
 
 6. **Vergleichs-Sections:** Echte Fees, Pro/Contra, Tabelle, Empfehlung
 
+7. **Nach jedem Artikel-Erstellen/-Bearbeiten:** `npm run lint:content:fix` ausführen
+   - Fixt automatisch: veraltete URLs (`chat.openai.com`), Model-Namen (Claude, Gemini)
+   - Zeigt danach verbleibende Warnings — manuell prüfen
+   - Bei Errors: sofort fixen bevor committed wird
+
 ### Fact-Checking-Prozess (PFLICHT!)
 
 **Vor dem Schreiben:** Offizielle Quellen identifizieren, aktuelle Preise mit Datum
