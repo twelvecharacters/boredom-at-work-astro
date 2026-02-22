@@ -220,6 +220,7 @@ faq:
 
 **Vor dem Pushen:**
 ```
+□ npm run lint:content:fix ausgeführt (0 Errors)
 □ Produkt-Specs gegen offizielle Quellen geprüft
 □ Preise aktuell (max 30 Tage alt)
 □ Externe Links getestet (keine 404s)
