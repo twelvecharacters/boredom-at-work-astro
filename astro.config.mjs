@@ -54,8 +54,8 @@ export default defineConfig({
     })
   ],
   redirects: {
-    '/learning-paths': '/',
-    '/learning-paths/ai-mastery': '/',
-    '/learning-paths/3d-printing-startup': '/'
+    '/learning-paths': '/ai-tools-guide/',
+    '/learning-paths/ai-mastery': '/ai-tools-guide/',
+    '/learning-paths/3d-printing-startup': '/3d-printing-guide/'
   }
 });

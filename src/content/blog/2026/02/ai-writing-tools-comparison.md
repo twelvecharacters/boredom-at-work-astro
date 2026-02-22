@@ -141,7 +141,7 @@ Claude (from Anthropic) produces the highest-quality writing of any AI tool I've
 Claude's output reads like a human wrote it — natural flow, appropriate variety, minimal AI-speak.
 
 **Large Context**
-200K token window means you can paste entire documents and get comprehensive feedback.
+200K token context window (up to 1M with the latest models) means you can paste entire documents and get comprehensive feedback.
 
 **Nuanced Understanding**
 Handles complex instructions well. "Make this more persuasive but not pushy" — Claude gets it.
@@ -388,7 +388,7 @@ Integrations aren't as seamless as Grammarly's.
 
 ## Hemingway Editor — Best for Clarity
 
-**Price:** Free (web) / ~$20 one-time (desktop) / $100/year for Hemingway Plus (AI features)
+**Price:** Free (web) / ~$20 one-time (desktop) / from $100/year for Hemingway Plus (AI features)
 
 Hemingway has one job: make your writing clear and bold.
 
