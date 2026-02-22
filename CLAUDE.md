@@ -4,7 +4,7 @@
 
 ---
 
-## Aktueller Stand (20. Februar 2026)
+## Aktueller Stand (22. Februar 2026)
 
 ### Cluster-Status
 
@@ -58,7 +58,7 @@ ItemList, VideoObject, HowTo, SoftwareApplication, Course
 | Medium | Claude vs ChatGPT | `@mohammadmehdivazirian` | ✅ Live |
 | Dev.to | Best AI Tools for Office | `twelvecharacters` | ✅ Live |
 | LinkedIn | Free AI Courses | Company Page: `boredom-at-work` | ✅ Live |
-| LinkedIn | AI Certifications | Company Page: `boredom-at-work` | Draft fertig |
+| LinkedIn | AI Certifications | Company Page: `boredom-at-work` | ✅ Live |
 
 Drafts in `medium-drafts/` (in `.gitignore`).
 
@@ -74,11 +74,23 @@ Drafts in `medium-drafts/` (in `.gitignore`).
 - [x] Outbound Links: Kursplattformen, Hersteller, Slicer-Software
 - [x] Affiliate Link Map: `medium-drafts/affiliate-link-map.md`
 
+### Fact-Check & Content Lint (22. Feb 2026)
+
+- [x] **Content Lint Script:** `scripts/content-lint.js` (`npm run lint:content`)
+  - Prüft: veraltete URLs, Model-Namen, discontinued products, Listicle-Count, Preis-Mismatches, Meta-Description-Länge
+- [x] Alle Artikel bis 15. März fact-gecheckt (12+ Artikel, 4 Commits)
+- [x] `chat.openai.com` → `chatgpt.com` in allen Artikeln
+- [x] Claude Model-Namen aktualisiert (Sonnet 4.5, Opus 4.6, Haiku 4.5)
+- [x] Nikon Z50 → Z50 II in 5 Photography-Artikeln (discontinued)
+- [x] Gemini 1.5 Pro → 2.5 Pro
+- [x] Diverse Preis-Updates (3D Printer, Kameras, Software)
+- [x] Listicle-Count Mismatches gefixt
+
 ### Affiliate Status
 
 | Programm | Status |
 |----------|--------|
-| Awin/Bambu Lab | ❌ Abgelehnt → Appeal vorbereitet (global-approvals@awin.com) |
+| Awin/Bambu Lab | ❌ Abgelehnt → Appeal gesendet 20. Feb (global-approvals@awin.com) |
 | Amazon Associates | ⏳ Noch nicht beantragt |
 | Webull | ⏳ Noch nicht beantragt (höchster ROI: bis $1.400/Ref) |
 | TradingView | ⏳ Noch nicht beantragt (50% recurring) |
@@ -86,14 +98,15 @@ Drafts in `medium-drafts/` (in `.gitignore`).
 
 ### Offene TODOs
 
-- [ ] **Awin Appeal absenden** (Bambu Lab) — Plan B: Bambu Lab direkt
+- [x] ~~Awin Appeal absenden~~ ✅ Gesendet (20. Feb) — warte auf Antwort
 - [ ] **Affiliate beantragen:** Webull, TradingView, Amazon Associates
 - [ ] Secretlab / Branch / FlexiSpot Affiliate beantragen
-- [ ] Web 2.0 Satellites: LinkedIn #5 (AI Certifications) — Draft fertig
+- [x] ~~Web 2.0 Satellites: LinkedIn #5 (AI Certifications)~~ ✅ Live
 - [ ] Video für `chatgpt-guide.md` erstellen
 - [ ] **7. März:** learn-ai-guide Video → PUBLIC
 - [ ] **10. März:** chatgpt-guide Video → PUBLIC + in Artikel einbetten
 - [ ] Email-Liste/Newsletter starten
+- [ ] **Fact-Check für Artikel ab 16. März** (Home Office Expansion + Travel)
 
 ### Finance Cluster Details
 
@@ -435,4 +448,4 @@ Täglicher Cron in `.github/workflows/deploy.yml`: `0 5 * * *` (5:00 UTC)
 
 ---
 
-*Letzte Aktualisierung: 18. Februar 2026*
+*Letzte Aktualisierung: 22. Februar 2026*
