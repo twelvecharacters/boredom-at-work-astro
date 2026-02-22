@@ -72,7 +72,7 @@ If you're still using Apple Notes, it's time for an upgrade. **Obsidian** is a p
 
 **Install:** `brew install --cask obsidian` or [obsidian.md](https://obsidian.md)
 
-**Paid alternative it replaces:** Notion (for personal use), Roam Research ($15/mo)
+**Paid alternative it replaces:** Notion (for personal use), Roam Research ($15/mo). [See how Obsidian and Notion compare for AI features.](/notion-ai-vs-obsidian-ai/)
 
 ### 4. AppCleaner (Uninstaller)
 
@@ -181,7 +181,7 @@ The free tier catches most grammar and spelling errors:
 
 **Install:** [grammarly.com](https://grammarly.com) (browser extension + desktop app)
 
-**Note:** Premium adds advanced suggestions, but free is enough for most people.
+**Note:** Premium adds advanced suggestions, but free is enough for most people. [See how Grammarly compares to other AI writing tools.](/ai-writing-tools-comparison/)
 
 ---
 

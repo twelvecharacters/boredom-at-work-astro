@@ -1,7 +1,7 @@
 ---
 title: "Best Sites for Free 3D Models: Where to Download STL Files (2026)"
 slug: "best-sites-free-3d-models"
-description: "Looking for free 3D printable models? Here are the 12 best sites to download STL files—from Thingiverse to hidden gems most people don't know about."
+description: "Looking for free 3D printable models? Here are the 11 best sites to download STL files—from Thingiverse to hidden gems most people don't know about."
 publishDate: 2026-02-27
 author: "bored chap"
 image: "/images/best-sites-free-3d-models.webp"
@@ -24,7 +24,7 @@ faq:
 tldr: "Start with Printables (best quality) and Thingiverse (largest selection). Use Thangs to search across all sites at once. For specific niches: MyMiniFactory for tabletop gaming, Cults3D for artistic designs, NASA for space stuff. Always check licenses before selling prints."
 ---
 
-You've got your printer dialed in, your first few test prints worked, and now you're thinking: "What should I actually print?"
+You've got your printer dialed in (or [still fixing adhesion issues?](/3d-print-not-sticking-fixes/)), your first few test prints worked, and now you're thinking: "What should I actually print?"
 
 The answer: pretty much anything. The 3D printing community has uploaded millions of free models—from practical household items to cosplay props to articulated dragons.
 
@@ -191,7 +191,7 @@ Like Thangs but older and simpler. Searches across 40+ sites.
 
 ## Niche & Specialized Sites
 
-### 8. [NASA 3D Resources](https://www.nasa.gov/3d-resources/) (nasa.gov)
+### 7. [NASA 3D Resources](https://www.nasa.gov/3d-resources/) (nasa.gov)
 
 **Best for:** Space stuff (obviously)
 
@@ -209,7 +209,7 @@ NASA releases 3D models of spacecraft, satellites, asteroids, and more. Perfect 
 
 ---
 
-### 9. [NIH 3D](https://3d.nih.gov) (nih.gov)
+### 8. [NIH 3D](https://3d.nih.gov) (nih.gov)
 
 **Best for:** Medical and scientific models
 
@@ -227,7 +227,7 @@ The National Institutes of Health hosts 3D models for medical and scientific edu
 
 ---
 
-### 10. [GrabCAD](https://grabcad.com) (grabcad.com)
+### 9. [GrabCAD](https://grabcad.com) (grabcad.com)
 
 **Best for:** Engineering and mechanical parts
 
@@ -245,11 +245,11 @@ GrabCAD is aimed at engineers and designers. Models are often CAD files (STEP, I
 
 ---
 
-### 11. [MakerWorld](https://makerworld.com) (makerworld.com)
+### 10. [MakerWorld](https://makerworld.com) (makerworld.com)
 
 **Best for:** Bambu Lab users, curated quality designs
 
-MakerWorld is Bambu Lab's model-sharing platform. Growing fast, with pre-configured print profiles for Bambu printers.
+MakerWorld is Bambu Lab's model-sharing platform. Growing fast, with pre-configured print profiles for [Bambu printers](/best-3d-printers-beginners/).
 
 **What you'll find:**
 - Print-ready models optimized for Bambu printers
@@ -263,7 +263,7 @@ MakerWorld is Bambu Lab's model-sharing platform. Growing fast, with pre-configu
 
 ---
 
-### 12. [Free3D](https://free3d.com) (free3d.com)
+### 11. [Free3D](https://free3d.com) (free3d.com)
 
 **Best for:** Models for rendering (not all are printable)
 

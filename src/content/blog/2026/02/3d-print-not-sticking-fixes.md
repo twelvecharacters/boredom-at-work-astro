@@ -25,7 +25,7 @@ tldr: "Clean your bed with IPA, re-level it, slow down the first layer to 20mm/s
 
 You hit print, walk away excited, and come back to find a bird's nest of filament where your print should be. The first layer didn't stick.
 
-**Don't panic.** This is the most common 3D printing problem, and it's almost always fixable.
+**Don't panic.** This is the most common 3D printing problem, and it's almost always fixable. (New to 3D printing? Start with our [beginner's guide](/3d-printing-beginners-guide/) first.)
 
 In this guide, I'll walk you through every cause of bed adhesion failure and how to fix each one—from the obvious (dirty bed) to the subtle (wrong z-offset by 0.05mm).
 

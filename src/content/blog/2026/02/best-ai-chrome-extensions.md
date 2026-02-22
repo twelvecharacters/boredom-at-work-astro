@@ -27,8 +27,8 @@ Here are the extensions worth installing.
 
 | Extension | Best For | Price | Rating |
 |-----------|----------|-------|--------|
-| **[Sider](https://sider.ai)** | AI sidebar anywhere | Free/$10mo | ★★★★★ |
-| **[Monica](https://monica.im)** | All-in-one AI | Free/$10mo | ★★★★☆ |
+| **[Sider](https://sider.ai)** | AI sidebar anywhere | Free/~$12mo | ★★★★★ |
+| **[Monica](https://monica.im)** | All-in-one AI | Free/~$8mo | ★★★★☆ |
 | **[Merlin](https://getmerlin.in)** | Quick AI access | Free/$19mo | ★★★★☆ |
 | **[Perplexity](https://perplexity.ai)** | Research | Free | ★★★★★ |
 | **[Grammarly](https://grammarly.com)** | Writing | Free/$12mo | ★★★★★ |
@@ -42,7 +42,7 @@ Here are the extensions worth installing.
 
 ## Sider — Best Overall AI Sidebar
 
-**Price:** Free tier / $10/month Pro
+**Price:** Free tier / ~$12/month Pro (annual)
 
 Sider adds a powerful AI sidebar to any webpage. It's become my most-used extension.
 
@@ -91,9 +91,9 @@ Highlight text, right-click, and get AI options: explain, translate, rewrite, ex
 
 ## Monica — Best All-in-One
 
-**Price:** Free tier / $10/month Pro
+**Price:** Free tier / ~$8/month Pro (annual)
 
-Monica packs ChatGPT, Claude, image generation, and more into one extension.
+Monica packs ChatGPT, Claude ([how do they compare?](/claude-vs-chatgpt/)), image generation, and more into one extension.
 
 ### What It Does
 
@@ -161,7 +161,7 @@ Keyboard shortcut → AI appears → type query → get answer. Fastest workflow
 Small popup that doesn't take over your screen.
 
 **Works in Forms**
-Use AI directly in email compose boxes, comment fields, etc.
+Use AI directly in email compose boxes for [faster email writing](/ai-email-writing/), comment fields, etc.
 
 ### Best Uses
 
@@ -292,8 +292,8 @@ Unlike Otter or Fireflies, Tactiq runs locally in your browser. No "recording bo
 **Real-Time**
 See transcription as the meeting happens. Tag important moments live.
 
-**Privacy Option**
-Free tier processes locally, not in the cloud.
+**Privacy-Friendly**
+Transcription runs locally in your browser — no audio is recorded or stored. AI-powered summaries use cloud processing (OpenAI's enterprise API).
 
 ### Best Uses
 
@@ -500,7 +500,7 @@ Gets better at matching your style over time.
 OpenAI's official extension for quick ChatGPT access. Decent but basic compared to Sider or Monica.
 
 ### Claude for Chrome (Official Extension)
-Anthropic launched [Claude for Chrome](https://claude.com/blog/claude-for-chrome) in August 2025. Available to all paid plan users (Pro, Team, Enterprise), it can read pages, draft emails, manage calendars, and navigate websites. A solid official option alongside third-party tools like Sider.
+Anthropic began piloting [Claude for Chrome](https://claude.com/blog/claude-for-chrome) in August 2025, then expanded to all paid plans (Pro, Max, Team, Enterprise) in December 2025. It can read pages, draft emails, manage calendars, and navigate websites. A solid official option alongside third-party tools like Sider.
 
 ### Otter.ai Extension
 Meeting transcription when visiting Google Meet. Good but the standalone app is better.
@@ -521,7 +521,7 @@ Writing enhancement focused on rephrasing. Good if rewriting is your main need.
 2. **Grammarly** — Always-on writing help
 3. **Perplexity** — Research and fact-checking
 
-Total cost: $22/month (or free with limitations)
+Total cost: ~$24/month (or free with limitations)
 
 ### For Power Users
 
@@ -531,7 +531,7 @@ Total cost: $22/month (or free with limitations)
 4. **Glasp** — Knowledge capture
 5. **Tactiq** — Meeting notes (if using Google Meet)
 
-Total cost: ~$32/month
+Total cost: ~$36/month
 
 ### For Budget-Conscious
 
