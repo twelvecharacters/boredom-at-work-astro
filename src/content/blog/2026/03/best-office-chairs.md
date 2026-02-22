@@ -161,7 +161,7 @@ If you game and work from the same chair, the Titan Evo bridges both worlds. It 
 | Lumbar support | 4-way adjustable (built-in) |
 | Armrests | 4D adjustable |
 | Recline | Up to 165° |
-| Warranty | 5 years (extendable) |
+| Warranty | 3 years (extendable to 5) |
 
 **What I Like:**
 - Built-in 4-way lumbar (not a pillow)

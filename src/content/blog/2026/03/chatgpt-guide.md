@@ -63,7 +63,7 @@ But unlike search engines that find existing information, ChatGPT *generates* re
 
 ### Creating Your Account
 
-1. Go to [chat.openai.com](https://chat.openai.com)
+1. Go to [chatgpt.com](https://chatgpt.com)
 2. Sign up with email, Google, Microsoft, or Apple
 3. Verify your email
 4. Start chatting

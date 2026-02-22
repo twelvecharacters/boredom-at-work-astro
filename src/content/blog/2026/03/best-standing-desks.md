@@ -21,7 +21,7 @@ faq:
     answer: "For a single monitor setup, 48x24 inches is enough. For dual monitors or more workspace, get 55x28 or 60x30 inches. Measure your space first—standing desks need room to raise without hitting shelves or windows above. Also consider depth: 30 inches is better than 24 if you have space."
   - question: "Which standing desk brand is most reliable?"
     answer: "FlexiSpot and Uplift lead in reliability, both offering 10-15 year warranties on frames. Autonomous and Branch are good mid-tier options with 5-7 year warranties. Avoid no-name Amazon brands with 1-2 year warranties—standing desks have motors and electronics that can fail."
-tldr: "Get the FlexiSpot E7 Pro (~$500) for the best balance of quality, stability, and price. The Uplift V2 (~$599+) offers more customization if you want specific desktop materials. Budget pick: Branch Duo (~$549). All prices as of March 2026—check current prices before buying."
+tldr: "Get the FlexiSpot E7 Pro (~$500) for the best balance of quality, stability, and price. The Uplift V2/V3 (~$599+) offers more customization if you want specific desktop materials. Budget pick: Branch Duo (~$549). All prices as of March 2026—check current prices before buying."
 isListicle: true
 ---
 

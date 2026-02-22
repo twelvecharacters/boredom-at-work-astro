@@ -24,7 +24,7 @@ faq:
   - question: "Is Claude better than ChatGPT?"
     answer: "For writing and long-form analysis, yes. Claude produces more natural, nuanced text and handles longer documents better. For general tasks, image generation, and ecosystem integrations, ChatGPT wins. Most power users have both."
   - question: "Is Claude AI free?"
-    answer: "Yes, Claude has a free tier with access to Claude 3.5 Sonnet. You get generous daily usage but may hit limits during peak hours. Claude Pro ($20/month) removes limits and adds Claude 3 Opus for complex tasks."
+    answer: "Yes, Claude has a free tier with access to Claude Sonnet 4.5. You get generous daily usage but may hit limits during peak hours. Claude Pro ($20/month) removes limits and adds access to Opus for complex tasks."
   - question: "What company makes Claude?"
     answer: "Anthropic, founded in 2021 by former OpenAI researchers including Dario and Daniela Amodei. The company focuses on AI safety and building 'helpful, harmless, and honest' AI systems."
   - question: "Can Claude generate images?"
@@ -51,11 +51,11 @@ Anthropic's mission is building AI that's "helpful, harmless, and honest." You'l
 
 | Model | Best For | Speed | Availability |
 |-------|----------|-------|--------------|
-| Claude 3.5 Sonnet | Daily tasks, writing, coding | Fast | Free + Pro |
-| Claude 3 Opus | Complex reasoning, analysis | Slower | Pro only |
-| Claude 3.5 Haiku | Quick tasks, high volume | Very fast | API only |
+| Sonnet 4.5 | Daily tasks, writing, coding | Fast | Free + Pro |
+| Opus 4.6 | Complex reasoning, analysis | Slower | Pro only |
+| Haiku 4.5 | Quick tasks, high volume | API only |
 
-Most users interact with **Claude 3.5 Sonnet**—it's the default and handles most tasks excellently.
+Most users interact with **Sonnet 4.5**—it's the default and handles most tasks excellently.
 
 ---
 
@@ -157,8 +157,8 @@ Upload massive documents. Paste entire codebases. Have long conversations withou
 
 | Feature | Free | Pro ($20/mo) |
 |---------|------|--------------|
-| Claude 3.5 Sonnet | ✅ Yes (limited) | ✅ Unlimited |
-| Claude 3 Opus | ❌ No | ✅ Yes |
+| Sonnet 4.5 | ✅ Yes (limited) | ✅ Unlimited |
+| Opus 4.6 | ❌ No | ✅ Yes |
 | Usage limits | Moderate | 5x more |
 | Priority access | ❌ No | ✅ Yes |
 | Projects | ✅ Yes | ✅ Yes |

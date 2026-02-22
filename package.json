@@ -8,7 +8,8 @@
     "indexnow": "node scripts/indexnow.js --changed",
     "preview": "astro preview",
     "astro": "astro",
-    "thumbnails": "node scripts/generate-thumbnails.js"
+    "thumbnails": "node scripts/generate-thumbnails.js",
+    "lint:content": "node scripts/content-lint.js"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.6.1",
