@@ -222,14 +222,14 @@ Cura offers many patterns. Here's what matters:
 **Key settings:**
 | Setting | PLA | PETG |
 |---------|-----|------|
-| Retraction Distance | 5-6mm (Bowden) / 1-2mm (Direct Drive) | Same |
-| Retraction Speed | 40-50mm/s | 30-40mm/s |
+| Retraction Distance | 5-6mm (Bowden) / 0.5-2mm (Direct Drive) | Same |
+| Retraction Speed | 40-50mm/s | 25-40mm/s |
 
 **Recommendation:** Keep retraction **enabled** with default values. Only tweak if you see stringing.
 
 **Bowden vs Direct Drive:**
 - **Bowden** (tube between motor and hotend): Needs 4-7mm retraction
-- **Direct Drive** (motor on print head): Needs 0.5-2mm retraction
+- **Direct Drive** (motor on print head): Needs 0.5-2mm retraction (start at 0.5mm)
 
 ---
 
@@ -284,7 +284,7 @@ First Layer Speed: 25mm/s
 Travel Speed: 150mm/s
 
 Retraction: Enabled
-Retraction Distance: 5mm (Bowden) / 1mm (Direct Drive)
+Retraction Distance: 5mm (Bowden) / 0.5mm (Direct Drive)
 Retraction Speed: 45mm/s
 
 Cooling: 100% (after layer 4)
