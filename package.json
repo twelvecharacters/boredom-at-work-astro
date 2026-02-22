@@ -9,7 +9,8 @@
     "preview": "astro preview",
     "astro": "astro",
     "thumbnails": "node scripts/generate-thumbnails.js",
-    "lint:content": "node scripts/content-lint.js"
+    "lint:content": "node scripts/content-lint.js",
+    "lint:content:fix": "node scripts/content-lint.js --fix"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.6.1",

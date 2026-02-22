@@ -11,14 +11,19 @@
  *
  * Usage:
  *   node scripts/content-lint.js                          # Lint all blog posts
+ *   node scripts/content-lint.js --fix                    # Lint + auto-fix safe patterns
  *   node scripts/content-lint.js src/content/blog/2026/02/my-post.md  # Lint one file
+ *   node scripts/content-lint.js --fix src/content/blog/2026/02/my-post.md
+ *
+ * Auto-fixable: outdated URLs, outdated model names (Claude, Gemini)
+ * NOT auto-fixable: price mismatches, listicle counts, discontinued products
  *
  * Exit codes:
  *   0 — All clean
  *   1 — Errors found
  */
 
-import { readFileSync, readdirSync, statSync } from 'node:fs';
+import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs';
 import { join, relative, resolve } from 'node:path';
 
 // ─── Configuration ──────────────────────────────────────────────────────────
@@ -28,6 +33,7 @@ const BLOG_DIR = resolve('src/content/blog');
 const OUTDATED_PATTERNS = [
   {
     pattern: /chat\.openai\.com/g,
+    fix: 'chatgpt.com',
     message: '`chat.openai.com` is outdated — use `chatgpt.com`',
     severity: 'error',
   },
@@ -35,36 +41,55 @@ const OUTDATED_PATTERNS = [
     pattern: /Claude 3\.5(?! Sonnet\b| Haiku\b| Opus\b)/g,
     message: '`Claude 3.5` without model suffix — verify this is still current',
     severity: 'warning',
+    // No auto-fix — ambiguous without suffix
   },
   {
     pattern: /Claude 3\.5 Sonnet/g,
-    message: '`Claude 3.5 Sonnet` is outdated — current models are Claude 4 Sonnet / Opus',
+    fix: 'Claude Sonnet 4.5',
+    message: '`Claude 3.5 Sonnet` is outdated — use `Claude Sonnet 4.5`',
     severity: 'error',
   },
   {
     pattern: /Claude 3\.5 Haiku/g,
-    message: '`Claude 3.5 Haiku` is outdated — current model is Claude 4 Haiku',
+    fix: 'Claude Haiku 4.5',
+    message: '`Claude 3.5 Haiku` is outdated — use `Claude Haiku 4.5`',
     severity: 'error',
   },
   {
     pattern: /Claude 3 Opus/g,
-    message: '`Claude 3 Opus` is outdated — current model is Claude Opus 4',
+    fix: 'Claude Opus 4.6',
+    message: '`Claude 3 Opus` is outdated — use `Claude Opus 4.6`',
     severity: 'error',
   },
   {
-    pattern: /Gemini 1\.5/g,
-    message: '`Gemini 1.5` is outdated — current models are Gemini 2.x',
+    pattern: /Gemini 1\.5 Pro/g,
+    fix: 'Gemini 2.5 Pro',
+    message: '`Gemini 1.5 Pro` is outdated — use `Gemini 2.5 Pro`',
     severity: 'error',
+  },
+  {
+    pattern: /Gemini 1\.5 Flash/g,
+    fix: 'Gemini 2.5 Flash',
+    message: '`Gemini 1.5 Flash` is outdated — use `Gemini 2.5 Flash`',
+    severity: 'error',
+  },
+  {
+    pattern: /Gemini 1\.5(?! Pro\b| Flash\b)/g,
+    message: '`Gemini 1.5` without model suffix — verify this is still current',
+    severity: 'warning',
+    // No auto-fix — ambiguous without suffix
   },
   {
     pattern: /\bNikon Z50\b(?!\s*II)/g,
     message: '`Nikon Z50` without "II" — the original Z50 is discontinued, use `Nikon Z50 II`',
     severity: 'warning',
+    // No auto-fix — could be referring to used model
   },
   {
     pattern: /\bSony a6100\b/g,
     message: '`Sony a6100` is discontinued — consider updating to current model',
     severity: 'warning',
+    // No auto-fix — needs context
   },
 ];
 
@@ -485,14 +510,36 @@ function lintFile(filePath) {
   return issues;
 }
 
+/**
+ * Apply auto-fixes to a file. Returns { content, fixCount } or null if no fixes.
+ */
+function applyFixes(filePath) {
+  let content = readFileSync(filePath, 'utf-8');
+  let fixCount = 0;
+
+  for (const { pattern, fix } of OUTDATED_PATTERNS) {
+    if (!fix) continue;
+    // Reset regex
+    pattern.lastIndex = 0;
+    if (pattern.test(content)) {
+      pattern.lastIndex = 0;
+      const matches = content.match(pattern);
+      fixCount += matches ? matches.length : 0;
+      content = content.replace(pattern, fix);
+    }
+  }
+
+  return fixCount > 0 ? { content, fixCount } : null;
+}
+
 function main() {
   const args = process.argv.slice(2);
+  const fixMode = args.includes('--fix');
+  const fileArgs = args.filter(a => a !== '--fix');
   let files;
 
-  if (args.length > 0) {
-    // Lint specific file(s)
-    files = args.map(f => resolve(f));
-    // Verify they exist
+  if (fileArgs.length > 0) {
+    files = fileArgs.map(f => resolve(f));
     for (const f of files) {
       try {
         statSync(f);
@@ -502,12 +549,41 @@ function main() {
       }
     }
   } else {
-    // Lint all blog posts
     files = collectMarkdownFiles(BLOG_DIR);
   }
 
-  console.log(`\nContent Lint — scanning ${files.length} file(s)...\n`);
+  const mode = fixMode ? 'fix' : 'lint';
+  console.log(`\nContent ${fixMode ? 'Fix' : 'Lint'} — scanning ${files.length} file(s)...\n`);
 
+  // ── Fix mode ──
+  if (fixMode) {
+    let totalFixes = 0;
+    let filesFixed = 0;
+
+    for (const filePath of files) {
+      const result = applyFixes(filePath);
+      if (result) {
+        writeFileSync(filePath, result.content, 'utf-8');
+        filesFixed++;
+        totalFixes += result.fixCount;
+        const relPath = relative(process.cwd(), filePath);
+        console.log(`  \x1b[32mFIXED\x1b[0m  ${relPath} (${result.fixCount} replacement${result.fixCount > 1 ? 's' : ''})`);
+      }
+    }
+
+    console.log('');
+    console.log('─'.repeat(60));
+    if (totalFixes === 0) {
+      console.log(`\x1b[32m✓ Nothing to fix.\x1b[0m\n`);
+    } else {
+      console.log(`\x1b[32m✓ Fixed ${totalFixes} issue(s) in ${filesFixed} file(s).\x1b[0m\n`);
+    }
+
+    // Run lint after fix to show remaining issues
+    console.log('Running lint to check remaining issues...\n');
+  }
+
+  // ── Lint (always runs, also after fix) ──
   let totalErrors = 0;
   let totalWarnings = 0;
   let filesWithIssues = 0;
@@ -520,7 +596,6 @@ function main() {
     const relPath = relative(process.cwd(), filePath);
     console.log(`\x1b[1m${relPath}\x1b[0m`);
 
-    // Sort issues by line number
     issues.sort((a, b) => a.lineNum - b.lineNum);
 
     for (const issue of issues) {
@@ -532,7 +607,6 @@ function main() {
     console.log('');
   }
 
-  // Summary
   console.log('─'.repeat(60));
   if (totalErrors === 0 && totalWarnings === 0) {
     console.log(`\x1b[32m✓ All ${files.length} files clean.\x1b[0m\n`);
