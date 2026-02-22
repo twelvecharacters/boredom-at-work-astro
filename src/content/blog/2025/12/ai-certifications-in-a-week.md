@@ -36,8 +36,8 @@ The goal isn't to become an AI expert in a week. It's to build foundational know
 | Google AI Essentials | 10 hrs | Free/$49 | Google | Yes |
 | Microsoft AI Fundamentals | 8 hrs | Free/$99 | Microsoft | Optional exam |
 | IBM AI Foundations | ~20 hrs | Free/$49 | IBM | Yes |
-| LinkedIn AI Certificate | 15 hrs | $39.99/mo | LinkedIn | Yes |
-| ChatGPT Prompt Engineering | ~2 hrs | Free | DeepLearning.AI | Yes |
+| Career Essentials in Generative AI | ~5 hrs | Free | Microsoft + LinkedIn | Yes |
+| ChatGPT Prompt Engineering | ~1.5 hrs | Free | DeepLearning.AI | No |
 
 ## 1. Google AI Essentials
 
@@ -76,7 +76,7 @@ Anyone who wants a solid AI foundation with a recognizable certificate. Ideal fo
 
 ## 2. Microsoft AI Fundamentals Prep
 
-**Time: ~8 hours | Certificate: Optional ($165 exam)**
+**Time: ~8 hours | Certificate: Optional ($99 exam)**
 
 Microsoft's AI learning path prepares you for the AI-900 certification. The learning content is free—you only pay if you want to take the official exam.
 
@@ -145,11 +145,11 @@ IBM's course approaches AI from a business strategy perspective. It's less about
 
 Business professionals, managers, and anyone who needs to understand AI from a strategic rather than hands-on perspective.
 
-## 4. LinkedIn Learning AI Certificate Path
+## 4. Career Essentials in Generative AI (Microsoft + LinkedIn)
 
-**Time: ~15 hours | Certificate: Included with subscription**
+**Time: ~5 hours | Certificate: Free**
 
-LinkedIn's "Career Essentials in Generative AI" is a collection of courses that result in a certificate. Since it's on LinkedIn, the credential automatically appears on your profile.
+Microsoft and LinkedIn partnered on "Career Essentials in Generative AI" — a free learning path that results in a certificate. Since it's on LinkedIn, the credential automatically appears on your profile.
 
 ### What You'll Learn
 
@@ -161,28 +161,28 @@ LinkedIn's "Career Essentials in Generative AI" is a collection of courses that 
 
 ### Why It's Great
 
+**Completely free** - No subscription required. Zero cost for both learning and certificate.
+
 **LinkedIn integration** - Certificate automatically shows on your profile.
 
-**Multiple short courses** - Break it into small pieces.
+**Microsoft partnership** - Co-created content adds credibility.
 
-**Comprehensive coverage** - Multiple perspectives on AI.
-
-**Subscription value** - Access to all LinkedIn Learning with subscription.
+**Quick completion** - About 5 hours of focused learning.
 
 ### Certification Details
 
 - **Platform:** LinkedIn Learning
 - **Format:** Video courses with exercises
 - **Prerequisites:** None
-- **Cost:** $39.99/month subscription (free trial available)
+- **Cost:** Free (no subscription required)
 
 ### Who It's For
 
-Job seekers who want visible LinkedIn credentials, and anyone whose company provides LinkedIn Learning access.
+Job seekers who want visible LinkedIn credentials, and anyone who wants a free AI certificate from recognized brands.
 
 ## 5. ChatGPT Prompt Engineering
 
-**Time: ~2 hours | Certificate: Free**
+**Time: ~1.5 hours | No certificate (but the skills matter more)**
 
 DeepLearning.AI's prompt engineering course is short, practical, and taught by the team behind some of the most popular AI courses in the world. For a self-paced alternative, see our guide to [learning prompt engineering in one afternoon](/prompt-engineering-afternoon/).
 
@@ -202,14 +202,14 @@ DeepLearning.AI's prompt engineering course is short, practical, and taught by t
 
 **Short and focused** - No filler, just actionable content.
 
-**Free** - Including the certificate.
+**Free** - No cost to access (during beta period).
 
 ### Certification Details
 
 - **Platform:** DeepLearning.AI
 - **Format:** Video lessons with coding exercises
 - **Prerequisites:** Basic familiarity with ChatGPT
-- **Cost:** Free including certificate
+- **Cost:** Free (no certificate, but completion is tracked)
 
 ### Who It's For
 
@@ -311,7 +311,7 @@ Use this decision framework:
 → IBM AI Foundations
 
 **Job hunting and want LinkedIn visibility?**
-→ LinkedIn AI Certificate
+→ Career Essentials in Generative AI (free!)
 
 **Already using ChatGPT, want to level up?**
 → Prompt Engineering
