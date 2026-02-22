@@ -8,10 +8,10 @@ image: "/images/photography-buying-guide.webp"
 tags: ["Photography", "Cameras", "Buying Guide", "Beginners", "Hub Page"]
 draft: false
 isListicle: true
-tldr: "Get a Canon EOS R100 or used Nikon Z50 for under $500. Skip the expensive lenses until you know what you actually need. Your phone is fine until it isn't — then you'll know."
+tldr: "Get a Canon EOS R100 (~$480) or Nikon Z50 II (~$860) to start. Used original Z50 for under $500 is also great. Skip the expensive lenses until you know what you actually need."
 faq:
   - question: "What's the best camera for beginners?"
-    answer: "The Canon EOS R100 (~$480) offers the best balance of price, features, and room to grow. If you can stretch to $600, consider a used Nikon Z50 for better performance."
+    answer: "The Canon EOS R100 (~$480) offers the best balance of price, features, and room to grow. If you can stretch to ~$860, the Nikon Z50 II is an excellent step up with improved autofocus and 4K video. A used original Z50 (~$450-500) is also great value."
   - question: "Should I buy a DSLR or mirrorless camera?"
     answer: "Mirrorless is the future and what manufacturers are investing in. Buy mirrorless unless you find an incredible deal on a used DSLR with lenses."
   - question: "Do I even need a camera if I have a good phone?"
@@ -107,7 +107,7 @@ At this level, you're looking at entry-level mirrorless or used gear.
 |--------|-------|------|------|
 | **[Canon EOS R100](https://www.usa.canon.com/shop/p/eos-r100)** | ~$480 | Compact, great colors, Canon ecosystem | No image stabilization, fixed screen |
 | **Used Sony A6000** | ~$300-350 | Excellent AF, compact | Older (2014), no 4K |
-| **[Used Nikon Z50](https://www.nikonusa.com/en/nikon-products/product/mirrorless-cameras/z-50.html)** | ~$450-500 | Great image quality, tilting screen | Smaller lens selection |
+| **Used Nikon Z50** | ~$450-500 | Great image quality, tilting screen (successor: Z50 II ~$860) | Smaller lens selection |
 | **Used Fujifilm X-T200** | ~$400 | Beautiful colors, fun dials | Discontinued |
 
 **Our pick:** Canon EOS R100 for new gear, Used Sony A6000 for maximum value.
@@ -118,12 +118,12 @@ This is the sweet spot for most beginners. You get modern features without overs
 
 | Camera | Price | Pros | Cons |
 |--------|-------|------|------|
-| **Nikon Z50** | ~$860 | Excellent image quality, great ergonomics | Limited native lens selection |
+| **[Nikon Z50 II](https://www.nikonusa.com/en/nikon-products/product/mirrorless-cameras/nikon-z50ii.html)** | ~$860 | Excellent image quality, EXPEED 7, subject-detection AF | Limited native lens selection |
 | **Sony A6400** | ~$900 | Best-in-class autofocus, no recording limit | Menu system is confusing |
 | **Canon EOS R50** | ~$680 | Compact, great video, excellent AF | Smaller battery |
 | **Fujifilm X-S10** | ~$800 (used) | In-body stabilization, beautiful colors | Discontinued |
 
-**Our pick:** Nikon Z50 for photos, Sony A6400 for video.
+**Our pick:** Nikon Z50 II for photos, Sony A6400 for video.
 
 ### Enthusiast: $800-1,200
 
@@ -140,7 +140,7 @@ At this level, you're getting cameras that can grow with you for years.
 **Recommended reading:** 
 - [Best Cameras Under $500](/best-cameras-under-500/) — Detailed budget options
 - [Best Cameras for Beginners](/best-cameras-for-beginners/) — Comprehensive starter guide
-- [Canon R100 vs Nikon Z50](/canon-r100-vs-nikon-z50/) — Head-to-head comparison
+- [Canon R100 vs Nikon Z50 II](/canon-r100-vs-nikon-z50/) — Head-to-head comparison
 
 ---
 
@@ -293,10 +293,10 @@ Now you're ready to spend money wisely:
 | 128GB SD card | $20 |
 | **Total** | **$525** |
 
-### The $750 Kit
+### The $750 Kit (Used Z50)
 | Item | Price |
 |------|-------|
-| Used Nikon Z50 + kit lens | $500 |
+| Used Nikon Z50 + kit lens | ~$500 |
 | Nikon Z 40mm f/2 | $280 |
 | Extra battery | $40 |
 | 128GB SD card | $20 |

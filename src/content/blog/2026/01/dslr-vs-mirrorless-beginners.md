@@ -98,7 +98,7 @@ Without the mirror box, mirrorless cameras are significantly more compact:
 |--------|------|-------------|
 | [Canon EOS R100](https://www.usa.canon.com/shop/p/eos-r100) | Mirrorless | 356g |
 | Canon Rebel T7 | DSLR | 475g |
-| Nikon Z50 | Mirrorless | 395g |
+| Nikon Z50 II | Mirrorless | 550g |
 | Nikon D3500 | DSLR | 415g |
 
 The difference seems small, but add a lens and shoot all day - it matters. Lighter cameras mean you're more likely to bring them everywhere.
@@ -155,7 +155,7 @@ DSLRs use the optical viewfinder most of the time, which requires no power. The 
 | Nikon D3500 | DSLR | 1,550 |
 | Canon Rebel T7 | DSLR | 500 |
 | Canon EOS R100 | Mirrorless | 310 |
-| Nikon Z50 | Mirrorless | 300 |
+| Nikon Z50 II | Mirrorless | 300 |
 
 For extended shooting without charging access, DSLRs have a real advantage.
 
@@ -179,7 +179,7 @@ DSLRs offer exceptional value, particularly used:
 | Nikon D3500 (used) | DSLR | $250-350 |
 | Canon Rebel T7 (new) | DSLR | $400 |
 | Canon EOS R100 (new) | Mirrorless | $480 |
-| Nikon Z50 (new) | Mirrorless | $860 |
+| Nikon Z50 II (new) | Mirrorless | ~$860 |
 
 If budget is your primary constraint, a used DSLR gets you into interchangeable lens photography for less money.
 
@@ -257,7 +257,7 @@ Both are viable:
 - **Used DSLR:** More selection, lower prices, but older technology
 - **Used Mirrorless:** Less selection, higher prices, but modern features
 
-For tight budgets, used DSLR offers better value. For moderate budgets, used mirrorless (Nikon Z50, Sony A6100) offers more capability.
+For tight budgets, used DSLR offers better value. For moderate budgets, used mirrorless (Nikon Z50/Z50 II, Sony A6100) offers more capability.
 
 ## The Bottom Line
 
@@ -273,4 +273,4 @@ The camera is a tool. Master composition, light, and timing. Those skills transf
 
 ---
 
-*Ready to choose? See our [best cameras for beginners](/best-cameras-for-beginners/) or compare specific models in our [Canon R100 vs Nikon Z50 comparison](/canon-r100-vs-nikon-z50/). For the full picture, check out our [Photography Guide](/photography-guide/) and [Photography Buying Guide](/photography-buying-guide/).*
+*Ready to choose? See our [best cameras for beginners](/best-cameras-for-beginners/) or compare specific models in our [Canon R100 vs Nikon Z50 II comparison](/canon-r100-vs-nikon-z50/). For the full picture, check out our [Photography Guide](/photography-guide/) and [Photography Buying Guide](/photography-buying-guide/).*

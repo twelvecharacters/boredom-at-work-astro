@@ -8,14 +8,14 @@ image: "/images/cameras-under-500.webp"
 tags: ["Photography", "Cameras", "Budget", "Buying Guide"]
 draft: false
 isListicle: true
-tldr: "Canon EOS R100 (~$480) is the best all-rounder. Used buyers should grab a Nikon Z50 (~$450). Both easily beat any smartphone — good camera tech has never been cheaper."
+tldr: "Canon EOS R100 (~$480) is the best all-rounder. Used buyers should grab a Nikon Z50 (~$450) — its successor, the Z50 II (~$860), is excellent but above this budget. Both easily beat any smartphone."
 faq:
   - question: "What is the best camera under $500 in 2026?"
     answer: "The Canon EOS R100 at ~$480 with kit lens is the best overall camera under $500. It offers modern mirrorless technology, excellent autofocus, and room to grow with Canon's RF lens system."
   - question: "Can I get a good camera for under $500?"
-    answer: "Yes, the $400-500 range includes excellent cameras capable of professional-quality images. The Canon EOS R100, used Nikon Z50, and Sony A6000 all deliver outstanding results at this price point."
+    answer: "Yes, the $400-500 range includes excellent cameras capable of professional-quality images. The Canon EOS R100, used Nikon Z50 (predecessor to the current Z50 II), and Sony A6000 all deliver outstanding results at this price point."
   - question: "Should I buy new or used cameras under $500?"
-    answer: "Both are viable options. New cameras like the Canon R100 offer warranty and latest features. Used cameras from reputable dealers (MPB, KEH) can get you higher-tier models like the Nikon Z50 or Sony A6100 for under $500."
+    answer: "Both are viable options. New cameras like the Canon R100 offer warranty and latest features. Used cameras from reputable dealers (MPB, KEH) can get you higher-tier models like the Nikon Z50 (now replaced by the Z50 II at ~$860) or Sony A6100 for under $500."
   - question: "Is a $500 camera good enough for professional work?"
     answer: "Yes, for many types of professional work. Cameras in this range produce images suitable for stock photography, social media, event photography, and even client work. Technique matters more than gear at this level."
   - question: "What's the difference between a $500 and $1000 camera?"
@@ -31,7 +31,7 @@ In this guide, I'll review the best budget cameras available in 2026, comparing 
 | Camera | Price | Type | Sensor | Best For |
 |--------|-------|------|--------|----------|
 | **Canon EOS R100** | ~$480 | Mirrorless | 24.1MP APS-C | Best Overall |
-| **Nikon Z50 (Used)** | ~$450 | Mirrorless | 20.9MP APS-C | Best Used Value |
+| **Nikon Z50 (Used)** | ~$450 | Mirrorless | 20.9MP APS-C | Best Used Value (successor: Z50 II ~$860) |
 | **Sony A6000** | ~$450 | Mirrorless | 24.3MP APS-C | Best for Speed |
 | **Canon Rebel T7** | ~$400 | DSLR | 24.1MP APS-C | Best Budget DSLR |
 | **Fujifilm X-T200** | ~$500 | Mirrorless | 24.2MP APS-C | Best for Video |
@@ -78,13 +78,13 @@ The Canon EOS R100 represents the best value in mirrorless cameras under $500. I
 - Limited 4K video (cropped, 24p only)
 - Single card slot
 
-**Best For:** Beginners wanting modern mirrorless technology, family photographers, travel photography. For a detailed side-by-side, see our [Canon R100 vs Nikon Z50 comparison](/canon-r100-vs-nikon-z50/).
+**Best For:** Beginners wanting modern mirrorless technology, family photographers, travel photography. For a detailed side-by-side, see our [Canon R100 vs Nikon Z50 II comparison](/canon-r100-vs-nikon-z50/).
 
 ## 2. Nikon Z50 (Used) - Best Used Value
 
 **Price:** ~$450-500 used with kit lens | **Sensor:** 20.9MP APS-C
 
-The Nikon Z50 originally sold for $860 with kit lens. Now available used for under $500, it offers significantly more camera than anything new at this price.
+The Nikon Z50 has been replaced by the **Nikon Z50 II** (~$860 with kit lens), which features an improved EXPEED 7 processor, better autofocus with subject detection, and 4K 30fps uncropped video. The Z50 II is an excellent camera, but at ~$860 it's above our $500 budget. The original Z50, now available used for under $500, offers significantly more camera than anything new at this price.
 
 ### Why Consider Used
 
@@ -129,7 +129,7 @@ Buying used from reputable dealers like MPB or KEH gets you:
 - Battery life average (300 shots)
 - Older autofocus than newest models
 
-**Best For:** Those comfortable buying used, low-light shooters, video creators needing better specs.
+**Best For:** Those comfortable buying used, low-light shooters, video creators needing better specs. If your budget stretches to ~$860, consider the current **Nikon Z50 II** new instead.
 
 ## 3. Sony A6000 - Best for Speed
 
@@ -286,11 +286,11 @@ Canon's older mirrorless system (EF-M mount) offers great value, though the syst
 - You want more camera for your money
 - You're comfortable with reputable dealers
 - Features like tilting screens matter
-- You're eyeing Nikon Z50 or Sony A6100
+- You're eyeing the Nikon Z50 (used) or Sony A6100
 
 ### Key Features to Prioritize
 
-**For Portraits:** Prioritize autofocus with eye detection (Canon R100, used Z50)
+**For Portraits:** Prioritize autofocus with eye detection (Canon R100, used Z50 or new Z50 II)
 
 **For Action/Sports:** Prioritize continuous shooting speed (Sony A6000)
 
@@ -303,7 +303,7 @@ Canon's older mirrorless system (EF-M mount) offers great value, though the syst
 Your camera body is just the beginning. Consider lens availability:
 
 - **Canon RF (R100):** Growing selection, some affordable options
-- **Nikon Z (Z50):** Smaller selection, adapters available for F-mount
+- **Nikon Z (Z50/Z50 II):** Smaller selection, adapters available for F-mount
 - **Sony E (A6000/A6100):** Largest selection, many third-party options
 - **Canon EF (T7):** Massive used lens market
 - **Fujifilm X (X-T200):** Quality over quantity, all lenses are good
@@ -326,7 +326,7 @@ Don't forget these essentials when planning your purchase:
 
 For most photographers on a budget in 2026, the **Canon EOS R100** is the best camera under $500. It offers modern mirrorless technology, excellent autofocus, and a path to grow within Canon's ecosystem.
 
-If you're comfortable buying used, the **Nikon Z50** offers significantly more camera for similar money. Its superior build quality, tilting screen, and better video specs make it worth considering.
+If you're comfortable buying used, the **Nikon Z50** offers significantly more camera for similar money. Its superior build quality, tilting screen, and better video specs make it worth considering. For those with a larger budget, the **Nikon Z50 II** (~$860 with kit lens) is the current model and an excellent all-around beginner camera.
 
 For action and speed, the **Sony A6000** remains relevant despite its age. Its fast autofocus and 11fps burst rate are unmatched at this price.
 

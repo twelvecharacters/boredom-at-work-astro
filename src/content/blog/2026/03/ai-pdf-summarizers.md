@@ -77,7 +77,7 @@ Before diving into tools, here's what's actually possible:
 ## 1. ChatGPT — Best All-Rounder
 
 **Price:** Free / $20/mo Plus  
-**Website:** [chat.openai.com](https://chat.openai.com)
+**Website:** [chatgpt.com](https://chatgpt.com)
 
 ChatGPT handles PDFs directly—just upload and ask questions.
 

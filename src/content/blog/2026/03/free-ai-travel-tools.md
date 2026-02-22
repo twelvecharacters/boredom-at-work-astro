@@ -68,7 +68,7 @@ Here's how to use completely free AI tools for budget travel planning.
 
 **Best for**: Creating the framework of your trip, then verifying elsewhere.
 
-**How to access**: [chat.openai.com](https://chat.openai.com)
+**How to access**: [chatgpt.com](https://chatgpt.com)
 
 ---
 

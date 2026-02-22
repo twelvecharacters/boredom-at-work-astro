@@ -1,7 +1,7 @@
 ---
-title: "8 Best Cameras for Beginners in 2026 [Tested & Ranked]"
+title: "7 Best Cameras for Beginners in 2026 [Tested & Ranked]"
 slug: "best-cameras-for-beginners"
-description: "Tested 8 beginner cameras from Canon, Nikon, and Sony. Mirrorless vs DSLR compared with real photos — find your perfect first camera."
+description: "Tested 7 beginner cameras from Canon, Nikon, and Sony. Mirrorless vs DSLR compared with real photos — find your perfect first camera."
 publishDate: 2025-12-31
 author: "bored chap"
 image: "/images/best-cameras-beginners.webp"
@@ -221,13 +221,13 @@ The Fujifilm X-T30 II stands out with its gorgeous color science and classic fil
 
 If budget is your primary concern, these DSLRs offer incredible value:
 
-### Canon EOS Rebel T7 (EOS 2000D)
+### 6. Canon EOS Rebel T7 (EOS 2000D) - Best Budget DSLR
 
 **Price:** ~$400 new with kit lens
 
 Still available new, the Rebel T7 offers everything a beginner needs at an unbeatable price. Image quality is excellent, and the Canon ecosystem provides endless upgrade paths.
 
-### Nikon D3500
+### 7. Nikon D3500 - Best Used DSLR
 
 **Price:** ~$350 used with kit lens
 

@@ -114,7 +114,7 @@ Buy a dedicated camera if:
 **Deep dives:**
 - [Best Cameras for Beginners](/best-cameras-for-beginners/)
 - [Best Cameras Under $500](/best-cameras-under-500/)
-- [Canon R100 vs Nikon Z50](/canon-r100-vs-nikon-z50/)
+- [Canon R100 vs Nikon Z50 II](/canon-r100-vs-nikon-z50/)
 
 ---
 
@@ -437,7 +437,7 @@ Start with Lightroom Mobile—it's powerful and free for basic editing.
 - [Best Cameras for Beginners](/best-cameras-for-beginners/)
 - [Best Cameras Under $500](/best-cameras-under-500/)
 - [DSLR vs Mirrorless for Beginners](/dslr-vs-mirrorless-beginners/)
-- [Canon R100 vs Nikon Z50](/canon-r100-vs-nikon-z50/)
+- [Canon R100 vs Nikon Z50 II](/canon-r100-vs-nikon-z50/)
 - [Camera vs Smartphone](/camera-vs-smartphone/)
 
 **Specific Cameras:**
