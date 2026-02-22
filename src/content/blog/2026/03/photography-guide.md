@@ -10,7 +10,7 @@ tags: ["Photography", "Cameras", "Beginners", "Guide", "Hub Page"]
 draft: false
 faq:
   - question: "What's the best camera for beginners in 2026?"
-    answer: "For most beginners, the Sony a6100 ($750 with kit lens) offers the best balance of features, image quality, and ease of use. On a budget, the Canon EOS R100 ($480) or Nikon Z50 ($600) are excellent choices. If you want something compact, consider the Fujifilm X-T30 II ($900). Avoid spending over $1000 on your first camera—you'll learn faster by actually shooting than by having fancy features."
+    answer: "For most beginners, the Sony a6400 (~$900 with kit lens) offers the best balance of features, image quality, and ease of use. On a budget, the Canon EOS R100 (~$480) is an excellent choice. If you want something compact, consider the Fujifilm X-T30 II (~$900). The Nikon Z50 II (~$860) is another strong option. Avoid spending over $1200 on your first camera—you'll learn faster by actually shooting than by having fancy features."
   - question: "Should I buy a camera or just use my smartphone?"
     answer: "For casual photos and social media, your smartphone is probably enough. Buy a dedicated camera if you want: better low-light performance, more creative control (manual settings, interchangeable lenses), superior zoom range, or you're serious about learning photography as a skill. If you're not sure, try renting a camera first."
   - question: "DSLR or mirrorless—which is better for beginners?"
@@ -104,12 +104,12 @@ Buy a dedicated camera if:
 | Camera | Price | Best For | Our Take |
 |--------|-------|----------|----------|
 | **Canon EOS R100** | $480 | Budget mirrorless | Great value, easy to use |
-| **Nikon Z50** | $600 | All-around beginner | Excellent ergonomics |
-| **Sony a6100** | $750 | Best autofocus | Eye AF is incredible |
+| **Nikon Z50 II** | ~$860 | All-around beginner | Excellent ergonomics |
+| **Sony a6400** | ~$900 | Best autofocus | Eye AF is incredible |
 | **Fujifilm X-T30 II** | $900 | Style + quality | Beautiful color science |
 
 **Budget pick:** Canon EOS R100—best value under $500
-**Best overall:** Sony a6100—the autofocus alone is worth it
+**Best overall:** Sony a6400—the autofocus alone is worth it
 
 **Deep dives:**
 - [Best Cameras for Beginners](/best-cameras-for-beginners/)
@@ -125,8 +125,8 @@ Don't overlook older cameras. A 10-year-old mirrorless still takes great photos:
 | Camera | Used Price | Why Consider It |
 |--------|------------|-----------------|
 | **Olympus PEN E-PM2** | $100-150 | Tiny, great image quality |
-| **Sony a6000** | $250-350 | Still excellent in 2026 |
-| **Fujifilm X-T20** | $300-400 | Beautiful colors |
+| **Sony a6000** | $350-500 | Still excellent in 2026 |
+| **Fujifilm X-T20** | $550-700 | Beautiful colors |
 
 The Olympus PEN series is particularly interesting—pocket-sized with interchangeable lenses.
 

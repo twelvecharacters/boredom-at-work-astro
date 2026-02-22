@@ -122,8 +122,8 @@ Claude is the thinking person's AI. It excels at tasks requiring depth, nuance, 
 - More natural, less robotic writing style
 
 **Pricing:**
-- Free: Claude 3.5 Sonnet with limits
-- Pro ($20/mo): Higher limits, Claude 3.5 Opus
+- Free: Claude Sonnet 4.5 with limits
+- Pro ($20/mo): Higher limits, all models including Opus
 - Team ($25/user/mo): Collaboration, admin controls
 
 **Our coverage:**
@@ -148,11 +148,11 @@ Gemini is Google's answer to ChatGPT. Its killer feature is deep integration wit
 - Strong multimodal capabilities (images, video, code)
 - Real-time information via Google Search
 - Available in Google apps you already use
-- Gemini 1.5 Pro with 1M token context
+- Gemini 2.5 Pro with 1M token context
 
 **Pricing:**
 - Free: Gemini (basic model)
-- Advanced ($20/mo): Gemini 1.5 Pro, 2TB storage
+- Advanced ($20/mo): Gemini 2.5 Pro, 2TB storage
 - Workspace add-on ($20/user/mo): Gemini in Gmail, Docs, etc.
 
 **Our coverage:**
@@ -245,9 +245,9 @@ Once you've mastered the general assistants, these specialized tools can superch
 |------|----------|-------|
 | **Grammarly** | Grammar, style, tone | Free / $12/mo |
 | **Jasper** | Marketing copy, blogs | $39/mo+ |
-| **Copy.ai** | Short-form marketing | $36/mo+ |
+| **Copy.ai** | Short-form marketing | Free / $29/mo+ |
 | **Wordtune** | Rewriting, paraphrasing | Free / $10/mo |
-| **Hemingway** | Readability, simplicity | Free / $20 one-time |
+| **Hemingway** | Readability, simplicity | Free / from $8/mo |
 
 **Our coverage:**
 - [AI Writing Tools Comparison](/ai-writing-tools-comparison/)
@@ -278,7 +278,7 @@ Once you've mastered the general assistants, these specialized tools can superch
 | **Gamma** | Quick beautiful decks | Free / $10/mo |
 | **Tome** | Narrative presentations | Free / $16/mo |
 | **Beautiful.ai** | Design automation | $12/mo+ |
-| **Canva AI** | Design + presentations | Free / $13/mo |
+| **Canva AI** | Design + presentations | Free / ~$15/mo |
 | **Slidebean** | Pitch decks | $29/mo+ |
 
 **Our coverage:**
@@ -438,7 +438,7 @@ Now pick one tool from this guide and start using it today. You can always expan
 Quick links to all tools mentioned:
 
 **AI Assistants:**
-[ChatGPT](https://chat.openai.com) ·
+[ChatGPT](https://chatgpt.com) ·
 [Claude](https://claude.ai) ·
 [Gemini](https://gemini.google.com) ·
 [Perplexity](https://perplexity.ai) ·

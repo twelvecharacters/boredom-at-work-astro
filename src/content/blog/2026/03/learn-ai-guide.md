@@ -14,7 +14,7 @@ video:
   description: "Step-by-step guide to learning AI in 2026. From absolute beginner to job-ready skills with free courses, certifications, and practical projects."
 faq:
   - question: "How do I start learning AI with no experience?"
-    answer: "Start by using AI tools, not studying theory. Create a free ChatGPT account and use it for real tasks—emails, research, brainstorming. After 1-2 weeks of daily use, take Google's free AI Essentials course (5 hours) to understand the fundamentals. This hands-on approach beats months of theoretical study."
+    answer: "Start by using AI tools, not studying theory. Create a free ChatGPT account and use it for real tasks—emails, research, brainstorming. After 1-2 weeks of daily use, take Google's free AI Essentials course (10 hours) to understand the fundamentals. This hands-on approach beats months of theoretical study."
   - question: "How long does it take to learn AI?"
     answer: "Basic AI literacy: 2-4 weeks. Proficient tool usage: 1-2 months. Building AI applications: 6-12 months. Here's the key—most professionals only need the first two levels. You can become highly effective with AI tools in under a month of consistent daily practice."
   - question: "Do I need to learn coding for AI?"
@@ -116,7 +116,7 @@ Alternative: [Best Free AI Courses](/best-free-ai-courses/) has more options if 
 **Step 2: Create accounts on major AI platforms**
 
 Sign up for free accounts on:
-- [ChatGPT](https://chat.openai.com) (OpenAI)
+- [ChatGPT](https://chatgpt.com) (OpenAI)
 - [Claude](https://claude.ai) (Anthropic)
 - [Gemini](https://gemini.google.com) (Google)
 

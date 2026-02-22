@@ -17,7 +17,7 @@ faq:
 
 ChatGPT can be an incredible travel planning assistant—if you know how to ask. The difference between a mediocre AI response and a genuinely useful one comes down to your prompts.
 
-Here are 15 proven prompts that actually work, organized by planning stage.
+Here are 19 proven prompts that actually work, organized by planning stage.
 
 ## The Golden Rule of Travel Prompts
 
@@ -208,6 +208,21 @@ For each, tell me what to order and what to avoid.
 ---
 
 ## Food & Experience Prompts
+
+### 12. Food Tour Planning
+
+```
+I'm a food lover visiting [destination] for [X days].
+
+Design a food-focused itinerary that includes:
+- Must-try local dishes (and where to find the best version)
+- A market or street food area to explore each day
+- One cooking class or food tour worth booking
+- A mix of cheap eats and one splurge meal per day
+- When to eat what (some dishes are better at specific times)
+
+I like [cuisine preferences] and want to avoid [restrictions].
+```
 
 ### 13. Restaurant Research
 

@@ -121,7 +121,7 @@ The most important decision. Get this right, and everything else is easier.
 | **Bambu Lab A1 Mini** | $199 | Plug-and-play | Best for "just works" |
 | **Creality Ender 3 V3** | $199 | Learning the craft | Best for tinkerers |
 | **Anycubic Kobra 2** | $249 | Balance of both | Good middle ground |
-| **Bambu Lab P1S** | $599 | Enclosed, quiet | Best enclosed option |
+| **Bambu Lab P1S** | ~$450 | Enclosed, quiet | Best enclosed option |
 
 **Budget pick:** Creality Ender 3 V3—proven workhorse, huge community
 **Convenience pick:** Bambu A1 Mini—minimal setup, consistent results
