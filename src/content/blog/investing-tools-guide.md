@@ -146,7 +146,7 @@ Stock screeners filter thousands of stocks by criteria you set — P/E ratio, ma
 | Finviz | Free (Elite: ~$25/mo) | Best free screener overall |
 | Yahoo Finance | Free | Quick filters + news integration |
 | TradingView | Free (Plus: ~$15/mo) | Best for technical analysis |
-| Seeking Alpha | Free (Premium: ~$20/mo) | Analyst ratings + quant scores |
+| Seeking Alpha | Free (Premium: ~$25/mo) | Analyst ratings + quant scores |
 
 **Deep dive:** [Best Free Stock Screeners](/best-free-stock-screeners/) — How to use screeners effectively with example filters.
 
@@ -228,7 +228,7 @@ This five-step approach beats 90% of active traders over the long run. Index inv
 | Tool | Why Not |
 |------|---------|
 | Motley Fool Stock Advisor | $199/year — decent picks but expensive for beginners |
-| Bloomberg Terminal | $24,000/year — you're not a hedge fund |
+| Bloomberg Terminal | ~$28,000+/year — you're not a hedge fund |
 | Benzinga Pro | Good for day traders, but we're not encouraging day trading at work |
 | Options-specific platforms | Options are advanced — learn stocks first |
 

@@ -12,7 +12,7 @@ faq:
   - question: "Is Gemini better than ChatGPT for travel?"
     answer: "For real-time information like current prices and availability, Gemini wins. For creative itinerary building and conversational planning, ChatGPT is often better. Many travelers use both."
   - question: "Is Google Gemini free for travel planning?"
-    answer: "Gemini has a free tier with daily limits (5 prompts/day for advanced models like Gemini 2.5 Pro). For unlimited access, Gemini Advanced costs $20/month as part of Google One AI Premium."
+    answer: "Gemini has a generous free tier with daily limits on advanced models. For higher limits, Google AI Pro costs $20/month."
 ---
 
 While ChatGPT dominates the AI travel planning conversation, Google Gemini has a secret weapon: real-time information. Unlike ChatGPT's free tier, Gemini can access current prices, check today's weather, and pull live data from across the web.
@@ -330,7 +330,7 @@ This real-time data makes planning significantly more accurate.
 - Current prices and availability
 - Real-time weather and conditions
 - Google Maps integration
-- Free, unlimited access
+- Free access (with daily limits on advanced models)
 - Quick fact-checking
 
 **Pair it with ChatGPT or Claude for:**

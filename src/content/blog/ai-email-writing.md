@@ -271,7 +271,7 @@ went well, interviewer mentioned timeline of 2 weeks.
 | **Grammarly** | Tone detection, corrections | Free / $12/mo |
 | **Lavender** | Email scoring, suggestions | $29/mo |
 | **Superhuman** | AI writing + email client | $30/mo |
-| **Sanebox** | AI email management | $7/mo |
+| **Sanebox** | AI email management | From $3.49/mo |
 
 ### My Recommendation
 

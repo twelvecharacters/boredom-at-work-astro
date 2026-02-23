@@ -58,7 +58,7 @@ Stock Events has become the go-to dividend tracker, and it earned that spot. The
 - **Portfolio tracking** for up to 15 stocks/ETFs
 - **Basic dividend history** and yield tracking
 
-### What Pro Adds (~$6/month)
+### What Pro Adds (~$50/year or ~$6/month)
 
 - Unlimited holdings
 - Dividend growth tracking
@@ -74,7 +74,7 @@ The app also handles international dividends well, supporting most major stock e
 
 ### Limitations
 
-The 15-holding limit on the free tier is generous but limiting if you have a diversified portfolio. Pro at $6/month is reasonable, but it adds up alongside other subscription tools.
+The 15-holding limit on the free tier is generous but limiting if you have a diversified portfolio. Pro at ~$50/year (~$6/month if billed monthly) is reasonable, but it adds up alongside other subscription tools.
 
 ---
 
@@ -104,7 +104,7 @@ The free tier only covers 10 holdings — not enough for a diversified portfolio
 
 ---
 
-## 3. DivTracker — Best Design (iOS Only)
+## 3. DivTracker — Best Design
 
 **Price:** Free (10 holdings) / Pro ~$4/mo ($20/yr) / Ultimate ~$7/mo ($50/yr) | **Platforms:** iOS, Android, Web
 

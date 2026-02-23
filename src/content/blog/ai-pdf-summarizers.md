@@ -39,7 +39,7 @@ Here's a breakdown of the best tools, what they're actually good at, and which o
 | **Claude** | Long documents | Good | $20/mo | 200K tokens |
 | **NotebookLM** | Research, multiple docs | Excellent | Free | Large |
 | **ChatPDF** | PDF-focused workflow | Limited | $10/mo | 50MB files |
-| **Humata** | Teams, heavy use | Limited | $15/mo | Unlimited |
+| **Humata** | Teams, heavy use | Limited | $9.99/mo | Unlimited |
 | **Gemini** | Google users | Excellent | $20/mo | 1M+ tokens |
 
 ---
@@ -123,7 +123,6 @@ Claude's 200K token context window makes it the best choice for truly long docum
 - Better at following complex instructions
 
 **Limitations:**
-- No image analysis within PDFs (text only)
 - Slightly slower than ChatGPT sometimes
 
 **Best for:** Long reports, academic papers, legal documents, anything over 50 pages.

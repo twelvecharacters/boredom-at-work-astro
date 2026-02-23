@@ -14,7 +14,7 @@ faq:
   - question: "Is Bloomberg app free to use?"
     answer: "The Bloomberg app is free to download, and you can browse some market data, watch Bloomberg TV live, and listen to Bloomberg Radio at no cost. However, most Bloomberg articles and in-depth reporting sit behind a paywall. A subscription costs ~$35/month (or ~$400/year). For casual market news, Yahoo Finance or MarketWatch give you more free content."
   - question: "What stock news app has the fastest alerts?"
-    answer: "Benzinga Pro is the fastest for breaking stock news alerts. Its Squawk feature — a live audio stream that reads out market-moving headlines in real time — is used by professional day traders who need to react in seconds. The Essential plan (starting at ~$117/month billed annually) includes the audio squawk. For free real-time alerts, Yahoo Finance push notifications and MarketWatch alerts are solid alternatives."
+    answer: "Benzinga Pro is the fastest for breaking stock news alerts. Its Squawk feature — a live audio stream that reads out market-moving headlines in real time — is used by professional day traders who need to react in seconds. The Essential plan (starting at ~$166/month billed annually) includes the audio squawk. For free real-time alerts, Yahoo Finance push notifications and MarketWatch alerts are solid alternatives."
 ---
 
 > **Disclaimer:** This article reviews stock market news apps for educational purposes. Nothing here is financial advice. News and analysis from these apps should inform your own research, not replace it. Always do your own due diligence before making investment decisions.
@@ -36,7 +36,7 @@ If you're newer to investing, you might want to pair these news apps with a [goo
 | **Bloomberg** | Limited articles + live TV | ~$35/mo | Professional-grade reporting | Yes | Serious market followers |
 | **Yahoo Finance** | Full-featured | ~$10-50/mo | Portfolio + news + screener | Yes | Free all-rounder |
 | **Seeking Alpha** | Community articles | ~$25/mo (annual) | Quant ratings + analysis | Yes | Deep analysis |
-| **Benzinga Pro** | 14-day trial | ~$27-177/mo | Audio squawk (real-time) | Yes | Day traders + speed |
+| **Benzinga Pro** | 14-day trial | ~$27-199/mo | Audio squawk (real-time) | Yes | Day traders + speed |
 | **MarketWatch** | Most content free | ~$2-4/mo (promo) | Clean, beginner-friendly | Yes | Beginners |
 | **Finimize** | Limited | ~$7-10/mo | 3-minute daily briefs | Yes | Busy professionals |
 | **Motley Fool** | Articles free | ~$99-199/yr | Stock Advisor picks | Yes | Long-term investors |
@@ -119,7 +119,7 @@ Investors who want to understand the thesis behind a stock, not just its price a
 
 ## 4. Benzinga Pro — Best for Real-Time Breaking News
 
-**Price:** Basic: ~$27/mo / Essential: ~$117/mo (annual) / 14-day free trial | **Platforms:** iOS, Android, Web
+**Price:** Basic: ~$27/mo / Essential: ~$166/mo (annual) / 14-day free trial | **Platforms:** iOS, Android, Web
 
 Benzinga Pro is the app that professional day traders use when milliseconds matter. If you need to know about a breaking FDA approval or an earnings surprise *before* the price moves, this is what you want.
 
@@ -129,11 +129,11 @@ The Squawk is the killer feature. It's a live audio stream where someone literal
 
 Beyond audio, the real-time scanner monitors 3,000+ stocks with customizable filters for price, volume, float, market cap, and short interest. Pre-built strategies like "5-Minute Movers" and "Mid-Cap Movers From Open" are ready to go out of the box. You also get the full news feed covering 28 categories, from analyst ratings to earnings guidance to FDA calendar events.
 
-The Basic plan (~$27/month) gets you delayed quotes, watchlist alerts, the core newsfeed, and premium articles. The Essential plan (starting at ~$117/month billed annually, or ~$177/month billed monthly) adds real-time data, the audio squawk, the real-time scanner, and the full calendar suite.
+The Basic plan (~$27/month) gets you delayed quotes, watchlist alerts, the core newsfeed, and premium articles. The Essential plan (starting at ~$166/month billed annually, or ~$199/month billed monthly) adds real-time data, the audio squawk, the real-time scanner, and the full calendar suite.
 
 ### What's Missing
 
-The price. Benzinga Pro is the most expensive app on this list, and it's not close. The audio squawk — the feature most people want — requires the Essential plan, which starts at ~$117/month even on annual billing. That's serious money for anyone who isn't actively trading. The 14-day free trial is generous, but you'll know within a week whether the speed is worth the cost.
+The price. Benzinga Pro is the most expensive app on this list, and it's not close. The audio squawk — the feature most people want — requires the Essential plan, which starts at ~$166/month even on annual billing. That's serious money for anyone who isn't actively trading. The 14-day free trial is generous, but you'll know within a week whether the speed is worth the cost.
 
 ### Who It's For
 

@@ -31,12 +31,12 @@ I looked at every popular under-desk footrest and tested the ones I could get my
 
 | Footrest | Price | Type | Height | Best For |
 |----------|-------|------|--------|----------|
-| **Humanscale FM300** | ~$130 | Rocking | 4.5" platform | Best overall |
+| **Humanscale FM300** | ~$143 | Rocking | 4.5" platform | Best overall |
 | **ErgoFoam Adjustable** | ~$40 | Foam, 2 heights | 3.9" or 5.1" | Best foam option |
 | **Kensington SoleMate Plus** | ~$55 | Tilting platform | 3.5-5" | Best tilting |
 | **VIVO Ergonomic Footrest** | ~$30 | Tilting platform | 3.3-4.7" | Best budget tilting |
 | **Everlasting Comfort Footrest** | ~$25 | Memory foam | ~4" | Best budget foam |
-| **Humanscale FR500** | ~$130 | Rocking, tall | 6.5-9.5" | Tall desk / standing |
+| **Humanscale FR500** | ~$143 | Rocking, tall | 6.5-9.5" | Tall desk / standing |
 | **Amazon Basics Footrest** | ~$18 | Basic platform | 4 positions | Ultra-budget |
 
 *Prices as of early 2026. They fluctuate—check current prices before buying.*
@@ -45,7 +45,7 @@ I looked at every popular under-desk footrest and tested the ones I could get my
 
 ## 1. Humanscale FM300 — Best Overall
 
-**Price:** ~$130 | **Type:** Rocking platform | **Surface:** 17.5" x 13.5" | **Height:** 4.5" platform
+**Price:** ~$143 | **Type:** Rocking platform | **Surface:** 17.5" x 13.5" | **Height:** 4.5" platform
 
 The Humanscale FM300 is the footrest equivalent of buying a Herman Miller chair. It's expensive, it doesn't look exciting, and it quietly does its job better than everything else.
 
@@ -125,7 +125,7 @@ No height adjustment, no tilt mechanism, no rocking. Just foam. For ~$25, that's
 
 ## 6. Humanscale FR500 — Best for Tall Desks and Standing
 
-**Price:** ~$130 | **Type:** Rocking, tall | **Surface:** 17" x 12" | **Height:** Adjustable 6.5" to 9.5"
+**Price:** ~$143 | **Type:** Rocking, tall | **Surface:** 17" x 12" | **Height:** Adjustable 6.5" to 9.5"
 
 The FR500 is the FM300's taller sibling, designed for people whose desks are higher than standard or who want a footrest that works at standing desk height.
 

@@ -10,7 +10,7 @@ tags: ["Copilot", "Microsoft", "Word", "AI", "Productivity"]
 draft: false
 faq:
   - question: "Is Copilot in Word free?"
-    answer: "Copilot in Word requires a Microsoft 365 subscription plus Copilot Pro ($20/month) or a Copilot for Microsoft 365 business license ($30/month). The free Copilot at copilot.microsoft.com can help with Word tasks via copy/paste but doesn't integrate directly."
+    answer: "Copilot in Word requires Microsoft 365 Personal/Family ($13-20/month, includes Copilot) or Microsoft 365 Copilot Business ($21/user/month) for organizations. The free Copilot at copilot.microsoft.com can help with Word tasks via copy/paste but doesn't integrate directly."
   - question: "How do I enable Copilot in Word?"
     answer: "You need Microsoft 365 (Personal, Family, or Business) plus a Copilot subscription. Once subscribed, Copilot appears automatically in Word's ribbon. Look for the Copilot icon in the Home tab."
   - question: "What can Copilot do in Word?"
@@ -19,7 +19,7 @@ faq:
     answer: "For working within Word, yes—Copilot integrates directly so you don't need to copy/paste. For complex writing tasks or longer documents, ChatGPT or Claude might produce better quality. Many users use both."
   - question: "Can Copilot write an entire document for me?"
     answer: "It can generate first drafts, but they typically need editing. Copilot works best as a collaborator: it drafts, you refine. The quality depends heavily on how specific your prompts are."
-tldr: "Copilot in Word is best for: quick first drafts, rewriting awkward sections, changing tone, and summarizing. Give specific prompts for better results. It won't replace good writing skills, but it significantly speeds up the drafting process. Worth $20/mo if you write in Word daily."
+tldr: "Copilot in Word is best for: quick first drafts, rewriting awkward sections, changing tone, and summarizing. Give specific prompts for better results. It won't replace good writing skills, but it significantly speeds up the drafting process. Now included in Microsoft 365 Personal/Family subscriptions."
 isListicle: false
 ---
 
@@ -33,7 +33,7 @@ Here's everything you need to know to actually use it well.
 
 **Requirements:**
 - Microsoft 365 subscription (Personal, Family, or Business)
-- Copilot Pro ($20/month) or Copilot for Microsoft 365 ($30/month for business)
+- Microsoft 365 Personal/Family (includes Copilot) or Copilot Business ($21/user/month for organizations)
 - Word for Windows, Mac, or Word Online
 
 **Don't have Copilot yet?**  

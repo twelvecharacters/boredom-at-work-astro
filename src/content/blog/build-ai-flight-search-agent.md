@@ -319,7 +319,7 @@ def search_flexible_dates(origin, destination, base_date, days_range=3):
 **Check nearby airports:**
 ```python
 nearby_airports = {
-    'BER': ['BER', 'TXL', 'SXF'],  # Berlin area
+    'BER': ['BER'],  # Berlin (only BER operational)
     'NYC': ['JFK', 'EWR', 'LGA'],  # New York area
 }
 ```
@@ -355,7 +355,7 @@ We're moving toward agents that don't just search—they book.
 
 - **Hopper** - Predicts prices and can auto-book
 - **Kayak Alerts** - Sophisticated price tracking
-- **Scott's Cheap Flights** - Human-curated deals (AI-assisted)
+- **Going** (formerly Scott's Cheap Flights) - Human-curated deals (AI-assisted)
 
 ### The Challenge
 

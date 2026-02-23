@@ -40,7 +40,7 @@ If you prefer structured learning, check the [best free investing courses](/best
 | **Motley Fool Money** | Beginner-Intermediate | 20-40 min | Daily (weekdays) | Weekly market news |
 | **ChooseFI** | Intermediate | 45-60 min | Weekly | Financial independence |
 | **We Study Billionaires** | Intermediate | 45-75 min | Weekly | Value investing education |
-| **The Rational Reminder** | Intermediate-Advanced | 30-50 min | Weekly | Evidence-based investing |
+| **The Rational Reminder** | Intermediate-Advanced | 60-90 min | Weekly | Evidence-based investing |
 | **Animal Spirits** | Intermediate-Advanced | 30-45 min | Weekly | Market commentary |
 | **Invest Like the Best** | Advanced | 45-75 min | Weekly | Deep-dive interviews |
 
@@ -159,7 +159,7 @@ We Study Billionaires does what the name says — studies the investment strateg
 
 ### 6. The Rational Reminder — Best Evidence-Based Investing
 
-**Hosts:** Ben Felix & Cameron Passmore (PWL Capital) | **Length:** 30-50 minutes | **Frequency:** Weekly | **Since:** 2019
+**Hosts:** Ben Felix & Cameron Passmore (PWL Capital) | **Length:** 60-90 minutes | **Frequency:** Weekly | **Since:** 2019
 
 The Rational Reminder is the closest thing to an academic investing seminar in podcast form. Ben Felix (also a popular YouTube creator) and Cameron Passmore (portfolio manager) discuss investing through the lens of financial research and evidence.
 

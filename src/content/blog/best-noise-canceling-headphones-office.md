@@ -33,9 +33,9 @@ Here are the 7 best noise-canceling headphones for office and WFH use in 2026, r
 |-----------|-------|-------------------|--------|------------|----------|
 | **Sony WH-1000XM5** | ~$400 | 30 hours | 250g | Yes | Best overall |
 | **AirPods Max (USB-C)** | ~$549 | 20 hours | 386g | Apple only | Apple ecosystem |
-| **Bose QC Ultra 2nd Gen** | ~$450 | 30 hours | 260g | Yes | Best ANC |
+| **Bose QC Ultra 2nd Gen** | ~$450 | 30 hours | 250g | Yes | Best ANC |
 | **Sony WH-1000XM4** | ~$200 | 30 hours | 254g | Yes | Best value |
-| **Bose QC Headphones** | ~$349 | 24 hours | 240g | Yes | Budget ANC |
+| **Bose QC Headphones** | ~$359 | 24 hours | 240g | Yes | Budget ANC |
 | **Sennheiser Momentum 4** | ~$350 | 60 hours | 293g | Yes | Best sound quality |
 | **JBL Tour One M2** | ~$300 | 30 hours | 278g | Yes | Best for calls |
 
@@ -124,7 +124,7 @@ Bose basically invented consumer noise canceling. The QC Ultra 2nd Gen is the la
 | Spec | Detail |
 |------|--------|
 | Battery life | 30 hours (23 hours with Immersive Audio) |
-| Weight | ~260g |
+| Weight | ~250g |
 | Bluetooth | 5.4 (SBC, AAC, aptX Adaptive) |
 | Multipoint | Yes (2 devices) |
 | Microphones | Multiple mics with wind rejection |
@@ -185,7 +185,7 @@ Anyone who wants excellent noise canceling without paying flagship prices. If yo
 
 ## 5. Bose QuietComfort Headphones — Best Budget ANC From Bose
 
-**Price:** ~$349
+**Price:** ~$359
 
 Think of these as the Bose QC Ultra without the bells and whistles. Same legendary Bose ANC DNA, lighter weight, simpler controls, and $100 less.
 

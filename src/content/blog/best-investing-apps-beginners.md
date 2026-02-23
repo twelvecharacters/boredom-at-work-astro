@@ -38,7 +38,7 @@ If you want to [practice with fake money first](/best-paper-trading-apps/) (hone
 | **Robinhood** | $0 | $0 | Yes ($1 min) | Simplicity | Free ($5/mo Gold) |
 | **Vanguard** | $0 | $0 | Yes ($1 min) | Long-term index investing | Free |
 | **SoFi Invest** | $0 | $0 | Yes ($5 min) | All-in-one finance | Free |
-| **Webull** | $0 | $0 | Yes ($5 min) | Active beginners | Free |
+| **Webull** | $0 | $0 | Yes ($1 min) | Active beginners | Free |
 | **Acorns** | N/A | $5 | Automated | Set-and-forget | $3-12/mo |
 
 *All apps offer $0 commissions on stocks and ETFs. Options, futures, and other products may carry fees.*
@@ -177,7 +177,7 @@ People who want to simplify their entire financial life in one app. If you're cu
 
 ## 6. Webull — Best for Active Beginners
 
-**Commissions:** $0 stocks/ETFs/options | **Minimum:** $0 | **Fractional Shares:** Yes, from $5
+**Commissions:** $0 stocks/ETFs/options | **Minimum:** $0 | **Fractional Shares:** Yes, from $1
 
 Webull sits in an interesting middle ground — more advanced than Robinhood, less overwhelming than thinkorswim. If you're a beginner who wants to actually learn how to analyze stocks rather than just buy and hold, Webull is compelling.
 
@@ -191,7 +191,7 @@ The platform also offers commission-free options trading (a $0.55 fee applies to
 
 ### What's Missing
 
-Educational resources are improving but still not on par with Fidelity or Schwab. Fractional shares require a $5 minimum and are only available on select stocks and ETFs. There's also a $75 fee for outbound account transfers (ACATS), which is worth knowing if you decide to switch brokers later.
+Educational resources are improving but still not on par with Fidelity or Schwab. Fractional shares start at $1 and are available on select stocks and ETFs. There's also a $75 fee for outbound account transfers (ACATS), which is worth knowing if you decide to switch brokers later.
 
 Crypto trading carries a 1% spread, which is higher than dedicated crypto exchanges.
 

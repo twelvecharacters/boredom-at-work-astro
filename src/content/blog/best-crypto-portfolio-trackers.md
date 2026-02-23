@@ -187,9 +187,9 @@ Koinly supports over 400 exchanges and wallets, auto-matches internal transfers 
 
 - **Free:** Unlimited transactions for portfolio tracking, but no tax report downloads
 - **Newbie ($49/yr):** Up to 100 transactions, tax report downloads
-- **HODLer ($99/yr):** Up to 3,000 transactions
-- **Trader ($179/yr):** Unlimited transactions
-- **Unlimited ($279/yr):** Everything plus priority support
+- **HODLer ($99/yr):** Up to 1,000 transactions
+- **Trader ($179/yr):** Up to 3,000 transactions
+- **Pro ($279/yr):** Up to 10,000 transactions plus priority support
 
 **The catch:** The free tier lets you import everything and see your portfolio, but you can't download the actual tax report without paying. So it's essentially a "try before you buy" — you can verify it handles your data correctly before committing. Fair enough, but annoying if you assumed "free" meant the whole thing.
 

@@ -32,11 +32,11 @@ If you're also upgrading your desk setup, check out our [complete desk upgrade g
 | Monitor | Size | Resolution | USB-C PD | Price | Best For |
 |---------|------|------------|----------|-------|----------|
 | **Dell U2725QE** | 27" | 4K | 140W (TB4) | ~$680 | Best overall |
-| **Dell P2725QE** | 27" | 4K | 90W | ~$520 | Best value USB-C hub |
-| **ASUS ProArt PA279CRV** | 27" | 4K | 96W | ~$380 | Best for color accuracy |
-| **Samsung ViewFinity S80UD** | 27" | 4K | 90W | ~$450 | Best mid-range |
+| **Dell P2725QE** | 27" | 4K | 90W | ~$450 | Best value USB-C hub |
+| **ASUS ProArt PA279CRV** | 27" | 4K | 96W | ~$470 | Best for color accuracy |
+| **Samsung ViewFinity S80UD** | 27" | 4K | 90W | ~$330 | Best mid-range |
 | **Dell S2725QS** | 27" | 4K | None | ~$280 | Best budget 4K |
-| **Dell U3425WE** | 34" UW | 3440x1440 | 90W (TB4) | ~$820 | Best ultrawide |
+| **Dell U3425WE** | 34" UW | 3440x1440 | 90W (TB4) | ~$1,020 | Best ultrawide |
 | **LG 34WQ75C-B** | 34" UW | 3440x1440 | 90W | ~$500 | Best budget ultrawide |
 
 *Prices as of early 2026. They fluctuate—check current prices before buying.*
@@ -93,7 +93,7 @@ The U2725QE is essentially a Thunderbolt dock with a gorgeous screen attached. O
 
 ### 2. Dell Pro P2725QE — Best Value USB-C Hub
 
-**~$520 | 27" 4K | IPS | USB-C (90W PD)**
+**~$330 | 27" 4K | IPS | USB-C (90W PD)**
 
 If the U2725QE is overkill for your needs, the P2725QE delivers 90% of the experience at 75% of the price. You lose the IPS Black panel (it's standard IPS with 1500:1 contrast instead of 3000:1) and the Thunderbolt 4 (it's USB-C instead), but you still get an excellent 4K display with full hub features.
 
@@ -113,7 +113,7 @@ The P2725QE is the workhorse monitor. It doesn't have the wow factor of the U272
 
 ### 3. ASUS ProArt PA279CRV — Best for Color Accuracy
 
-**~$380 | 27" 4K | IPS | USB-C (96W PD)**
+**~$470 | 27" 4K | IPS | USB-C (96W PD)**
 
 If you do any design, photography, or video work alongside your regular office tasks, the ProArt PA279CRV is the monitor to get. It's factory-calibrated to Delta E < 2 (meaning colors are essentially indistinguishable from the real thing) and covers 99% of both DCI-P3 and Adobe RGB color spaces.
 
@@ -135,9 +135,9 @@ The trade-off? It's "only" 60Hz, which is fine for productivity but less smooth 
 
 ### 4. Samsung ViewFinity S80UD — Best Mid-Range
 
-**~$450 | 27" 4K | IPS | USB-C (90W PD)**
+**~$330 | 27" 4K | IPS | USB-C (90W PD)**
 
-Samsung's ViewFinity S80UD sits in the sweet spot between the budget Dell S2725QS and the premium Dell monitors. You get 4K, 90W USB-C, a built-in KVM switch, and HDR10 support—all for under $450.
+Samsung's ViewFinity S80UD sits in the sweet spot between the budget Dell S2725QS and the premium Dell monitors. You get 4K, 90W USB-C, a built-in KVM switch, and HDR10 support—all for around $330.
 
 **Key features:**
 
@@ -177,7 +177,7 @@ The S2725QS is the smartest buy if your employer doesn't offer a home office sti
 
 ### 6. Dell UltraSharp U3425WE — Best Ultrawide
 
-**~$820 | 34" Ultrawide | IPS Black | Thunderbolt 4 (90W PD)**
+**~$1,020 | 34" Ultrawide | IPS Black | Thunderbolt 4 (90W PD)**
 
 If you've decided ultrawide is the way to go, the Dell U3425WE is the one to get. It takes everything great about the U2725QE—IPS Black panel, Thunderbolt 4 hub, excellent color accuracy—and stretches it across a 34-inch curved 3440x1440 display.
 
@@ -230,7 +230,7 @@ The 60Hz refresh rate is the main compromise. If you're coming from a 120Hz moni
 | **KVM** | Yes | No | No | Yes | No | Yes | Yes |
 | **Ethernet** | Yes (RJ45) | Yes (RJ45) | No | No | No | Yes (RJ45) | Yes (RJ45) |
 | **Speakers** | No | No | No | No | Yes | No | No |
-| **Price** | ~$680 | ~$520 | ~$380 | ~$450 | ~$280 | ~$820 | ~$500 |
+| **Price** | ~$680 | ~$450 | ~$470 | ~$330 | ~$280 | ~$1,020 | ~$500 |
 
 ---
 

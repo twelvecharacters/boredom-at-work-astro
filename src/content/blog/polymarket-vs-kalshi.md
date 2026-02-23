@@ -154,7 +154,7 @@ Kalshi operates as a CFTC-designated contract market (DCM) under the Commodity E
 
 Kalshi is available in 42+ US states. Some states with strict gaming regulations (like Nevada) have limited access to certain market types, particularly sports-related contracts.
 
-After a $1 billion funding round in November 2025, Kalshi hit an $11 billion valuation — making it one of the fastest-growing fintech companies in the country.
+After a $1 billion funding round in December 2025, Kalshi hit an $11 billion valuation — making it one of the fastest-growing fintech companies in the country.
 
 ### Fees
 

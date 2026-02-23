@@ -281,7 +281,6 @@ If you hold any cryptocurrency, this is the subreddit that covers it all — Bit
 - Crypto news aggregation (regulation, exchange issues, protocol updates)
 - Market sentiment discussion
 - Project reviews and analysis
-- The "Moon" token reward system (you earn crypto for quality posts)
 
 **Watch out for:** Extreme bias during bull markets (everything will moon forever) and extreme despair during bear markets (crypto is dead). The community is emotionally correlated with price. Take the sentiment as data, not advice.
 
