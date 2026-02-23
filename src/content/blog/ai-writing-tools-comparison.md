@@ -38,8 +38,8 @@ Understanding this helps you choose the right tool for your needs.
 | **[Grammarly](https://grammarly.com)** | Editing everything | $12/mo | Works everywhere |
 | **[Claude](https://claude.ai)** | Long-form writing | $20/mo | Best quality |
 | **[ChatGPT](https://chatgpt.com)** | Quick generation | $20/mo | Most versatile |
-| **[Jasper](https://jasper.ai)** | Marketing copy | $49/mo+ | Templates + brand voice |
-| **[Copy.ai](https://copy.ai)** | Short-form marketing | $49/mo | Fast iterations |
+| **[Jasper](https://jasper.ai)** | Marketing copy | $39/mo+ | Templates + brand voice |
+| **[Copy.ai](https://copy.ai)** | Short-form marketing | From $29/mo | Fast iterations |
 | **[ProWritingAid](https://prowritingaid.com)** | Deep editing | $10/mo | Detailed feedback |
 | **[Hemingway](https://hemingwayapp.com)** | Clarity | Free/$20 | Simplicity |
 
@@ -228,7 +228,7 @@ Tends to over-explain. You'll often cut 30% of what it writes.
 
 ## Jasper — Best for Marketing Teams
 
-**Price:** $49/mo Creator / $69/mo Pro
+**Price:** $39/mo Creator / $69/mo Pro
 
 Jasper is purpose-built for marketing content at scale.
 
@@ -283,7 +283,7 @@ Sometimes brilliant, sometimes generic marketing speak.
 
 ## Copy.ai — Best for Quick Marketing Copy
 
-**Price:** Free tier / $49/mo Pro
+**Price:** Free tier / from $29/mo (Chat plan)
 
 Copy.ai is like Jasper's faster, simpler sibling.
 
