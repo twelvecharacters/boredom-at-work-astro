@@ -39,6 +39,10 @@ The best part? You can become proficient in AI basics in just 10 hours of learni
 
 These courses are designed to be taken in short bursts, look professional on your screen, and result in certificates you can add to LinkedIn.
 
+### Build Financial Literacy
+
+Understanding investing is one of the most valuable skills you can develop at work — and it looks exactly like business research on your screen. Start with a [free investing course](/best-free-investing-courses/) during lunch breaks, then practice with [paper trading apps](/best-paper-trading-apps/) that let you trade stocks with virtual money and zero risk.
+
 ### Pick Up a Language
 
 Learning a second language is one of the most impressive skills you can add to your resume. With apps like Duolingo or Babbel, you can make progress in just 10-15 minutes per day.

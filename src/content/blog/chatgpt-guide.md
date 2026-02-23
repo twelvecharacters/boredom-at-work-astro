@@ -309,6 +309,8 @@ ChatGPT is an incredible tutor. It can:
 - "What are the most common misconceptions?"
 - "Give me 3 practice questions to test my understanding"
 
+ChatGPT is also surprisingly effective for financial research — analyzing company fundamentals, summarizing earnings reports, and explaining investing concepts. See our guide to [ChatGPT for Stock Research](/chatgpt-stock-research/) for 10 prompts that actually work.
+
 ---
 
 ## Part 5: Level Up Your Skills

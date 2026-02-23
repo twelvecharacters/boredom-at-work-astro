@@ -25,7 +25,7 @@ I get it. I spend an unreasonable amount of my workday running stock screens ins
 
 The problem? Most "free" screeners are either glorified ads for premium subscriptions or so stripped down they're useless. I've tested them all over the past several months, and only seven are genuinely worth your time at the free tier.
 
-If you're brand new to investing, you might want to start with some [free investing courses](/best-free-investing-courses/) to understand what these metrics mean before diving into screeners. And if you want to practice acting on your screens without risking real money, check out the [best paper trading apps](/best-paper-trading-apps/).
+If you're brand new to investing, you might want to start with some [free investing courses](/best-free-investing-courses/) to understand what these metrics mean before diving into screeners. And if you want to practice acting on your screens without risking real money, check out the [best paper trading apps](/best-paper-trading-apps/). Once you've built a watchlist, [ChatGPT can help you research each stock faster](/chatgpt-stock-research/) — analyzing fundamentals, summarizing earnings, and spotting red flags.
 
 ## Quick Comparison
 

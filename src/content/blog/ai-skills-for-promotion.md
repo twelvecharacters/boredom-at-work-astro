@@ -216,7 +216,7 @@ Different roles benefit from different skill emphasis:
 - Automating routine calculations
 - Summarizing complex documents
 
-**Recommended learning:** Data analysis courses + prompt engineering
+**Recommended learning:** Data analysis courses + prompt engineering. Also see [ChatGPT for Stock Research](/chatgpt-stock-research/) — 10 prompts for analyzing companies and markets that apply to both professional and personal investing.
 
 ### HR
 

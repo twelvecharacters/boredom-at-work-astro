@@ -308,7 +308,7 @@ This takes about 15 minutes during a work break:
 3. Browse r/Bogleheads for any interesting allocation discussions
 4. Glance at r/wallstreetbets top posts (entertainment)
 
-That's it. More than 15 minutes and you're procrastinating, not learning.
+That's it. More than 15 minutes and you're procrastinating, not learning. For more ways to use work downtime productively beyond Reddit, see [25 productive things to do when bored at work](/productive-things-bored-at-work/).
 
 ---
 

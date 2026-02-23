@@ -27,7 +27,7 @@ So I tested every major crypto portfolio tracker I could find. Connected wallets
 
 Here are the seven that are actually worth using — whether you're casually holding some Bitcoin or knee-deep in DeFi yield farms you forgot about.
 
-If you're more into traditional investing, check out the [best investing apps for beginners](/best-investing-apps-beginners/) or the [best free stock screeners](/best-free-stock-screeners/) instead.
+If you're more into traditional investing, check out the [best investing apps for beginners](/best-investing-apps-beginners/) or the [best free stock screeners](/best-free-stock-screeners/) instead. Want to use AI for crypto research? [ChatGPT for stock research](/chatgpt-stock-research/) covers prompts that work for crypto fundamentals too.
 
 ## Quick Comparison
 

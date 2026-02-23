@@ -385,5 +385,6 @@ Headphones are one piece of a productive setup. If you're leveling up your works
 - **[The Complete Desk Upgrade Guide](/desk-upgrade-guide/)** — standing desks, monitors, chairs, and everything in between
 - **[Best Webcams for Working From Home](/best-webcams-working-from-home/)** — because you sound great now, you should look great too
 - **[AI Meeting Assistants](/ai-meeting-assistants/)** — let AI handle the note-taking while you focus on the conversation
+- **[Best Investing Podcasts](/best-investing-podcasts/)** — turn commutes and slow afternoons into a financial education with ANC on
 
 The right headphones turn a noisy environment into your personal focus zone. Pick the pair that fits your workday, put them on, and watch your productivity spike.

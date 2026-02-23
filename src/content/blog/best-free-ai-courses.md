@@ -371,3 +371,4 @@ In 10 hours, you'll go from AI curious to AI capable. That's a career-changing r
 - [ChatGPT Tutorial for Beginners](/chatgpt-tutorial-beginners/) — Start using AI tools today
 - [AI Tools Guide](/ai-tools-guide/) — All the AI tools you need for work
 - [AI Certifications You Can Earn in a Week](/ai-certifications-in-a-week/) — Fast-track credentials
+- [Best Free Investing Courses](/best-free-investing-courses/) — Same "learn at work" approach, applied to investing and personal finance

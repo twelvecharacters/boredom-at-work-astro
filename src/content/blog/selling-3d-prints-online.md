@@ -149,6 +149,8 @@ A good starting point for a physical print is:
 - **Machine Time:** Think about depreciation and electricity ($0.50 - $1.00 per hour).
 - **Labor:** Don't forget the time you spend removing supports and packing boxes!
 
+Once your side hustle generates real income, don't let it sit in a low-yield savings account. [Free investing courses](/best-free-investing-courses/) can teach you the basics, and [investing apps for beginners](/best-investing-apps-beginners/) make it easy to put that money to work.
+
 ---
 
 ## 5. The Legal Warning (Read This!)

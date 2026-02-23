@@ -252,4 +252,4 @@ If you have all your investments at one brokerage, the built-in tools might be e
 5. **Reinvest:** Enable DRIP (dividend reinvestment) for compound growth
 6. **Monitor growth:** Check your tracker monthly — watch that income line trend upward
 
-For the complete investing toolkit, head back to the [Investing Tools Guide](/investing-tools-guide/). And if you're still building your knowledge, the [best free investing courses](/best-free-investing-courses/) are a solid foundation.
+For the complete investing toolkit, head back to the [Investing Tools Guide](/investing-tools-guide/). And if you're still building your knowledge, the [best free investing courses](/best-free-investing-courses/) are a solid foundation. Looking for more ways to use your work downtime? [25 productive things to do when bored at work](/productive-things-bored-at-work/) covers learning, investing, and more.

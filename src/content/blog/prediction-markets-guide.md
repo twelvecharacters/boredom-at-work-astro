@@ -227,6 +227,8 @@ Trading prediction markets teaches you concepts that apply to all investing:
 - **Emotional discipline** — Not chasing losses or over-betting on conviction
 - **Information edge** — Understanding what you know vs. what the market knows
 
+These are also skills that make you a sharper thinker at work. If you're using slow afternoons to follow prediction markets, you're in good company — check out [25 productive things to do when bored at work](/productive-things-bored-at-work/) for more ideas.
+
 ---
 
 ## Common Mistakes Beginners Make
