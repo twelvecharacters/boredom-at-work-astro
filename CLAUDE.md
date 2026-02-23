@@ -74,11 +74,11 @@ Drafts in `medium-drafts/` (in `.gitignore`).
 - [x] Outbound Links: Kursplattformen, Hersteller, Slicer-Software
 - [x] Affiliate Link Map: `medium-drafts/affiliate-link-map.md`
 
-### Fact-Check & Content Lint (22. Feb 2026)
+### Fact-Check & Content Lint (22.–23. Feb 2026)
 
 - [x] **Content Lint Script:** `scripts/content-lint.js` (`npm run lint:content`)
   - Prüft: veraltete URLs, Model-Namen, discontinued products, Listicle-Count, Preis-Mismatches, Meta-Description-Länge
-- [x] Alle Artikel bis 15. März fact-gecheckt (12+ Artikel, 4 Commits)
+- [x] **ALLE 123 Artikel fact-gecheckt** (komplett seit 23. Feb)
 - [x] `chat.openai.com` → `chatgpt.com` in allen Artikeln
 - [x] Claude Model-Namen aktualisiert (Sonnet 4.5, Opus 4.6, Haiku 4.5)
 - [x] Nikon Z50 → Z50 II in 5 Photography-Artikeln (discontinued)
@@ -86,6 +86,10 @@ Drafts in `medium-drafts/` (in `.gitignore`).
 - [x] Diverse Preis-Updates (3D Printer, Kameras, Software)
 - [x] Listicle-Count Mismatches gefixt
 - [x] Jasper Creator Preis $49 → $39/mo, Copy.ai $49 Pro → from $29/mo (Chat plan)
+- [x] 17 Artikel in 3 Clustern gefixt (23. Feb):
+  - Travel (6): SaneBox, Humata, Copilot Pro→M365, Gemini, Berlin Airports, Scott's→Going
+  - Home Office (3): 4 Monitor-Preise, Bose Gewicht/Preis, Humanscale Preise
+  - Finance (7): Seeking Alpha, Bloomberg, Kalshi, Webull, Koinly, Benzinga, Reddit Moon, Rational Reminder
 
 ### Blog-Ordnerstruktur (23. Feb 2026)
 
@@ -113,7 +117,7 @@ Drafts in `medium-drafts/` (in `.gitignore`).
 - [ ] **7. März:** learn-ai-guide Video → PUBLIC
 - [ ] **10. März:** chatgpt-guide Video → PUBLIC + in Artikel einbetten
 - [ ] Email-Liste/Newsletter starten
-- [ ] **Fact-Check für Artikel ab 16. März** (Home Office Expansion + Travel)
+- [x] ~~Fact-Check für Artikel ab 16. März~~ ✅ Komplett (23. Feb) — alle 123 Artikel geprüft
 
 ### Finance Cluster Details
 
