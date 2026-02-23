@@ -4,7 +4,7 @@
 
 ---
 
-## Aktueller Stand (22. Februar 2026)
+## Aktueller Stand (23. Februar 2026)
 
 ### Cluster-Status
 
@@ -85,6 +85,13 @@ Drafts in `medium-drafts/` (in `.gitignore`).
 - [x] Gemini 1.5 Pro → 2.5 Pro
 - [x] Diverse Preis-Updates (3D Printer, Kameras, Software)
 - [x] Listicle-Count Mismatches gefixt
+- [x] Jasper Creator Preis $49 → $39/mo, Copy.ai $49 Pro → from $29/mo (Chat plan)
+
+### Blog-Ordnerstruktur (23. Feb 2026)
+
+- [x] **Flache Struktur:** Alle 123 Artikel direkt in `src/content/blog/*.md`
+- Vorher: Unterordner nach Jahr/Monat (`2025/12/`, `2026/01/`...`2026/06/`)
+- **Keine Unterordner mehr!** Neue Artikel immer direkt in `src/content/blog/` ablegen
 
 ### Affiliate Status
 
@@ -287,9 +294,12 @@ rm temp.png
 
 ## Wichtige Dateien
 
+### Content
+- `src/content/blog/*.md` — **Alle 123 Artikel flach** (keine Unterordner!)
+
 ### Konfiguration
 - `src/config.ts` — Navigation, Kategorien, Footer
-- `src/content.config.ts` — Blog Collection Schema (Zod)
+- `src/content.config.ts` — Blog Collection Schema (Zod), glob `**/*.md`
 - `src/styles/app.css` — Theme-Variablen
 - `src/styles/global.scss` — Base Styles, Prose
 
@@ -454,4 +464,4 @@ Täglicher Cron in `.github/workflows/deploy.yml`: `0 5 * * *` (5:00 UTC)
 
 ---
 
-*Letzte Aktualisierung: 22. Februar 2026*
+*Letzte Aktualisierung: 23. Februar 2026*
