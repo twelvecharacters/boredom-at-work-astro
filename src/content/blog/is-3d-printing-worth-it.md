@@ -100,7 +100,11 @@ Vacuum cleaner replacement part:
 - **Garden:** Plant labels, irrigation parts, mounts
 - **Kids:** Toys, learning materials, puzzles
 
-### 5. Prototypes and Custom Designs
+### 5. Turn It Into a Side Hustle
+
+If you build enough skill, you can [sell 3D prints online](/selling-3d-prints-online/) through platforms like Etsy and Cults3D. Many hobbyists earn $500-$2,000/month this way.
+
+### 6. Prototypes and Custom Designs
 
 If you want to bring your own ideas to life:
 

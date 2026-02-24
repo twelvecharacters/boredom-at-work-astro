@@ -169,6 +169,8 @@ Camera RAW files contain far more data:
 - Better noise reduction options
 - Non-destructive editing
 
+You don't even need a subscription to edit RAW files — [RapidRAW](/rapid-raw-image-editor-guide/) is a free, open-source alternative to Lightroom with GPU-accelerated performance.
+
 Phone RAW exists but from smaller sensors with less information captured.
 
 ### 7. Professional Acceptance

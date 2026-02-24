@@ -98,7 +98,7 @@ This task is satisfying, clearly productive, and will save you time every day go
 
 ### Learn Your Company's Tools Better
 
-You probably use the same software every day, but are you using it well? Most tools have powerful features that go unused.
+You probably use the same software every day, but are you using it well? Most tools have powerful features that go unused. If you're on a Mac, start with our [macOS Tahoe tips and hidden features](/macos-tahoe-tricks-and-hacks/) — there are productivity shortcuts most people never discover.
 
 **Explore the hidden features of:**
 - **Slack** - Keyboard shortcuts, workflows, automations, channel organization

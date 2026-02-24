@@ -374,6 +374,8 @@ Cura's 400+ settings exist for good reason, but you don't need most of them. Foc
 
 Master these, get consistent prints, then explore advanced settings as specific problems arise.
 
+**Outgrowing Cura?** If you want built-in calibration tools and a more modern interface, check out our [OrcaSlicer guide](/orcaslicer-guide/) — it's quickly becoming the slicer of choice for power users.
+
 Now go slice something and hit print.
 
 ---

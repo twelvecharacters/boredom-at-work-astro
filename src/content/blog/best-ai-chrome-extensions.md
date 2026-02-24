@@ -1,7 +1,7 @@
 ---
-title: "12 Best AI Chrome Extensions (2026) — Actually Worth Installing"
+title: "10 Best AI Chrome Extensions (2026) — Actually Worth Installing"
 slug: "best-ai-chrome-extensions"
-description: "These 12 AI Chrome extensions actually save time. Summarize pages, write emails, research faster — I use #3 and #7 every day."
+description: "These 10 AI Chrome extensions actually save time. Summarize pages, write emails, research faster — I use #3 and #7 every day."
 publishDate: 2026-02-26
 author: "bored chap"
 image: "/images/best-ai-chrome-extensions.webp"
@@ -21,7 +21,7 @@ Your browser is where you spend most of your work day. Email, documents, researc
 
 AI Chrome extensions bring AI capabilities directly into that workflow. No switching apps, no copy-pasting — just AI assistance wherever you need it.
 
-Here are the extensions worth installing.
+Here are the 10 extensions worth installing.
 
 ## The Essential List
 
@@ -33,8 +33,7 @@ Here are the extensions worth installing.
 | **[Perplexity](https://perplexity.ai)** | Research | Free | ★★★★★ |
 | **[Grammarly](https://grammarly.com)** | Writing | Free/$12mo | ★★★★★ |
 | **[Tactiq](https://tactiq.io)** | Meeting notes | Free/$12mo | ★★★★☆ |
-| **[Glasp](https://glasp.co)** | Highlighting | Free | ★★★★☆ |
-| **Wiseone** | Article reading | Free/$10mo | ★★★★☆ |
+| **[Glasp](https://glasp.co)** | Highlighting | Free/$10mo | ★★★★☆ |
 | **[MaxAI](https://maxai.me)** | Summarization | Free/$12mo+ | ★★★★☆ |
 | **[Compose AI](https://compose.ai)** | Email writing | Free/$15mo | ★★★☆☆ |
 
@@ -228,7 +227,7 @@ See our full [Perplexity AI guide](/perplexity-ai-guide/) for more.
 
 ## Grammarly — Best for Writing
 
-**Price:** Free / $12/month Premium
+**Price:** Free / $12/month Pro
 
 You probably already know Grammarly. The Chrome extension is why.
 
@@ -260,7 +259,7 @@ Underlines errors without disrupting flow. Fix when ready.
 ### Limitations
 
 - GrammarlyGO is mediocre for generation
-- Premium required for advanced suggestions
+- Pro plan required for advanced suggestions
 - Occasionally suggests wrong "corrections"
 
 ### Verdict
@@ -318,7 +317,7 @@ See our [AI Meeting Assistants guide](/ai-meeting-assistants/) for alternatives.
 
 ## Glasp — Best for Highlighting & Learning
 
-**Price:** Free
+**Price:** Free / from ~$10/month Pro
 
 Glasp lets you highlight web content and uses AI to help you learn from it.
 
@@ -341,8 +340,8 @@ See what others highlight. Discover perspectives you might miss.
 **Export Options**
 Send highlights to Notion, Readwise, Obsidian.
 
-**Free**
-No premium tier. Everything is free.
+**Generous Free Tier**
+Core highlighting and AI summaries are free. Pro plan adds private highlights and advanced features.
 
 ### Best Uses
 
@@ -360,50 +359,6 @@ No premium tier. Everything is free.
 ### Verdict
 
 **Great for intentional reading.** If you want to retain what you read online, Glasp's highlighting + AI combination helps. Best for learners and researchers.
-
----
-
-## Wiseone — Best for Reading Articles
-
-**Price:** Free tier / $10/month Pro
-
-Wiseone enhances online reading with AI-powered explanations and context.
-
-### What It Does
-
-- Explain complex terms inline
-- Summarize articles
-- Cross-check facts
-- Provide related reading
-- Simplify dense content
-
-### Why It's Great
-
-**Inline Explanations**
-Hover over terms to get explanations without leaving the page.
-
-**Fact Checking**
-See if claims in articles are disputed or verified.
-
-**Related Content**
-Discover other perspectives on the topic you're reading.
-
-### Best Uses
-
-- Reading technical or academic content
-- News consumption with context
-- Learning new subjects
-- Verifying information
-
-### Limitations
-
-- Can be distracting with too many popups
-- Free tier is limited
-- Works better on some sites than others
-
-### Verdict
-
-**Good for deep readers.** If you regularly read complex content and want inline assistance, Wiseone helps. Casual readers might find it excessive.
 
 ---
 

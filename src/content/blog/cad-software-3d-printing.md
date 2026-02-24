@@ -159,7 +159,7 @@ If you've finished reading this and still have an hour left before your next mee
 
 - **Parametric Design:** Learn how to make models that change shape based on variables.
 - **Topology Optimization:** Research how software can "grow" the most efficient shape for a part.
-- **Slicing Software:** Look up "OrcaSlicer" or "PrusaSlicer" – this is the software that turns your CAD model into code for the printer.
+- **Slicing Software:** Check out our [OrcaSlicer guide](/orcaslicer-guide/) or "PrusaSlicer" — this is the software that turns your CAD model into code for the printer.
 - **3D Scanning:** For the truly ambitious, look at how to turn real-world objects into CAD models using just your phone.
 
 ## FAQ

@@ -332,6 +332,8 @@ Don't reuse passwords. Bitwarden is free and excellent:
 
 **Paid alternative it replaces:** 1Password ($36/year), LastPass ($36/year)
 
+**Privacy-first AI:** If you want AI assistance without sending data to the cloud, [OpenClaw](/clawdbot-openclaw-guide/) is a self-hosted AI assistant you can run on your own Mac via Docker.
+
 ### 23. LuLu (Firewall)
 
 See and control which apps access the internet:
@@ -519,4 +521,4 @@ Then add others as you need them.
 
 ---
 
-*Looking to upgrade your hardware setup? Check out our [Desk Upgrade Guide](/desk-upgrade-guide/) for keyboard, monitor, and ergonomic recommendations.*
+*Running macOS Tahoe? Don't miss our [25 macOS Tahoe tips and hidden features](/macos-tahoe-tricks-and-hacks/) to get the most out of the new Liquid Glass interface. Looking to upgrade your hardware setup? Check out our [Desk Upgrade Guide](/desk-upgrade-guide/) for keyboard, monitor, and ergonomic recommendations.*

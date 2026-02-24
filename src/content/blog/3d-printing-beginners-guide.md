@@ -26,7 +26,7 @@ In this comprehensive 3D printing beginner guide, I'll explain everything you ne
 
 ## What Is 3D Printing and How Does FDM Work?
 
-In FDM 3D printing (Fused Deposition Modeling), plastic filament is pushed through a heated nozzle and built up layer by layer into an object. Imagine drawing with a hot glue gun - only much more precise and computer-controlled.
+In FDM 3D printing (Fused Deposition Modeling), plastic filament is pushed through a heated nozzle and built up layer by layer into an object. Imagine drawing with a hot glue gun - only much more precise and computer-controlled. (Not sure if FDM is right for you? Read our [FDM vs Resin comparison](/fdm-vs-resin-printing/) to understand the key differences.)
 
 ### The Printing Process in Detail
 
@@ -225,7 +225,7 @@ A fair question for anyone interested in 3D printing:
 - **Practical:** Hooks, holders, organizers, spare parts
 - **Creative:** Figures, decorations, gifts
 - **Functional:** Prototypes, custom parts
-- **Commercial:** Etsy shop, contract work
+- **Commercial:** Etsy shop, contract work — see our guide on [selling 3D prints online](/selling-3d-prints-online/)
 
 Find a detailed cost-benefit analysis in [Is a 3D Printer Worth It?](/is-3d-printing-worth-it/).
 

@@ -178,4 +178,4 @@ Both are great choices—you just have to decide if you want to be a "maker" or 
 
 ---
 
-*Found your winner? Check out our [3D Printing Beginner Guide](/3d-printing-beginners-guide/) for your first steps, or see [what you should print first](/what-to-3d-print-first/). For all our 3D printing content, visit the [3D Printing Guide](/3d-printing-guide/).*
+*Found your winner? Check out our [3D Printing Beginner Guide](/3d-printing-beginners-guide/) for your first steps, or see [what you should print first](/what-to-3d-print-first/). Still deciding between FDM and resin technology? Read [FDM vs Resin Printing](/fdm-vs-resin-printing/). For all our 3D printing content, visit the [3D Printing Guide](/3d-printing-guide/).*

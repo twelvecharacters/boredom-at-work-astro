@@ -140,7 +140,7 @@ This is crucial for beginners building a system:
 **Nikon:** Stopped DSLR development. Z mount is the future.
 **Sony:** Never made DSLRs (Alpha mount discontinued).
 **Fujifilm:** Never made DSLRs.
-**Olympus/OM System:** Never made DSLRs.
+**Olympus/OM System:** Never made DSLRs. (Older Olympus mirrorless bodies like the [PEN E-PM2](/olympus-pen-e-pm2-guide/) remain incredible value on the used market.)
 
 All new lenses, features, and innovation are mirrorless-only. Starting with mirrorless means your system grows with the industry.
 

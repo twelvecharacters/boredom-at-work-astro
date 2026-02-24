@@ -143,7 +143,7 @@ Brings order to your spice shelf. Stackable and labelable.
 
 ## Level 4: Desk Accessories
 
-Upgrade your workspace with self-printed accessories.
+Upgrade your workspace with self-printed accessories. For even more desk-focused print ideas, check out our [10 things every new printer owner should print](/10-things-to-print-new-3d-printer/).
 
 ### 13. Pen Holder
 

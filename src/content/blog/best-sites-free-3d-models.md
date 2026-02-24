@@ -10,7 +10,7 @@ draft: false
 isListicle: true
 faq:
   - question: "What is an STL file?"
-    answer: "STL (Standard Tessellation Language) is the most common file format for 3D printing. It contains the 3D geometry of a model as a mesh of triangles. Your slicer software (like Cura) converts STL files into instructions your printer can understand."
+    answer: "STL (stereolithography) is the most common file format for 3D printing. It contains the 3D geometry of a model as a mesh of triangles. Your slicer software (like Cura) converts STL files into instructions your printer can understand."
   - question: "Are free 3D models really free to print and sell?"
     answer: "Not always. Each model has a license. 'Personal use only' means you can print for yourself but not sell. 'Creative Commons' licenses vary—some allow commercial use, others don't. Always check the license before selling prints."
   - question: "Which site has the most free 3D models?"
@@ -18,7 +18,7 @@ faq:
   - question: "Why do some STL files fail to print?"
     answer: "Common reasons: the model wasn't designed for 3D printing (bad geometry), it needs supports you didn't add, or it's too detailed for your printer's resolution. Look for models marked as 'tested' or 'print-ready' and check the comments for print settings."
   - question: "Can I modify free 3D models?"
-    answer: "Depends on the license. Most Creative Commons licenses allow modifications for personal use. If you want to sell modified versions, look for models with 'CC BY' or 'CC0' licenses. Some sites like Thangs let you remix models directly in the browser."
+    answer: "Depends on the license. Most Creative Commons licenses allow modifications for personal use. If you want to sell modified versions, look for models with 'CC BY' or 'CC0' licenses. Some sites offer customizer tools that let you tweak models in the browser."
   - question: "What's the difference between STL and 3MF files?"
     answer: "3MF is a newer format that includes more information—colors, materials, print settings, and proper units. STL only contains geometry. If a model offers both, 3MF is usually better. Most slicers support both formats."
 tldr: "Start with Printables (best quality) and Thingiverse (largest selection). Use Thangs to search across all sites at once. For specific niches: MyMiniFactory for tabletop gaming, Cults3D for artistic designs, NASA for space stuff. Always check licenses before selling prints."
@@ -43,7 +43,7 @@ Printables is run by Prusa (the printer manufacturer), and it shows. The site is
 **Why it's great:**
 - Models are often tested on real printers
 - Excellent search and filtering
-- Active contests with cash prizes (drives quality)
+- Active contests with prizes like printers and store credit (drives quality)
 - Clean, modern interface
 - Print profiles included for many models
 - Growing fast—serious competition to Thingiverse

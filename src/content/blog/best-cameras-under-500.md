@@ -264,6 +264,10 @@ The Fujifilm X-T200 stands out for its video capabilities and gorgeous color sci
 
 The best beginner DSLR ever made. Used prices make it incredible value for those who don't need mirrorless features.
 
+### Olympus PEN E-PM2 (Used) - ~$150-220
+
+A hidden gem in the Micro Four Thirds world. Tiny body, excellent sensor borrowed from pro models, and one of the best value-for-money cameras on the used market. Read our full [Olympus PEN E-PM2 guide](/olympus-pen-e-pm2-guide/) for buying tips and lens recommendations.
+
 ### Sony A6100 (Used) - ~$450-500
 
 If you find a good used A6100, it offers eye-detection autofocus that the A6000 lacks. Worth the hunt.

@@ -129,6 +129,8 @@ See our full [Perplexity AI guide](/perplexity-ai-guide/) for tips and tricks.
 
 Many power users subscribe to 2-3 of these. They complement each other well.
 
+**Want full privacy?** If you'd rather keep your AI conversations off corporate servers entirely, [OpenClaw (ClawDBot)](/clawdbot-openclaw-guide/) is a self-hosted AI assistant that runs on your own hardware and connects through WhatsApp, Telegram, or Slack.
+
 ---
 
 ## Email: Tame Your Inbox

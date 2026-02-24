@@ -62,7 +62,7 @@ Modern autofocus makes photography much easier:
 Your first camera should grow with you:
 - **Manual controls** when you're ready to learn
 - **Interchangeable lenses** for different styles
-- **RAW shooting** for advanced editing later
+- **RAW shooting** for advanced editing later (try [RapidRAW](/rapid-raw-image-editor-guide/) — a free, open-source editor that rivals Lightroom)
 - **Compatible ecosystem** of accessories
 
 ## Mirrorless vs DSLR: Which Should Beginners Choose?
