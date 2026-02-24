@@ -25,7 +25,7 @@ That's basically the pitch for prediction markets. Instead of just having opinio
 
 Two platforms dominate this space in 2026: **Polymarket** and **Kalshi**. Both let you trade on real-world events. But they work very differently under the hood — different technology, different regulation, different fee structures, and different audiences.
 
-I spent time on both platforms to see how they actually compare. Here's what I found.
+I spent time on both platforms to see how they actually compare. Here's what I found. (New to event contracts? Start with our [Prediction Markets Guide](/prediction-markets-guide/) for the full overview.)
 
 ## What Are Prediction Markets?
 

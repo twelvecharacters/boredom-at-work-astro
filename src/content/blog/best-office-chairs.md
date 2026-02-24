@@ -308,7 +308,7 @@ Once you get your chair, here's how to set it up properly.
 
 | Body Part | Correct Position |
 |-----------|------------------|
-| Feet | Flat on floor (or footrest) |
+| Feet | Flat on floor (or [footrest](/best-footrests/)) |
 | Knees | 90° angle, slightly below hips |
 | Thighs | Parallel to floor |
 | Back | Fully supported by backrest |
@@ -369,6 +369,8 @@ Whatever you choose, prioritize adjustable lumbar support and proper setup. Your
 - [Best Monitor Arms](/best-monitor-arms/) — Fix your screen height
 - [Cable Management Tips](/cable-management-tips/) — Clean up your desk
 - [Best Mechanical Keyboards for Beginners](/best-mechanical-keyboards-beginners/) — Complete the setup
+- [Best Desk Mats](/best-desk-mats/) — Protect your desk surface
+- [Best Under-Desk Footrests](/best-footrests/) — Essential if your chair is too high
 
 ---
 

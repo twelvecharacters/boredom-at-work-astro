@@ -290,8 +290,10 @@ Standing all day is just as bad as sitting all day. Movement is the goal.
 | Accessory | Why You Need It | Budget |
 |-----------|-----------------|--------|
 | **Anti-fatigue mat** | Reduces leg strain when standing | $30-60 |
+| **[Desk mat](/best-desk-mats/)** | Protects surface, improves mouse tracking | $20-50 |
 | **Monitor arm** | Frees desk space, perfect positioning | $30-100 |
 | **Cable management** | Cables need slack for desk movement | $20-40 |
+| **[Footrest](/best-footrests/)** | Supports legs when sitting at standing-height desks | $30-70 |
 
 ---
 

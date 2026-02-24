@@ -342,6 +342,7 @@ That's it. Your desk will look dramatically better, and you'll wonder why you di
 - [Best USB-C Docking Stations](/best-usb-c-docking-stations/) — One cable instead of many
 - [Best Monitor Arms](/best-monitor-arms/) — Many have built-in cable routing
 - [Best Office Chairs](/best-office-chairs/) — Complete your setup
+- [Best Desk Mats](/best-desk-mats/) — Some have built-in cable channels
 
 ---
 

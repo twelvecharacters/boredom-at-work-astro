@@ -249,7 +249,7 @@ GrabCAD is aimed at engineers and designers. Models are often CAD files (STEP, I
 
 **Best for:** Bambu Lab users, curated quality designs
 
-MakerWorld is Bambu Lab's model-sharing platform. Growing fast, with pre-configured print profiles for [Bambu printers](/best-3d-printers-beginners/).
+MakerWorld is Bambu Lab's model-sharing platform. Growing fast, with pre-configured print profiles for [Bambu printers](/best-3d-printers-under-300/).
 
 **What you'll find:**
 - Print-ready models optimized for Bambu printers

@@ -124,7 +124,7 @@ For heavy library users, this alone might tip the scales toward Kobo.
 
 If you have ebooks from various sources (Humble Bundle, DRM-free stores, etc.), Kobo handles them with less friction. Most DRM-free ebooks come in EPUB format.
 
-You can convert EPUBs for Kindle using Calibre software, but it's an extra step.
+You can convert EPUBs for Kindle using Calibre software, but it's an extra step. Alternatively, [modding your Kindle](/kindle-modding-guide/) with KOReader gives you native EPUB support without any conversion hassle.
 
 ## Hardware Comparison: Full Lineup
 

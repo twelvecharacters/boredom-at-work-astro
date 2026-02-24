@@ -212,3 +212,5 @@ A Kindle is worth it if reading is a meaningful part of your life and you'll act
 But if you're not sure, start with the free Kindle app on your phone. If you find yourself wishing you had a better reading experience, that's your answer.
 
 The best e-reader is the one you'll actually use. For many people, that's a Kindle Paperwhite. For others, it's whatever's already in their pocket.
+
+If you do buy a Kindle and want to push it further, our [Kindle modding guide](/kindle-modding-guide/) covers jailbreaking, KOReader, and getting native EPUB support without Calibre conversions.

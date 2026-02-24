@@ -385,7 +385,7 @@ ChatGPT remembers your conversation. Use follow-up questions:
 
 ### Mistake 5: Over-Relying on One Tool
 
-ChatGPT for planning, Perplexity for fact-checking, Google Maps for logistics. Use the right tool for each job.
+ChatGPT for planning, [Perplexity for fact-checking](/perplexity-travel-research/), Google Maps for logistics. Use the right tool for each job. Not sure which AI is best for your trip? We compared [Claude vs ChatGPT for travel planning](/claude-vs-chatgpt-travel-planning/) head-to-head.
 
 ---
 
@@ -410,4 +410,6 @@ You now have everything you need to plan your first AI-assisted trip. Here's whe
 - [AI Travel Planning Hub](/ai-travel-planning/) — Complete travel guide
 - [Malaysia Trip Case Study](/chatgpt-malaysia-trip-planning/) — Real example
 - [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/) — Copy-paste prompts
+- [Free AI Travel Tools](/free-ai-travel-tools/) — All free options for trip planning
+- [AI Packing List Generator](/ai-packing-list-travel-checklist/) — Let AI handle your packing
 - [AI Tools Guide](/ai-tools-guide/) — All AI tools compared

@@ -127,7 +127,7 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 
 **Price**: Free.
 
-**Our take**: Gemini's real-time knowledge is a huge advantage, but it lacks the polish of dedicated trip planners.
+**Our take**: Gemini's real-time knowledge is a huge advantage, but it lacks the polish of dedicated trip planners. **Deep dive:** [Gemini for Travel Planning](/gemini-travel-planning/) — our complete guide.
 
 ---
 
@@ -278,4 +278,7 @@ This hybrid approach gives you AI creativity plus real-world accuracy.
 - [ChatGPT Mastery Guide](/chatgpt-guide/) — Master the #1 AI assistant
 - [AI Travel Planning Hub](/ai-travel-planning/) — Complete travel guide
 - [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/) — 19 prompts that work
+- [Perplexity for Travel Research](/perplexity-travel-research/) — Real-time search for trip planning
+- [Claude vs ChatGPT for Travel](/claude-vs-chatgpt-travel-planning/) — Head-to-head comparison
+- [Free AI Travel Tools](/free-ai-travel-tools/) — All free options
 - [Perplexity AI Guide](/perplexity-ai-guide/) — Best for research

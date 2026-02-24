@@ -314,4 +314,4 @@ In a month of regular printing, you'll master projects that seem impossible toda
 
 ---
 
-*Having trouble printing? Check out our guide to the [10 most common 3D printing beginner mistakes](/3d-printing-beginner-mistakes/).*
+*Having trouble printing? Check out our guide to the [10 most common 3D printing beginner mistakes](/3d-printing-beginner-mistakes/). Not sure which filament to use? See [PLA vs PETG vs ABS](/pla-vs-petg-vs-abs/) for a full comparison. For all our 3D printing content, visit the [3D Printing Guide](/3d-printing-guide/).*

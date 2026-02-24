@@ -267,4 +267,4 @@ No matter which printer you choose - getting into 3D printing under $300 has nev
 
 ---
 
-*Still unsure? Read our detailed [Bambu A1 Mini vs Creality Ender 3 comparison](/bambu-a1-mini-vs-creality-ender-3/) for a head-to-head of the two most popular beginner printers.*
+*Still unsure? Read our detailed [Bambu A1 Mini vs Creality Ender 3 comparison](/bambu-a1-mini-vs-creality-ender-3/) for a head-to-head of the two most popular beginner printers. New to 3D printing? Start with our [beginner's guide](/3d-printing-beginners-guide/) and learn about [slicer settings](/cura-settings-beginners/). Already printing? See [PLA vs PETG vs ABS](/pla-vs-petg-vs-abs/) to choose the right filament.*
