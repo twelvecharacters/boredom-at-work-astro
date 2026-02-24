@@ -100,7 +100,7 @@ macOS doesn't have clipboard history. Maccy adds it:
 - Pin frequently used items
 - Lightweight, sits in menu bar
 
-**Install:** `brew install --cask maccy` or [maccy.app](https://maccy.app)
+**Install:** `brew install --cask maccy` or [maccy.app](https://maccy.app) (free via Homebrew/website; $9.99 on the App Store to support the developer)
 
 **Alternative:** Raycast includes clipboard history, so you may not need both.
 
@@ -114,7 +114,7 @@ Too many menu bar icons? Hidden Bar lets you hide the ones you don't need to see
 
 **Install:** `brew install --cask hiddenbar` or Mac App Store
 
-**Paid alternative it replaces:** Bartender ($25)
+**Paid alternative it replaces:** Bartender ($25 — though its 2024 acquisition by an unknown company raised trust concerns; many users switched away)
 
 ### 7. Amphetamine (Keep Mac Awake)
 
@@ -201,7 +201,7 @@ The paid Studio version adds some features, but 95% of users will never need the
 
 **Install:** `brew install --cask davinci-resolve` or [blackmagicdesign.com](https://www.blackmagicdesign.com/products/davinciresolve)
 
-**Paid alternative it replaces:** Final Cut Pro ($300), Premiere Pro ($23/mo)
+**Paid alternative it replaces:** Final Cut Pro ($300 or $12.99/mo via Apple Creator Studio), Premiere Pro ($23/mo)
 
 ### 13. Audacity (Audio Editing)
 
@@ -360,16 +360,17 @@ For when you want maximum privacy:
 
 ## Browsers
 
-### 25. Arc (Modern Browser)
+### 25. Zen Browser (Privacy-Focused Firefox Alternative)
 
-Arc reimagines how browsers work:
+A beautifully designed, open-source browser built on Firefox:
 
-- Sidebar instead of tabs
-- Spaces for organizing work/personal
-- Built-in notes and easels
-- Split view
+- Sidebar tab management (vertical tabs)
+- Workspaces for organizing projects
+- Built-in ad blocking
+- Customizable interface with "Mods"
+- Privacy-focused with Firefox's tracking protection
 
-**Install:** `brew install --cask arc` or [arc.net](https://arc.net/)
+**Install:** `brew install --cask zen-browser` or [zen-browser.app](https://zen-browser.app/)
 
 ### 26. Firefox (Privacy-Focused)
 
