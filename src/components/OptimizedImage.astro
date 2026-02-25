@@ -7,9 +7,10 @@ interface Props {
   fetchpriority?: 'high' | 'low' | 'auto';
   width?: number;
   height?: number;
+  sizes?: string;
 }
 
-const { src, alt, class: className = '', loading = 'lazy', fetchpriority, width, height } = Astro.props;
+const { src, alt, class: className = '', loading = 'lazy', fetchpriority, width, height, sizes } = Astro.props;
 
 // Convert jpg/png to webp path
 const getWebpPath = (imagePath: string): string => {
@@ -33,5 +34,6 @@ const hasWebp = !src.endsWith('.webp') && !src.endsWith('.svg');
     fetchpriority={fetchpriority}
     width={width}
     height={height}
+    sizes={sizes}
   />
 </picture>

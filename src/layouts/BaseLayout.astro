@@ -17,6 +17,8 @@ interface Props {
   updatedDate?: Date;
   tags?: string[];
   noindex?: boolean;
+  prevUrl?: string;
+  nextUrl?: string;
 }
 
 const {
@@ -28,7 +30,9 @@ const {
   publishDate,
   updatedDate,
   tags = [],
-  noindex = false
+  noindex = false,
+  prevUrl,
+  nextUrl,
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
@@ -49,6 +53,8 @@ const socialImageURL = new URL(image, Astro.site);
     <link rel="preload" href="/images/logo.webp" as="image" type="image/webp" />
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="theme-color" content="#11153b" />
     <link rel="canonical" href={canonicalURL} />
 
     {preloadHero && (
@@ -73,6 +79,11 @@ const socialImageURL = new URL(image, Astro.site);
         optional: {
           siteName: SITE.title,
           description: description,
+        },
+        image: {
+          width: 1200,
+          height: 630,
+          type: "image/webp",
         },
         article: article ? {
           publishedTime: publishDate?.toISOString(),
@@ -113,6 +124,9 @@ const socialImageURL = new URL(image, Astro.site);
     })} />
 
     <meta name="generator" content={Astro.generator} />
+
+    {prevUrl && <link rel="prev" href={new URL(prevUrl, Astro.site).toString()} />}
+    {nextUrl && <link rel="next" href={new URL(nextUrl, Astro.site).toString()} />}
 
     <!-- Critical inline CSS for above-the-fold content -->
     <style>

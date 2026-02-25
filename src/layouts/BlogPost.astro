@@ -199,6 +199,7 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
               height={630}
               loading="eager"
               fetchpriority="high"
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 85vw, 1200px"
             />
           )}
         </header>
@@ -282,7 +283,8 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
         "@type": "ImageObject",
         "url": new URL('/images/logo.webp', Astro.site).toString()
       }
-    }
+    },
+    "inLanguage": "en-US"
   })} />
 
   {faq && faq.length > 0 && <FaqSchema faqs={faq} />}
