@@ -27,9 +27,11 @@ Japan is uniquely complex:
 - **Cultural nuances abound** - Temple etiquette, dining customs, booking requirements
 - **Language barriers exist** - Outside Tokyo, English is limited
 
-AI tools excel at synthesizing this complexity into actionable plans.
+AI tools excel at synthesizing this complexity into actionable plans. If you're new to AI-assisted travel, start with our [ChatGPT trip planning tutorial](/chatgpt-trip-planning-tutorial/) for the basics.
 
 ---
+
+For more prompt templates, check out our [ChatGPT travel planning prompts](/chatgpt-travel-planning-prompts/) collection.
 
 ## Best AI Prompts for Japan Planning
 
@@ -238,6 +240,8 @@ Week 2: Kansai
 
 ---
 
+For a deeper look at AI travel pitfalls, read [AI travel planning mistakes](/ai-travel-planning-mistakes/).
+
 ## Common Mistakes AI Helps Avoid
 
 1. **Overplanning Tokyo** - It's huge; focus on neighborhoods, not "all of Tokyo"
@@ -276,6 +280,8 @@ For my potential November 2026 trip:
 3. **Perplexity** - Restaurant research with current reviews
 4. **Gemini** - Real-time availability and current conditions
 5. **Google Maps** - Save locations, build day routes
+
+For more options, see our roundup of [best AI trip planners](/best-ai-trip-planners/) and [free AI travel tools](/free-ai-travel-tools/).
 
 ---
 

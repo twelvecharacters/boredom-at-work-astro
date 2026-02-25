@@ -197,6 +197,8 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
               class="w-full rounded-xl shadow-lg"
               width={1200}
               height={630}
+              loading="eager"
+              fetchpriority="high"
             />
           )}
         </header>

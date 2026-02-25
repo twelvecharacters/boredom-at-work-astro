@@ -69,7 +69,7 @@ The long answer involves trade-offs between ease of printing, strength, flexibil
 - Prototypes and test prints
 - Cosplay props (with coating)
 - Desk organizers and household items
-- Educational projects
+- Educational projects — check out [10 things to 3D print first](/10-things-to-print-new-3d-printer/)
 - Anything that won't see heat or stress
 
 ### Recommended PLA Brands
@@ -150,7 +150,7 @@ First Layer: Print slow (20mm/s) and squish it
 - **Requires enclosure** — Warps badly without stable temperature
 - **Toxic fumes** — Needs ventilation, shouldn't breathe it
 - **Strong odor** — Smells like burning plastic
-- **High warping** — Corners lift, layers crack
+- **High warping** — Corners lift, layers crack (see [adhesion fixes](/3d-print-not-sticking-fixes/))
 - **Needs high bed temps (100°C+)** — Not all printers support this
 - **Steep learning curve** — Many failed prints before success
 
@@ -171,7 +171,7 @@ Unless you specifically need:
 - Acetone smoothing capability
 - Maximum impact strength
 
-...then PETG will serve you better with 10% of the hassle. ASA (a UV-stable ABS variant) is worth considering if you need ABS properties for outdoor use.
+...then PETG will serve you better with 10% of the hassle. ASA (a UV-stable ABS variant) is worth considering if you need ABS properties for outdoor use. For a deeper look at printing technologies, see our [FDM vs Resin comparison](/fdm-vs-resin-printing/).
 
 ---
 
@@ -214,7 +214,7 @@ Here's a secret most experienced makers know: **You only need two filaments.**
 
 That's it. This covers 95% of hobbyist use cases. You can explore specialty filaments (TPU, CF-Nylon, ASA) later when specific projects demand them.
 
-**Don't hoard filament.** It absorbs moisture and degrades. Buy what you need for current projects, store it properly, and restock as needed.
+**Don't hoard filament.** It absorbs moisture and degrades. Buy what you need for current projects, store it properly, and restock as needed. Need a printer first? Check our [best 3D printers under $300](/best-3d-printers-under-300/).
 
 ---
 

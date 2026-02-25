@@ -94,7 +94,7 @@ This is subjective:
 - **Canon:** Warm, pleasing skin tones, slightly saturated
 - **Nikon:** Neutral, accurate, excellent for landscapes
 
-Both are excellent. Most photographers can achieve their desired look with either camera through editing.
+Both are excellent. Most photographers can achieve their desired look with either camera through editing — a fast RAW editor like [RapidRAW](/rapid-raw-image-editor-guide/) makes this easy even for beginners.
 
 **Verdict:** Nikon Z50 II for image quality, especially in challenging light. Canon R100 is excellent in good lighting conditions.
 
@@ -195,7 +195,7 @@ Canon designed the R100 specifically for beginners:
 - Simple, uncluttered menus
 - Gradual transition to manual modes
 
-The R100 is genuinely educational. It helps beginners understand what settings do while they shoot.
+The R100 is genuinely educational. It helps beginners understand what settings do while they shoot. Pair it with our guide on [beginner photography mistakes to avoid](/beginner-photography-mistakes/) to accelerate your learning.
 
 ### Nikon Z50 II
 
@@ -263,7 +263,7 @@ At nearly half the price, the R100 delivers 90% of what beginners need. Its educ
 
 **For video-focused beginners: Nikon Z50 II**
 
-If you plan to create YouTube content, vlogs, or any video alongside photos, the Z50 II's vari-angle screen, 4K 30p uncropped video, subject-detection AF, and built-in stabilization justify the premium.
+If you plan to create YouTube content, vlogs, or any video alongside photos, the Z50 II's vari-angle screen, 4K 30p uncropped video, subject-detection AF, and built-in stabilization justify the premium. You'll also want a solid [webcam for video calls](/best-webcams-working-from-home/) if you work from home.
 
 **The smart move:** Try both cameras in a store. Feel them in your hands. Navigate their menus. The "right" camera is the one that feels intuitive to you. Brand loyalty matters far less than personal fit.
 

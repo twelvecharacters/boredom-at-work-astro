@@ -197,7 +197,7 @@ Prediction markets are **zero-sum** (minus fees). For every dollar someone makes
 
 ### Realistic Expectations
 
-If you follow certain topics closely — say, Federal Reserve policy or a specific election — you may genuinely have better information than the average market participant. That's where profit potential exists.
+If you follow certain topics closely — say, Federal Reserve policy or a specific election — you may genuinely have better information than the average market participant. That's where profit potential exists. Tools like [free stock screeners](/best-free-stock-screeners/) and [stock news apps](/best-stock-news-apps/) can help you stay informed on economic events.
 
 But if you're trading random events for fun, treat it like entertainment with a budget. Set aside a fixed amount (say, $50-100/month) and don't exceed it.
 
@@ -226,6 +226,8 @@ Trading prediction markets teaches you concepts that apply to all investing:
 - **Position sizing** — How much to risk on any single trade
 - **Emotional discipline** — Not chasing losses or over-betting on conviction
 - **Information edge** — Understanding what you know vs. what the market knows
+
+If you're new to investing concepts, our [best free investing courses](/best-free-investing-courses/) cover the fundamentals that also apply to prediction markets.
 
 These are also skills that make you a sharper thinker at work. If you're using slow afternoons to follow prediction markets, you're in good company — check out [25 productive things to do when bored at work](/productive-things-bored-at-work/) for more ideas.
 
@@ -283,7 +285,7 @@ Prediction market profits are taxable in the US. The exact treatment is still ev
 - You have disposable income you can afford to lose
 - You follow news and events closely enough to form independent opinions
 - You treat it as a learning experience, not a get-rich strategy
-- You've already established a core investment portfolio (index funds, retirement accounts)
+- You've already established a core investment portfolio (index funds, retirement accounts) — see our [best investing apps for beginners](/best-investing-apps-beginners/) if you haven't started yet
 
 **No, if:**
 - You're still building an emergency fund

@@ -200,6 +200,8 @@ Full Auto mode prevents disasters but also prevents growth. You can't learn phot
 **Month 3:** Shutter Priority (S/Tv) for motion control
 **Month 4+:** Manual when needed
 
+Not sure which camera to learn on? Our [Canon R100 vs Nikon Z50 II comparison](/canon-r100-vs-nikon-z50/) covers the best beginner options.
+
 ### The Fix
 
 1. **Use Aperture Priority (A/Av)** for most situations
@@ -285,7 +287,7 @@ Keeping every photo creates several problems:
 
 **Second cull:** Rate remaining images 1-5 stars. Only keep 3+ stars.
 
-**Final edit:** Select only the best version of similar shots.
+**Final edit:** Select only the best version of similar shots. A fast RAW editor like [RapidRAW](/rapid-raw-image-editor-guide/) makes this process much quicker.
 
 ### Be Ruthless
 
