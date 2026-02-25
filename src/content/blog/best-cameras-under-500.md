@@ -94,6 +94,8 @@ Buying used from reputable dealers like MPB or KEH gets you:
 - Significant savings (40-50% off retail)
 - Access to higher-tier cameras
 
+Pro tip: [Japanese auction sites and proxy services](/best-japanese-products-to-import/) often have even better deals on used cameras — Japan's secondhand market is legendary for well-maintained gear.
+
 ### What You Get
 
 **Superior Build Quality:** The Z50 feels more substantial than budget cameras. Better weather resistance and a deeper grip make it comfortable for extended shooting.

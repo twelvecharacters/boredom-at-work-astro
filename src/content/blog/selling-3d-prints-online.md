@@ -182,7 +182,7 @@ Once you hit 5-10 orders a week, you'll reach a bottleneck. A single hobbyist pr
 
 ### The Expansion Roadmap:
 1. **The Second Machine:** Don't buy a different model. Buy an identical one. This means you only need one set of spare parts and one set of slicer settings. (See our [best 3D printers under $300](/best-3d-printers-under-300/) for recommendations.)
-2. **Dedicated Post-Processing Area:** Setup a station for removing supports, sanding, and packing.
+2. **Dedicated Post-Processing Area:** Setup a station for removing supports, sanding, and packing. If you're running your print business from home, a proper [desk and workspace setup](/desk-upgrade-guide/) makes a real difference during long packing sessions.
 3. **Automated Shipping:** Use thermal label printers to save time and money.
 
 ---

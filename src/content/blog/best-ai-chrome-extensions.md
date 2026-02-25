@@ -219,7 +219,7 @@ Right-click any text to ask Perplexity about it.
 
 ### Verdict
 
-**Essential for researchers.** If you do any research while browsing, Perplexity's extension is invaluable. Pairs well with a general AI extension like Sider.
+**Essential for researchers.** If you do any research while browsing, Perplexity's extension is invaluable. Pairs well with a general AI extension like Sider. Also great for [stock research and financial analysis](/chatgpt-stock-research/) alongside ChatGPT.
 
 See our full [Perplexity AI guide](/perplexity-ai-guide/) for more.
 

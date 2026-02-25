@@ -98,7 +98,7 @@ ChatGPT pioneered the category and still offers the most features:
 **Best for:**
 - Research requiring current info
 - Creating images and visuals
-- Data analysis with Code Interpreter
+- Data analysis with Code Interpreter — especially powerful for [financial research and stock analysis](/chatgpt-stock-research/)
 - Heavy web-based research tasks
 
 ### Perplexity — Best for Research

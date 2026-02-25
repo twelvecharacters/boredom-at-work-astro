@@ -292,6 +292,7 @@ Follow this simple process:
 - Family/portraits: Prioritize autofocus (Sony A6100, Canon R50)
 - Travel: Prioritize size/weight (Canon R100, Fujifilm)
 - Video/vlogging: Prioritize video features (Sony, Canon R50)
+- Video calls/streaming: A dedicated [webcam](/best-webcams-working-from-home/) is more practical than a camera
 - Landscapes: Any camera works; invest in tripod instead
 
 ### Step 3: Try Before You Buy

@@ -394,7 +394,7 @@ Raw photos need editing. Free/cheap options:
 | **[RapidRAW](/rapid-raw-image-editor-guide/)** | Desktop | Free (open-source) |
 | **Lightroom Classic** | Desktop | $10/month |
 
-Start with Lightroom Mobile—it's powerful and free for basic editing.
+Start with Lightroom Mobile—it's powerful and free for basic editing. If you're on a Mac, check out our [best free macOS software](/best-free-macos-software/) guide for more creative tools.
 
 ### Building a Portfolio
 

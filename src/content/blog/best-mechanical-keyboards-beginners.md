@@ -256,7 +256,7 @@ Most companies don't police keyboards. But if you're worried:
 
 Yes, you'll get comments. Options:
 1. Lean into it: "It's ergonomic, actually"
-2. Go stealth: Leopold and HHKB look professional
+2. Go stealth: Leopold and HHKB look professional (HHKB is a premium Japanese brand with Topre switches — [importing from Japan](/best-japanese-products-to-import/) can save you 20-30%)
 3. Ignore: Good keyboards speak for themselves
 
 **Pro tip:** A mechanical keyboard actually looks *more* professional than the crusty Dell keyboard IT gave you in 2019.

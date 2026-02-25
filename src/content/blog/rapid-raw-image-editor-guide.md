@@ -47,6 +47,8 @@ At its core, RapidRAW follows the non-destructive workflow every photographer ne
 *   **Color Grading:** A full HSL mixer and vibrance/saturation controls give you total command over your palette.
 *   **Effects and Detail:** Sharpening, noise reduction, film grain, and even a dehaze tool are built-in and hardware-accelerated.
 
+For color-critical editing work, pair RapidRAW with a [color-accurate monitor](/best-monitors-working-from-home/) and [proper desk lighting](/best-monitor-light-bars/) to ensure what you see on screen matches the final output.
+
 ---
 
 ## Local AI Integration

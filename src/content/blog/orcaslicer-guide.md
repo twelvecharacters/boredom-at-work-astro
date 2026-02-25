@@ -84,7 +84,7 @@ If you’re moving from [Cura](https://ultimaker.com/software/ultimaker-cura), y
 Getting started with OrcaSlicer is simple, and it won't interfere with your existing slicer installations.
 
 1.  **Download:** Head to the **[OrcaSlicer GitHub Releases](https://github.com/OrcaSlicer/OrcaSlicer/releases)** and download the version for your OS (Windows, Mac, or Linux).
-2.  **Run the Setup:** Since it’s community-driven, macOS users might need to right-click and "Open" to bypass security warnings the first time.
+2.  **Run the Setup:** Since it’s community-driven, macOS users might need to right-click and "Open" to bypass security warnings the first time. (See our [best free macOS software](/best-free-macos-software/) guide for more open-source tools worth installing.)
 3.  **Choose Your Printer:** OrcaSlicer comes pre-loaded with hundreds of high-quality profiles for Creality, Prusa, Voron, Bambu Lab, RatRig, Anycubic, and many more.
 4.  **Run a Calibration:** If you want to see the magic immediately, go to the "Calibration" menu at the top and run a "Flow Rate" test.
 
