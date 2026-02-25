@@ -192,6 +192,29 @@ const socialImageURL = new URL(image, Astro.site);
           window.gtag = gtag;
           gtag('js', new Date());
           gtag('config', 'GT-PL3RVFQX');
+
+          // Scroll depth tracking (25/50/75/100%)
+          var scrollMarks = [25, 50, 75, 100];
+          var firedMarks = {};
+          window.addEventListener('scroll', function() {
+            var scrollPct = Math.round(100 * (window.scrollY + window.innerHeight) / document.documentElement.scrollHeight);
+            for (var i = 0; i < scrollMarks.length; i++) {
+              if (scrollPct >= scrollMarks[i] && !firedMarks[scrollMarks[i]]) {
+                firedMarks[scrollMarks[i]] = true;
+                gtag('event', 'scroll_depth', { percent: scrollMarks[i] });
+              }
+            }
+          }, { passive: true });
+
+          // Outbound link click tracking
+          document.addEventListener('click', function(e) {
+            var link = e.target.closest('a[href]');
+            if (!link) return;
+            var href = link.getAttribute('href');
+            if (href && href.startsWith('http') && !href.includes('boredom-at-work.com')) {
+              gtag('event', 'outbound_click', { url: href });
+            }
+          });
         }
         ['scroll', 'click', 'touchstart', 'keydown'].forEach(function(evt) {
           window.addEventListener(evt, loadGA, { once: true, passive: true });

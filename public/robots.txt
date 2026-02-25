@@ -16,8 +16,10 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-# Sitemap
+# Sitemaps
 Sitemap: https://boredom-at-work.com/sitemap-index.xml
+Sitemap: https://boredom-at-work.com/sitemap-images.xml
+Sitemap: https://boredom-at-work.com/sitemap-videos.xml
 
 # IndexNow
 # Key: https://boredom-at-work.com/33eb690ddefc36d78165765c86948671.txt
