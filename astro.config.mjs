@@ -6,18 +6,22 @@ import { readdirSync, readFileSync } from 'node:fs';
 import { join, basename } from 'node:path';
 
 // Build slug → lastmod map from blog frontmatter for sitemap
+// Only includes published articles (not drafts, not future-dated)
 function getBlogDates(dir = 'src/content/blog') {
   const dateMap = new Map();
+  const now = new Date();
   function walk(d) {
     for (const entry of readdirSync(d, { withFileTypes: true })) {
       const full = join(d, entry.name);
       if (entry.isDirectory()) { walk(full); continue; }
       if (!entry.name.endsWith('.md')) continue;
       const content = readFileSync(full, 'utf-8');
+      if (/^draft:\s*true/m.test(content)) continue;
+      const publishDate = content.match(/^publishDate:\s*(\d{4}-\d{2}-\d{2})/m)?.[1];
+      if (!publishDate || new Date(publishDate) > now) continue;
       const slug = content.match(/^slug:\s*["']?(.+?)["']?\s*$/m)?.[1] || basename(entry.name, '.md');
-      const date = content.match(/^updatedDate:\s*(\d{4}-\d{2}-\d{2})/m)?.[1]
-        || content.match(/^publishDate:\s*(\d{4}-\d{2}-\d{2})/m)?.[1];
-      if (date) dateMap.set(`https://boredom-at-work.com/${slug}/`, new Date(date).toISOString());
+      const date = content.match(/^updatedDate:\s*(\d{4}-\d{2}-\d{2})/m)?.[1] || publishDate;
+      dateMap.set(`https://boredom-at-work.com/${slug}/`, new Date(date).toISOString());
     }
   }
   walk(dir);
