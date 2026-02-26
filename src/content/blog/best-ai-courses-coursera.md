@@ -305,4 +305,4 @@ AI skills compound. The sooner you start, the further ahead you'll be. See our g
 
 ---
 
-*Not sure if Coursera is right for you? Check out our [comparison of free vs paid AI courses](/free-vs-paid-ai-courses/) to find the best option.*
+*Not sure if Coursera is right for you? Check out our [comparison of free vs paid AI courses](/free-vs-paid-ai-courses/) to find the best option, or see our [complete AI learning path](/ai-learning-hub/) for a structured approach.*

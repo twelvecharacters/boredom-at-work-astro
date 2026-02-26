@@ -288,4 +288,4 @@ Start free. Pay when it makes sense. Focus on learning.
 
 ---
 
-*Ready to start? Check out our guide to the [best free AI courses you can take at work](/best-free-ai-courses/).*
+*Ready to start? Check out our guide to the [best free AI courses you can take at work](/best-free-ai-courses/), or follow our [complete AI learning path](/ai-learning-hub/) for a structured approach.*

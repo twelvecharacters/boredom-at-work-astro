@@ -321,5 +321,5 @@ That's a pretty good return on investment.
 
 ---
 
-*Ready to start? Check out our guide to [completing AI certifications in a week](/ai-certifications-in-a-week/) for a structured approach.*
+*Ready to start? Check out our guide to [completing AI certifications in a week](/ai-certifications-in-a-week/) for a structured approach, or explore the [complete AI learning path](/ai-learning-hub/) for what to learn next.*
 

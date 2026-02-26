@@ -331,4 +331,4 @@ Pick a certification. Start this weekend. Be certified by next week.
 
 ---
 
-*Ready to start? Check out our [full review of Google AI Essentials](/google-ai-essentials-review/) or browse all [free AI courses you can take at work](/best-free-ai-courses/).*
+*Ready to start? Check out our [full review of Google AI Essentials](/google-ai-essentials-review/) or browse all [free AI courses you can take at work](/best-free-ai-courses/). For a complete learning path beyond certifications, see our [AI learning hub](/ai-learning-hub/).*
