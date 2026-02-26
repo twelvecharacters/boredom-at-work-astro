@@ -480,7 +480,7 @@ Once you've proven AI's value to yourself:
 1. Document specific wins (hours saved, quality improved)
 2. Propose a small pilot project
 3. Share results with your team
-4. Become the go-to AI person
+4. Become the go-to AI person — here are the [AI skills that lead to promotions](/ai-skills-for-promotion/)
 
 Resource: [How to Use AI at Work Safely](/how-to-use-ai-at-work-safely/)
 

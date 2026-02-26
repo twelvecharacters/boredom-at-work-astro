@@ -480,10 +480,10 @@ Roughly estimate time saved. When you can say "I save 5 hours/week with these to
 
 ## What About Microsoft Copilot?
 
-Copilot deserves its own article (coming soon). Quick summary:
+Copilot deserves a deep dive — see our [Copilot in Word tutorial](/copilot-word-tutorial/). Quick summary:
 
 - Integrates directly into Microsoft 365
-- Works in Word, Excel, PowerPoint, Outlook, Teams
+- Works in [Word](/copilot-word-tutorial/), Excel, PowerPoint, Outlook, Teams
 - Requires Microsoft 365 Business Standard (~$12.50/user/month)
 - Plus Copilot add-on (~$18/user/month)
 
@@ -512,7 +512,7 @@ Some managers love AI adoption. Others feel threatened by it. Read the room. If 
 
 **Future-Proofing Yourself**
 
-The uncomfortable truth: companies will expect AI fluency soon. Learning now, while it's optional, puts you ahead of the curve.
+The uncomfortable truth: companies will expect AI fluency soon. Learning now, while it's optional, puts you ahead of the curve. Here are the [AI skills that actually get you promoted](/ai-skills-for-promotion/).
 
 ## The Bottom Line
 

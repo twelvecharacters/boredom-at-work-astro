@@ -278,7 +278,7 @@ Once you have your gear, set it up correctly:
 - [ ] Centered in front of you
 
 ### Desk Setup
-- [ ] Keyboard at elbow height when typing
+- [ ] Keyboard at elbow height when typing (upgrading? See our [mechanical keyboard guide](/best-mechanical-keyboards-beginners/))
 - [ ] Mouse at same level as keyboard
 - [ ] Frequently used items within arm's reach
 - [ ] Standing height: elbows at 90° while typing

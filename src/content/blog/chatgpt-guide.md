@@ -460,7 +460,7 @@ ChatGPT isn't the only option. Here's how it compares:
 | Free tier | Good | Basic |
 | Cost | $20/mo | $30/mo (365 included) |
 
-**The take:** Copilot if you live in Microsoft 365; ChatGPT for everything else.
+**The take:** Copilot if you live in Microsoft 365; ChatGPT for everything else. See our [Copilot in Word tutorial](/copilot-word-tutorial/) for a step-by-step walkthrough.
 
 **Deep dive:** [Microsoft Copilot Review](/microsoft-copilot-review/)
 

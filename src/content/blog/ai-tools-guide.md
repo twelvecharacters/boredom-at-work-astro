@@ -389,7 +389,7 @@ Before going AI-crazy at work, understand the risks.
 
 ## Part 5: Learning AI Skills
 
-Want to go deeper? Here's your roadmap.
+Want to go deeper? Here's your roadmap. If you're focused on career growth, see which [AI skills actually get you promoted](/ai-skills-for-promotion/).
 
 ### Beginner Path
 
