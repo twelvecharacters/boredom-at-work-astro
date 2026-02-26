@@ -8,6 +8,10 @@ author: "bored chap"
 image: "/images/chatgpt-guide.webp"
 tags: ["ChatGPT", "AI", "Productivity", "OpenAI", "Hub Page"]
 draft: false
+video:
+  youtubeId: "0YHgavdF_3E"
+  title: "ChatGPT Guide 2026: Beginner to Power User"
+  description: "Complete ChatGPT tutorial — from first prompt to power user workflows. Covers prompting, Custom Instructions, plugins, and real productivity tricks."
 faq:
   - question: "Is ChatGPT still free in 2026?"
     answer: "Yes, ChatGPT has a generous free tier including GPT-4o (the latest model), voice conversations, file uploads, and DALL-E image generation. Free users get limited messages during peak hours. ChatGPT Plus ($20/month) removes limits and gives priority access to new features."
@@ -30,6 +34,19 @@ ChatGPT changed everything. Two years after launch, it's still the most-used AI 
 But most people barely scratch the surface. They type a question, get an answer, and move on. That's like using a smartphone only for calls.
 
 This guide is your complete ChatGPT education. Whether you're brand new or already using it daily, you'll find something here to level up your game.
+
+## Watch the Video Version
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 2rem;">
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/0YHgavdF_3E"
+    title="ChatGPT Guide 2026: Beginner to Power User"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 

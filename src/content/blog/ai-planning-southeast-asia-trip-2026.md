@@ -42,6 +42,37 @@ I genuinely don't know which to choose yet. Let's let AI help decide.
 
 ---
 
+## AI Tools I'm Using
+
+Here's the full toolkit for this planning process:
+
+| Tool | Role | Cost |
+|------|------|------|
+| **[ChatGPT](/chatgpt-guide/)** | Destination comparison, itinerary drafting, decision frameworks | $20/mo (Plus) |
+| **[Claude](/claude-vs-chatgpt/)** | Deep research, weighing trade-offs, writing packing lists | Free tier |
+| **[Perplexity](/perplexity-ai-guide/)** | Current conditions, traveler reviews, real-time info | Free |
+| **Custom Flight Agent** | Daily price monitoring across routes | Self-hosted ([build guide](/build-ai-flight-search-agent/)) |
+| **Google Flights** | Cross-referencing AI flight suggestions | Free |
+| **Wanderlog** | Visual itinerary mapping | Free tier |
+
+The combination of multiple AI tools is key. No single tool gets everything right — ChatGPT is great at big-picture planning, Perplexity excels at current, sourced information, and Claude is best for nuanced comparisons when I need to weigh competing priorities.
+
+---
+
+## Visa Requirements (AI-Researched)
+
+Before diving into itineraries, I asked Perplexity to check visa requirements for German passport holders:
+
+| Destination | Visa Required? | Duration | Cost |
+|-------------|---------------|----------|------|
+| **Japan** | No (visa-free) | Up to 90 days | Free |
+| **Vietnam** | E-visa required | 90 days single/multiple | ~$25 |
+| **Cambodia** | Visa on arrival or e-visa | 30 days | ~$36 |
+
+Japan is easiest — just show up. Vietnam's e-visa process takes 3 business days online. Cambodia offers visa on arrival at airports, but the e-visa avoids queues.
+
+---
+
 ## Phase 1: Initial Research (Current)
 
 ### What I Asked the AI Tools

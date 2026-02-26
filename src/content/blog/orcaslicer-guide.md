@@ -79,6 +79,36 @@ If you’re moving from [Cura](https://ultimaker.com/software/ultimaker-cura), y
 
 ---
 
+## Tips for Specific Printers
+
+OrcaSlicer shines with its printer-specific profiles, but here are some extra tips based on popular models:
+
+### Bambu Lab (A1 Mini, P1S, X1C)
+OrcaSlicer was literally born from Bambu Studio, so compatibility is excellent. You get native LAN-mode printing, AMS filament management, and live camera monitoring. Many Bambu users prefer OrcaSlicer over the official studio for its extra calibration tools. See our [Bambu A1 Mini vs Creality Ender 3](/bambu-a1-mini-vs-creality-ender-3/) comparison for more on these printers.
+
+### Creality (Ender 3 V3, K1, K1 Max)
+For stock Creality printers, load the matching profile and you're good to go. If you've installed Klipper on an older Ender 3, switch to a Klipper-specific profile to unlock features like pressure advance and input shaping directly from OrcaSlicer.
+
+### Prusa (MK4, Mini+)
+PrusaSlicer profiles import cleanly into OrcaSlicer. Your filament and print settings carry over, so the transition is painless. The main benefit: OrcaSlicer's calibration suite replaces the manual test-print workflow that PrusaSlicer requires.
+
+### Voron and Other Klipper Machines
+This is where OrcaSlicer really excels. Native Klipper support means you can send print jobs directly to your printer via Moonraker, use G2/G3 arc commands for smoother curves, and manage pressure advance per-filament.
+
+---
+
+## Common Issues and Fixes
+
+| Problem | Solution |
+|---------|----------|
+| **Slicer crashes on launch (macOS)** | Right-click → Open to bypass Gatekeeper, or allow in Security settings |
+| **Printer not detected** | Check IP address, enable LAN mode on Bambu printers, or verify Moonraker URL for Klipper |
+| **Profiles missing after update** | OrcaSlicer stores profiles separately — re-select your printer in settings after major updates |
+| **Slow slicing on large models** | Enable "Use GPU for slicing preview" in preferences; close other GPU-heavy apps |
+| **Inconsistent first layers** | Run the built-in "Flow Rate" and "First Layer" calibration tests before tuning manually |
+
+---
+
 ## How to Get Started
 
 Getting started with OrcaSlicer is simple, and it won't interfere with your existing slicer installations.

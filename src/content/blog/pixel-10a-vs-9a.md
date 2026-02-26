@@ -72,6 +72,37 @@ Rumors point to even thinner bezels on the Pixel 10a, giving it a more premium "
 
 ---
 
+## Camera: What Actually Matters
+
+On paper, both phones share a 48MP main sensor. But the real story is in the processing.
+
+### Night Photography
+The Pixel 9a already takes excellent low-light photos thanks to Google's Night Sight. The 10a is expected to improve this with **longer handheld exposures** and better noise reduction from the optimized Tensor G4 — meaning cleaner shots in near-darkness without a tripod.
+
+### Video Improvements
+The Pixel 10a is rumored to support **4K 60fps** recording with improved stabilization. The 9a maxes out at 4K 30fps, which is fine for casual use but limiting if you shoot action or travel content.
+
+### Magic Editor and Photo Unblur
+Both phones get Google's full AI photo suite, but the 10a will launch with **Magic Editor 2.0**, which adds object relocation (move subjects around in the frame) and background generation. These features might roll out to the 9a eventually, but the 10a gets them day one.
+
+For a deeper dive into phone vs dedicated camera quality, check our [camera vs smartphone](/camera-vs-smartphone/) comparison.
+
+---
+
+## Software and Updates
+
+Both the Pixel 9a and 10a come with Google's **7-year update promise** — that's OS upgrades and security patches through 2032 and 2033, respectively.
+
+The key difference: the 10a ships with **Android 16** out of the box, which includes:
+- **Desktop windowing mode** for larger displays
+- **Health Connect** improvements for fitness tracking
+- **Theft Detection Lock** using AI-powered motion sensing
+- **Private Space** for hiding sensitive apps behind biometric authentication
+
+The 9a will get Android 16 via update, but some Pixel-exclusive features may arrive on the 10a first.
+
+---
+
 ## Gemini and AI Features
 
 Both phones are AI-first devices. However, the Pixel 10a is expected to launch with several new **Gemini** tricks exclusive to the 2026 lineup, including enhanced real-time translation and a more deeply integrated Magic Editor 2.0. While some of these might trickle down to the 9a, the 10a will be the primary showcase for Google's latest software innovations.

@@ -27,6 +27,35 @@ Enter **RapidRAW**—a fresh, ambitious project that aims to bridge the gap betw
 
 ---
 
+## System Requirements
+
+RapidRAW is lightweight compared to Lightroom, but its GPU-accelerated pipeline does require a decent graphics card. Here's what you need:
+
+| Component | Minimum | Recommended |
+|-----------|---------|-------------|
+| **OS** | Windows 10 / macOS 12 / Linux | Latest version |
+| **GPU** | Any Vulkan-compatible card | Dedicated GPU (NVIDIA GTX 1060+ / AMD RX 580+) |
+| **RAM** | 8 GB | 16 GB |
+| **Storage** | 500 MB for app | SSD recommended for RAW library |
+| **Display** | 1080p | Calibrated 1440p+ for color-critical work |
+
+Integrated Intel/AMD graphics will work for basic edits, but you'll see the real speed advantage with a dedicated GPU. The WGSL shaders really shine when processing 40-50 megapixel RAW files from modern cameras.
+
+---
+
+## How to Install RapidRAW
+
+Getting started takes under five minutes:
+
+1. **Download** the latest release from [getrapidraw.com](https://getrapidraw.com) for your platform
+2. **macOS users:** Right-click the app and select "Open" to bypass Gatekeeper on first launch (see our [macOS tips](/best-free-macos-software/) for more on this)
+3. **Import your photos:** Point RapidRAW to your RAW folder — it supports CR3, NEF, ARW, RAF, ORF, DNG, and most major RAW formats
+4. **Start editing:** Adjustments are instant thanks to GPU acceleration
+
+No account creation. No subscription activation. Just open and edit.
+
+---
+
 ## Built for Speed: Rust and GPU Power
 
 The most impressive thing about RapidRAW isn't just its feature set—it's how it's built. Developed by Timon Käch, the application utilizes a modern tech stack designed for the 2020s:
@@ -57,17 +86,49 @@ In a unique move, RapidRAW also allows for integration with a local **ComfyUI** 
 
 ---
 
+## RapidRAW vs. Other Free Editors
+
+How does RapidRAW stack up against other free options?
+
+| Feature | RapidRAW | Darktable | RawTherapee | Lightroom |
+|---------|----------|-----------|-------------|-----------|
+| **Price** | Free (AGPL-3.0) | Free (GPL) | Free (GPL) | ~$10/mo |
+| **GPU Acceleration** | Full pipeline | Partial (OpenCL) | None | Yes |
+| **AI Masking** | Local AI | No | No | Cloud AI |
+| **Non-Destructive** | Yes | Yes | Yes | Yes |
+| **Learning Curve** | Low | High | Very High | Low |
+| **RAW Format Support** | Good (growing) | Excellent | Excellent | Excellent |
+| **LUT Support** | Yes | Yes | Yes | Limited |
+| **Preset Ecosystem** | Growing | Large | Large | Massive |
+
+**Key takeaway:** Darktable and RawTherapee have more mature RAW format support and larger preset libraries. But RapidRAW’s speed advantage is immediately noticeable — culling through 200 photos from a shoot feels effortless compared to the lag you get in Darktable.
+
+---
+
 ## Why Switch?
 
-RapidRAW is still in early development, but it's already showing massive potential. It’s perfect for:
+RapidRAW is still in early development, but it’s already showing massive potential. It’s perfect for:
 *   **Hobbyist Photographers:** Who want a modern, fast interface without the Adobe tax.
 *   **Open-Source Enthusiasts:** Who value privacy and community-driven software.
 *   **Speed Demons:** Who are tired of wait times when scrolling through a large library of RAW files.
 
 ---
 
+## Current Limitations
+
+RapidRAW is still early in development, so it’s worth knowing what’s missing:
+
+- **No catalog management** — it’s a pure editor, not a photo organizer like Lightroom. You’ll need a separate tool (or just your file system) to manage your library.
+- **Plugin ecosystem doesn’t exist yet** — no third-party extensions or marketplace
+- **RAW format support is growing** but may not cover every obscure camera model. Check the [compatibility list](https://getrapidraw.com) before committing.
+- **No mobile version** — desktop only for now
+
+These are expected for a young project, and the active development pace means gaps are closing fast.
+
+---
+
 ## Final Thoughts: A New Era for Open-Source Photography
 
-RapidRAW isn't just another fork of an old tool. It’s a ground-up reimagining of what a photo editor should be in the age of GPUs and AI. While it may not yet have every single feature of Lightroom, its performance and modern architecture make it one of the most exciting projects in the photography space today.
+RapidRAW isn’t just another fork of an old tool. It’s a ground-up reimagining of what a photo editor should be in the age of GPUs and AI. While it may not yet have every single feature of Lightroom, its performance and modern architecture make it one of the most exciting projects in the photography space today.
 
 For more photography tips and gear recommendations, see our [photography guide](/photography-guide/) and [camera vs smartphone](/camera-vs-smartphone/) comparison.

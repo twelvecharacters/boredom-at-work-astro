@@ -65,6 +65,62 @@ The real power of OpenClaw comes from its integrations. You don't need a new app
 
 ---
 
+## Hardware Requirements
+
+OpenClaw is designed to run on modest hardware. Here's what you need:
+
+| Component | Minimum | Recommended |
+|-----------|---------|-------------|
+| **CPU** | 2-core x86_64 or ARM | 4-core+ |
+| **RAM** | 4 GB | 8 GB+ |
+| **Storage** | 10 GB (for Docker images) | SSD recommended |
+| **Network** | Stable internet (for LLM API calls) | Gigabit + static IP |
+| **OS** | Any Docker-compatible OS | Ubuntu 22.04+ / Debian |
+
+A **Raspberry Pi 5** (8 GB) can handle OpenClaw for single-user setups. For multi-user deployments or heavy automation, a mini PC or old laptop running Linux works well.
+
+---
+
+## Quick Setup with Docker
+
+The fastest way to get OpenClaw running:
+
+```bash
+# Clone the repository
+git clone https://github.com/openclaw/openclaw.git
+cd openclaw
+
+# Copy the example environment file
+cp .env.example .env
+
+# Add your LLM API key (Anthropic or OpenAI)
+# Edit .env and set ANTHROPIC_API_KEY or OPENAI_API_KEY
+
+# Start everything
+docker compose up -d
+```
+
+After startup, connect your messaging app of choice. WhatsApp requires scanning a QR code (similar to WhatsApp Web). Telegram just needs a bot token from BotFather.
+
+The entire setup takes about 15 minutes if you're comfortable with Docker. If Docker is new to you, the [OpenClaw docs](https://github.com/openclaw/openclaw) include step-by-step guides for each platform.
+
+---
+
+## OpenClaw vs. Other Self-Hosted AI Tools
+
+| Feature | OpenClaw | Open WebUI | LibreChat |
+|---------|----------|------------|-----------|
+| **Messaging Integration** | WhatsApp, Telegram, Slack, etc. | Browser only | Browser only |
+| **Long-Term Memory** | Built-in | Limited | No |
+| **System Access** | Terminal, files, automation | No | No |
+| **Always-On** | Yes (Gateway) | Yes | Yes |
+| **Local LLM Support** | Via Ollama | Via Ollama | Via Ollama |
+| **Multi-User** | Yes | Yes | Yes |
+
+The key differentiator is messaging integration. Open WebUI and LibreChat are great browser-based chat interfaces, but OpenClaw meets you where you already are — your phone's messaging app.
+
+---
+
 ## Getting Started: The OpenClaw Ecosystem
 
 OpenClaw is currently in active development and thrives in the "Prosumer" and Developer niche. It is perfect for:
