@@ -220,6 +220,10 @@ faq:
    - Zeigt danach verbleibende Warnings — manuell prüfen
    - Bei Errors: sofort fixen bevor committed wird
 
+8. **Interne Verlinkung:** Verlinke primär auf Artikel, die bereits veröffentlicht sind.
+   - Das Remark-Plugin in `astro.config.mjs` deaktiviert Links zu unveröffentlichten Artikeln (Drafts/Zukunft) im Build automatisch (sie werden als Text gerendert).
+   - Vermeide es dennoch aktiv, auf weit in der Zukunft liegende Artikel zu verlinken, um Sackgassen für den Leser zu vermeiden.
+
 ### Fact-Checking-Prozess (PFLICHT!)
 
 **Vor dem Schreiben:** Offizielle Quellen identifizieren, aktuelle Preise mit Datum
