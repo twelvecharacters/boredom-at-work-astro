@@ -8,6 +8,13 @@ tags: ["Productivity", "Career Growth", "Work Tips"]
 image: "/images/productive-work.webp"
 draft: false
 isListicle: true
+faq:
+  - question: "What should I do when I'm bored at work?"
+    answer: "The most valuable use of work downtime is learning skills that advance your career. Learning AI tools, taking free online courses, building a professional network, or working on side projects are all productive options. The key is choosing activities that look professional if someone glances at your screen and that genuinely add value to your career long-term."
+  - question: "Is it OK to learn new skills during work hours?"
+    answer: "Most employers encourage professional development, especially for skills relevant to your role. AI literacy, data analysis, and communication skills are all clearly work-relevant. Many companies even have formal learning budgets or encourage platforms like Coursera, LinkedIn Learning, or Khan Academy. If you're unsure, frame it as professional development and check your company's policy."
+  - question: "How can I be productive at work when there's nothing to do?"
+    answer: "Use quiet periods to invest in yourself: learn AI tools, organize your workflows, build templates for recurring tasks, network with colleagues in other departments, or take an online course. These activities are genuinely productive, look professional, and compound over time. Even 30 minutes a day of skill-building during downtime adds up to 125+ hours per year."
 ---
 
 We've all been there. The afternoon slump hits, your to-do list is clear, or you're stuck waiting for someone else before you can move forward. Instead of mindlessly scrolling through social media or watching the clock, why not turn that downtime into something valuable?

@@ -8,6 +8,13 @@ tags: ["Coursera", "AI Courses", "Online Learning"]
 image: "/images/coursera-courses.webp"
 draft: false
 isListicle: true
+faq:
+  - question: "Which Coursera AI course should I take first as a beginner?"
+    answer: "Google AI Essentials is the best starting point. It's designed for complete beginners, takes about 10 hours, and the Google certificate carries strong recognition with employers. If you want something more academic, Andrew Ng's AI For Everyone is excellent for understanding AI concepts without any coding."
+  - question: "Are Coursera AI certificates recognized by employers?"
+    answer: "Certificates from Google, IBM, and DeepLearning.AI carry real weight with employers. Google AI Essentials in particular is recognized across industries. Note that Coursera now uses a preview model — you can access the first module free, but certificates and full access require payment (typically $49-79 per course or Coursera Plus at $59/month)."
+  - question: "How much do Coursera AI courses cost?"
+    answer: "You can preview the first module of most courses for free. Full access and certificates cost $49-79 per individual course. Coursera Plus ($59/month or $399/year) gives unlimited access to most courses including certificates. For casual learners, paying per course is cheaper. For serious learners planning to take 3+ courses, Coursera Plus is the better deal."
 ---
 
 Coursera has over 500 AI-related courses. Machine learning fundamentals, generative AI applications, prompt engineering, AI for business—the options are overwhelming.

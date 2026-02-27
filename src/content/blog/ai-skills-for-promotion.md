@@ -7,6 +7,13 @@ author: "bored chap"
 tags: ["Career Development", "AI Skills", "Promotion"]
 image: "/images/ai-skills-promotion.webp"
 draft: false
+faq:
+  - question: "What AI skills should I learn to get promoted?"
+    answer: "Focus on three areas: prompt engineering (getting better outputs from AI tools), AI-assisted workflow design (identifying which tasks benefit most from AI), and data-informed decision making (using AI to analyze information faster). These skills are valued across every department because they directly increase your output and make you more efficient."
+  - question: "How long does it take to learn useful AI skills?"
+    answer: "You can learn the fundamentals in 2-4 weeks of casual study during work downtime. Prompt engineering takes an afternoon to learn the basics. Building real workflow automation skills takes 1-2 months of practice. The key is applying what you learn immediately — use AI tools for actual work tasks, not just tutorials."
+  - question: "Will learning AI skills actually help my career?"
+    answer: "LinkedIn's 2025 workforce data shows AI literacy is the most in-demand skill across industries. Employees who demonstrate AI proficiency are 2-3x more likely to be considered for leadership roles, because they can do more with less and help their teams adopt new tools. The ROI on learning AI skills is among the highest of any professional development investment."
 ---
 
 AI isn't replacing jobs. It's changing who gets promoted.

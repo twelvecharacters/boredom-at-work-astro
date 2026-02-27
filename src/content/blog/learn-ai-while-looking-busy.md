@@ -7,6 +7,13 @@ author: "bored chap"
 tags: ["AI Learning", "Productivity", "Career Tips", "Tutorial"]
 image: "/images/looking-busy.webp"
 draft: false
+faq:
+  - question: "Can I learn AI during work hours without getting in trouble?"
+    answer: "Yes, if you're strategic about it. Most companies encourage professional development, and AI literacy is directly work-relevant. Use text-based platforms (no headphones needed), keep a work tab ready to switch to, and frame it as professional development if anyone asks. Many employers actively want their teams to learn AI — you might even get praised for the initiative."
+  - question: "What's the fastest way to learn AI at work?"
+    answer: "Start with prompt engineering — it's immediately useful and takes one afternoon to learn the basics. Then pick one AI tool (ChatGPT, Claude, or Copilot) and use it for actual work tasks every day. Pair this with 20-30 minutes of structured learning during lunch breaks. Most people see real productivity gains within 2 weeks of consistent practice."
+  - question: "What AI skills can I learn without a technical background?"
+    answer: "Prompt engineering, AI-assisted writing, data analysis with AI tools, and AI workflow design all require zero coding knowledge. These are the most in-demand AI skills for non-technical professionals. Start with ChatGPT or Claude for everyday tasks, then explore specialized tools for your field — like AI for spreadsheets, presentations, or email."
 ---
 
 Let's be honest: most jobs have downtime. There's the post-lunch slump, the waiting-for-feedback limbo, the Friday afternoon coast. You could scroll social media. You could stare at the wall. Or you could do something that actually advances your career.
