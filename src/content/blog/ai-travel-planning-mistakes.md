@@ -1,7 +1,7 @@
 ---
 title: "9 AI Travel Planning Mistakes That Ruin Trips (And How to Avoid Them)"
 description: "AI travel planning can go wrong. Learn the most common mistakes travelers make with ChatGPT and other AI tools, and how to get better results."
-publishDate: 2026-03-29
+publishDate: 2026-03-09
 author: "bored chap"
 image: "/images/ai-travel-mistakes.webp"
 tags: ["AI", "Travel", "ChatGPT", "Tips"]

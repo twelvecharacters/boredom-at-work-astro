@@ -2,7 +2,7 @@
 title: "Photography for Beginners: The Complete Guide (2026)"
 slug: "photography-guide"
 description: "Your complete guide to photography—from choosing your first camera to taking better photos. Everything beginners need to start their photography journey."
-publishDate: 2026-03-06
+publishDate: 2026-03-01
 updatedDate: 2026-03-06
 author: "bored chap"
 image: "/images/photography-guide.webp"

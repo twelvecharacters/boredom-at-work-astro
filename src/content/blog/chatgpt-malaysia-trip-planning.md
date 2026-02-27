@@ -1,7 +1,7 @@
 ---
 title: "How I Planned My 2-Week Malaysia Trip with ChatGPT (What Worked & What Didn't)"
 description: "A real trip planned with AI. I share what ChatGPT got right, what it missed, and how it helped us find gluten-free food across Malaysia."
-publishDate: 2026-03-22
+publishDate: 2026-03-07
 author: "bored chap"
 image: "/images/chatgpt-malaysia-trip.webp"
 tags: ["AI", "Travel", "ChatGPT", "Malaysia"]

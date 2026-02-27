@@ -2,8 +2,8 @@
 title: "AI for Email Writing: Templates, Tools & Prompts That Work"
 slug: "ai-email-writing"
 description: "Write better emails faster with AI. Templates, prompts, and tools for every situation—from cold outreach to difficult conversations."
-publishDate: 2026-03-16
-updatedDate: 2026-03-16
+publishDate: 2026-03-06
+updatedDate: 2026-03-06
 author: "bored chap"
 image: "/images/ai-email-writing.webp"
 tags: ["AI", "Email", "Productivity", "Writing", "ChatGPT"]
