@@ -17,7 +17,7 @@ faq:
 
 AI travel planning tools are incredible—until they send you to a restaurant that closed two years ago, schedule a "quick 10-minute walk" that takes 45 minutes in tropical heat, or pack your days so full you need a vacation from your vacation.
 
-Here are the 7 most common mistakes and how to avoid them.
+Here are the 9 most common mistakes and how to avoid them.
 
 ## Mistake #1: Trusting AI Travel Times
 

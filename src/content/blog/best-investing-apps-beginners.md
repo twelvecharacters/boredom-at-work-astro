@@ -105,7 +105,7 @@ The interface is the cleanest in the industry. Period. Where other apps bombard 
 
 Fractional shares start at $1, so you can own a piece of Amazon or Tesla without needing hundreds of dollars. The IRA offering includes a match — Gold members get a 3% boost on annual IRA contributions (up to ~$225 based on 2026 limits), which is essentially free money.
 
-Robinhood Gold ($5/month or $50/year) adds Morningstar research reports, 3.35% APY on uninvested cash (as of February 2026), Level II market data, and discounted options commissions.
+Robinhood Gold ($5/month or $60/year) adds Morningstar research reports, 3.35% APY on uninvested cash (as of February 2026), Level II market data, and discounted options commissions.
 
 ### What's Missing
 
@@ -187,7 +187,7 @@ The charting tools are surprisingly powerful for a free app. You get dozens of t
 
 Webull's [paper trading feature](/best-paper-trading-apps/) is one of the best available. You get unlimited virtual cash with real-time market data, which lets you practice strategies without risking a dime. I've recommended it as a starting point for anyone curious about active trading.
 
-The platform also offers commission-free options trading (a $0.55 fee applies to non-equity options), futures, and crypto, giving you plenty of room to explore as your knowledge grows.
+The platform also offers commission-free options trading (a $0.50 fee applies to index options), futures, and crypto, giving you plenty of room to explore as your knowledge grows.
 
 ### What's Missing
 

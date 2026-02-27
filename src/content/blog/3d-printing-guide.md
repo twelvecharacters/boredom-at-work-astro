@@ -3,7 +3,6 @@ title: "The Ultimate Guide to 3D Printing (2026)"
 slug: "3d-printing-guide"
 description: "Your complete guide to 3D printing—from choosing your first printer to selling your prints. Everything beginners need to start their 3D printing journey."
 publishDate: 2026-02-28
-updatedDate: 2026-02-28
 author: "bored chap"
 image: "/images/3d-printing-guide.webp"
 tags: ["3D Printing", "Beginners", "Guide", "Hub Page"]

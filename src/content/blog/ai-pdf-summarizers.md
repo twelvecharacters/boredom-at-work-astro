@@ -3,7 +3,6 @@ title: "Best AI PDF Summarizers (2026): Chat With Your Documents"
 slug: "ai-pdf-summarizers"
 description: "The best AI tools for summarizing PDFs and long documents. Upload a 100-page report, get key insights in seconds. Free and paid options compared."
 publishDate: 2026-03-07
-updatedDate: 2026-03-07
 author: "bored chap"
 image: "/images/ai-pdf-summarizers.webp"
 tags: ["AI", "PDF", "Productivity", "Tools", "Research"]
@@ -38,7 +37,7 @@ Here's a breakdown of the best tools, what they're actually good at, and which o
 | **ChatGPT** | General use | Good | $20/mo | 128K tokens |
 | **Claude** | Long documents | Good | $20/mo | 200K tokens |
 | **NotebookLM** | Research, multiple docs | Excellent | Free | Large |
-| **ChatPDF** | PDF-focused workflow | Limited | $10/mo | 50MB files |
+| **ChatPDF** | PDF-focused workflow | Limited | $6.99/mo | 50MB files |
 | **Humata** | Teams, heavy use | Limited | $9.99/mo | Unlimited |
 | **Gemini** | Google users | Excellent | $20/mo | 1M+ tokens |
 
@@ -204,7 +203,7 @@ ChatPDF does one thing: chat with PDFs. It does it well.
 
 ## 5. Humata — Best for Heavy Users
 
-**Price:** Free (limited) / $15/mo  
+**Price:** Free (limited) / $9.99/mo  
 **Website:** [humata.ai](https://humata.ai)
 
 Humata is built for people who process a lot of documents regularly.

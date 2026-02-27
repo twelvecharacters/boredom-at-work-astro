@@ -14,7 +14,7 @@ faq:
   - question: "Which free investing course should I take first as a complete beginner?"
     answer: "Start with Khan Academy's Personal Finance course. It's completely free, self-paced, covers the absolute basics (what stocks and bonds are, how compound interest works), and requires zero prior knowledge. Once you finish the investing unit, move to Yale's Financial Markets course for deeper market understanding."
   - question: "Do free investing courses on Coursera give you a certificate?"
-    answer: "Coursera lets you audit most investing courses for free, meaning you get full access to video lectures and readings. However, you need to pay (typically $49-79 per course) to earn a certificate and access graded assignments. Khan Academy and Morningstar are 100% free with no paid tier at all."
+    answer: "Coursera now uses a 'preview mode' that gives free access to the first module of most courses. Full access requires Coursera Plus ($59/month or $399/year) or individual course purchase (~$49-79). However, Khan Academy and Morningstar are 100% free with no paid tier. Some Coursera courses still offer broader free access — check the enrollment page for specifics."
 ---
 
 > **Disclaimer:** This article is about educational resources for learning investment concepts. Nothing here is financial advice. I'm a guy who writes about being bored at work, not a financial advisor. Always do your own research and consider consulting a qualified professional before making investment decisions.
@@ -33,20 +33,20 @@ Already learning other skills at work? Our [free AI courses guide](/best-free-ai
 
 | Course | Provider | Duration | Certificate | Difficulty | Best For |
 |--------|----------|----------|-------------|------------|----------|
-| **Yale Financial Markets** | Yale / Coursera | ~33 hrs | Audit free ($49 cert) | Intermediate | Understanding markets deeply |
+| **Yale Financial Markets** | Yale / Coursera | ~33 hrs | Preview free ($49+ full) | Intermediate | Understanding markets deeply |
 | **Khan Academy Investing** | Khan Academy | ~10 hrs | No | Beginner | Absolute beginners |
 | **Morningstar Classroom** | Morningstar | ~15 hrs | No | Beginner-Intermediate | Self-directed stock pickers |
-| **Rice Portfolio Management** | Rice / Coursera | ~40 hrs | Audit free ($49/course cert) | Intermediate | Portfolio construction |
+| **Rice Portfolio Management** | Rice / Coursera | ~40 hrs | Preview free ($49+/course full) | Intermediate | Portfolio construction |
 | **Schwab Investor Education** | Charles Schwab | Ongoing | No | All levels | Practical trading skills |
-| **Wharton Financial Accounting** | Wharton / Coursera | ~13 hrs | Audit free ($49 cert) | Intermediate | Reading financial statements |
+| **Wharton Financial Accounting** | Wharton / Coursera | ~13 hrs | Preview free ($49+ full) | Intermediate | Reading financial statements |
 | **Investopedia Simulator + Guides** | Investopedia | Self-paced | No | Beginner | Learn-by-doing with fake money |
-| **Geneva Investment Management** | Univ. of Geneva / Coursera | ~30 hrs | Audit free ($49/course cert) | Intermediate-Advanced | Global portfolio strategy |
+| **Geneva Investment Management** | Univ. of Geneva / Coursera | ~30 hrs | Preview free ($49+/course full) | Intermediate-Advanced | Global portfolio strategy |
 
 ---
 
 ## 1. Yale's Financial Markets (Coursera) — Best Overall Course
 
-**Platform:** Coursera | **Duration:** ~33 hours (7 weeks) | **Cost:** Free to audit | **Difficulty:** Intermediate
+**Platform:** Coursera | **Duration:** ~33 hours (7 weeks) | **Cost:** Free preview (first module) | **Difficulty:** Intermediate
 
 This is the one everyone recommends, and for once, the hype is justified. Financial Markets is taught by Robert Shiller — a Nobel laureate in economics who predicted both the dot-com bubble and the 2008 housing crisis. The man knows what he's talking about.
 
@@ -150,7 +150,7 @@ People who want to learn how to evaluate specific investments — individual sto
 
 ## 4. Rice University's Investment and Portfolio Management (Coursera) — Best for Portfolio Building
 
-**Platform:** Coursera | **Duration:** ~40 hours (4-course specialization) | **Cost:** Free to audit | **Difficulty:** Intermediate
+**Platform:** Coursera | **Duration:** ~40 hours (4-course specialization) | **Cost:** Free preview (first module) | **Difficulty:** Intermediate
 
 Rice University's Jones Graduate School of Business offers a four-course specialization that teaches you how to actually build and manage a portfolio — not just understand individual investments. The courses cover global financial markets, portfolio selection and risk management, investment strategies, and a capstone project where you build your own portfolio.
 
@@ -158,7 +158,7 @@ Rice University's Jones Graduate School of Business offers a four-course special
 
 - **Complete learning path** — Takes you from "what are assets" to "build your own portfolio"
 - **MBA-level content for free** — Academic rigor without the tuition
-- **Free to audit** — All video lectures and readings accessible without paying
+- **Free preview (first module)** — First module free; full access requires Coursera Plus or course purchase
 
 ### The "At Work" Angle
 
@@ -196,7 +196,7 @@ Anyone who wants execution-focused education. Schwab is less "theory of financia
 
 ## 6. Wharton's Introduction to Financial Accounting (Coursera) — Best for Reading Financial Statements
 
-**Platform:** Coursera | **Duration:** ~13 hours (4 weeks) | **Cost:** Free to audit | **Difficulty:** Intermediate
+**Platform:** Coursera | **Duration:** ~13 hours (4 weeks) | **Cost:** Free preview (first module) | **Difficulty:** Intermediate
 
 If you can't read a balance sheet, you're investing blind. Wharton's financial accounting course teaches you to read the three financial statements every public company publishes: income statements, balance sheets, and cash flow statements. You'll also learn how accounting standards affect reporting and how to spot red flags.
 
@@ -205,7 +205,7 @@ If you can't read a balance sheet, you're investing blind. Wharton's financial a
 - **Wharton brand** — One of the top business schools in the world
 - **Immediately practical** — After this course, every earnings report will make sense
 - **Short commitment** — 13 hours, or about 3 weeks of lunch breaks
-- **Free to audit** — Full access to video lectures and readings
+- **Free preview (first module)** — First module free; full access requires Coursera Plus or course purchase
 
 ### The "At Work" Angle
 
@@ -241,7 +241,7 @@ Self-directed learners who hate following a curriculum. Explore what interests y
 
 ## 8. University of Geneva's Investment Management (Coursera) — Best for Global Perspective
 
-**Platform:** Coursera | **Duration:** ~30 hours (5-course specialization) | **Cost:** Free to audit | **Difficulty:** Intermediate to Advanced
+**Platform:** Coursera | **Duration:** ~30 hours (5-course specialization) | **Cost:** Free preview (first module) | **Difficulty:** Intermediate to Advanced
 
 If you want to understand investing beyond the US market, the University of Geneva's Investment Management specialization is the pick. Partnered with UBS, one of the world's largest wealth managers, this five-course program covers global financial markets, portfolio management, alternative investments, risk management, and a capstone project. Taught by Dr. Michel Girardin with contributions from UBS experts, it's drawn 80,000+ students.
 
@@ -249,7 +249,7 @@ If you want to understand investing beyond the US market, the University of Gene
 
 - **Global perspective** — Most investing courses are US-centric; this one isn't
 - **UBS partnership** — Real experts from a leading global bank contribute
-- **Free to audit** — Full video and reading access
+- **Free preview (first module)** — First module free; full access requires Coursera Plus or course purchase
 
 ### The "At Work" Angle
 
@@ -306,7 +306,7 @@ Start with Khan Academy's Personal Finance course. It's completely free, self-pa
 
 ### Do free investing courses on Coursera give you a certificate?
 
-Coursera lets you audit most investing courses for free, meaning you get full access to video lectures and readings. However, you need to pay (typically $49-79 per course) to earn a certificate and access graded assignments. Khan Academy and Morningstar are 100% free with no paid tier at all.
+Coursera now uses a "preview mode" that gives free access to the first module of most courses. Full access requires Coursera Plus ($59/month or $399/year) or individual course purchase (~$49-79). However, Khan Academy and Morningstar are 100% free with no paid tier. Some Coursera courses still offer broader free access — check the enrollment page for specifics.
 
 ---
 

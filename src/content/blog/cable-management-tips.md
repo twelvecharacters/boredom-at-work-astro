@@ -3,7 +3,6 @@ title: "Cable Management Tips: How to Hide Desk Cables (2026 Guide)"
 slug: "cable-management-tips"
 description: "Transform your messy desk into a clean workspace. Practical cable management tips, best products, and step-by-step guide to hiding cables under your desk."
 publishDate: 2026-03-13
-updatedDate: 2026-03-13
 author: "bored chap"
 image: "/images/cable-management-tips.webp"
 tags: ["Office Setup", "Cable Management", "Work From Home", "Desk Organization", "Guide"]

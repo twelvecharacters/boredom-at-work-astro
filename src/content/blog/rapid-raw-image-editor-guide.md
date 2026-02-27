@@ -3,7 +3,6 @@ title: "RapidRAW: The Open-Source Lightroom Alternative"
 slug: "rapid-raw-image-editor-guide"
 description: "Tired of slow RAW editors? Discover RapidRAW, the open-source powerhouse built with Rust and GPU acceleration for lightning-fast photo editing."
 publishDate: 2026-02-12
-updatedDate: 2026-02-07
 author: "bored chap"
 image: "/images/rapidraw.webp"
 tags: ["Photography", "Open Source", "RAW Editing", "RapidRAW", "Rust", "GPU Acceleration"]

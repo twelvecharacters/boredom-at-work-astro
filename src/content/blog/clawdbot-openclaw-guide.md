@@ -3,7 +3,6 @@ title: "Meet ClawDBot (OpenClaw): Your Self-Hosted, Always-On AI Assistant"
 slug: "clawdbot-openclaw-guide"
 description: "Discover ClawDBot (now OpenClaw), the open-source personal AI platform that runs on your own hardware and integrates with your favorite messaging apps."
 publishDate: 2026-02-07
-updatedDate: 2026-02-07
 author: "bored chap"
 image: "/images/openclaw.webp"
 tags: ["AI", "Open Source", "Self-Hosted", "ClawDBot", "OpenClaw", "Personal Assistant"]

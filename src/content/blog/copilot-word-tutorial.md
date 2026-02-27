@@ -3,14 +3,13 @@ title: "Microsoft Copilot in Word: Complete Tutorial (2026)"
 slug: "copilot-word-tutorial"
 description: "Master Copilot in Word. From drafting documents to rewriting sections—everything you need to use AI directly in Microsoft Word."
 publishDate: 2026-03-03
-updatedDate: 2026-03-03
 author: "bored chap"
 image: "/images/copilot-word-tutorial.webp"
 tags: ["Copilot", "Microsoft", "Word", "AI", "Productivity"]
 draft: false
 faq:
   - question: "Is Copilot in Word free?"
-    answer: "Copilot in Word requires Microsoft 365 Personal/Family ($13-20/month, includes Copilot) or Microsoft 365 Copilot Business ($21/user/month) for organizations. The free Copilot at copilot.microsoft.com can help with Word tasks via copy/paste but doesn't integrate directly."
+    answer: "Copilot in Word requires Microsoft 365 Personal ($9.99/month) or Family ($12.99/month) — both now include Copilot — or Microsoft 365 Copilot Business ($30/user/month) for organizations. The free Copilot at copilot.microsoft.com can help with Word tasks via copy/paste but doesn't integrate directly."
   - question: "How do I enable Copilot in Word?"
     answer: "You need Microsoft 365 (Personal, Family, or Business) plus a Copilot subscription. Once subscribed, Copilot appears automatically in Word's ribbon. Look for the Copilot icon in the Home tab."
   - question: "What can Copilot do in Word?"
@@ -33,7 +32,7 @@ Here's everything you need to know to actually use it well.
 
 **Requirements:**
 - Microsoft 365 subscription (Personal, Family, or Business)
-- Microsoft 365 Personal/Family (includes Copilot) or Copilot Business ($21/user/month for organizations)
+- Microsoft 365 Personal/Family (includes Copilot) or Copilot Business ($30/user/month for organizations)
 - Word for Windows, Mac, or Word Online
 
 **Don't have Copilot yet?**  
@@ -291,7 +290,7 @@ Include [number] rows with realistic example data.
 | Writing quality | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ |
 | Long documents | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ |
 | Speed | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ |
-| Price | $20/mo + M365 | Free / $20/mo | Free / $20/mo |
+| Price | Included in M365 | Free / $20/mo | Free / $20/mo |
 
 **The verdict:** Use Copilot for quick edits and drafts within Word. Use Claude or ChatGPT for important writing where quality matters most.
 

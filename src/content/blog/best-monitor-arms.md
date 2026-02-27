@@ -3,7 +3,6 @@ title: "Best Monitor Arms 2026: Single & Dual Options Compared"
 slug: "best-monitor-arms"
 description: "Find the perfect monitor arm for your desk setup. We compare Ergotron, Amazon Basics, and VIVO—from budget to premium, single to dual monitor mounts."
 publishDate: 2026-03-12
-updatedDate: 2026-03-12
 author: "bored chap"
 image: "/images/best-monitor-arms.webp"
 tags: ["Office Setup", "Monitor Arms", "Work From Home", "Desk Accessories", "Buying Guide"]

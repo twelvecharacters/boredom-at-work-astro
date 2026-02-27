@@ -3,7 +3,6 @@ title: "Best Office Chairs for Long Hours (2026): Tested & Compared"
 slug: "best-office-chairs"
 description: "Find the perfect office chair for all-day comfort. Herman Miller, Secretlab, Branch, and budget options compared with real specs and prices."
 publishDate: 2026-03-10
-updatedDate: 2026-03-10
 author: "bored chap"
 image: "/images/best-office-chairs.webp"
 tags: ["Office Setup", "Office Chairs", "Work From Home", "Ergonomics", "Buying Guide"]
