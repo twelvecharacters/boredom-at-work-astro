@@ -2,7 +2,7 @@
 title: "OrcaSlicer: The Best 3D Printing Slicer You're Not Using (Yet)"
 slug: "orcaslicer-guide"
 description: "Is OrcaSlicer better than Cura and PrusaSlicer? Advanced features, built-in calibration, and the modern UI making it the top slicer choice."
-publishDate: 2026-03-12
+publishDate: 2026-03-19
 author: "bored chap"
 image: "/images/orcaslicer.webp"
 tags: ["3D Printing", "OrcaSlicer", "Slicer", "Tutorial", "Skills"]

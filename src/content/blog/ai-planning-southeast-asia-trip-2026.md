@@ -1,7 +1,7 @@
 ---
 title: "How I'm Using AI to Plan My Southeast Asia Trip (November 2026)"
 description: "Follow along as I use ChatGPT, flight search agents, and AI tools to plan my next adventure to Japan, Vietnam, or Cambodia. Real-time updates included."
-publishDate: 2026-05-17
+publishDate: 2026-04-09
 author: "bored chap"
 image: "/images/ai-southeast-asia-trip-2026.webp"
 tags: ["AI", "Travel", "Japan", "Vietnam", "Cambodia", "Case Study"]

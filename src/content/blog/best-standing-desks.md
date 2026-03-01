@@ -2,7 +2,7 @@
 title: "Best Standing Desks Under $600 (2026): Tested & Compared"
 slug: "best-standing-desks"
 description: "Find the perfect standing desk for your home office. We compare FlexiSpot, Uplift, Autonomous, and Branch—with real specs, honest reviews, and current prices."
-publishDate: 2026-03-09
+publishDate: 2026-03-13
 author: "bored chap"
 image: "/images/best-standing-desks.webp"
 tags: ["Office Setup", "Standing Desks", "Work From Home", "Productivity", "Buying Guide"]

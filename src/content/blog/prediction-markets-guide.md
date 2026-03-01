@@ -2,7 +2,7 @@
 title: "How Prediction Markets Work: A Beginner's Guide (2026)"
 slug: "prediction-markets-guide"
 description: "Prediction markets explained simply. How event contracts work, where the money goes, and whether Kalshi and Polymarket are worth it."
-publishDate: 2026-05-28
+publishDate: 2026-04-13
 author: "bored chap"
 image: "/images/prediction-markets-guide.webp"
 tags: ["Prediction Markets", "Investing", "Finance", "Kalshi", "Polymarket"]
