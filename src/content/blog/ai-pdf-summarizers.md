@@ -11,7 +11,7 @@ faq:
   - question: "Can ChatGPT summarize PDFs?"
     answer: "Yes, ChatGPT can analyze PDFs you upload directly. The free tier allows file uploads, though with some limits. For very long documents (100+ pages), dedicated PDF tools like Claude or ChatPDF may work better."
   - question: "What's the best free AI PDF summarizer?"
-    answer: "ChatGPT's free tier handles most PDFs well. Claude's free tier is excellent for long documents (200K context). For unlimited free usage, Google's NotebookLM works with multiple documents without limits."
+    answer: "ChatGPT's free tier handles most PDFs well. Claude's free tier is excellent for long documents (200K context). Google's NotebookLM works with multiple documents on a generous free tier."
   - question: "Can AI summarize a 100-page PDF?"
     answer: "Yes, several tools handle very long documents. Claude (200K tokens ≈ 150K words), ChatGPT (128K tokens), and Gemini (1M+ tokens for paid) can all process book-length content. Dedicated tools like ChatPDF also work well."
   - question: "Is it safe to upload confidential PDFs to AI tools?"
@@ -39,7 +39,7 @@ Here's a breakdown of the best tools, what they're actually good at, and which o
 | **NotebookLM** | Research, multiple docs | Excellent | Free | Large |
 | **ChatPDF** | PDF-focused workflow | Limited | $6.99/mo | 50MB files |
 | **Humata** | Teams, heavy use | Limited | $9.99/mo | Unlimited |
-| **Gemini** | Google users | Excellent | $20/mo | 1M+ tokens |
+| **Gemini** | Google users | Good | $19.99/mo | 1M+ tokens |
 
 ---
 
@@ -149,7 +149,7 @@ Claude's 200K token context window makes it the best choice for truly long docum
 NotebookLM is Google's AI research tool—built specifically for working with multiple documents.
 
 **Strengths:**
-- Completely free (no usage limits)
+- Free tier with daily limits (paid tiers via Google AI Pro for higher limits)
 - Upload multiple documents at once
 - Cites specific passages in responses
 - Creates "notebooks" to organize research
@@ -225,15 +225,15 @@ Humata is built for people who process a lot of documents regularly.
 
 ## 6. Gemini — Best for Google Users
 
-**Price:** Free / $20/mo Advanced  
+**Price:** Free / $19.99/mo (Google AI Pro)
 **Website:** [gemini.google.com](https://gemini.google.com)
 
 Gemini handles PDFs and integrates with Google Drive.
 
 **Strengths:**
-- Free tier is unlimited
+- Free tier available
 - Connects to Google Drive
-- 1M+ token context (Advanced)
+- 1M+ token context (Google AI Pro)
 - Can analyze images within PDFs
 
 **Limitations:**

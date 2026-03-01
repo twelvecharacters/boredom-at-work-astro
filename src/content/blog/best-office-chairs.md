@@ -156,7 +156,7 @@ If you game and work from the same chair, the Titan Evo bridges both worlds. It 
 **Key Specs:**
 | Spec | Secretlab Titan Evo |
 |------|---------------------|
-| Weight capacity | 220 lbs (Regular), 395 lbs (XL) |
+| Weight capacity | 285 lbs (Regular), 395 lbs (XL) |
 | Lumbar support | 4-way adjustable (built-in) |
 | Armrests | 4D adjustable |
 | Recline | Up to 165° |
@@ -191,14 +191,14 @@ The ErgoChair Pro competes directly with Branch at the same price point. It's a 
 **Key Specs:**
 | Spec | Autonomous ErgoChair Pro |
 |------|--------------------------|
-| Weight capacity | 350 lbs |
+| Weight capacity | 300 lbs |
 | Lumbar support | Adjustable (height + depth) |
 | Armrests | 3D adjustable |
 | Recline | Up to 22° (5 lockable positions) |
 | Warranty | 2 years |
 
 **What I Like:**
-- 350 lb capacity (higher than competitors)
+- 300 lb capacity
 - Breathable mesh throughout
 - Adjustable headrest included
 - Good value at $499
@@ -255,7 +255,7 @@ If $500 is too much, the HON Ignition 2.0 is the best chair under $400 that I ca
 | Feature | Branch Pro | Aeron | Titan Evo | ErgoChair Pro | HON 2.0 |
 |---------|------------|-------|-----------|---------------|---------|
 | **Price** | ~$500 | ~$1,400 | ~$550+ | ~$499 | ~$400 |
-| **Weight capacity** | 275 lbs | 350 lbs | 395 lbs (XL) | 350 lbs | 300 lbs |
+| **Weight capacity** | 275 lbs | 350 lbs | 395 lbs (XL) | 300 lbs | 300 lbs |
 | **Lumbar** | 2-way | PostureFit SL | 4-way | 2-way | Basic |
 | **Armrests** | 5D | 4D | 4D | 3D | 2D |
 | **Warranty** | 7 years | 12 years | 5 years | 2 years | Lifetime* |
@@ -288,7 +288,7 @@ If $500 is too much, the HON Ignition 2.0 is the best chair under $400 that I ca
 ### Get the Autonomous ErgoChair Pro if:
 - You want full mesh breathability
 - You're in a hot climate
-- You need higher weight capacity (350 lbs)
+- You need full mesh breathability
 - $499 is your firm budget
 
 ### Get the HON Ignition 2.0 if:

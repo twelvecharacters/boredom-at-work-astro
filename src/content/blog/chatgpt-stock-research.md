@@ -10,7 +10,7 @@ draft: false
 isListicle: false
 faq:
   - question: "Can ChatGPT predict stock prices?"
-    answer: "No. ChatGPT cannot reliably predict stock prices, and anyone telling you otherwise is selling something. It can analyze historical data, explain trends, and evaluate fundamentals — but it has no crystal ball. Academic research shows GPT-4o can predict future earnings direction with about 60% accuracy, matching specialized ML models, but that's a far cry from reliable price predictions. Use it for research and education, not fortune-telling."
+    answer: "No. ChatGPT cannot reliably predict stock prices, and anyone telling you otherwise is selling something. It can analyze historical data, explain trends, and evaluate fundamentals — but it has no crystal ball. Academic research shows GPT models can predict future earnings direction with about 60% accuracy, matching specialized ML models, but that's a far cry from reliable price predictions. Use it for research and education, not fortune-telling."
   - question: "Does ChatGPT have access to real-time stock data?"
     answer: "Not directly. ChatGPT with web browsing enabled can search for recent stock data, but it's not connected to a live market data feed. Prices may be delayed by minutes or hours depending on the source it pulls from. For real-time quotes, use a dedicated platform like Yahoo Finance, TradingView, or your brokerage app. Use ChatGPT for analysis and context, not live price checks."
   - question: "Is ChatGPT good enough to replace a financial advisor?"
@@ -60,7 +60,7 @@ Before we get into the prompts, let's set expectations clearly. I've seen too ma
 
 These are prompts I actually use. I've refined them over months of trial and error. Copy them, modify them, make them your own.
 
-A quick note on models: these prompts work best with GPT-4o, which is available to both free and Plus users (free users get limited messages during peak hours). The o1 and o3 reasoning models are even better for complex financial analysis, but GPT-4o handles everything here just fine.
+A quick note on models: these prompts work best with GPT-5.2, which is the default model for both free and Plus users. Free users get limited messages per rolling window before falling back to a lighter model. The o3 reasoning model is even better for complex financial analysis, but GPT-5.2 handles everything here just fine.
 
 ### 1. Analyze a Company's Fundamentals
 

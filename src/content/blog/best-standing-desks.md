@@ -85,16 +85,16 @@ The E7 Pro consistently wins comparison tests, and for good reason. It's not the
 | Spec | E7 Pro |
 |------|--------|
 | Weight capacity | 440 lbs (180 kg) |
-| Height range | 25" to 50.6" |
+| Height range | 26" to 51.6" |
 | Lifting speed | 1.5"/second |
 | Motors | Dual motor |
-| Frame warranty | 10 years |
+| Frame warranty | 15 years |
 
 **What I Like:**
 - Rock-solid stability even at standing height
 - 440 lb capacity beats most competitors
 - Quiet dual motors
-- 10-year warranty shows confidence
+- 15-year warranty shows confidence
 - Won German Design Award 2025
 
 **What Could Be Better:**
@@ -118,7 +118,7 @@ If you want to spec out your dream desk with specific desktop materials, sizes, 
 | Spec | Uplift V2 |
 |------|-----------|
 | Weight capacity | 355 lbs |
-| Height range | 25" to 50.9" |
+| Height range | 25.5" to 51.1" |
 | Lifting speed | 1.5"/second |
 | Motors | Dual motor |
 | Frame warranty | 15 years |
@@ -227,8 +227,8 @@ If you want IKEA pricing, consider building your own with their TROTTEN legs and
 |---------|------------------|-----------|------------|----------------|
 | **Price (starting)** | ~$480 | ~$599 | ~$549 | ~$500 |
 | **Weight capacity** | 440 lbs | 355 lbs | 275 lbs | 310 lbs |
-| **Height range** | 25-50.6" | 25-50.9" | 24.5-50" | 25.2-51" |
-| **Frame warranty** | 10 years | 15 years | 10 years | 7 years |
+| **Height range** | 26-51.6" | 25.5-51.1" | 28-47.3" | 25.2-51" |
+| **Frame warranty** | 15 years | 15 years | 10 years | 7 years |
 | **Motor warranty** | 5 years | 5 years | 7 years | 5 years |
 | **Best feature** | Stability | Customization | Storage | Aesthetics |
 
@@ -240,7 +240,7 @@ If you want IKEA pricing, consider building your own with their TROTTEN legs and
 - You want the best balance of price, quality, and reliability
 - You have heavy equipment (multiple monitors, speakers, etc.)
 - You value stability over customization
-- You want a 10-year warranty
+- You want a 15-year warranty
 
 ### Get the Uplift V2 if:
 - You want a specific desktop material (bamboo, walnut, etc.)
@@ -316,7 +316,7 @@ For most people, the **FlexiSpot E7 Pro** offers the best combination of stabili
 
 If customization matters more than price, the **Uplift V2** is the way to go—just watch your configuration costs.
 
-On a budget? The **Branch Duo** at ~$450 punches above its weight, especially with that included storage shelf.
+On a budget? The **Branch Duo** at ~$549 punches above its weight, especially with that included storage shelf.
 
 Whatever you choose, get a dual-motor desk with at least a 5-year warranty. Your back (and productivity) will thank you.
 

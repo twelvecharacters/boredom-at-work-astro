@@ -34,7 +34,7 @@ Here are the 7 best webcams for working from home in 2026 — from budget picks 
 | **Elgato Facecam MK.2** | ~$150 | 1080p/60fps | Best for streamers | Sony sensor, uncompressed video, no mic |
 | **Insta360 Link 2** | ~$199 | 4K/30fps | Best AI tracking | 2-axis gimbal, gesture control, PDAF |
 | **Razer Kiyo Pro Ultra** | ~$300 | 4K/30fps | Best low light | Largest sensor (1/1.2"), f/1.7 lens |
-| **Anker PowerConf C200** | ~$60 | 2K/30fps | Best ultra-budget | 2K for under $70, adjustable FOV |
+| **Anker PowerConf C200** | ~$70 | 2K/30fps | Best ultra-budget | 2K for under $80, adjustable FOV |
 | **Opal Tadpole** | ~$99 | 1080p/30fps | Best portable | Tiny clip-on, 48MP Sony sensor, USB-C |
 
 *Prices fluctuate -- check current listings before buying.*

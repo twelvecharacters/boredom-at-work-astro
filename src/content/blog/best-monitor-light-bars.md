@@ -36,7 +36,7 @@ Here's what's actually worth buying in 2026.
 | **BenQ ScreenBar Pro** | ~$140 | Auto-dimming pro | 2700-6500K | Motion sensor, 1000+ lux |
 | **Quntis Pro+** | ~$60 | Best budget | 3000-6500K | Remote control, great value |
 | **Xiaomi Mi Light Bar** | ~$70 | Best value | 2700-6500K | Wireless dial, aluminum build |
-| **Yeelight Light Bar Pro** | ~$110 | Smart home | 2700-6500K | Alexa/Google/HomeKit |
+| **Yeelight Light Bar Pro** | ~$110 | Smart home | 2700-6500K | Alexa/Google/SmartThings |
 | **Baseus i-Wok** | ~$38 | Ultra-budget | 3000-6500K | Under $40, gets the job done |
 
 *Prices fluctuate -- check current listings before buying.*
@@ -60,7 +60,7 @@ The wireless controller is a satisfying puck-shaped dial that sits on your desk.
 | Length | 50 cm (19.7") |
 | Color temp | 2700-6500K |
 | Max brightness | ~1000 lux (center) |
-| Coverage area | 85 x 50 cm (33.5" x 19.7") |
+| Coverage area | 65 x 40 cm (25.6" x 15.7") |
 | CRI | >95 |
 | Power | USB-A |
 | Curved monitor support | Yes (1000R-1800R) |
@@ -239,7 +239,7 @@ The wireless dial is the standout at this price point. Rotate for brightness, pr
 
 **Price:** ~$110
 
-If your desk is part of a smart home ecosystem, the Yeelight Pro is the only light bar that truly belongs. It works with Google Home, Amazon Alexa, Apple HomeKit, Samsung SmartThings, and even Razer Chroma for RGB syncing. Voice control, automations, scenes — it all works.
+If your desk is part of a smart home ecosystem, the Yeelight Pro is the only light bar that truly belongs. It works with Google Home, Amazon Alexa, Samsung SmartThings, and even Razer Chroma for RGB syncing. Voice control, automations, scenes — it all works.
 
 Beyond smart features, it's a solid light bar in its own right. The rear RGB backlight adds ambient color to your wall (16 million colors), and the wireless knob controller handles daily adjustments. The front light covers 2700-6500K with Ra95 color rendering.
 
@@ -249,7 +249,7 @@ Beyond smart features, it's a solid light bar in its own right. The rear RGB bac
 |------|--------------|
 | Length | 48.5 cm (19.1") |
 | Color temp | 2700-6500K |
-| Max brightness | ~800 lumens |
+| Max brightness | ~280 lumens |
 | CRI | >95 |
 | Power | USB (5V/2A) |
 | Connectivity | WiFi 2.4GHz + Bluetooth 4.2 |
@@ -257,7 +257,7 @@ Beyond smart features, it's a solid light bar in its own right. The rear RGB bac
 | Weight | ~600g |
 
 **What I Like:**
-- Works with Alexa, Google Home, HomeKit, SmartThings, and Razer Chroma
+- Works with Alexa, Google Home, SmartThings, and Razer Chroma
 - RGB rear backlight with 16 million colors
 - Wireless knob controller is smooth and responsive
 - Voice control is genuinely useful ("Hey Google, set desk light to warm")

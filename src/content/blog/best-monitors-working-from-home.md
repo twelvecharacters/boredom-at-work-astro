@@ -228,7 +228,7 @@ The 60Hz refresh rate is the main compromise. If you're coming from a 120Hz moni
 | **Contrast** | 3000:1 | 1500:1 | 1000:1 | 1000:1 | 1500:1 | 2000:1 | 1000:1 |
 | **USB-C PD** | 140W (TB4) | 90W | 96W | 90W | None | 90W (TB4) | 90W |
 | **KVM** | Yes | No | No | Yes | No | Yes | Yes |
-| **Ethernet** | Yes (RJ45) | Yes (RJ45) | No | No | No | Yes (RJ45) | Yes (RJ45) |
+| **Ethernet** | Yes (RJ45) | Yes (RJ45) | No | Yes (RJ45) | No | Yes (RJ45) | Yes (RJ45) |
 | **Speakers** | No | No | No | No | Yes | No | No |
 | **Price** | ~$680 | ~$420 | ~$400 | ~$330 | ~$240 | ~$1,020 | ~$500 |
 
