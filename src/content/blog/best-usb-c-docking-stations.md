@@ -2,7 +2,7 @@
 title: "7 Best USB-C Docking Stations for Home Office (2026)"
 slug: "best-usb-c-docking-stations"
 description: "I compared Thunderbolt 4, USB-C, and DisplayLink docks for every budget. Here are the 7 best docking stations for your home office, from ~$25 to ~$400."
-publishDate: 2026-03-24
+publishDate: 2026-04-17
 author: "bored chap"
 image: "/images/best-usb-c-docking-stations.webp"
 tags: ["Office Setup", "Docking Stations", "USB-C", "Work From Home", "Productivity"]

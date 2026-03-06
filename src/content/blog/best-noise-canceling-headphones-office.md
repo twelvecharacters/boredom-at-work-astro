@@ -2,7 +2,7 @@
 title: "7 Best Noise-Canceling Headphones for Office & WFH (2026)"
 slug: "best-noise-canceling-headphones-office"
 description: "I tested the top noise-canceling headphones for office and WFH use. These 7 are the best for all-day comfort, video calls, and blocking coworker noise."
-publishDate: 2026-03-27
+publishDate: 2026-04-24
 author: "bored chap"
 image: "/images/best-noise-canceling-headphones-office.webp"
 tags: ["Tech & Gadgets", "Headphones", "Office Setup", "Work From Home", "Noise Canceling"]

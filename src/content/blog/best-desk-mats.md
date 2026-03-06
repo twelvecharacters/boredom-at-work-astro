@@ -2,7 +2,7 @@
 title: "7 Best Desk Mats for Home Office (I Tested Them All)"
 slug: "best-desk-mats"
 description: "The best desk mats and pads for your home office in 2026. From premium wool felt to budget PU leather, I break down which desk mat is actually worth buying."
-publishDate: 2026-03-29
+publishDate: 2026-04-29
 author: "bored chap"
 image: "/images/best-desk-mats.webp"
 tags: ["Office Setup", "Desk Accessories", "Work From Home", "Home Office", "Buying Guide"]
