@@ -156,6 +156,8 @@ For anyone with dietary restrictions especially — AI trip planners have gotten
 
 Three restaurants. Zero reactions. That's a win.
 
+For more AI travel strategies, case studies, and destination guides, check out our [complete AI travel planning guide](/ai-travel-planning/).
+
 ## Trip Stats
 
 | Category | Details |

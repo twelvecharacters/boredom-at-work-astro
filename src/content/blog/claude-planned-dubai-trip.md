@@ -185,4 +185,4 @@ Three days isn't enough for Dubai. But with Claude's planning and a bit of flexi
 
 ---
 
-*Want to plan your own AI-powered trip? Start with our [complete AI trip planning tutorial](/chatgpt-trip-planning-tutorial/) or check out the [best AI trip planners for 2026](/best-ai-trip-planners/). Already used AI for travel? Read how it went in [London](/ai-planned-london-weekend/) and [Malaysia](/chatgpt-malaysia-trip-planning/).*
+*Want to plan your own AI-powered trip? Start with our [complete AI travel planning guide](/ai-travel-planning/), follow the [step-by-step tutorial](/chatgpt-trip-planning-tutorial/), or check out the [best AI trip planners for 2026](/best-ai-trip-planners/). Already used AI for travel? Read how it went in [London](/ai-planned-london-weekend/) and [Malaysia](/chatgpt-malaysia-trip-planning/).*

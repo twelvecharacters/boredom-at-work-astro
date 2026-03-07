@@ -327,6 +327,8 @@ Clean, fast note-taking with AI features.
 
 ## Presentations: Slides Without the Pain
 
+For a detailed hands-on comparison of all major AI presentation tools, see our [full AI presentation makers guide](/ai-presentation-makers/).
+
 ### Gamma — Best AI Slide Creator
 
 **Price:** Free tier / ~$8/month Plus (annual) or $10/month (monthly)
