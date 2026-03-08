@@ -18,6 +18,41 @@ interface Props {
 
 const { review, articleTitle, articleDescription, articleUrl, articleImage, publishDate, author } = Astro.props;
 
+function parseOffers(priceRange: string) {
+  const numbers = priceRange.match(/[\d.]+/g)?.map(Number) || [];
+  const hasFree = /free/i.test(priceRange);
+  const currency = "USD";
+
+  if (hasFree && numbers.length >= 1) {
+    return {
+      "@type": "AggregateOffer",
+      "lowPrice": 0,
+      "highPrice": numbers[numbers.length - 1],
+      "priceCurrency": currency,
+      "offerCount": 2,
+    };
+  }
+  if (numbers.length >= 2) {
+    return {
+      "@type": "AggregateOffer",
+      "lowPrice": numbers[0],
+      "highPrice": numbers[numbers.length - 1],
+      "priceCurrency": currency,
+      "offerCount": 2,
+    };
+  }
+  if (numbers.length === 1) {
+    return {
+      "@type": "Offer",
+      "price": numbers[0],
+      "priceCurrency": currency,
+    };
+  }
+  return null;
+}
+
+const offers = review.priceRange ? parseOffers(review.priceRange) : null;
+
 const schemaData = {
   "@context": "https://schema.org",
   "@type": "Product",
@@ -25,7 +60,7 @@ const schemaData = {
   "description": articleDescription,
   ...(articleImage && { "image": `${SITE.url}${articleImage}` }),
   ...(review.productBrand && { "brand": { "@type": "Brand", "name": review.productBrand } }),
-  ...(review.priceRange && { "offers": { "@type": "AggregateOffer", "priceRange": review.priceRange } }),
+  ...(offers && { "offers": offers }),
   "review": {
     "@type": "Review",
     "reviewRating": {
@@ -38,7 +73,7 @@ const schemaData = {
       "@type": "Person",
       "name": author
     },
-    "datePublished": publishDate.toISOString().split('T')[0],
+    "datePublished": publishDate.toISOString(),
     "reviewBody": articleDescription,
     "publisher": {
       "@type": "Organization",
