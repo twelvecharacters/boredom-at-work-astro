@@ -17,7 +17,7 @@ const schemaData = {
   "name": video.title,
   "description": video.description,
   "thumbnailUrl": `https://i.ytimg.com/vi/${video.youtubeId}/maxresdefault.jpg`,
-  "uploadDate": publishDate.toISOString().split('T')[0],
+  "uploadDate": publishDate.toISOString(),
   "contentUrl": `https://www.youtube.com/watch?v=${video.youtubeId}`,
   "embedUrl": `https://www.youtube.com/embed/${video.youtubeId}`,
   ...(video.duration && { "duration": video.duration }),
