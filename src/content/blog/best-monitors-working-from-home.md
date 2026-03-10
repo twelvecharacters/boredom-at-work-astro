@@ -14,7 +14,7 @@ faq:
   - question: "Do I need USB-C on my work monitor?"
     answer: "If you use a laptop, yes—USB-C with Power Delivery is a game-changer. It charges your laptop and carries the video signal through a single cable, eliminating the need for a separate charger and display cable. Look for at least 65W PD (charges most ultrabooks) or 90W+ PD (charges larger laptops like 15-inch MacBook Pros). If you use a desktop PC, USB-C is nice but not essential since you'll use DisplayPort or HDMI anyway."
   - question: "How much should I spend on a work-from-home monitor?"
-    answer: "For most remote workers, $330-420 gets you an excellent 27-inch 4K monitor with USB-C. Budget picks around $240 still deliver sharp 4K resolution but may lack USB-C and hub features. Premium monitors ($680-1,020) add Thunderbolt docking, IPS Black panels with deeper contrast, or ultrawide screen real estate. If your employer offers a home office stipend, the $500-700 range offers the best balance of features and quality."
+    answer: "For most remote workers, $400-450 gets you an excellent 27-inch 4K monitor with USB-C. Budget picks around $240 still deliver sharp 4K resolution but may lack USB-C and hub features. Premium monitors ($680-1,050) add Thunderbolt docking, IPS Black panels with deeper contrast, or ultrawide screen real estate. If your employer offers a home office stipend, the $500-700 range offers the best balance of features and quality."
 ---
 
 I've been working from home for years, and the monitor is the single biggest upgrade you can make to your WFH setup. Not the chair, not the desk—the screen you stare at for 8+ hours every day.
@@ -34,10 +34,10 @@ If you're also upgrading your desk setup, check out our [complete desk upgrade g
 | **Dell U2725QE** | 27" | 4K | 140W (TB4) | ~$680 | Best overall |
 | **Dell P2725QE** | 27" | 4K | 90W | ~$420 | Best value USB-C hub |
 | **ASUS ProArt PA279CRV** | 27" | 4K | 96W | ~$400 | Best for color accuracy |
-| **Samsung ViewFinity S80UD** | 27" | 4K | 90W | ~$330 | Best mid-range |
+| **Samsung ViewFinity S80UD** | 27" | 4K | 90W | ~$450 | Best mid-range |
 | **Dell S2725QS** | 27" | 4K | None | ~$240 | Best budget 4K |
 | **Dell U3425WE** | 34" UW | 3440x1440 | 90W (TB4) | ~$1,020 | Best ultrawide |
-| **LG 34WQ75C-B** | 34" UW | 3440x1440 | 90W | ~$500 | Best budget ultrawide |
+| **LG 34WQ75C-B** | 34" UW | 3440x1440 | 90W | ~$600 | Best budget ultrawide |
 
 *Prices as of early 2026. They fluctuate—check current prices before buying.*
 
@@ -135,9 +135,9 @@ The trade-off? It's "only" 60Hz, which is fine for productivity but less smooth 
 
 ### 4. Samsung ViewFinity S80UD — Best Mid-Range
 
-**~$330 | 27" 4K | IPS | USB-C (90W PD)**
+**~$450 | 27" 4K | IPS | USB-C (90W PD)**
 
-Samsung's ViewFinity S80UD sits in the sweet spot between the budget Dell S2725QS and the premium Dell monitors. You get 4K, 90W USB-C, a built-in KVM switch, and HDR10 support—all for around $330.
+Samsung's ViewFinity S80UD sits in the sweet spot between the budget Dell S2725QS and the premium Dell monitors. You get 4K, 90W USB-C, a built-in KVM switch, and HDR10 support—all for around $450.
 
 **Key features:**
 
@@ -149,7 +149,7 @@ Samsung's ViewFinity S80UD sits in the sweet spot between the budget Dell S2725Q
 
 The S80UD doesn't have the hub connectivity of the Dell P2725QE (fewer downstream USB ports), but it compensates with the KVM switch and solid build quality. Samsung's panel calibration is good out of the box—not ProArt-level, but more than adequate for office work.
 
-**Who it's for:** Remote workers who want USB-C Power Delivery and a KVM switch without spending $500+. A solid middle-ground pick.
+**Who it's for:** Remote workers who want USB-C Power Delivery and a KVM switch without spending $600+. A solid middle-ground pick.
 
 ---
 
@@ -198,9 +198,9 @@ The 3440x1440 resolution at 34 inches gives you roughly the same pixel density a
 
 ### 7. LG 34WQ75C-B — Best Budget Ultrawide
 
-**~$500 | 34" Ultrawide | IPS | USB-C (90W PD)**
+**~$600 | 34" Ultrawide | IPS | USB-C (90W PD)**
 
-The LG 34WQ75C-B makes ultrawide accessible. For around $500, you get a 34-inch curved QHD display with USB-C (90W PD), built-in KVM switch, RJ45 Ethernet, and HDR10 support. That's a lot of features for an ultrawide at this price.
+The LG 34WQ75C-B makes ultrawide accessible. For around $600, you get a 34-inch curved QHD display with USB-C (90W PD), built-in KVM switch, RJ45 Ethernet, and HDR10 support. That's a lot of features for an ultrawide at this price.
 
 **What stands out:**
 
@@ -213,7 +213,7 @@ The LG 34WQ75C-B makes ultrawide accessible. For around $500, you get a 34-inch 
 
 The 60Hz refresh rate is the main compromise. If you're coming from a 120Hz monitor, scrolling will feel less smooth. For typical office work, most people won't notice. The contrast ratio (1000:1) is also standard IPS—not in the same league as the Dell U3425WE's IPS Black panel.
 
-**Who it's for:** Anyone who wants the ultrawide experience without the $800+ price tag. Great for multitasking-heavy workflows where screen real estate matters more than panel tech.
+**Who it's for:** Anyone who wants the ultrawide experience without the $1,000+ price tag. Great for multitasking-heavy workflows where screen real estate matters more than panel tech.
 
 ---
 
@@ -230,7 +230,7 @@ The 60Hz refresh rate is the main compromise. If you're coming from a 120Hz moni
 | **KVM** | Yes | No | No | Yes | No | Yes | Yes |
 | **Ethernet** | Yes (RJ45) | Yes (RJ45) | No | Yes (RJ45) | No | Yes (RJ45) | Yes (RJ45) |
 | **Speakers** | No | No | No | No | Yes | No | No |
-| **Price** | ~$680 | ~$420 | ~$400 | ~$330 | ~$240 | ~$1,020 | ~$500 |
+| **Price** | ~$680 | ~$420 | ~$400 | ~$450 | ~$240 | ~$1,020 | ~$600 |
 
 ---
 
@@ -238,8 +238,8 @@ The 60Hz refresh rate is the main compromise. If you're coming from a 120Hz moni
 
 If you're considering a dual 27-inch setup, here are a few things to keep in mind:
 
-- **Two Dell S2725QS monitors** (~$560 total) give you 7680x2160 combined pixels—more total resolution than any single ultrawide. Best budget dual setup.
-- **Two Dell P2725QE monitors** (~$1,040 total) with USB-C hub features on both. Overkill—you only need hub features on one monitor, so pair one P2725QE with one S2725QS (~$800 total).
+- **Two Dell S2725QS monitors** (~$480 total) give you 7680x2160 combined pixels—more total resolution than any single ultrawide. Best budget dual setup.
+- **Two Dell P2725QE monitors** (~$880 total) with USB-C hub features on both. Overkill—you only need hub features on one monitor, so pair one P2725QE with one S2725QS (~$680 total).
 - **Mix and match sizes** only if you don't mind mismatched heights. A 27" + 24" looks awkward without separate [monitor arms](/best-monitor-arms/) to align them.
 
 A good dual-arm mount keeps things tidy. And if you go with any multi-monitor setup, our [cable management guide](/cable-management-tips/) will save you from the spaghetti situation behind your desk.
@@ -260,13 +260,13 @@ The **Dell P2725QE** at ~$420 is the smart pick for most remote workers. One cab
 The **ASUS ProArt PA279CRV** at ~$400 offers professional-grade calibration at a consumer price. Nothing else comes close at this price point.
 
 **Want a mid-range all-rounder?**
-The **Samsung ViewFinity S80UD** at ~$330 balances features and price well, especially with its built-in KVM switch for multi-device users.
+The **Samsung ViewFinity S80UD** at ~$450 adds a KVM switch and HDR10 to the USB-C hub monitor formula, great for multi-device users.
 
 **Want the absolute best 27-inch?**
 The **Dell U2725QE** at ~$680. IPS Black panel, Thunderbolt 4, and enough ports to replace your dock entirely.
 
 **Going ultrawide?**
-The **Dell U3425WE** (~$1,020) if you want the best. The **LG 34WQ75C-B** (~$500) if you want ultrawide without the premium price.
+The **Dell U3425WE** (~$1,020) if you want the best. The **LG 34WQ75C-B** (~$600) if you want ultrawide without the premium price.
 
 No matter which monitor you choose, the upgrade from a laptop screen to a proper external display is night and day. Your eyes, neck, and productivity will all thank you.
 
