@@ -129,9 +129,9 @@ After I pushed back, Claude recalculated using actual walking routes and suggest
 Puerto Banús is Marbella's famous marina — superyachts, designer boutiques, and restaurants with inflated prices. Pizzeria Picasso manages to be the exception: good food, reasonable prices, and a location right on the marina.
 
 **What we ordered:**
-- Pizza BBQ Chicken (me)
-- Pizza Truffle Mushroom (her)
-- Banoffee dessert cup (shared)
+- Pizza Original BBQ Chicken (me)
+- Truffle Mushroom Pizza (her)
+- Picasso Banoffee Pot (shared)
 - **Total with tip: €60** — exactly €30 per person
 
 Claude nailed the budget. The food was solid, the location was beautiful, and the people-watching at Puerto Banús is free entertainment.
