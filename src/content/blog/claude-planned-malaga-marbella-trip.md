@@ -83,9 +83,9 @@ The night ended with gelato from **Heladeria Valentino**. Two scoops: Pistachio 
 **Claude's plan:** Relaxed morning, drive to Marbella by early afternoon, check in, explore.
 **What happened:** Work crept in, but the evening made up for it.
 
-### Morning: Ninas Café + Business Call
+### Morning: Nina Café + Business Call
 
-I set up at **Ninas Café** for breakfast and a business call, while my friend hit the gym and then worked from home. The café had decent Wi-Fi and the kind of atmosphere where nobody minds if you're on a laptop for an hour. Perfect remote work spot.
+I set up at **[Nina Café de Especialidad](https://www.instagram.com/ninacafemalaga/)** for breakfast and a business call, while my friend hit the gym and then worked from home. The café had decent Wi-Fi and the kind of atmosphere where nobody minds if you're on a laptop for an hour. Perfect remote work spot.
 
 ### Afternoon: Check-in at Iberostar Selection Coral Beach
 
@@ -122,7 +122,7 @@ This is where things got interesting. I asked Claude for three restaurant sugges
 
 **Claude's first response** calculated distances as the crow flies — which in Marbella means nothing. A restaurant that looks "15 minutes away" on a straight line might be 35 minutes on foot when you factor in actual streets, the highway, and the coastal layout.
 
-After I pushed back, Claude recalculated using actual walking routes and suggested **Pizzeria Picasso** in Puerto Banús. Good call.
+After I pushed back, Claude recalculated using actual walking routes and suggested **[Pizzeria Picasso](https://www.pizzeriapicasso.com/)** in Puerto Banús. Good call.
 
 ### Pizzeria Picasso, Puerto Banús
 
