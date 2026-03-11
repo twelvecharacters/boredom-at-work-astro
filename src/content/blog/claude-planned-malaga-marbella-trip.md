@@ -20,11 +20,11 @@ faq:
 
 After letting Claude plan trips to [Dubai](/claude-planned-dubai-trip/) and [London](/ai-planned-london-weekend/), I figured it was time for a real test: a mixed trip that's half vacation, half business conference. Five days across two cities in southern Spain — Málaga for sightseeing and relaxation, then Marbella for the TES Affiliates Conference.
 
-The twist? I had a local with me. My girlfriend lives in Málaga, which meant Claude's restaurant suggestions had to compete with someone who actually knows the city. Spoiler: Claude held its own — mostly.
+The twist? I had a local with me. A friend of mine lives in Málaga, which meant Claude's restaurant suggestions had to compete with someone who actually knows the city. Spoiler: Claude held its own — mostly.
 
 ## The Setup: What I Told Claude
 
-> I'm flying into Málaga on Saturday and spending 2.5 days exploring the city with my girlfriend. Monday afternoon we drive to Marbella for a conference at Hard Rock Hotel (Tue-Wed). I'm staying at Iberostar Selection Coral Beach. Budget for food: around €30 per person per meal. Suggest restaurants, sightseeing, and a realistic day-by-day plan.
+> I'm flying into Málaga on Saturday and spending 2.5 days exploring the city with a friend who lives there. Monday afternoon we drive to Marbella for a conference at Hard Rock Hotel (Tue-Wed). I'm staying at Iberostar Selection Coral Beach. Budget for food: around €30 per person per meal. Suggest restaurants, sightseeing, and a realistic day-by-day plan.
 
 Claude delivered a structured itinerary within minutes — restaurant options for each meal, sightseeing priorities, and time blocks that actually made sense. Here's how the plan compared to reality.
 
@@ -33,7 +33,7 @@ Claude delivered a structured itinerary within minutes — restaurant options fo
 **Claude's plan:** Land, settle in, explore the city center, find a tapas spot for lunch.
 **What happened:** Pretty much that — with one detour.
 
-My Air Europa flight from Madrid landed at 11:45. My girlfriend picked me up, we dropped off my bags at her place, and headed straight for the city center.
+My Air Europa flight from Madrid landed at 11:45. My friend picked me up, we dropped off my bags at her place, and headed straight for the city center.
 
 ### Claude's First Recommendation: El Pimpi
 
@@ -85,7 +85,7 @@ The night ended with gelato from **Heladeria Valentino**. Two scoops: Pistachio 
 
 ### Morning: Ninas Café + Business Call
 
-I set up at **Ninas Café** for breakfast and a business call, while my girlfriend hit the gym and then worked from home. The café had decent Wi-Fi and the kind of atmosphere where nobody minds if you're on a laptop for an hour. Perfect remote work spot.
+I set up at **Ninas Café** for breakfast and a business call, while my friend hit the gym and then worked from home. The café had decent Wi-Fi and the kind of atmosphere where nobody minds if you're on a laptop for an hour. Perfect remote work spot.
 
 ### Afternoon: Check-in at Iberostar Selection Coral Beach
 
@@ -186,7 +186,7 @@ Add flights (Air Europa Madrid–Málaga, typically €50–100 one way) and the
 
 ## The Verdict: Claude + a Local = the Perfect Combo
 
-This was my first trip where I combined AI planning with a local guide (my girlfriend). The result? Claude handled the structure — meal budgets, landmark priorities, timing — while she filled in the local knowledge that no AI has.
+This was my first trip where I combined AI planning with a local guide (a friend who lives there). The result? Claude handled the structure — meal budgets, landmark priorities, timing — while she filled in the local knowledge that no AI has.
 
 If you're visiting somewhere you've never been and don't know anyone there, [Claude or ChatGPT](/claude-vs-chatgpt-travel-planning/) will get you 80% of the way. But if you have a local connection, lean on them for the remaining 20%. That's where the magic happens.
 
