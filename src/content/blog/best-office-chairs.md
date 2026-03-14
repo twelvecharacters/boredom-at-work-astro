@@ -176,7 +176,7 @@ If you game and work from the same chair, the Titan Evo bridges both worlds. It 
 - Gaming aesthetic may not suit everyone
 - Heavier than mesh office chairs
 
-**Best for:** Remote workers who game after hours. Also good for anyone who wants a premium feel without the Herman Miller price.
+**Best for:** Remote workers who game after hours. Also good for anyone who wants a premium feel without the Herman Miller price. Can't decide between the two? See our [Secretlab vs Herman Miller head-to-head comparison](/secretlab-vs-herman-miller/).
 
 **Sources:** [Tom's Hardware](https://www.tomshardware.com/peripherals/gaming-chairs/secretlab-titan-evo-nanogen-review), [PC Gamer](https://www.pcgamer.com/best-gaming-chairs/)
 

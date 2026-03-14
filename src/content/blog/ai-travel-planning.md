@@ -203,6 +203,8 @@ See AI travel planning in action with real trips, including what worked and what
 
 - **[How I Planned My Malaysia Trip with ChatGPT](/chatgpt-malaysia-trip-planning/)** — A 2-week itinerary through KL, Penang, and Langkawi. The actual prompts used, AI suggestions that were gold, and the recommendations that flopped.
 
+- **[I Let Claude Plan Our Málaga & Marbella Trip](/claude-planned-malaga-marbella-trip/)** — 5 days in southern Spain, planned entirely by Claude. Real restaurants, real walks, real budget breakdown.
+
 - **[Planning My Southeast Asia Trip with AI (2026)](/ai-planning-southeast-asia-trip-2026/)** — A work-in-progress case study. Follow along as I use multiple AI tools to plan a 3-country trip for November 2026.
 
 ---

@@ -330,4 +330,6 @@ Seriously though — a dual monitor setup is the highest ROI desk upgrade after 
 
 Now go set up your second monitor. Your future self will thank you.
 
+Not sure if you should go dual or ultrawide? Read our [ultrawide vs dual monitors comparison](/ultrawide-vs-dual-monitors/) for a detailed breakdown by work type.
+
 **More desk upgrades:** Check the [complete desk upgrade guide](/desk-upgrade-guide/) for the full home office roadmap — chairs, desks, monitor arms, [cable management](/cable-management-tips/), and everything else.

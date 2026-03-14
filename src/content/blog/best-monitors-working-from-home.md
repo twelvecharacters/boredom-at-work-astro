@@ -63,7 +63,7 @@ Before we get into individual picks, let's settle the biggest question first.
 - Do any kind of video editing, data analysis, or design work
 - Want a cleaner desk with fewer cables
 
-For most WFH workers doing typical office tasks—email, docs, video calls, spreadsheets—a single 27-inch 4K monitor is the sweet spot. If you're a power user who lives in multiple windows, an ultrawide will change how you work.
+For most WFH workers doing typical office tasks—email, docs, video calls, spreadsheets—a single 27-inch 4K monitor is the sweet spot. If you're a power user who lives in multiple windows, an ultrawide will change how you work. Still torn? Our [ultrawide vs dual monitors comparison](/ultrawide-vs-dual-monitors/) breaks it down by real work scenarios.
 
 Either way, pair your monitor with a [good monitor arm](/best-monitor-arms/) to free up desk space and nail the ergonomics.
 

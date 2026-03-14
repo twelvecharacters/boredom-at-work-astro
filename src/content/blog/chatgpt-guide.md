@@ -418,6 +418,8 @@ Custom GPTs are specialized versions of ChatGPT built for specific tasks.
 - Research tools
 - Language tutors
 
+We tested 50+ GPTs and found the ones that actually save time — see our [12 best custom GPTs for productivity](/best-custom-gpts-productivity/).
+
 ### Creating Custom GPTs (Plus only)
 
 You can build your own GPTs without coding:

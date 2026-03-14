@@ -557,4 +557,5 @@ You'll always copy-paste manually.
 - [Copilot in Word Tutorial](/copilot-word-tutorial/) — AI in Microsoft Office
 - [Microsoft Copilot Review](/microsoft-copilot-review/) — Is Copilot worth it?
 - [AI Tools Guide](/ai-tools-guide/) — All AI tools for work compared
+- [AI for Google Sheets](/ai-for-google-sheets/) — The same workflow for Google Sheets users
 - [Best AI Tools for Office Work](/best-ai-tools-office-work/) — Curated productivity tools

@@ -301,6 +301,8 @@ Having skills matters. Demonstrating them matters more.
 - Results you've achieved
 - How you'd apply AI skills in the new role
 
+For a step-by-step system, see our [AI job interview prep guide](/ai-job-interview-prep/) with copy-paste prompt templates.
+
 **Show current knowledge:**
 - Reference recent AI developments
 - Demonstrate familiarity with multiple tools

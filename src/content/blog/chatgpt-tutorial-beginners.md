@@ -395,7 +395,7 @@ Prompt engineering is the skill of crafting inputs that get optimal outputs. It'
 
 ### Explore Custom GPTs
 
-GPTs are specialized versions of ChatGPT built for specific tasks. Browse the GPT Store for tools tailored to your needs, or create your own.
+GPTs are specialized versions of ChatGPT built for specific tasks. Browse the GPT Store for tools tailored to your needs, or create your own. We tested 50+ and picked the [12 best custom GPTs for productivity](/best-custom-gpts-productivity/).
 
 ### Try Other AI Tools
 
