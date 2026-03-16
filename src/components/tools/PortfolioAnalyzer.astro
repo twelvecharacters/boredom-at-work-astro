@@ -1,0 +1,745 @@
+---
+// Portfolio CSV Analyzer — client-side, privacy-first
+// No data ever leaves the browser
+---
+
+<section id="portfolio-analyzer-tool" class="my-12 rounded-2xl border border-primary/10 shadow-lg overflow-hidden not-prose">
+  <!-- Header -->
+  <div class="bg-primary px-6 py-5">
+    <h2 class="text-2xl font-bold text-white mb-1 flex items-center gap-3">
+      <svg class="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+      </svg>
+      Free Portfolio Analyzer
+    </h2>
+    <p class="text-white/80 text-sm">Upload your brokerage CSV — everything stays in your browser. Nothing is sent to any server.</p>
+  </div>
+
+  <!-- Upload Zone -->
+  <div id="pa-upload-zone" class="p-8 md:p-12 text-center cursor-pointer border-2 border-dashed border-primary/20 m-6 rounded-xl bg-background-alt/50 hover:border-accent/50 hover:bg-accent/5 transition-all duration-200">
+    <svg class="w-12 h-12 mx-auto mb-4 text-primary/30" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12" />
+    </svg>
+    <p class="text-lg font-semibold text-primary mb-2">Drop your CSV here or click to upload</p>
+    <p class="text-sm text-text-light mb-4">Supports exports from Fidelity, Schwab, Vanguard, E*TRADE, and most brokers</p>
+    <input type="file" id="pa-file-input" accept=".csv,.tsv,.txt,.xls,.xlsx" class="hidden" />
+    <button id="pa-sample-btn" class="text-sm text-accent hover:text-accent-hover underline underline-offset-2 transition-colors">
+      Or try with sample data
+    </button>
+  </div>
+
+  <!-- Error Message -->
+  <div id="pa-error" class="hidden mx-6 mb-6 p-4 bg-red-50 border border-red-200 rounded-xl text-red-700 text-sm"></div>
+
+  <!-- Results -->
+  <div id="pa-results" class="hidden px-6 pb-6">
+    <!-- Summary Cards -->
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+      <div class="bg-background-alt rounded-xl p-4 text-center">
+        <p class="text-xs font-bold uppercase tracking-widest text-text-light mb-1">Total Value</p>
+        <p id="pa-total-value" class="text-2xl font-bold text-primary">—</p>
+      </div>
+      <div class="bg-background-alt rounded-xl p-4 text-center">
+        <p class="text-xs font-bold uppercase tracking-widest text-text-light mb-1">Positions</p>
+        <p id="pa-positions" class="text-2xl font-bold text-primary">—</p>
+      </div>
+      <div class="bg-background-alt rounded-xl p-4 text-center">
+        <p class="text-xs font-bold uppercase tracking-widest text-text-light mb-1">Avg Expense</p>
+        <p id="pa-avg-expense" class="text-2xl font-bold text-primary">—</p>
+      </div>
+      <div class="bg-background-alt rounded-xl p-4 text-center">
+        <p class="text-xs font-bold uppercase tracking-widest text-text-light mb-1">Top Holding</p>
+        <p id="pa-top-holding" class="text-2xl font-bold text-primary">—</p>
+      </div>
+    </div>
+
+    <!-- Warnings -->
+    <div id="pa-warnings" class="mb-8 space-y-3"></div>
+
+    <!-- Charts -->
+    <div class="grid md:grid-cols-2 gap-6 mb-8">
+      <div class="bg-white rounded-xl border border-primary/10 p-4">
+        <h3 class="text-sm font-bold uppercase tracking-widest text-text-light mb-3">Allocation Breakdown</h3>
+        <div class="relative" style="max-height: 320px;">
+          <canvas id="pa-allocation-chart"></canvas>
+        </div>
+        <div id="pa-allocation-legend" class="mt-4 flex flex-wrap gap-2 justify-center text-xs"></div>
+      </div>
+      <div class="bg-white rounded-xl border border-primary/10 p-4">
+        <h3 class="text-sm font-bold uppercase tracking-widest text-text-light mb-3">Top 10 Holdings</h3>
+        <div class="relative" style="max-height: 320px;">
+          <canvas id="pa-holdings-chart"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <!-- Holdings Table -->
+    <div class="mb-8">
+      <h3 class="text-sm font-bold uppercase tracking-widest text-text-light mb-3">All Holdings</h3>
+      <div class="overflow-x-auto rounded-xl border border-primary/10">
+        <table class="w-full text-sm">
+          <thead class="bg-background-alt">
+            <tr>
+              <th class="text-left px-4 py-3 font-semibold text-primary">Symbol</th>
+              <th class="text-left px-4 py-3 font-semibold text-primary">Name</th>
+              <th class="text-right px-4 py-3 font-semibold text-primary">Value</th>
+              <th class="text-right px-4 py-3 font-semibold text-primary">Weight</th>
+              <th class="text-left px-4 py-3 font-semibold text-primary">Sector</th>
+              <th class="text-right px-4 py-3 font-semibold text-primary">Gain/Loss</th>
+            </tr>
+          </thead>
+          <tbody id="pa-holdings-tbody"></tbody>
+        </table>
+      </div>
+      <button id="pa-show-all-btn" class="hidden mt-3 text-sm text-accent hover:text-accent-hover underline underline-offset-2 transition-colors">
+        Show all holdings
+      </button>
+    </div>
+
+    <!-- Generated Prompts -->
+    <div class="mb-8">
+      <h3 class="text-lg font-bold text-primary mb-1">AI Analysis Prompts</h3>
+      <p class="text-sm text-text-light mb-4">Pre-filled with your portfolio data. Copy and paste into ChatGPT or Claude.</p>
+
+      <div class="space-y-4">
+        <!-- Prompt 1: Overview -->
+        <div class="rounded-xl border border-primary/10 overflow-hidden">
+          <div class="flex items-center justify-between bg-background-alt px-4 py-3">
+            <span class="font-semibold text-sm text-primary">Portfolio Overview & Risk</span>
+            <button class="pa-copy-btn flex items-center gap-1.5 px-3 py-1.5 bg-white border border-primary/20 hover:border-accent text-primary/60 hover:text-accent rounded-md transition-all text-xs font-semibold" data-target="pa-prompt-1">
+              <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /></svg>
+              Copy
+            </button>
+          </div>
+          <pre id="pa-prompt-1" class="px-4 py-3 text-xs leading-relaxed text-text whitespace-pre-wrap bg-white overflow-x-auto max-h-48 overflow-y-auto"></pre>
+        </div>
+
+        <!-- Prompt 2: Fee Optimization -->
+        <div class="rounded-xl border border-primary/10 overflow-hidden">
+          <div class="flex items-center justify-between bg-background-alt px-4 py-3">
+            <span class="font-semibold text-sm text-primary">Fee & Expense Optimization</span>
+            <button class="pa-copy-btn flex items-center gap-1.5 px-3 py-1.5 bg-white border border-primary/20 hover:border-accent text-primary/60 hover:text-accent rounded-md transition-all text-xs font-semibold" data-target="pa-prompt-2">
+              <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /></svg>
+              Copy
+            </button>
+          </div>
+          <pre id="pa-prompt-2" class="px-4 py-3 text-xs leading-relaxed text-text whitespace-pre-wrap bg-white overflow-x-auto max-h-48 overflow-y-auto"></pre>
+        </div>
+
+        <!-- Prompt 3: Rebalancing -->
+        <div class="rounded-xl border border-primary/10 overflow-hidden">
+          <div class="flex items-center justify-between bg-background-alt px-4 py-3">
+            <span class="font-semibold text-sm text-primary">Rebalancing Suggestions</span>
+            <button class="pa-copy-btn flex items-center gap-1.5 px-3 py-1.5 bg-white border border-primary/20 hover:border-accent text-primary/60 hover:text-accent rounded-md transition-all text-xs font-semibold" data-target="pa-prompt-3">
+              <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /></svg>
+              Copy
+            </button>
+          </div>
+          <pre id="pa-prompt-3" class="px-4 py-3 text-xs leading-relaxed text-text whitespace-pre-wrap bg-white overflow-x-auto max-h-48 overflow-y-auto"></pre>
+        </div>
+      </div>
+    </div>
+
+    <!-- Reset -->
+    <div class="text-center">
+      <button id="pa-reset-btn" class="inline-flex items-center gap-2 px-6 py-3 bg-primary text-white font-semibold rounded-xl hover:bg-primary/90 transition-colors">
+        <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" /></svg>
+        Analyze Another Portfolio
+      </button>
+    </div>
+  </div>
+</section>
+
+<script>
+(function initPortfolioAnalyzer() {
+  // ── Sector map for common tickers ──
+  const ETF_SECTORS: Record<string, string> = {
+    VOO:'US Large Cap',SPY:'US Large Cap',IVV:'US Large Cap',
+    VTI:'US Total Market',ITOT:'US Total Market',SPTM:'US Total Market',
+    QQQ:'Tech/Growth',QQQM:'Tech/Growth',VGT:'Technology',XLK:'Technology',
+    SCHD:'Dividend',VYM:'Dividend',DVY:'Dividend',HDV:'Dividend',DGRO:'Dividend',
+    VEA:'Intl Developed',VXUS:'International',EFA:'Intl Developed',IXUS:'International',
+    VWO:'Emerging Markets',IEMG:'Emerging Markets',EEM:'Emerging Markets',
+    BND:'Bonds',AGG:'Bonds',TLT:'Long-Term Bonds',SHY:'Short-Term Bonds',BNDX:'Intl Bonds',
+    GLD:'Gold',IAU:'Gold',SLV:'Silver',
+    VNQ:'Real Estate',SCHH:'Real Estate',IYR:'Real Estate',XLRE:'Real Estate',
+    ARKK:'Innovation',ARKG:'Genomics',
+    XLE:'Energy',XLF:'Financials',XLV:'Healthcare',XLY:'Consumer Disc.',
+    XLP:'Consumer Staples',XLI:'Industrials',XLB:'Materials',XLU:'Utilities',
+    AAPL:'Technology',MSFT:'Technology',GOOGL:'Technology',GOOG:'Technology',
+    AMZN:'Consumer Disc.',NVDA:'Technology',META:'Technology',
+    TSLA:'Consumer Disc.','BRK.B':'Financials',JPM:'Financials',
+    V:'Financials',JNJ:'Healthcare',UNH:'Healthcare',PG:'Consumer Staples',
+    MA:'Financials',HD:'Consumer Disc.',DIS:'Communication',
+    BAC:'Financials',XOM:'Energy',PFE:'Healthcare',KO:'Consumer Staples',
+    PEP:'Consumer Staples',ABBV:'Healthcare',COST:'Consumer Staples',
+    MRK:'Healthcare',WMT:'Consumer Staples',AVGO:'Technology',
+    LLY:'Healthcare',TMO:'Healthcare',CSCO:'Technology',ABT:'Healthcare',
+    CRM:'Technology',ACN:'Technology',MCD:'Consumer Disc.',
+    NFLX:'Communication',AMD:'Technology',INTC:'Technology',
+    ADBE:'Technology',ORCL:'Technology',PYPL:'Financials',
+    T:'Communication',VZ:'Communication',NEE:'Utilities',
+    CVX:'Energy',COP:'Energy',LIN:'Materials',LOW:'Consumer Disc.',
+    SBUX:'Consumer Disc.',NKE:'Consumer Disc.',QCOM:'Technology',
+    AMAT:'Technology',TXN:'Technology',INTU:'Technology',
+    BMY:'Healthcare',AMGN:'Healthcare',GILD:'Healthcare',
+    GS:'Financials',MS:'Financials',C:'Financials',WFC:'Financials',
+    BLK:'Financials',SCHW:'Financials',
+  };
+
+  const CHART_COLORS = [
+    '#7c3aed','#3b82f6','#10b981','#f59e0b','#ef4444',
+    '#8b5cf6','#06b6d4','#f97316','#ec4899','#14b8a6',
+    '#6366f1','#84cc16','#a855f7','#0ea5e9','#d946ef',
+  ];
+
+  const SAMPLE_CSV = `Symbol,Description,Quantity,Last Price,Current Value,Cost Basis Total,Expense Ratio,Type
+VOO,Vanguard S&P 500 ETF,50,520.30,26015.00,22500.00,0.03%,ETF
+QQQ,Invesco QQQ Trust,30,485.20,14556.00,12800.00,0.20%,ETF
+SCHD,Schwab US Dividend Equity,80,82.50,6600.00,6000.00,0.06%,ETF
+VWO,Vanguard FTSE Emerging Markets,100,44.80,4480.00,4200.00,0.08%,ETF
+BND,Vanguard Total Bond Market,60,72.10,4326.00,4500.00,0.03%,ETF
+AAPL,Apple Inc,25,228.50,5712.50,4000.00,—,Stock
+MSFT,Microsoft Corp,15,445.20,6678.00,5200.00,—,Stock
+NVDA,NVIDIA Corp,20,875.30,17506.00,8000.00,—,Stock
+JPM,JPMorgan Chase,18,235.60,4240.80,3800.00,—,Stock
+VNQ,Vanguard Real Estate ETF,45,84.30,3793.50,4100.00,0.12%,ETF
+GLD,SPDR Gold Shares,15,215.40,3231.00,2800.00,0.40%,ETF
+XLE,Energy Select Sector SPDR,40,88.90,3556.00,3200.00,0.09%,ETF`;
+
+  // ── CSV Parser ──
+  function parseCSV(text: string) {
+    const lines = text.trim().split(/\r?\n/);
+    if (lines.length < 2) return { headers: [] as string[], rows: [] as string[][] };
+    const first = lines[0];
+    const delim = first.includes('\t') ? '\t' : first.split(';').length > first.split(',').length ? ';' : ',';
+
+    function parseLine(line: string): string[] {
+      const fields: string[] = [];
+      let field = '';
+      let inQ = false;
+      for (let i = 0; i < line.length; i++) {
+        const ch = line[i];
+        if (ch === '"') {
+          if (inQ && line[i + 1] === '"') { field += '"'; i++; }
+          else inQ = !inQ;
+        } else if (ch === delim && !inQ) {
+          fields.push(field.trim());
+          field = '';
+        } else {
+          field += ch;
+        }
+      }
+      fields.push(field.trim());
+      return fields;
+    }
+
+    const headers = parseLine(lines[0]);
+    const rows = lines.slice(1).filter(l => l.trim()).map(parseLine);
+    return { headers, rows };
+  }
+
+  // ── Column Detection ──
+  function detectColumns(headers: string[]): Record<string, number> {
+    const map: Record<string, number> = {};
+    const lower = headers.map(h => h.toLowerCase().replace(/[^a-z0-9]/g, ''));
+    const patterns: Record<string, string[]> = {
+      ticker: ['symbol','ticker','sym'],
+      name: ['name','description','holding','security'],
+      quantity: ['quantity','shares','units','qty'],
+      price: ['price','lastprice','currentprice','last','closingprice'],
+      value: ['currentvalue','marketvalue','value','balance','amount','totalvalue'],
+      costBasis: ['costbasistotal','costbasis','cost','avgcost','totalcost'],
+      expenseRatio: ['expenseratio','expense','er','fee','annualfee'],
+      sector: ['sector','assetclass','type','category','class'],
+    };
+
+    for (const [key, keywords] of Object.entries(patterns)) {
+      for (let i = 0; i < lower.length; i++) {
+        if (keywords.some(kw => lower[i].includes(kw))) {
+          map[key] = i;
+          break;
+        }
+      }
+    }
+    return map;
+  }
+
+  function parseNum(val: string | undefined): number {
+    if (!val || val === '—' || val === 'N/A' || val === '-') return 0;
+    return parseFloat(val.replace(/[$,\s%]/g, '')) || 0;
+  }
+
+  function formatCurrency(n: number): string {
+    if (n >= 1e6) return '$' + (n / 1e6).toFixed(2) + 'M';
+    if (n >= 1e3) return '$' + n.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    return '$' + n.toFixed(2);
+  }
+
+  interface Holding {
+    ticker: string;
+    name: string;
+    quantity: number;
+    price: number;
+    value: number;
+    costBasis: number;
+    expenseRatio: number;
+    sector: string;
+    weight: number;
+    gainLoss: number;
+    gainLossPct: number;
+  }
+
+  interface Analysis {
+    holdings: Holding[];
+    totalValue: number;
+    sectors: Record<string, number>;
+    avgExpense: number;
+    expenseCount: number;
+    warnings: string[];
+  }
+
+  // ── Analysis ──
+  function analyzePortfolio(csvText: string): Analysis {
+    const { headers, rows } = parseCSV(csvText);
+    if (rows.length === 0) throw new Error('No data rows found in CSV.');
+
+    const cols = detectColumns(headers);
+    if (cols.ticker === undefined && cols.name === undefined) {
+      throw new Error('Could not detect ticker/symbol or name columns. Check that your CSV has a header row with columns like Symbol, Description, Value, etc.');
+    }
+
+    const holdings: Holding[] = [];
+    let totalValue = 0;
+
+    for (const row of rows) {
+      const ticker = (row[cols.ticker] || '').toUpperCase().trim();
+      const name = (row[cols.name] || ticker || '').trim();
+      if (!ticker && !name) continue;
+
+      const quantity = cols.quantity !== undefined ? parseNum(row[cols.quantity]) : 0;
+      const price = cols.price !== undefined ? parseNum(row[cols.price]) : 0;
+      let value = cols.value !== undefined ? parseNum(row[cols.value]) : 0;
+      if (!value && quantity && price) value = quantity * price;
+      if (!value) continue; // skip zero-value positions
+
+      const costBasis = cols.costBasis !== undefined ? parseNum(row[cols.costBasis]) : 0;
+      const expenseRatio = cols.expenseRatio !== undefined ? parseNum(row[cols.expenseRatio]) : 0;
+
+      let sector = cols.sector !== undefined ? (row[cols.sector] || '').trim() : '';
+      if (!sector && ticker) sector = ETF_SECTORS[ticker] || '';
+      if (!sector) sector = 'Unknown';
+
+      const gainLoss = costBasis > 0 ? value - costBasis : 0;
+      const gainLossPct = costBasis > 0 ? (gainLoss / costBasis) * 100 : 0;
+
+      totalValue += value;
+      holdings.push({ ticker, name, quantity, price, value, costBasis, expenseRatio, sector, weight: 0, gainLoss, gainLossPct });
+    }
+
+    if (holdings.length === 0) throw new Error('No valid holdings found. Make sure your CSV has a value or price column.');
+
+    // Calculate weights and sectors
+    const sectors: Record<string, number> = {};
+    let expenseSum = 0;
+    let expenseCount = 0;
+
+    for (const h of holdings) {
+      h.weight = (h.value / totalValue) * 100;
+      sectors[h.sector] = (sectors[h.sector] || 0) + h.value;
+      if (h.expenseRatio > 0) {
+        expenseSum += h.expenseRatio * h.value;
+        expenseCount++;
+      }
+    }
+
+    holdings.sort((a, b) => b.value - a.value);
+
+    // Weighted average expense ratio
+    const avgExpense = totalValue > 0 ? expenseSum / totalValue : 0;
+
+    // Warnings
+    const warnings: string[] = [];
+    const top = holdings[0];
+    if (top && top.weight > 25) {
+      warnings.push(`High concentration: ${top.ticker || top.name} is ${top.weight.toFixed(1)}% of your portfolio. Consider if this aligns with your risk tolerance.`);
+    }
+    if (top && top.weight > 15 && top.weight <= 25) {
+      warnings.push(`${top.ticker || top.name} is ${top.weight.toFixed(1)}% of your portfolio — watch for over-concentration.`);
+    }
+
+    const sectorEntries = Object.entries(sectors).sort((a, b) => b[1] - a[1]);
+    if (sectorEntries.length > 0) {
+      const topSectorPct = (sectorEntries[0][1] / totalValue) * 100;
+      if (topSectorPct > 50) {
+        warnings.push(`Sector concentration: ${sectorEntries[0][0]} makes up ${topSectorPct.toFixed(1)}% of your portfolio.`);
+      }
+    }
+
+    const losers = holdings.filter(h => h.gainLoss < 0);
+    if (losers.length > 0) {
+      const totalLoss = losers.reduce((s, h) => s + Math.abs(h.gainLoss), 0);
+      warnings.push(`${losers.length} position${losers.length > 1 ? 's' : ''} with unrealized losses totaling ${formatCurrency(totalLoss)}. Potential tax-loss harvesting opportunity.`);
+    }
+
+    if (avgExpense > 0.5) {
+      warnings.push(`Your weighted average expense ratio is ${avgExpense.toFixed(2)}% — higher than typical index fund portfolios (0.03-0.10%).`);
+    }
+
+    return { holdings, totalValue, sectors, avgExpense, expenseCount, warnings };
+  }
+
+  // ── Chart.js Loader ──
+  async function loadChartJS(): Promise<void> {
+    if ((window as any).Chart) return;
+    return new Promise((resolve, reject) => {
+      const s = document.createElement('script');
+      s.src = 'https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js';
+      s.onload = () => resolve();
+      s.onerror = () => reject(new Error('Failed to load Chart.js'));
+      document.head.appendChild(s);
+    });
+  }
+
+  // ── Render ──
+  let allocationChart: any = null;
+  let holdingsChart: any = null;
+
+  function destroyCharts() {
+    if (allocationChart) { allocationChart.destroy(); allocationChart = null; }
+    if (holdingsChart) { holdingsChart.destroy(); holdingsChart = null; }
+  }
+
+  async function renderResults(analysis: Analysis) {
+    const { holdings, totalValue, sectors, avgExpense, expenseCount, warnings } = analysis;
+
+    // Summary cards
+    const el = (id: string) => document.getElementById(id)!;
+    el('pa-total-value').textContent = formatCurrency(totalValue);
+    el('pa-positions').textContent = String(holdings.length);
+    el('pa-avg-expense').textContent = expenseCount > 0 ? avgExpense.toFixed(2) + '%' : 'N/A';
+    el('pa-top-holding').textContent = (holdings[0]?.ticker || holdings[0]?.name || '—').substring(0, 8);
+
+    // Warnings
+    const warningsEl = el('pa-warnings');
+    warningsEl.innerHTML = '';
+    for (const w of warnings) {
+      const div = document.createElement('div');
+      div.className = 'flex items-start gap-3 p-4 bg-amber-50 border border-amber-200 rounded-xl text-amber-800 text-sm';
+      div.innerHTML = `<svg class="w-5 h-5 flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.964-.833-2.732 0L4.082 16.5c-.77.833.192 2.5 1.732 2.5z" /></svg><span>${w}</span>`;
+      warningsEl.appendChild(div);
+    }
+
+    // Holdings table
+    const tbody = el('pa-holdings-tbody');
+    tbody.innerHTML = '';
+    const showInitially = 10;
+    holdings.forEach((h, i) => {
+      const tr = document.createElement('tr');
+      tr.className = i >= showInitially ? 'pa-extra-row hidden' : '';
+      if (i % 2 === 0) tr.classList.add('bg-background-alt/30');
+      const gainClass = h.gainLoss > 0 ? 'text-green-600' : h.gainLoss < 0 ? 'text-red-600' : 'text-text-light';
+      const gainSign = h.gainLoss > 0 ? '+' : '';
+      tr.innerHTML = `
+        <td class="px-4 py-2.5 font-semibold text-primary">${h.ticker || '—'}</td>
+        <td class="px-4 py-2.5 text-text-light max-w-[200px] truncate">${h.name}</td>
+        <td class="px-4 py-2.5 text-right font-medium">${formatCurrency(h.value)}</td>
+        <td class="px-4 py-2.5 text-right font-medium">${h.weight.toFixed(1)}%</td>
+        <td class="px-4 py-2.5">${h.sector}</td>
+        <td class="px-4 py-2.5 text-right ${gainClass} font-medium">${h.costBasis > 0 ? gainSign + formatCurrency(h.gainLoss) + ' (' + gainSign + h.gainLossPct.toFixed(1) + '%)' : '—'}</td>
+      `;
+      tbody.appendChild(tr);
+    });
+
+    const showAllBtn = el('pa-show-all-btn') as HTMLButtonElement;
+    if (holdings.length > showInitially) {
+      showAllBtn.classList.remove('hidden');
+      showAllBtn.textContent = `Show all ${holdings.length} holdings`;
+      showAllBtn.onclick = () => {
+        tbody.querySelectorAll('.pa-extra-row').forEach(r => r.classList.remove('hidden'));
+        showAllBtn.classList.add('hidden');
+      };
+    } else {
+      showAllBtn.classList.add('hidden');
+    }
+
+    // Charts
+    try {
+      await loadChartJS();
+      destroyCharts();
+      const Chart = (window as any).Chart;
+
+      // Allocation pie
+      const sectorEntries = Object.entries(sectors).sort((a, b) => b[1] - a[1]);
+      const allocCtx = (el('pa-allocation-chart') as HTMLCanvasElement).getContext('2d');
+      allocationChart = new Chart(allocCtx, {
+        type: 'doughnut',
+        data: {
+          labels: sectorEntries.map(([s]) => s),
+          datasets: [{
+            data: sectorEntries.map(([, v]) => v),
+            backgroundColor: CHART_COLORS.slice(0, sectorEntries.length),
+            borderWidth: 2,
+            borderColor: '#fff',
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: true,
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              callbacks: {
+                label: (ctx: any) => {
+                  const pct = ((ctx.parsed / totalValue) * 100).toFixed(1);
+                  return `${ctx.label}: ${formatCurrency(ctx.parsed)} (${pct}%)`;
+                }
+              }
+            }
+          }
+        }
+      });
+
+      // Custom legend
+      const legendEl = el('pa-allocation-legend');
+      legendEl.innerHTML = '';
+      sectorEntries.forEach(([s, v], i) => {
+        const pct = ((v / totalValue) * 100).toFixed(1);
+        const span = document.createElement('span');
+        span.className = 'inline-flex items-center gap-1.5 px-2 py-1 bg-background-alt rounded-md';
+        span.innerHTML = `<span class="w-2.5 h-2.5 rounded-full flex-shrink-0" style="background:${CHART_COLORS[i % CHART_COLORS.length]}"></span>${s} ${pct}%`;
+        legendEl.appendChild(span);
+      });
+
+      // Top holdings bar chart
+      const top10 = holdings.slice(0, 10);
+      const holdCtx = (el('pa-holdings-chart') as HTMLCanvasElement).getContext('2d');
+      holdingsChart = new Chart(holdCtx, {
+        type: 'bar',
+        data: {
+          labels: top10.map(h => h.ticker || h.name.substring(0, 8)),
+          datasets: [{
+            data: top10.map(h => h.weight),
+            backgroundColor: CHART_COLORS.slice(0, top10.length),
+            borderRadius: 6,
+            barPercentage: 0.7,
+          }]
+        },
+        options: {
+          indexAxis: 'y',
+          responsive: true,
+          maintainAspectRatio: true,
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              callbacks: {
+                label: (ctx: any) => `${ctx.parsed.x.toFixed(1)}% (${formatCurrency(top10[ctx.dataIndex].value)})`
+              }
+            }
+          },
+          scales: {
+            x: {
+              beginAtZero: true,
+              ticks: { callback: (v: any) => v + '%' },
+              grid: { color: 'rgba(0,0,0,0.05)' }
+            },
+            y: {
+              grid: { display: false }
+            }
+          }
+        }
+      });
+    } catch {
+      // Chart.js failed — show text fallback
+      el('pa-allocation-chart').parentElement!.innerHTML = '<p class="text-sm text-text-light p-4">Chart unavailable. See holdings table below for details.</p>';
+      el('pa-holdings-chart').parentElement!.innerHTML = '<p class="text-sm text-text-light p-4">Chart unavailable. See holdings table below for details.</p>';
+    }
+
+    // Generate prompts
+    const holdingsList = holdings.slice(0, 20).map(h =>
+      `${h.ticker || h.name}: $${h.value.toFixed(0)} (${h.weight.toFixed(1)}%) — ${h.sector}`
+    ).join('\n');
+
+    const sectorList = Object.entries(sectors)
+      .sort((a, b) => b[1] - a[1])
+      .map(([s, v]) => `${s}: $${v.toFixed(0)} (${((v / totalValue) * 100).toFixed(1)}%)`)
+      .join('\n');
+
+    const expenseList = holdings
+      .filter(h => h.expenseRatio > 0)
+      .sort((a, b) => b.expenseRatio - a.expenseRatio)
+      .slice(0, 15)
+      .map(h => `${h.ticker}: ${h.expenseRatio.toFixed(2)}% ER — $${h.value.toFixed(0)}`)
+      .join('\n');
+
+    const lossList = holdings
+      .filter(h => h.gainLoss < 0)
+      .map(h => `${h.ticker}: loss of $${Math.abs(h.gainLoss).toFixed(0)} (${h.gainLossPct.toFixed(1)}%)`)
+      .join('\n');
+
+    el('pa-prompt-1').textContent = `Analyze my investment portfolio. Here is a summary:
+
+Total Value: ${formatCurrency(totalValue)}
+Positions: ${holdings.length}
+
+Top Holdings:
+${holdingsList}
+
+Sector Allocation:
+${sectorList}
+
+Please provide:
+1. An assessment of my diversification across sectors and asset classes
+2. Any concentration risks you see (positions or sectors that are too large)
+3. How my allocation compares to a standard S&P 500 benchmark
+4. Specific suggestions for improving diversification
+5. An overall risk assessment (conservative/moderate/aggressive)`;
+
+    el('pa-prompt-2').textContent = `Here are my portfolio holdings with expense ratios:
+
+${expenseList || 'No expense ratio data available.'}
+
+Total portfolio value: ${formatCurrency(totalValue)}
+Weighted average expense ratio: ${expenseCount > 0 ? avgExpense.toFixed(2) + '%' : 'N/A'}
+
+Please:
+1. List every holding with an expense ratio above 0.20%
+2. For each expensive fund, suggest a lower-cost alternative tracking a similar index
+3. Calculate my total annual fees in dollars
+4. Calculate how much I would save per year if I switched to the cheapest alternatives
+5. Flag any duplicate exposure (e.g., two funds tracking similar indexes)`;
+
+    el('pa-prompt-3').textContent = `Here is my current portfolio allocation:
+
+${sectorList}
+
+Total value: ${formatCurrency(totalValue)}
+${lossList ? '\nPositions with unrealized losses:\n' + lossList : ''}
+
+My target allocation is: [FILL IN YOUR TARGET, e.g., 70% US stocks / 15% international / 10% bonds / 5% alternatives]
+
+Please:
+1. Compare my current allocation to the target above
+2. Tell me exactly what to buy and sell to rebalance, with dollar amounts
+3. Prioritize selling positions with unrealized losses (tax-loss harvesting)
+4. Flag any tax implications I should be aware of
+5. Suggest whether to rebalance all at once or gradually`;
+
+    // Show results
+    el('pa-upload-zone').classList.add('hidden');
+    el('pa-results')!.classList.remove('hidden');
+  }
+
+  // ── Event Listeners ──
+  function init() {
+    const uploadZone = document.getElementById('pa-upload-zone');
+    const fileInput = document.getElementById('pa-file-input') as HTMLInputElement;
+    const sampleBtn = document.getElementById('pa-sample-btn');
+    const resetBtn = document.getElementById('pa-reset-btn');
+    const errorEl = document.getElementById('pa-error');
+
+    if (!uploadZone || !fileInput) return;
+
+    function showError(msg: string) {
+      errorEl!.textContent = msg;
+      errorEl!.classList.remove('hidden');
+    }
+
+    function hideError() {
+      errorEl!.classList.add('hidden');
+    }
+
+    function handleFile(file: File) {
+      hideError();
+      if (file.size > 5 * 1024 * 1024) {
+        showError('File too large (max 5 MB).');
+        return;
+      }
+      const reader = new FileReader();
+      reader.onload = (e) => {
+        try {
+          const text = e.target?.result as string;
+          const analysis = analyzePortfolio(text);
+          renderResults(analysis);
+        } catch (err: any) {
+          showError(err.message || 'Could not parse CSV. Check the file format.');
+        }
+      };
+      reader.readAsText(file);
+    }
+
+    // Click to upload
+    uploadZone.addEventListener('click', (e) => {
+      if ((e.target as HTMLElement).id === 'pa-sample-btn') return;
+      fileInput.click();
+    });
+
+    fileInput.addEventListener('change', () => {
+      if (fileInput.files?.[0]) handleFile(fileInput.files[0]);
+    });
+
+    // Drag & drop
+    uploadZone.addEventListener('dragover', (e) => {
+      e.preventDefault();
+      uploadZone.classList.add('border-accent', 'bg-accent/10');
+    });
+    uploadZone.addEventListener('dragleave', () => {
+      uploadZone.classList.remove('border-accent', 'bg-accent/10');
+    });
+    uploadZone.addEventListener('drop', (e) => {
+      e.preventDefault();
+      uploadZone.classList.remove('border-accent', 'bg-accent/10');
+      const file = (e as DragEvent).dataTransfer?.files[0];
+      if (file) handleFile(file);
+    });
+
+    // Sample data
+    sampleBtn?.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      hideError();
+      try {
+        const analysis = analyzePortfolio(SAMPLE_CSV);
+        renderResults(analysis);
+      } catch (err: any) {
+        showError(err.message);
+      }
+    });
+
+    // Reset
+    resetBtn?.addEventListener('click', () => {
+      destroyCharts();
+      document.getElementById('pa-results')!.classList.add('hidden');
+      uploadZone.classList.remove('hidden');
+      hideError();
+      fileInput.value = '';
+    });
+
+    // Copy buttons
+    document.querySelectorAll('.pa-copy-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const targetId = (btn as HTMLElement).dataset.target!;
+        const text = document.getElementById(targetId)?.textContent || '';
+        navigator.clipboard.writeText(text).then(() => {
+          const span = btn.querySelector('span') || btn;
+          const original = span.textContent;
+          span.textContent = 'Copied!';
+          (btn as HTMLElement).classList.add('border-green-500', 'text-green-600');
+          setTimeout(() => {
+            span.textContent = original;
+            (btn as HTMLElement).classList.remove('border-green-500', 'text-green-600');
+          }, 2000);
+        });
+      });
+    });
+  }
+
+  // Support View Transitions
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+  document.addEventListener('astro:page-load', init);
+})();
+</script>

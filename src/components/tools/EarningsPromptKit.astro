@@ -1,0 +1,577 @@
+---
+// Earnings Call Prompt Kit — paste transcript, get 5 analysis prompts
+// No data leaves the browser
+---
+
+<section id="earnings-prompt-kit" class="my-12 rounded-2xl border border-primary/10 shadow-lg overflow-hidden not-prose">
+  <!-- Header -->
+  <div class="bg-primary px-6 py-5">
+    <h2 class="text-2xl font-bold text-white mb-1 flex items-center gap-3">
+      <svg class="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+      </svg>
+      Earnings Call Prompt Kit
+    </h2>
+    <p class="text-white/80 text-sm">Paste a transcript and get 5 ready-to-use AI analysis prompts. Everything runs locally in your browser.</p>
+  </div>
+
+  <!-- Input Zone -->
+  <div id="ep-input-zone" class="p-6">
+    <label for="ep-textarea" class="block text-sm font-semibold text-primary mb-2">Paste the earnings call transcript</label>
+    <textarea
+      id="ep-textarea"
+      class="w-full h-56 p-4 rounded-xl border border-primary/20 bg-background-alt/30 text-sm text-text leading-relaxed resize-y focus:outline-none focus:border-accent focus:ring-2 focus:ring-accent/20 transition-all placeholder:text-text-light/50"
+      placeholder="Paste the full earnings call transcript here...
+
+Tip: Copy from Seeking Alpha, The Motley Fool, or the company's IR page. The more text you include, the better the generated prompts will be."
+    ></textarea>
+
+    <div class="flex flex-col sm:flex-row items-start sm:items-center gap-3 mt-4">
+      <button id="ep-generate-btn" class="inline-flex items-center gap-2 px-6 py-3 bg-accent text-white font-semibold rounded-xl hover:bg-accent-hover transition-colors disabled:opacity-50 disabled:cursor-not-allowed">
+        <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" /></svg>
+        Generate Prompts
+      </button>
+      <button id="ep-sample-btn" class="text-sm text-accent hover:text-accent-hover underline underline-offset-2 transition-colors">
+        Try with sample transcript
+      </button>
+      <span id="ep-char-count" class="text-xs text-text-light ml-auto">0 characters</span>
+    </div>
+  </div>
+
+  <!-- Error -->
+  <div id="ep-error" class="hidden mx-6 mb-6 p-4 bg-red-50 border border-red-200 rounded-xl text-red-700 text-sm"></div>
+
+  <!-- Results -->
+  <div id="ep-results" class="hidden px-6 pb-6">
+    <!-- Detected Info -->
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+      <div class="bg-background-alt rounded-xl p-4 text-center">
+        <p class="text-xs font-bold uppercase tracking-widest text-text-light mb-1">Company</p>
+        <p id="ep-company" class="text-lg font-bold text-primary truncate">—</p>
+      </div>
+      <div class="bg-background-alt rounded-xl p-4 text-center">
+        <p class="text-xs font-bold uppercase tracking-widest text-text-light mb-1">Quarter</p>
+        <p id="ep-quarter" class="text-lg font-bold text-primary">—</p>
+      </div>
+      <div class="bg-background-alt rounded-xl p-4 text-center">
+        <p class="text-xs font-bold uppercase tracking-widest text-text-light mb-1">Word Count</p>
+        <p id="ep-wordcount" class="text-lg font-bold text-primary">—</p>
+      </div>
+      <div class="bg-background-alt rounded-xl p-4 text-center">
+        <p class="text-xs font-bold uppercase tracking-widest text-text-light mb-1">Has Q&A</p>
+        <p id="ep-has-qa" class="text-lg font-bold text-primary">—</p>
+      </div>
+    </div>
+
+    <!-- Prompts -->
+    <div class="space-y-4 mb-8">
+      <div class="rounded-xl border border-primary/10 overflow-hidden">
+        <div class="flex items-center justify-between bg-background-alt px-4 py-3">
+          <div>
+            <span class="font-semibold text-sm text-primary">1. Quick Summary</span>
+            <span class="text-xs text-text-light ml-2">~2 min with AI</span>
+          </div>
+          <button class="ep-copy-btn flex items-center gap-1.5 px-3 py-1.5 bg-white border border-primary/20 hover:border-accent text-primary/60 hover:text-accent rounded-md transition-all text-xs font-semibold" data-target="ep-prompt-1">
+            <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /></svg>
+            Copy
+          </button>
+        </div>
+        <pre id="ep-prompt-1" class="px-4 py-3 text-xs leading-relaxed text-text whitespace-pre-wrap bg-white overflow-x-auto max-h-48 overflow-y-auto"></pre>
+      </div>
+
+      <div class="rounded-xl border border-primary/10 overflow-hidden">
+        <div class="flex items-center justify-between bg-background-alt px-4 py-3">
+          <div>
+            <span class="font-semibold text-sm text-primary">2. Full Structured Analysis</span>
+            <span class="text-xs text-text-light ml-2">~5 min with AI</span>
+          </div>
+          <button class="ep-copy-btn flex items-center gap-1.5 px-3 py-1.5 bg-white border border-primary/20 hover:border-accent text-primary/60 hover:text-accent rounded-md transition-all text-xs font-semibold" data-target="ep-prompt-2">
+            <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /></svg>
+            Copy
+          </button>
+        </div>
+        <pre id="ep-prompt-2" class="px-4 py-3 text-xs leading-relaxed text-text whitespace-pre-wrap bg-white overflow-x-auto max-h-48 overflow-y-auto"></pre>
+      </div>
+
+      <div class="rounded-xl border border-primary/10 overflow-hidden">
+        <div class="flex items-center justify-between bg-background-alt px-4 py-3">
+          <div>
+            <span class="font-semibold text-sm text-primary">3. Red Flag Detection</span>
+            <span class="text-xs text-text-light ml-2">~3 min with AI</span>
+          </div>
+          <button class="ep-copy-btn flex items-center gap-1.5 px-3 py-1.5 bg-white border border-primary/20 hover:border-accent text-primary/60 hover:text-accent rounded-md transition-all text-xs font-semibold" data-target="ep-prompt-3">
+            <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /></svg>
+            Copy
+          </button>
+        </div>
+        <pre id="ep-prompt-3" class="px-4 py-3 text-xs leading-relaxed text-text whitespace-pre-wrap bg-white overflow-x-auto max-h-48 overflow-y-auto"></pre>
+      </div>
+
+      <div class="rounded-xl border border-primary/10 overflow-hidden">
+        <div class="flex items-center justify-between bg-background-alt px-4 py-3">
+          <div>
+            <span class="font-semibold text-sm text-primary">4. Guidance & Forward-Looking</span>
+            <span class="text-xs text-text-light ml-2">~3 min with AI</span>
+          </div>
+          <button class="ep-copy-btn flex items-center gap-1.5 px-3 py-1.5 bg-white border border-primary/20 hover:border-accent text-primary/60 hover:text-accent rounded-md transition-all text-xs font-semibold" data-target="ep-prompt-4">
+            <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /></svg>
+            Copy
+          </button>
+        </div>
+        <pre id="ep-prompt-4" class="px-4 py-3 text-xs leading-relaxed text-text whitespace-pre-wrap bg-white overflow-x-auto max-h-48 overflow-y-auto"></pre>
+      </div>
+
+      <div class="rounded-xl border border-primary/10 overflow-hidden">
+        <div class="flex items-center justify-between bg-background-alt px-4 py-3">
+          <div>
+            <span class="font-semibold text-sm text-primary">5. Q&A Deep Dive</span>
+            <span class="text-xs text-text-light ml-2">~5 min with AI</span>
+          </div>
+          <button class="ep-copy-btn flex items-center gap-1.5 px-3 py-1.5 bg-white border border-primary/20 hover:border-accent text-primary/60 hover:text-accent rounded-md transition-all text-xs font-semibold" data-target="ep-prompt-5">
+            <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /></svg>
+            Copy
+          </button>
+        </div>
+        <pre id="ep-prompt-5" class="px-4 py-3 text-xs leading-relaxed text-text whitespace-pre-wrap bg-white overflow-x-auto max-h-48 overflow-y-auto"></pre>
+      </div>
+    </div>
+
+    <!-- Tip -->
+    <div class="flex items-start gap-3 p-4 bg-accent/5 border border-accent/20 rounded-xl text-sm text-primary mb-6">
+      <svg class="w-5 h-5 flex-shrink-0 mt-0.5 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+      <span><strong>Tip:</strong> Paste each prompt into ChatGPT or Claude along with the full transcript. For best results with Claude, upload the transcript as a file — its 200K context window handles even the longest calls.</span>
+    </div>
+
+    <!-- Reset -->
+    <div class="text-center">
+      <button id="ep-reset-btn" class="inline-flex items-center gap-2 px-6 py-3 bg-primary text-white font-semibold rounded-xl hover:bg-primary/90 transition-colors">
+        <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" /></svg>
+        Analyze Another Transcript
+      </button>
+    </div>
+  </div>
+</section>
+
+<script>
+(function initEarningsPromptKit() {
+
+  const SAMPLE_TRANSCRIPT = `Acme Corp Q4 2025 Earnings Call Transcript
+January 28, 2026
+
+Operator: Good afternoon, everyone, and welcome to Acme Corp's Fourth Quarter and Full Year 2025 Earnings Conference Call. Today's call is being recorded. At this time, I'd like to turn the call over to Sarah Chen, Vice President of Investor Relations. Please go ahead.
+
+Sarah Chen — VP, Investor Relations: Thank you, operator. Good afternoon, everyone. Welcome to Acme Corp's Q4 2025 earnings call. Joining me today are John Mitchell, our CEO, and Lisa Park, our CFO. Before we begin, I'd like to remind everyone that today's discussion will contain forward-looking statements that involve risks and uncertainties. Actual results may differ materially. Please refer to our SEC filings for additional information.
+
+With that, I'll turn the call over to John.
+
+John Mitchell — CEO: Thanks, Sarah. Good afternoon, everyone. I'm pleased to report strong results for Q4 and the full year. We delivered revenue of $2.8 billion for the quarter, up 14% year over year, beating consensus estimates of $2.65 billion. Full-year revenue came in at $10.4 billion, up 18% from 2024.
+
+Our cloud business continues to be the primary growth engine, growing 32% year over year to $1.4 billion in Q4. Enterprise customers with annual contracts above $1 million increased to 842, up from 687 a year ago. Net revenue retention remains strong at 118%.
+
+On the AI front, we launched three new products this quarter. Our AI-powered analytics suite has already been adopted by over 200 enterprise customers since its September launch. We're seeing early but promising traction, and I expect AI-related revenue to become a meaningful contributor by the second half of 2026.
+
+I'll turn it over to Lisa for the financial details.
+
+Lisa Park — CFO: Thanks, John. Let me walk through the numbers. Q4 revenue was $2.8 billion, up 14% year over year. GAAP operating income was $392 million, representing a 14% operating margin, up from 11.5% in the year-ago quarter. Non-GAAP operating income was $560 million, or a 20% margin.
+
+Free cash flow for Q4 was $480 million, bringing full-year free cash flow to $1.6 billion. We ended the quarter with $4.2 billion in cash and short-term investments.
+
+For Q1 2026 guidance, we expect revenue of $2.85 to $2.95 billion, representing 12 to 16% growth. For the full year 2026, we're guiding to $11.5 to $12.0 billion in revenue, implying 11 to 15% growth. We expect non-GAAP operating margins to expand to 21 to 22% for the full year.
+
+We also announced a $2 billion share buyback program today. We believe our shares represent an attractive value at current levels.
+
+Now let's open it up for questions.
+
+Operator: Our first question comes from Mark Torres at Goldman Sachs.
+
+Mark Torres — Goldman Sachs: Thanks for taking my question. John, can you give us more color on the AI product pipeline? The 200 enterprise customers is a good start, but how should we think about the revenue contribution in 2026?
+
+John Mitchell — CEO: Great question, Mark. We're still in the early innings. The 200 customers I mentioned are largely in pilot or proof-of-concept phases. We expect roughly half to convert to paid production deployments by mid-2026. In terms of revenue, I'd say AI-specific revenue will be in the low hundreds of millions for 2026 — but the more important story is how AI enhances our existing cloud products and drives upselling.
+
+Mark Torres — Goldman Sachs: Got it. And Lisa, on the margin expansion guidance — what's driving that? Is it primarily mix shift toward cloud, or are there specific cost actions?
+
+Lisa Park — CFO: It's a combination. Cloud gross margins continue to improve as we scale. We're also seeing leverage on R&D — we grew headcount only 8% this year versus 18% revenue growth. And we've rationalized some lower-margin professional services contracts. I'd say it's roughly 60% mix shift and 40% operational efficiency.
+
+Operator: Next question from Rachel Kim at Morgan Stanley.
+
+Rachel Kim — Morgan Stanley: Hi, thanks. I wanted to ask about the competitive landscape. We've seen a couple of your peers announce aggressive pricing actions. Are you seeing any impact on deal velocity or win rates?
+
+John Mitchell — CEO: Rachel, we're always watching the competitive environment closely. I'd say we haven't seen a material change in our win rates. Our Q4 win rate was actually the highest of the year. Where we see pressure is occasionally in the mid-market segment where deals are more price-sensitive. In the enterprise segment, customers are choosing us for capability and reliability, not just price. But we're not complacent — we have some targeted pricing adjustments planned for Q2 that I'm not going to detail today.
+
+Rachel Kim — Morgan Stanley: Understood. And one follow-up — the $2 billion buyback. Why buyback over M&A? Your balance sheet could support an acquisition.
+
+Lisa Park — CFO: We think about capital allocation holistically. The buyback doesn't preclude M&A. Our pipeline of potential targets is active, and we're looking at a few things in the $200 to $500 million range that would accelerate our AI capabilities. The buyback reflects our confidence in intrinsic value and gives us flexibility to be opportunistic on both fronts.
+
+Operator: Our final question comes from David Patel at JP Morgan.
+
+David Patel — JP Morgan: Thanks. John, I wanted to ask about the international business. Revenue was flat year over year. Can you talk about what you're seeing in Europe and APAC?
+
+John Mitchell — CEO: Sure, David. International was definitely a softer spot for us in Q4. Europe was impacted by some larger deals that slipped into Q1 — we have good visibility on those and expect them to close. APAC is more of a macro story. Enterprise spending in China has been cautious, and we made a deliberate decision to de-emphasize that market given the regulatory environment. Excluding China, APAC grew 9%. We expect international to reaccelerate in the second half of 2026 as some of these headwinds abate.
+
+David Patel — JP Morgan: Helpful. Last one from me — on the 118% net revenue retention. That's ticked down from 122% a year ago. Should we read anything into that trend?
+
+Lisa Park — CFO: I wouldn't over-index on the quarter-to-quarter movement. The 122% last year included some unusually large expansions from a few key customers. On a trailing twelve-month basis, we're at 119%, which is consistent with our target range of 115 to 120%. We're very comfortable with that level.
+
+John Mitchell — CEO: Thanks, everyone. We're excited about our momentum heading into 2026. The cloud business is scaling, AI is an emerging growth vector, and we're executing well on margins. We appreciate your time today.
+
+Operator: This concludes today's call. Thank you for joining.`;
+
+  // ── Text Analysis ──
+  interface TranscriptInfo {
+    company: string;
+    quarter: string;
+    wordCount: number;
+    hasQA: boolean;
+    metrics: string[];
+    executives: string[];
+    analysts: string[];
+    topics: string[];
+  }
+
+  function analyzeTranscript(text: string): TranscriptInfo {
+    const wordCount = text.split(/\s+/).filter(w => w.length > 0).length;
+    if (wordCount < 50) throw new Error('Transcript too short. Paste at least a few hundred words for useful prompts.');
+
+    // Detect company name — look for common patterns
+    let company = 'the company';
+    const companyPatterns = [
+      /^(.+?)(?:\s+Q[1-4]|\s+(?:First|Second|Third|Fourth))/mi,
+      /welcome to (?:the )?(.+?)(?:'s|'s)?\s+(?:Q[1-4]|(?:first|second|third|fourth)|earnings|fiscal)/i,
+      /(?:turn the call over to|joining .+ from)\s+.+?(?:of|at|,)\s+(.+?)[\.,]/i,
+    ];
+    for (const p of companyPatterns) {
+      const m = text.match(p);
+      if (m && m[1] && m[1].length < 60) {
+        company = m[1].replace(/['']s?\s*$/, '').replace(/^the\s+/i, '').trim();
+        break;
+      }
+    }
+
+    // Detect quarter
+    let quarter = 'recent quarter';
+    const qMatch = text.match(/\b(Q[1-4])\s*(FY\s*)?(\d{4})\b/i) ||
+                   text.match(/\b(First|Second|Third|Fourth)\s+Quarter\s+(?:of\s+)?(\d{4})/i);
+    if (qMatch) {
+      if (/^\d/.test(qMatch[1] || '')) {
+        quarter = qMatch[1].toUpperCase() + ' ' + qMatch[3];
+      } else {
+        const qMap: Record<string, string> = { first:'Q1', second:'Q2', third:'Q3', fourth:'Q4' };
+        quarter = (qMap[qMatch[1].toLowerCase()] || qMatch[1]) + ' ' + qMatch[2];
+      }
+    }
+
+    // Detect Q&A section
+    const hasQA = /(?:q(?:uestion)?[\s-]*(?:&|and)[\s-]*a|open .+ for questions|first question|operator:.*question)/i.test(text);
+
+    // Extract mentioned metrics
+    const metricPatterns = [
+      /revenue\s+(?:of\s+)?\$[\d.,]+\s*(?:billion|million|B|M)/gi,
+      /(?:EPS|earnings per share)\s+(?:of\s+)?\$[\d.,]+/gi,
+      /operating (?:income|margin)\s+(?:of\s+|was\s+)?[\d.,]+%?/gi,
+      /free cash flow\s+(?:of\s+|was\s+)?\$[\d.,]+\s*(?:billion|million|B|M)/gi,
+      /(?:gross|net) margin\s+(?:of\s+|was\s+)?[\d.,]+%/gi,
+      /guidance.{0,60}?\$[\d.,]+/gi,
+      /(?:net revenue retention|NRR)\s+(?:of\s+|at\s+)?[\d.,]+%/gi,
+    ];
+    const metrics: string[] = [];
+    for (const p of metricPatterns) {
+      const matches = text.match(p);
+      if (matches) metrics.push(...matches.slice(0, 3));
+    }
+
+    // Extract executive names
+    const execPatterns = text.match(/([A-Z][a-z]+ [A-Z][a-z]+)\s*[—–-]+\s*(?:CEO|CFO|COO|CTO|Chief|President|VP|Vice President)/g) || [];
+    const executives = execPatterns.map(m => m.split(/[—–-]/)[0].trim()).filter((v, i, a) => a.indexOf(v) === i);
+
+    // Extract analyst names
+    const analystPatterns = text.match(/([A-Z][a-z]+ [A-Z][a-z]+)\s*[—–-]+\s*(?:Goldman|Morgan|JP|Barclays|Citi|BofA|UBS|Deutsche|Wells|RBC|Jefferies|Piper|Bernstein|Cowen|Baird|Canaccord|Needham|Truist|Evercore|Oppenheimer|Stifel|Raymond|KeyBanc|Wolfe|Mizuho|BTIG|Wedbush|Loop|Credit Suisse|BNP|Macquarie|HSBC|Nomura)/g) || [];
+    const analysts = analystPatterns.map(m => m.split(/[—–-]/)[0].trim()).filter((v, i, a) => a.indexOf(v) === i);
+
+    // Detect key topics
+    const topicKeywords: Record<string, RegExp> = {
+      'AI/Machine Learning': /\b(?:artificial intelligence|machine learning|AI|ML|generative|GPT|LLM)\b/i,
+      'Cloud': /\b(?:cloud|SaaS|ARR|subscription|recurring revenue)\b/i,
+      'Margins': /\b(?:margin expansion|gross margin|operating margin|profitability)\b/i,
+      'M&A': /\b(?:acquisition|M&A|merger|acquire|acquir)\b/i,
+      'Buyback/Capital Return': /\b(?:buyback|share repurchase|dividend|capital return)\b/i,
+      'International': /\b(?:international|europe|APAC|asia|EMEA|global expansion)\b/i,
+      'Guidance': /\b(?:guidance|outlook|expect|forecast|target)\b/i,
+      'Competition': /\b(?:competitive|competition|market share|win rate|pricing pressure)\b/i,
+      'Headcount/Hiring': /\b(?:headcount|hiring|workforce|layoff|restructuring|reduction)\b/i,
+      'Regulation': /\b(?:regulatory|compliance|regulation|SEC|government)\b/i,
+    };
+    const topics: string[] = [];
+    for (const [topic, regex] of Object.entries(topicKeywords)) {
+      if (regex.test(text)) topics.push(topic);
+    }
+
+    return { company, quarter, wordCount, hasQA, metrics, executives, analysts, topics };
+  }
+
+  // ── Prompt Generation ──
+  function generatePrompts(info: TranscriptInfo, textLength: number) {
+    const { company, quarter, metrics, executives, analysts, topics, hasQA } = info;
+    const metricStr = metrics.length > 0
+      ? '\n\nKey metrics mentioned in the transcript:\n' + metrics.slice(0, 8).map(m => '- ' + m.trim()).join('\n')
+      : '';
+    const topicStr = topics.length > 0
+      ? '\n\nTopics detected: ' + topics.join(', ')
+      : '';
+    const execStr = executives.length > 0
+      ? '\nExecutives: ' + executives.join(', ')
+      : '';
+    const analystStr = analysts.length > 0
+      ? '\nAnalysts on the call: ' + analysts.join(', ')
+      : '';
+    const contextBlock = `Company: ${company}\nPeriod: ${quarter}${execStr}${analystStr}${metricStr}${topicStr}`;
+
+    const prompts: string[] = [];
+
+    // 1. Quick Summary
+    prompts.push(`I'm pasting ${company}'s ${quarter} earnings call transcript below. Summarize it in under 300 words. Include:
+
+1. Revenue and EPS vs. analyst expectations (beat/miss/in-line)
+2. Key guidance changes for next quarter and full year
+3. The single most important thing management said
+4. The biggest concern raised during the Q&A
+5. One-line sentiment: bullish, neutral, or bearish — and why
+
+${contextBlock}
+
+---
+[PASTE FULL TRANSCRIPT BELOW THIS LINE]`);
+
+    // 2. Full Structured Analysis
+    prompts.push(`Analyze this ${company} ${quarter} earnings call transcript in detail. Provide a structured report with these sections:
+
+## Financial Performance
+- Key metrics: revenue, EPS, operating income, margins, free cash flow
+- Compare each to prior quarter (QoQ) and prior year (YoY) where mentioned
+- Compare to consensus estimates if mentioned in the call
+
+## Forward Guidance
+- Next quarter guidance (revenue, margins, EPS if given)
+- Full year guidance changes
+- Any changes from previously stated targets
+
+## Strategic Highlights
+- Major product launches or business updates
+- M&A activity or capital allocation changes
+- Market expansion plans
+
+## Risk Factors
+- Concerns raised by analysts
+- Headwinds acknowledged by management
+- Areas where management was vague or evasive
+
+## Sentiment Assessment
+- Rate management's overall tone: Confident / Cautious / Defensive
+- Compare tone of CEO vs CFO if both spoke
+- Note any disconnect between stated optimism and underlying numbers
+
+## Key Takeaways
+- 3 things an investor should watch going forward
+- What would make you more bullish?
+- What would make you more bearish?
+
+${contextBlock}
+
+---
+[PASTE FULL TRANSCRIPT BELOW THIS LINE]`);
+
+    // 3. Red Flag Detection
+    prompts.push(`Review this ${company} ${quarter} earnings call transcript and identify potential red flags. Specifically look for:
+
+1. **Evasive responses:** Instances where management deflected a direct question, gave a non-answer, or pivoted to a different topic. Quote the exact exchange.
+
+2. **Language shifts:** Changes in how management describes a business area compared to typical earnings call language. Flag uses of vague qualifiers like "we believe," "we hope," "we're cautiously optimistic" in place of concrete metrics.
+
+3. **Metric omissions:** Metrics they reported last quarter that were conspicuously absent this quarter. If a KPI disappears from the prepared remarks, that's often meaningful.
+
+4. **Accounting language:** Any mentions of one-time adjustments, reclassifications, changes in accounting methodology, or "non-recurring" charges that seem to recur.
+
+5. **Guidance hedging:** Cases where guidance ranges widened, language shifted from "confident" to "expect," or management added new caveats.
+
+For each red flag, provide:
+- The exact quote or omission
+- Why it's potentially concerning
+- What follow-up question you'd ask if you were an analyst
+
+${contextBlock}
+
+---
+[PASTE FULL TRANSCRIPT BELOW THIS LINE]`);
+
+    // 4. Guidance & Forward-Looking
+    prompts.push(`Focus exclusively on forward-looking statements in this ${company} ${quarter} earnings call. Extract and analyze:
+
+## Explicit Guidance
+List every specific forward-looking number given (revenue, EPS, margins, capex, etc.) in a table:
+| Metric | Next Quarter | Full Year | Prior Guidance | Changed? |
+
+## Qualitative Outlook
+- How does management describe demand trends?
+- Any commentary on pipeline, backlog, or bookings?
+- Hiring plans or investment priorities?
+
+## Commitments & Timelines
+- Specific dates or timeframes management committed to
+- Product launch timelines
+- Targets for new business initiatives
+
+## What They Didn't Guide On
+- Metrics where guidance was conspicuously absent
+- Areas where they declined to provide specifics when asked
+
+## Achievability Assessment
+Based on the tone, specificity, and historical accuracy of this management team's guidance, rate the likelihood of them meeting their stated targets. Flag any guidance that seems aggressive or conservative relative to the trends discussed.
+
+${contextBlock}
+
+---
+[PASTE FULL TRANSCRIPT BELOW THIS LINE]`);
+
+    // 5. Q&A Deep Dive
+    const qaNote = hasQA ? '' : '\n\nNote: Q&A section was not clearly detected in this transcript — some questions below may not apply.';
+    prompts.push(`Analyze the Q&A section of this ${company} ${quarter} earnings call in depth.${qaNote}
+
+For each analyst question:
+
+1. **Summarize the question** in one sentence
+2. **Rate the answer quality** (Direct / Partially Answered / Deflected)
+3. **Extract the key data point** from the response, if any
+4. **Flag** if management's answer contradicts or adds nuance to the prepared remarks
+
+Then provide an overall analysis:
+
+## Analyst Sentiment
+- What were analysts most concerned about? (top 3 topics by question count)
+- What were they most optimistic about?
+- Which analyst asked the hardest question, and how did management handle it?
+
+## Information Gaps
+- Questions that management declined to answer
+- Topics no analyst asked about that you think they should have
+- Follow-up questions that weren't asked but would have been valuable
+
+## Body Language Signals (Verbal)
+- Instances of hesitation, filler words, or unusually long responses
+- Cases where the CEO deferred to the CFO (or vice versa) unexpectedly
+- Changes in energy level or detail between topics
+
+${contextBlock}
+
+---
+[PASTE FULL TRANSCRIPT BELOW THIS LINE]`);
+
+    return prompts;
+  }
+
+  // ── Init ──
+  function init() {
+    const textarea = document.getElementById('ep-textarea') as HTMLTextAreaElement;
+    const generateBtn = document.getElementById('ep-generate-btn') as HTMLButtonElement;
+    const sampleBtn = document.getElementById('ep-sample-btn');
+    const resetBtn = document.getElementById('ep-reset-btn');
+    const errorEl = document.getElementById('ep-error')!;
+    const charCount = document.getElementById('ep-char-count')!;
+
+    if (!textarea || !generateBtn) return;
+
+    // Character counter
+    textarea.addEventListener('input', () => {
+      const len = textarea.value.length;
+      charCount.textContent = len.toLocaleString() + ' characters';
+      generateBtn.disabled = len < 100;
+    });
+
+    function showError(msg: string) {
+      errorEl.textContent = msg;
+      errorEl.classList.remove('hidden');
+    }
+
+    function hideError() {
+      errorEl.classList.add('hidden');
+    }
+
+    function processTranscript(text: string) {
+      hideError();
+      try {
+        const info = analyzeTranscript(text);
+        const prompts = generatePrompts(info, text.length);
+
+        // Fill summary cards
+        document.getElementById('ep-company')!.textContent = info.company;
+        document.getElementById('ep-quarter')!.textContent = info.quarter;
+        document.getElementById('ep-wordcount')!.textContent = info.wordCount.toLocaleString();
+        document.getElementById('ep-has-qa')!.textContent = info.hasQA ? 'Yes' : 'Not detected';
+
+        // Fill prompts
+        for (let i = 0; i < prompts.length; i++) {
+          document.getElementById(`ep-prompt-${i + 1}`)!.textContent = prompts[i];
+        }
+
+        // Show results
+        document.getElementById('ep-input-zone')!.classList.add('hidden');
+        document.getElementById('ep-results')!.classList.remove('hidden');
+      } catch (err: any) {
+        showError(err.message || 'Could not analyze transcript.');
+      }
+    }
+
+    generateBtn.addEventListener('click', () => {
+      const text = textarea.value.trim();
+      if (text.length < 100) {
+        showError('Please paste at least a few hundred words of transcript text.');
+        return;
+      }
+      processTranscript(text);
+    });
+
+    sampleBtn?.addEventListener('click', (e) => {
+      e.preventDefault();
+      textarea.value = SAMPLE_TRANSCRIPT;
+      charCount.textContent = SAMPLE_TRANSCRIPT.length.toLocaleString() + ' characters';
+      generateBtn.disabled = false;
+      processTranscript(SAMPLE_TRANSCRIPT);
+    });
+
+    resetBtn?.addEventListener('click', () => {
+      document.getElementById('ep-results')!.classList.add('hidden');
+      document.getElementById('ep-input-zone')!.classList.remove('hidden');
+      textarea.value = '';
+      charCount.textContent = '0 characters';
+      generateBtn.disabled = true;
+      hideError();
+    });
+
+    // Copy buttons
+    document.querySelectorAll('.ep-copy-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const targetId = (btn as HTMLElement).dataset.target!;
+        const text = document.getElementById(targetId)?.textContent || '';
+        navigator.clipboard.writeText(text).then(() => {
+          const span = btn.querySelector('span') || btn;
+          const original = span.textContent;
+          span.textContent = 'Copied!';
+          (btn as HTMLElement).classList.add('border-green-500', 'text-green-600');
+          setTimeout(() => {
+            span.textContent = original;
+            (btn as HTMLElement).classList.remove('border-green-500', 'text-green-600');
+          }, 2000);
+        });
+      });
+    });
+
+    // Enable button if textarea has content
+    generateBtn.disabled = textarea.value.length < 100;
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+  document.addEventListener('astro:page-load', init);
+})();
+</script>

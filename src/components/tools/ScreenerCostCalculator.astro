@@ -1,0 +1,458 @@
+---
+// AI vs Screener Cost Calculator — pick tools, see monthly cost + feature coverage
+// No data leaves the browser
+---
+
+<section id="screener-cost-calc" class="my-12 rounded-2xl border border-primary/10 shadow-lg overflow-hidden not-prose">
+  <!-- Header -->
+  <div class="bg-primary px-6 py-5">
+    <h2 class="text-2xl font-bold text-white mb-1 flex items-center gap-3">
+      <svg class="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z" />
+      </svg>
+      Stock Tool Cost Calculator
+    </h2>
+    <p class="text-white/80 text-sm">Select the tools you're considering. See your total monthly cost and which features each combo covers.</p>
+  </div>
+
+  <!-- Tool Selection -->
+  <div id="sc-selection" class="p-6">
+    <p class="text-sm font-semibold text-primary mb-4">Select one or more tools:</p>
+
+    <!-- AI Tools -->
+    <div class="mb-6">
+      <h3 class="text-xs font-bold uppercase tracking-widest text-text-light mb-3">AI Tools</h3>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-3" id="sc-ai-tools">
+        <!-- Filled by JS -->
+      </div>
+    </div>
+
+    <!-- Traditional Screeners -->
+    <div class="mb-6">
+      <h3 class="text-xs font-bold uppercase tracking-widest text-text-light mb-3">Traditional Screeners</h3>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-3" id="sc-trad-tools">
+        <!-- Filled by JS -->
+      </div>
+    </div>
+
+    <!-- Research Platforms -->
+    <div class="mb-6">
+      <h3 class="text-xs font-bold uppercase tracking-widest text-text-light mb-3">Research Platforms</h3>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-3" id="sc-research-tools">
+        <!-- Filled by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Results -->
+  <div id="sc-results" class="hidden px-6 pb-6">
+    <!-- Cost Summary -->
+    <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
+      <div class="bg-background-alt rounded-xl p-4 text-center">
+        <p class="text-xs font-bold uppercase tracking-widest text-text-light mb-1">Monthly Cost</p>
+        <p id="sc-monthly" class="text-2xl font-bold text-primary">$0</p>
+      </div>
+      <div class="bg-background-alt rounded-xl p-4 text-center">
+        <p class="text-xs font-bold uppercase tracking-widest text-text-light mb-1">Annual Cost</p>
+        <p id="sc-annual" class="text-2xl font-bold text-primary">$0</p>
+      </div>
+      <div class="bg-background-alt rounded-xl p-4 text-center col-span-2 md:col-span-1">
+        <p class="text-xs font-bold uppercase tracking-widest text-text-light mb-1">Feature Coverage</p>
+        <p id="sc-coverage" class="text-2xl font-bold text-accent">0%</p>
+      </div>
+    </div>
+
+    <!-- Feature Matrix -->
+    <div class="mb-6">
+      <h3 class="text-sm font-bold uppercase tracking-widest text-text-light mb-3">Feature Coverage</h3>
+      <div class="overflow-x-auto rounded-xl border border-primary/10">
+        <table class="w-full text-sm">
+          <thead class="bg-background-alt">
+            <tr>
+              <th class="text-left px-4 py-3 font-semibold text-primary">Feature</th>
+              <th id="sc-matrix-head" class="text-center px-4 py-3 font-semibold text-primary">Your Stack</th>
+            </tr>
+          </thead>
+          <tbody id="sc-feature-tbody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Coverage Bars -->
+    <div class="mb-6">
+      <h3 class="text-sm font-bold uppercase tracking-widest text-text-light mb-3">Coverage by Category</h3>
+      <div id="sc-coverage-bars" class="space-y-3"></div>
+    </div>
+
+    <!-- Gaps & Recommendations -->
+    <div id="sc-gaps" class="mb-6"></div>
+
+    <!-- Comparison with Presets -->
+    <div class="mb-6">
+      <h3 class="text-sm font-bold uppercase tracking-widest text-text-light mb-3">Compare with Recommended Stacks</h3>
+      <div class="grid sm:grid-cols-3 gap-4" id="sc-presets"></div>
+    </div>
+  </div>
+</section>
+
+<script>
+(function initScreenerCostCalc() {
+
+  // ── Tool Database ──
+  interface Tool {
+    id: string;
+    name: string;
+    tier: string;
+    price: number; // monthly USD
+    category: 'ai' | 'traditional' | 'research';
+    features: Record<string, number>; // feature → quality score 0-3 (0=none, 1=basic, 2=good, 3=excellent)
+  }
+
+  const FEATURES = [
+    { id: 'fundamental_screening', name: 'Fundamental Screening', cat: 'Screening' },
+    { id: 'technical_screening', name: 'Technical Screening', cat: 'Screening' },
+    { id: 'realtime_data', name: 'Real-Time Data', cat: 'Data' },
+    { id: 'natural_language', name: 'Natural Language Queries', cat: 'AI' },
+    { id: 'qualitative_analysis', name: 'Qualitative / Thematic Analysis', cat: 'AI' },
+    { id: 'earnings_analysis', name: 'Earnings Call Analysis', cat: 'Analysis' },
+    { id: 'portfolio_analysis', name: 'Portfolio Analysis', cat: 'Analysis' },
+    { id: 'charting', name: 'Charting & Visualization', cat: 'Charting' },
+    { id: 'alerts', name: 'Price & Metric Alerts', cat: 'Monitoring' },
+    { id: 'export', name: 'Data Export (CSV)', cat: 'Data' },
+    { id: 'community', name: 'Community / Social', cat: 'Research' },
+    { id: 'quant_ratings', name: 'Quant / Analyst Ratings', cat: 'Research' },
+    { id: 'live_citations', name: 'Cited Sources / Live Links', cat: 'Data' },
+    { id: 'backtesting', name: 'Backtesting', cat: 'Screening' },
+  ];
+
+  const TOOLS: Tool[] = [
+    // AI Tools
+    {
+      id: 'chatgpt_free', name: 'ChatGPT', tier: 'Free', price: 0, category: 'ai',
+      features: { natural_language: 2, qualitative_analysis: 2, earnings_analysis: 1, portfolio_analysis: 1 }
+    },
+    {
+      id: 'chatgpt_plus', name: 'ChatGPT', tier: 'Plus ($20/mo)', price: 20, category: 'ai',
+      features: { natural_language: 3, qualitative_analysis: 3, earnings_analysis: 2, portfolio_analysis: 3, export: 1 }
+    },
+    {
+      id: 'claude_free', name: 'Claude', tier: 'Free', price: 0, category: 'ai',
+      features: { natural_language: 2, qualitative_analysis: 2, earnings_analysis: 2 }
+    },
+    {
+      id: 'claude_pro', name: 'Claude', tier: 'Pro ($20/mo)', price: 20, category: 'ai',
+      features: { natural_language: 3, qualitative_analysis: 3, earnings_analysis: 3, portfolio_analysis: 2 }
+    },
+    {
+      id: 'perplexity_free', name: 'Perplexity', tier: 'Free', price: 0, category: 'ai',
+      features: { natural_language: 2, qualitative_analysis: 1, realtime_data: 1, live_citations: 2, fundamental_screening: 1 }
+    },
+    {
+      id: 'perplexity_pro', name: 'Perplexity', tier: 'Pro ($20/mo)', price: 20, category: 'ai',
+      features: { natural_language: 3, qualitative_analysis: 2, realtime_data: 2, live_citations: 3, fundamental_screening: 2, earnings_analysis: 1 }
+    },
+
+    // Traditional Screeners
+    {
+      id: 'finviz_free', name: 'Finviz', tier: 'Free', price: 0, category: 'traditional',
+      features: { fundamental_screening: 2, technical_screening: 1, charting: 1 }
+    },
+    {
+      id: 'finviz_elite', name: 'Finviz', tier: 'Elite (~$25/mo)', price: 25, category: 'traditional',
+      features: { fundamental_screening: 3, technical_screening: 2, realtime_data: 3, charting: 2, export: 3, alerts: 2, backtesting: 2 }
+    },
+    {
+      id: 'tradingview_free', name: 'TradingView', tier: 'Free', price: 0, category: 'traditional',
+      features: { fundamental_screening: 2, technical_screening: 2, charting: 2, community: 2, alerts: 1 }
+    },
+    {
+      id: 'tradingview_plus', name: 'TradingView', tier: 'Plus (~$34/mo)', price: 34, category: 'traditional',
+      features: { fundamental_screening: 2, technical_screening: 3, charting: 3, community: 2, alerts: 2, export: 2 }
+    },
+    {
+      id: 'tradingview_prem', name: 'TradingView', tier: 'Premium (~$60/mo)', price: 60, category: 'traditional',
+      features: { fundamental_screening: 3, technical_screening: 3, charting: 3, community: 3, alerts: 3, export: 3, backtesting: 2 }
+    },
+    {
+      id: 'yahoo_finance', name: 'Yahoo Finance', tier: 'Free', price: 0, category: 'traditional',
+      features: { fundamental_screening: 1, realtime_data: 1, charting: 1, community: 1 }
+    },
+
+    // Research Platforms
+    {
+      id: 'seekingalpha_free', name: 'Seeking Alpha', tier: 'Free', price: 0, category: 'research',
+      features: { quant_ratings: 1, community: 2, earnings_analysis: 1 }
+    },
+    {
+      id: 'seekingalpha_prem', name: 'Seeking Alpha', tier: 'Premium (~$20/mo)', price: 20, category: 'research',
+      features: { quant_ratings: 3, community: 3, earnings_analysis: 2, fundamental_screening: 1, alerts: 1 }
+    },
+    {
+      id: 'koyfin_free', name: 'Koyfin', tier: 'Free', price: 0, category: 'research',
+      features: { fundamental_screening: 2, charting: 2, earnings_analysis: 1, export: 1 }
+    },
+    {
+      id: 'koyfin_plus', name: 'Koyfin', tier: 'Plus (~$25/mo)', price: 25, category: 'research',
+      features: { fundamental_screening: 3, charting: 3, earnings_analysis: 2, export: 2, realtime_data: 2, quant_ratings: 1, alerts: 2 }
+    },
+    {
+      id: 'fiscalai', name: 'Fiscal.ai', tier: 'Plus (~$29/mo)', price: 29, category: 'research',
+      features: { earnings_analysis: 3, fundamental_screening: 2, qualitative_analysis: 2, realtime_data: 2, quant_ratings: 2, live_citations: 2 }
+    },
+  ];
+
+  const PRESETS = [
+    {
+      name: 'Beginner',
+      cost: '$0/mo',
+      tools: ['finviz_free', 'perplexity_free', 'yahoo_finance'],
+      desc: 'Free tools only. Great for learning.'
+    },
+    {
+      name: 'Intermediate',
+      cost: '~$20/mo',
+      tools: ['perplexity_pro', 'finviz_free', 'chatgpt_free'],
+      desc: 'AI screening with live data + free traditional filters.'
+    },
+    {
+      name: 'Active Investor',
+      cost: '~$45-65/mo',
+      tools: ['perplexity_pro', 'finviz_elite', 'claude_pro'],
+      desc: 'Full coverage: live AI screening, real-time data, deep analysis.'
+    },
+  ];
+
+  const QUALITY_LABELS = ['—', 'Basic', 'Good', 'Excellent'];
+  const QUALITY_COLORS = ['', 'text-text-light', 'text-accent', 'text-green-600'];
+
+  // ── State ──
+  let selectedTools: Set<string> = new Set();
+
+  // ── Render Tool Cards ──
+  function renderToolCards() {
+    const containers: Record<string, HTMLElement> = {
+      ai: document.getElementById('sc-ai-tools')!,
+      traditional: document.getElementById('sc-trad-tools')!,
+      research: document.getElementById('sc-research-tools')!,
+    };
+
+    for (const tool of TOOLS) {
+      const card = document.createElement('label');
+      card.className = 'sc-tool-card flex items-start gap-3 p-4 rounded-xl border border-primary/10 bg-white cursor-pointer hover:border-accent/40 transition-all';
+      card.dataset.toolId = tool.id;
+
+      const priceLabel = tool.price === 0 ? '<span class="text-green-600 font-semibold">Free</span>' : `<span class="font-semibold">$${tool.price}/mo</span>`;
+      const featureCount = Object.keys(tool.features).length;
+
+      card.innerHTML = `
+        <input type="checkbox" class="sc-tool-check mt-1 w-4 h-4 rounded border-primary/30 text-accent focus:ring-accent/30" value="${tool.id}" />
+        <div class="flex-1 min-w-0">
+          <div class="flex items-center justify-between gap-2">
+            <span class="font-semibold text-sm text-primary">${tool.name}</span>
+            ${priceLabel}
+          </div>
+          <span class="text-xs text-text-light">${tool.tier}</span>
+          <div class="mt-1 text-xs text-text-light">${featureCount} features covered</div>
+        </div>
+      `;
+      containers[tool.category].appendChild(card);
+    }
+  }
+
+  // ── Calculate & Render Results ──
+  function updateResults() {
+    const resultsEl = document.getElementById('sc-results')!;
+    if (selectedTools.size === 0) {
+      resultsEl.classList.add('hidden');
+      return;
+    }
+    resultsEl.classList.remove('hidden');
+
+    const selected = TOOLS.filter(t => selectedTools.has(t.id));
+
+    // Cost
+    const monthly = selected.reduce((s, t) => s + t.price, 0);
+    const annual = monthly * 12;
+    document.getElementById('sc-monthly')!.textContent = '$' + monthly;
+    document.getElementById('sc-annual')!.textContent = '$' + annual.toLocaleString();
+
+    // Merge features — take max quality per feature
+    const merged: Record<string, number> = {};
+    for (const tool of selected) {
+      for (const [feat, qual] of Object.entries(tool.features)) {
+        merged[feat] = Math.max(merged[feat] || 0, qual);
+      }
+    }
+
+    // Coverage
+    const coveredCount = FEATURES.filter(f => (merged[f.id] || 0) >= 1).length;
+    const coveragePct = Math.round((coveredCount / FEATURES.length) * 100);
+    document.getElementById('sc-coverage')!.textContent = coveragePct + '%';
+
+    // Feature table
+    const tbody = document.getElementById('sc-feature-tbody')!;
+    tbody.innerHTML = '';
+    for (const feat of FEATURES) {
+      const score = merged[feat.id] || 0;
+      const tr = document.createElement('tr');
+      tr.className = score === 0 ? 'bg-red-50/30' : '';
+      const icon = score === 0
+        ? '<svg class="w-4 h-4 text-red-400 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>'
+        : `<span class="font-semibold ${QUALITY_COLORS[score]}">${QUALITY_LABELS[score]}</span>`;
+      tr.innerHTML = `
+        <td class="px-4 py-2.5"><span class="text-text">${feat.name}</span> <span class="text-xs text-text-light">(${feat.cat})</span></td>
+        <td class="px-4 py-2.5 text-center">${icon}</td>
+      `;
+      tbody.appendChild(tr);
+    }
+
+    // Coverage bars by category
+    const cats = [...new Set(FEATURES.map(f => f.cat))];
+    const barsEl = document.getElementById('sc-coverage-bars')!;
+    barsEl.innerHTML = '';
+    for (const cat of cats) {
+      const catFeatures = FEATURES.filter(f => f.cat === cat);
+      const catCovered = catFeatures.filter(f => (merged[f.id] || 0) >= 1).length;
+      const catPct = Math.round((catCovered / catFeatures.length) * 100);
+      const barColor = catPct === 100 ? 'bg-green-500' : catPct >= 50 ? 'bg-accent' : catPct > 0 ? 'bg-amber-400' : 'bg-red-300';
+      const div = document.createElement('div');
+      div.innerHTML = `
+        <div class="flex items-center justify-between text-sm mb-1">
+          <span class="font-medium text-primary">${cat}</span>
+          <span class="text-text-light">${catCovered}/${catFeatures.length}</span>
+        </div>
+        <div class="h-2.5 bg-background-alt rounded-full overflow-hidden">
+          <div class="${barColor} h-full rounded-full transition-all duration-500" style="width:${catPct}%"></div>
+        </div>
+      `;
+      barsEl.appendChild(div);
+    }
+
+    // Gaps & recommendations
+    const gapsEl = document.getElementById('sc-gaps')!;
+    const gaps = FEATURES.filter(f => (merged[f.id] || 0) === 0);
+    if (gaps.length > 0) {
+      const gapNames = gaps.map(g => g.name);
+      // Find cheapest tool that covers most gaps
+      const unselected = TOOLS.filter(t => !selectedTools.has(t.id));
+      let bestFill: { tool: Tool; fillCount: number } | null = null;
+      for (const t of unselected) {
+        const fillCount = gaps.filter(g => (t.features[g.id] || 0) >= 1).length;
+        if (fillCount > 0 && (!bestFill || fillCount > bestFill.fillCount || (fillCount === bestFill.fillCount && t.price < bestFill.tool.price))) {
+          bestFill = { tool: t, fillCount };
+        }
+      }
+
+      let recHtml = '';
+      if (bestFill) {
+        const priceTag = bestFill.tool.price === 0 ? 'free' : `$${bestFill.tool.price}/mo`;
+        recHtml = `<p class="mt-2 text-sm"><strong>Suggestion:</strong> Adding <strong>${bestFill.tool.name} ${bestFill.tool.tier}</strong> (${priceTag}) would cover ${bestFill.fillCount} of your ${gaps.length} missing features.</p>`;
+      }
+
+      gapsEl.innerHTML = `
+        <div class="flex items-start gap-3 p-4 bg-amber-50 border border-amber-200 rounded-xl text-amber-800 text-sm">
+          <svg class="w-5 h-5 flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.964-.833-2.732 0L4.082 16.5c-.77.833.192 2.5 1.732 2.5z" /></svg>
+          <div>
+            <p><strong>Missing features (${gaps.length}):</strong> ${gapNames.join(', ')}</p>
+            ${recHtml}
+          </div>
+        </div>
+      `;
+    } else {
+      gapsEl.innerHTML = `
+        <div class="flex items-start gap-3 p-4 bg-green-50 border border-green-200 rounded-xl text-green-800 text-sm">
+          <svg class="w-5 h-5 flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+          <span><strong>Full coverage!</strong> Your selected tools cover all ${FEATURES.length} features.</span>
+        </div>
+      `;
+    }
+
+    // Preset comparisons
+    const presetsEl = document.getElementById('sc-presets')!;
+    presetsEl.innerHTML = '';
+    for (const preset of PRESETS) {
+      const pTools = TOOLS.filter(t => preset.tools.includes(t.id));
+      const pMerged: Record<string, number> = {};
+      for (const t of pTools) {
+        for (const [f, q] of Object.entries(t.features)) {
+          pMerged[f] = Math.max(pMerged[f] || 0, q);
+        }
+      }
+      const pCov = FEATURES.filter(f => (pMerged[f.id] || 0) >= 1).length;
+      const pPct = Math.round((pCov / FEATURES.length) * 100);
+      const isActive = preset.tools.every(t => selectedTools.has(t)) && preset.tools.length === selectedTools.size;
+
+      const card = document.createElement('div');
+      card.className = `rounded-xl border p-4 ${isActive ? 'border-accent bg-accent/5' : 'border-primary/10 bg-white'}`;
+      card.innerHTML = `
+        <div class="flex items-center justify-between mb-2">
+          <span class="font-bold text-primary">${preset.name}</span>
+          <span class="text-sm font-semibold text-accent">${preset.cost}</span>
+        </div>
+        <p class="text-xs text-text-light mb-3">${preset.desc}</p>
+        <div class="flex items-center gap-2 text-xs">
+          <span class="font-semibold">${pPct}% coverage</span>
+          <span class="text-text-light">(${pCov}/${FEATURES.length})</span>
+        </div>
+        <div class="h-2 bg-background-alt rounded-full overflow-hidden mt-2">
+          <div class="bg-accent h-full rounded-full" style="width:${pPct}%"></div>
+        </div>
+        <div class="mt-2 text-xs text-text-light">${pTools.map(t => t.name + ' ' + t.tier).join(' + ')}</div>
+        ${isActive ? '<span class="inline-block mt-2 text-xs font-bold text-accent">Current selection</span>' : `<button class="sc-preset-btn mt-3 text-xs text-accent hover:text-accent-hover underline underline-offset-2 transition-colors" data-preset="${preset.tools.join(',')}">Use this stack</button>`}
+      `;
+      presetsEl.appendChild(card);
+    }
+  }
+
+  // ── Init ──
+  function init() {
+    const container = document.getElementById('screener-cost-calc');
+    if (!container) return;
+
+    renderToolCards();
+
+    // Checkbox listeners
+    container.addEventListener('change', (e) => {
+      const target = e.target as HTMLInputElement;
+      if (!target.classList.contains('sc-tool-check')) return;
+      const id = target.value;
+      if (target.checked) {
+        selectedTools.add(id);
+        target.closest('.sc-tool-card')?.classList.add('border-accent', 'bg-accent/5');
+      } else {
+        selectedTools.delete(id);
+        target.closest('.sc-tool-card')?.classList.remove('border-accent', 'bg-accent/5');
+      }
+      updateResults();
+    });
+
+    // Preset buttons
+    container.addEventListener('click', (e) => {
+      const btn = (e.target as HTMLElement).closest('.sc-preset-btn') as HTMLElement | null;
+      if (!btn) return;
+      const presetTools = btn.dataset.preset!.split(',');
+      selectedTools = new Set(presetTools);
+      // Update all checkboxes
+      container.querySelectorAll('.sc-tool-check').forEach((cb) => {
+        const input = cb as HTMLInputElement;
+        const card = input.closest('.sc-tool-card') as HTMLElement;
+        if (presetTools.includes(input.value)) {
+          input.checked = true;
+          card?.classList.add('border-accent', 'bg-accent/5');
+        } else {
+          input.checked = false;
+          card?.classList.remove('border-accent', 'bg-accent/5');
+        }
+      });
+      updateResults();
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+  document.addEventListener('astro:page-load', init);
+})();
+</script>

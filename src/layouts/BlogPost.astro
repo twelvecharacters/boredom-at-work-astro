@@ -14,6 +14,9 @@ import HowToSchema from '../components/HowToSchema.astro';
 import SoftwareAppSchema from '../components/SoftwareAppSchema.astro';
 import CourseSchema from '../components/CourseSchema.astro';
 import AuthorBio from '../components/AuthorBio.astro';
+import PortfolioAnalyzer from '../components/tools/PortfolioAnalyzer.astro';
+import EarningsPromptKit from '../components/tools/EarningsPromptKit.astro';
+import ScreenerCostCalculator from '../components/tools/ScreenerCostCalculator.astro';
 import { SITE } from '../config';
 import { getPostSlug } from '../utils/blog';
 import type { CollectionEntry } from 'astro:content';
@@ -216,6 +219,11 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
         <div class="prose" data-pagefind-body>
           <slot />
         </div>
+
+        {/* Interactive Tools */}
+        {getPostSlug(post) === 'ai-portfolio-analysis-chatgpt' && <PortfolioAnalyzer />}
+        {getPostSlug(post) === 'ai-earnings-call-analysis' && <EarningsPromptKit />}
+        {getPostSlug(post) === 'ai-vs-traditional-stock-screeners' && <ScreenerCostCalculator />}
 
         <!-- Social Share Buttons -->
         <SocialShare title={title} description={description} />
