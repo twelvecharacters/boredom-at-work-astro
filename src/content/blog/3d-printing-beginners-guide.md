@@ -1,7 +1,7 @@
 ---
 title: "3D Printing for Beginners (2026): From Zero to First Print"
 slug: "3d-printing-beginners-guide"
-description: "Start 3D printing today. Printer recommendations under $300, material guide, and step-by-step to your first successful print."
+description: "Complete 3D printing beginner guide for 2026. Best printers under $300, PLA vs PETG explained, and your first print in under 2 hours."
 publishDate: 2025-12-24
 author: "bored chap"
 image: "/images/3d-printing-beginners.webp"

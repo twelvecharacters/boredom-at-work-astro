@@ -1,7 +1,7 @@
 ---
-title: "Best AI Courses on Coursera in 2026 (Ranked & Reviewed)"
+title: "Best Generative AI Courses on Coursera (2026) — Ranked & Reviewed"
 slug: "best-ai-courses-coursera"
-description: "Top AI courses on Coursera ranked by practical value, certificate recognition, and career impact. From Google AI Essentials to Stanford ML."
+description: "Top generative AI courses on Coursera ranked by practical value. Google AI Essentials, DeepLearning.AI, and Stanford ML — I took them all."
 publishDate: 2025-12-30
 author: "bored chap"
 tags: ["Coursera", "AI Courses", "Online Learning"]
