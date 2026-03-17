@@ -16,7 +16,7 @@
     "@astrojs/sitemap": "^3.7.1",
     "@pagefind/default-ui": "^1.4.0",
     "@tailwindcss/vite": "^4.2.1",
-    "astro": "^5.18.1",
+    "astro": "^6.0.5",
     "astro-seo": "^1.1.0",
     "pagefind": "^1.4.0",
     "tailwindcss": "^4.1.18"
