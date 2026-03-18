@@ -24,18 +24,20 @@ const { title, description, ctaText, ctaHref, typewriterPhrases = [] } = Astro.p
     <div class="inline-block bg-white/10 backdrop-blur-sm border border-white/20 px-4 py-1.5 rounded-full text-sm font-medium mb-6 floating animate-in fade-in slide-in-from-bottom-4 duration-1000">
       🚀 Use your downtime wisely
     </div>
-    <div class={`text-4xl md:text-7xl font-bold mb-6 text-gradient leading-tight tracking-tight animate-in fade-in slide-in-from-bottom-6 duration-1000 delay-150 ${typewriterPhrases.length > 0 ? 'typewriter-wrap' : ''}`}>
+    <div class={`mb-6 animate-in fade-in slide-in-from-bottom-6 duration-1000 delay-150 ${typewriterPhrases.length > 0 ? 'typewriter-wrap' : ''}`}>
       {typewriterPhrases.length > 0 ? (
         <>
-          <h1 class="typewriter-sizer" aria-hidden="true">
-            {typewriterPhrases.reduce((a, b) => a.length > b.length ? a : b, '')}
-          </h1>
-          <h1 class="typewriter-text">
+          {typewriterPhrases.map(phrase => (
+            <h1 class="text-4xl md:text-7xl font-bold text-gradient leading-tight tracking-tight typewriter-sizer" aria-hidden="true">
+              {phrase}
+            </h1>
+          ))}
+          <h1 class="text-4xl md:text-7xl font-bold text-gradient leading-tight tracking-tight typewriter-text">
             <span id="typewriter" data-phrases={JSON.stringify(typewriterPhrases)}>{title}</span><span class="typewriter-cursor">|</span>
           </h1>
         </>
       ) : (
-        <h1>{title}</h1>
+        <h1 class="text-4xl md:text-7xl font-bold text-gradient leading-tight tracking-tight">{title}</h1>
       )}
     </div>
     <p class="text-lg md:text-xl text-white/70 mb-10 max-w-2xl mx-auto leading-relaxed animate-in fade-in slide-in-from-bottom-8 duration-1000 delay-300">
