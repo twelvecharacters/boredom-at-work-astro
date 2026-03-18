@@ -24,13 +24,20 @@ const { title, description, ctaText, ctaHref, typewriterPhrases = [] } = Astro.p
     <div class="inline-block bg-white/10 backdrop-blur-sm border border-white/20 px-4 py-1.5 rounded-full text-sm font-medium mb-6 floating animate-in fade-in slide-in-from-bottom-4 duration-1000">
       🚀 Use your downtime wisely
     </div>
-    <h1 class="text-4xl md:text-7xl font-bold mb-6 text-gradient leading-tight tracking-tight animate-in fade-in slide-in-from-bottom-6 duration-1000 delay-150">
+    <div class={`text-4xl md:text-7xl font-bold mb-6 text-gradient leading-tight tracking-tight animate-in fade-in slide-in-from-bottom-6 duration-1000 delay-150 ${typewriterPhrases.length > 0 ? 'typewriter-wrap' : ''}`}>
       {typewriterPhrases.length > 0 ? (
-        <span id="typewriter" data-phrases={JSON.stringify(typewriterPhrases)}>{title}</span><span class="typewriter-cursor">|</span>
+        <>
+          <h1 class="typewriter-sizer" aria-hidden="true">
+            {typewriterPhrases.reduce((a, b) => a.length > b.length ? a : b, '')}
+          </h1>
+          <h1 class="typewriter-text">
+            <span id="typewriter" data-phrases={JSON.stringify(typewriterPhrases)}>{title}</span><span class="typewriter-cursor">|</span>
+          </h1>
+        </>
       ) : (
-        title
+        <h1>{title}</h1>
       )}
-    </h1>
+    </div>
     <p class="text-lg md:text-xl text-white/70 mb-10 max-w-2xl mx-auto leading-relaxed animate-in fade-in slide-in-from-bottom-8 duration-1000 delay-300">
       {description}
     </p>
@@ -167,6 +174,19 @@ const { title, description, ctaText, ctaHref, typewriterPhrases = [] } = Astro.p
     display: inline-block;
     will-change: transform;
     transition: transform 0.2s cubic-bezier(0.33, 1, 0.68, 1);
+  }
+  .typewriter-wrap {
+    display: grid;
+  }
+  .typewriter-wrap > * {
+    grid-area: 1 / 1;
+  }
+  .typewriter-sizer {
+    visibility: hidden;
+    pointer-events: none;
+  }
+  .typewriter-text {
+    z-index: 1;
   }
   .typewriter-cursor {
     display: inline-block;
