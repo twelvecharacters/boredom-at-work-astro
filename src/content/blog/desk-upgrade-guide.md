@@ -275,6 +275,7 @@ Once you have your gear, set it up correctly:
 - [ ] Screen at arm's length (~20-26 inches)
 - [ ] Slight backward tilt (10-20°)
 - [ ] Centered in front of you
+- [ ] Proper lighting to reduce glare and eye strain (see our [home office lighting guide](/home-office-lighting-guide/))
 
 ### Desk Setup
 - [ ] Keyboard at elbow height when typing (upgrading? See our [mechanical keyboard guide](/best-mechanical-keyboards-beginners/))
@@ -334,6 +335,7 @@ The best gear set up wrong is worse than average gear set up right. Spend 10 min
 
 **Desk Accessories:**
 - [Best Desk Mats](/best-desk-mats/)
+- [Best Desk Shelves & Organizers](/best-desk-shelves-organizers/)
 - [Best Laptop Stands](/best-laptop-stands/)
 - [Best Under-Desk Footrests](/best-footrests/)
 - [Cable Management Tips](/cable-management-tips/)

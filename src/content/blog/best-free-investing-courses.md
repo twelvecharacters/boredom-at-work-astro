@@ -267,6 +267,7 @@ Learning investing at work follows the same principles as any [productive use of
 
 - **Block your lunch break** — Put "Learning Block" on your calendar, 12:00 to 12:45. A 45-minute block covers 1-2 Khan Academy videos or a Morningstar lesson.
 - **Use the 10-minute gaps** — Between meetings, waiting for a build, on hold with IT. Keep a Morningstar or Investopedia tab open.
+- **Mix in video content** — Supplement courses with [finance YouTube channels](/best-finance-youtube-channels/) for a more engaging way to reinforce what you're learning.
 - **Text over video when possible** — Morningstar and Investopedia need no headphones. Save video courses for lunch.
 - **Take notes in a work tool** — Google Docs, Notion, or OneNote. If anyone asks, you're "researching financial literacy for professional development."
 - **Set a realistic pace** — Aim for 30-45 minutes per day, 3-4 days a week. Khan Academy takes about a week, Morningstar about a month, Yale about two months.

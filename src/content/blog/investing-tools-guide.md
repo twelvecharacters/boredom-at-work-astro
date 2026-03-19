@@ -139,7 +139,7 @@ Once you're comfortable buying index funds and ETFs, you might want to research 
 
 ### Stock Screeners
 
-Stock screeners filter thousands of stocks by criteria you set — P/E ratio, market cap, dividend yield, sector, growth rate. They're how you go from "I want to invest in tech" to "here are 12 specific companies worth researching."
+Stock screeners filter thousands of stocks by criteria you set — P/E ratio, market cap, dividend yield, sector, growth rate. They're how you go from "I want to invest in tech" to "here are 12 specific companies worth researching." New to charts and technical indicators? Start with our [beginner's guide to reading stock charts](/how-to-read-stock-charts-beginners/) before diving into screeners.
 
 | Screener | Price | Best For |
 |----------|-------|----------|

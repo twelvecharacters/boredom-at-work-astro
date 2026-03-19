@@ -518,7 +518,7 @@ The uncomfortable truth: companies will expect AI fluency soon. Learning now, wh
 
 ## The Bottom Line
 
-AI tools won't make you smarter, but they will make you faster. The goal isn't to use AI for everything — it's to use AI for the tedious parts so you can focus on the work that actually requires your brain.
+AI tools won't make you smarter, but they will make you faster. The goal isn't to use AI for everything — it's to use AI for the tedious parts so you can focus on the work that actually requires your brain. If you want specific examples of what to automate first, our guide to [AI office automation tasks](/ai-office-automation-tasks/) walks through the highest-impact workflows.
 
 Start with one tool. Master it. Then add another.
 
