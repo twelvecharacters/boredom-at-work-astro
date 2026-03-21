@@ -1,7 +1,7 @@
 ---
 title: "Best Office Chairs for Long Hours (2026): Tested & Compared"
 slug: "best-office-chairs"
-description: "Find the perfect office chair for all-day comfort. Herman Miller, Secretlab, Branch, and budget options compared with real specs and prices."
+description: "Find the perfect office chair for all-day comfort. Herman Miller, Secretlab, Branch, and budget options compared with real specs and current prices."
 publishDate: 2026-03-27
 author: "bored chap"
 image: "/images/best-office-chairs.webp"
@@ -13,14 +13,14 @@ faq:
   - question: "Is an expensive office chair worth it?"
     answer: "Yes, if you sit 6+ hours daily. A $500-1500 chair typically lasts 10-15 years, supports your back properly, and prevents long-term pain. That's $50-150 per year for something you use more than your bed. Cheap chairs cause back problems that cost more to fix than a good chair."
   - question: "What's the best office chair for back pain?"
-    answer: "For back pain, prioritize adjustable lumbar support. The Herman Miller Aeron ($1,400+) with PostureFit SL is the gold standard. For budget options, the Branch Ergonomic Chair Pro ($500) or Autonomous ErgoChair Pro ($499) both have excellent lumbar adjustment. Mesh backs also help by keeping you cool and promoting movement."
+    answer: "For back pain, prioritize adjustable lumbar support. The Herman Miller Aeron (~$1,990) with PostureFit SL is the gold standard. For budget options, the Branch Ergonomic Chair Pro (~$500) or Autonomous ErgoChair Pro (~$499) both have excellent lumbar adjustment. Mesh backs also help by keeping you cool and promoting movement."
   - question: "Gaming chair vs office chair—which is better for work?"
-    answer: "Office chairs are better for long work sessions. They have better lumbar support, more adjustability, and breathable mesh. Gaming chairs look cool but often have fixed lumbar pillows, less adjustment, and leather that gets hot. Exception: the Secretlab Titan Evo ($550+) bridges both worlds with office-grade ergonomics."
+    answer: "Office chairs are better for long work sessions. They have better lumbar support, more adjustability, and breathable mesh. Gaming chairs look cool but often have fixed lumbar pillows, less adjustment, and leather that gets hot. Exception: the Secretlab Titan Evo (~$589+) bridges both worlds with office-grade ergonomics."
   - question: "How long should an office chair last?"
     answer: "A quality office chair should last 7-15 years with regular use. Budget chairs ($100-200) last 2-3 years. Mid-range chairs ($300-600) last 5-8 years. Premium chairs like Herman Miller ($1000+) come with 12-year warranties and often last 15+ years. The gas cylinder usually fails first—it's replaceable for $30-50."
   - question: "What features matter most in an office chair?"
     answer: "In order of importance: 1) Adjustable lumbar support (not a fixed pillow), 2) Seat height adjustment, 3) Armrest adjustability (at least height, ideally 4D), 4) Seat depth adjustment, 5) Recline with tension control. Mesh back is nice for breathability but not essential. Skip chairs without lumbar adjustment entirely."
-tldr: "Get the Branch Ergonomic Chair Pro (~$500) for the best balance of comfort, adjustability, and price. The Herman Miller Aeron (~$1,400) is worth it if you sit 8+ hours daily and want a 12-year warranty. Budget pick: HON Ignition 2.0 (~$400). All prices as of March 2026."
+tldr: "Get the Branch Ergonomic Chair Pro (~$500) for the best balance of comfort, adjustability, and price. The Herman Miller Aeron (~$1,990) is worth it if you sit 8+ hours daily and want a 12-year warranty. Budget pick: HON Ignition 2.0 (~$400). All prices as of March 2026."
 isListicle: true
 ---
 
@@ -35,8 +35,8 @@ I've researched the major brands, compared specs, and identified the best option
 | Chair | Price | Best For | Our Verdict |
 |-------|-------|----------|-------------|
 | **Branch Ergonomic Chair Pro** | ~$500 | Most people | ⭐ Best overall value |
-| **Herman Miller Aeron** | ~$1,400+ | Premium/long-term | Best for 8+ hour days |
-| **Secretlab Titan Evo** | ~$550-700 | Gaming + work | Best gaming/office hybrid |
+| **Herman Miller Aeron** | ~$1,990+ | Premium/long-term | Best for 8+ hour days |
+| **Secretlab Titan Evo** | ~$589-800 | Gaming + work | Best gaming/office hybrid |
 | **Autonomous ErgoChair Pro** | ~$499 | Budget ergonomic | Good value alternative |
 | **HON Ignition 2.0** | ~$400 | Budget pick | Best under $400 |
 
@@ -114,7 +114,7 @@ The Branch Ergonomic Chair Pro hits the sweet spot between price and features. I
 
 ### 2. Herman Miller Aeron — Best Premium Option
 
-**Price:** Starting at ~$1,400 (fully loaded ~$1,700+)
+**Price:** Starting at ~$1,990
 
 The Aeron is the office chair equivalent of a luxury car. It's expensive, but it's also the chair people keep for 15+ years.
 
@@ -136,7 +136,7 @@ The Aeron is the office chair equivalent of a luxury car. It's expensive, but it
 - In MoMA's permanent collection
 
 **What Could Be Better:**
-- Price is significant ($1,400-1,700)
+- Price is significant (~$1,990+)
 - No headrest option on standard model
 - Mesh seat isn't for everyone (some prefer cushion)
 - Needs proper sizing—wrong size defeats the purpose
@@ -149,7 +149,7 @@ The Aeron is the office chair equivalent of a luxury car. It's expensive, but it
 
 ### 3. Secretlab Titan Evo — Best Gaming/Office Hybrid
 
-**Price:** ~$550-800 (varies by size and material)
+**Price:** ~$589-800 (varies by size and material)
 
 If you game and work from the same chair, the Titan Evo bridges both worlds. It has genuine ergonomic features, not just racing aesthetics.
 
@@ -254,7 +254,7 @@ If $500 is too much, the HON Ignition 2.0 is the best chair under $400 that I ca
 
 | Feature | Branch Pro | Aeron | Titan Evo | ErgoChair Pro | HON 2.0 |
 |---------|------------|-------|-----------|---------------|---------|
-| **Price** | ~$500 | ~$1,400 | ~$550+ | ~$499 | ~$400 |
+| **Price** | ~$500 | ~$1,990 | ~$589+ | ~$499 | ~$400 |
 | **Weight capacity** | 275 lbs | 350 lbs | 395 lbs (XL) | 300 lbs | 300 lbs |
 | **Lumbar** | 2-way | PostureFit SL | 4-way | 2-way | Basic |
 | **Armrests** | 5D | 4D | 4D | 3D | 2D |
@@ -288,7 +288,6 @@ If $500 is too much, the HON Ignition 2.0 is the best chair under $400 that I ca
 ### Get the Autonomous ErgoChair Pro if:
 - You want full mesh breathability
 - You're in a hot climate
-- You need full mesh breathability
 - $499 is your firm budget
 
 ### Get the HON Ignition 2.0 if:
