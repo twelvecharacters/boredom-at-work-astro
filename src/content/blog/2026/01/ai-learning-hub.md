@@ -4,7 +4,7 @@ slug: "ai-learning-hub"
 description: "Everything you need to learn AI during work hours. Free courses, tutorials, tools, and practical skills that actually matter for your career in 2026."
 publishDate: 2026-01-28
 author: "bored chap"
-image: "../../../../assets/images/ai-learning-hub.webp"
+image: "./ai-learning-hub.webp"
 tags: ["AI", "Learning", "Career Development", "Productivity", "Hub Page"]
 draft: false
 tldr: "Start with ChatGPT basics, take a free Google or IBM course for credibility, then focus on AI tools that solve your actual work problems. 10-20 hours total to become genuinely useful with AI."

@@ -3,7 +3,7 @@ title: "ChatGPT Custom Instructions: The Complete Guide (2026)"
 description: "Learn how to set up ChatGPT custom instructions to get better responses every time. Includes templates for work, writing, coding, and more."
 publishDate: 2026-02-13
 author: "bored chap"
-image: "../../../../assets/images/chatgpt-custom-instructions.webp"
+image: "./chatgpt-custom-instructions.webp"
 tags: ["AI", "ChatGPT", "Productivity", "Tutorial"]
 draft: false
 howTo:

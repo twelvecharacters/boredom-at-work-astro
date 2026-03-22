@@ -4,7 +4,7 @@ slug: "desk-upgrade-guide"
 description: "Upgrade your home office desk setup. Standing desks, ergonomic chairs, monitor arms, and cable management for a productive workspace."
 publishDate: 2026-03-01
 author: "bored chap"
-image: "../../../../assets/images/desk-upgrade-guide.webp"
+image: "./desk-upgrade-guide.webp"
 tags: ["Office Setup", "Home Office", "Standing Desks", "Ergonomics", "Hub Page"]
 draft: false
 faq:

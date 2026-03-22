@@ -5,7 +5,7 @@ description: "The specific AI skills that lead to promotions. What to focus on, 
 publishDate: 2025-12-26
 author: "bored chap"
 tags: ["Career Development", "AI Skills", "Promotion"]
-image: "../../../../assets/images/ai-skills-promotion.webp"
+image: "./ai-skills-promotion.webp"
 draft: false
 faq:
   - question: "What AI skills should I learn to get promoted?"

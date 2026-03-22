@@ -4,7 +4,7 @@ slug: "claude-planned-malaga-marbella-trip"
 description: "5 days in Málaga and Marbella, planned by Claude. Tapas bars, Alcazaba, a conference at Hard Rock Hotel, and honest restaurant picks on a budget."
 publishDate: 2026-03-11
 author: "bored chap"
-image: "../../../../assets/images/claude-malaga-marbella-trip.webp"
+image: "./claude-malaga-marbella-trip.webp"
 tags: ["AI", "Travel", "Claude", "Trip Planning", "Spain"]
 draft: false
 faq:

@@ -4,7 +4,7 @@ slug: "fdm-vs-resin-printing"
 description: "FDM vs resin 3D printing — we compare cost, print quality, safety, and ease of use with real examples to help you pick the right technology for your project."
 publishDate: 2026-03-02
 author: "bored chap"
-image: "../../../../assets/images/fdm-vs-resin-printing.webp"
+image: "./fdm-vs-resin-printing.webp"
 tags: ["3D Printing", "FDM", "Resin", "SLA", "Comparison", "Buying Guide"]
 draft: false
 faq:

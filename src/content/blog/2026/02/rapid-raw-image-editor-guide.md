@@ -4,7 +4,7 @@ slug: "rapid-raw-image-editor-guide"
 description: "Tired of slow RAW editors? Discover RapidRAW, the open-source powerhouse built with Rust and GPU acceleration for lightning-fast photo editing."
 publishDate: 2026-02-12
 author: "bored chap"
-image: "../../../../assets/images/rapidraw.webp"
+image: "./rapidraw.webp"
 tags: ["Photography", "Open Source", "RAW Editing", "RapidRAW", "Rust", "GPU Acceleration"]
 draft: false
 faq:

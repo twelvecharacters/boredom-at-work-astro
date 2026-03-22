@@ -5,7 +5,7 @@ description: "Master prompt engineering in one afternoon. Core principles, advan
 publishDate: 2026-01-12
 author: "bored chap"
 tags: ["Prompt Engineering", "ChatGPT", "AI Skills", "Tutorial"]
-image: "../../../../assets/images/prompt-engineering.webp"
+image: "./prompt-engineering.webp"
 draft: false
 faq:
   - question: "How long does it take to learn prompt engineering?"

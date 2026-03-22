@@ -4,7 +4,7 @@ slug: "ai-job-interview-prep"
 description: "Use ChatGPT or Claude to research companies, craft STAR answers, run mock interviews, and write follow-up emails. Copy-paste prompt templates included."
 publishDate: 2026-07-07
 author: "bored chap"
-image: "../../../../assets/images/ai-job-interview-prep.webp"
+image: "./ai-job-interview-prep.webp"
 tags: ["AI Tools", "Productivity", "ChatGPT", "Career"]
 draft: false
 faq:

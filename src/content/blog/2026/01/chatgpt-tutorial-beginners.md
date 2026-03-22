@@ -5,7 +5,7 @@ description: "Learn ChatGPT in 30 minutes. From your first prompt to advanced tr
 publishDate: 2026-01-05
 updatedDate: 2026-02-02
 author: "bored chap"
-image: "../../../../assets/images/chatgpt.webp"
+image: "./chatgpt.webp"
 tags: ["ChatGPT", "AI", "Tutorial", "Beginners"]
 draft: false
 tldr: "Free to use, saves hours daily on emails, research, and brainstorming. The trick: better prompts = better answers. You can learn the basics in 30 minutes."

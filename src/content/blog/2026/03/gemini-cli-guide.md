@@ -4,7 +4,7 @@ slug: "gemini-cli-guide"
 description: "Learn how to use Gemini CLI to boost your developer productivity, automate tasks, and get AI-powered help directly in your command line."
 publishDate: 2026-03-22
 author: "bored chap"
-image: "../../../../assets/images/google-gemini-review.webp"
+image: "./google-gemini-review.webp"
 imageAlt: "A terminal window showing the Gemini CLI interface with AI-powered code assistance."
 tags: ["AI", "Gemini", "CLI", "Developer Tools", "Productivity"]
 draft: false

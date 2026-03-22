@@ -4,7 +4,7 @@ slug: "macos-tahoe-tricks-and-hacks"
 description: "Discover 25 essential macOS 26 Tahoe tips and hidden features. Liquid Glass customization, Apple Intelligence tricks, and productivity hacks explained."
 publishDate: 2026-02-09
 author: "bored chap"
-image: "../../../../assets/images/macos-tahoe.webp"
+image: "./macos-tahoe.webp"
 tags: ["Tech & Gadgets", "macOS", "Apple", "Tahoe", "Productivity"]
 draft: false
 isListicle: true

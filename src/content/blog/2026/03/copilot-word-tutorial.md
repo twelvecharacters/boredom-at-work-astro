@@ -4,7 +4,7 @@ slug: "copilot-word-tutorial"
 description: "Master Copilot in Word. From drafting documents to rewriting sections—everything you need to use AI directly in Microsoft Word."
 publishDate: 2026-03-03
 author: "bored chap"
-image: "../../../../assets/images/copilot-word-tutorial.webp"
+image: "./copilot-word-tutorial.webp"
 tags: ["Copilot", "Microsoft", "Word", "AI", "Productivity"]
 draft: false
 faq:

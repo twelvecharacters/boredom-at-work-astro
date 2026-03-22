@@ -4,7 +4,7 @@ slug: "ray-ban-meta-review"
 description: "My honest Ray-Ban Meta review after 2 weeks of daily use, including a helicopter flight over Dubai. Camera, battery, audio — the full picture."
 publishDate: 2026-02-14
 author: "bored chap"
-image: "../../../../assets/images/ray-ban-meta-review.webp"
+image: "./ray-ban-meta-review.webp"
 tags: ["Tech & Gadgets", "Smart Glasses", "Meta", "Ray-Ban", "Review"]
 draft: false
 video:

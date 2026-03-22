@@ -4,7 +4,7 @@ slug: "chatgpt-guide"
 description: "Master ChatGPT from scratch. Prompts, custom instructions, plugins, and real workflows — the only guide you need to go from beginner to power user."
 publishDate: 2026-02-28
 author: "bored chap"
-image: "../../../../assets/images/chatgpt-guide.webp"
+image: "./chatgpt-guide.webp"
 tags: ["ChatGPT", "AI", "Productivity", "OpenAI", "Hub Page"]
 draft: false
 video:

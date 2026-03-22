@@ -4,7 +4,7 @@ slug: "cad-software-3d-printing"
 description: "Want to design your own 3D prints? We compare Tinkercad, Fusion 360, Onshape, and Blender to help you find the best CAD software for your needs and skill level."
 publishDate: 2026-01-31
 author: "bored chap"
-image: "../../../../assets/images/cad-software-3d-printing.webp"
+image: "./cad-software-3d-printing.webp"
 tags: ["3D Printing", "CAD", "Software", "Tutorial", "Skills"]
 draft: false
 isListicle: true

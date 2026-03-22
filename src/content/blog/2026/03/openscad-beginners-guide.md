@@ -4,7 +4,7 @@ slug: "openscad-beginners-guide"
 description: "Learn how to use OpenSCAD to design custom 3D prints by writing code. This beginner-friendly guide covers the basics, key commands, and your first real project."
 publishDate: 2026-03-23
 author: "bored chap"
-image: "../../../../assets/images/openscad-beginners-guide.webp"
+image: "./openscad-beginners-guide.webp"
 tags: ["3D Printing", "CAD", "Software", "Tutorial", "OpenSCAD"]
 draft: false
 faq:

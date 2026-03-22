@@ -4,7 +4,7 @@ slug: "learn-ai-guide"
 description: "Your step-by-step guide to learning AI in 2026. From absolute beginner to job-ready skills—free courses, certifications, and practical projects included."
 publishDate: 2026-02-27
 author: "bored chap"
-image: "../../../../assets/images/learn-ai-guide.webp"
+image: "./learn-ai-guide.webp"
 tags: ["AI", "Learning", "Career", "Courses", "Hub Page"]
 draft: false
 video:

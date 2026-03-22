@@ -4,7 +4,7 @@ slug: "best-paper-trading-apps"
 description: "I tested every major paper trading app so you don't have to. Here are the 7 best stock market simulators for practicing trades with zero risk in 2026."
 publishDate: 2026-03-30
 author: "bored chap"
-image: "../../../../assets/images/best-paper-trading-apps.webp"
+image: "./best-paper-trading-apps.webp"
 tags: ["Investing", "Paper Trading", "Finance Apps", "Beginners", "Tools"]
 draft: false
 isListicle: true

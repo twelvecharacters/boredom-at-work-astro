@@ -4,7 +4,7 @@ slug: "ultrawide-vs-dual-monitors"
 description: "I used both an ultrawide and dual monitor setup for months of remote work. Here's my honest comparison on productivity, cost, desk space, and video calls."
 publishDate: 2026-06-27
 author: "bored chap"
-image: "../../../../assets/images/ultrawide-vs-dual-monitors.webp"
+image: "./ultrawide-vs-dual-monitors.webp"
 tags: ["Office Setup", "Monitors", "Work From Home", "Productivity"]
 draft: false
 faq:

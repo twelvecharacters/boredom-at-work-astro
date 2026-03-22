@@ -4,7 +4,7 @@ slug: "best-crypto-portfolio-trackers"
 description: "I tested every major crypto portfolio tracker so you don't have to. Here are the 7 best in 2026 for tracking holdings, DeFi, NFTs, and tax reporting."
 publishDate: 2026-05-27
 author: "bored chap"
-image: "../../../../assets/images/best-crypto-portfolio-trackers.webp"
+image: "./best-crypto-portfolio-trackers.webp"
 tags: ["Cryptocurrency", "Portfolio Tracking", "Finance Apps", "DeFi", "Crypto Tax"]
 draft: false
 isListicle: true

@@ -4,7 +4,7 @@ slug: "notion-ai-vs-obsidian-ai"
 description: "Comparing Notion AI and Obsidian's AI plugins for note-taking. Features, pricing, privacy, and which fits your workflow better."
 publishDate: 2026-02-17
 author: "bored chap"
-image: "../../../../assets/images/notion-ai-vs-obsidian-ai.webp"
+image: "./notion-ai-vs-obsidian-ai.webp"
 tags: ["AI", "Notion", "Obsidian", "Productivity", "Note-Taking", "Comparison"]
 draft: false
 faq:

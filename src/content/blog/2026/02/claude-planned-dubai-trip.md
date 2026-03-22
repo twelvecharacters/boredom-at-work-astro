@@ -4,7 +4,7 @@ slug: "claude-planned-dubai-trip"
 description: "I asked Claude to plan a 3-day Dubai trip for me and two colleagues. Burj Khalifa, helicopter flight, Michelin-star dinner — here's how it went."
 publishDate: 2026-02-11
 author: "bored chap"
-image: "../../../../assets/images/claude-dubai-trip.webp"
+image: "./claude-dubai-trip.webp"
 tags: ["AI", "Travel", "Dubai", "Claude", "Trip Planning"]
 draft: false
 video:

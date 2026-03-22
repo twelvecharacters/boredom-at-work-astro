@@ -4,7 +4,7 @@ slug: "best-custom-gpts-productivity"
 description: "I browsed and tested 50+ custom GPTs from the ChatGPT GPT Store so you don't have to. Here are the 12 that actually save time for writing and research."
 publishDate: 2026-07-04
 author: "bored chap"
-image: "../../../../assets/images/best-custom-gpts-productivity.webp"
+image: "./best-custom-gpts-productivity.webp"
 tags: ["ChatGPT", "AI Tools", "Productivity", "GPT Store"]
 draft: false
 faq:

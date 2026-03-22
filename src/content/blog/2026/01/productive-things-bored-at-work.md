@@ -5,7 +5,7 @@ description: "Bored at work? These 25 productive activities turn downtime into c
 publishDate: 2026-01-11
 author: "bored chap"
 tags: ["Productivity", "Career Growth", "Work Tips"]
-image: "../../../../assets/images/productive-work.webp"
+image: "./productive-work.webp"
 draft: false
 isListicle: true
 faq:

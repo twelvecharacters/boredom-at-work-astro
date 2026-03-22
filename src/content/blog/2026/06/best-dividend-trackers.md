@@ -4,7 +4,7 @@ slug: "best-dividend-trackers"
 description: "I tested every major dividend tracking app. Here are the 7 best for monitoring income, ex-dates, yield, and growth — from free options to premium tools."
 publishDate: 2026-06-08
 author: "bored chap"
-image: "../../../../assets/images/best-dividend-trackers.webp"
+image: "./best-dividend-trackers.webp"
 tags: ["Investing", "Dividends", "Finance Apps", "Portfolio Tracking", "Tools"]
 draft: false
 isListicle: true

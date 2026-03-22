@@ -4,7 +4,7 @@ slug: "pixel-10a-vs-9a"
 description: "Google has officially teased the Pixel 10a. Here is how it compares to the popular Pixel 9a and whether you should upgrade or buy the current model."
 publishDate: 2026-02-05
 author: "bored chap"
-image: "../../../../assets/images/pixel-10a.webp"
+image: "./pixel-10a.webp"
 tags: ["Google", "Pixel 10a", "Pixel 9a", "Smartphone", "Rumors", "Comparison"]
 draft: false
 faq:

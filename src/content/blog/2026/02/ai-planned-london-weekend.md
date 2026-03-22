@@ -4,7 +4,7 @@ slug: "ai-planned-london-weekend"
 description: "A real trip report: I used Clawd.bot to plan a gluten-free weekend in London. MJ The Musical, Chinatown, and three restaurants without a single celiac reaction."
 publishDate: 2026-02-15
 author: "bored chap"
-image: "../../../../assets/images/ai-london-trip-chinatown.webp"
+image: "./ai-london-trip-chinatown.webp"
 tags: ["AI", "Travel", "London", "Gluten-Free", "Trip Planning"]
 draft: false
 faq:
@@ -80,7 +80,7 @@ The stage design featured Michael Jackson's actual handwritten notes about study
 
 After the show, we weren't ready for dinner yet. The AI's itinerary had us going straight to Ugly Dumpling, but instead we wandered through Soho and stumbled into Chinatown.
 
-![London Chinatown at night](../../../../assets/images/ai-london-trip-chinatown.webp)
+![London Chinatown at night](./ai-london-trip-chinatown.webp)
 
 The red lanterns were glowing, the streets were packed, and we spent a good 30 minutes just soaking it in. This wasn't on the AI's radar — and that's fine. Good trip planning leaves room for serendipity.
 

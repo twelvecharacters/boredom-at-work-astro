@@ -4,7 +4,7 @@ slug: "best-desk-shelves-organizers"
 description: "The best desk shelves, monitor risers, and organizers compared. From premium Grovemade to budget alternatives — keep your workspace clean and organized."
 publishDate: 2026-07-31
 author: "bored chap"
-image: "../../../../assets/images/best-desk-shelves-organizers.webp"
+image: "./best-desk-shelves-organizers.webp"
 tags: ["Home Office", "Office Setup", "Desk Accessories", "Organization", "Buying Guide"]
 draft: false
 isListicle: true

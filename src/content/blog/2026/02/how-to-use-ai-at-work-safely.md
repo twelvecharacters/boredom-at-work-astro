@@ -4,7 +4,7 @@ slug: "how-to-use-ai-at-work-safely"
 description: "Practical guide to using AI tools at work safely: company policies, data privacy, disclosure rules, and common mistakes to avoid."
 publishDate: 2026-02-20
 author: "bored chap"
-image: "../../../../assets/images/how-to-use-ai-at-work-safely.webp"
+image: "./how-to-use-ai-at-work-safely.webp"
 tags: ["AI", "Productivity", "Work", "Privacy", "Career"]
 draft: false
 faq:
