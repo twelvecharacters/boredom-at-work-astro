@@ -1,7 +1,7 @@
 ---
 title: "7 Best Monitor Light Bars (2026) — I Tested Them All"
 slug: "best-monitor-light-bars"
-description: "The best monitor light bars for home office compared. From the BenQ ScreenBar Halo to budget picks under $40, find the right one for your desk setup."
+description: "The best monitor light bars for your home office compared. From the BenQ ScreenBar Halo to budget picks under $40, find the right one for your desk setup."
 publishDate: 2026-03-25
 author: "bored chap"
 image: "/images/best-monitor-light-bars.webp"
@@ -12,7 +12,7 @@ faq:
   - question: "Is a monitor light bar better than a desk lamp?"
     answer: "Yes, for computer work. A monitor light bar uses asymmetric optics to illuminate only your desk and keyboard without causing screen glare. Traditional desk lamps reflect off your monitor, creating eye strain. Light bars also save desk space since they clip directly onto your monitor. The only advantage of a desk lamp is wider room illumination."
   - question: "Do monitor light bars work with curved monitors?"
-    answer: "Most mid-range and premium light bars support curved monitors (typically 1000R to 1800R curvature). The BenQ ScreenBar Halo, ScreenBar Pro, and Quntis Pro+ all work with curved screens. Budget bars like the Baseus only fit flat monitors with bezels up to 0.8 inches thick. Always check the clamp compatibility before buying."
+    answer: "Most mid-range and premium light bars support curved monitors (typically 1000R to 1800R curvature). The BenQ ScreenBar Halo, ScreenBar Pro, and Quntis Pro+ all work with curved screens. Budget bars like the Baseus only fit flat monitors with bezels up to ~1.6 inches thick. Always check the clamp compatibility before buying."
   - question: "How much should I spend on a monitor light bar?"
     answer: "For most home office workers, ~$40-70 gets you a solid light bar with adjustable color temperature and auto-dimming. The Quntis Pro+ (~$60) and Xiaomi (~$70) are excellent in this range. Spend ~$110-180 only if you want premium features like wireless controllers, motion sensors, or smart home integration."
 ---
@@ -36,7 +36,7 @@ Here's what's actually worth buying in 2026.
 | **BenQ ScreenBar Pro** | ~$140 | Auto-dimming pro | 2700-6500K | Motion sensor, 1000+ lux |
 | **Quntis Pro+** | ~$60 | Best budget | 3000-6500K | Remote control, great value |
 | **Xiaomi Mi Light Bar** | ~$70 | Best value | 2700-6500K | Wireless dial, aluminum build |
-| **Yeelight Light Bar Pro** | ~$110 | Smart home | 2700-6500K | Alexa/Google/SmartThings |
+| **Yeelight Light Bar Pro** | ~$140 | Smart home | 2700-6500K | Alexa/Google/SmartThings |
 | **Baseus i-Wok** | ~$38 | Ultra-budget | 3000-6500K | Under $40, gets the job done |
 
 *Prices fluctuate -- check current listings before buying.*
@@ -62,22 +62,21 @@ The wireless controller is a satisfying puck-shaped dial that sits on your desk.
 | Max brightness | ~1000 lux (center) |
 | Coverage area | 65 x 40 cm (25.6" x 15.7") |
 | CRI | >95 |
-| Power | USB-A |
+| Power | USB-C |
 | Curved monitor support | Yes (1000R-1800R) |
 | Weight | ~800g |
 
 **What I Like:**
 - Rear backlight genuinely reduces eye fatigue in dark rooms
-- Wireless controller is intuitive and sits neatly on your desk
+- Wireless controller is intuitive and sits neatly on your desk (rechargeable via USB-C)
 - Auto-dimming adjusts to ambient light automatically (500 lux target)
 - Fits curved monitors and even iMacs/Studio Displays
 - Flicker-free, EU-certified blue light safety
 
 **What Could Be Better:**
 - Most expensive option on this list
-- USB-A power (not USB-C)
 - The backlight isn't RGB — it's warm white only
-- Wireless controller needs AAA batteries
+- Controller needs occasional recharging
 
 **Best for:** Anyone working long hours in a home office, especially if you work in dim or dark rooms. The backlight alone is worth the premium if you do evening work sessions. It's the one I keep coming back to.
 
@@ -97,7 +96,7 @@ The auto-dimming sensor is the standout feature here. It reads ambient light and
 |------|----------------|
 | Length | 45 cm (17.7") |
 | Color temp | 2700-6500K |
-| Max brightness | ~500 lux (center) |
+| Max brightness | ~930 lux (center, at 45cm) |
 | Coverage area | 60 x 30 cm (23.6" x 11.8") |
 | CRI | >95 |
 | Power | USB-A |
@@ -237,7 +236,7 @@ The wireless dial is the standout at this price point. Rotate for brightness, pr
 
 ### 6. Yeelight Monitor Light Bar Pro -- Best Smart Home Integration
 
-**Price:** ~$110
+**Price:** ~$140
 
 If your desk is part of a smart home ecosystem, the Yeelight Pro is the only light bar that truly belongs. It works with Google Home, Amazon Alexa, Samsung SmartThings, and even Razer Chroma for RGB syncing. Voice control, automations, scenes — it all works.
 
@@ -291,7 +290,7 @@ It's not fancy. There's no wireless controller, no auto-dimming sensor, and no R
 | Max brightness | ~160 lumens |
 | CRI | >97 |
 | Power | USB-C |
-| Curved monitor support | No (flat monitors, 0.3-0.8" thick) |
+| Curved monitor support | No (flat monitors, 0.2-1.6" thick) |
 | Weight | ~400g |
 
 **What I Like:**
@@ -306,7 +305,7 @@ It's not fancy. There's no wireless controller, no auto-dimming sensor, and no R
 - Only three color temperature presets (not stepless)
 - No wireless controller or remote
 - No auto-dimming sensor
-- Narrow monitor compatibility (0.3-0.8" thick only)
+- No curved monitor support
 - Lower brightness than competitors
 
 **Best for:** Anyone who wants to try a monitor light bar without committing $100+. It's also great for a secondary monitor or a temporary setup. If you're on a strict budget, this gets the job done.
@@ -386,7 +385,7 @@ The BenQ models and Quntis Pro+ include ambient light sensors that automatically
 | **Best auto on/off** | BenQ ScreenBar Pro (~$140) | Motion sensor, brightest coverage |
 | **Best budget** | Quntis Pro+ (~$60) | Wireless remote, auto-dimming, USB-C |
 | **Best value** | Xiaomi Mi Light Bar (~$70) | Wireless dial, aluminum build |
-| **Best smart home** | Yeelight Pro (~$110) | Alexa, Google, HomeKit, RGB |
+| **Best smart home** | Yeelight Pro (~$140) | Alexa, Google, SmartThings, RGB |
 | **Best under $40** | Baseus i-Wok (~$38) | Gets the job done, great CRI |
 | **Best for curved monitors** | BenQ ScreenBar Pro (~$140) | 1000-1800R support, widest coverage |
 | **Best for dual monitors** | BenQ ScreenBar Pro (~$140) | 85 cm coverage, handles wide setups |

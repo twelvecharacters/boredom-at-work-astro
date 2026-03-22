@@ -37,7 +37,7 @@ I've researched the major brands, compared specs, and identified the best option
 | **FlexiSpot E7 Pro** | ~$500 | Most people | ⭐ Best overall |
 | **Uplift V2** | ~$599+ | Customization | Best premium option |
 | **Branch Duo** | ~$549 | Budget + storage | Best value |
-| **Autonomous SmartDesk Pro** | ~$500 | Clean aesthetics | Good alternative |
+| **Autonomous SmartDesk Pro** | ~$599-699 | Clean aesthetics | Good alternative |
 
 *Prices fluctuate—check current prices on manufacturer websites before buying.*
 
@@ -155,7 +155,6 @@ Branch is relatively new to standing desks but has made a strong entry. The Duo 
 |------|------------|
 | Weight capacity | 275 lbs |
 | Height range | 28" to 47.3" |
-| Lifting speed | Dual motor |
 | Motors | Dual motor |
 | Frame warranty | 10 years |
 
@@ -180,7 +179,7 @@ Branch is relatively new to standing desks but has made a strong entry. The Duo 
 
 ### 4. Autonomous SmartDesk Pro — Good Alternative
 
-**Price:** Starting at ~$500-600
+**Price:** Starting at ~$599-699
 
 Autonomous popularized affordable standing desks and the SmartDesk Pro is their premium offering. It's a solid desk, though the market has gotten more competitive since their early days.
 
@@ -188,8 +187,8 @@ Autonomous popularized affordable standing desks and the SmartDesk Pro is their 
 | Spec | SmartDesk Pro |
 |------|---------------|
 | Weight capacity | 310 lbs |
-| Height range | 25.2" to 51" |
-| Lifting speed | 1.3"/second |
+| Height range | 26.2" to 52" |
+| Lifting speed | 2.3"/second |
 | Motors | Dual motor |
 | Frame warranty | 7 years |
 
@@ -225,9 +224,9 @@ If you want IKEA pricing, consider building your own with their TROTTEN legs and
 
 | Feature | FlexiSpot E7 Pro | Uplift V2 | Branch Duo | Autonomous Pro |
 |---------|------------------|-----------|------------|----------------|
-| **Price (starting)** | ~$480 | ~$599 | ~$549 | ~$500 |
+| **Price (starting)** | ~$480 | ~$599 | ~$549 | ~$599 |
 | **Weight capacity** | 440 lbs | 355 lbs | 275 lbs | 310 lbs |
-| **Height range** | 26-51.6" | 25.5-51.1" | 28-47.3" | 25.2-51" |
+| **Height range** | 26-51.6" | 25.5-51.1" | 28-47.3" | 26.2-52" |
 | **Frame warranty** | 15 years | 15 years | 10 years | 7 years |
 | **Motor warranty** | 5 years | 5 years | 7 years | 5 years |
 | **Best feature** | Stability | Customization | Storage | Aesthetics |
