@@ -37,6 +37,21 @@
 └── package.json
 ```
 
+## 📈 Article Statistics
+
+| Year | Month | Articles |
+| :--- | :--- | :--- |
+| 2026 | 08 - Aug | 2 |
+| 2026 | 07 - Jul | 10 |
+| 2026 | 06 - Jun | 12 |
+| 2026 | 05 - May | 13 |
+| 2026 | 04 - Apr | 13 |
+| 2026 | 03 - Mar | 23 |
+| 2026 | 02 - Feb | 36 |
+| 2026 | 01 - Jan | 26 |
+| 2025 | 12 - Dec | 9 |
+| **Total** | | **144** |
+
 ## 🧞 Commands
 
 All commands are run from the root of the project:
