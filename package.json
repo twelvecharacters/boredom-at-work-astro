@@ -9,6 +9,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "thumbnails": "node scripts/generate-thumbnails.js",
+    "stats": "node scripts/update-stats.js",
     "lint:content": "node scripts/content-lint.js",
     "lint:content:fix": "node scripts/content-lint.js --fix"
   },

@@ -46,11 +46,12 @@
 | 2026 | 06 - Jun | 12 |
 | 2026 | 05 - May | 13 |
 | 2026 | 04 - Apr | 13 |
-| 2026 | 03 - Mar | 23 |
+| 2026 | 03 - Mar | 25 |
 | 2026 | 02 - Feb | 36 |
 | 2026 | 01 - Jan | 26 |
 | 2025 | 12 - Dec | 9 |
-| **Total** | | **144** |
+| **Total** | | **146** |
+
 
 ## 🧞 Commands
 
@@ -63,6 +64,7 @@ All commands are run from the root of the project:
 | `npm run build` | Builds for production (includes Pagefind indexing) |
 | `npm run preview` | Preview production build locally |
 | `npm run thumbnails` | Generate missing blog thumbnails |
+| `npm run stats` | Update article statistics in README.md |
 
 ## 📬 Contact
 
