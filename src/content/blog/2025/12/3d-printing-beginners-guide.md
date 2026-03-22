@@ -217,7 +217,7 @@ A fair question for anyone interested in 3D printing:
 ### Running Costs
 
 - Filament: $15-25 per kg
-- Electricity: about $0.10-0.20 per print hour
+- Electricity: about $0.03-0.08 per print hour
 - Spare parts: Nozzles ($5), beds ($20)
 
 ### What Can You Do With It?

@@ -9,11 +9,11 @@ tags: ["3D Printing", "Beginners", "Guide", "Hub Page"]
 draft: false
 faq:
   - question: "Is 3D printing worth it for beginners in 2026?"
-    answer: "Yes, if you enjoy making things. Entry-level printers like the Bambu A1 Mini ($199) or Creality Ender 3 ($199) deliver excellent quality. Expect to spend $300-500 total including filament and accessories. You'll save money on household items, create custom gifts, and learn a valuable skill. Not worth it if you just want to print occasionally—use a local makerspace instead."
+    answer: "Yes, if you enjoy making things. Entry-level printers like the Bambu A1 Mini ($219) or Creality Ender 3 V3 SE ($199) deliver excellent quality. Expect to spend $300-500 total including filament and accessories. You'll save money on household items, create custom gifts, and learn a valuable skill. Not worth it if you just want to print occasionally—use a local makerspace instead."
   - question: "What's the best first 3D printer for beginners?"
-    answer: "The Bambu Lab A1 Mini ($199) is the best plug-and-play option—minimal setup, auto bed leveling, and consistent prints. The Creality Ender 3 V3 ($199) is better if you want to learn how printers work and don't mind some tinkering. Both produce great results; choose based on whether you want convenience or education."
+    answer: "The Bambu Lab A1 Mini ($219) is the best plug-and-play option—minimal setup, auto bed leveling, and consistent prints. The Creality Ender 3 V3 SE ($199) is better if you want to learn how printers work and don't mind some tinkering. Both produce great results; choose based on whether you want convenience or education."
   - question: "How much does 3D printing cost per month?"
-    answer: "After buying a printer ($200-400), ongoing costs are low. A 1kg spool of PLA filament costs $15-25 and lasts for dozens of prints. Electricity adds $2-5/month. Most hobbyists spend $20-40/month on materials. The real cost is time—learning curves exist, and prints can take hours."
+    answer: "After buying a printer ($200-400), ongoing costs are low. A 1kg spool of PLA filament costs $15-25 and lasts for dozens of prints. Electricity adds $1-3/month. Most hobbyists spend $20-40/month on materials. The real cost is time—learning curves exist, and prints can take hours."
   - question: "FDM or resin printer for beginners?"
     answer: "Start with FDM. It's cheaper, safer (no toxic resins), easier to maintain, and better for functional parts. Resin printers excel at tiny details (miniatures, jewelry) but require ventilation, PPE, and messy post-processing. Get a resin printer as your second printer if you need high detail."
   - question: "Can you make money with a 3D printer?"
@@ -117,12 +117,12 @@ The most important decision. Get this right, and everything else is easier.
 
 | Printer | Price | Best For | Our Take |
 |---------|-------|----------|----------|
-| **Bambu Lab A1 Mini** | $199 | Plug-and-play | Best for "just works" |
-| **Creality Ender 3 V3** | $199 | Learning the craft | Best for tinkerers |
-| **Anycubic Kobra 2** | $249 | Balance of both | Good middle ground |
+| **Bambu Lab A1 Mini** | $219 | Plug-and-play | Best for "just works" |
+| **Creality Ender 3 V3 SE** | $199 | Learning the craft | Best for budget tinkering |
+| **Anycubic Kobra 2** | $219 | Balance of both | Good middle ground |
 | **Bambu Lab P1S** | ~$450 | Enclosed, quiet | Best enclosed option |
 
-**Budget pick:** Creality Ender 3 V3—proven workhorse, huge community
+**Budget pick:** Creality Ender 3 V3 SE—proven workhorse, huge community
 **Convenience pick:** Bambu A1 Mini—minimal setup, consistent results
 
 **Deep dives:**
@@ -216,8 +216,8 @@ If you have a Bambu printer, use Bambu Studio. Everyone else: start with Cura. F
 
 | Material | Best For | Difficulty | Price |
 |----------|----------|------------|-------|
-| **PLA** | Beginners, decorative | Easy | $15-25/kg |
-| **PETG** | Functional parts, durability | Medium | $20-30/kg |
+| **PLA** | Beginners, decorative | Easy | $15-22/kg |
+| **PETG** | Functional parts, durability | Medium | $18-28/kg |
 | **ABS** | Heat resistance, strength | Hard | $20-30/kg |
 | **TPU** | Flexible parts | Medium | $25-40/kg |
 
@@ -233,7 +233,7 @@ If you have a Bambu printer, use Bambu Studio. Everyone else: start with Cura. F
 |---------|--------------|----------------|
 | **Layer Height** | Print resolution | 0.2mm (balanced) |
 | **Infill** | Internal density | 15-20% (most prints) |
-| **Print Speed** | How fast the nozzle moves | 50mm/s (safe) |
+| **Print Speed** | How fast the nozzle moves | 50-100mm/s (safe) |
 | **Bed Temp** | Heated bed temperature | 60°C for PLA |
 | **Nozzle Temp** | Melting temperature | 200-210°C for PLA |
 
@@ -269,7 +269,7 @@ Every 3D printer owner faces these issues. Here's how to fix them.
 | **Layer shifts** | Loose belts | Tighten belts |
 | **Under-extrusion** | Clogged nozzle | Clean or replace nozzle |
 | **Warping** | Bed adhesion, drafts | Enclosure, brim, warmer bed |
-| **Elephant's foot** | First layer too squished | Raise Z-offset slightly |
+| **Elephant's foot** | First layer too squished | Recalibrate Z-offset |
 
 **Pro tip:** 80% of problems are bed leveling or temperature related.
 
