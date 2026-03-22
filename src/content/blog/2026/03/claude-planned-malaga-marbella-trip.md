@@ -110,7 +110,7 @@ The setup was classic Hard Rock: cheeseburgers, hot dogs, open bar, and live ent
 
 The Iberostar breakfast buffet was genuinely impressive — fresh juices, pastries, fruit, the works. I captured some shots with my [Ray-Ban Meta smart glasses](/ray-ban-meta-review/) (hands-free photos while holding a coffee — the future is now).
 
-![Iberostar Selection Coral Beach breakfast buffet — fresh fruit, pastries under copper lamps, and colorful juice carafes](../../../../assets/images/iberostar-breakfast-buffet.webp)
+![Iberostar Selection Coral Beach breakfast buffet — fresh fruit, pastries under copper lamps, and colorful juice carafes](./iberostar-breakfast-buffet.webp)
 
 After breakfast, I set up in the hotel lobby and worked until 11:30. The lobby had solid Wi-Fi and comfortable seating — a perfectly fine temporary office.
 

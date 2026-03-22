@@ -42,7 +42,7 @@ Here's what Claude suggested vs. what actually happened.
 
 Our Emirates EK128 landed at midnight. Dubai airport at night is something else — even at that hour, it's buzzing with energy. A quick Uber later (first surprise: our "regular" Uber was a Lexus), we checked into **Five Palm Jumeirah**.
 
-![Five Palm Jumeirah entrance at night — illuminated palm trees and modern architecture on the Palm](../../../../assets/images/dubai-five-palm-jumeirah-entrance.webp)
+![Five Palm Jumeirah entrance at night — illuminated palm trees and modern architecture on the Palm](./dubai-five-palm-jumeirah-entrance.webp)
 
 The hotel is on the Palm, which means you're surrounded by water on three sides. We didn't have time to use the pool, beach, or spa during our entire stay — but the **breakfast alone was worth it.** Easily one of the best hotel breakfasts I've ever had. Multiple stations, fresh everything, views of the Arabian Gulf.
 
@@ -59,7 +59,7 @@ Claude warned us: "Don't underestimate Dubai Mall. It's not just a mall — it's
 
 We spent the entire morning just walking through it. The Dubai Aquarium, the indoor waterfall, the sheer scale of the place. It's free to walk around, which makes it a perfect budget-friendly activity.
 
-![The famous waterfall inside Dubai Mall — human diving sculptures cascading through four stories of water](../../../../assets/images/dubai-mall-waterfall-sculptures.webp)
+![The famous waterfall inside Dubai Mall — human diving sculptures cascading through four stories of water](./dubai-mall-waterfall-sculptures.webp)
 
 ### The Burj Khalifa Situation
 
@@ -79,7 +79,7 @@ This part wasn't in Claude's itinerary at all. Our business partners in Dubai in
 
 After dinner, they took us to **[Secret Room](https://secretroomdubai.com/)** — an exclusive nightclub that lives up to its name. No visible entrance, you need to know where to go. Inside: world-class DJs, a crowd that's dressed to impress, and the kind of energy that makes you forget it's a Monday night.
 
-![The Museum of the Future lit up at night — Arabic calligraphy covers the entire torus-shaped building](../../../../assets/images/dubai-museum-of-the-future-night.webp)
+![The Museum of the Future lit up at night — Arabic calligraphy covers the entire torus-shaped building](./dubai-museum-of-the-future-night.webp)
 
 **Lesson #2:** AI can plan your days perfectly, but the best nights come from local connections. If you know anyone in Dubai, let them show you the nightlife.
 
@@ -107,7 +107,7 @@ I was wearing my [Ray-Ban Meta smart glasses](/ray-ban-meta-review/) during the 
 
 For our last proper dinner in Dubai, Claude had suggested **Rüya** — a Michelin Guide-recommended Turkish restaurant. It turned out to be the perfect way to end the trip.
 
-![Rüya's rooftop terrace at night — pool, palm trees, and Dubai skyline views](../../../../assets/images/dubai-ruya-restaurant-view.webp)
+![Rüya's rooftop terrace at night — pool, palm trees, and Dubai skyline views](./dubai-ruya-restaurant-view.webp)
 
 The rooftop setting alone was worth the visit: an open-air terrace with a pool, palm trees, fire pits, and views across the Dubai skyline at night. The decor is tasteful without being pretentious — exactly the vibe you want after a day of helicopters and sightseeing.
 

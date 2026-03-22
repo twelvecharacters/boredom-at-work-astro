@@ -66,13 +66,13 @@ The Notting Hill breakfast spot (Libby's) was probably great. But sometimes the 
 
 ### MJ The Musical: The AI Got This Right
 
-![MJ The Musical at Prince Edward Theatre](../../../../assets/images/ai-london-trip-mj-musical.webp)
+![MJ The Musical at Prince Edward Theatre](./ai-london-trip-mj-musical.webp)
 
 The afternoon was exactly as planned. We dropped our backpacks at the hotel (The Westbourne Hyde Park — chosen by the AI for its location between Notting Hill and the West End), then headed to the Prince Edward Theatre.
 
 MJ The Musical was incredible. The choreography, the live band, the guy playing Michael — absolutely nailed it. We caught it during its "Final Weeks" in London, which made it feel even more special.
 
-![The stage before the show — covered in MJ's handwritten choreography notes](../../../../assets/images/ai-london-trip-theater.webp)
+![The stage before the show — covered in MJ's handwritten choreography notes](./ai-london-trip-theater.webp)
 
 The stage design featured Michael Jackson's actual handwritten notes about studying dancers like Bob Fosse and movies like "All That Jazz." A nice touch that set the tone before the curtain even rose.
 
@@ -86,7 +86,7 @@ The red lanterns were glowing, the streets were packed, and we spent a good 30 m
 
 ### Dinner at Ugly Dumpling: AI Recommendation = Success
 
-![Gluten-free dumplings at Ugly Dumpling](../../../../assets/images/ai-london-trip-dumplings.webp)
+![Gluten-free dumplings at Ugly Dumpling](./ai-london-trip-dumplings.webp)
 
 This was the real test. My girlfriend has celiac disease — she can't just "try" a restaurant. One wrong sauce and she's sick for days.
 
