@@ -4,7 +4,7 @@ slug: "photography-guide"
 description: "Your complete guide to photography—from choosing your first camera to taking better photos. Everything beginners need to start their photography journey."
 publishDate: 2026-03-01
 author: "bored chap"
-image: "/images/photography-guide.webp"
+image: "../../../../assets/images/photography-guide.webp"
 tags: ["Photography", "Cameras", "Beginners", "Guide", "Hub Page"]
 draft: false
 faq:

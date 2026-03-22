@@ -4,7 +4,7 @@ slug: "best-investing-podcasts"
 description: "I listen to investing podcasts during work hours. Here are the 8 best in 2026, ranked by level — from total beginner to advanced strategy."
 publishDate: 2026-06-15
 author: "bored chap"
-image: "/images/best-investing-podcasts.webp"
+image: "../../../../assets/images/best-investing-podcasts.webp"
 tags: ["Investing", "Podcasts", "Personal Finance", "Learning", "Finance"]
 draft: false
 isListicle: true

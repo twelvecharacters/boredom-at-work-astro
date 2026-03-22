@@ -4,7 +4,7 @@ slug: "home-office-lighting-guide"
 description: "The complete guide to home office lighting. Best monitor light bars, desk lamps, and video call setups compared with prices and ergonomic recommendations."
 publishDate: 2026-07-28
 author: "bored chap"
-image: "/images/home-office-lighting-guide.webp"
+image: "../../../../assets/images/home-office-lighting-guide.webp"
 tags: ["Home Office", "Office Setup", "Lighting", "Eye Strain", "Video Calls"]
 draft: false
 faq:

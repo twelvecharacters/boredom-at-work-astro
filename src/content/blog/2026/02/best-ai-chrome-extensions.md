@@ -4,7 +4,7 @@ slug: "best-ai-chrome-extensions"
 description: "These 10 AI Chrome extensions actually save time. Summarize pages, write emails, research faster — I use #3 and #7 every day."
 publishDate: 2026-02-26
 author: "bored chap"
-image: "/images/best-ai-chrome-extensions.webp"
+image: "../../../../assets/images/best-ai-chrome-extensions.webp"
 tags: ["AI", "Chrome Extensions", "Productivity", "Browser", "Tools"]
 draft: false
 isListicle: true

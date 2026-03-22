@@ -4,7 +4,7 @@ slug: "3d-print-not-sticking-fixes"
 description: "First layer keeps failing? Here's every reason your 3D print won't stick to the bed and how to fix it—from bed leveling to adhesion helpers."
 publishDate: 2026-02-24
 author: "bored chap"
-image: "/images/3d-print-not-sticking-fixes.webp"
+image: "../../../../assets/images/3d-print-not-sticking-fixes.webp"
 tags: ["3D Printing", "Troubleshooting", "First Layer", "Bed Adhesion", "Tutorial"]
 draft: false
 faq:

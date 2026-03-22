@@ -4,7 +4,7 @@ slug: "chatgpt-alternatives"
 description: "The best ChatGPT alternatives for different needs. From Claude for writing to Perplexity for research—find the right AI for you."
 publishDate: 2026-04-13
 author: "bored chap"
-image: "/images/chatgpt-alternatives.webp"
+image: "../../../../assets/images/chatgpt-alternatives.webp"
 tags: ["AI", "ChatGPT", "Claude", "Gemini", "Perplexity", "Tools"]
 draft: false
 faq:

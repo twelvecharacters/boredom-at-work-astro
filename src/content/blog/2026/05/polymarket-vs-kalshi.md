@@ -4,7 +4,7 @@ slug: "polymarket-vs-kalshi"
 description: "Polymarket vs Kalshi compared side by side — fees, markets, regulation, and UX. Which prediction market platform is actually worth it?"
 publishDate: 2026-05-18
 author: "bored chap"
-image: "/images/polymarket-vs-kalshi.webp"
+image: "../../../../assets/images/polymarket-vs-kalshi.webp"
 tags: ["Prediction Markets", "Polymarket", "Kalshi", "Finance", "Investing"]
 draft: false
 isListicle: false

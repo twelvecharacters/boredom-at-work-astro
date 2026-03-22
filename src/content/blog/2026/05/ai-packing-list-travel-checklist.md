@@ -3,7 +3,7 @@ title: "AI Packing Lists & Travel Checklists: Never Forget Essentials Again"
 description: "Let AI create the perfect packing list for your trip. Copy these prompts for destination-specific lists, carry-on optimization, and pre-trip checklists."
 publishDate: 2026-05-04
 author: "bored chap"
-image: "/images/ai-packing-list.webp"
+image: "../../../../assets/images/ai-packing-list.webp"
 tags: ["AI", "Travel", "Packing", "Productivity"]
 draft: false
 faq:

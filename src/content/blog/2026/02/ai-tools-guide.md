@@ -4,7 +4,7 @@ slug: "ai-tools-guide"
 description: "Every AI tool worth using at work in 2026. ChatGPT, Claude, Copilot, and 20+ specialized tools — organized by task, with honest ratings and free alternatives."
 publishDate: 2026-02-27
 author: "bored chap"
-image: "/images/ai-tools-guide.webp"
+image: "../../../../assets/images/ai-tools-guide.webp"
 tags: ["AI", "Productivity", "Tools", "ChatGPT", "Claude", "Gemini", "Hub Page"]
 draft: false
 video:

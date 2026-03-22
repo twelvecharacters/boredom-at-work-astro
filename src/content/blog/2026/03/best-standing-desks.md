@@ -4,7 +4,7 @@ slug: "best-standing-desks"
 description: "Find the perfect standing desk for your home office. We compare FlexiSpot, Uplift, Autonomous, and Branch—with real specs, honest reviews, and current prices."
 publishDate: 2026-03-23
 author: "bored chap"
-image: "/images/best-standing-desks.webp"
+image: "../../../../assets/images/best-standing-desks.webp"
 tags: ["Office Setup", "Standing Desks", "Work From Home", "Productivity", "Buying Guide"]
 draft: false
 faq:

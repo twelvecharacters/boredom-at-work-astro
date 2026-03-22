@@ -1,0 +1,154 @@
+# AI Travel Cluster - Image Prompts für ChatGPT/DALL-E
+# Format: 1200 x 630 px (Blog Featured Image, Landscape)
+# Style: Modern, clean, minimal, tech/travel theme
+
+---
+
+## 1. ai-travel-planning-guide.webp ✅ FERTIG
+
+---
+
+## 2. chatgpt-travel-prompts.webp
+Create a modern blog header image (1200x630px) for "ChatGPT Travel Prompts".
+Show a stylized chat interface with travel icons (airplane, suitcase, globe, passport).
+Use a gradient background (teal to blue).
+Clean, minimal design. No text needed.
+
+---
+
+## 3. best-ai-trip-planners.webp
+Create a modern blog header image (1200x630px) for "Best AI Trip Planners 2026".
+Show multiple AI assistant icons or robots helping plan a trip.
+Include travel elements: map, calendar, airplane, hotel.
+Gradient background (purple to blue). Clean, minimal design. No text needed.
+
+---
+
+## 4. chatgpt-malaysia-trip.webp
+Create a modern blog header image (1200x630px) for "Planning Malaysia Trip with AI".
+Show Malaysian landmarks (Petronas Towers silhouette, tropical beach) combined with AI/tech elements.
+Warm colors (orange, teal). Clean, minimal design. No text needed.
+
+---
+
+## 5. ai-travel-mistakes.webp
+Create a modern blog header image (1200x630px) for "AI Travel Planning Mistakes".
+Show a traveler looking confused at a phone/AI, with warning signs or X marks.
+Use contrasting colors (red accents for warnings). Clean, minimal design. No text needed.
+
+---
+
+## 6. claude-vs-chatgpt-travel.webp
+Create a modern blog header image (1200x630px) for "Claude vs ChatGPT for Travel".
+Show two AI assistants or chat bubbles side by side, with travel icons between them.
+Split design (two colors). Clean, minimal design. No text needed.
+
+---
+
+## 7. free-ai-travel-tools.webp
+Create a modern blog header image (1200x630px) for "Free AI Travel Tools".
+Show various AI tool icons floating around a globe or suitcase.
+Include a "free" or "$0" visual element.
+Bright, optimistic colors (green, blue). Clean, minimal design. No text needed.
+
+---
+
+## 8. ai-packing-list.webp
+Create a modern blog header image (1200x630px) for "AI Packing Lists".
+Show an open suitcase with organized items, combined with a checklist and AI/robot helper.
+Clean colors (blue, white). Clean, minimal design. No text needed.
+
+---
+
+## 9. gemini-travel-planning.webp
+Create a modern blog header image (1200x630px) for "Google Gemini for Travel".
+Show Google-style colors and design elements with travel icons.
+Include a sparkle/star element (Gemini logo style).
+Google colors (blue, red, yellow, green). Clean, minimal design. No text needed.
+
+---
+
+## 10. perplexity-travel-research.webp
+Create a modern blog header image (1200x630px) for "Perplexity AI for Travel Research".
+Show a search/research theme with travel elements - magnifying glass, documents, globe.
+Use teal/cyan colors (Perplexity brand colors). Clean, minimal design. No text needed.
+
+---
+
+## 11. ai-flight-search-agent.webp
+Create a modern blog header image (1200x630px) for "Build AI Flight Search Agent".
+Show a robot/AI agent searching through flight options, airplane icons, price tags.
+Tech/code aesthetic with travel elements.
+Dark background with bright accents. Clean, minimal design. No text needed.
+
+---
+
+## 12. ai-southeast-asia-trip-2026.webp
+Create a modern blog header image (1200x630px) for "AI Planning Southeast Asia Trip".
+Show Southeast Asian landmarks (temples, beaches, palm trees) with AI/planning elements.
+Warm tropical colors (orange, teal, green). Clean, minimal design. No text needed.
+
+---
+
+## 13. ai-trip-planning-japan.webp
+Create a modern blog header image (1200x630px) for "AI Trip Planning Japan".
+Show Japanese elements (torii gate, cherry blossoms, Mount Fuji silhouette) with AI/tech overlay.
+Japanese aesthetic colors (red, white, pink). Clean, minimal design. No text needed.
+
+---
+
+## 14. ai-trip-planning-vietnam.webp
+Create a modern blog header image (1200x630px) for "AI Trip Planning Vietnam".
+Show Vietnamese elements (Ha Long Bay, conical hat, lanterns, rice terraces) with AI elements.
+Vietnamese colors (yellow, red, green). Clean, minimal design. No text needed.
+
+---
+
+## 15. ai-trip-planning-cambodia.webp
+Create a modern blog header image (1200x630px) for "AI Trip Planning Cambodia".
+Show Cambodian elements (Angkor Wat silhouette, palm trees, temple) with AI elements.
+Warm sunset colors (orange, gold, purple). Clean, minimal design. No text needed.
+
+---
+
+## 16. japan-vietnam-cambodia-comparison.webp
+Create a modern blog header image (1200x630px) for "Japan vs Vietnam vs Cambodia Comparison".
+Show three sections with iconic elements from each country side by side.
+Three distinct color zones. Clean, minimal design. No text needed.
+
+---
+
+---
+
+# HUB PAGES - 28. Januar 2026
+
+---
+
+## 17. desk-upgrade-guide.webp
+Create a modern blog header image (1200x630px) for "Ultimate Desk Upgrade Guide".
+Show a stylized workspace setup from above: mechanical keyboard, wireless earbuds, e-reader, monitor.
+Clean, organized desk aesthetic with subtle tech glow.
+Gradient background (dark blue to purple). Clean, minimal design. No text needed.
+
+---
+
+## 18. ai-learning-hub.webp
+Create a modern blog header image (1200x630px) for "Master AI Skills - Learning Hub".
+Show a brain or head silhouette filled with AI/tech icons: neural networks, chat bubbles, certificates, lightbulbs.
+Learning/growth theme with upward arrows or progression elements.
+Gradient background (purple to blue). Clean, minimal design. No text needed.
+
+---
+
+## 19. photography-buying-guide.webp
+Create a modern blog header image (1200x630px) for "Photography Buying Guide".
+Show various camera types (mirrorless, DSLR) arranged artistically with lenses and camera gear.
+Clean product photography style, floating elements.
+Gradient background (teal to dark blue). Clean, minimal design. No text needed.
+
+---
+
+# Hinweise:
+# - Alle Bilder als PNG exportieren
+# - Dann mit: cwebp -q 75 bild.png -o bild.webp
+# - Zielgröße: < 150 KB

@@ -4,7 +4,7 @@ slug: "camera-vs-smartphone"
 description: "I compared a $500 camera with the latest iPhone and Pixel side by side. Here's when a dedicated camera still wins — and when your phone is enough."
 publishDate: 2026-01-03
 author: "bored chap"
-image: "/images/camera-vs-smartphone.webp"
+image: "../../../../assets/images/camera-vs-smartphone.webp"
 tags: ["Photography", "Cameras", "Smartphones", "Buying Guide"]
 draft: false
 faq:

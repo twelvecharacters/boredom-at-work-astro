@@ -5,7 +5,7 @@ description: "The specific AI skills that lead to promotions. What to focus on, 
 publishDate: 2025-12-26
 author: "bored chap"
 tags: ["Career Development", "AI Skills", "Promotion"]
-image: "/images/ai-skills-promotion.webp"
+image: "../../../../assets/images/ai-skills-promotion.webp"
 draft: false
 faq:
   - question: "What AI skills should I learn to get promoted?"
@@ -18,7 +18,7 @@ faq:
 
 AI isn't replacing jobs. It's changing who gets promoted.
 
-![AI Robot representing future skills](/images/ai-robot.webp)
+![AI Robot representing future skills](../../../../assets/images/ai-robot.webp)
 
 The professionals who learn to work effectively with AI are becoming more productive, more valuable, and more promotable. The ones who don't are falling behind.
 

@@ -4,7 +4,7 @@ slug: "rfid-record-player"
 description: "Discover the RFID Record Player, a DIY project that combines the tactile feel of vinyl with the convenience of Spotify. Learn how to build your own with a Raspberry Pi and 3D printing."
 publishDate: 2026-03-26
 author: "bored chap"
-image: "/images/rfid-record-player.webp"
+image: "../../../../assets/images/rfid-record-player.webp"
 tags: ["3D Printing", "Raspberry Pi", "DIY", "Spotify", "Open Source"]
 draft: false
 faq:

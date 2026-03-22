@@ -1,39 +1,44 @@
 ---
+import { Image } from 'astro:assets';
+
 interface Props {
-  src: string;
+  src: any; // Astro's image object or a string path
   alt: string;
   class?: string;
   loading?: 'lazy' | 'eager';
   fetchpriority?: 'high' | 'low' | 'auto';
   width?: number;
   height?: number;
+  widths?: number[];
   sizes?: string;
 }
 
-const { src, alt, class: className = '', loading = 'lazy', fetchpriority, width, height, sizes } = Astro.props;
+const { 
+  src, 
+  alt, 
+  class: className = '', 
+  loading = 'lazy', 
+  fetchpriority, 
+  width, 
+  height, 
+  widths,
+  sizes 
+} = Astro.props;
 
-// Convert jpg/png to webp path
-const getWebpPath = (imagePath: string): string => {
-  return imagePath.replace(/\.(jpg|jpeg|png)$/i, '.webp');
-};
-
-const webpSrc = getWebpPath(src);
-const hasWebp = !src.endsWith('.webp') && !src.endsWith('.svg');
+// If src is a string and it's a relative path from the component (which shouldn't happen much now)
+// Or if it's an external URL, Image component handles it.
+// If it's a path starting with /images/ (legacy or public), we should warn or handle it.
 ---
 
-<picture>
-  {hasWebp && (
-    <source srcset={webpSrc} type="image/webp" />
-  )}
-  <img
-    src={src}
-    alt={alt}
-    class={className}
-    loading={loading}
-    decoding={loading === 'eager' ? 'sync' : 'async'}
-    fetchpriority={fetchpriority}
-    width={width}
-    height={height}
-    sizes={sizes}
-  />
-</picture>
+<Image
+  src={src}
+  alt={alt}
+  class={className}
+  loading={loading}
+  decoding={loading === 'eager' ? 'sync' : 'async'}
+  fetchpriority={fetchpriority}
+  width={width}
+  height={height}
+  widths={widths}
+  sizes={sizes}
+/>

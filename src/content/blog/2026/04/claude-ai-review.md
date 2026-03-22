@@ -4,7 +4,7 @@ slug: "claude-ai-review"
 description: "Honest Claude AI review after months of daily use. What it does better than ChatGPT, where it falls short, and whether Claude Pro is worth $20/month."
 publishDate: 2026-04-01
 author: "bored chap"
-image: "/images/claude-ai-review.webp"
+image: "../../../../assets/images/claude-ai-review.webp"
 tags: ["Claude", "AI", "Review", "Anthropic", "ChatGPT"]
 draft: false
 review:

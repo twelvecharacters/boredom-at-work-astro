@@ -4,7 +4,7 @@ slug: "sesame-robot-quadruped"
 description: "Meet Sesame, the open-source quadruped robot that brings personality and complex movement to the world of DIY 3D printing. Perfect for makers and robotics enthusiasts."
 publishDate: 2026-03-22
 author: "bored chap"
-image: "/images/sesame-robot.webp"
+image: "../../../../assets/images/sesame-robot.webp"
 tags: ["3D Printing", "Robotics", "DIY", "ESP32", "Open Source"]
 draft: false
 faq:

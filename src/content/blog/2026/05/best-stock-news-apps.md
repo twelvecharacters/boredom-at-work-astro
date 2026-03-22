@@ -4,7 +4,7 @@ slug: "best-stock-news-apps"
 description: "I tested every major stock news app to find the best ones for staying informed in 2026. Here are the 7 worth installing, from Bloomberg to Finimize."
 publishDate: 2026-05-29
 author: "bored chap"
-image: "/images/best-stock-news-apps.webp"
+image: "../../../../assets/images/best-stock-news-apps.webp"
 tags: ["Investing", "Stock Market", "Finance Apps", "News Apps", "Market Research"]
 draft: false
 isListicle: true

@@ -4,7 +4,7 @@ slug: "ai-for-google-sheets"
 description: "Learn how to use Gemini, ChatGPT, and AI add-ons in Google Sheets to write complex formulas, clean messy data, and automate tedious spreadsheet tasks fast."
 publishDate: 2026-07-02
 author: "bored chap"
-image: "/images/ai-for-google-sheets.webp"
+image: "../../../../assets/images/ai-for-google-sheets.webp"
 tags: ["AI Tools", "Productivity", "Google Sheets", "Gemini"]
 draft: false
 faq:

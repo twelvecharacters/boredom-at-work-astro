@@ -4,7 +4,7 @@ slug: "best-free-macos-software"
 description: "Setting up a new Mac? Here are 30 essential free apps for productivity, creativity, and system utilities, plus a Homebrew beginner's guide."
 publishDate: 2026-02-25
 author: "bored chap"
-image: "/images/free-macos-software.webp"
+image: "../../../../assets/images/free-macos-software.webp"
 tags: ["Tech & Gadgets", "macOS", "Apps", "Free Software", "Homebrew", "Productivity"]
 draft: false
 isListicle: true

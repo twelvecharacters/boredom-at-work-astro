@@ -4,7 +4,7 @@ slug: "ai-meeting-assistants"
 description: "Compare the best AI meeting assistants: Otter.ai, Fireflies, Granola, and more. Automatic transcription, summaries, and action items."
 publishDate: 2026-02-14
 author: "bored chap"
-image: "/images/ai-meeting-assistants.webp"
+image: "../../../../assets/images/ai-meeting-assistants.webp"
 tags: ["AI", "Meetings", "Productivity", "Otter.ai", "Comparison"]
 draft: false
 isListicle: true

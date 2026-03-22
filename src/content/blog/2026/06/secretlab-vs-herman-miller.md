@@ -4,7 +4,7 @@ slug: "secretlab-vs-herman-miller"
 description: "Secretlab Titan Evo vs Herman Miller Aeron compared head-to-head for WFH. Build quality, ergonomics, 8-hour comfort, warranty, and value tested in both."
 publishDate: 2026-06-23
 author: "bored chap"
-image: "/images/secretlab-vs-herman-miller.webp"
+image: "../../../../assets/images/secretlab-vs-herman-miller.webp"
 tags: ["Office Chairs", "Work From Home", "Ergonomics", "Office Setup"]
 draft: false
 faq:

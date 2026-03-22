@@ -3,7 +3,7 @@ title: "Japan vs Vietnam vs Cambodia: Which Should You Visit in 2026?"
 description: "Can't decide between Japan, Vietnam, or Cambodia? Use AI to compare these destinations based on budget, weather, food, and your travel style."
 publishDate: 2026-06-17
 author: "bored chap"
-image: "/images/japan-vietnam-cambodia-comparison.webp"
+image: "../../../../assets/images/japan-vietnam-cambodia-comparison.webp"
 tags: ["AI", "Travel", "Japan", "Vietnam", "Cambodia", "Asia"]
 draft: false
 faq:

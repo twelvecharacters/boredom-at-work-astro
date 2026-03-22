@@ -4,7 +4,7 @@ slug: "ai-portfolio-analysis-chatgpt"
 description: "Upload your brokerage CSV to ChatGPT or Claude and get instant portfolio analysis. Step-by-step guide with prompts for allocation, risk, and rebalancing."
 publishDate: 2026-07-10
 author: "bored chap"
-image: "/images/ai-portfolio-analysis-chatgpt.webp"
+image: "../../../../assets/images/ai-portfolio-analysis-chatgpt.webp"
 tags: ["AI Tools", "Investing", "ChatGPT", "Portfolio Analysis", "Finance"]
 draft: false
 faq:

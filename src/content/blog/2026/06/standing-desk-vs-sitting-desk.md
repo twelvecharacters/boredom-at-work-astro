@@ -4,7 +4,7 @@ slug: "standing-desk-vs-sitting-desk"
 description: "Is a standing desk actually worth it? We dig into the real studies behind the hype, debunk overhyped claims, and help you decide what works for your body."
 publishDate: 2026-06-25
 author: "bored chap"
-image: "/images/standing-desk-vs-sitting-desk.webp"
+image: "../../../../assets/images/standing-desk-vs-sitting-desk.webp"
 tags: ["Office Setup", "Standing Desks", "Ergonomics", "Work From Home"]
 draft: false
 faq:

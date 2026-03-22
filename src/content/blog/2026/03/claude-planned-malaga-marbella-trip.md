@@ -4,7 +4,7 @@ slug: "claude-planned-malaga-marbella-trip"
 description: "5 days in Málaga and Marbella, planned by Claude. Tapas bars, Alcazaba, a conference at Hard Rock Hotel, and honest restaurant picks on a budget."
 publishDate: 2026-03-11
 author: "bored chap"
-image: "/images/claude-malaga-marbella-trip.webp"
+image: "../../../../assets/images/claude-malaga-marbella-trip.webp"
 tags: ["AI", "Travel", "Claude", "Trip Planning", "Spain"]
 draft: false
 faq:
@@ -110,7 +110,7 @@ The setup was classic Hard Rock: cheeseburgers, hot dogs, open bar, and live ent
 
 The Iberostar breakfast buffet was genuinely impressive — fresh juices, pastries, fruit, the works. I captured some shots with my [Ray-Ban Meta smart glasses](/ray-ban-meta-review/) (hands-free photos while holding a coffee — the future is now).
 
-![Iberostar Selection Coral Beach breakfast buffet — fresh fruit, pastries under copper lamps, and colorful juice carafes](/images/iberostar-breakfast-buffet.webp)
+![Iberostar Selection Coral Beach breakfast buffet — fresh fruit, pastries under copper lamps, and colorful juice carafes](../../../../assets/images/iberostar-breakfast-buffet.webp)
 
 After breakfast, I set up in the hotel lobby and worked until 11:30. The lobby had solid Wi-Fi and comfortable seating — a perfectly fine temporary office.
 

@@ -4,7 +4,7 @@ slug: "airpods-pro-3-review"
 description: "Hands-on review of Apple's AirPods Pro 3. What's new, what's improved, and are they worth the upgrade? My honest first impressions."
 publishDate: 2026-01-28
 author: "bored chap"
-image: "/images/airpods-pro-3-review.webp"
+image: "../../../../assets/images/airpods-pro-3-review.webp"
 tags: ["Tech & Gadgets", "AirPods", "Apple", "Earbuds", "Review"]
 draft: false
 tldr: "Better ANC, longer battery (8h vs 6h), more water resistant — but $249 isn't a must-upgrade from Pro 2. Worth it if you're buying new or your old AirPods are dying."

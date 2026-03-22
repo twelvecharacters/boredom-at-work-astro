@@ -5,7 +5,7 @@ description: "Get AI certified this weekend. Google, Microsoft, and IBM certific
 publishDate: 2025-12-25
 author: "bored chap"
 tags: ["AI Certification", "Career Development", "Quick Learning"]
-image: "/images/ai-certifications.webp"
+image: "../../../../assets/images/ai-certifications.webp"
 draft: false
 isListicle: true
 faq:

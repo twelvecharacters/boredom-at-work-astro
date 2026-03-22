@@ -57,9 +57,11 @@ const displayCategories = CATEGORIES.map(category => ({
             <article class="bg-white rounded-xl overflow-hidden shadow-sm border border-primary/5 hover:shadow-md transition-shadow">
               {post.data.image && (
                 <OptimizedImage
-                  src={post.data.image.replace('/images/', '/images/thumbnails/')}
+                  src={post.data.image}
                   alt={post.data.title}
-                  class="w-full"
+                  class="w-full h-48 object-cover"
+                  width={400}
+                  height={225}
                 />
               )}
               <div class="p-5">

@@ -4,7 +4,7 @@ slug: "chatgpt-vs-claude-vs-gemini"
 description: "ChatGPT, Claude, and Gemini compared on pricing, features, and real-world performance. Find out which AI chatbot is worth your $20/month in 2026."
 publishDate: 2026-07-21
 author: "bored chap"
-image: "/images/chatgpt-vs-claude-vs-gemini.webp"
+image: "../../../../assets/images/chatgpt-vs-claude-vs-gemini.webp"
 tags: ["AI Tools", "ChatGPT", "Claude", "Gemini", "Comparison"]
 draft: false
 faq:

@@ -5,7 +5,7 @@ description: "Top generative AI courses on Coursera ranked by practical value. G
 publishDate: 2025-12-30
 author: "bored chap"
 tags: ["Coursera", "AI Courses", "Online Learning"]
-image: "/images/coursera-courses.webp"
+image: "../../../../assets/images/coursera-courses.webp"
 draft: false
 isListicle: true
 faq:

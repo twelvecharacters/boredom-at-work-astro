@@ -4,7 +4,7 @@ slug: "dual-monitor-setup-guide"
 description: "Step-by-step guide to setting up dual monitors for your home office. Cables, settings, ergonomic positioning, and the mistakes most people make."
 publishDate: 2026-05-06
 author: "bored chap"
-image: "/images/dual-monitor-setup-guide.webp"
+image: "../../../../assets/images/dual-monitor-setup-guide.webp"
 tags: ["Office Setup", "Monitors", "Work From Home", "Productivity", "Guide"]
 draft: false
 isListicle: false

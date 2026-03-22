@@ -4,7 +4,7 @@ slug: "cura-settings-beginners"
 description: "Confused by Cura's 400+ settings? Learn the 10 settings that actually matter, what they do, and the best values for your first prints."
 publishDate: 2026-02-21
 author: "bored chap"
-image: "/images/cura-settings-beginners.webp"
+image: "../../../../assets/images/cura-settings-beginners.webp"
 tags: ["3D Printing", "Cura", "Slicer", "Tutorial", "Settings"]
 draft: false
 howTo:

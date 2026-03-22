@@ -4,7 +4,7 @@ slug: "best-sites-free-3d-models"
 description: "Looking for free 3D printable models? Here are the 11 best sites to download STL files—from Thingiverse to hidden gems most people don't know about."
 publishDate: 2026-02-27
 author: "bored chap"
-image: "/images/best-sites-free-3d-models.webp"
+image: "../../../../assets/images/best-sites-free-3d-models.webp"
 tags: ["3D Printing", "STL Files", "Free Models", "Resources", "Downloads"]
 draft: false
 isListicle: true

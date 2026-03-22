@@ -4,7 +4,7 @@ slug: "cheap-manual-lenses-beginners"
 description: "Discover why affordable manual lenses from brands like 7Artisans and TTArtisan are the best secret weapon for beginner photographers to learn the craft quickly."
 publishDate: 2026-03-24
 author: "bored chap"
-image: "/images/cheap-manual-lenses.webp"
+image: "../../../../assets/images/cheap-manual-lenses.webp"
 tags: ["Photography", "Lenses", "Beginners", "Gear"]
 draft: false
 faq:

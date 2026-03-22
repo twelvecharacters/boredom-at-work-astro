@@ -4,7 +4,7 @@ slug: "pearcleaner-homebrew-guide"
 description: "Meet Pearcleaner: the free, source-available Mac app uninstaller with Homebrew integration. Clean leftover files, adopt apps, and manage casks in one GUI."
 publishDate: 2026-02-15
 author: "bored chap"
-image: "/images/pearcleaner.webp"
+image: "../../../../assets/images/pearcleaner.webp"
 tags: ["Tech & Gadgets", "macOS", "Pearcleaner", "Homebrew", "Source-Available"]
 draft: false
 howTo:
