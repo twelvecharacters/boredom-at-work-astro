@@ -38,5 +38,4 @@ This document outlines the foundational standards and architectural goals for th
 ## 4. Development Workflow
 
 - **Content Linting:** Run `npm run lint:content` before major updates to ensure frontmatter consistency.
-- **Thumbnail Generation:** Use `scripts/generate-thumbnails.js` for consistent asset creation.
 - **Build Validation:** Always run a full `npm run build` to verify Pagefind indexing and Sitemap generation before deployment.
