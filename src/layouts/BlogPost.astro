@@ -273,7 +273,7 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
     "@type": "Article",
     "headline": title,
     "description": description,
-    "image": new URL(image, Astro.site).toString(),
+    "image": new URL(typeof image === 'string' ? image : (image?.src || '/images/og-default.webp'), Astro.site).toString(),
     "datePublished": publishDate.toISOString(),
     "dateModified": (updatedDate || publishDate).toISOString(),
     "mainEntityOfPage": {
@@ -303,7 +303,7 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
       articleTitle={title}
       articleDescription={description}
       articleUrl={`/${getPostSlug(post)}/`}
-      articleImage={image}
+      articleImage={typeof image === 'string' ? image : image?.src}
       publishDate={publishDate}
       author={author}
     />

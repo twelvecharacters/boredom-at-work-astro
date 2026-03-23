@@ -10,7 +10,7 @@ import { SITE } from '../config';
 interface Props {
   title: string;
   description?: string;
-  image?: string;
+  image?: string | any;
   article?: boolean;
   preloadHero?: boolean;
   publishDate?: Date;
@@ -36,7 +36,8 @@ const {
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const socialImageURL = new URL(image, Astro.site);
+const socialImagePath = typeof image === 'string' ? image : image?.src;
+const socialImageURL = new URL(socialImagePath || "/images/og-default.webp", Astro.site);
 ---
 
 <!DOCTYPE html>
