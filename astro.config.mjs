@@ -100,7 +100,7 @@ export default defineConfig({
     rehypePlugins: [
       [rehypeExternalLinks, { 
         target: '_blank', 
-        rel: ['noopener', 'noreferrer', 'nofollow'] 
+        rel: ['noopener', 'nofollow'] 
       }]
     ],
   },
