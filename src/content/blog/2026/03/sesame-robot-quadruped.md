@@ -66,18 +66,18 @@ Here's exactly what you need to order:
 
 | Component | Qty | Estimated Price | Link
 |-----------|-----|----------------| ----
-| MG90S metal-gear micro servos | 10 (8 needed + 2 spares) | ~$15-20 | [Link](https://s.click.aliexpress.com/e/_c4tQQe6R)
-| Lolin ESP32-S2 Mini | 1 | ~$4-6 | [Link](https://s.click.aliexpress.com/e/_c3J9dZ27)
-| 0.96" SSD1306 I2C OLED display | 1 | ~$3-5 | [Link](https://s.click.aliexpress.com/e/_c4bfmSSn)
-| 3S 450mAh LiPo battery + XT30 | 1 | ~$8-12 | [Link](https://s.click.aliexpress.com/e/_c3x0ZQKJ)
-| Buck converter (5V/3A) | 1 | ~$2-3 | [Link](https://s.click.aliexpress.com/e/_c3Z5o10P)
-| KCD1 rocker power switch | 1 | ~$1 | [Link](https://s.click.aliexpress.com/e/_c4BzJ2SX)
-| Small protoboard (~5x7cm) | 1 | ~$1-2 | [Link](https://s.click.aliexpress.com/e/_c4CeM6er)
-| Wire kits (22AWG + 30AWG silicone) | 2 | ~$5-8 | [Link](https://s.click.aliexpress.com/e/_c4BhTRMr)
-| M2 x 5mm self-threading screws | ~40 | ~$2-3 | [Link](https://s.click.aliexpress.com/e/_c3cm2KqX)
-| M2.5 x 5mm machine screws | ~10 | ~$1-2 | [Link](https://s.click.aliexpress.com/e/_c3cm2KqX)
+| MG90S metal-gear micro servos | 10 (8 needed + 2 spares) | ~$15-20 | [Link](https://s.click.aliexpress.com/e/_c4DLMmiX)
+| Lolin ESP32-S2 Mini | 1 | ~$4-6 | [Link](https://s.click.aliexpress.com/e/_c4F1MSZV)
+| 0.96" SSD1306 I2C OLED display | 1 | ~$3-5 | [Link](https://s.click.aliexpress.com/e/_c4WPBLDt)
+| 3S 450mAh LiPo battery + XT30 | 1 | ~$8-12 | [Link](https://s.click.aliexpress.com/e/_c3zZJ5nz)
+| Buck converter (5V/3A) | 1 | ~$2-3 | [Link](https://s.click.aliexpress.com/e/_c3wkAUCL)
+| KCD1 rocker power switch | 1 | ~$1 | [Link](https://s.click.aliexpress.com/e/_c3pqQaFZ)
+| Small protoboard (~5x7cm) | 1 | ~$1-2 | [Link](https://s.click.aliexpress.com/e/_c3sQBSYF)
+| Wire kits (22AWG + 30AWG silicone) | 2 | ~$5-8 | [Link](https://s.click.aliexpress.com/e/_c3b1igzd)
+| M2 x 5mm self-threading screws | ~40 | ~$2-3 | [Link](https://s.click.aliexpress.com/e/_c34GWU55)
+| M2.5 x 5mm machine screws | ~10 | ~$1-2 | [Link](https://s.click.aliexpress.com/e/_c34GWU55)
 | Misc (heat-shrink, zip ties, headers, solder) | — | ~$5-8 |
-| PLA filament (~200-300g) | — | ~$3-5 |
+| PLA filament (~200-300g) | — | ~$3-5 | [Link](https://s.click.aliexpress.com/e/_c3oJfjoX)
 | **Total** | | **~$50-70** |
 
 **Tip:** Buy the MG90S servos in a 10-pack. Dead-on-arrival servos aren't uncommon with budget brands, and having spares saves you a week of waiting.
