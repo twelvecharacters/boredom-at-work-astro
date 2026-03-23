@@ -4,7 +4,7 @@ slug: "bambu-a1-mini-vs-creality-ender-3"
 description: "Bambu Lab A1 Mini or Creality Ender 3 V3? The ultimate comparison of the two most popular beginner 3D printers in 2026 with all pros and cons."
 publishDate: 2025-12-27
 author: "bored chap"
-image: "./bambu-vs-creality.webp"
+image: "./bambu-a1-mini-vs-creality-ender-3.webp"
 tags: ["3D Printing", "Comparison", "Bambu Lab", "Creality", "Buying Guide"]
 draft: false
 review:
