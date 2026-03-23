@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
+import rehypeExternalLinks from 'rehype-external-links';
 import { readdirSync, readFileSync } from 'node:fs';
 import { join, basename } from 'node:path';
 
@@ -96,6 +97,12 @@ export default defineConfig({
 
   markdown: {
     remarkPlugins: [remarkFilterUnpublishedLinks],
+    rehypePlugins: [
+      [rehypeExternalLinks, { 
+        target: '_blank', 
+        rel: ['noopener', 'noreferrer', 'nofollow'] 
+      }]
+    ],
   },
 
   integrations: [

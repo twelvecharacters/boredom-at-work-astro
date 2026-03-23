@@ -169,9 +169,25 @@ const socialImageURL = new URL(image, Astro.site);
         });
       }
 
+      function setupExternalLinks() {
+        const links = document.querySelectorAll('a[href^="http"]');
+        links.forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && !href.includes(window.location.hostname) && !link.hasAttribute('target')) {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener noreferrer');
+          }
+        });
+      }
+
+      function init() {
+        setupResponsiveTables();
+        setupExternalLinks();
+      }
+
       // Run on load and after swaps if using View Transitions
-      window.addEventListener('load', setupResponsiveTables);
-      document.addEventListener('astro:page-load', setupResponsiveTables);
+      window.addEventListener('load', init);
+      document.addEventListener('astro:page-load', init);
     </script>
 
     <!-- Google Analytics 4 - Deferred loading -->
