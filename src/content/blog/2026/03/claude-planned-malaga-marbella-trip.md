@@ -5,7 +5,7 @@ description: "5 days in Málaga and Marbella, planned by Claude. Tapas bars, Alc
 publishDate: 2026-03-11
 author: "bored chap"
 image: "./claude-malaga-marbella-trip.webp"
-tags: ["AI", "Travel", "Claude", "Trip Planning", "Spain"]
+tags: ["AI", "Travel", "Claude", "Trip Planning", "Spain", "AI Travel"]
 draft: false
 faq:
   - question: "Can Claude plan a trip to southern Spain on a budget?"

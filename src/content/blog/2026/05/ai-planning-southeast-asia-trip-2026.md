@@ -4,7 +4,7 @@ description: "Follow along as I use ChatGPT, flight search agents, and AI tools 
 publishDate: 2026-05-25
 author: "bored chap"
 image: "./ai-southeast-asia-trip-2026.webp"
-tags: ["AI", "Travel", "Japan", "Vietnam", "Cambodia", "Case Study"]
+tags: ["AI", "Travel", "Japan", "Vietnam", "Cambodia", "Case Study", "AI Travel"]
 draft: false
 faq:
   - question: "Can AI help choose between multiple destinations?"

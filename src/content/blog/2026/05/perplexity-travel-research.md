@@ -4,7 +4,7 @@ description: "Perplexity combines AI conversation with real-time search, making 
 publishDate: 2026-05-13
 author: "bored chap"
 image: "./perplexity-travel-research.webp"
-tags: ["AI", "Travel", "Perplexity", "Research"]
+tags: ["AI", "Travel", "Perplexity", "Research", "AI Travel"]
 draft: false
 faq:
   - question: "Is Perplexity good for travel planning?"

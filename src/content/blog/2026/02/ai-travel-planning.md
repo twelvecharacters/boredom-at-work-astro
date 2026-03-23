@@ -5,7 +5,7 @@ description: "Master AI-powered trip planning with our comprehensive guide. Lear
 publishDate: 2026-02-28
 author: "bored chap"
 image: "./ai-travel-planning.webp"
-tags: ["AI", "Travel", "ChatGPT", "Trip Planning", "Hub Page"]
+tags: ["AI", "Travel", "ChatGPT", "Trip Planning", "Hub Page", "AI Travel"]
 draft: false
 faq:
   - question: "Can AI really plan a good trip?"

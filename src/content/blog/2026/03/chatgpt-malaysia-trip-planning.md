@@ -4,7 +4,7 @@ description: "A real trip planned with AI. I share what ChatGPT got right, what 
 publishDate: 2026-03-13
 author: "bored chap"
 image: "./chatgpt-malaysia-trip.webp"
-tags: ["AI", "Travel", "ChatGPT", "Malaysia"]
+tags: ["AI", "Travel", "ChatGPT", "Malaysia", "AI Travel"]
 draft: false
 faq:
   - question: "Can ChatGPT plan a good Malaysia trip?"

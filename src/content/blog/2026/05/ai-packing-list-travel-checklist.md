@@ -4,7 +4,7 @@ description: "Let AI create the perfect packing list for your trip. Copy these p
 publishDate: 2026-05-04
 author: "bored chap"
 image: "./ai-packing-list.webp"
-tags: ["AI", "Travel", "Packing", "Productivity"]
+tags: ["AI", "Travel", "Packing", "Productivity", "AI Travel"]
 draft: false
 faq:
   - question: "Can AI create a good packing list?"

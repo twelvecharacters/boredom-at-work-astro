@@ -4,7 +4,7 @@ description: "We tested both AI assistants with the same trip requests. Here's w
 publishDate: 2026-04-22
 author: "bored chap"
 image: "./claude-vs-chatgpt-travel.webp"
-tags: ["AI", "Travel", "ChatGPT", "Claude"]
+tags: ["AI", "Travel", "ChatGPT", "Claude", "AI Travel"]
 draft: false
 faq:
   - question: "Is Claude or ChatGPT better for travel planning?"

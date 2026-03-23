@@ -4,7 +4,7 @@ description: "Plan your perfect Japan trip with AI. From cherry blossoms to autu
 publishDate: 2026-06-01
 author: "bored chap"
 image: "./ai-trip-planning-japan.webp"
-tags: ["AI", "Travel", "Japan", "Asia"]
+tags: ["AI", "Travel", "Japan", "Asia", "AI Travel"]
 draft: false
 faq:
   - question: "What's the best time to visit Japan?"

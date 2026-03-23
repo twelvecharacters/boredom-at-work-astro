@@ -4,7 +4,7 @@ description: "Gemini's real-time data and Google integration make it uniquely po
 publishDate: 2026-05-11
 author: "bored chap"
 image: "./gemini-travel-planning.webp"
-tags: ["AI", "Travel", "Gemini", "Google"]
+tags: ["AI", "Travel", "Gemini", "Google", "AI Travel"]
 draft: false
 faq:
   - question: "Is Google Gemini good for travel planning?"

@@ -4,7 +4,7 @@ description: "Plan your Cambodia adventure with AI. From Angkor Wat to tropical 
 publishDate: 2026-06-12
 author: "bored chap"
 image: "./ai-trip-planning-cambodia.webp"
-tags: ["AI", "Travel", "Cambodia", "Asia"]
+tags: ["AI", "Travel", "Cambodia", "Asia", "AI Travel"]
 draft: false
 faq:
   - question: "How many days do you need for Angkor Wat?"

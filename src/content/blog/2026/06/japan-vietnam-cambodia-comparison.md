@@ -4,7 +4,7 @@ description: "Can't decide between Japan, Vietnam, or Cambodia? Use AI to compar
 publishDate: 2026-06-17
 author: "bored chap"
 image: "./japan-vietnam-cambodia-comparison.webp"
-tags: ["AI", "Travel", "Japan", "Vietnam", "Cambodia", "Asia"]
+tags: ["AI", "Travel", "Japan", "Vietnam", "Cambodia", "Asia", "AI Travel"]
 draft: false
 faq:
   - question: "Which is cheapest: Japan, Vietnam, or Cambodia?"

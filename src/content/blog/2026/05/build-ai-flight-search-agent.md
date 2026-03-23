@@ -4,7 +4,7 @@ description: "Learn how AI agents work by building a flight search assistant. Fr
 publishDate: 2026-05-20
 author: "bored chap"
 image: "./ai-flight-search-agent.webp"
-tags: ["AI", "Travel", "Agents", "Automation", "Tutorial"]
+tags: ["AI", "Travel", "Agents", "Automation", "Tutorial", "AI Travel"]
 draft: false
 howTo:
   totalTime: "PT30M"

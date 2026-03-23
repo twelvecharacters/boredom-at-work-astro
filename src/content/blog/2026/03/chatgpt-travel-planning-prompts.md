@@ -4,7 +4,7 @@ description: "Copy-paste these proven ChatGPT prompts to plan your next trip. Fr
 publishDate: 2026-03-18
 author: "bored chap"
 image: "./chatgpt-travel-prompts.webp"
-tags: ["AI", "Travel", "ChatGPT", "Prompts"]
+tags: ["AI", "Travel", "ChatGPT", "Prompts", "AI Travel"]
 draft: false
 faq:
   - question: "What's the best ChatGPT prompt for travel planning?"

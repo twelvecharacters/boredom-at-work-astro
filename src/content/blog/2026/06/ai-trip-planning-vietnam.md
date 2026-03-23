@@ -4,7 +4,7 @@ description: "Plan your Vietnam adventure with AI. From Hanoi to Ho Chi Minh, us
 publishDate: 2026-06-05
 author: "bored chap"
 image: "./ai-trip-planning-vietnam.webp"
-tags: ["AI", "Travel", "Vietnam", "Asia"]
+tags: ["AI", "Travel", "Vietnam", "Asia", "AI Travel"]
 draft: false
 faq:
   - question: "How many days do you need in Vietnam?"

@@ -5,7 +5,7 @@ description: "I asked Claude to plan a 3-day Dubai trip for me and two colleague
 publishDate: 2026-02-11
 author: "bored chap"
 image: "./claude-dubai-trip.webp"
-tags: ["AI", "Travel", "Dubai", "Claude", "Trip Planning"]
+tags: ["AI", "Travel", "Dubai", "Claude", "Trip Planning", "AI Travel"]
 draft: false
 video:
   youtubeId: "npcqic4geOA"

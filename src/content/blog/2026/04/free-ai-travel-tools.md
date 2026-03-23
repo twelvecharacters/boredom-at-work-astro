@@ -4,7 +4,7 @@ description: "You don't need premium subscriptions to plan great trips. These fr
 publishDate: 2026-04-27
 author: "bored chap"
 image: "./free-ai-travel-tools.webp"
-tags: ["AI", "Travel", "Budget", "Free Tools"]
+tags: ["AI", "Travel", "Budget", "Free Tools", "AI Travel"]
 draft: false
 isListicle: true
 faq:
