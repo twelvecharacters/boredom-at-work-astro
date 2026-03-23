@@ -71,7 +71,7 @@ Here's exactly what you need to order:
 | 0.96" SSD1306 I2C OLED display | 1 | ~$3-5 | [Link](https://s.click.aliexpress.com/e/_c4bfmSSn)
 | 3S 450mAh LiPo battery + XT30 | 1 | ~$8-12 | [Link](https://s.click.aliexpress.com/e/_c3x0ZQKJ)
 | Buck converter (5V/3A) | 1 | ~$2-3 | [Link](https://s.click.aliexpress.com/e/_c3Z5o10P)
-| KCD1 rocker power switch | 1 | ~$1 | [Link](https://www.amazon.com/KCD1-Rocker-Switch-Position-Connector/dp/B07V76415R)
+| KCD1 rocker power switch | 1 | ~$1 | [Link](https://s.click.aliexpress.com/e/_c4BzJ2SX)
 | Small protoboard (~5x7cm) | 1 | ~$1-2 | [Link](https://s.click.aliexpress.com/e/_c4CeM6er)
 | Wire kits (22AWG + 30AWG silicone) | 2 | ~$5-8 | [Link](https://s.click.aliexpress.com/e/_c4BhTRMr)
 | M2 x 5mm self-threading screws | ~40 | ~$2-3 | [Link](https://s.click.aliexpress.com/e/_c3cm2KqX)
