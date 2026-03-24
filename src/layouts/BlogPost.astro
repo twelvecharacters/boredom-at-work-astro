@@ -20,6 +20,7 @@ import ScreenerCostCalculator from '../components/tools/ScreenerCostCalculator.a
 import { SITE } from '../config';
 import { getPostSlug } from '../utils/blog';
 import type { CollectionEntry } from 'astro:content';
+import SideBanner from '../components/SideBanner.astro';
 
 interface Props {
   post: CollectionEntry<'blog'>;
@@ -266,6 +267,8 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
       </div>
     </footer>
   </article>
+  
+  <SideBanner />
 
   <!-- Schema.org Article Markup -->
   <script type="application/ld+json" set:html={JSON.stringify({
