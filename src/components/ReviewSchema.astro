@@ -30,6 +30,7 @@ function parseOffers(priceRange: string) {
       "highPrice": numbers[numbers.length - 1],
       "priceCurrency": currency,
       "offerCount": 2,
+      "availability": "https://schema.org/InStock",
     };
   }
   if (numbers.length >= 2) {
@@ -39,6 +40,7 @@ function parseOffers(priceRange: string) {
       "highPrice": numbers[numbers.length - 1],
       "priceCurrency": currency,
       "offerCount": 2,
+      "availability": "https://schema.org/InStock",
     };
   }
   if (numbers.length === 1) {
@@ -46,6 +48,7 @@ function parseOffers(priceRange: string) {
       "@type": "Offer",
       "price": numbers[0],
       "priceCurrency": currency,
+      "availability": "https://schema.org/InStock",
     };
   }
   return null;
