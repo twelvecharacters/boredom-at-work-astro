@@ -54,7 +54,12 @@ function parseOffers(priceRange: string) {
   return null;
 }
 
-const offers = review.priceRange ? parseOffers(review.priceRange) : null;
+const priceValidUntil = new Date(publishDate);
+priceValidUntil.setFullYear(priceValidUntil.getFullYear() + 1);
+const priceValidUntilStr = priceValidUntil.toISOString().split('T')[0];
+
+const rawOffers = review.priceRange ? parseOffers(review.priceRange) : null;
+const offers = rawOffers ? { ...rawOffers, "priceValidUntil": priceValidUntilStr } : null;
 
 const schemaData = {
   "@context": "https://schema.org",
