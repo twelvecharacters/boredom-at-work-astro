@@ -62,7 +62,9 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
   updatedDate={updatedDate}
   tags={tags}
 >
-  <article class="max-w-5xl mx-auto px-4 py-8">
+  <div class="relative max-w-[1600px] mx-auto">
+    <SideBanner />
+    <article class="max-w-5xl mx-auto px-4 py-8">
     <!-- Breadcrumbs & Focus Mode Toggle -->
     <div class="flex justify-between items-center mb-4">
       <Breadcrumbs items={breadcrumbItems} />
@@ -267,8 +269,7 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
       </div>
     </footer>
   </article>
-  
-  <SideBanner />
+</div>
 
   <!-- Schema.org Article Markup -->
   <script type="application/ld+json" set:html={JSON.stringify({

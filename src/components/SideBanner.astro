@@ -12,34 +12,23 @@ const {
 } = Astro.props;
 ---
 
-<div class="side-banner-container hidden xl:block fixed top-28 z-40">
-  <div class="bg-white rounded-xl border border-primary/10 overflow-hidden group w-[300px] h-[600px] relative">
-    <a href={linkUrl} target="_blank" rel="sponsored noopener" aria-label={altText} class="block h-full w-full">
-      <img
-        src={imageUrl}
-        alt={altText}
-        width="300"
-        height="600"
-        loading="lazy"
-        class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-      />
-      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/5 transition-colors duration-300"></div>
-    </a>
-    <div class="absolute bottom-0 left-0 right-0 bg-white/90 backdrop-blur-sm py-1.5 border-t border-primary/5">
-      <p class="text-[10px] font-bold uppercase tracking-widest text-text-light/50 text-center">Sponsored Area</p>
+<div class="side-banner-container hidden xl:block absolute top-0 right-0 h-full pointer-events-none z-40 py-8">
+  <div class="sticky top-28 w-[300px] pointer-events-auto">
+    <div class="bg-white rounded-xl border border-primary/10 overflow-hidden group w-[300px] h-[600px] relative">
+      <a href={linkUrl} target="_blank" rel="sponsored noopener" aria-label={altText} class="block h-full w-full">
+        <img
+          src={imageUrl}
+          alt={altText}
+          width="300"
+          height="600"
+          loading="lazy"
+          class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+        />
+        <div class="absolute inset-0 bg-black/0 group-hover:bg-black/5 transition-colors duration-300"></div>
+      </a>
+      <div class="absolute bottom-0 left-0 right-0 bg-white/90 backdrop-blur-sm py-1.5 border-t border-primary/5">
+        <p class="text-[10px] font-bold uppercase tracking-widest text-text-light/50 text-center">Sponsored Area</p>
+      </div>
     </div>
   </div>
 </div>
-
-<style>
-  .side-banner-container {
-    right: 2rem;
-  }
-
-  @media (max-width: 1680px) {
-    .side-banner-container {
-      left: auto;
-      right: 10px;
-    }
-  }
-</style>
