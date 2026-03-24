@@ -1,0 +1,27 @@
+---
+interface Props {
+  imageUrl?: string;
+  linkUrl?: string;
+  altText?: string;
+}
+
+const {
+  imageUrl = "/images/banners/justway-sidebar.webp",
+  linkUrl = "https://www.justway.com",
+  altText = "JUSTWAY 3D Printers",
+} = Astro.props;
+---
+
+<div class="sidebar-banner rounded-xl overflow-hidden">
+  <a href={linkUrl} target="_blank" rel="sponsored noopener" aria-label={altText}>
+    <img
+      src={imageUrl}
+      alt={altText}
+      width="300"
+      height="600"
+      loading="lazy"
+      class="w-full h-auto rounded-xl"
+    />
+  </a>
+  <p class="text-xs text-text-light/50 mt-1 text-center">Sponsored</p>
+</div>

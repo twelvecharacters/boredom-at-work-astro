@@ -14,6 +14,7 @@ import HowToSchema from '../components/HowToSchema.astro';
 import SoftwareAppSchema from '../components/SoftwareAppSchema.astro';
 import CourseSchema from '../components/CourseSchema.astro';
 import AuthorBio from '../components/AuthorBio.astro';
+import SidebarBanner from '../components/SidebarBanner.astro';
 import PortfolioAnalyzer from '../components/tools/PortfolioAnalyzer.astro';
 import EarningsPromptKit from '../components/tools/EarningsPromptKit.astro';
 import ScreenerCostCalculator from '../components/tools/ScreenerCostCalculator.astro';
@@ -239,7 +240,9 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
       <aside class="hidden lg:block w-80 flex-shrink-0">
         <div class="sticky top-28 space-y-8 max-h-[calc(100vh-8rem)] overflow-y-auto pr-2 custom-scrollbar">
           <TableOfContents />
-          
+
+          {tags.includes("3D Printing") && <SidebarBanner />}
+
           <div class="bg-background-alt rounded-xl p-6">
             <h3 class="text-lg font-semibold mb-2">Ready to learn more?</h3>
             <p class="text-text-light mb-4 text-sm">
