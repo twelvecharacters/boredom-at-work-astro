@@ -1,7 +1,7 @@
 ---
 title: "Must-Have 3D Printing Accessories: The Definitive Maker's Toolkit"
 slug: "must-have-3d-printing-accessories"
-description: "From essential scrapers to advanced deburring tools and holographic build plates, discover the accessories that turn a budget 3D printer into a professional powerhouse."
+description: "Essential 3D printing accessories from scrapers to deburring tools that turn a budget printer into a professional setup."
 publishDate: 2026-04-02
 author: "bored chap"
 image: "./must-have-3d-printing-accessories.webp"
