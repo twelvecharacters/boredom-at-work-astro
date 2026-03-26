@@ -114,4 +114,26 @@ Love the idea of functional 3D printed builds? Here are some related projects:
 - **[OpenSCAD Beginners Guide](/openscad-beginners-guide/)** — learn to design your own parametric parts (like a custom enclosure for this player).
 - **[Best Sites for Free 3D Models](/best-sites-free-3d-models/)** — find more printable project files on Printables, Thingiverse, and others.
 
+## Frequently Asked Questions
+
+### Do I need a Spotify Premium account for this project?
+
+Yes, the Spotify Web API typically requires a Premium account for playback control on devices like a Raspberry Pi. The free tier doesn't support remote playback commands through the API.
+
+### Can I use any RFID tags?
+
+The project is designed for NTAG213 NFC tags, which are affordable and small enough to fit inside record coasters. A pack of 50 NTAG213 stickers costs around $10-15 on Amazon.
+
+### How much does the entire RFID Record Player build cost?
+
+The total cost is roughly $50-70. A Raspberry Pi Zero 2W runs about $15-20, the RC522 RFID module is under $5, the stepper motor about $3-5, vinyl coasters around $10-15, and NFC tags about $10 for a pack. The 3D printed enclosure uses minimal filament.
+
+### Is the spinning platter necessary for the music to play?
+
+Technically no, but it's a key part of the "analog" experience. The code uses a stepper motor to spin the platter whenever music is playing. You could disable it in the code if you wanted a simpler build.
+
+### Can I use this with Apple Music or YouTube Music instead of Spotify?
+
+The project is built around the Spotify Web API. Supporting other services would require rewriting the playback integration. However, since the code is open source, community forks for other platforms may appear over time.
+
 **Ready to start?** Download the files and check out the wiring guide on the [RFID Record Player GitHub](https://github.com/fatihak/RFID-Record-Player).
