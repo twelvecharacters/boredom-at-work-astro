@@ -20,7 +20,7 @@ faq:
     answer: "Most monitors made after 2010 have VESA mounting holes (75x75mm or 100x100mm) on the back. Check your monitor's specs before buying. Some budget monitors and iMacs don't have VESA mounts—you'll need an adapter ($15-30) or a specialized arm."
   - question: "Clamp mount vs grommet mount—which is better?"
     answer: "Clamp mount attaches to the edge of your desk—no drilling required, easy to move. Grommet mount goes through a hole in your desk—more stable, cleaner look, but permanent. Most arms include both options. Use clamp unless you have a thin desk (<0.5 inch) or want maximum stability."
-tldr: "Get the Ergotron LX (~$179) for the best quality and 10-year warranty. Budget pick: VIVO Premium Aluminum (~$40) handles most monitors well. For dual monitors, the VIVO Dual (~$45) offers unbeatable value. All prices as of March 2026."
+tldr: "Get the Ergotron LX (~$179) for the best quality and 10-year warranty. Budget pick: VIVO Premium Aluminum (~$40) handles most monitors well. For dual monitors, the VIVO Dual (~$45) offers unbeatable value. Prices as of March 2026."
 isListicle: true
 ---
 
@@ -40,7 +40,7 @@ I've compared the most popular options to help you find the right arm for your s
 | **Amazon Basics Premium** | ~$110 | Mid-range single | Good value |
 | **VIVO Premium Aluminum** | ~$40 | Budget single | Best budget pick |
 | **VIVO Dual Mount** | ~$45 | Budget dual | Best dual value |
-| **Ergotron LX Dual** | ~$350 | Premium dual | Best dual quality |
+| **Ergotron LX Dual** | ~$415 | Premium dual | Best dual quality |
 
 *Prices fluctuate—check current prices before buying.*
 
@@ -194,7 +194,7 @@ If you have two monitors and don't want to spend $300+, the VIVO Dual is the obv
 | Spec | VIVO Dual Mount |
 |------|-----------------|
 | Weight capacity | 22 lbs per arm |
-| Screen size | 13-27" each |
+| Screen size | 13-30" each |
 | VESA | 75x75mm, 100x100mm |
 | Mount type | C-clamp or grommet |
 | Warranty | 3 years |
@@ -204,15 +204,15 @@ If you have two monitors and don't want to spend $300+, the VIVO Dual is the obv
 - Mechanical spring height adjustment
 - Each arm moves independently
 - Integrated cable management
-- 4.6/5 stars with 3,500+ reviews
+- 4.5/5 stars with 20,000+ reviews
 
 **What Could Be Better:**
-- 27" max per arm (no ultrawides)
+- 30" max per arm (no ultrawides)
 - 22 lb limit tight for larger monitors
 - Center pole takes up desk space
 - Not as smooth as premium options
 
-**Best for:** Dual monitor setups on a budget. If your monitors are 27" or smaller and under 20 lbs each, this is the best value.
+**Best for:** Dual monitor setups on a budget. If your monitors are 30" or smaller and under 20 lbs each, this is the best value.
 
 **Sources:** [VIVO](https://vivo-us.com/products/stand-v002), [Amazon reviews](https://www.amazon.com)
 
@@ -220,14 +220,14 @@ If you have two monitors and don't want to spend $300+, the VIVO Dual is the obv
 
 ### 5. Ergotron LX Dual Side-by-Side — Best Premium Dual
 
-**Price:** ~$350-400
+**Price:** ~$415-500
 
 For dual monitor setups where quality matters, the Ergotron LX Dual is the gold standard.
 
 **Key Specs:**
 | Spec | Ergotron LX Dual |
 |------|------------------|
-| Weight capacity | 7-25 lbs per arm |
+| Weight capacity | 7-20 lbs per arm |
 | Screen size | Up to 27" each |
 | Extension | 25" per arm |
 | VESA | 75x75mm, 100x100mm |
@@ -256,9 +256,9 @@ For dual monitor setups where quality matters, the Ergotron LX Dual is the gold 
 
 | Feature | Ergotron LX | Amazon Basics | VIVO Single | VIVO Dual | Ergotron Dual |
 |---------|-------------|---------------|-------------|-----------|---------------|
-| **Price** | ~$179 | ~$110 | ~$40 | ~$45 | ~$350 |
-| **Weight capacity** | 25 lbs | 25 lbs | 22 lbs | 22 lbs/arm | 25 lbs/arm |
-| **Max screen** | 34" | 32" | 32" | 27"/arm | 27"/arm |
+| **Price** | ~$179 | ~$110 | ~$40 | ~$45 | ~$415 |
+| **Weight capacity** | 25 lbs | 25 lbs | 22 lbs | 22 lbs/arm | 20 lbs/arm |
+| **Max screen** | 34" | 32" | 32" | 30"/arm | 27"/arm |
 | **Warranty** | 10 years | 1 year | 3 years | 3 years | 10 years |
 | **Best feature** | Build quality | Price/quality | Price | Dual value | Dual quality |
 
@@ -285,7 +285,7 @@ For dual monitor setups where quality matters, the Ergotron LX Dual is the gold 
 - You want good value, not perfection
 
 ### Get the VIVO Dual if:
-- You have two monitors under 27"
+- You have two monitors under 30"
 - Budget matters more than premium feel
 - You want dual monitors without dual premium price
 - Your monitors weigh under 20 lbs each

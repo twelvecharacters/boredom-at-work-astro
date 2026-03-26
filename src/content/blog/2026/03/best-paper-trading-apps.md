@@ -35,7 +35,7 @@ If you're looking for other ways to [level up during work hours](/productive-thi
 |-----|-------------|---------------|--------|-----------|-----------------|----------|
 | **Webull** | Unlimited | Yes | Stocks, ETFs, Options, Futures | Web, iOS, Android | Free account | Beginners |
 | **thinkorswim** | $100,000 | Yes | Stocks, Options, Futures, Forex | Desktop, Web, Mobile | Schwab account | Serious learners |
-| **Investopedia** | $100,000 | 15-min delay | Stocks, ETFs, Options | Web only | Free account | Total beginners |
+| **Investopedia** | $100,000 | 15-min delay | Stocks, ETFs, Options, Crypto | Web only | Free account | Total beginners |
 | **eToro** | $100,000 | Yes | Stocks, Crypto, ETFs, Commodities | Web, iOS, Android | Free account | Social/Copy trading |
 | **Interactive Brokers** | $1,000,000 | Yes | Everything | Desktop, Web, Mobile | IBKR account | Advanced traders |
 | **TradeStation** | Unlimited | Yes | Stocks, Options, Futures | Desktop, Web, Mobile | Funded account | Strategy builders |
@@ -105,7 +105,7 @@ The social features set it apart from broker-based simulators. Leaderboards let 
 
 The big caveat: prices are delayed by about 15 minutes. For long-term investing practice, this doesn't matter much. For day trading practice, it makes the simulator essentially useless.
 
-It's also web-only — no mobile app. And it doesn't support crypto or international markets.
+It's also web-only — no mobile app.
 
 ### The Verdict
 
@@ -145,7 +145,7 @@ Interactive Brokers is the heavyweight. If paper trading were a video game, this
 
 ### What Makes It Stand Out
 
-IBKR gives you $1,000,000 in virtual funds and access to practically every tradable instrument on the planet: stocks, options, futures, forex, bonds, mutual funds, and more across 150+ markets in 33 countries. The Trader Workstation (TWS) platform supports algorithmic trading, complex multi-leg options strategies, and market scanning tools that hedge funds actually use.
+IBKR gives you $1,000,000 in virtual funds and access to practically every tradable instrument on the planet: stocks, options, futures, forex, bonds, mutual funds, and more across 170+ markets worldwide. The Trader Workstation (TWS) platform supports algorithmic trading, complex multi-leg options strategies, and market scanning tools that hedge funds actually use.
 
 Real-time data, realistic fills, and the ability to use nearly every order type IBKR offers in real trading. This is as close to the real thing as paper trading gets.
 

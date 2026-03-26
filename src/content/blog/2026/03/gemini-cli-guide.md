@@ -62,7 +62,7 @@ Getting Gemini CLI onto your machine is straightforward, fitting right into the 
 For Mac users, the easiest way to manage your CLI tools is through [Homebrew](/best-free-macos-software/#homebrew-the-missing-package-manager). If you already have Brew installed, you can typically install Gemini CLI via its official tap:
 
 ```bash
-brew install google-gemini-cli
+brew install gemini-cli
 ```
 
 ### Node.js (NPM/PNPM)
@@ -80,13 +80,13 @@ Gemini CLI isn't the only player in the terminal AI space. Here is how it stacks
 
 ### Gemini CLI vs. Claude Code
 Claude Code is Anthropic's primary terminal assistant. While both are powerful, they have different philosophies:
-- **Context:** Gemini CLI's killer feature is its massive **1M+ token context window**. It can "see" your entire repository at once, whereas Claude Code relies on more focused, iterative context loading.
+- **Context:** Both offer massive context windows — Gemini CLI leverages Gemini's **1M+ token context**, while Claude Code also supports **1M tokens** with Opus 4.6 and Sonnet 4.6. In practice, Gemini CLI indexes your project upfront, while Claude Code loads files on demand.
 - **Search:** Gemini CLI has native **Google Search** built-in, allowing it to research real-time documentation or library updates directly.
-- **Cost:** Gemini CLI offers a generous free tier for developers, whereas Claude Code typically requires an Anthropic subscription and charges based on token usage.
+- **Cost:** Gemini CLI offers a generous free tier (1,000 requests/day with a Google account), whereas Claude Code requires an Anthropic Max subscription or API credits.
 
 ### Gemini CLI vs. Aider
 - **Focus:** Aider is a specialized "AI pair programmer" for heavy-duty coding. Gemini CLI is a more general-purpose terminal assistant that handles everything from code to system administration and log analysis.
-- **Models:** Aider is model-agnostic but optimized for Claude 3.5 Sonnet. Gemini CLI is built to showcase the unique strengths of Google's Gemini 1.5 Pro and Flash models.
+- **Models:** Aider is model-agnostic and works with most major LLMs. Gemini CLI is built to showcase the unique strengths of Google's Gemini models, including Gemini 2.5 Pro and Flash.
 
 ### Gemini CLI vs. ShellGPT
 - **Interface:** ShellGPT is a lightweight wrapper for OpenAI's models. Gemini CLI offers a much richer ecosystem of "Agent Skills" and sub-agents for specialized tasks.

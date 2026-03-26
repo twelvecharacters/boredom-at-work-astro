@@ -23,14 +23,14 @@ faq:
   - question: "Is Claude better than ChatGPT?"
     answer: "For writing and long-form analysis, yes. Claude produces more natural, nuanced text and handles longer documents better. For general tasks, image generation, and ecosystem integrations, ChatGPT wins. Most power users have both."
   - question: "Is Claude AI free?"
-    answer: "Yes, Claude has a free tier with access to Claude Sonnet 4.5. You get generous daily usage but may hit limits during peak hours. Claude Pro ($20/month) removes limits and adds access to Opus for complex tasks."
+    answer: "Yes, Claude has a free tier with access to Claude Sonnet 4.6. You get generous daily usage but may hit limits during peak hours. Claude Pro ($20/month) removes limits and adds access to Opus for complex tasks."
   - question: "What company makes Claude?"
     answer: "Anthropic, founded in 2021 by former OpenAI researchers including Dario and Daniela Amodei. The company focuses on AI safety and building 'helpful, harmless, and honest' AI systems."
   - question: "Can Claude generate images?"
     answer: "No, Claude cannot generate images. It can analyze images you upload, but for image generation you'll need ChatGPT (DALL-E), Midjourney, or other tools."
   - question: "What is Claude best for?"
     answer: "Long-form writing, document analysis, nuanced explanations, coding, and tasks requiring careful reasoning. Writers and analysts often prefer Claude over ChatGPT for quality-focused work."
-tldr: "Claude is the best AI for writing and analysis. It produces more natural text than ChatGPT, handles 200K tokens of context, and excels at nuanced tasks. No image generation though. Free tier is solid; Pro is worth it for heavy users. Use Claude for quality work, ChatGPT for everything else."
+tldr: "Claude is the best AI for writing and analysis. It produces more natural text than ChatGPT, handles up to 1M tokens of context, and excels at nuanced tasks. No image generation though. Free tier is solid; Pro is worth it for heavy users. Use Claude for quality work, ChatGPT for everything else."
 isListicle: false
 ---
 
@@ -50,11 +50,11 @@ Anthropic's mission is building AI that's "helpful, harmless, and honest." You'l
 
 | Model | Best For | Speed | Availability |
 |-------|----------|-------|--------------|
-| Sonnet 4.5 | Daily tasks, writing, coding | Fast | Free + Pro |
+| Sonnet 4.6 | Daily tasks, writing, coding | Fast | Free + Pro |
 | Opus 4.6 | Complex reasoning, analysis | Slower | Pro only |
 | Haiku 4.5 | Quick tasks, high volume | API only |
 
-Most users interact with **Sonnet 4.5**—it's the default and handles most tasks excellently.
+Most users interact with **Sonnet 4.6**—it's the default and handles most tasks excellently.
 
 ---
 
@@ -76,15 +76,15 @@ I write first drafts with Claude, then edit. The editing is lighter than with Ch
 
 ### 2. Long Document Handling
 
-Claude's context window is **200,000 tokens**—roughly 150,000 words or a 500-page book.
+Claude's context window goes up to **1 million tokens** — roughly 750,000 words or multiple books. The standard window is 200K tokens, with 1M available on Pro, Max, Team, and Enterprise plans.
 
-ChatGPT's is 128,000 tokens. That sounds similar, but in practice Claude handles long documents more reliably. It maintains coherence better over lengthy conversations and doesn't "forget" earlier context as often.
+ChatGPT (GPT-5.4) now offers **272,000 tokens** as standard context. Both have grown significantly, but Claude's 1M option is hard to beat for truly massive documents.
 
 **Use cases this enables:**
 - Analyzing entire reports or contracts
-- Working with full codebases
+- Working with full codebases in a single conversation
 - Summarizing book-length content
-- Long research sessions without starting over
+- Long research sessions without losing context
 
 ### 3. Nuanced Reasoning
 
@@ -147,8 +147,8 @@ Code, documents, and visualizations render in a side panel that you can edit, co
 ### Styles
 Choose how Claude responds: Formal, Concise, Explanatory, or create custom styles. Saves repeating preferences.
 
-### 200K Context
-Upload massive documents. Paste entire codebases. Have long conversations without losing context.
+### Up to 1M Context
+Upload massive documents. Paste entire codebases. Have long conversations without losing context. The 1M token window is available on Pro and above.
 
 ---
 
@@ -156,7 +156,7 @@ Upload massive documents. Paste entire codebases. Have long conversations withou
 
 | Feature | Free | Pro ($20/mo) |
 |---------|------|--------------|
-| Sonnet 4.5 | ✅ Yes (limited) | ✅ Unlimited |
+| Sonnet 4.6 | ✅ Yes (limited) | ✅ Unlimited |
 | Opus 4.6 | ❌ No | ✅ Yes |
 | Usage limits | Moderate | 5x more |
 | Priority access | ❌ No | ✅ Yes |
@@ -183,7 +183,7 @@ Based on months of use, here's when I reach for Claude:
 |------|------------|
 | Writing articles/content | Better quality, more natural |
 | Editing and rewriting | Understands nuance |
-| Long document analysis | 200K context |
+| Long document analysis | Up to 1M context |
 | Complex explanations | Thorough, considers angles |
 | Code review + explanations | Clear, detailed feedback |
 | Strategic analysis | Nuanced, not oversimplified |
@@ -256,7 +256,7 @@ Claude can match the style of documents you upload. Share examples of writing yo
 | | Claude | ChatGPT | Gemini |
 |---|--------|---------|--------|
 | Writing quality | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ |
-| Context length | 200K | 128K | 1M+ |
+| Context length | Up to 1M | 272K | 1M+ |
 | Image generation | ❌ | ✅ | ✅ |
 | Speed | Good | Fast | Fast |
 | Free tier | Good | Very good | Excellent |
