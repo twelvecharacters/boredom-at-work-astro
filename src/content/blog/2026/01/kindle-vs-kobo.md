@@ -93,7 +93,7 @@ Kobo is owned by Rakuten (Japanese e-commerce giant) and has a strong internatio
 **Cons:**
 - Smaller ebook store than Amazon
 - Less brand recognition
-- Fewer accessories available
+- Fewer [accessories](/best-kindle-accessories/) available
 - May have limited selection in some regions
 
 ## Library Integration: Kobo Wins
@@ -247,3 +247,5 @@ It's the safe choice. Better resale value if you change your mind. Largest book 
 But if you know you'll use the library heavily or have strong feelings about avoiding Amazon, Kobo won't disappoint you.
 
 Both are excellent devices. You won't regret either choice.
+
+For a closer model-by-model look, check our [Kindle Paperwhite vs Kobo Clara comparison](/kindle-paperwhite-vs-kobo-clara/). And if you want to see every e-reader on the market side by side, our [best e-readers guide](/best-e-readers/) covers Kindle, Kobo, Boox, and reMarkable.

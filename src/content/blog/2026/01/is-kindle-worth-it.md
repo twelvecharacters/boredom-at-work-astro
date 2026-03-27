@@ -175,8 +175,9 @@ Not sure which e-reader brand to choose? Check out our detailed [Kindle vs Kobo 
 1. **Turn off WiFi** when not downloading books — extends battery life significantly
 2. **Use your library** — Most libraries offer free ebook lending
 3. **Try Kindle Unlimited free trial** — See if the selection works for you
-4. **Get a case** — Kindles are slim but not indestructible
+4. **[Get a case](/best-kindle-accessories/)** — Kindles are slim but not indestructible
 5. **Calibre software** — Convert and manage ebooks from various sources
+6. **[Get free books](/free-books-kindle/)** — Library apps, Project Gutenberg, and Amazon's own free programs
 
 ## The Work Break Revolution
 
@@ -211,6 +212,6 @@ A Kindle is worth it if reading is a meaningful part of your life and you'll act
 
 But if you're not sure, start with the free Kindle app on your phone. If you find yourself wishing you had a better reading experience, that's your answer.
 
-The best e-reader is the one you'll actually use. For many people, that's a Kindle Paperwhite. For others, it's whatever's already in their pocket.
+The best e-reader is the one you'll actually use. For many people, that's a Kindle Paperwhite. For others, it's whatever's already in their pocket. Not sure which model? Our [best e-readers guide](/best-e-readers/) compares every option on the market.
 
 If you do buy a Kindle and want to push it further, our [Kindle modding guide](/kindle-modding-guide/) covers jailbreaking, KOReader, and getting native EPUB support without Calibre conversions.
