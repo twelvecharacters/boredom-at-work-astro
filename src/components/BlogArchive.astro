@@ -1,0 +1,60 @@
+---
+import { getPublishedPosts } from '../utils/blog';
+
+const posts = await getPublishedPosts();
+const now = new Date();
+const isDev = import.meta.env.DEV;
+
+// Group posts by Year and Month
+const archiveMap = posts.reduce((acc, post) => {
+  const date = post.data.publishDate;
+  
+  // Only show months/years that have already passed (unless in dev mode)
+  if (!isDev && date > now) return acc;
+  
+  const year = date.getFullYear();
+  const month = date.getMonth(); // 0-11
+  
+  if (!acc[year]) acc[year] = {};
+  if (!acc[year][month]) acc[year][month] = 0;
+  
+  acc[year][month]++;
+  return acc;
+}, {} as Record<number, Record<number, number>>);
+
+// Sort years descending
+const years = Object.keys(archiveMap).map(Number).sort((a, b) => b - a);
+
+const monthNames = [
+  "January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December"
+];
+---
+
+<div class="bg-white p-6 rounded-2xl shadow-sm border border-gray-100 mt-8">
+  <h2 class="text-sm font-bold uppercase tracking-wider text-primary mb-4">Archive</h2>
+  <div class="space-y-4">
+    {years.map(year => (
+      <div>
+        <h3 class="font-bold text-sm text-text mb-2">{year}</h3>
+        <ul class="space-y-1">
+          {Object.entries(archiveMap[year])
+            .map(([month, count]) => [Number(month), count])
+            .sort(([a], [b]) => b - a) // Latest month first
+            .map(([month, count]) => (
+              <li>
+                <a 
+                  href={`/blog/archive/${year}/${(month + 1).toString().padStart(2, '0')}/`}
+                  class="text-sm text-text-light hover:text-accent transition-colors flex justify-between items-center group"
+                >
+                  <span>{monthNames[month]}</span>
+                  <span class="text-xs opacity-50 group-hover:opacity-100">({count})</span>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    ))}
+  </div>
+</div>

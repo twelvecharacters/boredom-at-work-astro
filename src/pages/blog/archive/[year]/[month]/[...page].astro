@@ -1,34 +1,67 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import Breadcrumbs from '../../components/Breadcrumbs.astro';
-import OptimizedImage from '../../components/OptimizedImage.astro';
-import TagCloud from '../../components/TagCloud.astro';
-import BlogArchive from '../../components/BlogArchive.astro';
-import Pagination from '../../components/Pagination.astro';
-import { getPublishedPosts, slugifyTag, getPostSlug } from '../../utils/blog';
+import BaseLayout from '../../../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../../../components/Breadcrumbs.astro';
+import OptimizedImage from '../../../../../components/OptimizedImage.astro';
+import TagCloud from '../../../../../components/TagCloud.astro';
+import BlogArchive from '../../../../../components/BlogArchive.astro';
+import Pagination from '../../../../../components/Pagination.astro';
+import { getPublishedPosts, slugifyTag, getPostSlug } from '../../../../../utils/blog';
 
 export async function getStaticPaths({ paginate }: any) {
   const posts = await getPublishedPosts();
-  return paginate(posts, { pageSize: 12 });
+  
+  // Group posts by Year and Month to create paths
+  const archiveMap = posts.reduce((acc, post) => {
+    const date = post.data.publishDate;
+    const year = date.getFullYear().toString();
+    const month = (date.getMonth() + 1).toString().padStart(2, '0');
+    const key = `${year}/${month}`;
+    
+    if (!acc[key]) acc[key] = [];
+    acc[key].push(post);
+    return acc;
+  }, {} as Record<string, any[]>);
+
+  return Object.entries(archiveMap).flatMap(([key, monthPosts]) => {
+    const [year, month] = key.split('/');
+    return paginate(monthPosts, {
+      params: { year, month },
+      pageSize: 12,
+    });
+  });
 }
 
 const { page } = Astro.props;
+const { year, month } = Astro.params;
 const posts = page.data;
 
+const monthNames = [
+  "January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December"
+];
+const monthName = monthNames[parseInt(month) - 1];
+
 const breadcrumbItems = [
-  { name: 'Blog', url: '/blog/' }
+  { name: 'Blog', url: '/blog/' },
+  { name: `${monthName} ${year}`, url: `/blog/archive/${year}/${month}/` }
 ];
 ---
 
-<BaseLayout title={`Blog — AI Tools, 3D Printing, Tech Guides ${page.currentPage > 1 ? `- Page ${page.currentPage}` : ''}`} description="Practical guides for office workers: AI tools, 3D printing, photography, desk setup, and tech reviews. Turn your work downtime into skills." noindex={page.currentPage > 1} prevUrl={page.url.prev} nextUrl={page.url.next}>
+<BaseLayout 
+  title={`Articles from ${monthName} ${year} — Boredom at Work ${page.currentPage > 1 ? `- Page ${page.currentPage}` : ''}`} 
+  description={`Browse our collection of articles from ${monthName} ${year}. AI tools, 3D printing, and productivity guides.`}
+  noindex={true}
+  prevUrl={page.url.prev} 
+  nextUrl={page.url.next}
+>
   <section class="py-12">
     <div class="max-w-6xl mx-auto px-4">
       <div class="grid lg:grid-cols-4 gap-12">
         <div class="lg:col-span-3">
           <Breadcrumbs items={breadcrumbItems} />
-          <h1 class="text-3xl md:text-4xl font-bold mb-4">Blog — Guides, Tutorials & Reviews</h1>
+          <h1 class="text-3xl md:text-4xl font-bold mb-4">Archive: {monthName} {year}</h1>
           <p class="text-text-light mb-8">
-            Practical guides for office workers: AI tools, 3D printing, photography, desk setup, and tech reviews.
+            Showing all articles published in {monthName} {year}.
           </p>
 
           {posts.length > 0 ? (
@@ -87,7 +120,7 @@ const breadcrumbItems = [
             </div>
           ) : (
             <div class="text-center py-12 bg-background-alt rounded-xl">
-              <p class="text-text-light">No posts yet. Check back soon!</p>
+              <p class="text-text-light">No posts found for this period.</p>
             </div>
           )}
         </div>
