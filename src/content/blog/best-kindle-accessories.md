@@ -2,7 +2,7 @@
 title: "Best Kindle Accessories Worth Buying in 2026"
 slug: "best-kindle-accessories"
 description: "The best Kindle accessories from cases to stands and screen protectors. Only the ones actually worth your money."
-publishDate: 2026-03-31
+publishDate: 2026-03-29
 author: "bored chap"
 image: "./best-kindle-accessories.webp"
 tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Accessories", "Amazon"]

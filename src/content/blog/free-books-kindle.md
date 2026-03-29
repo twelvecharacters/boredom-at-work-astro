@@ -2,7 +2,7 @@
 title: "How to Get Free Books on Kindle (7 Legit Ways)"
 slug: "free-books-kindle"
 description: "Seven legal ways to get free ebooks on your Kindle — from library apps to Amazon's own free programs."
-publishDate: 2026-04-02
+publishDate: 2026-03-31
 author: "bored chap"
 image: "./free-books-kindle.webp"
 tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Books", "Free"]

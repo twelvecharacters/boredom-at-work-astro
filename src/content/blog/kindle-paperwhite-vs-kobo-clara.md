@@ -2,7 +2,7 @@
 title: "Kindle Paperwhite vs Kobo Clara BW: Which One to Buy?"
 slug: "kindle-paperwhite-vs-kobo-clara"
 description: "Kindle Paperwhite vs Kobo Clara BW — specs, features, and ecosystem compared. Here's which e-reader to pick."
-publishDate: 2026-04-04
+publishDate: 2026-04-02
 author: "bored chap"
 image: "./kindle-paperwhite-vs-kobo-clara.webp"
 tags: ["Tech & Gadgets", "Kindle", "Kobo", "E-Reader", "Comparison"]
