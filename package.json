@@ -10,7 +10,9 @@
     "astro": "astro",
     "stats": "node scripts/update-stats.js",
     "lint:content": "node scripts/content-lint.js",
-    "lint:content:fix": "node scripts/content-lint.js --fix"
+    "lint:content:fix": "node scripts/content-lint.js --fix",
+    "optimize": "node scripts/article-optimizer.js",
+    "optimize:fix": "node scripts/article-optimizer.js --fix"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.1",
