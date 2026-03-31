@@ -1,7 +1,7 @@
 ---
-title: "How to Get Free Books on Kindle (7 Legit Ways)"
+title: "How to Get Free Books on Kindle: 7 Legit Ways in 2026"
 slug: "free-books-kindle"
-description: "Seven legal ways to get free ebooks on your Kindle — from library apps to Amazon's own free programs."
+description: "Seven legal ways to get free ebooks on your Kindle — from Libby and Project Gutenberg to Amazon First Reads and Prime Reading."
 publishDate: 2026-03-31
 author: "bored chap"
 image: "./free-books-kindle.webp"
@@ -40,7 +40,7 @@ Here are seven legit ways to fill your Kindle without spending a dime. (Still de
 
 **What it is:** A free app that lets you borrow ebooks from your local public library and send them directly to your Kindle.
 
-**How to set it up:** Download the Libby app on your phone, sign in with your library card, find a book, and choose "Send to Kindle." It shows up on your device within minutes. When the loan expires, the book just disappears — no late fees.
+**How to set it up:** Download the [Libby app](https://libbyapp.com/) on your phone, sign in with your library card, find a book, and choose "Send to Kindle." It shows up on your device within minutes. When the loan expires, the book just disappears — no late fees.
 
 **The good:** Completely free, huge selection (depending on your library), and the borrowing experience is seamless. Popular titles might have a waitlist, but you can place holds and get notified.
 
@@ -54,7 +54,7 @@ This is hands down the best free book source for Kindle owners. If you're not us
 
 **What it is:** A volunteer-run archive of 70,000+ public domain books. Think classics: Jane Austen, Mark Twain, Shakespeare, H.G. Wells, and thousands more.
 
-**How to set it up:** Go to gutenberg.org, download the EPUB version of any book, and email it to your Kindle's Send to Kindle address. Amazon converts it automatically. You can find your Send to Kindle email in Settings > Your Account on your Kindle.
+**How to set it up:** Go to [gutenberg.org](https://www.gutenberg.org/), download the EPUB version of any book, and email it to your Kindle's Send to Kindle address. Amazon converts it automatically. You can find your Send to Kindle email in Settings > Your Account on your Kindle.
 
 **The good:** Massive selection of classics, completely free, no sign-up needed.
 
@@ -102,7 +102,7 @@ This is hands down the best free book source for Kindle owners. If you're not us
 
 **What it is:** A volunteer project that takes public domain books from Project Gutenberg and gives them a serious quality upgrade — professional typography, modern formatting, corrected text, and beautiful cover art.
 
-**How to set it up:** Visit standardebooks.org, download the EPUB, and send it to your Kindle via email. These books look significantly better than raw Gutenberg files.
+**How to set it up:** Visit [standardebooks.org](https://standardebooks.org/), download the EPUB, and send it to your Kindle via email. These books look significantly better than raw Gutenberg files.
 
 **The good:** The best-formatted free ebooks you'll find anywhere. These genuinely look like professionally published books on your Kindle.
 

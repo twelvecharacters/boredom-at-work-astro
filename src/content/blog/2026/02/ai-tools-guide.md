@@ -72,7 +72,7 @@ This is a **hub page**—a central starting point for everything AI tools.
 | **Presentations** | Create slides and visuals | Gamma, Tome, Beautiful.ai |
 | **Spreadsheets** | Formulas, analysis, automation | ChatGPT, Claude, Numerous |
 | **Email** | Draft, reply, organize | Superhuman, Shortwave, Gemini |
-| **Coding** | Write, debug, explain code | GitHub Copilot, Cursor, Claude |
+| **Coding** | Write, debug, explain code | GitHub Copilot, Cursor, [Gemini CLI](/gemini-cli-guide/) |
 
 ---
 

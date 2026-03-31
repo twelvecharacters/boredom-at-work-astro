@@ -25,7 +25,7 @@ We’ve all been there. You’re stuck on a weird TypeScript error or trying to 
 8. Realize the AI missed a local dependency.
 9. **Repeat until frustrated.**
 
-For the last few months, I’ve been testing a different way: **Gemini CLI**. It’s not just another chatbot; it’s an agent that lives inside my terminal. Here is how it fundamentally changed how I build *Boredom at Work*.
+For the last few months, I’ve been testing a different way: **[Gemini CLI](/gemini-cli-guide/)**. It’s not just another chatbot; it’s an agent that lives inside my terminal. Here is how it fundamentally changed how I build *Boredom at Work*.
 
 ## 1. The Death of the "Context Switch"
 

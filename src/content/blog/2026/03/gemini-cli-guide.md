@@ -1,7 +1,7 @@
 ---
-title: "Gemini CLI: The AI Assistant for Your Terminal"
+title: "Gemini CLI Guide: How to Use Google's AI in Your Terminal"
 slug: "gemini-cli-guide"
-description: "Learn how to use Gemini CLI to boost your developer productivity, automate tasks, and get AI-powered help directly in your command line."
+description: "How to install and use Gemini CLI for AI-powered coding, task automation, and project analysis — directly from your terminal."
 publishDate: 2026-03-31
 author: "bored chap"
 image: "./google-gemini-review.webp"
@@ -31,7 +31,7 @@ But when you need AI help, you usually have to context-switch: copy code, alt-ta
 
 ## What is Gemini CLI?
 
-Gemini CLI is more than just a wrapper for an API. It's a context-aware AI agent designed specifically for the command line. Unlike a web-based chat, it "sees" your local environment—your files, your directory structure, and your project's specific configurations.
+[Gemini CLI](https://github.com/google-gemini/gemini-cli) is more than just a wrapper for an API. It's a context-aware AI agent designed specifically for the command line. Unlike a web-based chat, it "sees" your local environment—your files, your directory structure, and your project's specific configurations.
 
 It understands that when you ask "Why is this test failing?", you're talking about the code in your current directory, not some abstract concept.
 
@@ -100,10 +100,17 @@ Claude Code is Anthropic's primary terminal assistant. While both are powerful, 
 
 ## Getting Started
 
-To get started, you'll typically need to install the CLI and provide it with a Google AI API key. Once set up, just type `gemini` to start a session or `gemini "your question"` for a quick answer.
+To get started, you'll need to install the CLI and provide it with a [Google AI API key](https://aistudio.google.com/apikey). Once set up, just type `gemini` to start a session or `gemini "your question"` for a quick answer. If you're new to AI tools in general, our [guide to using AI at work safely](/how-to-use-ai-at-work-safely/) covers the basics of responsible AI usage.
 
 ## Conclusion
 
 Gemini CLI is a significant step forward for developer productivity. By meeting developers where they already are—in the terminal—and adding deep project awareness, it transforms the AI from a distant consultant into a local pair programmer.
 
 If you find yourself constantly jumping between your IDE and your browser, give Gemini CLI a try. Your terminal will thank you.
+
+---
+
+## Related Reading
+
+- [AI Tools for Work: The Only Guide You Need (2026)](/ai-tools-guide/)
+- [Google Gemini Review: Is It Better Than ChatGPT in 2026?](/google-gemini-review/)
