@@ -1,5 +1,5 @@
 ---
-title: "15 Best Japanese Products Worth Importing (That You Can't Get Elsewhere)"
+title: "15 Best Japanese Products Worth Importing (2026 Guide)"
 slug: "best-japanese-products-to-import"
 description: "Unique Japanese products worth importing: vintage cameras, stationery, snacks, and electronics. Why they're better from Japan and how to buy."
 publishDate: 2026-01-19
@@ -20,6 +20,19 @@ faq:
 Japan has some of the best shopping in the world — but the really good stuff often doesn't make it overseas. Whether it's vintage cameras at unbeatable prices, limited-edition snacks, or stationery that puts your office supplies to shame, there's a whole world of Japanese products waiting to be discovered.
 
 Here are 15 categories worth importing, why they're better from Japan, and what specifically to look for.
+
+## Quick Overview
+
+| Product | Price Range (Japan) | Savings vs US/EU | Best For |
+|---------|-------------------|------------------|----------|
+| Vintage cameras | $50–300 | 30–50% cheaper | Film photography fans |
+| Stationery | $5–30 | 20–40% cheaper | Students, office workers |
+| Kitchen knives | $50–200 | 30–50% cheaper | Home cooks |
+| Snacks & candy | $10–30/box | Japan-exclusive | Gift boxes, foodies |
+| Whisky | $30–100 | 40–60% cheaper | Collectors |
+| Skincare | $10–40 | 20–40% cheaper | Skincare enthusiasts |
+| Electronics | $20–200 | Varies | Gadget lovers |
+| Denim | $100–300 | 30–50% cheaper | Raw denim fans |
 
 ## 1. Vintage Film Cameras
 

@@ -1,5 +1,5 @@
 ---
-title: "Why Cheap Manual Lenses Are Perfect for Beginners (7Artisans, TTArtisan)"
+title: "Cheap Manual Lenses for Beginners: 7Artisans & TTArtisan"
 slug: "cheap-manual-lenses-beginners"
 description: "Discover why affordable manual lenses from brands like 7Artisans and TTArtisan are the best secret weapon for beginner photographers to learn the craft quickly."
 publishDate: 2026-03-24
@@ -26,7 +26,7 @@ You start out by reading our [Photography Guide for Beginners](/photography-guid
 
 But there is a well-kept secret in the photography community. A gateway gear choice that will both save your wallet and rapidly improve your photography skills: **cheap, modern manual lenses.**
 
-Brands like **7Artisans** and **TTArtisan** have flooded the market with sub-$100 lenses that are shockingly good. If you're a beginner, here is why a fully manual lens should ideally be your first purchase after the kit lens.
+Brands like **[7Artisans](https://7artisans.store/)** and **[TTArtisan](https://www.ttartisan.com/)** have flooded the market with sub-$100 lenses that are shockingly good. If you're a beginner, here is why a fully manual lens should ideally be your first purchase after the kit lens.
 
 ---
 

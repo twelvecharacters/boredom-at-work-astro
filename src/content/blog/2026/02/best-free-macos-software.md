@@ -1,11 +1,11 @@
 ---
-title: "The Best Free macOS Apps in 2026: 30 Essential Tools + Homebrew Guide"
+title: "30 Best Free macOS Apps in 2026 (+ Homebrew Guide)"
 slug: "best-free-macos-software"
-description: "Setting up a new Mac? Here are 30 essential free apps for productivity, creativity, and system utilities, plus a Homebrew beginner's guide."
+description: "The 30 best free macOS apps for productivity, creativity, and system utilities — plus a complete Homebrew setup guide for beginners in 2026."
 publishDate: 2026-02-25
 author: "bored chap"
 image: "./free-macos-software.webp"
-tags: ["Tech & Gadgets", "macOS", "Apps", "Free Software", "Homebrew", "Productivity"]
+tags: ["Tech & Gadgets", "macOS", "Free Software", "Homebrew", "Productivity"]
 draft: false
 isListicle: true
 faq:
@@ -26,6 +26,17 @@ Buying a Mac is expensive enough. Setting it up shouldn't be.
 Whether you're a pro user or just trying to look busy at work, the right software can make or break your experience. Fortunately, some of the best tools for macOS don't cost a dime.
 
 Here are 30 essential free apps organized by category, plus a complete guide to Homebrew — the tool that makes installing everything effortless.
+
+## Quick Overview
+
+| Category | Top Picks | Replaces |
+|----------|-----------|----------|
+| **Productivity** | Raycast, Rectangle, Obsidian | Alfred, Magnet, Notion |
+| **Browser** | Zen Browser, Firefox | Chrome, Safari |
+| **Media** | IINA, HandBrake | VLC, paid converters |
+| **Development** | VS Code, iTerm2, Homebrew | Xcode, Terminal |
+| **System Utilities** | AppCleaner, Stats, Pearcleaner | CleanMyMac |
+| **Writing** | Grammarly Free, LanguageTool | ProWritingAid |
 
 ---
 

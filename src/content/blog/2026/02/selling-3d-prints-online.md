@@ -1,7 +1,7 @@
 ---
-title: "Turn Your Prints Into Paychecks: How to Sell 3D Printed Goods Online (2026 Guide)"
+title: "How to Sell 3D Prints Online: Platforms, Pricing & Tips"
 slug: "selling-3d-prints-online"
-description: "Turn your 3D printing hobby into a side hustle. Best platforms for selling 3D prints, pricing strategies, and how to avoid legal pitfalls."
+description: "Turn your 3D printing hobby into a side hustle. Best platforms for selling 3D prints, pricing strategies, legal tips, and what actually sells."
 publishDate: 2026-02-03
 author: "bored chap"
 image: "./selling-3d-prints-online.webp"
@@ -60,7 +60,7 @@ Skip the analysis paralysis. Here's what works in 2026:
 
 ### Selling Physical Prints
 
-**Etsy** — The Default Choice  
+**[Etsy](https://www.etsy.com/)** — The Default Choice
 6.5% transaction fee + $0.20 listing fee + 3-4% payment processing (~10-12% total)  
 Best for: Gift items, home decor, cosplay props, personalized products  
 Reality check: Huge audience, but you're competing with thousands of sellers. Photography matters more than print quality.
@@ -76,7 +76,7 @@ Reality check: No shipping hassle, cash transactions, but limited scale.
 
 ### Selling Digital Files (STLs)
 
-**Cults3D** — Largest Marketplace
+**[Cults3D](https://cults3d.com/)** — Largest Marketplace
 20% flat commission (seller receives 80%)
 Best for: Gadgets, art, functional designs
 Reality check: High traffic, high competition. Simple fee structure with no tiers.

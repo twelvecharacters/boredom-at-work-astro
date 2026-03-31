@@ -1,6 +1,6 @@
 ---
-title: "How I Planned My 2-Week Malaysia Trip with ChatGPT (What Worked & What Didn't)"
-description: "A real trip planned with AI. I share what ChatGPT got right, what it missed, and how it helped us find gluten-free food across Malaysia."
+title: "Planning a Malaysia Trip with ChatGPT: What Worked"
+description: "A real 2-week Malaysia trip planned with ChatGPT. What the AI got right, what it missed, and how it helped find gluten-free food across the country."
 publishDate: 2026-03-13
 author: "bored chap"
 image: "./chatgpt-malaysia-trip.webp"
@@ -24,7 +24,7 @@ Here's the honest breakdown of what ChatGPT got right, what it completely missed
 **When:** November 13-26, 2025
 **Who:** My partner and me
 **Flight:** Turkish Airlines via Istanbul to Kuala Lumpur
-**Internal flights:** AirAsia (highly recommend for Malaysia)
+**Internal flights:** [AirAsia](https://www.airasia.com/) (highly recommend for Malaysia)
 **Daily budget:** ~$150 (excluding international flights)
 **Special requirement:** Gluten-free dining options (celiac disease)
 
@@ -51,7 +51,7 @@ Before diving into what we did, two practical tips that made everything easier:
 Right after landing at KLIA, we bought a tourist SIM card. For about 30-40 MYR (~$7-9), you get plenty of data for 2 weeks. This is way cheaper than international roaming and essential for using maps, translation apps, and booking services.
 
 **2. Download Grab (Uber Doesn't Exist Here)**
-Uber pulled out of Southeast Asia years ago. Grab is the dominant ride-hailing app in Malaysia and most of Southeast Asia. Download it before you arrive and link a payment method. We used Grab daily—it's reliable, affordable, and safer than negotiating with taxi drivers.
+Uber pulled out of Southeast Asia years ago. [Grab](https://www.grab.com/) is the dominant ride-hailing app in Malaysia and most of Southeast Asia. Download it before you arrive and link a payment method. We used Grab daily—it's reliable, affordable, and safer than negotiating with taxi drivers.
 
 ---
 
