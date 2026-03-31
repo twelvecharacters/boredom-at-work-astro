@@ -1,7 +1,7 @@
 ---
 title: "How to Get Free Books on Kindle: 7 Legit Ways in 2026"
 slug: "free-books-kindle"
-description: "Seven legal ways to get free ebooks on your Kindle — from Libby and Project Gutenberg to Amazon First Reads and Prime Reading."
+description: "Seven legal ways to get free ebooks on your Kindle — from Libby and Project Gutenberg to Amazon First Reads, Prime Reading, and Standard Ebooks."
 publishDate: 2026-03-31
 author: "bored chap"
 image: "./free-books-kindle.webp"
