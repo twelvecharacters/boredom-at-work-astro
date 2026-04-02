@@ -1,7 +1,7 @@
 ---
 title: "AirPods Pro 3 Review: First Impressions After One Week"
 slug: "airpods-pro-3-review"
-description: "Hands-on review of Apple's AirPods Pro 3. What's new, what's improved, and are they worth the upgrade? My honest first impressions."
+description: "Hands-on AirPods Pro 3 review after one week. What's new, what's improved, sound quality, ANC, and whether they're worth the upgrade."
 publishDate: 2026-01-28
 author: "bored chap"
 image: "./airpods-pro-3-review.webp"
@@ -22,7 +22,7 @@ faq:
     answer: "Yes, but you lose most smart features. No automatic ear detection, no seamless switching, no Spatial Audio. For Android users, Galaxy Buds or Sony earbuds offer better value."
 ---
 
-I got AirPods Pro 3 as a gift last week. After daily use during commutes, work calls, and late-night music sessions, here are my honest first impressions.
+I got [AirPods Pro 3](https://www.apple.com/airpods-pro/) as a gift last week. After daily use during commutes, work calls, and late-night music sessions, here are my honest first impressions.
 
 Spoiler: Apple didn't reinvent the wheel. But they made the wheel noticeably better.
 

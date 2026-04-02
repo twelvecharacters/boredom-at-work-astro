@@ -1,5 +1,5 @@
 ---
-title: "The Tiny Powerhouse: Is the Olympus PEN Lite E-PM2 the Perfect 'Work-Boredom' Camera?"
+title: "Olympus PEN E-PM2 Review: A Hidden Gem for Beginners"
 slug: "olympus-pen-e-pm2-guide"
 description: "Discover why the Olympus PEN Lite E-PM2 is a hidden gem for photography enthusiasts and bored office workers alike. Specs, prices, and tips included."
 publishDate: 2026-01-14

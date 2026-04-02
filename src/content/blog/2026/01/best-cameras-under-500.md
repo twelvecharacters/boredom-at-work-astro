@@ -1,7 +1,7 @@
 ---
-title: "Best Cameras Under $500: Top Picks for Budget Photographers (2026)"
+title: "Best Cameras Under $500 for Beginners in 2026"
 slug: "best-cameras-under-500"
-description: "Best cameras under $500 from Canon, Nikon, and Sony. We review the top budget cameras that deliver excellent image quality for beginners."
+description: "Best cameras under $500 from Canon, Nikon, and Sony. Top budget cameras reviewed for image quality, autofocus, and beginner-friendliness."
 publishDate: 2026-01-01
 author: "bored chap"
 image: "./cameras-under-500.webp"
@@ -40,7 +40,7 @@ In this guide, I'll review the best budget cameras available in 2026, comparing 
 
 **Price:** ~$480 with kit lens | **Sensor:** 24.1MP APS-C
 
-The Canon EOS R100 represents the best value in mirrorless cameras under $500. It's Canon's most affordable entry into their modern RF mount system, offering features that punch well above its price point.
+The [Canon EOS R100](https://www.usa.canon.com/cameras/mirrorless-cameras/eos-r100) represents the best value in mirrorless cameras under $500. It's Canon's most affordable entry into their modern RF mount system, offering features that punch well above its price point.
 
 ### Why It's the Best Budget Camera
 

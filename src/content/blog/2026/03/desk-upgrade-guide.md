@@ -1,7 +1,7 @@
 ---
-title: "The Ultimate Desk Upgrade Guide: Build Your Perfect Home Office (2026)"
+title: "Desk Upgrade Guide: Build Your Perfect Home Office"
 slug: "desk-upgrade-guide"
-description: "Upgrade your home office desk setup. Standing desks, ergonomic chairs, monitor arms, and cable management for a productive workspace."
+description: "The complete home office desk upgrade guide — standing desks, ergonomic chairs, monitor arms, and cable management for a productive workspace."
 publishDate: 2026-03-01
 author: "bored chap"
 image: "./desk-upgrade-guide.webp"

@@ -1,11 +1,11 @@
 ---
-title: "Google Pixel 10a Confirmed: Should You Wait or Buy the Pixel 9a Now?"
+title: "Pixel 10a vs 9a: Should You Wait or Buy Now?"
 slug: "pixel-10a-vs-9a"
 description: "Google has officially teased the Pixel 10a. Here is how it compares to the popular Pixel 9a and whether you should upgrade or buy the current model."
 publishDate: 2026-02-05
 author: "bored chap"
 image: "./pixel-10a.webp"
-tags: ["Google", "Pixel 10a", "Pixel 9a", "Smartphone", "Rumors", "Comparison"]
+tags: ["Google", "Pixel", "Smartphone", "Rumors", "Comparison"]
 draft: false
 faq:
   - question: "When is the Pixel 10a release date?"

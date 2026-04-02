@@ -1,7 +1,7 @@
 ---
-title: "15 Best AI Tools for Office Work (I Tested 50+)"
+title: "15 Best AI Tools for Office Work in 2026 (Tested 50+)"
 slug: "best-ai-tools-office-work"
-description: "I tested 50+ AI tools and these 15 actually boost productivity. Email, meetings, writing, research — ranked by real-world results."
+description: "I tested 50+ AI tools and picked the 15 that actually boost office productivity. Email, meetings, writing, and research — ranked by results."
 publishDate: 2026-02-08
 author: "bored chap"
 image: "./best-ai-tools-office-work.webp"

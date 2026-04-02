@@ -1,7 +1,7 @@
 ---
-title: "Is a 3D Printer Worth It? Honest Cost-Benefit Analysis (2026)"
+title: "Is a 3D Printer Worth It? Honest Cost Analysis 2026"
 slug: "is-3d-printing-worth-it"
-description: "Is 3D printing worth the money? We calculate honestly: purchase costs, running costs, time investment, and what you can really do with it."
+description: "Is 3D printing worth the money? An honest breakdown of purchase costs, running costs, time investment, and what you can actually make with it."
 publishDate: 2026-01-09
 author: "bored chap"
 image: "./is-3d-printing-worth-it.webp"

@@ -5,7 +5,7 @@ description: "AirPods Pro 3 vs Galaxy Buds3 Pro vs Sony WF-1000XM5. Sound, ANC, 
 publishDate: 2026-01-29
 author: "bored chap"
 image: "./airpods-vs-galaxy-buds-vs-sony.webp"
-tags: ["Tech & Gadgets", "Earbuds", "AirPods", "Galaxy Buds", "Sony", "Comparison"]
+tags: ["Tech & Gadgets", "Earbuds", "AirPods", "Sony", "Comparison"]
 draft: false
 review:
   rating: 4.5
@@ -23,7 +23,7 @@ faq:
 
 Premium wireless earbuds are everywhere. But with prices between $180-300, you want to get it right the first time.
 
-The three heavyweights: Apple AirPods Pro, Samsung Galaxy Buds, and Sony's WF-1000XM5. Each has devoted fans. Each has trade-offs.
+The three heavyweights: [Apple AirPods Pro](https://www.apple.com/airpods-pro/), Samsung Galaxy Buds, and [Sony WF-1000XM5](https://www.sony.com/en/headphones/truly-wireless/wf-1000xm5). Each has devoted fans. Each has trade-offs.
 
 Let's break down which ones actually deserve your money.
 
