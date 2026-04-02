@@ -22,7 +22,7 @@ faq:
 
 3D printing is one of the most fascinating hobbies you can start today. With a 3D printer, you transform digital designs into tangible objects - from practical household items to spare parts to creative artwork.
 
-In this comprehensive 3D printing beginner guide, I'll explain everything you need to know to get started. By the end, you'll understand which printer suits you, what materials you need, and how to create your first successful print.
+In this comprehensive 3D printing beginner guide, I'll explain everything you need to know to get started. By the end, you'll understand which printer suits you, what materials you need, which [accessories you actually need](/must-have-3d-printing-accessories/), and how to create your first successful print.
 
 ## What Is 3D Printing and How Does FDM Work?
 

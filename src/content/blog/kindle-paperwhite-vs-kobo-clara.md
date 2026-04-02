@@ -1,7 +1,7 @@
 ---
 title: "Kindle Paperwhite vs Kobo Clara BW: Which One to Buy?"
 slug: "kindle-paperwhite-vs-kobo-clara"
-description: "Kindle Paperwhite vs Kobo Clara BW — specs, features, and ecosystem compared. Here's which e-reader to pick."
+description: "Kindle Paperwhite vs Kobo Clara BW compared — specs, display, ecosystem, library support, and value. A clear recommendation for each type of reader."
 publishDate: 2026-04-02
 author: "bored chap"
 image: "./kindle-paperwhite-vs-kobo-clara.webp"
@@ -66,9 +66,9 @@ Both have adjustable warm-light frontlights. The Paperwhite's auto-brightness is
 
 This is where the real difference lies.
 
-**Kindle** locks you into Amazon's ecosystem. You buy books from the Kindle Store, period. The upside: the Kindle Store has the largest ebook selection on the planet, competitive pricing, and Whispersync (syncs your position across devices). If you already have an Amazon account, it just works.
+**Kindle** locks you into [Amazon's ecosystem](https://www.amazon.com/kindle-dbs/fd/kcp). You buy books from the Kindle Store, period. The upside: the Kindle Store has the largest ebook selection on the planet, competitive pricing, and Whispersync (syncs your position across devices). If you already have an Amazon account, it just works.
 
-**Kobo** uses the Kobo Store (owned by Rakuten). The selection is slightly smaller but still massive. Kobo also supports Pocket integration for saving web articles to read on your e-reader — a feature Kindle doesn't have.
+**Kobo** uses the [Kobo Store](https://www.kobo.com/) (owned by Rakuten). The selection is slightly smaller but still massive. Kobo also supports Pocket integration for saving web articles to read on your e-reader — a feature Kindle doesn't have.
 
 Neither ecosystem makes it easy to switch. Books purchased on one platform don't transfer to the other without some effort and Calibre.
 
