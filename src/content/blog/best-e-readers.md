@@ -1,7 +1,7 @@
 ---
 title: "Best E-Readers in 2026: Every Major Option Compared"
 slug: "best-e-readers"
-description: "The best e-readers in 2026 compared — Kindle, Kobo, Boox, and reMarkable. Find the right one for how you read."
+description: "The best e-readers in 2026 compared — Kindle, Kobo, Boox, and reMarkable. Specs, prices, and a clear recommendation for every type of reader."
 publishDate: 2026-04-05
 author: "bored chap"
 image: "./best-e-readers.webp"
@@ -44,7 +44,7 @@ Here's every major e-reader worth considering, with a recommendation for each ty
 
 **~$160** — The best e-reader for most people.
 
-The 2024 Paperwhite is the sweet spot of the entire market. A sharp 7-inch 300 PPI screen, IPX8 waterproofing, USB-C, weeks of battery life, and access to the largest ebookstore in the world. It added Bluetooth for Audible audiobooks, so one device handles both reading and listening.
+The [2024 Paperwhite](https://www.amazon.com/Kindle-Paperwhite-16-GB/dp/B0CFPJYX66) is the sweet spot of the entire market. A sharp 7-inch 300 PPI screen, IPX8 waterproofing, USB-C, weeks of battery life, and access to the largest ebookstore in the world. It added Bluetooth for Audible audiobooks, so one device handles both reading and listening.
 
 The screen is noticeably bigger than the previous generation (6.8" → 7"), and the adjustable warm-light frontlight makes it comfortable to read any time of day.
 
@@ -62,7 +62,7 @@ What you give up: no waterproofing, no warm light (only cold white), and the 6-i
 
 Great first e-reader, especially if you're [not sure it's worth it yet](/is-kindle-worth-it/).
 
-## Best for Library Users: Kobo Clara BW
+## Best for Library Users: [Kobo Clara BW](https://www.kobo.com/)
 
 **~$150** — Built-in library integration.
 

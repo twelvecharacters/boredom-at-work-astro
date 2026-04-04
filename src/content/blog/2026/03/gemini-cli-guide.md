@@ -114,3 +114,4 @@ If you find yourself constantly jumping between your IDE and your browser, give 
 
 - [AI Tools for Work: The Only Guide You Need (2026)](/ai-tools-guide/)
 - [Google Gemini Review: Is It Better Than ChatGPT in 2026?](/google-gemini-review/)
+- [How Gemini CLI Changed My Coding Flow Forever](/how-gemini-changed-my-coding-flow/)

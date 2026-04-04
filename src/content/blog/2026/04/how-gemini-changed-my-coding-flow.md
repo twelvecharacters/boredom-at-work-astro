@@ -1,5 +1,6 @@
 ---
-title: "From Copy-Paste to Command Line: How Gemini Changed My Coding Flow Forever"
+title: "How Gemini CLI Changed My Daily Coding Workflow Forever"
+slug: "how-gemini-changed-my-coding-flow"
 description: "Stop wasting time copy-pasting code into browser windows. Discover how a CLI-based AI agent transformed my development speed and reclaimed my work-life balance."
 publishDate: 2026-04-05
 author: "bored chap"
@@ -7,6 +8,13 @@ tags: ["AI Tools", "Coding Productivity", "Gemini", "Workflow"]
 image: "./gemini-coding-flow.webp"
 imageAlt: "A clean terminal window showing an AI agent executing shell commands and editing code."
 tldr: "Switching from web-based AI chats to a CLI agent reduced my context switching by 80%. By giving the AI direct access to my file system and terminal, I stopped being a 'copy-paste monkey' and started being a technical architect."
+faq:
+  - question: "Is Gemini CLI better than using ChatGPT in a browser for coding?"
+    answer: "For coding tasks, yes. Gemini CLI reads your local files directly, runs shell commands, and applies surgical edits — eliminating the copy-paste cycle. You stay in the terminal and avoid context switching."
+  - question: "Is it safe to use AI CLI tools with production code?"
+    answer: "Yes, if configured properly. Gemini CLI respects .gitignore and .geminiignore files, so it won't read your secrets. Using the API gives you more control over data retention than consumer chat interfaces."
+  - question: "How much does Gemini CLI cost?"
+    answer: "Gemini CLI offers a generous free tier with 1,000 requests per day using a Google account. For heavier usage, costs depend on your Google AI API plan."
 softwareApp:
   name: "Gemini CLI"
   operatingSystem: "macOS, Linux, Windows"
@@ -109,7 +117,7 @@ The "boring" work of typing out the implementation is handled by the agent. This
 
 The name of this blog is *Boredom at Work*. The irony is that since I started using Gemini in the CLI, I’m rarely "bored" in a negative way—I’m **efficient**. 
 
-Tasks that used to take my whole afternoon now take 20 minutes of "orchestration." This gives me the downtime to actually learn new things (like 3D printing or Japanese proxies) rather than fighting with boilerplate code. It has turned my job from "fighting the machine" to "managing the fleet." It allows me to finish my work by 2:00 PM and spend the rest of the day researching my next hobby.
+Tasks that used to take my whole afternoon now take 20 minutes of "orchestration." This gives me the downtime to actually learn new things (like [3D printing](/3d-printing-beginners-guide/) or [Japanese proxies](/buyee-vs-sendico-japan-proxy/)) rather than fighting with boilerplate code. It has turned my job from "fighting the machine" to "managing the fleet." It allows me to finish my work by 2:00 PM and spend the rest of the day researching my next hobby.
 
 ### My Advice for You
 
