@@ -12,7 +12,8 @@
     "lint:content": "node scripts/content-lint.js",
     "lint:content:fix": "node scripts/content-lint.js --fix",
     "optimize": "node scripts/article-optimizer.js",
-    "optimize:fix": "node scripts/article-optimizer.js --fix"
+    "optimize:fix": "node scripts/article-optimizer.js --fix",
+    "daily": "node scripts/daily-ops.js"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.1",

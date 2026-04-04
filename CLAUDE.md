@@ -172,6 +172,18 @@ Drafts in `medium-drafts/` (in `.gitignore`).
 
 ---
 
+## Content Writing
+
+- **Fact-Check first:** Always fact-check claims before including them. Never include specific dates, statistics, or product specs without verification. Flag uncertain facts with `[VERIFY]` markers.
+- **Chronological order:** Always present schedules and lists in chronological order unless explicitly asked otherwise.
+- **Title/content match:** When promising N items in a title, deliver exactly N items in the content.
+
+## Image Processing
+
+- **Batch limit:** When processing images in batch, check file sizes incrementally and warn if approaching session/request limits. Never attempt to process more than 10 images in a single message exchange.
+
+---
+
 ## Workflow-Regeln
 
 ### Blog-Beiträge erstellen
