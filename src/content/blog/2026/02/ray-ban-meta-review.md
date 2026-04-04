@@ -27,7 +27,7 @@ faq:
     answer: "No. The 12MP ultra-wide camera has a fixed lens with no optical or digital zoom. You get what you see — which means great wide-angle shots but no close-ups from a distance."
 ---
 
-I got Ray-Ban Meta smart glasses as a birthday gift two weeks ago. Since then, I've worn them on walks, during video calls, and — most memorably — on a helicopter flight over Dubai.
+I got [Ray-Ban Meta](https://www.ray-ban.com/usa/ray-ban-meta-smart-glasses) smart glasses as a birthday gift two weeks ago. Since then, I've worn them on walks, during video calls, and — most memorably — on a helicopter flight over Dubai.
 
 Here's what it's actually like to use smart glasses in 2026.
 

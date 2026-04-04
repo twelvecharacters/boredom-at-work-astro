@@ -20,7 +20,7 @@ Ever found yourself browsing Japanese auction sites during a slow afternoon at w
 
 Buying from Japan has become increasingly popular, but the process can feel overwhelming. If you're completely new to this, check out our [complete beginner's guide to buying from Japan](/how-to-buy-from-japan-beginners-guide/) first. But if you already know the basics and just need to pick a proxy service, you're in the right place.
 
-The two most popular options are **Buyee** and **Sendico**. But which one should you use? Let's break it down.
+The two most popular options are **[Buyee](https://buyee.jp/)** and **[Sendico](https://www.sendico.com/)**. But which one should you use? Let's break it down.
 
 ## What Are Japan Proxy Services?
 
