@@ -125,7 +125,7 @@ This is the sweet spot for most beginners. You get modern features without overs
 
 **Our pick:** Nikon Z50 II for photos, Sony A6400 for video.
 
-### Enthusiast: $800-1,200
+### Enthusiast: $800-1,500
 
 At this level, you're getting cameras that can grow with you for years.
 

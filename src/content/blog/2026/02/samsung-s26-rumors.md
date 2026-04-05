@@ -16,6 +16,8 @@ faq:
     answer: "Yes, it is expected to feature the Snapdragon 8 Elite Gen 5 (for Galaxy) globally, offering significant speed and efficiency improvements."
 ---
 
+> **Update (April 2026):** This article was originally published as a pre-launch preview based on leaks and rumors. Some details may have changed since the official launch.
+
 The dust has barely settled on the latest smartphone releases, but the rumor mill for the **Samsung Galaxy S26** series is already in high gear. For those of us looking for the perfect work-distraction, tracking these leaks is a top-tier activity.
 
 Samsung's next flagship series — likely consisting of the **Galaxy S26**, **S26 Plus**, and **S26 Ultra** — promises to be a powerhouse of AI, photography, and raw performance.
@@ -79,7 +81,7 @@ Hardware aside, Samsung's real competitive edge in 2026 is **Galaxy AI**. The S2
 - **Circle to Search upgrades:** Deeper integration with shopping, translation, and contextual actions
 - **On-device Gemini Nano:** The larger RAM in the S26 series enables more powerful on-device AI processing without sending data to the cloud
 
-### One UI 8 (Based on Android 17)
+### One UI 8 (Based on Android 16)
 
 Samsung is expected to ship the S26 with **One UI 8**, which brings:
 - Redesigned notification panel with AI-powered smart grouping

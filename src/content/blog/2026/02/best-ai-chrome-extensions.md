@@ -1,7 +1,7 @@
 ---
-title: "10 Best AI Chrome Extensions (2026) — Actually Worth Installing"
+title: "9 Best AI Chrome Extensions (2026) — Actually Worth Installing"
 slug: "best-ai-chrome-extensions"
-description: "These 10 AI Chrome extensions actually save time. Summarize pages, write emails, research faster — I use #3 and #7 every day."
+description: "These 9 AI Chrome extensions actually save time. Summarize pages, write emails, research faster — I use #3 and #7 every day."
 publishDate: 2026-02-26
 author: "bored chap"
 image: "./best-ai-chrome-extensions.webp"
@@ -21,7 +21,7 @@ Your browser is where you spend most of your work day. Email, documents, researc
 
 AI Chrome extensions bring AI capabilities directly into that workflow. No switching apps, no copy-pasting — just AI assistance wherever you need it.
 
-Here are the 10 extensions worth installing.
+Here are the 9 extensions worth installing.
 
 ## The Essential List
 

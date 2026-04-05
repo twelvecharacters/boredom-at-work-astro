@@ -16,7 +16,7 @@ faq:
   - question: "Is the Kobo Clara BW worth it over the Kindle Paperwhite?"
     answer: "If you borrow a lot of library books or prefer EPUB files, yes. Kobo has native OverDrive support and reads EPUBs natively. If you're already in the Amazon ecosystem, the Paperwhite is the better choice."
   - question: "Which has a better screen, Kindle Paperwhite or Kobo Clara?"
-    answer: "Both have 300 PPI E Ink Carta displays, so text sharpness is identical. The Paperwhite has a larger 7-inch screen vs the Clara's 6 inches. The Kobo Clara BW adds limited color capability for book covers."
+    answer: "Both have 300 PPI E Ink displays, so text sharpness is identical. The Paperwhite has a larger 7-inch Carta 1300 screen vs the Clara's 6-inch Carta 1200 screen. The Kobo Clara BW is black and white only — color is only available in the separate Clara Colour model."
   - question: "Can I use both Kindle and Kobo without locking into one ecosystem?"
     answer: "Yes, but it takes effort. You can use Calibre to manage books across both. Some people own both — a Kindle for Amazon purchases and a Kobo for library books and EPUBs."
 ---
@@ -31,9 +31,9 @@ But they're built on very different philosophies. Here's how they actually compa
 
 | Feature | Kindle Paperwhite (2024) | Kobo Clara BW |
 |---------|-------------------------|---------------|
-| **Display** | 7" E Ink Carta 1300 | 6" E Ink Carta 1200 (Kaleido 3) |
+| **Display** | 7" E Ink Carta 1300 | 6" E Ink Carta 1200 |
 | **Resolution** | 300 PPI | 300 PPI |
-| **Color** | No | Limited (book covers) |
+| **Color** | No | No (B&W only; see Clara Colour for color) |
 | **Storage** | 16 GB | 16 GB |
 | **Waterproof** | IPX8 | IPX8 |
 | **Weight** | ~205g | ~174g |
@@ -58,7 +58,7 @@ At 300 PPI, both screens are equally sharp. Text is crisp on either device, and 
 
 The Paperwhite uses the newer Carta 1300 display, which has marginally better contrast. In practice, the difference is subtle — you'd have to look closely to notice.
 
-The Kobo Clara BW has limited E Ink color capability (Kaleido 3), mainly visible on book covers and color-coded library shelves. It's not a color e-reader in any meaningful sense — don't expect vivid comics or magazines.
+The Kobo Clara BW uses a standard E Ink Carta 1200 display — black and white only. It does not have color capability. (Color is available in the separate Kobo Clara Colour model, which uses the Kaleido 3 display.)
 
 Both have adjustable warm-light frontlights. The Paperwhite's auto-brightness is convenient. Both reduce blue light for nighttime reading.
 

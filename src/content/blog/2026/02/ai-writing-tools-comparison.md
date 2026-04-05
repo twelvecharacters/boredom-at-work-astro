@@ -257,7 +257,7 @@ Approval processes, shared assets, collaboration tools.
 ### Weaknesses
 
 **Expensive**
-$49-69/month is steep, especially when Claude/ChatGPT cost $20.
+$39-69/month is steep, especially when Claude/ChatGPT cost $20.
 
 **Marketing-Focused**
 Overkill for general business writing. You're paying for features you won't use.

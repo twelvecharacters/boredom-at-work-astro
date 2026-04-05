@@ -34,8 +34,8 @@ Before we dive deep, here are my top picks for different needs and budgets:
 | **Canon EOS R50** | ~$680 | Best Overall | Perfect balance of features and ease of use |
 | **Canon EOS R100** | ~$480 | Best Budget | Incredible value, great for learning |
 | **Nikon Z50 II** | ~$960 | Best Nikon | Excellent image quality, robust build |
-| **Sony A6100** | ~$750 | Best Autofocus | Unbeatable eye-tracking for portraits |
-| **Fujifilm X-T30 II** | ~$900 | Best Colors | Gorgeous film simulations, retro design |
+| **Sony A6100** | ~$750 | Best Autofocus | Unbeatable eye-tracking for portraits (discontinued) |
+| **Fujifilm X-T30 II** | ~$900 | Best Colors | Gorgeous film simulations, retro design (succeeded by X-T50) |
 
 ## What Makes a Good Beginner Camera?
 
@@ -171,6 +171,8 @@ The Nikon Z50 II improves on the original with better autofocus and a more capab
 
 **Price:** ~$750 with kit lens | **Sensor:** 24.2MP APS-C
 
+*(Discontinued — check used/refurbished availability from dealers like MPB or KEH.)*
+
 The Sony A6100 may be a few years old, but its autofocus system remains one of the best at any price. For portraits and action, it's hard to beat.
 
 **Why It's Great for Beginners:**
@@ -195,6 +197,8 @@ The Sony A6100 may be a few years old, but its autofocus system remains one of t
 ### 5. Fujifilm X-T30 II - Best Colors
 
 **Price:** ~$900 with kit lens | **Sensor:** 26.1MP APS-C
+
+*(Succeeded by the Fujifilm X-T50 — check availability, as the X-T30 II may be found discounted new or used.)*
 
 The Fujifilm X-T30 II stands out with its gorgeous color science and classic film simulations. If you love the look of film photography, this is your camera.
 

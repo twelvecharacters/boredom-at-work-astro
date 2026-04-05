@@ -145,7 +145,7 @@ You can convert EPUBs for Kindle using Calibre software, but it's an extra step.
 |-------|-------|--------|--------------|
 | Kobo Clara BW | $129 | 6" | Budget option |
 | Kobo Clara Colour | $150 | 6" | Color screen, recycled plastic |
-| Kobo Libra 2 | $189 | 7" | Physical buttons, waterproof |
+| Kobo Libra 2 | $189 | 7" | Physical buttons, waterproof (now succeeded by Libra Colour, ~$220) |
 | Kobo Sage | $259 | 8" | Stylus support, Dropbox |
 | Kobo Elipsa 2E | $399 | 10.3" | Large screen, note-taking |
 
@@ -203,7 +203,7 @@ Both companies make solid e-readers. Neither feels cheap.
 - Slightly lighter at comparable tiers
 - ComfortLight PRO is excellent
 
-The Kobo Libra 2 with physical page buttons is a standout — great for one-handed reading in bed.
+The Kobo Libra 2 with physical page buttons is a standout — great for one-handed reading in bed. Note: it has been succeeded by the Kobo Libra Colour (~$220).
 
 ## Privacy Considerations
 
@@ -235,7 +235,7 @@ If privacy matters to you, Kobo is marginally better, though neither is truly pr
 - You borrow library books regularly
 - You have EPUBs from various sources
 - You want more customization options
-- You want physical page buttons (Libra 2)
+- You want physical page buttons (Libra Colour, which succeeded the Libra 2)
 - You care about sustainability
 
 ### The Tie-Breaker

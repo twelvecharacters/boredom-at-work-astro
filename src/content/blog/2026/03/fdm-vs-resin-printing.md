@@ -309,9 +309,9 @@ They complement each other perfectly. The cost of a decent resin printer ($200-3
 | Budget | Printer | Price |
 |--------|---------|-------|
 | Entry | Creality Ender 3 V3 SE | ~$200 |
-| Mid-range | Bambu Lab A1 Mini | ~$220 |
-| Enthusiast | Bambu Lab P1S | ~$400 |
-| Premium | Prusa MK4S | ~$670 (kit) |
+| Mid-range | Bambu Lab A1 Mini | ~$299 |
+| Enthusiast | Bambu Lab P1S | ~$599 |
+| Premium | Prusa MK4S | ~$799 (kit) |
 
 For detailed reviews and comparisons, see our [best 3D printers under $300](/best-3d-printers-under-300/) guide.
 

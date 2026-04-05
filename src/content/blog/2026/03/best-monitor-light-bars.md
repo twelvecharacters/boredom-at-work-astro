@@ -36,7 +36,7 @@ Here's what's actually worth buying in 2026.
 | **BenQ ScreenBar Pro** | ~$140 | Auto-dimming pro | 2700-6500K | Motion sensor, 1000+ lux |
 | **Quntis Pro+** | ~$60 | Best budget | 3000-6500K | Remote control, great value |
 | **Xiaomi Mi Light Bar** | ~$70 | Best value | 2700-6500K | Wireless dial, aluminum build |
-| **Yeelight Light Bar Pro** | ~$140 | Smart home | 2700-6500K | Alexa/Google/SmartThings |
+| **Yeelight Light Bar Pro** | ~$70 | Smart home | 2700-6500K | Alexa/Google/SmartThings |
 | **Baseus i-Wok** | ~$38 | Ultra-budget | 3000-6500K | Under $40, gets the job done |
 
 *Prices fluctuate -- check current listings before buying.*
@@ -236,7 +236,7 @@ The wireless dial is the standout at this price point. Rotate for brightness, pr
 
 ### 6. Yeelight Monitor Light Bar Pro -- Best Smart Home Integration
 
-**Price:** ~$140
+**Price:** ~$70
 
 If your desk is part of a smart home ecosystem, the Yeelight Pro is the only light bar that truly belongs. It works with Google Home, Amazon Alexa, Samsung SmartThings, and even Razer Chroma for RGB syncing. Voice control, automations, scenes — it all works.
 
@@ -385,7 +385,7 @@ The BenQ models and Quntis Pro+ include ambient light sensors that automatically
 | **Best auto on/off** | BenQ ScreenBar Pro (~$140) | Motion sensor, brightest coverage |
 | **Best budget** | Quntis Pro+ (~$60) | Wireless remote, auto-dimming, USB-C |
 | **Best value** | Xiaomi Mi Light Bar (~$70) | Wireless dial, aluminum build |
-| **Best smart home** | Yeelight Pro (~$140) | Alexa, Google, SmartThings, RGB |
+| **Best smart home** | Yeelight Pro (~$70) | Alexa, Google, SmartThings, RGB |
 | **Best under $40** | Baseus i-Wok (~$38) | Gets the job done, great CRI |
 | **Best for curved monitors** | BenQ ScreenBar Pro (~$140) | 1000-1800R support, widest coverage |
 | **Best for dual monitors** | BenQ ScreenBar Pro (~$140) | 85 cm coverage, handles wide setups |

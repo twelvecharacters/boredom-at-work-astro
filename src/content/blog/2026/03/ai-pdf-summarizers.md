@@ -37,7 +37,7 @@ Here's a breakdown of the best tools, what they're actually good at, and which o
 | **ChatGPT** | General use | Good | $20/mo | 128K tokens |
 | **Claude** | Long documents | Good | $20/mo | 200K tokens |
 | **NotebookLM** | Research, multiple docs | Excellent | Free | Large |
-| **ChatPDF** | PDF-focused workflow | Limited | $6.99/mo | 50MB files |
+| **ChatPDF** | PDF-focused workflow | Limited | $10/mo | 50MB files |
 | **Humata** | Teams, heavy use | Limited | $9.99/mo | Unlimited |
 | **Gemini** | Google users | Good | $19.99/mo | 1M+ tokens |
 
@@ -174,7 +174,7 @@ NotebookLM is Google's AI research tool—built specifically for working with mu
 
 ## 4. ChatPDF — Best Dedicated PDF Tool
 
-**Price:** Free (limited) / $10/mo Plus  
+**Price:** Free (limited) / $10/mo Plus
 **Website:** [chatpdf.com](https://chatpdf.com)
 
 ChatPDF does one thing: chat with PDFs. It does it well.

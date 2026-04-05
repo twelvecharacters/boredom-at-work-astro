@@ -259,7 +259,7 @@ Once you've mastered the general assistants, these specialized tools can superch
 | Tool | Best For | Price |
 |------|----------|-------|
 | **Otter.ai** | Meeting transcription | Free / $17/mo |
-| **Fireflies.ai** | Team meeting notes | Free / $10/mo |
+| **Fireflies.ai** | Team meeting notes | Free / $18/mo |
 | **Notion AI** | Notes + AI assistant | $8/mo add-on |
 | **Mem** | AI-organized notes | $15/mo+ |
 | **Reflect** | Networked note-taking | $10/mo |

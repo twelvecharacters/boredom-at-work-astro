@@ -323,7 +323,7 @@ Include [number] rows with realistic example data.
 
 ## Is Copilot Worth the Subscription?
 
-Copilot is now included with Microsoft 365 Personal ($9.99/mo) and Family ($12.99/mo) subscriptions with limited AI credits per month. For unlimited Copilot access, you'll need Microsoft 365 Premium ($30/mo).
+Copilot is now included with Microsoft 365 Personal ($9.99/mo) and Family ($12.99/mo) subscriptions with limited AI credits per month. For unlimited Copilot access, you'll need the Microsoft 365 Copilot add-on ($30/user/mo for business).
 
 **Worth it if you:**
 - Write in Word daily
@@ -331,13 +331,13 @@ Copilot is now included with Microsoft 365 Personal ($9.99/mo) and Family ($12.9
 - Already have Microsoft 365 (basic Copilot is included)
 - Do lots of emails, reports, proposals
 
-**Not worth upgrading to Premium if you:**
+**Not worth upgrading to the Copilot add-on if you:**
 - Rarely use Word
 - Need highest quality writing (use Claude instead)
 - Are on a tight budget (free ChatGPT + copy/paste works)
 - Mostly do creative writing
 
-**Start with the included Copilot** in your M365 subscription. If you hit the monthly credit limit regularly, consider upgrading to Premium.
+**Start with the included Copilot** in your M365 subscription. If you hit the monthly credit limit regularly, consider upgrading to the business Copilot add-on.
 
 ---
 

@@ -43,7 +43,7 @@ Microsoft Copilot is AI assistance built directly into Microsoft 365 apps:
 - **Teams** — Meeting summaries, catch-up on missed discussions
 - **OneNote** — Summarize notes, generate content
 
-It's powered by OpenAI's latest models — currently GPT-5.2 with real-time model routing that picks the best model for each task — and has deep access to your Microsoft 365 data: your emails, documents, calendar, and Teams conversations.
+It's powered by OpenAI's latest models — currently GPT-4o with real-time model routing that picks the best model for each task — and has deep access to your Microsoft 365 data: your emails, documents, calendar, and Teams conversations.
 
 ## The Price Reality
 

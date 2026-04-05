@@ -94,7 +94,7 @@ Reality check: Growing fast, worth having presence even if not primary income so
 ### Building Your Own Brand
 
 **Shopify / WooCommerce** — Maximum Margins  
-~$29/month + ~2.9% payment processing  
+~$39/month + ~2.9% payment processing  
 Best for: Scaling beyond side hustle, building email list, repeat customers  
 Reality check: You drive 100% of your own traffic. Only worth it once you've validated demand elsewhere.
 
@@ -107,7 +107,7 @@ Reality check: You drive 100% of your own traffic. Only worth it once you've val
 | **FB Marketplace** | Physical | 0% | Local buyers | Large items, testing ideas |
 | **Cults3D** | Digital | 20% flat | Makers & hobbyists | Gadgets, art, functional STLs |
 | **MyMiniFactory** | Digital | 10-15% | Tabletop/gaming fans | Miniatures, detailed models |
-| **Shopify** | Both | ~$29/mo + 2.9% | Your own traffic | Scaling, brand building |
+| **Shopify** | Both | ~$39/mo + 2.9% | Your own traffic | Scaling, brand building |
 
 ### The Smart Strategy
 

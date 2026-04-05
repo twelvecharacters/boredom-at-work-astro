@@ -137,7 +137,7 @@ For everyone who needs more print volume than the A1 Mini but doesn't want the B
 
 ## 4. Anycubic Kobra 3 - The Dark Horse
 
-**Price:** ~$350 | **Print Volume:** 250x250x260mm
+**Price:** ~$350 (slightly above budget, but worth mentioning) | **Print Volume:** 250x250x260mm
 
 Anycubic has a solid mid-range printer with the Kobra 3 that's often overlooked.
 

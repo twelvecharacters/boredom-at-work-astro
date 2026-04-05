@@ -16,14 +16,14 @@ softwareApp:
   category: "BusinessApplication"
   priceRange: "Free–$20/month"
   url: "https://chatgpt.com"
-tldr: "ChatGPT Plus ($20/month) gives you GPT-5.2 access, image generation with DALL-E, video with Sora, and priority speed. Free users get limited GPT-5.2 and GPT-4o access. Worth it if you use ChatGPT daily for work — skip it for casual use."
+tldr: "ChatGPT Plus ($20/month) gives you GPT-4o access, image generation with DALL-E, video with Sora, and priority speed. Free users get limited GPT-4o and GPT-4o access. Worth it if you use ChatGPT daily for work — skip it for casual use."
 faq:
   - question: "Is ChatGPT Plus worth $20 a month?"
-    answer: "Yes, if you use ChatGPT daily for work. You get full GPT-5.2 access, DALL-E image generation, Sora video, and priority during peak hours. For casual or occasional use, the Free tier is sufficient."
+    answer: "Yes, if you use ChatGPT daily for work. You get full GPT-4o access, DALL-E image generation, Sora video, and priority during peak hours. For casual or occasional use, the Free tier is sufficient."
   - question: "What's the difference between ChatGPT Free and Plus?"
-    answer: "Free gives limited access to GPT-5.2 and GPT-4o with usage caps. Plus ($20/month) removes most limits, adds DALL-E images, Sora video, voice mode, and priority access during busy times."
+    answer: "Free gives limited access to GPT-4o and GPT-4o with usage caps. Plus ($20/month) removes most limits, adds DALL-E images, Sora video, voice mode, and priority access during busy times."
   - question: "Can I use GPT-4 for free?"
-    answer: "Yes, but with limits. Free users get access to GPT-5.2 and GPT-4o with message caps. When you hit limits, you're switched to the smaller GPT-4o-mini model."
+    answer: "Yes, but with limits. Free users get access to GPT-4o and GPT-4o with message caps. When you hit limits, you're switched to the smaller GPT-4o-mini model."
 ---
 
 Everyone's talking about ChatGPT, but should you actually pay $20/month for Plus?
@@ -65,7 +65,7 @@ I've used both tiers extensively for work — writing, research, coding, and gen
 | Feature | Free | Plus ($20/mo) |
 |---------|------|---------------|
 | **Price** | $0 | $20/month |
-| **GPT-5.2 Access** | Limited | Full |
+| **GPT-4o Access** | Limited | Full |
 | **GPT-4o Access** | Limited | Full |
 | **GPT-4o-mini** | Unlimited | Unlimited |
 | **Message Limits** | Yes (varies) | Much higher |
@@ -97,7 +97,7 @@ The Free tier is surprisingly capable in 2026. OpenAI has been generous:
 - **Mobile app** — Full iOS and Android apps
 
 ### Limited Access:
-- **GPT-5.2** — The flagship model (limited messages per day)
+- **GPT-4o** — The flagship model (limited messages per day)
 - **GPT-4o** — Fast, capable model (limited messages)
 - **Custom GPTs** — Can use them, can't create them
 
@@ -115,7 +115,7 @@ Here's where Free gets frustrating. You'll hit limits like:
 > "You've reached the GPT-4o limit. Responses will use GPT-4o-mini until your limit resets."
 
 The exact limits vary and OpenAI doesn't publish them, but expect:
-- ~10-20 GPT-5.2 messages per day
+- ~10-20 GPT-4o messages per day
 - ~40-80 GPT-4o messages per day
 - Limits reset at different intervals
 
@@ -193,7 +193,7 @@ I tested identical tasks on both tiers to show practical differences:
 
 **Free (GPT-4o-mini):** Created a decent outline with standard structure. Took 2 prompts to refine.
 
-**Plus (GPT-5.2):** More nuanced outline with better hooks, unique angles, and SEO considerations. Got it right on the first try.
+**Plus (GPT-4o):** More nuanced outline with better hooks, unique angles, and SEO considerations. Got it right on the first try.
 
 **Verdict:** Plus saves 5-10 minutes per article outline.
 
@@ -225,7 +225,7 @@ I tested identical tasks on both tiers to show practical differences:
 
 **Free (GPT-4o-mini):** Helped but made a few errors I had to correct. Needed multiple iterations.
 
-**Plus (GPT-5.2):** More accurate code, better explanations, fewer iterations needed.
+**Plus (GPT-4o):** More accurate code, better explanations, fewer iterations needed.
 
 **Verdict:** For coding, the quality difference is real.
 
@@ -302,16 +302,17 @@ Before deciding on Plus, consider alternatives:
 
 **Verdict:** ChatGPT Plus for general use. [Perplexity for research-heavy work](/perplexity-ai-guide/).
 
-### ChatGPT Plus ($20/month) vs Microsoft Copilot Pro ($20/month)
+### ChatGPT Plus ($20/month) vs Microsoft 365 Copilot
 
-| Aspect | ChatGPT Plus | Copilot Pro |
-|--------|--------------|-------------|
+| Aspect | ChatGPT Plus | Microsoft 365 Copilot |
+|--------|--------------|----------------------|
 | Best for | Standalone AI use | Microsoft 365 users |
 | Word/Excel integration | ❌ No | ✅ Yes |
 | Image generation | ✅ DALL-E | ✅ DALL-E |
 | Standalone quality | Better | Decent |
+| Included in M365 Personal | ❌ No | ✅ Yes ($9.99/mo) |
 
-**Verdict:** ChatGPT Plus unless you live in Microsoft 365. [See our Copilot review](/microsoft-copilot-review/).
+**Note:** Standalone Copilot Pro was discontinued — Copilot is now bundled into Microsoft 365 Personal/Family/Premium plans. **Verdict:** ChatGPT Plus unless you live in Microsoft 365. [See our Copilot review](/microsoft-copilot-review/).
 
 ### The Budget Option: Stay Free + Use Multiple Tools
 
@@ -355,14 +356,14 @@ You can cancel Plus anytime — there's no commitment.
 If you want to maximize the Free tier:
 
 ### 1. Use GPT-4o-mini Strategically
-Save your GPT-5.2/GPT-4o messages for complex tasks. Use GPT-4o-mini for:
+Save your GPT-4o/GPT-4o messages for complex tasks. Use GPT-4o-mini for:
 - Simple questions
 - Brainstorming
 - Casual conversation
 - First drafts
 
 ### 2. Time Your Usage
-Limits reset at different intervals. Space out your GPT-5.2 queries throughout the day rather than burning through them all at once.
+Limits reset at different intervals. Space out your GPT-4o queries throughout the day rather than burning through them all at once.
 
 ### 3. Combine with Other Free Tools
 - **Perplexity Free** — For research (web search is excellent)

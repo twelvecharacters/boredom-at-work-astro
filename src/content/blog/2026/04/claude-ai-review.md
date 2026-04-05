@@ -78,7 +78,7 @@ I write first drafts with Claude, then edit. The editing is lighter than with Ch
 
 Claude's context window goes up to **1 million tokens** — roughly 750,000 words or multiple books. The standard window is 200K tokens, with 1M available on Pro, Max, Team, and Enterprise plans.
 
-ChatGPT (GPT-5.4) now offers **272,000 tokens** as standard context. Both have grown significantly, but Claude's 1M option is hard to beat for truly massive documents.
+ChatGPT (GPT-4o) now offers **272,000 tokens** as standard context. Both have grown significantly, but Claude's 1M option is hard to beat for truly massive documents.
 
 **Use cases this enables:**
 - Analyzing entire reports or contracts

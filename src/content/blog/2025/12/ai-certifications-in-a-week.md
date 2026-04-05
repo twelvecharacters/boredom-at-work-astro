@@ -41,7 +41,7 @@ The goal isn't to become an AI expert in a week. It's to build foundational know
 | Certification | Time | Cost | Provider | Certificate |
 |---------------|------|------|----------|-------------|
 | Google AI Essentials | 10 hrs | Free/$49 | Google | Yes |
-| Microsoft AI Fundamentals | 8 hrs | Free/$99 | Microsoft | Optional exam |
+| Microsoft AI Fundamentals | 8 hrs | Free/$165 | Microsoft | Optional exam |
 | IBM AI Foundations | ~20 hrs | Free/$49 | IBM | Yes |
 | Career Essentials in Generative AI | ~5 hrs | Free | Microsoft + LinkedIn | Yes |
 | ChatGPT Prompt Engineering | ~1.5 hrs | Free | DeepLearning.AI | No |
@@ -83,7 +83,7 @@ Anyone who wants a solid AI foundation with a recognizable certificate. Ideal fo
 
 ## 2. Microsoft AI Fundamentals Prep
 
-**Time: ~8 hours | Certificate: Optional ($99 exam)**
+**Time: ~8 hours | Certificate: Optional ($165 exam)**
 
 Microsoft's AI learning path prepares you for the AI-900 certification. The learning content is free—you only pay if you want to take the official exam.
 
@@ -111,7 +111,7 @@ Microsoft's AI learning path prepares you for the AI-900 certification. The lear
 - **Format:** Text-based modules with exercises
 - **Prerequisites:** None
 - **Learning:** Free
-- **Optional exam:** $99 for AI-900 certification
+- **Optional exam:** $165 for AI-900 certification
 
 ### Who It's For
 

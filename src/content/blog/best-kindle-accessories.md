@@ -76,7 +76,7 @@ The **MoKo adjustable tablet stand** (~$12) works perfectly. Any phone/tablet st
 
 ## 5. PopSocket or Finger Grip (~$8–15)
 
-The Kindle Paperwhite weighs about 205g, which is light — but after an hour of one-handed reading, your pinky starts to ache. A **PopSocket** or stick-on finger grip on the back solves this completely.
+The Kindle Paperwhite weighs about 213g, which is light — but after an hour of one-handed reading, your pinky starts to ache. A **PopSocket** or stick-on finger grip on the back solves this completely.
 
 Alternatively, a **hand strap case** (like the ones from Fintie) has a built-in elastic strap on the back. Great for reading in bed or on the couch.
 

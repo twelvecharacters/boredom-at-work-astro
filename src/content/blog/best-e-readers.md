@@ -37,7 +37,7 @@ Here's every major e-reader worth considering, with a recommendation for each ty
 | Kobo Sage | 8" | 300 | No | IPX8 | 32 GB | ~$260 |
 | Kindle Colorsoft Signature | 7" | 300 | Yes (custom) | IPX8 | 32 GB | ~$280 |
 | Boox Tab Ultra C | 10.3" | 300 | Yes (Kaleido 3) | No | 128 GB | ~$600 |
-| reMarkable 2 | 10.3" | 226 | No | No | 8 GB | ~$450 |
+| reMarkable 2 | 10.3" | 226 | No | No | 8 GB | ~$299 |
 
 ---
 
@@ -93,7 +93,7 @@ The Scribe has a large 10.2-inch screen and comes with a stylus for handwriting 
 
 As a pure e-reader, the Scribe is overkill. It's big, not waterproof, and expensive. But if you want one device for reading *and* note-taking (meeting notes, journal, study notes), it earns its price.
 
-The **reMarkable 2** (~$450) is better for pure note-taking — the writing feel is unmatched — but worse as an e-reader (no backlight, no bookstore, 226 PPI). Choose based on your primary use case.
+The **reMarkable 2** (~$299) is better for pure note-taking — the writing feel is unmatched — but worse as an e-reader (no backlight, no bookstore, 226 PPI). Choose based on your primary use case.
 
 ## Best Premium: Kobo Sage
 

@@ -34,7 +34,7 @@ In this guide, I'll review the best budget cameras available in 2026, comparing 
 | **Nikon Z50 (Used)** | ~$450 | Mirrorless | 20.9MP APS-C | Best Used Value (successor: Z50 II ~$860) |
 | **Sony A6000** | ~$450 | Mirrorless | 24.3MP APS-C | Best for Speed |
 | **Canon Rebel T7** | ~$400 | DSLR | 24.1MP APS-C | Best Budget DSLR |
-| **Fujifilm X-T200** | ~$500 | Mirrorless | 24.2MP APS-C | Best for Video |
+| **Fujifilm X-T200** | ~$500 | Mirrorless | 24.2MP APS-C | Best for Video (discontinued — available used/refurbished) |
 
 ## 1. Canon EOS R100 - Best Overall Under $500
 
@@ -221,6 +221,8 @@ Not sure which type to pick? Our [DSLR vs mirrorless guide](/dslr-vs-mirrorless-
 ## 5. Fujifilm X-T200 - Best for Video
 
 **Price:** ~$500 with kit lens | **Sensor:** 24.2MP APS-C
+
+*(Discontinued — available used/refurbished from retailers like MPB and KEH.)*
 
 The Fujifilm X-T200 stands out for its video capabilities and gorgeous color science. If you plan to shoot both photos and video, this is the best option under $500.
 

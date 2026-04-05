@@ -50,7 +50,7 @@ After using both extensively for work, I'll break down where each excels — and
 
 ## Head-to-Head Comparison
 
-| Feature | Claude 4.5 | GPT-5.2 |
+| Feature | Claude Sonnet 4.6 | GPT-5.2 |
 |---------|------------|---------|
 | Price (Pro/Plus) | $20/month | $20/month |
 | Free Tier | Yes (limited) | Yes (limited) |
@@ -235,7 +235,7 @@ Both offer robust APIs at similar pricing.
 - Larger context window
 - Often better for agentic workflows
 - Strong performance on complex instructions
-- Opus 4.5, Sonnet 4.5, Haiku 4.5 model options
+- Opus 4.6, Sonnet 4.5, Haiku 4.5 model options
 
 **OpenAI API advantages:**
 - More models to choose from (GPT-5.2 variants)

@@ -141,7 +141,7 @@ Good, but Sony and AirPods Pro 3 both beat it in raw noise cancellation performa
 
 **Durability Questions**
 
-Some users report issues with sweat resistance despite the IPX7 rating. The blade stems can feel fragile.
+Some users report issues with sweat resistance despite the IP57 rating. The blade stems can feel fragile.
 
 ### Buy Galaxy Buds3 Pro If:
 - You have a Samsung phone (best experience)

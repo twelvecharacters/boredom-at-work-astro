@@ -107,7 +107,7 @@ Everything is processed on Notion's servers. Your notes, your prompts, your AI q
 AI is only available on Business plan ($20/user/month). For a team of 10, that's $200/month for Notion with AI included.
 
 **Limited Customization**
-You can now choose between models (GPT-5.2, Claude, Gemini 3, etc.), but you can't adjust parameters like temperature or use fully custom system prompts.
+You can now choose between models (GPT-4o, Claude, Gemini 2.5 Pro, etc.), but you can't adjust parameters like temperature or use fully custom system prompts.
 
 **Vendor Lock-in**
 Your notes are in Notion's format. AI features only work within Notion. Switching apps means losing AI capabilities.
