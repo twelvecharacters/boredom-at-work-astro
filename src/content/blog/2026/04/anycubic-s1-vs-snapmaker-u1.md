@@ -7,6 +7,13 @@ author: "bored chap"
 image: "./anycubic-s1-vs-snapmaker-u1.webp"
 tags: ["3D Printing", "Anycubic", "Snapmaker", "Multi-Color", "Review"]
 draft: false
+faq:
+  - question: "Which is better for beginners, the Anycubic Kobra S1 Max or the Snapmaker U1?"
+    answer: "The Anycubic Kobra S1 Max is the better choice for beginners. Its Anycubic Cloud app and Slicer Next software offer a more guided, 'one-click' experience with automatic settings. The Snapmaker U1's Snapmaker Orca software is still in beta and can be overwhelming for new users."
+  - question: "Does the Snapmaker U1 really produce zero filament waste in multi-color prints?"
+    answer: "Almost. The U1's SnapSwap system swaps entire toolheads instead of purging filament through a single nozzle, which eliminates the large purge towers required by AMS-style systems. In practice, there is minimal waste from nozzle tips, but it is dramatically less than traditional multi-color approaches."
+  - question: "Can the Anycubic Kobra S1 Max and Snapmaker U1 print flexible filaments like TPU?"
+    answer: "Both can print TPU, but the Snapmaker U1 handles it better in multi-material setups. Because each toolhead is dedicated to one filament, the U1 can combine TPU with rigid materials like PLA in the same print without clogging risk. The S1 Max can print TPU but routing flexible filament through a single ACE 2 Pro hub can be more challenging."
 tldr: "For $850, the choice is between two philosophies. The Anycubic Kobra S1 Max offers massive scale (350mm³), integrated filament drying, and up to 16 colors. The Snapmaker U1 focuses on precision with its 4 independent toolheads (SnapSwap), virtually eliminating filament waste and reducing multi-material print times by 70%."
 ---
 

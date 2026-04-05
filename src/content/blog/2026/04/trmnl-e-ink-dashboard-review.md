@@ -12,6 +12,13 @@ review:
   productName: "TRMNL E-Ink Display"
   productBrand: "TRMNL"
   priceRange: "$99 - $149"
+faq:
+  - question: "How long does the TRMNL battery last?"
+    answer: "TRMNL's battery lasts 3 to 6 months on a single charge, depending on your refresh rate. Because E-ink only uses power when pixels change, setting a refresh interval of 15 minutes or longer keeps consumption extremely low. It charges via USB-C."
+  - question: "Does TRMNL need to be connected to Wi-Fi all the time?"
+    answer: "TRMNL requires a 2.4GHz Wi-Fi connection to fetch updated data from its cloud dashboard or your custom JSON endpoints. However, it only connects briefly during each refresh cycle rather than maintaining a constant connection, which is part of why the battery lasts so long."
+  - question: "What kind of data can TRMNL display?"
+    answer: "TRMNL supports a wide range of plugins including Google Calendar, Outlook, Todoist, GitHub stats, crypto and stock prices, and RSS news feeds. For power users, it also supports fully custom screens built with JSON data sources and Liquid templating, so you can display virtually any data you can pull from an API."
 ---
 
 We live in an age of "Screen Fatigue." Between your ultra-wide monitor, your smartphone, and your tablet, there is constantly a backlit screen fighting for your attention. Even if you’re just checking the weather or your GitHub contributions, the simple act of opening a browser tab is a gateway drug to distraction. 
