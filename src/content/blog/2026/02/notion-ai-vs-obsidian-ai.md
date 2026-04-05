@@ -3,6 +3,7 @@ title: "Notion AI vs Obsidian AI: Which Is Better in 2026?"
 slug: "notion-ai-vs-obsidian-ai"
 description: "Notion AI vs Obsidian AI plugins compared — features, pricing, privacy, and which note-taking app fits your workflow better in 2026."
 publishDate: 2026-02-17
+updatedDate: 2026-04-05
 author: "bored chap"
 image: "./notion-ai-vs-obsidian-ai.webp"
 tags: ["AI", "Notion", "Obsidian", "Productivity", "Comparison"]

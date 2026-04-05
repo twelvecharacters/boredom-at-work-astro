@@ -3,6 +3,7 @@ title: "How to Sell 3D Prints Online: Platforms, Pricing & Tips"
 slug: "selling-3d-prints-online"
 description: "Turn your 3D printing hobby into a side hustle. Best platforms for selling 3D prints, pricing strategies, legal tips, and what actually sells."
 publishDate: 2026-02-03
+updatedDate: 2026-04-05
 author: "bored chap"
 image: "./selling-3d-prints-online.webp"
 tags: ["3D Printing", "Side Hustle", "Business", "Etsy", "Selling"]

@@ -1,8 +1,9 @@
 ---
-title: "AirPods Pro 3 Review: First Impressions After One Week"
+title: "AirPods Pro 3 Review: Still Worth It in 2026?"
 slug: "airpods-pro-3-review"
-description: "Hands-on AirPods Pro 3 review after one week. What's new, what's improved, sound quality, ANC, and whether they're worth the upgrade."
+description: "Full AirPods Pro 3 review after months of daily use. Sound quality, ANC, battery, and the hearing health features — here's the honest verdict."
 publishDate: 2026-01-28
+updatedDate: 2026-04-05
 author: "bored chap"
 image: "./airpods-pro-3-review.webp"
 tags: ["Tech & Gadgets", "AirPods", "Apple", "Earbuds", "Review"]

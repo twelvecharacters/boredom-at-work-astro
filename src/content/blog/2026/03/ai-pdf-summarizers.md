@@ -3,6 +3,7 @@ title: "Best AI PDF Summarizers (2026): Chat With Your Documents"
 slug: "ai-pdf-summarizers"
 description: "The best AI tools for summarizing PDFs and long documents. Upload a 100-page report, get key insights in seconds. Free and paid options compared."
 publishDate: 2026-03-11
+updatedDate: 2026-04-05
 author: "bored chap"
 image: "./ai-pdf-summarizers.webp"
 tags: ["AI", "PDF", "Productivity", "Tools", "Research"]

@@ -2,6 +2,7 @@
 title: "Best AI Presentation Makers in 2026: Ranked & Tested"
 description: "Gamma vs Beautiful.ai vs Canva AI — which actually makes great slides? We tested 6 AI tools so you don't waste time on the wrong one. Free picks included."
 publishDate: 2026-02-16
+updatedDate: 2026-04-05
 author: "bored chap"
 image: "./ai-presentation-makers.webp"
 tags: ["AI", "Productivity", "Presentations", "Comparison"]

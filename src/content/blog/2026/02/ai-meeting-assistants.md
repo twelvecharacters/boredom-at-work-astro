@@ -3,6 +3,7 @@ title: "6 Best AI Meeting Assistants in 2026 (Free & Paid)"
 slug: "ai-meeting-assistants"
 description: "Otter.ai vs Fireflies vs Granola — which AI meeting assistant actually saves time? Honest comparison with free options, pricing, and a clear winner."
 publishDate: 2026-02-14
+updatedDate: 2026-04-05
 author: "bored chap"
 image: "./ai-meeting-assistants.webp"
 tags: ["AI", "Meetings", "Productivity", "Otter.ai", "Comparison"]

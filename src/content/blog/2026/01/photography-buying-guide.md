@@ -3,6 +3,7 @@ title: "Photography Buying Guide: Everything You Need to Start in 2026"
 slug: "photography-buying-guide"
 description: "The complete guide to buying your first camera in 2026. From budget options to the DSLR vs mirrorless debate, we cover everything without the gear-head jargon."
 publishDate: 2026-01-28
+updatedDate: 2026-04-05
 author: "bored chap"
 image: "./photography-buying-guide.webp"
 tags: ["Photography", "Cameras", "Buying Guide", "Beginners", "Hub Page"]

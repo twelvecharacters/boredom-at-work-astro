@@ -3,6 +3,7 @@ title: "Perplexity AI: The Search Engine That Actually Answers Your Questions"
 slug: "perplexity-ai-guide"
 description: "Complete guide to Perplexity AI: how it works, when to use it over Google, and why it's becoming the go-to research tool for professionals."
 publishDate: 2026-02-05
+updatedDate: 2026-04-05
 author: "bored chap"
 image: "./perplexity-ai-guide.webp"
 tags: ["AI", "Perplexity", "Productivity", "Research", "Search"]

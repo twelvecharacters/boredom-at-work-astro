@@ -3,6 +3,7 @@ title: "7 Best Cameras for Beginners in 2026 [Tested & Ranked]"
 slug: "best-cameras-for-beginners"
 description: "Tested 7 beginner cameras from Canon, Nikon, and Sony. Mirrorless vs DSLR compared with real photos — find your perfect first camera."
 publishDate: 2025-12-31
+updatedDate: 2026-04-05
 author: "bored chap"
 image: "./best-cameras-beginners.webp"
 tags: ["Photography", "Cameras", "Beginners", "Buying Guide"]

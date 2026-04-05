@@ -1,8 +1,9 @@
 ---
-title: "ChatGPT Guide 2026: Go from Beginner to Power User"
+title: "ChatGPT Power User Guide 2026: Advanced Tips & Workflows"
 slug: "chatgpt-guide"
-description: "The complete ChatGPT guide for 2026. Learn prompting, Custom Instructions, and real workflows that save hours — even if you've never used it before."
+description: "Go beyond basic prompts. Master Custom Instructions, GPTs, plugins, and real workflows that save hours. The complete ChatGPT reference for 2026."
 publishDate: 2026-02-28
+updatedDate: 2026-04-05
 author: "bored chap"
 image: "./chatgpt-guide.webp"
 tags: ["ChatGPT", "AI", "Productivity", "OpenAI", "Hub Page"]

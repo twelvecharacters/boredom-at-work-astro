@@ -1,9 +1,9 @@
 ---
-title: "How to Use ChatGPT for Beginners — 2026 Step-by-Step Guide"
+title: "ChatGPT for Beginners: Your First 30 Minutes (2026)"
 slug: "chatgpt-tutorial-beginners"
-description: "Learn ChatGPT in 30 minutes. From your first prompt to advanced tricks — a practical guide that skips the theory and gets you productive fast."
+description: "New to ChatGPT? This quickstart gets you from zero to productive in 30 minutes. Write your first prompt, avoid common mistakes, and see real examples."
 publishDate: 2026-01-05
-updatedDate: 2026-02-02
+updatedDate: 2026-04-05
 author: "bored chap"
 image: "./chatgpt.webp"
 tags: ["ChatGPT", "AI", "Tutorial", "Beginners"]
