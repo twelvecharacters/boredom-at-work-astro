@@ -49,7 +49,7 @@ If you're still setting up your investing toolkit, start with the [Investing Too
 
 **Price:** Free / Pro ~$50/year | **Platforms:** iOS, Android, Web
 
-Stock Events has become the go-to dividend tracker, and it earned that spot. The free tier gives you what most people need: a clean dividend calendar, income projections, payment history, and portfolio tracking for up to 15 holdings.
+[Stock Events](https://stockevents.app) has become the go-to dividend tracker, and it earned that spot. The free tier gives you what most people need: a clean dividend calendar, income projections, payment history, and portfolio tracking for up to 15 holdings.
 
 ### What You Get (Free)
 
@@ -82,7 +82,7 @@ The 15-holding limit on the free tier is generous but limiting if you have a div
 
 **Price:** Free (10 holdings) / Investor ~$12/mo / Expert ~$24/mo | **Platforms:** Web, iOS, Android
 
-Sharesight is the serious choice. If you care about tax-loss harvesting, cost basis tracking, and year-end tax reports, this is the tool.
+[Sharesight](https://www.sharesight.com) is the serious choice. If you care about tax-loss harvesting, cost basis tracking, and year-end tax reports, this is the tool.
 
 ### What You Get
 
@@ -179,7 +179,7 @@ The free tier lets you track unlimited holdings but limits historical data and s
 
 **Price:** Free (basic research) | **Platforms:** Web
 
-Dividend.com isn't a portfolio tracker — it's a dividend research database. But it's so useful for dividend investors that it belongs on this list.
+[Dividend.com](https://www.dividend.com) isn't a portfolio tracker — it's a dividend research database. But it's so useful for dividend investors that it belongs on this list.
 
 ### What You Get
 

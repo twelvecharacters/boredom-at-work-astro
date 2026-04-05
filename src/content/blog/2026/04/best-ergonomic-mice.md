@@ -47,7 +47,7 @@ Here are the 7 best ergonomic mice I've tested, with honest thoughts on each.
 **DPI:** 8000 | **Battery:** 70 days (USB-C rechargeable) | **Weight:** 141g
 **Connectivity:** Bluetooth + Logi Bolt USB receiver
 
-The MX Master 3S isn't technically a "vertical" or "ergonomic-specific" mouse — but its sculpted shape is one of the most comfortable designs you'll use for 8-hour work days. It's the mouse I keep coming back to.
+The [Logitech MX Master 3S](https://www.logitech.com/en-us/products/mice/mx-master-3s.html) isn't technically a "vertical" or "ergonomic-specific" mouse — but its sculpted shape is one of the most comfortable designs you'll use for 8-hour work days. It's the mouse I keep coming back to.
 
 **What makes it special:**
 
@@ -74,7 +74,7 @@ The thumb rest creates a natural, relaxed hand position that reduces forearm ten
 **DPI:** 4000 | **Battery:** 24 months (1x AA) | **Weight:** 125g
 **Connectivity:** Bluetooth + Logi Bolt USB receiver
 
-The Lift is the vertical mouse that actually convinced me vertical mice aren't just a gimmick. Most vertical mice feel awkward and cheap. The Lift feels like a regular mouse that happens to be tilted 57 degrees.
+The [Logitech Lift](https://www.logitech.com/en-us/products/mice/lift-vertical-ergonomic-mouse.html) is the vertical mouse that actually convinced me vertical mice aren't just a gimmick. Most vertical mice feel awkward and cheap. The Lift feels like a regular mouse that happens to be tilted 57 degrees.
 
 **What makes it special:**
 
@@ -129,7 +129,7 @@ The trackball itself is precise enough for real work. Not pixel-perfect Photosho
 **DPI:** 1000 | **Battery:** ~9 months (2x AA) | **Weight:** 155g
 **Connectivity:** 2.4 GHz wireless (USB nano receiver)
 
-The Sculpt has been around for years, and for good reason — it's one of the cheapest ways to get genuine ergonomic relief. The dome shape looks weird, but it works.
+The [Microsoft Sculpt Ergonomic Mouse](https://www.microsoft.com/en-us/d/microsoft-sculpt-ergonomic-mouse/8vq0f96w6vgl) has been around for years, and for good reason — it's one of the cheapest ways to get genuine ergonomic relief. The dome shape looks weird, but it works.
 
 **What makes it special:**
 
@@ -156,7 +156,7 @@ At ~$40, it's half the price of the Logitech Lift and a third of the MX Master 3
 **DPI:** 12000 | **Battery:** Up to 725 hours on Bluetooth (AA batteries) | **Weight:** 88g
 **Connectivity:** Bluetooth + Razer HyperSpeed 2.4 GHz
 
-If you split time between office and coffee shops, or you travel with a laptop, the Pro Click Mini is the best balance of portability and ergonomic design I've found. It's small, light, and surprisingly comfortable.
+If you split time between office and coffee shops, or you travel with a laptop, the [Razer Pro Click Mini](https://www.razer.com/productivity-mice/Razer-Pro-Click-Mini/RZ01-03990100-R3U1) is the best balance of portability and ergonomic design I've found. It's small, light, and surprisingly comfortable.
 
 **What makes it special:**
 

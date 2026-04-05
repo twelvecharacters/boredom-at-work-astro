@@ -49,8 +49,8 @@ This is the light directly illuminating your work surface. **300-500 lux** is th
 
 | Product | Price | Best For |
 |---------|-------|----------|
-| **BenQ ScreenBar Halo 2** | ~$179 | Premium — includes backlight for wall behind monitor |
-| **BenQ ScreenBar** | ~$109 | Best overall — 2,700K-6,500K, auto-dimming |
+| **[BenQ ScreenBar Halo 2](https://www.benq.com/en-us/lighting/monitor-light/)** | ~$179 | Premium — includes backlight for wall behind monitor |
+| **[BenQ ScreenBar](https://www.benq.com/en-us/lighting/monitor-light/)** | ~$109 | Best overall — 2,700K-6,500K, auto-dimming |
 | **Xiaomi Mi Monitor Light Bar** | ~$67 | Best value — CRI >95, wireless remote |
 | **Quntis Monitor Light Bar** | ~$30-40 | Budget — solid performance at half the price |
 
@@ -92,7 +92,7 @@ If you're on video calls regularly, you need light on your face. This is where m
 |---------|-------|----------|
 | **Elgato Key Light** | ~$200 | Full panel, app-controlled, professional quality |
 | **Elgato Key Light Mini** | ~$100 | Compact, wireless, USB-C |
-| **Logitech Litra Beam** | ~$100 | TrueSoft tech, great for desk mounting |
+| **[Logitech Litra Beam](https://www.logitech.com/en-us/products/lighting.html)** | ~$100 | TrueSoft tech, great for desk mounting |
 | **Logitech Litra Glow** | ~$50-60 | Budget monitor-mount option |
 | **White foam board** | Free | DIY fill light — reflects key light from opposite side |
 
@@ -106,7 +106,7 @@ If you prefer a traditional desk lamp (or need one in addition to a light bar):
 
 | Product | Price | Best For |
 |---------|-------|----------|
-| **BenQ eReading LED Desk Lamp** | ~$199 | Best overall — covers 35" x 27", auto-dimming |
+| **[BenQ eReading LED Desk Lamp](https://www.benq.com/en-us/lighting/desk-lamp/)** | ~$199 | Best overall — covers 35" x 27", auto-dimming |
 | **Dyson Solarcycle Morph** | ~$650 | Premium — auto-adjusts to time of day and location |
 | **Lepro LED Desk Lamp** | ~$25-30 | Budget — 5 color modes, 5 brightness levels |
 

@@ -49,7 +49,7 @@ That leaves about $30 of breathing room for tax or shipping.
 
 ### Why These Picks
 
-**The IKEA LAGKAPTEN/ADILS desk** is boring and that is exactly the point. For $70, you get a 55-inch tabletop on sturdy legs. It is not fancy. It does not wobble. It gives you plenty of space for a monitor, laptop, and some notebooks. The desk is rarely the thing that makes or breaks a setup — save your money here and put it into the chair.
+**The [IKEA LAGKAPTEN/ADILS desk](https://www.ikea.com/us/en/p/lagkapten-adils-desk-white-anthracite-black-s09417376/)** is boring and that is exactly the point. For $70, you get a 55-inch tabletop on sturdy legs. It is not fancy. It does not wobble. It gives you plenty of space for a monitor, laptop, and some notebooks. The desk is rarely the thing that makes or breaks a setup — save your money here and put it into the chair.
 
 **The Hbada mesh chair** is one of the better budget office chairs you can find under $150. Breathable mesh back, adjustable lumbar support, flip-up armrests (so you can tuck it under the desk), and a decent foam seat cushion. Is it a Herman Miller? Obviously not. But it is leagues better than whatever dining chair you are currently using. For more options in this range, I compared a bunch of them in [best office chairs for WFH](/best-office-chairs/).
 
@@ -82,9 +82,9 @@ OK, I know. That is $353 over $1,000. Here is how you bring it closer to budget:
 
 ### Why These Picks
 
-**The FlexiSpot E7** is a dual-motor standing desk with a solid steel frame, programmable height presets, and a 48-inch bamboo or laminate top. Alternating between sitting and standing throughout the day makes a huge difference — I noticed it within the first week. The E7 is one of the best-reviewed standing desks under $600 and holds its own against desks twice the price. For a deeper look at standing desks, see [best standing desks for WFH](/best-standing-desks/).
+**The [FlexiSpot E7](https://www.flexispot.com/flexispot-pro-standing-desk-e7)** is a dual-motor standing desk with a solid steel frame, programmable height presets, and a 48-inch bamboo or laminate top. Alternating between sitting and standing throughout the day makes a huge difference — I noticed it within the first week. The E7 is one of the best-reviewed standing desks under $600 and holds its own against desks twice the price. For a deeper look at standing desks, see [best standing desks for WFH](/best-standing-desks/).
 
-**The Autonomous ErgoChair Core** at $299 is a serious step up from budget chairs. Adjustable lumbar support, seat depth, armrests, backrest tilt, and headrest. The mesh back keeps you cool during long sessions. It does not have the brand cachet of a Steelcase or Herman Miller, but for the money, the adjustability is excellent.
+**The [Autonomous ErgoChair Core](https://www.autonomous.ai/office-chairs/ergochair-core)** at $299 is a serious step up from budget chairs. Adjustable lumbar support, seat depth, armrests, backrest tilt, and headrest. The mesh back keeps you cool during long sessions. It does not have the brand cachet of a Steelcase or Herman Miller, but for the money, the adjustability is excellent.
 
 **The Dell S2725QC** is a 27-inch 4K monitor with 120Hz, USB-C with 65W power delivery, and built-in dual 5W speakers. One cable from your laptop charges it and drives the display. At around $300, this is one of the best value 4K USB-C monitors you can buy right now. The jump from 24-inch 1080p to 27-inch 4K is dramatic — text is razor-sharp, and you can comfortably fit two documents side by side.
 

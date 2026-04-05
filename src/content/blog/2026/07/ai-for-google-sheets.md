@@ -41,9 +41,9 @@ Since October 2025, Gemini can handle multi-step tasks from a single prompt. So 
 
 ### How to Access It
 
-For personal Google accounts, you need **Google AI Pro** (previously called Google One AI Premium) at **$19.99/month**. That gets you Gemini in Sheets, Docs, Slides, Gmail, and the Gemini app itself.
+For personal Google accounts, you need **[Google AI Pro](https://one.google.com/about/ai-premium)** (previously called Google One AI Premium) at **$19.99/month**. That gets you Gemini in Sheets, Docs, Slides, Gmail, and the Gemini app itself.
 
-For work accounts, your admin needs **Google Workspace Business Standard** ($14/user/month) or higher.
+For work accounts, your admin needs **[Google Workspace Business Standard](https://workspace.google.com/pricing)** ($14/user/month) or higher.
 
 A new feature rolling out in March 2026 is **conversation history** in the side panel, so you can pick up where you left off instead of re-explaining your data every time you open the sheet.
 
@@ -67,7 +67,7 @@ Done. Two prompts, maybe 20 seconds total, and you have a presentation-ready sum
 
 Here is the thing about Gemini: it is great when you are already inside Sheets. But sometimes you need a formula that Gemini struggles with, or you want to understand the logic before pasting it in. That is where ChatGPT comes in.
 
-The workflow is simple: describe what you need in ChatGPT, copy the formula, paste it into your sheet. No add-on required.
+The workflow is simple: describe what you need in [ChatGPT](https://chatgpt.com/), copy the formula, paste it into your sheet. No add-on required.
 
 The trick is being specific. Tell ChatGPT:
 
@@ -119,7 +119,7 @@ If you work with Excel too, we have a dedicated piece on [using ChatGPT for Exce
 
 When Gemini and ChatGPT are not enough -- especially for bulk operations or running AI directly inside cells -- add-ons fill the gap.
 
-### 1. GPT for Sheets (by DocGPT.AI)
+### 1. [GPT for Sheets](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) (by DocGPT.AI)
 
 This is the heavyweight. It lets you run AI prompts directly in your cells using custom functions, and it supports multiple LLMs including ChatGPT, Claude, Gemini, and Perplexity.
 

@@ -17,7 +17,7 @@ faq:
 
 Japan is a dream destination—but planning a trip there can be overwhelming. Thousands of temples, complex train systems, language barriers, and seasonal timing all need consideration.
 
-This is where AI becomes invaluable. Here's how to use modern AI tools to plan your perfect Japan trip.
+This is where AI becomes invaluable. Here's how to use modern AI tools to plan your perfect Japan trip. For a comprehensive destination overview, [Japan-Guide.com](https://www.japan-guide.com) is the most trusted English resource on Japanese travel.
 
 ## Why Japan Needs AI Planning
 
@@ -60,6 +60,8 @@ Should I get a JR Pass or buy individual tickets?
 Calculate the actual costs for my itinerary.
 Consider the 2023 JR Pass price increase.
 ```
+
+You can purchase an official [JR Pass](https://www.jrpass.com) before leaving home — it must be bought outside Japan. For checking exact train times and routes, [Hyperdia](https://www.hyperdia.com) is the go-to English rail search tool.
 
 ### Itinerary Building
 
@@ -276,10 +278,10 @@ Help me with travel insurance:
 For my potential November 2026 trip:
 
 1. **Flight Agent** - Monitoring BER → NRT/KIX prices
-2. **ChatGPT** - Itinerary building and optimization
+2. **[ChatGPT](https://chatgpt.com)** - Itinerary building and optimization
 3. **Perplexity** - Restaurant research with current reviews
 4. **Gemini** - Real-time availability and current conditions
-5. **Google Maps** - Save locations, build day routes
+5. **[Google Maps](https://maps.google.com)** - Save locations, build day routes
 
 For more options, see our roundup of [best AI trip planners](/best-ai-trip-planners/) and [free AI travel tools](/free-ai-travel-tools/).
 

@@ -22,7 +22,7 @@ I’ve been obsessed with E-ink technology ever since I bought my first Kindle (
 
 ## What exactly is TRMNL?
 
-At its core, TRMNL is a minimalist, Wi-Fi-connected E-ink display (typically 7.5 inches). It is powered by an ESP32 microcontroller, meaning it is incredibly energy-efficient. It’s designed to do one thing: show you "glanceable" information. 
+At its core, [TRMNL](https://usetrmnl.com) is a minimalist, Wi-Fi-connected E-ink display (typically 7.5 inches). It is powered by an [ESP32](https://www.espressif.com/en/products/socs/esp32) microcontroller, meaning it is incredibly energy-efficient. It’s designed to do one thing: show you "glanceable" information. 
 
 Unlike a secondary monitor, TRMNL has:
 - **No Backlight:** It reflects ambient light, making it look like a physical object or a printed page.
@@ -49,7 +49,7 @@ TRMNL isn't just a piece of hardware; it’s backed by a sophisticated cloud (or
 
 While the pre-built plugins are great, the real power of TRMNL for the *Boredom at Work* crowd is its **open-source friendliness**. This is a device built for people who like to tinker.
 
-If you’ve been following my [Gemini-enhanced coding workflow](/blog/archive/2026/04/how-gemini-changed-my-coding-flow/), you’ll realize how easy it is to create custom integrations for TRMNL. The device uses **Liquid**, the same templating engine used by Shopify, to render its screens.
+If you’ve been following my [Gemini-enhanced coding workflow](/blog/archive/2026/04/how-gemini-changed-my-coding-flow/), you’ll realize how easy it is to create custom integrations for TRMNL. The device uses **[Liquid](https://shopify.github.io/liquid/)**, the same templating engine used by Shopify, to render its screens.
 
 ### How to Build a Custom Screen:
 1. **The Data:** You provide a JSON endpoint. This could be a simple serverless function or a Python script running on your local machine.
@@ -72,7 +72,7 @@ Because E-ink only consumes power when the pixels *change*, it can sit on your d
 
 You might be thinking: *"Can't I just use a Tidbyt or an old iPad?"*
 
-**Tidbyt** is cool, but it uses bright LEDs. It’s essentially a glowing neon sign on your desk. It’s great for a living room, but in a focused office environment, the flickering LEDs can be annoying.
+**[Tidbyt](https://tidbyt.com)** is cool, but it uses bright LEDs. It’s essentially a glowing neon sign on your desk. It’s great for a living room, but in a focused office environment, the flickering LEDs can be annoying.
 
 **An old iPad** is a backlight nightmare. It emits blue light, requires constant charging, and will eventually overheat if left on 24/7. Plus, the temptations of the App Store are just a swipe away.
 

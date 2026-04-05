@@ -47,7 +47,7 @@ Now let's break each one down.
 
 **Price:** ~$400 (frequently on sale for ~$250-300)
 
-There's a reason the XM5 shows up on every "best headphones" list. It's not hype. These are genuinely the most well-rounded noise-canceling headphones you can buy for office work.
+There's a reason the [Sony WH-1000XM5](https://www.sony.com/en/articles/wh-1000xm5) shows up on every "best headphones" list. It's not hype. These are genuinely the most well-rounded noise-canceling headphones you can buy for office work.
 
 ### Key Specs
 
@@ -78,7 +78,7 @@ The "I want one pair that does everything well" person. If you take calls, liste
 
 **Price:** ~$549
 
-Yes, they're expensive. Yes, the Smart Case is still weird. But if your desk has a MacBook, your pocket has an iPhone, and your wrist has an Apple Watch, nothing else integrates this seamlessly.
+Yes, they're expensive. Yes, the Smart Case is still weird. But if your desk has a MacBook, your pocket has an iPhone, and your wrist has an Apple Watch, nothing else integrates this seamlessly. [Apple's AirPods Max product page](https://www.apple.com/airpods-max/) has the full specs and color options.
 
 ### Key Specs
 
@@ -117,7 +117,7 @@ Speaking of which, if you prefer earbuds for a lighter feel, check out my [AirPo
 
 **Price:** ~$450
 
-Bose basically invented consumer noise canceling. The QC Ultra 2nd Gen is the latest proof that they're still the best at it.
+[Bose](https://www.bose.com/headphones/over-ear-headphones/quietcomfort-ultra-headphones) basically invented consumer noise canceling. The QC Ultra 2nd Gen is the latest proof that they're still the best at it.
 
 ### Key Specs
 
@@ -272,7 +272,7 @@ If your workday is 60% meetings and you need headphones that make you sound as g
 
 ### Why It's Great for Office Use
 
-JBL's 4-mic crystal-clear call algorithm is purpose-built for phone and video calls. It isolates your voice and suppresses background noise more aggressively than general-purpose ANC headphones. In testing, people on the other end of calls said I sounded noticeably clearer compared to the Sony and Bose.
+JBL's 4-mic crystal-clear call algorithm is purpose-built for phone and video calls. The [JBL Tour One M2](https://www.jbl.com/headphones/TOUR+ONE+M2.html) is specifically engineered for meeting-heavy workdays. It isolates your voice and suppresses background noise more aggressively than general-purpose ANC headphones. In testing, people on the other end of calls said I sounded noticeably clearer compared to the Sony and Bose.
 
 Smart Talk is a standout feature: start speaking and the headphones automatically lower your music volume and activate the external microphones. No button pressing, no taking headphones off. When you stop talking, music fades back in.
 

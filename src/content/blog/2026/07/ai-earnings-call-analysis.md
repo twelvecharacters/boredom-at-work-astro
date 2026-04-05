@@ -51,6 +51,7 @@ The Q&A section is the most valuable part. That's where analysts push management
 | [Koyfin](https://www.koyfin.com/) | 100,000+ global stocks | Free (45 days history) |
 | Company IR pages | That specific company | Free |
 | [MarketBeat](https://www.marketbeat.com/) | S&P 500 calls | Free |
+| [EarningsWhispers](https://www.earningswhispers.com/) | Earnings calendar + whisper numbers | Free |
 
 **Best method:** Go to the company's Investor Relations page and download the PDF directly. It's the most reliable and complete source.
 

@@ -20,7 +20,7 @@ faq:
 
 One of these chairs is overpriced. The other is overrated. After spending weeks working from both, I'm not sure which is which anymore.
 
-The Secretlab Titan Evo and the Herman Miller Aeron sit at opposite ends of the premium chair spectrum. One comes from gaming culture and costs around $550. The other is a 30-year-old design icon that runs $1,400 and up. Both claim to be the best seat for long work sessions.
+The [Secretlab Titan Evo](https://secretlab.co/collections/titan-series) and the [Herman Miller Aeron](https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/) sit at opposite ends of the premium chair spectrum. One comes from gaming culture and costs around $550. The other is a 30-year-old design icon that runs $1,400 and up. Both claim to be the best seat for long work sessions.
 
 I put both through real 8-10 hour workdays—not a quick showroom test, not a weekend tryout. Here's what I found.
 
@@ -47,7 +47,7 @@ Neither chair is objectively "better." But they serve very different people.
 
 ## Ergonomics: Where the Real Differences Live
 
-The Aeron's ergonomic pedigree is hard to argue with. The PostureFit SL system uses two independent pads that support both the lumbar and sacral regions of your spine. You don't adjust it much—you set it once and forget it. The 8Z Pellicle mesh has eight tension zones that distribute your weight differently across the seat and back. It's passive support done right.
+The Aeron's ergonomic pedigree is hard to argue with. Herman Miller has published [extensive research and documentation](https://www.hermanmiller.com/research/categories/white-papers/aeron-chair-research-summary/) on the Aeron's design principles. The PostureFit SL system uses two independent pads that support both the lumbar and sacral regions of your spine. You don't adjust it much—you set it once and forget it. The 8Z Pellicle mesh has eight tension zones that distribute your weight differently across the seat and back. It's passive support done right.
 
 The Titan Evo takes an active approach. The 4-way L-ADAPT lumbar system lets you adjust depth and height independently using two dials on the back of the chair. That's more control than most dedicated office chairs offer. You can dial it in exactly where you need it, which is great if you know what you want. The magnetic headrest pillow is a bonus the Aeron doesn't match—useful for leaning back during calls or thinking breaks.
 

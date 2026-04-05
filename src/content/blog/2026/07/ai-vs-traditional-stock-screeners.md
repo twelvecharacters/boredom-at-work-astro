@@ -46,7 +46,7 @@ Same goal, completely different approach.
 
 ## Traditional Screeners: What They Do Well
 
-### Finviz
+### [Finviz](https://finviz.com/)
 
 The industry standard for a reason. Clean, fast, visual.
 
@@ -63,7 +63,7 @@ The industry standard for a reason. Clean, fast, visual.
 
 **Limitation:** No pre-built screen templates. You need to know which filters to set.
 
-### TradingView
+### [TradingView](https://www.tradingview.com/)
 
 The strongest charting platform with a solid screener built in.
 
@@ -126,7 +126,7 @@ Similar capabilities to ChatGPT for screening, with two advantages:
 
 ### Perplexity (The Best of Both Worlds)
 
-This is the dark horse. Perplexity Finance has a **built-in stock screener** at perplexity.ai/finance with:
+This is the dark horse. Perplexity Finance has a **built-in stock screener** at [perplexity.ai/finance](https://www.perplexity.ai/finance) with:
 
 - Natural language screening with real-time data
 - Sources from 40+ finance providers (FactSet, S&P Global, Coinbase, LSEG)

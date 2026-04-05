@@ -49,7 +49,7 @@ If you want to [practice with fake money first](/best-paper-trading-apps/) (hone
 
 **Commissions:** $0 stocks/ETFs, $0.65/options contract | **Minimum:** $0 | **Fractional Shares:** Yes, from $1
 
-If I had to recommend one app to someone who's never invested before, it's Fidelity. No contest.
+If I had to recommend one app to someone who's never invested before, it's [Fidelity](https://www.fidelity.com). No contest.
 
 ### Why It Stands Out
 
@@ -97,7 +97,7 @@ Beginners who take learning seriously and want room to grow. If you see yourself
 
 **Commissions:** $0 stocks/ETFs, $0.50/options contract ($0.35 with Gold) | **Minimum:** $0 | **Fractional Shares:** Yes, from $1
 
-Love it or hate it, Robinhood made investing accessible to an entire generation. And despite the controversies, the app itself is genuinely good for beginners.
+Love it or hate it, [Robinhood](https://robinhood.com) made investing accessible to an entire generation. And despite the controversies, the app itself is genuinely good for beginners.
 
 ### Why It Stands Out
 
@@ -179,7 +179,7 @@ People who want to simplify their entire financial life in one app. If you're cu
 
 **Commissions:** $0 stocks/ETFs/options | **Minimum:** $0 | **Fractional Shares:** Yes, from $1
 
-Webull sits in an interesting middle ground — more advanced than Robinhood, less overwhelming than thinkorswim. If you're a beginner who wants to actually learn how to analyze stocks rather than just buy and hold, Webull is compelling.
+[Webull](https://www.webull.com) sits in an interesting middle ground — more advanced than Robinhood, less overwhelming than thinkorswim. If you're a beginner who wants to actually learn how to analyze stocks rather than just buy and hold, Webull is compelling.
 
 ### Why It Stands Out
 
@@ -205,7 +205,7 @@ Beginners who lean toward active trading and want to learn technical analysis. I
 
 **Commissions:** N/A (managed portfolio) | **Minimum:** $5 | **Fractional Shares:** Automated
 
-Acorns takes a completely different approach: you don't pick stocks at all. The app invests your spare change automatically, and a robo-advisor manages everything.
+[Acorns](https://www.acorns.com) takes a completely different approach: you don't pick stocks at all. The app invests your spare change automatically, and a robo-advisor manages everything.
 
 ### Why It Stands Out
 

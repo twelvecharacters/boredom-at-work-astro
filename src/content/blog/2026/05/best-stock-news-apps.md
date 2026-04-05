@@ -49,7 +49,7 @@ If you're newer to investing, you might want to pair these news apps with a [goo
 
 **Price:** Free (limited) / ~$35/mo subscription / ~$400/yr | **Platforms:** iOS, Android, Web
 
-If the stock market had a paper of record, it would be Bloomberg. This is the gold standard for financial journalism, and the app delivers a surprisingly good experience even if you're not paying $25,000/year for a Bloomberg Terminal.
+If the stock market had a paper of record, it would be [Bloomberg](https://www.bloomberg.com). This is the gold standard for financial journalism, and the app delivers a surprisingly good experience even if you're not paying $25,000/year for a Bloomberg Terminal.
 
 ### What Makes It Stand Out
 
@@ -97,7 +97,7 @@ Everyone, honestly. Whether you're a complete beginner tracking your first ETF o
 
 **Price:** Free (limited) / Premium: ~$299/yr / Alpha Picks Bundle: ~$559/yr | **Platforms:** iOS, Android, Web
 
-If Yahoo Finance gives you the headlines, Seeking Alpha gives you the essays. This is where you go when you want to actually understand *why* a stock is moving, not just *that* it's moving.
+If Yahoo Finance gives you the headlines, [Seeking Alpha](https://seekingalpha.com) gives you the essays. This is where you go when you want to actually understand *why* a stock is moving, not just *that* it's moving.
 
 ### What Makes It Stand Out
 
@@ -121,7 +121,7 @@ Investors who want to understand the thesis behind a stock, not just its price a
 
 **Price:** Basic: ~$27/mo / Essential: ~$166/mo (annual) / 14-day free trial | **Platforms:** iOS, Android, Web
 
-Benzinga Pro is the app that professional day traders use when milliseconds matter. If you need to know about a breaking FDA approval or an earnings surprise *before* the price moves, this is what you want.
+[Benzinga Pro](https://pro.benzinga.com) is the app that professional day traders use when milliseconds matter. If you need to know about a breaking FDA approval or an earnings surprise *before* the price moves, this is what you want.
 
 ### What Makes It Stand Out
 
@@ -145,7 +145,7 @@ Active traders and day traders who need news speed as a competitive edge. If you
 
 **Price:** Mostly free / Subscription: ~$2-4/mo (promo), ~$7/mo regular | **Platforms:** iOS, Android, Web
 
-MarketWatch is what happens when you combine solid financial journalism with an interface that doesn't assume you already have an MBA. It's part of the Dow Jones family alongside The Wall Street Journal and Barron's, which means the reporting is credible without being intimidating.
+[MarketWatch](https://www.marketwatch.com) is what happens when you combine solid financial journalism with an interface that doesn't assume you already have an MBA. It's part of the Dow Jones family alongside The Wall Street Journal and Barron's, which means the reporting is credible without being intimidating.
 
 ### What Makes It Stand Out
 

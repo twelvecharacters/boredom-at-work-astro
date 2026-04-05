@@ -15,7 +15,7 @@ faq:
     answer: "Gemini has a generous free tier with daily limits on advanced models. For higher limits, Google AI Pro costs $20/month."
 ---
 
-While ChatGPT dominates the AI travel planning conversation, Google Gemini has a secret weapon: real-time information. Unlike ChatGPT's free tier, Gemini can access current prices, check today's weather, and pull live data from across the web.
+While ChatGPT dominates the AI travel planning conversation, [Google Gemini](https://gemini.google.com) has a secret weapon: real-time information. Unlike ChatGPT's free tier, Gemini can access current prices, check today's weather, and pull live data from across the web.
 
 Here's how to leverage Gemini's unique strengths for travel planning.
 
@@ -34,9 +34,9 @@ Gemini can. It searches the web in real-time, giving you current information ins
 ### Google Ecosystem Integration
 
 Gemini plays nicely with:
-- **Google Flights** - Actual prices and routes
-- **Google Maps** - Real distances and travel times
-- **Google Hotels** - Current availability and rates
+- **[Google Flights](https://www.google.com/travel/flights)** - Actual prices and routes
+- **[Google Maps](https://maps.google.com)** - Real distances and travel times
+- **[Google Hotels](https://www.google.com/travel/hotels)** - Current availability and rates
 - **Google Reviews** - Recent traveler feedback
 
 This integration means you can go from planning to booking without leaving the Google ecosystem.
@@ -250,7 +250,7 @@ Gemini is more transactional than ChatGPT. It answers questions but doesn't buil
 For off-the-beaten-path recommendations, Gemini tends toward popular, well-reviewed options. ChatGPT and Claude are more creative.
 
 **No Trip Organization**
-Gemini doesn't have built-in trip planning features. You'll need to transfer plans to a dedicated app like Wanderlog or Mindtrip.
+Gemini doesn't have built-in trip planning features. You'll need to transfer plans to a dedicated app like [Wanderlog](https://wanderlog.com) or Mindtrip.
 
 **Occasional Overload**
 Gemini sometimes provides too much information, making it harder to find what you need. Be specific in your prompts.

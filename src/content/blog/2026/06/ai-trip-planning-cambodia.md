@@ -15,7 +15,7 @@ faq:
     answer: "November to March (dry season) is ideal. November is excellent—dry season starting, fewer crowds than December-February. AI helps optimize timing."
 ---
 
-Cambodia is Southeast Asia's hidden gem. Angkor Wat alone justifies the trip, but there's so much more: floating villages, pristine beaches, dark history, and genuine hospitality.
+Cambodia is Southeast Asia's hidden gem. Angkor Wat alone justifies the trip, but there's so much more: floating villages, pristine beaches, dark history, and genuine hospitality. The [Tourism Cambodia](https://www.tourismcambodia.com) website is the official source for visa information, regional guides, and entry requirements.
 
 Here's how to use AI to plan an unforgettable Cambodia adventure.
 
@@ -171,6 +171,8 @@ Which offers best value for my planned visits?
 Can I see enough in [X] days?
 ```
 
+Passes must be purchased at the official [Angkor Enterprise](https://www.angkorfoundation.org) ticket office near the Angkor Wat entrance — third-party sellers are not authorized.
+
 ### Temple Priorities
 
 ```
@@ -216,6 +218,8 @@ Cambodia is very affordable:
 | Mid-range | $50-80 |
 | Comfort | $100-150 |
 | Luxury | $200+ |
+
+Transport within cities is easy with [Grab](https://www.grab.com), which operates in Phnom Penh and Siem Reap and removes the haggling often required with traditional tuk-tuks.
 
 Ask AI for detailed breakdowns:
 ```

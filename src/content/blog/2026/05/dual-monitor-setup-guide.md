@@ -48,7 +48,7 @@ This isn't a "do you need dual monitors?" article. You do. Here's why:
 - **Spreadsheet heaven:** Full spreadsheet on the primary monitor, source data or dashboards on the secondary.
 - **Easier multitasking:** Drag-and-drop between screens, compare documents side by side, monitor dashboards while working.
 
-Research from the University of Utah found that dual monitors can increase productivity by 20-30% for common office tasks. You'll feel it the first day.
+Research from the [University of Utah](https://www.cs.utah.edu/~jobl/multitasking.pdf) found that dual monitors can increase productivity by 20-30% for common office tasks. You'll feel it the first day.
 
 ---
 
@@ -78,7 +78,7 @@ Most desktop GPUs have:
 - 1x HDMI
 - Sometimes 1x USB-C
 
-Two DisplayPort cables give you the best quality and highest resolution/refresh rate support. HDMI works fine for office work.
+Two [DisplayPort](https://www.displayport.org) cables give you the best quality and highest resolution/refresh rate support. HDMI works fine for office work.
 
 ### What Cables Do You Need?
 
@@ -112,7 +112,7 @@ Two DisplayPort cables give you the best quality and highest resolution/refresh 
 4. Your laptop charges through the dock too — one cable does everything
 
 **Option C: Monitor daisy-chaining (DisplayPort)**
-Some monitors with DisplayPort 1.2+ output support daisy-chaining: Laptop → Monitor 1 → Monitor 2. Check your monitor's specs for "DisplayPort Out" or "MST" (Multi-Stream Transport). This avoids needing two cables from your laptop.
+Some monitors with DisplayPort 1.2+ output support daisy-chaining: Laptop → Monitor 1 → Monitor 2. Check your monitor's specs for "DisplayPort Out" or "MST" ([Multi-Stream Transport](https://www.vesa.org/featured-articles/vesa-displayport-multistream-transport-mst-update/)). This avoids needing two cables from your laptop.
 
 ### Desktop Setup
 

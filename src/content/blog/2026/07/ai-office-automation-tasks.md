@@ -30,8 +30,8 @@ Here are 7 tasks you can automate today — no coding required, most in under 30
 | Tool | Free Tier | Paid | Best For |
 |------|-----------|------|----------|
 | [ChatGPT](/chatgpt-guide/) | Yes | Plus: $20/month | Drafting, analysis, scheduled tasks |
-| **Zapier** | 100 tasks/month | From $19.99/month | Connecting apps, simple automations |
-| **Make.com** | 1,000 ops/month | From ~$9/month | Complex workflows, budget-friendly |
+| **[Zapier](https://zapier.com/)** | 100 tasks/month | From $19.99/month | Connecting apps, simple automations |
+| **[Make.com](https://www.make.com/)** | 1,000 ops/month | From ~$9/month | Complex workflows, budget-friendly |
 | **Power Automate** | Basic with M365 | $15/user/month | Microsoft ecosystem |
 | **Google Workspace Studio** | With Workspace | $7/user/month | Google ecosystem |
 
@@ -47,7 +47,7 @@ You can do most of what follows with just the free tiers.
 
 **Basic (ChatGPT):** Create a custom GPT with your writing style and common response templates. Paste incoming emails, get draft responses in seconds.
 
-**Advanced (Zapier + ChatGPT):**
+**Advanced ([Zapier](https://zapier.com/) + ChatGPT):**
 1. New email arrives in Gmail/Outlook
 2. Zapier sends the email content to ChatGPT
 3. ChatGPT classifies it (urgent / FYI / action needed / spam)

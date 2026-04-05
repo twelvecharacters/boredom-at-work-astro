@@ -49,7 +49,7 @@ If you're more into traditional investing, check out the [best investing apps fo
 
 **Price:** Free (Premium ~$8/mo billed annually) | **Exchanges:** Manual entry | **Coins:** 15,000+
 
-If you just want to track what you own without connecting anything, CoinGecko is the answer. It's the tracker I recommend to anyone who says "I just want to see my portfolio in one place without giving away my API keys."
+If you just want to track what you own without connecting anything, [CoinGecko](https://www.coingecko.com) is the answer. It's the tracker I recommend to anyone who says "I just want to see my portfolio in one place without giving away my API keys."
 
 **What makes it special:**
 
@@ -76,7 +76,7 @@ CoinGecko tracks over 15,000 cryptocurrencies with real-time pricing data. You c
 
 **Price:** Free | **Exchanges:** API + on-chain addresses | **Coins:** 20,000+
 
-CoinMarketCap is the website every crypto person has open in a browser tab at all times. It's the default place people go to check prices, and its portfolio tracker is a solid — if basic — addition to that core experience.
+[CoinMarketCap](https://coinmarketcap.com) is the website every crypto person has open in a browser tab at all times. It's the default place people go to check prices, and its portfolio tracker is a solid — if basic — addition to that core experience.
 
 **What makes it special:**
 
@@ -136,7 +136,7 @@ CoinStats also offers a 7-day free trial for the yearly Premium plan.
 
 **Price:** Free / PRO ~$100/yr / PRO+ (higher tier) | **Exchanges:** 300+ | **Multi-asset:** Yes
 
-Delta (now owned by eToro) has the cleanest mobile experience of any tracker I tested. It's the one I actually enjoy opening on my phone — which says a lot for a finance app.
+[Delta](https://delta.app) (now owned by eToro) has the cleanest mobile experience of any tracker I tested. It's the one I actually enjoy opening on my phone — which says a lot for a finance app.
 
 **What makes it special:**
 
@@ -167,7 +167,7 @@ Delta isn't just a crypto tracker. It tracks stocks, ETFs, forex, commodities, a
 
 **Price:** Free (no report exports) / $49-279/yr | **Exchanges:** 400+ | **Countries:** 20+
 
-Tax season with crypto is a nightmare. I say this as someone who once tried to manually calculate cost basis across three exchanges and two wallets. Koinly exists to make that specific nightmare go away.
+Tax season with crypto is a nightmare — I say this as someone who once tried to manually calculate cost basis across three exchanges and two wallets. [Koinly](https://koinly.io) exists to make that specific nightmare go away.
 
 **What makes it special:**
 

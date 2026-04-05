@@ -48,7 +48,7 @@ I went through a pile of desk mats across every price point—from $8 Amazon spe
 **Sizes:** 11"x25", 11.5"x38", 15.75"x38", 26"x38.5", 26.5"x49"
 **Thickness:** 3.5mm
 
-Grovemade doesn't make desk mats. They make desk *surfaces*. The Matte Desk Pad is made from natural linoleum—a material composed of linseed oil, natural pine rosin, wood flour, and calcium carbonate. It sounds weird. It feels incredible.
+[Grovemade](https://grovemade.com/product/matte-desk-pad/) doesn't make desk mats. They make desk *surfaces*. The Matte Desk Pad is made from natural linoleum—a material composed of linseed oil, natural pine rosin, wood flour, and calcium carbonate. It sounds weird. It feels incredible.
 
 The surface has a subtle texture, almost like premium paper. Writing on it with a pen feels better than writing on your desk. Mouse tracking is smooth and consistent. The cork backing keeps it firmly in place without any adhesive, and every edge is hand-sanded flush.
 
@@ -67,7 +67,7 @@ Made in Portland, Oregon. Five size options from a compact keyboard pad to a ful
 **Sizes:** Medium (27"x15"), Large (35"x17")
 **Thickness:** 4.9mm
 
-The Orbitkey Desk Mat is the Swiss Army knife of desk pads. It has two features no other mat on this list offers: a **magnetic cable holder** built into the top edge and a **document hideaway** where you can tuck loose papers, sticky notes, or that receipt you'll definitely need later.
+The [Orbitkey Desk Mat](https://www.orbitkey.com/products/orbitkey-desk-mat) is the Swiss Army knife of desk pads. It has two features no other mat on this list offers: a **magnetic cable holder** built into the top edge and a **document hideaway** where you can tuck loose papers, sticky notes, or that receipt you'll definitely need later.
 
 The vegan leather surface is water-repellent and wipes clean easily. The recycled PET felt bottom adds a touch of sustainability cred and keeps the mat from sliding around. Build quality is solid—the edges are clean, the magnets are strong enough to hold cables without being a pain to remove.
 
@@ -142,7 +142,7 @@ The micro-texture cloth provides excellent mouse tracking for both optical and l
 
 This is the desk mat you buy when you've accepted that your home office is a permanent part of your life and you want it to look like it.
 
-Harber London uses full-grain leather—the same quality you'd find in a high-end wallet or bag. It's handcrafted in Spain in a solar-powered workshop, which is a nice detail but honestly, you're buying this for the leather. It's soft, it smells incredible when new, and it develops a patina over years of use that makes it look *better*, not worse.
+[Harber London](https://www.harberlondon.com/collections/desk-mats) uses full-grain leather—the same quality you'd find in a high-end wallet or bag. It's handcrafted in Spain in a solar-powered workshop, which is a nice detail but honestly, you're buying this for the leather. It's soft, it smells incredible when new, and it develops a patina over years of use that makes it look *better*, not worse.
 
 The underside options are wool felt (warmer, more cushion) or microfiber (thinner, sticks better to smooth desks). A cut-through cable hole lets you route a charging cable neatly through the mat.
 

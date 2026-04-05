@@ -87,7 +87,7 @@ You don't need dozens of products. These four handle 90% of situations.
 - Adjustable (add or remove cables later)
 - Won't damage cables (zip ties can cut into insulation)
 
-**Best option:** VELCRO Brand ONE-WRAP ties—the original and still the best. A 50-pack costs ~$10 and lasts years.
+**Best option:** [VELCRO Brand ONE-WRAP](https://www.velcro.com/products/ties-and-straps/) ties—the original and still the best. A 50-pack costs ~$10 and lasts years.
 
 ---
 
@@ -100,7 +100,7 @@ You don't need dozens of products. These four handle 90% of situations.
 |------|----------|
 | **Single clips** | Individual cables (charging cables, headphone cable) |
 | **Multi-channel clips** | Multiple cables running same direction |
-| **3M Command clips** | Damage-free removal (rentals) |
+| **[3M Command clips](https://www.command.com/3M/en_US/command/)** | Damage-free removal (rentals) |
 
 **Pro tip:** Place clips every 12-18 inches along your cable path.
 
@@ -113,7 +113,7 @@ You don't need dozens of products. These four handle 90% of situations.
 **Best options:**
 | Product | Length | Price |
 |---------|--------|-------|
-| **SimpleCord J-Channel** | 5x 16" pieces | ~$15 |
+| **[SimpleCord J-Channel](https://www.amazon.com/s?k=SimpleCord+J-Channel+cable+management)** | 5x 16" pieces | ~$15 |
 | **EVEO J-Channel** | 6x 16" pieces | ~$20 |
 | **Delamu Cable Management** | 4x 16" pieces + accessories | ~$18 |
 

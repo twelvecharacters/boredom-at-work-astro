@@ -44,7 +44,7 @@ The "spaghetti monster" of cables under your desk isn't just ugly—it's a dust 
 *   **Search for:** "Modular Under-Desk Cable Tray" or "J-Hook Cable Manager."
 
 ## 2. The Gridfinity System
-Created by Zack Freedman, Gridfinity is the "open-source standard for desk organization." It’s a grid-based system where every bin, pen holder, and SD card tray locks into a baseplate. Once you print your first baseplate, you’ll never look at a drawer the same way again.
+Created by Zack Freedman, Gridfinity is the "open-source standard for desk organization." It’s a grid-based system where every bin, pen holder, and SD card tray locks into a baseplate. Once you print your first baseplate, you’ll never look at a drawer the same way again. You can find the full collection of Gridfinity files on [Printables](https://www.printables.com/model/274054-gridfinity-rebuilt-in-openscad) and [Thangs](https://thangs.com/search/gridfinity).
 
 *   **The Problem:** "Junk drawers" where batteries, paperclips, and thumb drives live in a chaotic soup.
 *   **The Solution:** A 4x4 or 5x5 grid baseplate and custom-sized bins for every specific tool you use.
@@ -155,6 +155,6 @@ When you add up the cost of these 10 items, the total filament usage is less tha
 
 But the real "return on investment" isn't the money saved; it’s the friction removed. When every tool has a home and every cable is routed, you stop fighting your environment and start working in it.
 
-**What’s the most useful thing you’ve printed for your desk?** Let us know or share your setup on [Social Link]!
+**What’s the most useful thing you’ve printed for your desk?** Let us know or share your setup! Find more free models to print on [Printables](https://www.printables.com), [Thingiverse](https://www.thingiverse.com), and [Thangs](https://thangs.com).
 
 *New to the hobby? Check out our [Best 3D Printers Under $300](/best-3d-printers-under-300/) guide to find the machine that will build your next upgrade.*

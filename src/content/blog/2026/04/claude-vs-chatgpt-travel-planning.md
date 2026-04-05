@@ -174,9 +174,9 @@ Not because Claude was more accurate, but because Claude was more honest about l
 
 ### Tools and Integrations
 
-**ChatGPT** has web search built-in for checking real prices and availability.
+**[ChatGPT](https://chatgpt.com)** has web search built-in for checking real prices and availability.
 
-**Claude** now also has web search, narrowing the gap. Neither directly books travel, but both can find current pricing.
+**[Claude](https://claude.ai)** now also has web search, narrowing the gap. Neither directly books travel, but both can find current pricing.
 
 ### Knowledge Approach
 
@@ -188,14 +188,14 @@ Not because Claude was more accurate, but because Claude was more honest about l
 
 ## When to Use Each
 
-### Use ChatGPT When:
+### Use [ChatGPT](https://chatgpt.com) When:
 
 - You need a quick, standard itinerary
 - You want quick price checks via web search
 - Planning a popular destination with well-worn routes
 - You're short on time and need "good enough" fast
 
-### Use Claude When:
+### Use [Claude](https://claude.ai) When:
 
 - Planning a complex, multi-week trip
 - You want off-the-beaten-path recommendations
@@ -207,8 +207,8 @@ Not because Claude was more accurate, but because Claude was more honest about l
 
 This is our recommended approach:
 
-1. **Claude for research**: Initial brainstorming, detailed itinerary, nuanced recommendations
-2. **ChatGPT for price checking**: Quick web searches for current prices and availability
+1. **[Claude](https://claude.ai) for research**: Initial brainstorming, detailed itinerary, nuanced recommendations
+2. **[ChatGPT](https://chatgpt.com) for price checking**: Quick web searches for current prices and availability
 3. **Claude for refinement**: Adjusting based on constraints, getting alternatives
 
 ### For Dietary Restrictions

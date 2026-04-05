@@ -45,7 +45,7 @@ If you're brand new to investing, you might want to start with some [free invest
 
 **Price:** Free (Elite: ~$25/mo annual, ~$40/mo monthly) | **Data:** 15-20 minute delay | **Filters:** 70+
 
-If you only bookmark one stock screener, make it Finviz. It's been the gold standard for free screening for years, and nothing has dethroned it.
+If you only bookmark one stock screener, make it [Finviz](https://finviz.com). It's been the gold standard for free screening for years, and nothing has dethroned it.
 
 ### What Makes It Stand Out
 
@@ -69,7 +69,7 @@ Anyone who wants serious screening power without paying. If you understand basic
 
 **Price:** Free (Plus Bronze: ~$8/mo annual) | **Data:** Streaming quotes | **Filters:** ~30
 
-Yahoo Finance is the training wheels of stock screening — and I mean that as a compliment. If the idea of setting up 70 filters in Finviz sounds overwhelming, start here.
+[Yahoo Finance](https://finance.yahoo.com) is the training wheels of stock screening — and I mean that as a compliment. If the idea of setting up 70 filters in Finviz sounds overwhelming, start here.
 
 ### What Makes It Stand Out
 
@@ -93,7 +93,7 @@ Complete beginners who want to explore the market without getting overwhelmed. O
 
 **Price:** Free (Essential: ~$13/mo annual) | **Data:** Limited real-time | **Filters:** 100+
 
-TradingView is the one screener on this list that's genuinely integrated into a full charting platform. Most screeners dump you into a table of results. TradingView lets you go from screen to chart to analysis in seconds.
+[TradingView](https://www.tradingview.com) is the one screener on this list that's genuinely integrated into a full charting platform. Most screeners dump you into a table of results. TradingView lets you go from screen to chart to analysis in seconds.
 
 ### What Makes It Stand Out
 
@@ -284,7 +284,7 @@ Here's the short version:
 | Maximum free filters with modern UI | **Stock Analysis** |
 | Dividend-focused screening | **MarketBeat** |
 
-My personal setup: Finviz for quick daily scans, Stock Analysis for deep dives into financials, and TradingView when I want to check the technical picture. Three free tools, zero subscriptions, and an unreasonable amount of time spent on them during work hours.
+My personal setup: [Finviz](https://finviz.com) for quick daily scans, [Stock Analysis](https://stockanalysis.com) for deep dives into financials, and [TradingView](https://www.tradingview.com) when I want to check the technical picture. Three free tools, zero subscriptions, and an unreasonable amount of time spent on them during work hours.
 
 The best screener is the one you actually use consistently. Pick one, learn its filters, save a few presets, and check them regularly. You'll learn more about how markets work in a month of active screening than you will in a year of passively reading financial news.
 

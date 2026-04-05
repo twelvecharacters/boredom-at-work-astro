@@ -29,7 +29,7 @@ Here are the channels actually worth your time, organized by what you need, plus
 
 ## Best for Beginners
 
-### 1. The Plain Bagel (Richard Coffin)
+### 1. [The Plain Bagel](https://www.youtube.com/@ThePlainBagel) (Richard Coffin)
 
 **Subscribers:** ~1M+ | **Focus:** Demystifying finance
 
@@ -37,7 +37,7 @@ The best finance educator on YouTube, period. Richard is a CFA charterholder who
 
 **Start with:** "Stock Market for Beginners" or "Index Funds vs. Mutual Funds"
 
-### 2. Graham Stephan
+### 2. [Graham Stephan](https://www.youtube.com/@GrahamStephan)
 
 **Subscribers:** ~5.15M | **Focus:** Personal finance, real estate, credit
 
@@ -65,7 +65,7 @@ Known for his card-trick intros and clean editing. Andrei covers ETFs, index fun
 
 ## Best for Intermediate Investors
 
-### 5. Ben Felix (PWL Capital)
+### 5. [Ben Felix](https://www.youtube.com/@BenFelixCSI) (PWL Capital)
 
 **Subscribers:** ~1M+ | **Focus:** Evidence-based investing
 
@@ -175,7 +175,7 @@ YouTube is an incredible free resource for learning about money. The channels ab
 2. Sven Carlin (stock analysis framework)
 3. The Swedish Investor (investing classics summarized)
 
-Pair YouTube learning with actual practice — check our [best paper trading apps](/best-paper-trading-apps/) to trade risk-free, or start with our [free investing courses](/best-free-investing-courses/) for structured learning. For AI-powered research, see how to use [ChatGPT for stock research](/chatgpt-stock-research/).
+Pair YouTube learning with actual practice — check our [best paper trading apps](/best-paper-trading-apps/) to trade risk-free, or start with our [free investing courses](/best-free-investing-courses/) for structured learning. For AI-powered research, see how to use [ChatGPT for stock research](/chatgpt-stock-research/). [Investopedia](https://www.investopedia.com/) is also an excellent companion resource for looking up any financial term or concept you encounter in these videos.
 
 ---
 

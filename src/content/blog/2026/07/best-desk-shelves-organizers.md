@@ -31,8 +31,8 @@ A desk shelf is the single biggest visual and functional upgrade for a cluttered
 
 | Product | Price Range | Material | Made In |
 |---------|------------|----------|---------|
-| **Grovemade Desk Shelf** | $220-590 | American hardwood + aluminum + cork | Portland, OR (USA) |
-| **Oakywood Desk Shelf** | $130-340 | Solid walnut or oak | Poland (EU) |
+| **[Grovemade Desk Shelf](https://grovemade.com/desk-shelves/)** | $220-590 | American hardwood + aluminum + cork | Portland, OR (USA) |
+| **[Oakywood Desk Shelf](https://oakywood.shop/collections/desk-shelf)** | $130-340 | Solid walnut or oak | Poland (EU) |
 | **Balolo Setup Cockpit** | $200+ | Premium wood + modular accessories | Germany |
 
 **Grovemade** is the gold standard — handmade, beautiful, and built to last decades. The oak shelf starts at ~$220 (small) and goes up to ~$590 for the blackened walnut XL. A fully decked-out Grovemade system (shelf + accessories) can run $1,000+. Worth it if you want buy-it-for-life quality.
@@ -100,7 +100,7 @@ If desk space is limited, go vertical.
 
 | Product | Price | Best For |
 |---------|-------|----------|
-| **IKEA SKADIS** | ~$24-69 | Budget — huge accessory ecosystem |
+| **[IKEA SKADIS](https://www.ikea.com/us/en/cat/skadis-series-37512/)** | ~$24-69 | Budget — huge accessory ecosystem |
 | **Wall Control Metal Pegboard** | ~$42-120 | Premium — 20-gauge steel, 10x stronger |
 
 **IKEA SKADIS** is the go-to for home offices. Multiple sizes, tons of accessories (shelves, hooks, containers, letter holders), and affordable. The white version looks clean in any setup.

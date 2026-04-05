@@ -15,7 +15,7 @@ faq:
     answer: "It varies by region. November-April is best for the south, March-April for the north. Central Vietnam is trickiest. AI can help plan around the weather."
 ---
 
-Vietnam offers incredible value: world-class food, stunning landscapes, rich history, and welcoming people—all at budget-friendly prices. The challenge? It's a long, narrow country with varying climates and overwhelming options.
+Vietnam offers incredible value: world-class food, stunning landscapes, rich history, and welcoming people—all at budget-friendly prices. The challenge? It's a long, narrow country with varying climates and overwhelming options. The [Vietnam National Administration of Tourism](https://vietnam.travel) offers official destination guides and regional travel information.
 
 Here's how to use AI to plan the perfect Vietnam trip.
 
@@ -235,7 +235,7 @@ Check both directions—prices vary.
 **Mid-Range ($60-100/day):**
 - Private room: $25-40
 - Mix of street food and restaurants: $15-25
-- Grab bikes/taxis: $10
+- [Grab](https://www.grab.com) bikes/taxis: $10
 - Activities: $15-30
 
 **Comfort ($100-150/day):**
@@ -258,7 +258,7 @@ Check both directions—prices vary.
 
 - Full journey: 30+ hours (experience, not efficient)
 - Recommended segments: Hanoi → Hue (overnight) or Hue → Da Nang (scenic)
-- Book via 12go.asia or station
+- Book via [12go.asia](https://12go.asia) or station
 
 ### Sleeper Buses
 

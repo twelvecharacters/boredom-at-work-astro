@@ -30,7 +30,7 @@ Here's exactly how to do it, step by step.
 
 ## What You Need
 
-- A **brokerage account** with export capability (Fidelity, Schwab, Vanguard, E\*TRADE, etc.)
+- A **brokerage account** with export capability ([Fidelity](https://www.fidelity.com/), [Schwab](https://www.schwab.com/), [Vanguard](https://investor.vanguard.com/), E\*TRADE, etc.)
 - **ChatGPT Plus** ($20/month) or **Claude Pro** ($20/month)
 - 10 minutes
 
@@ -164,13 +164,13 @@ These are more polished but less flexible than ChatGPT/Claude. You can't ask cus
 
 ## What AI Gets Wrong (Important)
 
-**Hallucinated numbers.** AI sometimes generates plausible but wrong financial figures, especially for smaller companies. Always cross-check specific numbers against your broker's data.
+**Hallucinated numbers.** AI sometimes generates plausible but wrong financial figures, especially for smaller companies. Always cross-check specific numbers against your broker's data or [Yahoo Finance](https://finance.yahoo.com/).
 
 **No real-time data.** Neither ChatGPT nor Claude has live market prices. Your analysis is only as current as your CSV export.
 
 **Over-confident recommendations.** AI will suggest rebalancing moves without knowing your tax situation, time horizon, or whether you're in a taxable vs. retirement account. Take suggestions as starting points, not instructions.
 
-**Expense ratio databases can be outdated.** AI training data may have older expense ratios. Verify current fees on your fund provider's website.
+**Expense ratio databases can be outdated.** AI training data may have older expense ratios. Verify current fees on your fund provider's website or on [Morningstar](https://www.morningstar.com/) and [Yahoo Finance](https://finance.yahoo.com/).
 
 ---
 

@@ -26,7 +26,7 @@ I spent way too many hours browsing the store, testing GPTs across writing, rese
 
 These are the 12 that earned a permanent spot.
 
-Quick note: all custom GPTs require [ChatGPT Plus ($20/month)](/chatgpt-plus-vs-free/). If you are on the free plan, none of these will work for you.
+Quick note: all custom GPTs require [ChatGPT Plus ($20/month)](/chatgpt-plus-vs-free/). You can browse the full library at [chatgpt.com/gpts](https://chatgpt.com/gpts). If you are on the free plan, none of these will work for you.
 
 ## Writing and Editing
 
@@ -64,7 +64,7 @@ Quick note: all custom GPTs require [ChatGPT Plus ($20/month)](/chatgpt-plus-vs-
 
 ### 4. Consensus
 
-**What it does:** Searches a database of over 200 million academic papers and gives you evidence-based answers with citations. Think of it as Google Scholar with a brain.
+**What it does:** Searches a database of over 200 million academic papers and gives you evidence-based answers with citations. Think of it as [Google Scholar](https://scholar.google.com/) with a brain.
 
 **Why it is good:** This is one of the few GPTs that connects to a genuinely useful external database. Ask it "does intermittent fasting improve cognitive performance?" and you get a summary of actual studies with links to the papers. No hallucinated citations. No made-up journal names. I used it to fact-check claims in a report and it saved me about two hours of manual searching.
 
@@ -180,7 +180,7 @@ After testing 50+ GPTs, here is what I look for:
 
 **Read the description carefully.** If a GPT claims to "revolutionize your workflow" without explaining how, skip it. Good GPTs describe a specific capability or data source.
 
-**Look for external integrations.** The best GPTs (Consensus, Canva, AskYourPDF) connect to real databases or services. GPTs that only use custom instructions and knowledge files are often just fancy system prompts, which means you could replicate them yourself with [custom instructions](/chatgpt-custom-instructions/).
+**Look for external integrations.** The best GPTs (Consensus, [Canva](https://www.canva.com/), AskYourPDF) connect to real databases or services. GPTs that only use custom instructions and knowledge files are often just fancy system prompts, which means you could replicate them yourself with [custom instructions](/chatgpt-custom-instructions/).
 
 **Test with a specific task, not a vague question.** Do not ask "can you help me with writing?" Ask it to rewrite a specific paragraph or draft a specific email. You will know within one interaction whether it is worth keeping.
 

@@ -15,7 +15,7 @@ faq:
     answer: "Yes, Perplexity offers a generous free tier. Pro costs $20/month and adds more searches, better AI models, and file uploads."
 ---
 
-Google gives you links. ChatGPT gives you answers (sometimes outdated). Perplexity gives you answers with sources—and that's a game-changer for travel research.
+Google gives you links. ChatGPT gives you answers (sometimes outdated). [Perplexity](https://www.perplexity.ai) gives you answers with sources—and that's a game-changer for travel research.
 
 If you've ever spent hours comparing blog posts trying to figure out "is Bali worth visiting in rainy season?" or "what's the best way to get from Rome to Amalfi Coast?", Perplexity is about to become your new favorite tool.
 
@@ -188,8 +188,8 @@ Focus on recent reviews and traveler experiences, not just marketing claims.
 ### When to Use Something Else
 
 ❌ Building day-by-day itineraries (use ChatGPT)
-❌ Checking live flight prices (use Google/Gemini)
-❌ Organizing your trip (use Wanderlog/Mindtrip)
+❌ Checking live flight prices (use [Google Flights](https://www.google.com/travel/flights) or Gemini)
+❌ Organizing your trip (use [Wanderlog](https://wanderlog.com) or Mindtrip)
 ❌ Quick, simple questions (use Google)
 
 ---

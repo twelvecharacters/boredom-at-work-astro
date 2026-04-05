@@ -32,7 +32,7 @@ So where does that leave standing desks? Let's look at what the research actuall
 
 ## What the Science Actually Says
 
-The largest study on this topic dropped in October 2024, published in the *International Journal of Epidemiology*. Researchers analyzed accelerometer data from 83,013 adults in the UK Biobank and tracked health outcomes over 6.9 years. During that period, 6,829 cardiovascular disease events and 2,042 orthostatic circulatory disease events occurred.
+The largest study on this topic dropped in October 2024, published in the [*International Journal of Epidemiology*](https://academic.oup.com/ije). Researchers analyzed accelerometer data from 83,013 adults in the UK Biobank and tracked health outcomes over 6.9 years. During that period, 6,829 cardiovascular disease events and 2,042 orthostatic circulatory disease events occurred.
 
 The findings challenged standing desk evangelists: standing more did not reduce cardiovascular disease risk. Worse, prolonged standing increased the risk of orthostatic circulatory diseases (think varicose veins and deep vein thrombosis) by 11% for every additional 30 minutes of standing beyond 2 hours per day.
 
@@ -52,7 +52,7 @@ When you have the option to stand, you're also more likely to take short walks, 
 
 ### Blood Sugar and Metabolic Benefits
 
-A 2021 study published in *BMC Public Health* found that alternating between sitting and standing led to significant improvements in fasting triglycerides and insulin resistance over 24 weeks. For office workers at risk of metabolic syndrome, this is meaningful.
+A 2021 study published in [*BMC Public Health*](https://bmcpublichealth.biomedcentral.com/) found that alternating between sitting and standing led to significant improvements in fasting triglycerides and insulin resistance over 24 weeks. For office workers at risk of metabolic syndrome, this is meaningful.
 
 The mechanism makes sense: standing activates more muscle groups than sitting, which helps your body process glucose. This doesn't mean standing cures diabetes, but it can be one piece of a healthier work routine.
 
@@ -106,7 +106,7 @@ A standing desk makes sense if you:
 - **Work from home** and have full control over your setup. In an office, you might be stuck with whatever desk IT provides.
 - **Do a mix of tasks** — calls, emails, quick reviews — where you can stand for lighter work and sit for deep focus.
 
-If you're in the market, check out our [roundup of the best standing desks under $600](/best-standing-desks/) for specific recommendations.
+If you're in the market, check out our [roundup of the best standing desks under $600](/best-standing-desks/) for specific recommendations. Popular options include desks from [Uplift Desk](https://www.upliftdesk.com/), [Flexispot](https://www.flexispot.com/), and [Autonomous](https://www.autonomous.ai/).
 
 ## Who Should NOT Get a Standing Desk
 

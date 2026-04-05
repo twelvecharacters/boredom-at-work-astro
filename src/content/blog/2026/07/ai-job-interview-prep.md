@@ -34,11 +34,11 @@ This is where AI saves you hours of tab-hopping.
 
 ### Start With the Company Brief
 
-Open [ChatGPT](/chatgpt-guide/) (free tier works fine for this) or [Claude](/claude-vs-chatgpt/) and paste this prompt:
+Open [ChatGPT](https://chatgpt.com/) (free tier works fine for this) or [Claude](https://claude.ai/) and paste this prompt:
 
 > I'm interviewing for the role of [JOB TITLE] at [COMPANY NAME] on [DATE]. Give me a briefing document that covers: (1) What the company does in plain language, (2) Their main products or services, (3) Recent news from the last 6 months — product launches, funding rounds, leadership changes, layoffs, partnerships, (4) Their biggest competitors and how they differentiate, (5) Any public challenges or controversies. Keep it factual and cite specific events where possible.
 
-This gives you a solid foundation in about 60 seconds. But here's the critical part: **verify the key facts**. AI models can hallucinate details, especially about recent events. Cross-check any specific numbers, names, or dates against the company's actual press page or reliable news sources.
+This gives you a solid foundation in about 60 seconds. But here's the critical part: **verify the key facts**. AI models can hallucinate details, especially about recent events. Cross-check any specific numbers, names, or dates against the company's actual press page, [LinkedIn company profile](https://www.linkedin.com/), or reliable news sources. Sites like [Glassdoor](https://www.glassdoor.com/) are also useful for checking interview question patterns and company culture details.
 
 ### Decode the Job Description
 
@@ -108,7 +108,7 @@ Reading your answers silently is not preparation. You need to say them out loud,
 
 Now here's the important part: **actually speak your answers out loud** and then type a summary of what you said. Don't type out a perfect written response — that defeats the purpose. The goal is to practice verbal delivery, catch yourself rambling, and notice which stories feel natural versus forced.
 
-If you're using [ChatGPT Plus](/chatgpt-guide/) ($20/month), you can use Advanced Voice Mode for this. Talk directly to it. It'll respond conversationally, ask follow-ups, and the experience is surprisingly close to a real phone screen.
+If you're using [ChatGPT Plus](https://chatgpt.com/) ($20/month), you can use Advanced Voice Mode for this. Talk directly to it. It'll respond conversationally, ask follow-ups, and the experience is surprisingly close to a real phone screen.
 
 ### Get Feedback That Actually Helps
 

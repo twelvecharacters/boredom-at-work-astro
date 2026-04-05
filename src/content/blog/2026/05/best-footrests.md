@@ -47,7 +47,7 @@ I looked at every popular under-desk footrest and tested the ones I could get my
 
 **Price:** ~$143 | **Type:** Rocking platform | **Surface:** 17.5" x 13.5" | **Height:** 4.5" platform
 
-The Humanscale FM300 is the footrest equivalent of buying a Herman Miller chair. It's expensive, it doesn't look exciting, and it quietly does its job better than everything else.
+The [Humanscale FM300](https://www.humanscale.com/products/ergonomic-accessories/foot-machine) is the footrest equivalent of buying a Herman Miller chair. It's expensive, it doesn't look exciting, and it quietly does its job better than everything else.
 
 The rocking mechanism is the key. Instead of resting your feet on a static surface, the FM300 lets you tilt forward, backward, and side to side. This constant micro-movement keeps your leg muscles engaged, improves circulation, and prevents that numb-legs-at-3-PM feeling.
 
@@ -79,7 +79,7 @@ Unlike cheap foam footrests that go flat within weeks, the ErgoFoam uses high-de
 
 **Price:** ~$55 | **Type:** Tilting platform | **Surface:** 21.9" x 14.2" | **Height:** ~3.5" to 5" (adjustable tilt + height)
 
-Kensington has been making office accessories since the 80s, and the SoleMate Plus shows that experience. It's a proper adjustable footrest with independent height and angle settings.
+[Kensington](https://www.kensington.com/p/products/ergonomic-desk-accessories/foot-rests/solemate-plus-adjustable-foot-rest/) has been making office accessories since the 80s, and the SoleMate Plus shows that experience. It's a proper adjustable footrest with independent height and angle settings.
 
 Three height positions and three angle positions give you nine possible combinations. The SmartFit color-coded system helps you find the right setting based on your height — a nice touch that takes the guesswork out.
 
@@ -127,7 +127,7 @@ No height adjustment, no tilt mechanism, no rocking. Just foam. For ~$25, that's
 
 **Price:** ~$143 | **Type:** Rocking, tall | **Surface:** 17" x 12" | **Height:** Adjustable 6.5" to 9.5"
 
-The FR500 is the FM300's taller sibling, designed for people whose desks are higher than standard or who want a footrest that works at standing desk height.
+The [Humanscale FR500](https://www.humanscale.com/products/ergonomic-accessories/foot-machine-500) is the FM300's taller sibling, designed for people whose desks are higher than standard or who want a footrest that works at standing desk height.
 
 The height range (6.5" to 9.5") is significantly taller than any other footrest on this list. This makes it ideal for two scenarios: sitting at a higher-than-standard desk, or using it while standing to elevate one foot and reduce lower back pressure.
 

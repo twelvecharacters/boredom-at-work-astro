@@ -54,7 +54,7 @@ The standard. Same OHLC data as bar charts, but displayed as colored "candles" t
 | **Upper wick** | Highest price reached |
 | **Lower wick** | Lowest price reached |
 
-**A big green candle** = strong buying pressure. **A big red candle** = strong selling pressure. **Small body + long wicks** = indecision.
+**A big green candle** = strong buying pressure. **A big red candle** = strong selling pressure. **Small body + long wicks** = indecision. For a deeper reference on candlestick patterns, [Investopedia's candlestick guide](https://www.investopedia.com/articles/active-trading/092315/5-most-powerful-candlestick-patterns.asp) is a solid starting point.
 
 Use candlestick charts for everything. They convey the most information in the most readable way.
 
@@ -168,10 +168,10 @@ Converging trendlines that squeeze price into a tighter range until it breaks ou
 
 | Tool | Best For | Link |
 |------|----------|------|
-| **TradingView** | Best overall — 100+ indicators, community scripts, free | tradingview.com |
-| **Yahoo Finance** | Simplest for beginners | finance.yahoo.com |
-| **Finviz** | Quick visual overview + screening | finviz.com |
-| **StockCharts.com** | Educational resources (ChartSchool) | stockcharts.com |
+| **TradingView** | Best overall — 100+ indicators, community scripts, free | [tradingview.com](https://www.tradingview.com/) |
+| **Yahoo Finance** | Simplest for beginners | [finance.yahoo.com](https://finance.yahoo.com/) |
+| **Finviz** | Quick visual overview + screening | [finviz.com](https://finviz.com/) |
+| **StockCharts.com** | Educational resources (ChartSchool) | [stockcharts.com](https://stockcharts.com/) |
 
 Start with TradingView. The free tier gives you everything you need to learn.
 

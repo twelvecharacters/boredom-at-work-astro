@@ -48,12 +48,12 @@ Here's the full toolkit for this planning process:
 
 | Tool | Role | Cost |
 |------|------|------|
-| **[ChatGPT](/chatgpt-guide/)** | Destination comparison, itinerary drafting, decision frameworks | $20/mo (Plus) |
-| **[Claude](/claude-vs-chatgpt/)** | Deep research, weighing trade-offs, writing packing lists | Free tier |
+| **[ChatGPT](https://chatgpt.com)** ([guide](/chatgpt-guide/)) | Destination comparison, itinerary drafting, decision frameworks | $20/mo (Plus) |
+| **[Claude](https://claude.ai)** ([vs ChatGPT](/claude-vs-chatgpt/)) | Deep research, weighing trade-offs, writing packing lists | Free tier |
 | **[Perplexity](/perplexity-ai-guide/)** | Current conditions, traveler reviews, real-time info | Free |
 | **Custom Flight Agent** | Daily price monitoring across routes | Self-hosted ([build guide](/build-ai-flight-search-agent/)) |
-| **Google Flights** | Cross-referencing AI flight suggestions | Free |
-| **Wanderlog** | Visual itinerary mapping | Free tier |
+| **[Google Flights](https://www.google.com/travel/flights)** | Cross-referencing AI flight suggestions | Free |
+| **[Wanderlog](https://wanderlog.com)** | Visual itinerary mapping | Free tier |
 
 The combination of multiple AI tools is key. No single tool gets everything right — ChatGPT is great at big-picture planning, Perplexity excels at current, sourced information, and Claude is best for nuanced comparisons when I need to weigh competing priorities.
 
@@ -199,8 +199,9 @@ Weight these factors by importance to me:
 
 - [ ] Flights (via my flight agent alerts)
 - [ ] Travel insurance (AI-researched coverage needs)
-- [ ] Accommodation (ChatGPT recommendations)
+- [ ] Accommodation (ChatGPT recommendations + [Agoda](https://www.agoda.com) for Asia-specific deals)
 - [ ] Key experiences (Perplexity research)
+- [ ] Transport within destinations ([Grab](https://www.grab.com) for Southeast Asia, [Rome2rio](https://www.rome2rio.com) for route options)
 - [ ] Restaurant list (gluten-free focused)
 
 ### Travel Insurance Research

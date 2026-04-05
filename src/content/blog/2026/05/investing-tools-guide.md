@@ -102,9 +102,9 @@ Paper trading lets you buy and sell stocks using virtual money and real market d
 
 | App | Virtual Cash | Real-Time Data | Best For |
 |-----|-------------|---------------|----------|
-| Webull | Unlimited | Yes | Beginners |
+| [Webull](https://www.webull.com) | Unlimited | Yes | Beginners |
 | thinkorswim (Schwab) | $100K | Yes | Serious learners |
-| TradingView | $100K | Yes | Chart-focused traders |
+| [TradingView](https://www.tradingview.com) | $100K | Yes | Chart-focused traders |
 | Investopedia Simulator | $100K | 15-min delay | Total beginners |
 
 **My recommendation:** Start with Webull's paper trading. Clean interface, unlimited virtual cash, real-time data. When you want more depth, move to thinkorswim.
@@ -123,7 +123,7 @@ Time to put actual money to work. Every brokerage on this list charges $0 for st
 |-----|---------|-------------------|----------------|
 | Fidelity | Overall beginners | Yes ($1 min) | Zero-fee index funds |
 | Charles Schwab | Education + tools | Yes ($5 min) | thinkorswim included |
-| Robinhood | Simplicity | Yes ($1 min) | Clean mobile UX |
+| [Robinhood](https://robinhood.com) | Simplicity | Yes ($1 min) | Clean mobile UX |
 | Vanguard | Long-term indexing | Yes ($1 min) | Pioneer of index investing |
 | SoFi Invest | All-in-one finance | Yes ($5 min) | Banking + investing combined |
 
@@ -143,9 +143,9 @@ Stock screeners filter thousands of stocks by criteria you set — P/E ratio, ma
 
 | Screener | Price | Best For |
 |----------|-------|----------|
-| Finviz | Free (Elite: ~$25/mo) | Best free screener overall |
+| [Finviz](https://finviz.com) | Free (Elite: ~$25/mo) | Best free screener overall |
 | Yahoo Finance | Free | Quick filters + news integration |
-| TradingView | Free (Plus: ~$15/mo) | Best for technical analysis |
+| [TradingView](https://www.tradingview.com) | Free (Plus: ~$15/mo) | Best for technical analysis |
 | Seeking Alpha | Free (Premium: ~$25/mo) | Analyst ratings + quant scores |
 
 **Deep dive:** [Best Free Stock Screeners](/best-free-stock-screeners/) — How to use screeners effectively with example filters.

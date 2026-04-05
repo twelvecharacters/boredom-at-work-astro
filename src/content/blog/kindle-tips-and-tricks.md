@@ -70,7 +70,7 @@ A book can belong to multiple collections. I use: "Currently Reading," "Up Next,
 
 Your Kindle has a unique email address (find it in Settings > Your Account > Send-to-Kindle Email). Email any EPUB, PDF, DOC, or TXT file to that address, and it shows up on your device within minutes.
 
-This is how you get free ebooks from sites like Project Gutenberg and Standard Ebooks onto your Kindle. For the full list of free sources, check our guide on [how to get free books on Kindle](/free-books-kindle/).
+This is how you get free ebooks from sites like [Project Gutenberg](https://www.gutenberg.org) and [Standard Ebooks](https://standardebooks.org) onto your Kindle. For the full list of free sources, check our guide on [how to get free books on Kindle](/free-books-kindle/).
 
 ### 8. Dark Mode
 
@@ -80,7 +80,7 @@ Useful for nighttime reading with the light turned low. Combined with the warm f
 
 ### 9. Goodreads Integration
 
-Some Kindle models let you link your Goodreads account in Settings > Your Account > Social Networks. When connected, your Kindle can mark books as "Currently Reading" and "Read" on your Goodreads profile.
+Some Kindle models let you link your [Goodreads](https://www.goodreads.com) account in Settings > Your Account > Social Networks. When connected, your Kindle can mark books as "Currently Reading" and "Read" on your Goodreads profile.
 
 You can also rate and review books directly from the Kindle when you finish them. Note: Amazon has been scaling back this integration on newer firmware — the feature may not be available on all models. Check your settings to see if the option appears.
 
@@ -102,7 +102,7 @@ Screenshots save to the root directory when you connect via USB. Useful for shar
 
 ### 12. Export Your Highlights
 
-Every highlight and note you make is stored at read.amazon.com/notebook. Log in with your Amazon account and you can see, search, copy, and export every highlight from every book.
+Every highlight and note you make is stored at [read.amazon.com/notebook](https://read.amazon.com/notebook). Log in with your Amazon account and you can see, search, copy, and export every highlight from every book.
 
 This is a hidden gem for students, researchers, or anyone who highlights a lot. You can copy highlights into Notion, Obsidian, or any note-taking app for reference.
 
@@ -120,7 +120,7 @@ It's not fully custom screensavers (that still requires [jailbreaking](/kindle-m
 
 ### 15. Sideloading with Calibre
 
-Calibre (free, open-source) is the ultimate companion app for any Kindle owner. Connect via USB and you can:
+[Calibre](https://calibre-ebook.com) (free, open-source) is the ultimate companion app for any Kindle owner. Connect via USB and you can:
 
 - Convert between ebook formats (EPUB → AZW3, PDF → EPUB)
 - Edit metadata and covers

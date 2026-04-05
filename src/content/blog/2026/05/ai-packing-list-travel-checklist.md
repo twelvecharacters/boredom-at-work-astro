@@ -21,7 +21,7 @@ AI solves this by creating custom packing lists based on your specific trip. Her
 
 ## The Ultimate Packing List Prompt
 
-This prompt works with ChatGPT, Claude, or any AI:
+This prompt works with [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), or any AI:
 
 ```
 Create a packing list for my trip:
@@ -339,7 +339,7 @@ After getting your initial list, ask:
 Once AI generates your list, transfer it to a packing app for easy checking:
 
 **Free Options**:
-- **PackPoint** - Auto-generates lists, checks items
+- **[PackPoint](https://www.packpnt.com)** - Auto-generates lists, checks items
 - **Google Keep** - Simple checklist
 - **Apple Notes** - Checklist feature
 

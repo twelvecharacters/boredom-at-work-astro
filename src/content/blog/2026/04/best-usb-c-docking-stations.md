@@ -65,7 +65,7 @@ Thunderbolt 4 uses the same USB-C connector (yes, the same physical plug) but gu
 
 ### DisplayLink
 
-DisplayLink is a software-based solution that compresses and sends video data over a standard USB connection. It installs a driver on your system and uses your CPU (not GPU) to process the display output.
+[DisplayLink](https://www.synaptics.com/products/displaylink-graphics) is a software-based solution that compresses and sends video data over a standard USB connection. It installs a driver on your system and uses your CPU (not GPU) to process the display output.
 
 **Why it matters:** DisplayLink is the only way to run dual or triple monitors on base-model Apple Silicon Macs (M1/M2/M3/M4), which natively support only one external display. It's also cheaper than Thunderbolt.
 
@@ -83,7 +83,7 @@ DisplayLink is a software-based solution that compresses and sends video data ov
 
 ## The 7 Best Docking Stations for Home Office
 
-### 1. CalDigit TS4 — Best Overall
+### 1. [CalDigit TS4](https://www.caldigit.com/thunderbolt-station-4/) — Best Overall
 
 **~$380 | Thunderbolt 4 | 18 Ports | 98W PD**
 
@@ -126,7 +126,7 @@ The big advantage over the CalDigit TS4 is the dedicated HDMI and DisplayPort ou
 
 ---
 
-### 3. Dell Universal Dock UD22 — Best for Dell Laptop Users
+### 3. [Dell Universal Dock UD22](https://www.dell.com/en-us/shop/dell-universal-dock-ud22/apd/210-bdgx/pc-accessories) — Best for Dell Laptop Users
 
 **~$250 | USB-C with DisplayLink | 10 Ports | 96W PD**
 

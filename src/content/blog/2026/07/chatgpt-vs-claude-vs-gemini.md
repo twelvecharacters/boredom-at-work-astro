@@ -45,7 +45,7 @@ If you only pay for one: **ChatGPT Plus** for versatility, **Claude Pro** for qu
 | Tier | ChatGPT | Claude | Gemini |
 |------|---------|--------|--------|
 | **Free** | GPT-5.2 (limited) | Sonnet 4.6 (limited) | Gemini 3.1 (limited) |
-| **Standard** | Plus: $20/month | Pro: $20/month | AI Pro: $19.99/month |
+| **Standard** | [Plus: $20/month](https://chatgpt.com/) | [Pro: $20/month](https://claude.ai/) | [AI Pro: $19.99/month](https://gemini.google.com/) |
 | **Premium** | Pro: $200/month | Max: $100-200/month | AI Ultra: $249.99/month |
 | **Team** | $25-30/user/month | $25-30/user/month | Workspace add-on |
 
@@ -97,6 +97,8 @@ All three have usable free tiers. The $20 tier is where the real value lives.
 - CSV/data analysis less polished than ChatGPT's sandbox
 - Smaller ecosystem (no plugins, no GPT Store equivalent)
 - Stricter usage limits on Pro tier
+
+You can learn more about each platform's capabilities at [openai.com](https://openai.com/), [anthropic.com](https://www.anthropic.com/), and [deepmind.google](https://deepmind.google/technologies/gemini/).
 
 ### Gemini: The Google Native
 

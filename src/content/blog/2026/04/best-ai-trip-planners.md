@@ -35,7 +35,7 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 
 ---
 
-## 1. Mindtrip - Best Overall
+## 1. [Mindtrip](https://mindtrip.ai) - Best Overall
 
 **What it is**: A dedicated AI travel platform with deep booking integration.
 
@@ -58,7 +58,7 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 
 ---
 
-## 2. Wanderlog - Best for Road Trips
+## 2. [Wanderlog](https://wanderlog.com) - Best for Road Trips
 
 **What it is**: A trip planner that excels at mapping routes and road trip logistics.
 
@@ -131,7 +131,7 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 
 ---
 
-## 5. Layla - Best for Hotel-Heavy Trips
+## 5. [Layla](https://justasklayla.com) - Best for Hotel-Heavy Trips
 
 **What it is**: An AI travel planner with strong accommodation focus.
 
@@ -153,7 +153,7 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 
 ---
 
-## 6. Roam Around - Fastest Itineraries
+## 6. [Roam Around](https://www.roamaround.io) - Fastest Itineraries
 
 **What it is**: A quick itinerary generator powered by AI.
 

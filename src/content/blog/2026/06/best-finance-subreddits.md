@@ -58,7 +58,7 @@ If you're looking for structured learning instead, check out the [best free inve
 
 **Members:** ~14 million | **Quality:** ★★★★★ | **Post Frequency:** Very high
 
-This is where everyone should start. r/personalfinance is the most comprehensive, best-moderated financial community on the internet. Period.
+This is where everyone should start. [r/personalfinance](https://www.reddit.com/r/personalfinance/) is the most comprehensive, best-moderated financial community on the internet. Period.
 
 **What you'll find:**
 - Step-by-step guides for every financial milestone (first job, first apartment, marriage, kids, retirement)
@@ -78,7 +78,7 @@ This is where everyone should start. r/personalfinance is the most comprehensive
 
 **Members:** ~630K | **Quality:** ★★★★★ | **Post Frequency:** Moderate
 
-Named after Jack Bogle, founder of Vanguard and inventor of the index fund. This subreddit follows one philosophy: buy low-cost index funds, diversify, and hold forever.
+Named after Jack Bogle, founder of Vanguard and inventor of the index fund. [r/Bogleheads](https://www.reddit.com/r/Bogleheads/) follows one philosophy: buy low-cost index funds, diversify, and hold forever.
 
 **What you'll find:**
 - Three-fund portfolio discussions (US total market + international + bonds)
@@ -179,7 +179,7 @@ The dividend investing community. People here are obsessed with passive income, 
 
 **Members:** ~1.9 million | **Quality:** ★★★★★ | **Post Frequency:** Moderate
 
-The Financial Independence / Retire Early (FIRE) community. People here are saving 50-70% of their income with the goal of retiring decades early.
+The Financial Independence / Retire Early (FIRE) community. [r/financialindependence](https://www.reddit.com/r/financialindependence/) is home to people saving 50-70% of their income with the goal of retiring decades early.
 
 **What you'll find:**
 - Detailed "milestone" and "I did it" posts from people who've reached FI

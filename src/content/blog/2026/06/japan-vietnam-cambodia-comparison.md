@@ -17,7 +17,7 @@ faq:
 
 Three incredible destinations. One trip. How do you choose?
 
-Japan, Vietnam, and Cambodia each offer something unique. I'm facing this exact decision for my November 2026 trip, so I used AI to systematically compare them.
+Japan, Vietnam, and Cambodia each offer something unique. I'm facing this exact decision for my November 2026 trip, so I used AI to systematically compare them. For official tourism information, see [Japan's tourism portal](https://www.japan.travel), [Vietnam's official travel site](https://vietnam.travel), and [Tourism Cambodia](https://www.tourismcambodia.com).
 
 Here's the breakdown to help you decide.
 
@@ -91,7 +91,7 @@ Since I'm planning for November 2026, I asked AI to analyze the weather.
 | Kyoto | Cool (8-17°C), dry | Peak autumn foliage mid-November |
 | Osaka | Mild (10-18°C), dry | Late autumn colors |
 
-**Verdict:** Excellent. November is one of Japan's best months.
+**Verdict:** Excellent. November is one of Japan's best months. The [Japan Meteorological Agency](https://www.jma.go.jp/jma/indexe.html) publishes long-range seasonal forecasts if you want to check conditions closer to your travel date.
 
 ### Vietnam in November
 

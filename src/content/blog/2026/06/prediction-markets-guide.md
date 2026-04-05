@@ -125,7 +125,7 @@ Two platforms dominate the prediction market space:
 | **Best For** | US users who want easy access |
 | **Mobile App** | iOS + Android |
 
-Kalshi is the easy-start option for US-based users. It's fully CFTC-regulated, accepts USD deposits via ACH or debit card, and has native mobile apps. The interface is clean and beginner-friendly.
+[Kalshi](https://kalshi.com) is the easy-start option for US-based users. It's fully CFTC-regulated, accepts USD deposits via ACH or debit card, and has native mobile apps. The interface is clean and beginner-friendly.
 
 The downside: fees are higher than Polymarket, and liquidity can be thinner on some markets (meaning wider spreads and harder fills on large orders).
 
@@ -140,7 +140,7 @@ The downside: fees are higher than Polymarket, and liquidity can be thinner on s
 | **Best For** | Deep liquidity, international events |
 | **Mobile App** | Web-based (global), iOS (US) |
 
-Polymarket is the larger platform by volume — especially for politics and crypto-related markets. The global platform runs on crypto (USDC on Polygon), which means deeper liquidity but a crypto learning curve. The US-regulated entity is newer and still rolling out access.
+[Polymarket](https://polymarket.com) is the larger platform by volume — especially for politics and crypto-related markets. The global platform runs on crypto (USDC on Polygon), which means deeper liquidity but a crypto learning curve. The US-regulated entity is newer and still rolling out access.
 
 **For a detailed comparison:** [Polymarket vs Kalshi](/polymarket-vs-kalshi/) — Fees, features, regulation, and which to choose.
 
@@ -205,7 +205,7 @@ But if you're trading random events for fun, treat it like entertainment with a 
 
 ## Why Prediction Markets Matter (Beyond Trading)
 
-Even if you never trade, prediction markets are useful as **information tools**.
+Even if you never trade, prediction markets are useful as **information tools**. Sites like [Metaculus](https://www.metaculus.com) aggregate crowdsourced forecasts on science, technology, and geopolitical events — and publish the track records of their predictions, making them a useful benchmark for accuracy.
 
 ### Better Than Polls
 

@@ -89,7 +89,7 @@ function isPublished(fm) {
   return new Date(pubDate) <= new Date();
 }
 
-function formatDate(d) { return d.toISOString().split('T')[0]; }
+function formatDate(d) { return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`; }
 
 function lineNumberAt(content, charIndex) {
   let line = 1;

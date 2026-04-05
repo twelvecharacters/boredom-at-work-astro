@@ -49,7 +49,7 @@ I compared 7 of the most popular laptop stands across different budgets and use 
 
 **Price:** ~$50 | **Material:** Solid aluminum | **Height:** 6 inches (fixed) | **Laptop size:** Up to 15" (10.4" max depth) | **Stand weight:** 2.89 lbs | **Colors:** Silver, Space Gray, Gold, Black
 
-The Rain Design mStand has been around for over a decade, and there's a reason it keeps selling. It's carved from a single piece of aluminum — not assembled from parts — which gives it a clean, unibody look and serious stability.
+The [Rain Design mStand](https://www.raindesigninc.com/mstand.html) has been around for over a decade, and there's a reason it keeps selling. It's carved from a single piece of aluminum — not assembled from parts — which gives it a clean, unibody look and serious stability.
 
 **What makes it special:**
 
@@ -68,7 +68,7 @@ The Rain Design mStand has been around for over a decade, and there's a reason i
 
 **Price:** ~$40 | **Material:** Aluminum | **Height:** 6.5 inches (fixed) | **Laptop size:** 11-17" (min 10.2" wide) | **Weight capacity:** 7 lbs | **Stand weight:** 2.5 lbs
 
-Twelve South makes accessories specifically designed to complement Apple products, and the Curve SE is their most affordable laptop stand. It's a three-piece modular design that looks like it was made in the same factory as the MacBook itself.
+[Twelve South](https://www.twelvesouth.com/products/curve-se-for-macbook) makes accessories specifically designed to complement Apple products, and the Curve SE is their most affordable laptop stand. It's a three-piece modular design that looks like it was made in the same factory as the MacBook itself.
 
 **What makes it special:**
 
@@ -127,7 +127,7 @@ UGREEN has quietly become one of the best value brands in tech accessories, and 
 
 **Price:** ~$90 | **Material:** Glass-filled nylon | **Height:** 6.5-12.5 inches (adjustable) | **Laptop size:** 12-18" | **Weight capacity:** 22 lbs | **Stand weight:** 6 oz (170g)
 
-The Roost V3 is the stand that digital nomads swear by. At 6 ounces, it weighs less than a smartphone, folds down to roughly smartphone size, and somehow still holds up to 22 lbs without wobbling.
+The [Roost V3](https://www.therooststand.com) is the stand that digital nomads swear by. At 6 ounces, it weighs less than a smartphone, folds down to roughly smartphone size, and somehow still holds up to 22 lbs without wobbling.
 
 **What makes it special:**
 

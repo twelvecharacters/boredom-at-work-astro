@@ -106,7 +106,7 @@ Let's compare actual prices rather than vague "ultrawides cost more" statements.
 | Extra cables (if needed) | ~$15-30 |
 | **Total** | **~$895-950** |
 
-Budget option: Two Dell S2725QS (no USB-C) at ~$240 each = ~$480, plus a $40 arm = ~$520 total.
+Budget option: Two [Dell S2725QS](https://www.dell.com/en-us/shop/computer-monitors) (no USB-C) at ~$240 each = ~$480, plus a $40 arm = ~$520 total.
 
 ### Ultrawide Setup
 
@@ -116,7 +116,7 @@ Budget option: Two Dell S2725QS (no USB-C) at ~$240 each = ~$480, plus a $40 arm
 | Single monitor arm (heavy-duty) | ~$50-80 |
 | **Total** | **~$650-680** |
 
-Premium option: Dell U3425WE (34" Thunderbolt) at ~$1,020, plus arm = ~$1,080 total.
+Premium option: [Dell U3425WE](https://www.dell.com/en-us/shop/computer-monitors/ultrawide-monitors) (34" Thunderbolt) at ~$1,020, plus arm = ~$1,080 total.
 
 **The verdict on cost:** A budget dual setup is cheaper. A mid-range ultrawide costs about the same as one good dual monitor. Two premium monitors will always cost more than one premium ultrawide. But the dual setup gives you more total pixels and screen area per dollar.
 
@@ -138,7 +138,7 @@ On an ultrawide, maximizing a window makes it comically wide. A full-screen brow
 
 **On macOS:** Rectangle (free) is essential. It lets you snap windows to halves, thirds, or custom zones with keyboard shortcuts. Without it, an ultrawide on a Mac is genuinely frustrating because macOS has poor native window snapping.
 
-**On Windows:** FancyZones (part of PowerToys, free from Microsoft) works great. You set up custom grid layouts — like a 60/40 split or three equal columns — and snap windows into them by holding Shift while dragging. Windows 11's built-in snap layouts also help, but FancyZones gives you more control.
+**On Windows:** FancyZones (part of [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/), free from Microsoft) works great. You set up custom grid layouts — like a 60/40 split or three equal columns — and snap windows into them by holding Shift while dragging. Windows 11's built-in snap layouts also help, but FancyZones gives you more control.
 
 Here's the thing: once you set up these tools, the ultrawide window management is actually quite good. The problem is the *setup friction*. On dual monitors, everything works out of the box. On an ultrawide, you spend 30 minutes configuring tiling software before you can work normally. Most people who say "I tried an ultrawide and hated it" probably never installed a window manager.
 
@@ -196,10 +196,10 @@ That said, when I was in a role with fewer calls and more writing/research, the 
 
 **Best dual setup:** Two Dell P2725QE monitors (~$420 each) with a dual [monitor arm](/best-monitor-arms/). Total: ~$920. You get 4K, USB-C with 90W charging, and a built-in KVM switch on each monitor.
 
-**Best ultrawide:** Dell U3425WE (~$1,020) with a heavy-duty single arm. Total: ~$1,100. You get 3440x1440, Thunderbolt 4 connectivity, and a gorgeous IPS Black panel.
+**Best ultrawide:** [Dell U3425WE](https://www.dell.com/en-us/shop/computer-monitors/ultrawide-monitors) (~$1,020) with a heavy-duty single arm. Total: ~$1,100. You get 3440x1440, Thunderbolt 4 connectivity, and a gorgeous IPS Black panel.
 
 **Best budget dual:** Two Dell S2725QS (~$240 each) with a basic dual arm. Total: ~$520. No USB-C, but sharp 4K and a hard price to beat.
 
-**Best budget ultrawide:** LG 34WQ75C-B (~$600) on its stock stand. Total: ~$600. USB-C with 90W PD, solid build quality, and good color accuracy for the price.
+**Best budget ultrawide:** [LG 34WQ75C-B](https://www.lg.com/us/monitors/ultrawide-monitors) (~$600) on its stock stand. Total: ~$600. USB-C with 90W PD, solid build quality, and good color accuracy for the price.
 
 Whatever you choose, the monitor upgrade itself is what matters most. Going from a single laptop screen to *either* of these setups will transform how you work. The ultrawide-vs-dual question is just about fine-tuning an already massive improvement.
