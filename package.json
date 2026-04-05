@@ -14,7 +14,10 @@
     "lint:content:fix": "node scripts/content-lint.js --fix",
     "traffic": "node scripts/gsc-traffic.js",
     "traffic:queries": "node scripts/gsc-traffic.js --queries",
-    "traffic:cluster": "node scripts/gsc-traffic.js --cluster"
+    "traffic:cluster": "node scripts/gsc-traffic.js --cluster",
+    "bing": "node scripts/bing-traffic.js",
+    "bing:queries": "node scripts/bing-traffic.js --queries",
+    "bing:cluster": "node scripts/bing-traffic.js --cluster"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.1",
