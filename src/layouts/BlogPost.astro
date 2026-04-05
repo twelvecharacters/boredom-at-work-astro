@@ -57,10 +57,11 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
 const activeBanner = BANNERS.filter(b => b.active).find(b => tags.includes(b.tag));
 ---
 
-<BaseLayout 
-  title={title} 
-  description={description} 
-  image={image} 
+<BaseLayout
+  title={title}
+  description={description}
+  image={image}
+  imageAlt={imageAlt || title}
   article={true}
   publishDate={publishDate}
   updatedDate={updatedDate}

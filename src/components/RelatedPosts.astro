@@ -51,8 +51,11 @@ const postsToShow = [...relatedPosts, ...recentPosts].slice(0, limit);
           {post.data.image && (
             <OptimizedImage
               src={post.data.image}
-              alt={post.data.title}
+              alt={post.data.imageAlt || post.data.title}
               class="w-full h-32 object-cover"
+              width={400}
+              height={128}
+              sizes="(max-width: 768px) 100vw, 33vw"
             />
           )}
           <div class="p-4">

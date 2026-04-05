@@ -16,6 +16,7 @@ interface Props {
   publishDate?: Date;
   updatedDate?: Date;
   tags?: string[];
+  imageAlt?: string;
   noindex?: boolean;
   prevUrl?: string;
   nextUrl?: string;
@@ -30,6 +31,7 @@ const {
   publishDate,
   updatedDate,
   tags = [],
+  imageAlt,
   noindex = false,
   prevUrl,
   nextUrl,
@@ -57,7 +59,7 @@ const socialImageURL = new URL(socialImagePath || "/images/og-default.webp", Ast
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <meta name="theme-color" content="#11153b" />
     <meta name="yandex-verification" content="be43dd21aec7b508" />
-    <link rel="canonical" href={canonicalURL} />
+
 
     {preloadHero && (
       <>
@@ -86,6 +88,7 @@ const socialImageURL = new URL(socialImagePath || "/images/og-default.webp", Ast
           width: 1200,
           height: 630,
           type: "image/webp",
+          alt: imageAlt || title,
         },
         article: article ? {
           publishedTime: publishDate?.toISOString(),
@@ -96,9 +99,11 @@ const socialImageURL = new URL(socialImagePath || "/images/og-default.webp", Ast
       }}
       twitter={{
         card: "summary_large_image",
+        site: "@boredom_at_work",
         title: title,
         description: description,
         image: socialImageURL.toString(),
+        imageAlt: imageAlt || title,
       }}
       extend={{
         meta: [

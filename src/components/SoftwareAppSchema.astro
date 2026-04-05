@@ -34,7 +34,7 @@ const schemaData = {
       "ratingValue": softwareApp.rating,
       "bestRating": 5,
       "worstRating": 1,
-      "ratingCount": softwareApp.ratingCount || 1,
+      ...(softwareApp.ratingCount && { "ratingCount": softwareApp.ratingCount }),
       "reviewCount": 1
     },
     "review": {
