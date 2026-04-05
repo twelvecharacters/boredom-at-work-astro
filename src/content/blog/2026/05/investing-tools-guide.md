@@ -264,3 +264,32 @@ This five-step approach beats 90% of active traders over the long run. Index inv
 - [ ] Continue learning through podcasts and communities
 - [ ] Resist the urge to check your portfolio daily
 - [ ] Remember: time in the market beats timing the market
+
+---
+
+## All Investing Guides
+
+**Learning & Research:**
+- [8 Best Free Investing Courses](/best-free-investing-courses/)
+- [Best Investing Podcasts](/best-investing-podcasts/)
+- [Best Finance Subreddits](/best-finance-subreddits/)
+- [Best Stock News Apps](/best-stock-news-apps/)
+- [Best Finance YouTube Channels](/best-finance-youtube-channels/)
+- [How to Read Stock Charts (Beginners)](/how-to-read-stock-charts-beginners/)
+
+**Tools & Apps:**
+- [7 Best Paper Trading Apps](/best-paper-trading-apps/)
+- [7 Best Investing Apps for Beginners](/best-investing-apps-beginners/)
+- [Best Free Stock Screeners](/best-free-stock-screeners/)
+- [Best Dividend Tracker Apps](/best-dividend-trackers/)
+- [Best Crypto Portfolio Trackers](/best-crypto-portfolio-trackers/)
+
+**AI-Powered Investing:**
+- [ChatGPT for Stock Research](/chatgpt-stock-research/)
+- [How to Analyze Your Portfolio With ChatGPT](/ai-portfolio-analysis-chatgpt/)
+- [AI Earnings Call Analysis](/ai-earnings-call-analysis/)
+- [AI vs Traditional Stock Screeners](/ai-vs-traditional-stock-screeners/)
+
+**Advanced:**
+- [How Prediction Markets Work](/prediction-markets-guide/)
+- [Polymarket vs Kalshi](/polymarket-vs-kalshi/)

@@ -207,6 +207,10 @@ See AI travel planning in action with real trips, including what worked and what
 
 - **[Planning My Southeast Asia Trip with AI (2026)](/ai-planning-southeast-asia-trip-2026/)** — A work-in-progress case study. Follow along as I use multiple AI tools to plan a 3-country trip for November 2026.
 
+- **[AI-Planned London Weekend](/ai-planned-london-weekend/)** — A weekend in London planned entirely by AI. The itinerary, the restaurant picks, and what the algorithm got wrong.
+
+- **[Claude-Planned Dubai Trip](/claude-planned-dubai-trip/)** — Using Claude to plan a long weekend in Dubai. Prompts used, surprises found, and the one recommendation that saved the trip.
+
 ---
 
 ## Quick Reference: Which AI Tool for What?

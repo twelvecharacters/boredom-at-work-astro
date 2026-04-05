@@ -442,6 +442,9 @@ Start with Lightroom Mobile—it's powerful and free for basic editing. If you'r
 **Specific Cameras:**
 - [Olympus PEN E-PM2 Guide](/olympus-pen-e-pm2-guide/)
 
+**Lenses & Accessories:**
+- [Best Cheap Manual Lenses for Beginners](/cheap-manual-lenses-beginners/)
+
 **Improving Your Skills:**
 - [10 Beginner Photography Mistakes](/beginner-photography-mistakes/)
 

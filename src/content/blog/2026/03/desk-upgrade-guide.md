@@ -319,6 +319,9 @@ The best gear set up wrong is worse than average gear set up right. Spend 10 min
 **Desk & Chair:**
 - [Best Standing Desks Under $600](/best-standing-desks/)
 - [Best Office Chairs for Long Hours](/best-office-chairs/)
+- [Secretlab Titan vs Herman Miller Aeron](/secretlab-vs-herman-miller/)
+- [Standing Desk vs Sitting Desk](/standing-desk-vs-sitting-desk/)
+- [Ultrawide vs Dual Monitors](/ultrawide-vs-dual-monitors/)
 
 **Monitors & Display:**
 - [Best Monitors for Working from Home](/best-monitors-working-from-home/)

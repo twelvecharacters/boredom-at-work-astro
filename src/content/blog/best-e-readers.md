@@ -144,6 +144,6 @@ Ask yourself these questions:
 - Yes → Kindle Scribe or reMarkable 2
 - No → Save the money, get a Paperwhite
 
-For most people, the **Kindle Paperwhite** remains the best overall e-reader in 2026. It's the right balance of price, features, and ecosystem. But there's never been a better time to be a Kobo user, either.
+For most people, the **Kindle Paperwhite** remains the best overall e-reader in 2026. It's the right balance of price, features, and ecosystem. But there's never been a better time to be a Kobo user, either. For a full side-by-side breakdown, see our [Kindle vs Kobo](/kindle-vs-kobo/) comparison.
 
 Whichever you pick, check our [best Kindle accessories guide](/best-kindle-accessories/) and [tips and tricks](/kindle-tips-and-tricks/) to get the most out of your device.
