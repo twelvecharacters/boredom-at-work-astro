@@ -12,7 +12,7 @@ faq:
   - question: "Is Gemini CLI better than using ChatGPT in a browser for coding?"
     answer: "For coding tasks, yes. Gemini CLI reads your local files directly, runs shell commands, and applies surgical edits — eliminating the copy-paste cycle. You stay in the terminal and avoid context switching."
   - question: "Is it safe to use AI CLI tools with production code?"
-    answer: "Yes, if configured properly. Gemini CLI respects .gitignore and .geminiignore files, so it won't read your secrets. Using the API gives you more control over data retention than consumer chat interfaces."
+    answer: "Yes, if configured properly. Gemini CLI respects .geminiignore files to exclude sensitive directories. Using the API gives you more control over data retention than consumer chat interfaces."
   - question: "How much does Gemini CLI cost?"
     answer: "Gemini CLI offers a generous free tier with 1,000 requests per day using a Google account. For heavier usage, costs depend on your Google AI API plan."
 softwareApp:
@@ -47,16 +47,16 @@ The AI doesn't just guess; it **reads the file**. It looks at the existing categ
 
 When you use a browser-based AI, you are the bridge between your code and the intelligence. You are the "copy-paste monkey" doing the manual labor of moving data back and forth. In the CLI, the AI has its own "toolbelt." This turns the AI from a consultant into a collaborator.
 
-- **`grep_search`:** The agent can scan my entire project for every instance of a specific component or function. It understands global dependencies better than I do. If I change a prop in a shared component, the agent can find all 15 files where that component is used and suggest updates.
+- **`grep`:** The agent can scan my entire project for every instance of a specific component or function. It understands global dependencies better than I do. If I change a prop in a shared component, the agent can find all 15 files where that component is used and suggest updates.
 - **`read_file`:** It reads exactly what it needs, often looking at several files in parallel to understand a complex bug. It can trace a variable from the API route all the way to the frontend component.
 - **`run_shell_command`:** It can run `npm run dev`, check for errors, and even run my test suite to verify its own work. If a build fails, it sees the exact error message and starts debugging immediately.
-- **`replace`:** This is the game-changer. It identifies the exact lines that need to change, shows me a diff, and applies it surgically.
+- **`edit`:** This is the game-changer. It identifies the exact lines that need to change, shows me a diff, and applies it surgically.
 
 ## 3. Surgical Edits vs. Full Rewrites
 
 Standard LLMs love to rewrite your entire file. If you have a 300-line component and ask for a small change, they spit back 300 lines. This leads to "truncation errors" where the AI cuts off the end of the file, or worse, "hallucinations" where it accidentally deletes imports or changes logic it wasn't supposed to touch.
 
-Using the `replace` tool is surgical. If I want to change a single `div` to a `section` in a complex Astro component, the agent only touches those lines. It maintains the integrity of the rest of the file, keeping my custom logic, specific formatting, and comments intact. This precision is what allows me to trust an AI agent with a production codebase.
+Using the `edit` tool is surgical. If I want to change a single `div` to a `section` in a complex Astro component, the agent only touches those lines. It maintains the integrity of the rest of the file, keeping my custom logic, specific formatting, and comments intact. This precision is what allows me to trust an AI agent with a production codebase.
 
 ## 4. The Art of the Feedback Loop (Troubleshooting)
 
@@ -94,7 +94,7 @@ Yesterday, I wanted to add a "Reading Progress Bar" to my blog posts. Here was t
 
 A major concern for developers is security. You don't want to accidentally send your `.env` files or your AWS keys to an LLM. When you work in a browser, it's easy to accidentally paste a whole file that contains a secret.
 
-In a well-configured CLI environment, the agent respects your `.gitignore` and `.geminiignore` files. It won't read your secrets unless you explicitly tell it to. More importantly, because you are using an API-based tool, you often have more control over data retention policies than you do with a consumer-facing chat website. I’ve built a habit of keeping my secrets strictly in the environment, and the agent is trained to never print or log them.
+In a well-configured CLI environment, the agent respects your `.geminiignore` file to exclude sensitive directories. It won't read your secrets unless you explicitly tell it to. More importantly, because you are using an API-based tool, you often have more control over data retention policies than you do with a consumer-facing chat website. I’ve built a habit of keeping my secrets strictly in the environment, and the agent is trained to never print or log them.
 
 ## 7. Self-Validation: The "Build or Bust" Rule
 

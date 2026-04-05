@@ -32,10 +32,11 @@ Here's every major e-reader worth considering, with a recommendation for each ty
 | Kindle Paperwhite (2024) | 7" | 300 | No | IPX8 | 16 GB | ~$160 |
 | Kindle Paperwhite Signature | 7" | 300 | No | IPX8 | 32 GB | ~$200 |
 | Kindle Scribe | 10.2" | 300 | No | No | 16–64 GB | ~$400 |
-| Kobo Clara BW | 6" | 300 | No | IPX8 | 16 GB | ~$150 |
+| Kobo Clara BW | 6" | 300 | No | IPX8 | 16 GB | ~$130 |
 | Kobo Libra Colour | 7" | 300 | Yes (Kaleido 3) | IPX8 | 32 GB | ~$220 |
 | Kobo Sage | 8" | 300 | No | IPX8 | 32 GB | ~$260 |
-| Boox Tab Ultra C | 10.3" | 300 | Yes (Gallery 3) | No | 128 GB | ~$600 |
+| Kindle Colorsoft Signature | 7" | 300 | Yes (custom) | IPX8 | 32 GB | ~$280 |
+| Boox Tab Ultra C | 10.3" | 300 | Yes (Kaleido 3) | No | 128 GB | ~$600 |
 | reMarkable 2 | 10.3" | 226 | No | No | 8 GB | ~$450 |
 
 ---
@@ -64,11 +65,11 @@ Great first e-reader, especially if you're [not sure it's worth it yet](/is-kind
 
 ## Best for Library Users: [Kobo Clara BW](https://www.kobo.com/)
 
-**~$150** — Built-in library integration.
+**~$130** — Built-in library integration.
 
 The Kobo Clara BW's killer feature is native OverDrive support. Link your library card in settings, browse your library's catalog directly on the device, and borrow with one tap. No phone app needed, no extra steps.
 
-It also reads EPUB natively, has a 300 PPI screen, and is IPX8 waterproof. At $10 less than the Paperwhite, it's a legitimate alternative — especially for heavy library users.
+It also reads EPUB natively, has a 300 PPI screen, and is IPX8 waterproof. At $30 less than the Paperwhite, it's a legitimate alternative — especially for heavy library users.
 
 The trade-off: smaller 6-inch screen, shorter battery life, and a smaller bookstore. But if free library books are your primary reading source, nothing else comes close. Check our guide to [getting free books on Kindle](/free-books-kindle/) if you want to replicate this on Amazon's side.
 
@@ -80,7 +81,9 @@ Kobo's Libra Colour uses a Kaleido 3 E Ink display — monochrome text at full 3
 
 The 7-inch screen, physical page-turn buttons, and ergonomic asymmetric design make it comfortable for long sessions. It's waterproof, has stylus support for annotations, and maintains Kobo's excellent library integration.
 
-For manga, comics, or illustrated non-fiction, this is the best e-reader under $300.
+For manga, comics, or illustrated non-fiction, this is the best e-reader under $250.
+
+**Also worth considering:** The [Kindle Colorsoft Signature Edition](https://www.amazon.com/Kindle-Colorsoft-Signature-Edition/dp/B0CN1P7RSK) (~$280) is Amazon's first color Kindle. It uses a custom oxide-based color E Ink panel with 7-inch screen, IPX8 waterproofing, 32 GB storage, and wireless charging. Colors are slightly more vivid than Kaleido 3, but you lose Kobo's library integration and EPUB support. If you're already in the Kindle ecosystem and want color, it's the easier pick.
 
 ## Best for Note-Taking: Kindle Scribe
 
@@ -106,7 +109,7 @@ It's waterproof, has optional stylus support for annotations, and includes all o
 
 The Boox Tab Ultra C runs full Android, which means you can install *any* app — Kindle, Kobo, Libby, Pocket, even a web browser. It has a 10.3-inch color E Ink screen, 128 GB storage, and a rear camera for document scanning.
 
-This is for people who want maximum flexibility and don't mind paying for it. The color display is functional but muted (Gallery 3 E Ink technology). The software can feel sluggish compared to a purpose-built e-reader.
+This is for people who want maximum flexibility and don't mind paying for it. The color display is functional but muted (Kaleido 3 E Ink technology). The software can feel sluggish compared to a purpose-built e-reader.
 
 If you want one device that does everything — and you're willing to tinker — the Boox is the most capable option on the market. For everyone else, it's overkill. Our [Kindle modding guide](/kindle-modding-guide/) shows how to get some of this flexibility on a Kindle for free.
 
@@ -118,8 +121,8 @@ Ask yourself these questions:
 
 **What's your budget?**
 - Under $120 → Kindle Basic
-- $150–160 → Kindle Paperwhite or Kobo Clara BW
-- $200–260 → Kobo Libra Colour or Kobo Sage
+- $130–160 → Kobo Clara BW or Kindle Paperwhite
+- $200–280 → Kobo Libra Colour, Kobo Sage, or Kindle Colorsoft
 - $400+ → Kindle Scribe, reMarkable 2, or Boox
 
 **Where do you get your books?**
@@ -128,7 +131,7 @@ Ask yourself these questions:
 - Mixed / sideloading → Kobo or Boox
 
 **Do you want color?**
-- Yes (comics, manga) → Kobo Libra Colour
+- Yes (comics, manga) → Kobo Libra Colour or Kindle Colorsoft
 - Yes (maximum) → Boox Tab Ultra C
 - No (just books) → Kindle Paperwhite
 
