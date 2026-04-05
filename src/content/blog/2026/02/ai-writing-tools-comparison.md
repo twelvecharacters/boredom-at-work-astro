@@ -1,7 +1,7 @@
 ---
-title: "Best AI Writing Tools 2026 [Tested]: Grammarly vs Jasper vs Claude"
+title: "Best AI Writing Tools 2026: Grammarly vs Jasper vs Claude"
 slug: "ai-writing-tools-comparison"
-description: "I tested 8 AI writing tools for real work tasks. Grammarly, Jasper, Claude, and Copy.ai compared on quality, speed, and price."
+description: "Tested 8 AI writing tools on real work tasks. See how Grammarly, Jasper, Claude, and Copy.ai compare on output quality, speed, and value for money."
 publishDate: 2026-02-23
 author: "bored chap"
 image: "./ai-writing-tools-comparison.webp"

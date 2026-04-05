@@ -1,7 +1,7 @@
 ---
-title: "8 Best Free Investing Courses (2026) — Learn at Work"
+title: "8 Best Free Investing Courses in 2026"
 slug: "best-free-investing-courses"
-description: "These 8 free investing courses fit your work schedule. Yale, Khan Academy, and Morningstar — ranked by quality, no credit card needed to start learning."
+description: "Learn investing for free with top-rated courses from Yale, Khan Academy, and Morningstar. No credit card needed. Start today and level up your money skills."
 publishDate: 2026-03-05
 author: "bored chap"
 image: "./best-free-investing-courses.webp"
