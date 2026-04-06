@@ -34,7 +34,7 @@ ChatGPT is an AI chatbot created by OpenAI. You type messages, and it responds w
 
 ### How It Works (Simple Version)
 
-ChatGPT is powered by GPT-4o, OpenAI's current flagship large language model. It was trained on massive amounts of text from the internet—books, articles, websites, and more. It learned patterns in language, facts about the world, and how to structure responses.
+ChatGPT is powered by GPT-5.2, OpenAI's latest large language model. It was trained on massive amounts of text from the internet—books, articles, websites, and more. It learned patterns in language, facts about the world, and how to structure responses.
 
 When you ask it something, it can either generate a response based on its training or search the web for current information. You can also enable features like image generation, video creation, and deep research.
 
@@ -62,9 +62,9 @@ When you ask it something, it can either generate a response based on its traini
 
 ### ChatGPT Plans Compared
 
-| Feature | Free | Plus ($20/mo) | Team ($25-30/user/mo) | Pro ($200/mo) |
-|---------|------|---------------|----------------------|---------------|
-| GPT-4o access | Limited | Full | Full | Unlimited |
+| Feature | Free | Go | Plus ($20/mo) | Pro ($200/mo) |
+|---------|------|---|---------------|---------------|
+| GPT-5.2 access | Limited | Expanded | Full | Unlimited |
 | Response speed | Standard | Fast | Fast | Fastest |
 | Web search | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes |
 | Image generation (DALL-E) | Limited | Expanded | Expanded | Unlimited |
@@ -75,7 +75,7 @@ When you ask it something, it can either generate a response based on its traini
 | Custom GPTs | Limited | Full access | Full access | Full access |
 | File uploads | Limited | More | More | Unlimited |
 
-For most people, the free version is enough to get started. Upgrade to **Plus** if you use it heavily every day and want image/video generation. **Team** is for workplace collaboration with admin features. **Pro** is for power users who need unlimited access.
+For most people, the free version is enough to get started. **Go** is a new mid-tier for casual users who want more access. Upgrade to **Plus** if you use it heavily every day and want image/video generation. **Pro** is for power users who need unlimited access.
 
 ## Getting Started
 
@@ -99,7 +99,7 @@ When you log in, you'll see:
 - **Message box** - Where you type your prompts (at the bottom)
 - **New chat button** - Start a fresh conversation (top left)
 - **Chat history** - Your previous conversations (left sidebar)
-- **Model selector** - Choose between GPT-4o modes (top of chat)
+- **Model selector** - Choose between GPT-5.2 modes (top of chat)
 - **Attach button** - Upload files or images (in message box)
 - **Voice button** - Use voice input (in message box)
 - **Search toggle** - Enable/disable web search

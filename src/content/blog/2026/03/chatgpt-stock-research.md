@@ -60,7 +60,7 @@ Before we get into the prompts, let's set expectations clearly. I've seen too ma
 
 These are prompts I actually use. I've refined them over months of trial and error. Copy them, modify them, make them your own.
 
-A quick note on models: these prompts work best with GPT-4o, which is the default model for both free and Plus users. Free users get limited messages per rolling window before falling back to a lighter model. The o3 reasoning model is even better for complex financial analysis, but GPT-4o handles everything here just fine.
+A quick note on models: these prompts work best with GPT-5.2, which is the default model for both free and Plus users. Free users get limited messages per rolling window before falling back to a lighter model. The o3 reasoning model is even better for complex financial analysis, but GPT-5.2 handles everything here just fine.
 
 ### 1. Analyze a Company's Fundamentals
 

@@ -24,7 +24,7 @@ faq:
   - question: "Is Google Gemini better than ChatGPT?"
     answer: "Neither is universally better. Gemini excels at real-time information, Google integration, and multimodal tasks. ChatGPT is better for creative writing, complex reasoning, and has a more mature ecosystem with Custom GPTs and Sora video. Choose based on your primary use case."
   - question: "Is Google Gemini free to use?"
-    answer: "Yes, Gemini offers a generous free tier with access to Gemini 2.5 Flash. Google AI Pro (formerly Gemini Advanced) costs $20/month (included with Google One AI Premium) and gives full access to the latest models including Gemini 2.5 Pro."
+    answer: "Yes, Gemini offers a generous free tier with access to Gemini 3 Flash. Google AI Pro (formerly Gemini Advanced) costs $20/month (included with Google One AI Premium) and gives full access to the latest models including Gemini 3 Pro."
   - question: "Can Gemini access my Google Drive and Gmail?"
     answer: "Yes, with Google AI Pro (formerly Gemini Advanced) you can connect Google Workspace (Gmail, Drive, Docs, Calendar). Gemini can search your emails, summarize documents, and help with scheduling — a major advantage over ChatGPT."
 ---
@@ -60,10 +60,10 @@ Gemini is Google's AI assistant, powered by their Gemini family of language mode
 
 | Model | Best For | Availability |
 |-------|----------|--------------|
-| **Gemini 2.5 Flash** | Fast, everyday tasks | Free + AI Pro |
-| **Gemini 2.5 Pro** | Complex reasoning, long context (1M tokens) | AI Pro only |
+| **Gemini 3 Flash** | Fast, everyday tasks | Free + AI Pro |
+| **Gemini 3 Pro** | Complex reasoning, long context (1M tokens) | AI Pro only |
 
-The free tier gives you access to Gemini 2.5 Flash with some usage limits. Google AI Pro ($20/month, formerly Gemini Advanced) unlocks everything. Google also offers an AI Ultra tier at ~$250/month for power users.
+The free tier gives you access to Gemini 3 Flash with some usage limits. Google AI Pro ($20/month, formerly Gemini Advanced) unlocks everything. Google also offers an AI Ultra tier at ~$250/month for power users.
 
 ---
 
@@ -71,9 +71,9 @@ The free tier gives you access to Gemini 2.5 Flash with some usage limits. Googl
 
 | Feature | Free | AI Pro ($20/mo) |
 |---------|------|-------------------|
-| **Gemini 2.5 Flash** | Limited | Full |
-| **Gemini 2.5 Pro** | ❌ | ✅ |
-| **Gemini 2.5 Pro (1M context)** | ❌ | ✅ |
+| **Gemini 3 Flash** | Limited | Full |
+| **Gemini 3 Pro** | ❌ | ✅ |
+| **Gemini 3 Pro (1M context)** | ❌ | ✅ |
 | **Google Workspace integration** | ❌ | ✅ |
 | **Image generation (Imagen 4)** | Limited | Full |
 | **Deep Research** | ❌ | ✅ |
@@ -164,7 +164,7 @@ For web development, Gemini often provides more accurate answers about modern fr
 
 ### 5. Long Context Window
 
-Gemini 2.5 Pro offers a 1 million token context window — about 700,000 words.
+Gemini 3 Pro offers a 1 million token context window — about 700,000 words.
 
 **Use cases:**
 - Analyze entire codebases
@@ -213,7 +213,7 @@ For multi-step problems and nuanced analysis, Gemini struggles more than competi
 - Less reliable for math and logic puzzles
 - Tends to oversimplify when depth is needed
 
-Gemini 2.5 Pro improved this significantly, but ChatGPT and Claude still feel more reliable for complex tasks.
+Gemini 3 Pro improved this significantly, but ChatGPT and Claude still feel more reliable for complex tasks.
 
 ### 3. Following Specific Instructions
 
@@ -375,15 +375,15 @@ If you need great writing, switch to ChatGPT or Claude. Use each tool for what i
 ## Gemini Pricing: Is AI Pro Worth It?
 
 ### Free Tier
-- Gemini 2.5 Flash (unlimited)
-- Limited Gemini 2.5 Flash
+- Gemini 3 Flash (unlimited)
+- Limited Gemini 3 Flash
 - Basic image generation
 - No Workspace integration
 
 **Verdict:** Surprisingly capable. Good for trying Gemini and casual use.
 
 ### Google AI Pro ($20/month, formerly Gemini Advanced)
-- All models including Gemini 2.5 Pro
+- All models including Gemini 3 Pro
 - 1M token context (2.5 Pro)
 - Full Google Workspace integration
 - Unlimited image generation (Imagen 4)

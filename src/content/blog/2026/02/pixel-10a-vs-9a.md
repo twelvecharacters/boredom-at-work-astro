@@ -20,8 +20,6 @@ tldr: "Google's Pixel 10a lands in mid-February 2026. It features a sleeker flus
 isListicle: false
 ---
 
-> **Update (April 2026):** This article was originally published as a pre-launch preview based on leaks and rumors. Some details may have changed since the official launch.
-
 The wait is almost over. Today, February 5, 2026, Google officially teased the upcoming **Pixel 10a**, confirming that pre-orders will open on **February 18**. 
 
 If you've been eye-ing the Pixel 9a or are looking for a mid-range upgrade, this announcement changes the landscape. Let’s dive into everything we know about the Pixel 10a and how it stacks up against the already excellent Pixel 9a.
@@ -62,7 +60,7 @@ Rumors point to even thinner bezels on the Pixel 10a, giving it a more premium "
 
 | Feature | Pixel 9a (2025) | Pixel 10a (2026) |
 | :--- | :--- | :--- |
-| **Release Date** | May 2025 | February 2026 (Pre-order Feb 18) |
+| **Release Date** | March 2025 | February 2026 (Pre-order Feb 18) |
 | **Processor** | Tensor G4 | Tensor G4 (Optimized) |
 | **Display** | 6.3" OLED (120Hz) | 6.28" AMOLED (120Hz, Thinner Bezels) |
 | **Peak Brightness** | 2,700 nits | ~3,000 nits (Expected) |
