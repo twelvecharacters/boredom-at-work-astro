@@ -39,7 +39,7 @@ Understanding this helps you choose the right tool for your needs.
 | **[Grammarly](https://grammarly.com)** | Editing everything | $12/mo | Works everywhere |
 | **[Claude](https://claude.ai)** | Long-form writing | $20/mo | Best quality |
 | **[ChatGPT](https://chatgpt.com)** | Quick generation | $20/mo | Most versatile |
-| **[Jasper](https://jasper.ai)** | Marketing copy | $39/mo+ | Templates + brand voice |
+| **[Jasper](https://jasper.ai)** | Marketing copy | $59/mo+ | Templates + brand voice |
 | **[Copy.ai](https://copy.ai)** | Short-form marketing | From $29/mo | Fast iterations |
 | **[ProWritingAid](https://prowritingaid.com)** | Deep editing | $10/mo | Detailed feedback |
 | **[Hemingway](https://hemingwayapp.com)** | Clarity | Free/$20 | Simplicity |
@@ -229,7 +229,7 @@ Tends to over-explain. You'll often cut 30% of what it writes.
 
 ## Jasper — Best for Marketing Teams
 
-**Price:** $39/mo Creator / $69/mo Pro
+**Price:** $59/mo Pro (annual) / $69/mo Pro (monthly) / Business (custom)
 
 Jasper is purpose-built for marketing content at scale.
 
@@ -258,7 +258,7 @@ Approval processes, shared assets, collaboration tools.
 ### Weaknesses
 
 **Expensive**
-$39-69/month is steep, especially when Claude/ChatGPT cost $20.
+$59-69/month is steep, especially when Claude/ChatGPT cost $20.
 
 **Marketing-Focused**
 Overkill for general business writing. You're paying for features you won't use.

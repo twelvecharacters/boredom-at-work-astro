@@ -36,7 +36,7 @@ Before we dive deep, here are my top picks for different needs and budgets:
 | **Canon EOS R100** | ~$480 | Best Budget | Incredible value, great for learning |
 | **Nikon Z50 II** | ~$960 | Best Nikon | Excellent image quality, robust build |
 | **Sony A6100** | ~$750 | Best Autofocus | Unbeatable eye-tracking for portraits (discontinued) |
-| **Fujifilm X-T30 II** | ~$900 | Best Colors | Gorgeous film simulations, retro design (succeeded by X-T50) |
+| **Fujifilm X-T30 II** | ~$900 | Best Colors | Gorgeous film simulations, retro design (succeeded by X-T30 III) |
 
 ## What Makes a Good Beginner Camera?
 
@@ -199,7 +199,7 @@ The Sony A6100 may be a few years old, but its autofocus system remains one of t
 
 **Price:** ~$900 with kit lens | **Sensor:** 26.1MP APS-C
 
-*(Succeeded by the Fujifilm X-T50 — check availability, as the X-T30 II may be found discounted new or used.)*
+*(The X-T30 II has been succeeded by the Fujifilm X-T30 III — check availability, as the X-T30 II may be found discounted or used.)*
 
 The Fujifilm X-T30 II stands out with its gorgeous color science and classic film simulations. If you love the look of film photography, this is your camera.
 

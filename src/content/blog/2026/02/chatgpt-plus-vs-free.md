@@ -311,9 +311,9 @@ Before deciding on Plus, consider alternatives:
 | Word/Excel integration | ❌ No | ✅ Yes |
 | Image generation | ✅ DALL-E | ✅ DALL-E |
 | Standalone quality | Better | Decent |
-| Included in M365 Personal | ❌ No | ✅ Yes ($9.99/mo) |
+| Business add-on | ❌ No | ~$18-21/user/mo |
 
-**Note:** Standalone Copilot Pro was discontinued — Copilot is now bundled into Microsoft 365 Personal/Family/Premium plans. **Verdict:** ChatGPT Plus unless you live in Microsoft 365. [See our Copilot review](/microsoft-copilot-review/).
+**Verdict:** ChatGPT Plus unless you live in Microsoft 365. Copilot is bundled into M365 Personal/Family with limited credits; the business add-on is ~$18-21/user/mo. [See our Copilot review](/microsoft-copilot-review/).
 
 ### The Budget Option: Stay Free + Use Multiple Tools
 
