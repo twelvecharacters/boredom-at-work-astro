@@ -19,7 +19,7 @@ faq:
     answer: "It depends on the tool and your needs. Most AI tools use uploaded data for training by default—check privacy settings. For sensitive documents, use Claude (better privacy defaults), enterprise plans, or local tools like Ollama."
   - question: "What can AI PDF tools actually do?"
     answer: "Summarize documents, answer questions about content, extract specific information, compare multiple documents, find inconsistencies, translate content, and explain complex sections in simpler terms."
-tldr: "For most people: ChatGPT or Claude (both free tiers work). For research with multiple sources: NotebookLM (free, Google). For heavy PDF work: ChatPDF or Humata ($10-15/mo). Always verify AI summaries against the original for important work."
+tldr: "For most people: ChatGPT or Claude (both free tiers work). For research with multiple sources: NotebookLM (free, Google). For heavy PDF work: ChatPDF or Humata (~$13-15/mo). Always verify AI summaries against the original for important work."
 isListicle: true
 ---
 
@@ -38,7 +38,7 @@ Here's a breakdown of the best tools, what they're actually good at, and which o
 | **ChatGPT** | General use | Good | $20/mo | 128K tokens |
 | **Claude** | Long documents | Good | $20/mo | 200K tokens |
 | **NotebookLM** | Research, multiple docs | Excellent | Free | Large |
-| **ChatPDF** | PDF-focused workflow | Limited | $10/mo | 50MB files |
+| **ChatPDF** | PDF-focused workflow | Limited | ~$13/mo | 50MB files |
 | **Humata** | Teams, heavy use | Limited | $9.99/mo | Unlimited |
 | **Gemini** | Google users | Good | $19.99/mo | 1M+ tokens |
 
@@ -175,7 +175,7 @@ NotebookLM is Google's AI research tool—built specifically for working with mu
 
 ## 4. ChatPDF — Best Dedicated PDF Tool
 
-**Price:** Free (limited) / $10/mo Plus
+**Price:** Free (limited) / ~$13/mo Plus
 **Website:** [chatpdf.com](https://chatpdf.com)
 
 ChatPDF does one thing: chat with PDFs. It does it well.
