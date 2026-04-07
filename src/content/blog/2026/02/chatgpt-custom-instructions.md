@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT Custom Instructions: Setup Guide + Templates"
-description: "Set up ChatGPT custom instructions in 5 minutes and get better responses every time. Includes copy-paste templates for work, writing, and coding."
+title: "ChatGPT Custom Instructions: Best Practices + Templates (2026)"
+description: "ChatGPT custom instructions best practices, examples, and copy-paste templates for work, writing, and coding. Get better responses in 5 minutes."
 publishDate: 2026-02-13
 author: "bored chap"
 image: "./chatgpt-custom-instructions.webp"
