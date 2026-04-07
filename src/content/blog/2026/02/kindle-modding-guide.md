@@ -42,7 +42,7 @@ Modding your Kindle isn't just for tech geeks anymore. In 2026, the community ha
 When people talk about modding a Kindle, they usually mean one of two things:
 
 ### **Level 1: Software Tweaks (No Jailbreak Required)**
-These are simple changes using official features or side-loading tools like **Calibre**. You can add custom fonts, change your screen saver (if you have the "Ad-free" version), and organize your library better.
+These are simple changes using official features or [sideloading](/sideload-books-kindle/) tools like **Calibre**. You can add custom fonts, change your screen saver (if you have the "Ad-free" version), and organize your library better.
 
 ### **Level 2: The Jailbreak**
 This is where the magic happens. Jailbreaking allows you to run "unsigned" code on your Kindle. It opens the door to third-party apps, custom operating systems (like KOReader), and deep system modifications that Amazon never intended.

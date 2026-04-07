@@ -85,7 +85,7 @@ If you're a heavy library user, this alone might tip the scale toward Kobo. If y
 
 **Kobo:** Reads EPUB, PDF, MOBI, CBR/CBZ, and more natively. EPUB is the universal ebook standard, and Kobo handles it without conversion.
 
-**Kindle:** Reads EPUB (since 2022), MOBI, AZW3, PDF, and DOC. Amazon finally added native EPUB support, which was a major gap for years. You can sideload EPUBs via Send to Kindle email or USB.
+**Kindle:** Reads EPUB (since 2022), MOBI, AZW3, PDF, and DOC. Amazon finally added native EPUB support, which was a major gap for years. You can [sideload EPUBs](/sideload-books-kindle/) via Send to Kindle email or USB.
 
 Kobo still has an edge here — it handles a wider range of formats out of the box. But the gap has narrowed significantly. If you want to go deeper into sideloading and custom readers, check our [Kindle modding guide](/kindle-modding-guide/).
 

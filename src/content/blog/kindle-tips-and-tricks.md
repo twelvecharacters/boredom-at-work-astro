@@ -120,7 +120,7 @@ It's not fully custom screensavers (that still requires [jailbreaking](/kindle-m
 
 ### 15. Sideloading with Calibre
 
-[Calibre](https://calibre-ebook.com) (free, open-source) is the ultimate companion app for any Kindle owner. Connect via USB and you can:
+[Calibre](https://calibre-ebook.com) (free, open-source) is the ultimate companion app for any Kindle owner. For a full breakdown of every sideloading method, see our [complete sideloading guide](/sideload-books-kindle/). Connect via USB and you can:
 
 - Convert between ebook formats (EPUB → AZW3, PDF → EPUB)
 - Edit metadata and covers

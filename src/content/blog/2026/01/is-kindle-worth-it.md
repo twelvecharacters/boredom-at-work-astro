@@ -70,7 +70,7 @@ Tap any word for an instant definition. The Kindle also tracks words you look up
 
 ### 5. Kindle Unlimited and Library Integration
 
-- **Kindle Unlimited:** $11.99/month for access to millions of books
+- **[Kindle Unlimited](/kindle-unlimited-worth-it/):** $11.99/month for access to millions of books
 - **Library integration:** Borrow ebooks free from your local library via Libby/OverDrive
 
 If you read a lot, these can save serious money compared to buying every book.
@@ -99,7 +99,7 @@ E Ink is great for text, but:
 - **Slow refresh:** Page turns have a slight flash
 - **Basic web browsing:** Technically possible, practically unusable
 
-If you want to read graphic novels or textbooks with diagrams, a tablet is better.
+If you want to read graphic novels or textbooks with diagrams, a tablet is better. See our [Kindle vs iPad for reading](/kindle-vs-ipad-reading/) comparison for the full breakdown.
 
 ### 3. Your Phone Already Has a Kindle App
 
@@ -147,7 +147,7 @@ The Paperwhite hits the sweet spot: larger 7" screen than the basic Kindle, wate
 
 Fine for casual readers. Smaller screen, no waterproofing, and the light isn't as good, but it does the core job well.
 
-**For note-takers: Kindle Scribe ($499)**
+**For note-takers: [Kindle Scribe](/kindle-scribe-review/) ($499)**
 
 If you want to annotate books or use it as a digital notebook, the Scribe is excellent. But it's a significant investment.
 

@@ -21,7 +21,7 @@ faq:
 
 The e-reader market in 2026 has more options than ever — but the decision doesn't have to be complicated. Whether you want the cheapest decent reader or a premium device with color and note-taking, there's a clear best pick for each category.
 
-Here's every major e-reader worth considering, with a recommendation for each type of reader. (Not sure if you even need one? Start with [is a Kindle worth it](/is-kindle-worth-it/).)
+Here's every major e-reader worth considering, with a recommendation for each type of reader. (Not sure if you even need one? Start with [is a Kindle worth it](/is-kindle-worth-it/). Torn between an e-reader and a tablet? See [Kindle vs iPad for reading](/kindle-vs-ipad-reading/).)
 
 ---
 
@@ -32,7 +32,7 @@ Here's every major e-reader worth considering, with a recommendation for each ty
 | Kindle (2024) | 6" | 300 | No | No | 16 GB | ~$110 |
 | Kindle Paperwhite (2024) | 7" | 300 | No | IPX8 | 16 GB | ~$160 |
 | Kindle Paperwhite Signature | 7" | 300 | No | IPX8 | 32 GB | ~$200 |
-| Kindle Scribe | 10.2" | 300 | No | No | 16–64 GB | ~$400 |
+| [Kindle Scribe](/kindle-scribe-review/) | 10.2" | 300 | No | No | 16–64 GB | ~$400 |
 | Kobo Clara BW | 6" | 300 | No | IPX8 | 16 GB | ~$130 |
 | Kobo Libra Colour | 7" | 300 | Yes (Kaleido 3) | IPX8 | 32 GB | ~$220 |
 | Kobo Sage | 8" | 300 | No | IPX8 | 32 GB | ~$260 |
@@ -86,7 +86,7 @@ For manga, comics, or illustrated non-fiction, this is the best e-reader under $
 
 **Also worth considering:** The [Kindle Colorsoft Signature Edition](https://www.amazon.com/Kindle-Colorsoft-Signature-Edition/dp/B0CN1P7RSK) (~$280) is Amazon's first color Kindle. It uses a custom oxide-based color E Ink panel with 7-inch screen, IPX8 waterproofing, 32 GB storage, and wireless charging. Colors are slightly more vivid than Kaleido 3, but you lose Kobo's library integration and EPUB support. If you're already in the Kindle ecosystem and want color, it's the easier pick.
 
-## Best for Note-Taking: Kindle Scribe
+## Best for Note-Taking: [Kindle Scribe](/kindle-scribe-review/)
 
 **~$400** — An e-reader that doubles as a notebook.
 

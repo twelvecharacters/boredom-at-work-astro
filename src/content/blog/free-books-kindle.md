@@ -82,7 +82,7 @@ This is hands down the best free book source for Kindle owners. If you're not us
 
 **The good:** No extra cost if you have Prime. Includes some popular titles, magazines (like Wired, People), and comics.
 
-**The catch:** Small, rotating catalog. The best titles come and go. You can only borrow 10 at a time — you have to return one to borrow another. Not the same as Kindle Unlimited ($11.99/month), which has 4+ million titles.
+**The catch:** Small, rotating catalog. The best titles come and go. You can only borrow 10 at a time — you have to return one to borrow another. Not the same as [Kindle Unlimited](/kindle-unlimited-worth-it/) ($11.99/month), which has 4+ million titles.
 
 **Catalog size:** ~1,000 rotating titles.
 
@@ -132,7 +132,7 @@ For sources #2, #6, and #7, you'll be downloading files and sending them to your
 2. Email the EPUB file to that address
 3. The book appears on your Kindle within minutes
 
-Amazon accepts EPUB, PDF, DOC, and TXT files. EPUB works best for ebooks. If you need to convert formats or clean up formatting, [Calibre is your best friend](/kindle-modding-guide/).
+Amazon accepts EPUB, PDF, DOC, and TXT files. EPUB works best for ebooks. For a full walkthrough of every method, see our [sideloading guide](/sideload-books-kindle/). If you need to convert formats or clean up formatting, [Calibre is your best friend](/kindle-modding-guide/).
 
 ---
 

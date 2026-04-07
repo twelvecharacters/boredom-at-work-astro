@@ -68,7 +68,7 @@ Amazon runs the world's largest ebook store. Period.
 
 **Pros:**
 - Massive selection — if a book exists digitally, it's probably on Amazon
-- Kindle Unlimited ($11.99/month) — millions of books included
+- [Kindle Unlimited](/kindle-unlimited-worth-it/) ($11.99/month) — millions of books included
 - Prime Reading — free books for Prime members
 - Whispersync — sync progress across all your devices
 - Audible integration — switch between reading and listening
@@ -125,7 +125,7 @@ For heavy library users, this alone might tip the scales toward Kobo.
 
 If you have ebooks from various sources (Humble Bundle, DRM-free stores, etc.), Kobo handles them with less friction. Most DRM-free ebooks come in EPUB format.
 
-You can convert EPUBs for Kindle using Calibre software, but it's an extra step. Alternatively, [modding your Kindle](/kindle-modding-guide/) with KOReader gives you native EPUB support without any conversion hassle.
+You can [sideload EPUBs on Kindle](/sideload-books-kindle/) using Calibre or Send to Kindle, but it's an extra step. Alternatively, [modding your Kindle](/kindle-modding-guide/) with KOReader gives you native EPUB support without any conversion hassle.
 
 ## Hardware Comparison: Full Lineup
 
@@ -136,7 +136,7 @@ You can convert EPUBs for Kindle using Calibre software, but it's an extra step.
 | Kindle | $109 | 6" | Basic, budget-friendly |
 | Paperwhite | $160 | 7" | Best value, waterproof |
 | Paperwhite Signature | $200 | 7" | Wireless charging, 32GB |
-| Scribe | $499 | 10.2" | Stylus, note-taking |
+| [Scribe](/kindle-scribe-review/) | $499 | 10.2" | Stylus, note-taking |
 
 *Note: Kindle Oasis discontinued in 2025*
 
