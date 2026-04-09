@@ -276,8 +276,8 @@ If you're unsure:
 
 The question isn't just "Is a 3D printer worth it?" but "Does this hobby suit me?" If while reading this article you thought "That sounds exactly like me!" - then yes, it's worth it.
 
-If you're mainly interested because of cost savings and otherwise have no interest in technology - then probably not.
+If you're mainly interested because of cost savings and otherwise have no interest in technology - then probably not. Check our [3D printing cost breakdown](/3d-printing-cost-guide/) to see if the numbers work for your situation.
 
 ---
 
-*Ready to get started? Read our [3D Printing Beginner Guide](/3d-printing-beginners-guide/) or compare the [best 3D printers under $300](/best-3d-printers-under-300/). For all our 3D printing content, see the [3D Printing Guide](/3d-printing-guide/).*
+*Ready to get started? Read our [3D Printing Beginner Guide](/3d-printing-beginners-guide/), check the [real costs of 3D printing](/3d-printing-cost-guide/), or compare the [best 3D printers under $300](/best-3d-printers-under-300/). For all our 3D printing content, see the [3D Printing Guide](/3d-printing-guide/).*

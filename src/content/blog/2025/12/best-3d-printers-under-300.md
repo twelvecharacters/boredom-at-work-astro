@@ -242,7 +242,7 @@ The Elegoo Neptune 4 offers excellent value for money with Klipper firmware pre-
 
 ### Is $200 Enough for a Good Printer?
 
-Yes, but with caveats. The Creality Ender 3 V3 SE for ~$200 is excellent but requires more learning time. Below $150, quality becomes problematic - these printers often cost more long-term through frustration and upgrades.
+Yes, but with caveats. The Creality Ender 3 V3 SE for ~$200 is excellent but requires more learning time. Below $150, quality becomes problematic - these printers often [cost more long-term](/3d-printing-cost-guide/) through frustration and upgrades.
 
 ### Do I Need to Buy Additional Software?
 

@@ -1,7 +1,7 @@
 ---
-title: "Unlock Your E-Reader: The Ultimate Kindle Modding Guide (2026)"
+title: "Kindle Modding Guide: Jailbreak, KOReader & More (2026)"
 slug: "kindle-modding-guide"
-description: "Ready to take your Kindle to the next level? From jailbreaking to installing KOReader, here is everything you need to know about Kindle modding."
+description: "The complete Kindle modding guide: jailbreaking, installing KOReader, custom screensavers, and sideloading. Everything you need to unlock your e-reader."
 publishDate: 2026-02-18
 author: "bored chap"
 image: "./kindle-modding-guide.webp"

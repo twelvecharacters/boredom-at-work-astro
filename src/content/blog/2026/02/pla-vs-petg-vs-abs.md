@@ -54,7 +54,7 @@ The long answer involves trade-offs between ease of printing, strength, flexibil
 - **No enclosure needed** — Print in any room
 - **Virtually no odor** — Safe for home use without ventilation
 - **Wide color selection** — Every color and finish imaginable
-- **Cheapest option** — Often $18-22/kg for quality brands
+- **Cheapest option** — Often [$18-22/kg for quality brands](/3d-printing-cost-guide/)
 
 ### PLA's Limitations
 
