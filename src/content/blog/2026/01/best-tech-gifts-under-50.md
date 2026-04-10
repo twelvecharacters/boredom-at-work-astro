@@ -53,7 +53,7 @@ USB-C, Lightning, and Micro-USB in one cable. Perfect for people with multiple d
 MagSafe-compatible wireless charging for iPhones. Faster than cheap knockoffs, actually works reliably.
 
 ### 10. Cable Management Box — $15-20
-Hide the cable mess under desks. Not glamorous, but everyone who gets one loves it.
+Hide the cable mess under desks. Not glamorous, but everyone who gets one loves it. For something more unique, the [TRMNL E-Ink Dashboard](/trmnl-e-ink-dashboard-review/) ($99-149) is a glanceable, distraction-free display for calendars, stocks, and GitHub stats — a standout desk gift for the focused professional.
 
 ## Smart Home
 

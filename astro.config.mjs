@@ -110,6 +110,8 @@ export default defineConfig({
       filter: (page) =>
         // Exclude tag pages
         !page.includes('/tags/') &&
+        // Exclude archive pages (noindexed)
+        !page.includes('/archive/') &&
         // Exclude paginated blog pages (keep /blog/ but not /blog/2/, /blog/3/, etc.)
         !/\/blog\/\d+\/?$/.test(page),
       serialize(item) {

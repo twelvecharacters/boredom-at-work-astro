@@ -19,6 +19,7 @@
     "traffic:cluster": "node scripts/gsc-traffic.js --cluster && node scripts/bing-traffic.js --cluster"
   },
   "dependencies": {
+    "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.1",
     "@pagefind/default-ui": "^1.4.0",
     "@tailwindcss/vite": "^4.2.1",

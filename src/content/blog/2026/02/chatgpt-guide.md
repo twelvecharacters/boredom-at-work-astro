@@ -192,6 +192,8 @@ How ChatGPT should respond:
 
 **Deep dive:** [ChatGPT Custom Instructions: Complete Guide](/chatgpt-custom-instructions/)
 
+**Want ready-made setups?** Grab one of our [15 copy-paste custom instructions templates](/chatgpt-custom-instructions-templates/) for work, writing, coding, and more.
+
 ### Skill 3: Working with Files
 
 ChatGPT can read and analyze files you upload:

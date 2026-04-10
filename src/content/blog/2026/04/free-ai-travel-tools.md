@@ -1,5 +1,5 @@
 ---
-title: "Free AI Tools for Budget Travel: Plan Trips Without Spending a Dime"
+title: "Free AI Tools for Budget Travel Planning (2026)"
 description: "You don't need premium subscriptions to plan great trips. These free AI tools help budget travelers create itineraries, find deals, and save money."
 publishDate: 2026-04-27
 author: "bored chap"

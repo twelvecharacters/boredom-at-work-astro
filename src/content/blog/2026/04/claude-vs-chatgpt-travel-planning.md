@@ -1,5 +1,5 @@
 ---
-title: "Claude vs ChatGPT for Travel Planning: Which AI Plans Better Trips?"
+title: "Claude vs ChatGPT for Travel Planning (2026)"
 description: "We tested both AI assistants with the same trip requests. Here's which one creates better itineraries, gives more accurate info, and saves more time."
 publishDate: 2026-04-22
 author: "bored chap"

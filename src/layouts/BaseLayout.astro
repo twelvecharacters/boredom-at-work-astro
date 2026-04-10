@@ -18,6 +18,7 @@ interface Props {
   tags?: string[];
   imageAlt?: string;
   noindex?: boolean;
+  nocanonical?: boolean;
   prevUrl?: string;
   nextUrl?: string;
 }
@@ -33,6 +34,7 @@ const {
   tags = [],
   imageAlt,
   noindex = false,
+  nocanonical = false,
   prevUrl,
   nextUrl,
 } = Astro.props;
@@ -68,50 +70,60 @@ const socialImageURL = new URL(socialImagePath || "/images/og-default.webp", Ast
       </>
     )}
 
-    <SEO
-      title={`${title} | ${SITE.title}`}
-      description={description}
-      canonical={canonicalURL.toString()}
-      noindex={noindex}
-      openGraph={{
-        basic: {
+    {nocanonical ? (
+      <Fragment>
+        <title>{`${title} | ${SITE.title}`}</title>
+        {description && <meta name="description" content={description} />}
+        <meta name="robots" content={`${noindex ? "noindex" : "index"}, follow`} />
+        <meta name="author" content={SITE.author} />
+        <meta name="generator" content={Astro.generator} />
+      </Fragment>
+    ) : (
+      <SEO
+        title={`${title} | ${SITE.title}`}
+        description={description}
+        canonical={canonicalURL.toString()}
+        noindex={noindex}
+        openGraph={{
+          basic: {
+            title: title,
+            type: article ? "article" : "website",
+            image: socialImageURL.toString(),
+            url: canonicalURL.toString(),
+          },
+          optional: {
+            siteName: SITE.title,
+            description: description,
+          },
+          image: {
+            width: 1200,
+            height: 630,
+            type: "image/webp",
+            alt: imageAlt || title,
+          },
+          article: article ? {
+            publishedTime: publishDate?.toISOString(),
+            modifiedTime: (updatedDate || publishDate)?.toISOString(),
+            authors: [SITE.author],
+            tags: tags,
+          } : undefined
+        }}
+        twitter={{
+          card: "summary_large_image",
+          site: "@boredom_at_work",
           title: title,
-          type: article ? "article" : "website",
-          image: socialImageURL.toString(),
-          url: canonicalURL.toString(),
-        },
-        optional: {
-          siteName: SITE.title,
           description: description,
-        },
-        image: {
-          width: 1200,
-          height: 630,
-          type: "image/webp",
-          alt: imageAlt || title,
-        },
-        article: article ? {
-          publishedTime: publishDate?.toISOString(),
-          modifiedTime: (updatedDate || publishDate)?.toISOString(),
-          authors: [SITE.author],
-          tags: tags,
-        } : undefined
-      }}
-      twitter={{
-        card: "summary_large_image",
-        site: "@boredom_at_work",
-        title: title,
-        description: description,
-        image: socialImageURL.toString(),
-        imageAlt: imageAlt || title,
-      }}
-      extend={{
-        meta: [
-          { name: "author", content: SITE.author },
-          { name: "generator", content: Astro.generator },
-        ],
-      }}
-    />
+          image: socialImageURL.toString(),
+          imageAlt: imageAlt || title,
+        }}
+        extend={{
+          meta: [
+            { name: "author", content: SITE.author },
+            { name: "generator", content: Astro.generator },
+          ],
+        }}
+      />
+    )}
 
     <!-- Schema.org JSON-LD -->
     <script type="application/ld+json" set:html={JSON.stringify({

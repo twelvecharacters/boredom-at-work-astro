@@ -1,5 +1,5 @@
 ---
-title: "10 Beginner Photography Mistakes Everyone Makes (And How to Fix Them)"
+title: "10 Beginner Photography Mistakes to Avoid (2026)"
 slug: "beginner-photography-mistakes"
 description: "Avoid the most common beginner photography mistakes that ruin your photos. Learn practical fixes for blurry images, bad composition, and exposure problems."
 publishDate: 2025-12-28

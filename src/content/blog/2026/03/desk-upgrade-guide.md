@@ -342,6 +342,10 @@ The best gear set up wrong is worse than average gear set up right. Spend 10 min
 - [Best Laptop Stands](/best-laptop-stands/)
 - [Best Under-Desk Footrests](/best-footrests/)
 - [Cable Management Tips](/cable-management-tips/)
+- [10 Desk Upgrades You Can 3D Print for Under $1](/10-practical-desk-upgrades-3d-print/)
+
+**3D Printing for Your Desk:**
+- [Best Functional 3D Prints](/best-functional-3d-prints/)
 
 ---
 

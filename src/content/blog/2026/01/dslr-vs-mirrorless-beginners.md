@@ -1,5 +1,5 @@
 ---
-title: "DSLR vs Mirrorless for Beginners: Which Camera Type Should You Buy?"
+title: "DSLR vs Mirrorless for Beginners (2026)"
 slug: "dslr-vs-mirrorless-beginners"
 description: "DSLR or mirrorless camera? We explain the key differences, pros and cons, and help beginners decide which camera type is right for their photography journey."
 publishDate: 2026-01-06

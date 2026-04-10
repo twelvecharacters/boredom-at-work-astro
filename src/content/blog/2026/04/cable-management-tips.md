@@ -55,7 +55,7 @@ Before buying products, understand the goal: **every cable needs a home, a path,
 | **Path** | How it gets from A to B | Route along edges, out of sight |
 | **Excess** | Extra cable length | Bundle and hide under desk |
 
-Most cable mess comes from excess length. That 6-foot power cable only needs 2 feet, but the extra 4 feet creates chaos.
+Most cable mess comes from excess length. That 6-foot power cable only needs 2 feet, but the extra 4 feet creates chaos. If you own a 3D printer, you can print custom cable clips, under-desk trays, and routing brackets for pennies — see our guide to [10 desk upgrades you can 3D print for under $1](/10-practical-desk-upgrades-3d-print/).
 
 ---
 

@@ -524,6 +524,7 @@ You can always refine later. The best custom instructions are the ones you actua
 
 ## Related Articles
 
+- [15 ChatGPT Custom Instructions Templates](/chatgpt-custom-instructions-templates/) — Copy-paste templates for work, writing, coding, and more
 - [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything you need to know about ChatGPT
 - [ChatGPT Tutorial for Beginners](/chatgpt-tutorial-beginners/) — Start here if you're new
 - [Learn Prompt Engineering](/prompt-engineering-afternoon/) — Write better prompts
