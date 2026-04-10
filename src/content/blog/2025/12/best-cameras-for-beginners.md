@@ -6,6 +6,7 @@ publishDate: 2025-12-31
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./best-cameras-beginners.webp"
+imageAlt: "Collection of beginner cameras from Canon, Nikon, and Sony on a white surface"
 tags: ["Photography", "Cameras", "Beginners", "Buying Guide"]
 draft: false
 isListicle: true

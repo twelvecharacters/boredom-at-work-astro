@@ -5,6 +5,7 @@ description: "Learn how to use Gemini, ChatGPT, and AI add-ons in Google Sheets 
 publishDate: 2026-07-02
 author: "bored chap"
 image: "./ai-for-google-sheets.webp"
+imageAlt: "AI assistant generating formulas in a Google Sheets spreadsheet"
 tags: ["AI Tools", "Productivity", "Google Sheets", "Gemini"]
 draft: false
 faq:

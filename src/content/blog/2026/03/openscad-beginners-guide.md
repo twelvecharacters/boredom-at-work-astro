@@ -5,6 +5,7 @@ description: "Learn how to use OpenSCAD to design custom 3D prints by writing co
 publishDate: 2026-03-23
 author: "bored chap"
 image: "./openscad-beginners-guide.webp"
+imageAlt: "OpenSCAD code editor with a 3D model preview for beginners"
 tags: ["3D Printing", "CAD", "Software", "Tutorial", "OpenSCAD"]
 draft: false
 faq:

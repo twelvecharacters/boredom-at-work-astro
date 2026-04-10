@@ -5,6 +5,7 @@ description: "Build the Sesame Robot — an open-source 3D-printed quadruped wit
 publishDate: 2026-03-22
 author: "bored chap"
 image: "./sesame-robot.webp"
+imageAlt: "Sesame Robot 3D printed quadruped with OLED eyes on a desk"
 tags: ["3D Printing", "Robotics", "DIY", "ESP32", "Open Source"]
 draft: false
 faq:

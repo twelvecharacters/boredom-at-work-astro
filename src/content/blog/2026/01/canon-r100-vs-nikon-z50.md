@@ -5,6 +5,7 @@ description: "Canon R100 or Nikon Z50 II? We compare these popular beginner mirr
 publishDate: 2026-01-04
 author: "bored chap"
 image: "./canon-r100-vs-nikon-z50.webp"
+imageAlt: "Side-by-side comparison of Canon EOS R100 and Nikon Z50 II cameras"
 tags: ["Photography", "Cameras", "Canon", "Nikon", "Comparison"]
 draft: false
 review:
@@ -12,6 +13,7 @@ review:
   productName: "Canon EOS R100"
   productBrand: "Canon"
   priceRange: "$480"
+  reviewBody: "The Canon EOS R100 is the best budget mirrorless camera for beginners, delivering 90% of what new photographers need at nearly half the price of the Nikon Z50 II. Its Guided Display mode actively teaches photography fundamentals while you shoot, and the money saved can go toward lenses that will have a bigger impact on your images than any body upgrade."
 faq:
   - question: "Is the Canon R100 or Nikon Z50 II better for beginners?"
     answer: "The Canon R100 is better for absolute beginners due to its Guided Display mode and simpler menus. The Nikon Z50 II is better for beginners who want more features and are willing to spend more time learning."

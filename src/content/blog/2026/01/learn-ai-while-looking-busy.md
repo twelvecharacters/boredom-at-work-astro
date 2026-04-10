@@ -6,6 +6,7 @@ publishDate: 2026-01-10
 author: "bored chap"
 tags: ["AI Learning", "Productivity", "Career Tips", "Tutorial"]
 image: "./looking-busy.webp"
+imageAlt: "Person discreetly learning AI skills at an office desk"
 draft: false
 faq:
   - question: "Can I learn AI during work hours without getting in trouble?"

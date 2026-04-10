@@ -13,6 +13,7 @@ review:
   productName: "Kindle Scribe (2025)"
   productBrand: "Amazon"
   priceRange: "$499.99 - $549.99"
+  reviewBody: "The Kindle Scribe is the best all-in-one device for office workers who both read and take meeting notes, with genuinely useful AI-powered note summaries and a distraction-free E Ink screen. The missing app ecosystem and clunky export workflow hold it back from a perfect score, but for the hybrid reader-and-writer nothing else comes this close at $500."
 faq:
   - question: "Can the Kindle Scribe replace a paper notebook for work?"
     answer: "For most office tasks, yes. The Kindle Scribe handles meeting notes, to-do lists, and document annotations well. Handwriting feels natural with minimal lag, and AI-powered summaries help you find notes later. The main limitation is the lack of real-time sync to apps like Notion or Google Docs — you'll need to export manually."

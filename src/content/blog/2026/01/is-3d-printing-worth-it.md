@@ -5,6 +5,7 @@ description: "Is 3D printing worth the money? An honest breakdown of purchase co
 publishDate: 2026-01-09
 author: "bored chap"
 image: "./is-3d-printing-worth-it.webp"
+imageAlt: "3D printer with cost breakdown elements on a modern desk"
 tags: ["3D Printing", "Buying Guide", "Costs", "Beginners"]
 draft: false
 faq:

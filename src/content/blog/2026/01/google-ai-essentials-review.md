@@ -6,12 +6,14 @@ publishDate: 2026-01-08
 author: "bored chap"
 tags: ["Google AI", "Course Review", "AI Certification"]
 image: "./google-ai.webp"
+imageAlt: "Google AI Essentials course interface on a laptop screen"
 draft: false
 review:
   rating: 4.5
   productName: "Google AI Essentials"
   productBrand: "Google"
   priceRange: "Free–$49"
+  reviewBody: "Google AI Essentials is the best starting point for AI beginners, offering a practical and well-structured 10-hour curriculum with a Google-branded certificate that carries real weight on LinkedIn. It stays surface-level by design, which is a limitation for technical users, but the immediately applicable prompting techniques and hands-on exercises make the $49 certificate a strong ROI for career-minded professionals."
 course:
   name: "Google AI Essentials"
   description: "Google's beginner-friendly AI course covering AI fundamentals, prompt engineering, and practical applications. Certificate available."

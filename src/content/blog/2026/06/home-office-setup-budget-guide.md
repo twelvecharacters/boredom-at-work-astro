@@ -5,6 +5,7 @@ description: "Three complete home office setups at $500, $1,000, and $2,000. Ful
 publishDate: 2026-06-19
 author: "bored chap"
 image: "./home-office-setup-budget-guide.webp"
+imageAlt: "Three home office setups at different budget levels side by side"
 tags: ["Home Office", "Work From Home", "Office Setup", "Desk Setup", "Guide"]
 draft: false
 faq:

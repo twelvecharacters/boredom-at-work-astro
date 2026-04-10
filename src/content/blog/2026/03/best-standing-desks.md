@@ -5,6 +5,7 @@ description: "Find the perfect standing desk for your home office. We compare Fl
 publishDate: 2026-03-23
 author: "bored chap"
 image: "./best-standing-desks.webp"
+imageAlt: "Collection of standing desks at different heights in a home office"
 tags: ["Office Setup", "Standing Desks", "Work From Home", "Productivity", "Buying Guide"]
 draft: false
 faq:

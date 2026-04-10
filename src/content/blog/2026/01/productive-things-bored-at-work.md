@@ -6,6 +6,7 @@ publishDate: 2026-01-11
 author: "bored chap"
 tags: ["Productivity", "Career Growth", "Work Tips"]
 image: "./productive-work.webp"
+imageAlt: "Illustration showing productive activities at an office desk"
 draft: false
 isListicle: true
 faq:

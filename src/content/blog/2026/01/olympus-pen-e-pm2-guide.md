@@ -5,6 +5,7 @@ description: "Discover why the Olympus PEN Lite E-PM2 is a hidden gem for photog
 publishDate: 2026-01-14
 author: "bored chap"
 image: "./olympus-e-pm2.webp"
+imageAlt: "Olympus PEN E-PM2 camera on a desk in a modern workspace"
 tags: ["Photography", "Cameras", "Buying Guide", "Retro Tech"]
 draft: false
 faq:

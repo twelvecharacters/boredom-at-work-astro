@@ -7,6 +7,7 @@ interface Props {
     productName: string;
     productBrand?: string;
     priceRange?: string;
+    reviewBody?: string;
   };
   articleTitle: string;
   articleDescription: string;
@@ -82,7 +83,7 @@ const schemaData = {
       "name": author
     },
     "datePublished": publishDate.toISOString(),
-    "reviewBody": articleDescription,
+    "reviewBody": review.reviewBody || articleDescription,
     "publisher": {
       "@type": "Organization",
       "name": SITE.title

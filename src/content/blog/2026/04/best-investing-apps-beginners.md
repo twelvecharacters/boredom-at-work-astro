@@ -5,6 +5,7 @@ description: "I tested every major investing app so you don't have to. Here are 
 publishDate: 2026-04-08
 author: "bored chap"
 image: "./best-investing-apps-beginners.webp"
+imageAlt: "Collection of beginner investing app interfaces on a smartphone"
 tags: ["Investing", "Finance Apps", "Beginners", "Personal Finance", "Tools"]
 draft: false
 isListicle: true

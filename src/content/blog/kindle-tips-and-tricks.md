@@ -5,6 +5,7 @@ description: "Hidden Kindle features from custom fonts to Vocabulary Builder. 15
 publishDate: 2026-04-07
 author: "bored chap"
 image: "./kindle-tips-and-tricks.webp"
+imageAlt: "Kindle e-reader showing hidden features and customization options"
 tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Tips", "Productivity"]
 draft: false
 faq:

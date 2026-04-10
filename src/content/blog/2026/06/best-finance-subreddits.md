@@ -5,6 +5,7 @@ description: "I've been lurking these finance subreddits for years. Here are the
 publishDate: 2026-06-10
 author: "bored chap"
 image: "./best-finance-subreddits.webp"
+imageAlt: "Collection of finance subreddit community pages on a screen"
 tags: ["Investing", "Reddit", "Personal Finance", "Community", "Learning"]
 draft: false
 isListicle: true

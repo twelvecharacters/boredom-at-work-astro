@@ -5,6 +5,7 @@ description: "Skip the toys — these 20 functional 3D prints solve real problem
 publishDate: 2026-08-29
 author: "bored chap"
 image: "./best-functional-3d-prints.webp"
+imageAlt: "Collection of functional 3D printed objects for desk and home use"
 tags: ["3D Printing", "Home Office", "Desk Accessories", "Productivity", "Projects"]
 draft: false
 isListicle: true

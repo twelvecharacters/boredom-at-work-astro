@@ -5,6 +5,7 @@ description: "Learn how to buy from Japanese websites like Yahoo Auctions, Merca
 publishDate: 2026-01-17
 author: "bored chap"
 image: "./buy-from-japan-guide.webp"
+imageAlt: "Step-by-step visual guide for buying products from Japanese websites"
 tags: ["Japan Shopping", "Import Guide", "Yahoo Auctions", "Mercari Japan", "Beginners"]
 draft: false
 faq:

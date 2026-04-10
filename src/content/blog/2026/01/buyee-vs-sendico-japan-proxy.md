@@ -5,6 +5,7 @@ description: "A detailed comparison of Buyee and Sendico proxy services. Find ou
 publishDate: 2026-01-15
 author: "bored chap"
 image: "./buyee-vs-sendico.webp"
+imageAlt: "Side-by-side comparison of Buyee and Sendico proxy service interfaces"
 tags: ["Japan Shopping", "Proxy Services", "Buyee", "Sendico", "Import Guide"]
 draft: false
 faq:

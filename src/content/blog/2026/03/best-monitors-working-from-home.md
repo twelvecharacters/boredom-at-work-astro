@@ -6,6 +6,7 @@ publishDate: 2026-03-09
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./best-monitors-working-from-home.webp"
+imageAlt: "Collection of WFH monitors arranged on desks in a home office"
 tags: ["Office Setup", "Monitors", "Work From Home", "Productivity", "Guide"]
 draft: false
 isListicle: true

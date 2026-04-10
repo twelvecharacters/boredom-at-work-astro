@@ -5,6 +5,7 @@ description: "Unique Japanese products worth importing: vintage cameras, station
 publishDate: 2026-01-19
 author: "bored chap"
 image: "./japanese-products-import.webp"
+imageAlt: "Collection of Japanese products including stationery, snacks, and electronics"
 tags: ["Japan Shopping", "Import Guide", "Japanese Products", "Gift Ideas"]
 draft: false
 isListicle: true

@@ -6,6 +6,7 @@ publishDate: 2026-02-14
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./ai-meeting-assistants.webp"
+imageAlt: "Collection of AI meeting assistant app interfaces on a laptop screen"
 tags: ["AI", "Meetings", "Productivity", "Otter.ai", "Comparison"]
 draft: false
 isListicle: true

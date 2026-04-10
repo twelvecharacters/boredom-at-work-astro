@@ -4,6 +4,7 @@ description: "Plan your Cambodia adventure with AI. From Angkor Wat to tropical 
 publishDate: 2026-06-12
 author: "bored chap"
 image: "./ai-trip-planning-cambodia.webp"
+imageAlt: "Cambodia travel scene with Angkor Wat and AI trip planning elements"
 tags: ["AI", "Travel", "Cambodia", "Asia", "AI Travel"]
 draft: false
 faq:

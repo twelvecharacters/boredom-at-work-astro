@@ -5,6 +5,7 @@ description: "Looking for free 3D printable models? Here are the 11 best sites t
 publishDate: 2026-02-27
 author: "bored chap"
 image: "./best-sites-free-3d-models.webp"
+imageAlt: "Collection of free 3D model websites showing STL file previews"
 tags: ["3D Printing", "STL Files", "Free Models", "Resources", "Downloads"]
 draft: false
 isListicle: true

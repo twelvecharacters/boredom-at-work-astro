@@ -5,6 +5,7 @@ description: "The complete guide to investing tools for beginners. Brokerage app
 publishDate: 2026-05-15
 author: "bored chap"
 image: "./investing-tools-guide.webp"
+imageAlt: "Illustration showing investing tools organized by category for beginners"
 tags: ["Investing", "Finance Tools", "Personal Finance", "Beginners", "Hub Page"]
 draft: false
 isListicle: false

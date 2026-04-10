@@ -5,6 +5,7 @@ description: "Your first 3D print is coming up? Here are 25 perfect beginner pro
 publishDate: 2026-01-13
 author: "bored chap"
 image: "./first-3d-prints.webp"
+imageAlt: "Collection of beginner 3D print projects arranged on a clean background"
 tags: ["3D Printing", "Beginners", "Projects", "Ideas", "Printables"]
 draft: false
 isListicle: true

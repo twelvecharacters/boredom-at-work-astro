@@ -5,6 +5,7 @@ description: "Best free investing education resources for beginners: Yale, Khan 
 publishDate: 2026-03-05
 author: "bored chap"
 image: "./best-free-investing-courses.webp"
+imageAlt: "Collection of free investing course platforms on a laptop screen"
 tags: ["Investing", "Free Courses", "Finance", "Learning", "Beginners"]
 draft: false
 isListicle: true

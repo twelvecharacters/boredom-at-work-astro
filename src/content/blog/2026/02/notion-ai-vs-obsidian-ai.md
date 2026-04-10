@@ -6,6 +6,7 @@ publishDate: 2026-02-17
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./notion-ai-vs-obsidian-ai.webp"
+imageAlt: "Side-by-side comparison of Notion AI and Obsidian AI interfaces"
 tags: ["AI", "Notion", "Obsidian", "Productivity", "Comparison"]
 draft: false
 faq:

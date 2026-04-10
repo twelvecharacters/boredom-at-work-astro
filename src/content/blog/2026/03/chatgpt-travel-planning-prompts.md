@@ -4,6 +4,7 @@ description: "Copy-paste these proven ChatGPT prompts to plan your next trip. Fr
 publishDate: 2026-03-18
 author: "bored chap"
 image: "./chatgpt-travel-prompts.webp"
+imageAlt: "ChatGPT travel planning prompts displayed on a laptop screen"
 tags: ["AI", "Travel", "ChatGPT", "Prompts", "AI Travel"]
 draft: false
 faq:

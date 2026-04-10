@@ -5,6 +5,7 @@ description: "Use ChatGPT, Claude, or Perplexity to summarize and analyze earnin
 publishDate: 2026-07-14
 author: "bored chap"
 image: "./ai-earnings-call-analysis.webp"
+imageAlt: "Step-by-step visual guide for analyzing earnings calls with AI tools"
 tags: ["AI Tools", "Investing", "Earnings Calls", "ChatGPT", "Finance"]
 draft: false
 faq:

@@ -5,6 +5,7 @@ publishDate: 2026-02-04
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./chatgpt-plus-vs-free.webp"
+imageAlt: "Side-by-side comparison of ChatGPT Plus and Free tier features"
 tags: ["AI", "ChatGPT", "Productivity", "Comparison"]
 draft: false
 video:

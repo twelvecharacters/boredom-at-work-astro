@@ -4,6 +4,7 @@ description: "Gemini's real-time data and Google integration make it uniquely po
 publishDate: 2026-05-11
 author: "bored chap"
 image: "./gemini-travel-planning.webp"
+imageAlt: "Google Gemini travel planning interface with real-time search results"
 tags: ["AI", "Travel", "Gemini", "Google", "AI Travel"]
 draft: false
 faq:

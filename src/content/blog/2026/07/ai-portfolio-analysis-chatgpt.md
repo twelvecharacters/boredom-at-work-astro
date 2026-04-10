@@ -5,6 +5,7 @@ description: "Upload your brokerage CSV to ChatGPT or Claude and get instant por
 publishDate: 2026-07-10
 author: "bored chap"
 image: "./ai-portfolio-analysis-chatgpt.webp"
+imageAlt: "ChatGPT analyzing an investment portfolio from a CSV upload"
 tags: ["AI Tools", "Investing", "ChatGPT", "Portfolio Analysis", "Finance"]
 draft: false
 faq:

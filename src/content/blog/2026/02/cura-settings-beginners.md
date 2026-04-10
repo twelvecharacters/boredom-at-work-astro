@@ -5,6 +5,7 @@ description: "Confused by Cura's 400+ settings? Learn the 10 settings that actua
 publishDate: 2026-02-21
 author: "bored chap"
 image: "./cura-settings-beginners.webp"
+imageAlt: "Step-by-step visual guide for essential Cura slicer settings"
 tags: ["3D Printing", "Cura", "Slicer", "Tutorial", "Settings"]
 draft: false
 howTo:

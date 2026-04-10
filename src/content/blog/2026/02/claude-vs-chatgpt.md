@@ -6,6 +6,7 @@ publishDate: 2026-02-02
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./claude-vs-chatgpt.webp"
+imageAlt: "Side-by-side comparison of Claude and ChatGPT AI interfaces"
 tags: ["AI", "ChatGPT", "Claude", "Productivity", "Comparison"]
 draft: false
 video:

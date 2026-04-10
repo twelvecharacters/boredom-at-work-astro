@@ -11,6 +11,7 @@ const reviewSchema = z.object({
   productName: z.string(),
   productBrand: z.string().optional(),
   priceRange: z.string().optional(), // e.g. "$200-$300"
+  reviewBody: z.string().optional(), // Review summary for Schema.org reviewBody
 });
 
 const videoSchema = z.object({

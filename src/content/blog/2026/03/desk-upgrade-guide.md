@@ -5,6 +5,7 @@ description: "The complete home office desk upgrade guide — standing desks, er
 publishDate: 2026-03-01
 author: "bored chap"
 image: "./desk-upgrade-guide.webp"
+imageAlt: "Illustration showing a complete home office desk upgrade setup"
 tags: ["Office Setup", "Home Office", "Standing Desks", "Ergonomics", "Hub Page"]
 draft: false
 faq:

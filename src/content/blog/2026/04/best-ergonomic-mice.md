@@ -5,6 +5,7 @@ description: "Best ergonomic mice for home office work. Vertical mice, trackball
 publishDate: 2026-04-20
 author: "bored chap"
 image: "./best-ergonomic-mice.webp"
+imageAlt: "Collection of ergonomic mice including vertical and trackball options"
 tags: ["Tech & Gadgets", "Ergonomics", "Office Setup", "Peripherals", "Home Office"]
 draft: false
 isListicle: true

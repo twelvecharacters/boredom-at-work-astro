@@ -5,6 +5,7 @@ description: "I tested every major paper trading app so you don't have to. Here 
 publishDate: 2026-03-30
 author: "bored chap"
 image: "./best-paper-trading-apps.webp"
+imageAlt: "Collection of paper trading app interfaces on a phone and laptop"
 tags: ["Investing", "Paper Trading", "Finance Apps", "Beginners", "Tools"]
 draft: false
 isListicle: true

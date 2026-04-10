@@ -5,6 +5,7 @@ description: "Learn to read stock charts in 30 minutes. Candlesticks, moving ave
 publishDate: 2026-08-04
 author: "bored chap"
 image: "./how-to-read-stock-charts-beginners.webp"
+imageAlt: "Step-by-step visual guide for reading stock charts with candlesticks"
 tags: ["Investing", "Stock Charts", "Technical Analysis", "Beginners Guide", "Finance"]
 draft: false
 faq:

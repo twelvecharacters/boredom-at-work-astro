@@ -6,6 +6,7 @@ publishDate: 2026-04-05
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./best-e-readers.webp"
+imageAlt: "Collection of e-readers from Kindle, Kobo, and Boox on a clean surface"
 tags: ["Tech & Gadgets", "Kindle", "Kobo", "E-Reader", "Buying Guide"]
 draft: false
 faq:

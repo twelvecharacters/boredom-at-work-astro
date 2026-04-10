@@ -6,6 +6,7 @@ publishDate: 2026-03-29
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./best-kindle-accessories.webp"
+imageAlt: "Collection of Kindle accessories including cases, stands, and chargers"
 tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Accessories", "Amazon"]
 draft: false
 faq:

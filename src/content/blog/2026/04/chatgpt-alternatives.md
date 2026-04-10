@@ -5,6 +5,7 @@ description: "The best ChatGPT alternatives for different needs. From Claude for
 publishDate: 2026-04-13
 author: "bored chap"
 image: "./chatgpt-alternatives.webp"
+imageAlt: "Collection of ChatGPT alternative AI tools displayed on screens"
 tags: ["AI", "ChatGPT", "Claude", "Gemini", "Perplexity", "Tools"]
 draft: false
 faq:

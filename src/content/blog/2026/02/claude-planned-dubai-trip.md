@@ -5,6 +5,7 @@ description: "I asked Claude to plan a 3-day Dubai trip for me and two colleague
 publishDate: 2026-02-11
 author: "bored chap"
 image: "./claude-dubai-trip.webp"
+imageAlt: "Dubai skyline with Burj Khalifa from an AI-planned trip itinerary"
 tags: ["AI", "Travel", "Dubai", "Claude", "Trip Planning", "AI Travel"]
 draft: false
 video:

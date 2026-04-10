@@ -12,6 +12,7 @@ review:
   productName: "TRMNL E-Ink Display"
   productBrand: "TRMNL"
   priceRange: "$99 - $149"
+  reviewBody: "TRMNL is the ultimate stealth productivity upgrade for desk workers, providing glanceable calendar, stock, and GitHub data on a calm E Ink display that lasts months on a single charge. Its open-source Liquid templating and JSON endpoint support make it a developer's playground, while the distraction-free design eliminates the micro-distractions that plague secondary monitors."
 faq:
   - question: "How long does the TRMNL battery last?"
     answer: "TRMNL's battery lasts 3 to 6 months on a single charge, depending on your refresh rate. Because E-ink only uses power when pixels change, setting a refresh interval of 15 minutes or longer keeps consumption extremely low. It charges via USB-C."

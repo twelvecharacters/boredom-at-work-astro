@@ -5,6 +5,7 @@ description: "Just unboxed your first 3D printer? Skip the dust-collectors — h
 publishDate: 2026-02-12
 author: "bored chap"
 image: "./10-things-to-3d-print-first.webp"
+imageAlt: "Ten functional 3D printed desk accessories arranged on a clean surface"
 tags: ["3D Printing", "Beginner", "Productivity", "Desk Setup", "Organization"]
 draft: false
 isListicle: true

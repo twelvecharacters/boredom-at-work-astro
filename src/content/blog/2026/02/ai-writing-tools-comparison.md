@@ -6,6 +6,7 @@ publishDate: 2026-02-23
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./ai-writing-tools-comparison.webp"
+imageAlt: "Side-by-side comparison of Grammarly, Jasper, and Claude writing tools"
 tags: ["AI", "Writing", "Grammarly", "Productivity", "Comparison"]
 draft: false
 isListicle: true

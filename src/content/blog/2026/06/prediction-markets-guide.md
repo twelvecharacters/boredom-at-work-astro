@@ -5,6 +5,7 @@ description: "Prediction markets explained simply. How event contracts work, whe
 publishDate: 2026-06-03
 author: "bored chap"
 image: "./prediction-markets-guide.webp"
+imageAlt: "Illustration showing how prediction markets and event contracts work"
 tags: ["Prediction Markets", "Investing", "Finance", "Kalshi", "Polymarket"]
 draft: false
 isListicle: false

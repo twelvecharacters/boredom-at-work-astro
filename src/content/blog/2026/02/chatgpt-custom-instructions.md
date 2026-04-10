@@ -4,6 +4,7 @@ description: "ChatGPT custom instructions best practices, examples, and copy-pas
 publishDate: 2026-02-13
 author: "bored chap"
 image: "./chatgpt-custom-instructions.webp"
+imageAlt: "ChatGPT custom instructions settings panel on a screen"
 tags: ["AI", "ChatGPT", "Productivity", "Tutorial"]
 draft: false
 howTo:

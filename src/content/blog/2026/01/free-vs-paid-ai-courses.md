@@ -6,6 +6,7 @@ publishDate: 2026-01-07
 author: "bored chap"
 tags: ["AI Courses", "Learning", "Budget"]
 image: "./free-vs-paid.webp"
+imageAlt: "Illustration comparing free and paid AI course options side by side"
 draft: false
 faq:
   - question: "Are free AI courses as good as paid ones?"

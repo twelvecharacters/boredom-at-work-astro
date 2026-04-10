@@ -5,6 +5,7 @@ description: "Anycubic Kobra S1 Max vs Snapmaker U1: full comparison of specs, m
 publishDate: 2026-04-15
 author: "bored chap"
 image: "./anycubic-s1-vs-snapmaker-u1.webp"
+imageAlt: "Side-by-side comparison of Anycubic S1 Max and Snapmaker U1 printers"
 tags: ["3D Printing", "Anycubic", "Snapmaker", "Multi-Color", "Review"]
 draft: false
 faq:

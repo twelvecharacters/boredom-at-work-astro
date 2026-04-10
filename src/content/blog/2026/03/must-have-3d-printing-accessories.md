@@ -5,6 +5,7 @@ description: "The 15 best 3D printing accessories from calipers and scrapers to 
 publishDate: 2026-04-02
 author: "bored chap"
 image: "./must-have-3d-printing-accessories.webp"
+imageAlt: "Collection of essential 3D printing accessories and tools"
 tags: ["3D Printing", "Accessories", "Tools", "DIY", "Beginners"]
 draft: false
 faq:

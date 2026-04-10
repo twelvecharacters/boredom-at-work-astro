@@ -5,6 +5,7 @@ description: "I compared 7 under-desk footrests from ~$20 to ~$180. Foam, rockin
 publishDate: 2026-05-08
 author: "bored chap"
 image: "./best-footrests.webp"
+imageAlt: "Collection of under-desk footrests in different styles on a floor"
 tags: ["Office Setup", "Desk Accessories", "Ergonomics", "Home Office", "Buying Guide"]
 draft: false
 isListicle: true

@@ -6,6 +6,7 @@ publishDate: 2026-02-03
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./selling-3d-prints-online.webp"
+imageAlt: "Step-by-step visual guide for selling 3D prints on online marketplaces"
 tags: ["3D Printing", "Side Hustle", "Business", "Etsy", "Selling"]
 draft: false
 howTo:

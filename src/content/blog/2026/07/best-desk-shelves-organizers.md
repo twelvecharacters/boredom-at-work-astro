@@ -5,6 +5,7 @@ description: "The best desk shelves, monitor risers, and organizers compared. Fr
 publishDate: 2026-07-31
 author: "bored chap"
 image: "./best-desk-shelves-organizers.webp"
+imageAlt: "Collection of desk shelves and organizers in a clean home office"
 tags: ["Home Office", "Office Setup", "Desk Accessories", "Organization", "Buying Guide"]
 draft: false
 isListicle: true

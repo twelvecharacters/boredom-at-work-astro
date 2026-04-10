@@ -5,6 +5,7 @@ description: "I tested the top noise-canceling headphones for office and WFH use
 publishDate: 2026-04-24
 author: "bored chap"
 image: "./best-noise-canceling-headphones-office.webp"
+imageAlt: "Collection of noise-canceling headphones for office use on a desk"
 tags: ["Tech & Gadgets", "Headphones", "Office Setup", "Work From Home", "Noise Canceling"]
 draft: false
 isListicle: true

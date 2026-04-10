@@ -5,6 +5,7 @@ description: "I used both an ultrawide and dual monitor setup for months of remo
 publishDate: 2026-06-27
 author: "bored chap"
 image: "./ultrawide-vs-dual-monitors.webp"
+imageAlt: "Side-by-side comparison of ultrawide and dual monitor desk setups"
 tags: ["Office Setup", "Monitors", "Work From Home", "Productivity"]
 draft: false
 faq:

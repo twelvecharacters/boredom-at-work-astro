@@ -6,6 +6,7 @@ publishDate: 2026-01-28
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./airpods-pro-3-review.webp"
+imageAlt: "AirPods Pro 3 in their charging case on a modern desk"
 tags: ["Tech & Gadgets", "AirPods", "Apple", "Earbuds", "Review"]
 draft: false
 tldr: "Better ANC, longer battery (8h vs 6h), more water resistant — but $249 isn't a must-upgrade from Pro 2. Worth it if you're buying new or your old AirPods are dying."
@@ -14,6 +15,7 @@ review:
   productName: "AirPods Pro 3"
   productBrand: "Apple"
   priceRange: "$249"
+  reviewBody: "AirPods Pro 3 deliver the best noise cancellation Apple has ever shipped, with Adaptive Audio that seamlessly blends ANC and transparency based on your environment. The 8-hour battery life and excellent call quality make them ideal office and commute earbuds for iPhone users, though the $249 price tag is hard to justify as an upgrade if your Pro 2 still work fine."
 faq:
   - question: "Are AirPods Pro 3 worth upgrading from AirPods Pro 2?"
     answer: "If your AirPods Pro 2 still work well, probably not. The improvements are incremental. But if you're coming from the original AirPods Pro or regular AirPods, it's a significant upgrade in sound quality and ANC."

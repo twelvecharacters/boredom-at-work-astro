@@ -5,6 +5,7 @@ description: "Kindle vs iPad for reading — screen, battery, weight, distractio
 publishDate: 2026-08-13
 author: "bored chap"
 image: "./kindle-vs-ipad-reading.webp"
+imageAlt: "Side-by-side comparison of Kindle and iPad for reading books"
 tags: ["Kindle", "E-Reader", "iPad", "Comparison", "Reading"]
 draft: false
 faq:

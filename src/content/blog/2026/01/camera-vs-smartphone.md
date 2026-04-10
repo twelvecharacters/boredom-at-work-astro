@@ -6,6 +6,7 @@ publishDate: 2026-01-03
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./camera-vs-smartphone.webp"
+imageAlt: "Side-by-side comparison of a dedicated camera and smartphone camera"
 tags: ["Photography", "Cameras", "Smartphones", "Buying Guide"]
 draft: false
 faq:

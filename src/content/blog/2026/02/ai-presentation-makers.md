@@ -5,6 +5,7 @@ publishDate: 2026-02-16
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./ai-presentation-makers.webp"
+imageAlt: "Collection of AI presentation maker interfaces showing slide designs"
 tags: ["AI", "Productivity", "Presentations", "Comparison"]
 draft: false
 isListicle: true

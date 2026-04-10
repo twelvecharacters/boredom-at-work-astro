@@ -5,6 +5,7 @@ description: "Transform your messy desk into a clean workspace. Practical cable 
 publishDate: 2026-04-10
 author: "bored chap"
 image: "./cable-management-tips.webp"
+imageAlt: "Step-by-step visual guide for organizing desk cables neatly"
 tags: ["Office Setup", "Cable Management", "Work From Home", "Desk Organization", "Guide"]
 draft: false
 howTo:

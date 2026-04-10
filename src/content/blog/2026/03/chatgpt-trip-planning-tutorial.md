@@ -5,6 +5,7 @@ description: "A beginner-friendly tutorial for planning your first trip with Cha
 publishDate: 2026-03-01
 author: "bored chap"
 image: "./chatgpt-trip-planning-tutorial.webp"
+imageAlt: "Step-by-step tutorial for planning a trip with ChatGPT"
 tags: ["AI", "Travel", "ChatGPT", "Tutorial", "Beginners", "AI Travel"]
 draft: false
 howTo:

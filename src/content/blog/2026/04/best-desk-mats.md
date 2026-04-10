@@ -5,6 +5,7 @@ description: "The best desk mats and pads for your home office in 2026. From pre
 publishDate: 2026-04-29
 author: "bored chap"
 image: "./best-desk-mats.webp"
+imageAlt: "Collection of desk mats and pads in different materials on a desk"
 tags: ["Office Setup", "Desk Accessories", "Work From Home", "Home Office", "Buying Guide"]
 draft: false
 isListicle: true

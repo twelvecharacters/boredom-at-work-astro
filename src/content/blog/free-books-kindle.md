@@ -5,6 +5,7 @@ description: "Seven legal ways to get free ebooks on your Kindle — from Libby 
 publishDate: 2026-03-31
 author: "bored chap"
 image: "./free-books-kindle.webp"
+imageAlt: "Kindle e-reader displaying free ebook sources and library apps"
 tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Books", "Free"]
 draft: false
 faq:

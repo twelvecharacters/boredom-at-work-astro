@@ -6,6 +6,7 @@ publishDate: 2026-02-11
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./microsoft-copilot-review.webp"
+imageAlt: "Microsoft Copilot interface in a Word document on a laptop screen"
 tags: ["AI", "Microsoft", "Copilot", "Productivity", "Review"]
 draft: false
 review:
@@ -13,6 +14,7 @@ review:
   productName: "Microsoft 365 Copilot"
   productBrand: "Microsoft"
   priceRange: "$21–$30/month"
+  reviewBody: "Microsoft 365 Copilot saves 3-5 hours per week on email drafting, meeting summaries, and document analysis, but inconsistent output quality and disappointing PowerPoint generation hold it back. At $21-30/month on top of your M365 subscription it's worth it if your company pays and you live in the Microsoft ecosystem, but individual users get more value from Claude or ChatGPT."
 softwareApp:
   name: "Microsoft 365 Copilot"
   operatingSystem: "Web, Windows, macOS"

@@ -5,6 +5,7 @@ description: "Practical guide to using AI tools at work safely — company polic
 publishDate: 2026-02-20
 author: "bored chap"
 image: "./how-to-use-ai-at-work-safely.webp"
+imageAlt: "Illustration showing safe AI usage practices in an office setting"
 tags: ["AI", "Productivity", "Work", "Privacy", "Career"]
 draft: false
 faq:

@@ -6,6 +6,7 @@ publishDate: 2026-01-05
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./chatgpt.webp"
+imageAlt: "ChatGPT interface on a laptop screen in a modern workspace"
 tags: ["ChatGPT", "AI", "Tutorial", "Beginners"]
 draft: false
 tldr: "Free to use, saves hours daily on emails, research, and brainstorming. The trick: better prompts = better answers. You can learn the basics in 30 minutes."

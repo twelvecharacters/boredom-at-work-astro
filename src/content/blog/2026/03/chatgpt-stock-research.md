@@ -5,6 +5,7 @@ description: "I use ChatGPT to research stocks during lunch breaks. Here are 10 
 publishDate: 2026-03-04
 author: "bored chap"
 image: "./chatgpt-stock-research.webp"
+imageAlt: "ChatGPT interface showing stock research prompts and analysis"
 tags: ["ChatGPT", "Investing", "Stock Market", "AI", "Finance Tools"]
 draft: false
 isListicle: false

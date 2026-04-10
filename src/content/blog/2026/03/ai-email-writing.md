@@ -5,6 +5,7 @@ description: "Write better emails faster with AI. Templates, prompts, and tools 
 publishDate: 2026-03-06
 author: "bored chap"
 image: "./ai-email-writing.webp"
+imageAlt: "Illustration showing AI email writing tools and prompt templates"
 tags: ["AI", "Email", "Productivity", "Writing", "ChatGPT"]
 draft: false
 faq:

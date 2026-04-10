@@ -5,6 +5,7 @@ description: "Find the perfect office chair for all-day comfort. Herman Miller, 
 publishDate: 2026-03-27
 author: "bored chap"
 image: "./best-office-chairs.webp"
+imageAlt: "Collection of ergonomic office chairs in a modern home office"
 tags: ["Office Setup", "Office Chairs", "Work From Home", "Ergonomics", "Buying Guide"]
 draft: false
 faq:

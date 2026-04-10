@@ -5,6 +5,7 @@ description: "I tested every major stock news app to find the best ones for stay
 publishDate: 2026-05-29
 author: "bored chap"
 image: "./best-stock-news-apps.webp"
+imageAlt: "Collection of stock news app interfaces on a smartphone screen"
 tags: ["Investing", "Stock Market", "Finance Apps", "News Apps", "Market Research"]
 draft: false
 isListicle: true

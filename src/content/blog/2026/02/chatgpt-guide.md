@@ -6,6 +6,7 @@ publishDate: 2026-02-28
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./chatgpt-guide.webp"
+imageAlt: "Illustration showing advanced ChatGPT features and workflows"
 tags: ["ChatGPT", "AI", "Productivity", "OpenAI", "Hub Page"]
 draft: false
 video:

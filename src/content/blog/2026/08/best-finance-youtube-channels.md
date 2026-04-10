@@ -5,6 +5,7 @@ description: "The best finance and investing YouTube channels for beginners and 
 publishDate: 2026-08-07
 author: "bored chap"
 image: "./best-finance-youtube-channels.webp"
+imageAlt: "Collection of finance YouTube channel thumbnails on a screen"
 tags: ["Investing", "Finance", "YouTube", "Learning", "Beginners Guide"]
 draft: false
 isListicle: false

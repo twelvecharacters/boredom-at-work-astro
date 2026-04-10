@@ -5,6 +5,7 @@ description: "I tested every major free stock screener so you don't have to. Her
 publishDate: 2026-05-22
 author: "bored chap"
 image: "./best-free-stock-screeners.webp"
+imageAlt: "Collection of free stock screener interfaces showing filter options"
 tags: ["Investing", "Stock Screeners", "Finance Tools", "Stock Market", "Beginners"]
 draft: false
 isListicle: true

@@ -6,6 +6,7 @@ publishDate: 2026-02-05
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./perplexity-ai-guide.webp"
+imageAlt: "Perplexity AI search interface showing sourced answers on a screen"
 tags: ["AI", "Perplexity", "Productivity", "Research", "Search"]
 draft: false
 softwareApp:

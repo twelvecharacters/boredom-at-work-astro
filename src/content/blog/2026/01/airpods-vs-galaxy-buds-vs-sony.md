@@ -6,6 +6,7 @@ publishDate: 2026-01-29
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./airpods-vs-galaxy-buds-vs-sony.webp"
+imageAlt: "Side-by-side comparison of AirPods Pro 3, Galaxy Buds, and Sony WF-1000XM5"
 tags: ["Tech & Gadgets", "Earbuds", "AirPods", "Sony", "Comparison"]
 draft: false
 review:
@@ -13,6 +14,7 @@ review:
   productName: "Sony WF-1000XM5"
   productBrand: "Sony"
   priceRange: "$299"
+  reviewBody: "The Sony WF-1000XM5 delivers the best pure audio quality of any wireless earbuds, with rich detailed sound, LDAC high-res support, and ANC that matches AirPods Pro 3. At $299 it's a premium pick, but for audiophiles and frequent travelers who prioritize sound over ecosystem integration, nothing else comes close."
 faq:
   - question: "Are AirPods Pro worth it for Android users?"
     answer: "Not really. AirPods Pro work with Android but lose many features: no automatic ear detection, no easy pairing, no Spatial Audio. Galaxy Buds or Sony offer better value for Android users."

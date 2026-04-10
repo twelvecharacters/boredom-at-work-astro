@@ -5,6 +5,7 @@ description: "Honest Claude AI review after months of daily use. What it does be
 publishDate: 2026-04-01
 author: "bored chap"
 image: "./claude-ai-review.webp"
+imageAlt: "Claude AI interface on a laptop in a modern workspace"
 tags: ["Claude", "AI", "Review", "Anthropic", "ChatGPT"]
 draft: false
 review:
@@ -12,6 +13,7 @@ review:
   productName: "Claude AI"
   productBrand: "Anthropic"
   priceRange: "Free–$20/month"
+  reviewBody: "Claude is the best AI assistant for writing and long-form analysis, producing noticeably more natural text than ChatGPT and handling up to 1M tokens of context. It lacks image generation and has a smaller ecosystem, but for quality-focused work the free tier is solid and Pro at $20/month is worth it for heavy users."
 softwareApp:
   name: "Claude AI"
   operatingSystem: "Web, iOS, Android"

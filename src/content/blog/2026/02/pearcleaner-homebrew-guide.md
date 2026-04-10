@@ -5,6 +5,7 @@ description: "Meet Pearcleaner: the free, source-available Mac app uninstaller w
 publishDate: 2026-02-15
 author: "bored chap"
 image: "./pearcleaner.webp"
+imageAlt: "Pearcleaner app interface showing Homebrew management on macOS"
 tags: ["Tech & Gadgets", "macOS", "Pearcleaner", "Homebrew", "Source-Available"]
 draft: false
 howTo:

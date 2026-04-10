@@ -7,6 +7,7 @@ updatedDate: 2026-04-05
 author: "bored chap"
 tags: ["Coursera", "AI Courses", "Online Learning"]
 image: "./coursera-courses.webp"
+imageAlt: "Coursera AI course logos from Google, Stanford, and IBM on a minimal background"
 draft: false
 isListicle: true
 faq:

@@ -5,6 +5,7 @@ description: "Looking for affordable tech gifts? These 25 picks under $50 are ac
 publishDate: 2026-01-27
 author: "bored chap"
 image: "./best-tech-gifts-under-50.webp"
+imageAlt: "Collection of affordable tech gifts under 50 dollars on a clean background"
 tags: ["Tech & Gadgets", "Gift Guide", "Budget Tech", "Gift Ideas"]
 draft: false
 isListicle: true

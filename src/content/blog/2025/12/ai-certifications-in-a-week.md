@@ -7,6 +7,7 @@ updatedDate: 2026-04-05
 author: "bored chap"
 tags: ["AI Certification", "Career Development", "Quick Learning"]
 image: "./ai-certifications.webp"
+imageAlt: "Collection of AI certification badges from Google, Microsoft, and IBM"
 draft: false
 isListicle: true
 faq:

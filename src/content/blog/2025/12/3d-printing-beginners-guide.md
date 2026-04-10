@@ -6,6 +6,7 @@ publishDate: 2025-12-24
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./3d-printing-beginners.webp"
+imageAlt: "Beginner-friendly 3D printer on a desk with a freshly printed object"
 tags: ["3D Printing", "Beginners", "Guide", "FDM", "Tutorial"]
 draft: false
 faq:

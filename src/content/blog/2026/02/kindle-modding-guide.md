@@ -5,6 +5,7 @@ description: "How to jailbreak your Kindle and install KOReader step by step. Cu
 publishDate: 2026-02-18
 author: "bored chap"
 image: "./kindle-modding-guide.webp"
+imageAlt: "Step-by-step visual guide for Kindle jailbreak and KOReader setup"
 tags: ["Tech & Gadgets", "Kindle", "Modding", "Jailbreak", "E-Reader"]
 draft: false
 howTo:

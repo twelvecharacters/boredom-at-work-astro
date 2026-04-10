@@ -5,6 +5,7 @@ description: "My honest Ray-Ban Meta review after 2 weeks of daily use, includin
 publishDate: 2026-02-14
 author: "bored chap"
 image: "./ray-ban-meta-review.webp"
+imageAlt: "Ray-Ban Meta smart glasses on a desk in a modern setting"
 tags: ["Tech & Gadgets", "Smart Glasses", "Meta", "Ray-Ban", "Review"]
 draft: false
 video:
@@ -18,6 +19,7 @@ review:
   productName: "Ray-Ban Meta Wayfarer"
   productBrand: "Ray-Ban | Meta"
   priceRange: "~$379"
+  reviewBody: "The Ray-Ban Meta smart glasses deliver genuinely impressive 12MP camera quality and surprisingly good open-ear audio in a package that looks like regular Wayfarers. Battery life of 3-4 hours with heavy camera use and the lack of zoom are real limitations, but for travelers and content creators who want hands-free POV capture, these are the first smart glasses that feel like a real product."
 faq:
   - question: "Are Ray-Ban Meta glasses worth the price?"
     answer: "At ~$379 for standard lenses, they're a premium buy but worth it for travelers and content creators who want hands-free photos and videos. The camera quality is genuinely impressive and the audio replaces your earbuds. But if you only want sunglasses, regular Ray-Ban Wayfarers at a fraction of the price make more sense."

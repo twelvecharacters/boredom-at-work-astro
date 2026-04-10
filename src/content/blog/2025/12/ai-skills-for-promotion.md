@@ -6,6 +6,7 @@ publishDate: 2025-12-26
 author: "bored chap"
 tags: ["Career Development", "AI Skills", "Promotion"]
 image: "./ai-skills-promotion.webp"
+imageAlt: "Professional using AI tools at a modern office desk"
 draft: false
 faq:
   - question: "What AI skills should I learn to get promoted?"

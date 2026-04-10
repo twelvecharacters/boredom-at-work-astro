@@ -5,6 +5,7 @@ description: "ChatGPT, Claude, and Gemini compared on pricing, features, and rea
 publishDate: 2026-07-21
 author: "bored chap"
 image: "./chatgpt-vs-claude-vs-gemini.webp"
+imageAlt: "Side-by-side comparison of ChatGPT, Claude, and Gemini AI interfaces"
 tags: ["AI Tools", "ChatGPT", "Claude", "Gemini", "Comparison"]
 draft: false
 faq:

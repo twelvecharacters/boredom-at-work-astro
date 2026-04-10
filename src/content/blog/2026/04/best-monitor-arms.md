@@ -5,6 +5,7 @@ description: "Find the perfect monitor arm for your desk setup. We compare Ergot
 publishDate: 2026-04-03
 author: "bored chap"
 image: "./best-monitor-arms.webp"
+imageAlt: "Collection of monitor arms mounted on desks in a home office"
 tags: ["Office Setup", "Monitor Arms", "Work From Home", "Desk Accessories", "Buying Guide"]
 draft: false
 faq:

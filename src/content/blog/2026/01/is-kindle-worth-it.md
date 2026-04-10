@@ -5,6 +5,7 @@ description: "After 3 years with a Kindle, here's my honest take. Pros, cons, an
 publishDate: 2026-01-21
 author: "bored chap"
 image: "./kindle-worth-it.webp"
+imageAlt: "Kindle e-reader on a cozy reading setup with books nearby"
 tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Amazon", "Books"]
 draft: false
 tldr: "Yes, if you read 10+ books per year. Weeks of battery life, no distractions, no eye strain. No, if you mainly read PDFs or rarely find time to read."

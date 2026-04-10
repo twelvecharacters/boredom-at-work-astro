@@ -5,6 +5,7 @@ description: "Stop doing repetitive work manually. These 7 office tasks can be a
 publishDate: 2026-07-24
 author: "bored chap"
 image: "./ai-office-automation-tasks.webp"
+imageAlt: "Illustration showing repetitive office tasks being automated with AI"
 tags: ["AI Tools", "Productivity", "Office Automation", "ChatGPT", "Work Smarter"]
 draft: false
 isListicle: true

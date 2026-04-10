@@ -5,6 +5,7 @@ description: "I tested every major crypto portfolio tracker so you don't have to
 publishDate: 2026-05-27
 author: "bored chap"
 image: "./best-crypto-portfolio-trackers.webp"
+imageAlt: "Collection of crypto portfolio tracker apps showing holdings dashboards"
 tags: ["Cryptocurrency", "Portfolio Tracking", "Finance Apps", "DeFi", "Crypto Tax"]
 draft: false
 isListicle: true

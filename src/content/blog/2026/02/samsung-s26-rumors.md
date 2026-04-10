@@ -5,6 +5,7 @@ description: "The Samsung Galaxy S26 series is coming in 2026. From the Snapdrag
 publishDate: 2026-02-06
 author: "bored chap"
 image: "./samsung-s26-rumors.webp"
+imageAlt: "Samsung Galaxy S26 concept render showing the leaked design"
 tags: ["Tech & Gadgets", "Samsung", "Galaxy S26", "Android", "Rumors"]
 draft: false
 faq:

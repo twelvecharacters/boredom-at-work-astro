@@ -5,6 +5,7 @@ description: "A real trip report: I used Clawd.bot to plan a gluten-free weekend
 publishDate: 2026-02-15
 author: "bored chap"
 image: "./ai-london-trip-chinatown.webp"
+imageAlt: "AI-planned London trip scene with Chinatown and city landmarks"
 tags: ["AI", "Travel", "London", "Gluten-Free", "Trip Planning"]
 draft: false
 faq:

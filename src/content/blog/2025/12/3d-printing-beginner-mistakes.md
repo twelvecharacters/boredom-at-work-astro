@@ -5,6 +5,7 @@ description: "Almost every 3D printing beginner makes these mistakes. Learn from
 publishDate: 2025-12-23
 author: "bored chap"
 image: "./3d-printing-mistakes.webp"
+imageAlt: "Common 3D printing mistakes illustrated with failed prints on a build plate"
 tags: ["3D Printing", "Beginners", "Tips", "Troubleshooting", "Mistakes"]
 draft: false
 isListicle: true

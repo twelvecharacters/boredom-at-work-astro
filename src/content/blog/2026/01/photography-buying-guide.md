@@ -6,6 +6,7 @@ publishDate: 2026-01-28
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./photography-buying-guide.webp"
+imageAlt: "Illustration showing photography gear essentials for beginners"
 tags: ["Photography", "Cameras", "Buying Guide", "Beginners", "Hub Page"]
 draft: false
 isListicle: true

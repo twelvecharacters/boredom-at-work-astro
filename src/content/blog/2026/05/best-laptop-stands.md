@@ -5,6 +5,7 @@ description: "I compared 7 popular laptop stands from ~$15 to ~$90 — Rain Desi
 publishDate: 2026-05-01
 author: "bored chap"
 image: "./best-laptop-stands.webp"
+imageAlt: "Collection of laptop stands at different heights on a desk"
 tags: ["Office Setup", "Laptop Stands", "Work From Home", "Desk Accessories", "Buying Guide"]
 draft: false
 isListicle: true

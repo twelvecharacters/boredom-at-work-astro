@@ -5,6 +5,7 @@ description: "Your step-by-step guide to learning AI in 2026. From absolute begi
 publishDate: 2026-02-27
 author: "bored chap"
 image: "./learn-ai-guide.webp"
+imageAlt: "Illustration showing the complete AI learning roadmap with milestones"
 tags: ["AI", "Learning", "Career", "Courses", "Hub Page"]
 draft: false
 video:

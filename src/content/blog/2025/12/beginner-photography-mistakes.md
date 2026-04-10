@@ -5,6 +5,7 @@ description: "Avoid the most common beginner photography mistakes that ruin your
 publishDate: 2025-12-28
 author: "bored chap"
 image: "./photography-mistakes.webp"
+imageAlt: "Camera with common photography mistake examples on a light background"
 tags: ["Photography", "Beginners", "Tips", "Mistakes", "Tutorial"]
 draft: false
 isListicle: true

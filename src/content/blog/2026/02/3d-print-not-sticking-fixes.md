@@ -5,6 +5,7 @@ description: "First layer keeps failing? Here's every reason your 3D print won't
 publishDate: 2026-02-24
 author: "bored chap"
 image: "./3d-print-not-sticking-fixes.webp"
+imageAlt: "Step-by-step visual guide for fixing 3D print bed adhesion problems"
 tags: ["3D Printing", "Troubleshooting", "First Layer", "Bed Adhesion", "Tutorial"]
 draft: false
 faq:

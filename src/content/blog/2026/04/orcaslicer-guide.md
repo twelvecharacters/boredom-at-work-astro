@@ -5,6 +5,7 @@ description: "Is OrcaSlicer better than Cura and PrusaSlicer? Advanced features,
 publishDate: 2026-04-06
 author: "bored chap"
 image: "./orcaslicer.webp"
+imageAlt: "OrcaSlicer interface showing 3D print settings and model preview"
 tags: ["3D Printing", "OrcaSlicer", "Slicer", "Tutorial", "Skills"]
 draft: false
 faq:

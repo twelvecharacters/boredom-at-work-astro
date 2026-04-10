@@ -5,6 +5,7 @@ description: "Step-by-step guide to setting up dual monitors for your home offic
 publishDate: 2026-05-06
 author: "bored chap"
 image: "./dual-monitor-setup-guide.webp"
+imageAlt: "Step-by-step dual monitor setup on a home office desk"
 tags: ["Office Setup", "Monitors", "Work From Home", "Productivity", "Guide"]
 draft: false
 isListicle: false

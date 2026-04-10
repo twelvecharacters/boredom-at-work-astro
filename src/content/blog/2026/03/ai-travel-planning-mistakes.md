@@ -4,6 +4,7 @@ description: "AI travel planning can go wrong. Learn the most common mistakes tr
 publishDate: 2026-03-20
 author: "bored chap"
 image: "./ai-travel-mistakes.webp"
+imageAlt: "Illustration showing common AI travel planning mistakes to avoid"
 tags: ["AI", "Travel", "ChatGPT", "Tips", "AI Travel"]
 draft: false
 faq:

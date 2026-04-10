@@ -5,6 +5,7 @@ description: "Transform your workspace from a cable-cluttered mess to a producti
 publishDate: 2026-04-12
 author: "bored chap"
 image: "./10-practical-desk-upgrades.webp"
+imageAlt: "Ten 3D printed desk upgrade accessories arranged on a workspace"
 tags: ["3D Printing", "Desk Setup", "Productivity", "DIY", "Organization"]
 draft: false
 isListicle: true

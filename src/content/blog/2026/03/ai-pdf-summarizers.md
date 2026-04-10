@@ -6,6 +6,7 @@ publishDate: 2026-03-11
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./ai-pdf-summarizers.webp"
+imageAlt: "Collection of AI PDF summarizer tools processing a long document"
 tags: ["AI", "PDF", "Productivity", "Tools", "Research"]
 draft: false
 faq:

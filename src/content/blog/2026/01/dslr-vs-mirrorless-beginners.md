@@ -5,6 +5,7 @@ description: "DSLR or mirrorless camera? We explain the key differences, pros an
 publishDate: 2026-01-06
 author: "bored chap"
 image: "./dslr-vs-mirrorless.webp"
+imageAlt: "Side-by-side comparison of a DSLR and mirrorless camera"
 tags: ["Photography", "Cameras", "DSLR", "Mirrorless", "Beginners"]
 draft: false
 faq:

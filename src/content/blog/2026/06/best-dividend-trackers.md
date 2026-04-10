@@ -5,6 +5,7 @@ description: "I tested every major dividend tracking app. Here are the 7 best fo
 publishDate: 2026-06-08
 author: "bored chap"
 image: "./best-dividend-trackers.webp"
+imageAlt: "Collection of dividend tracker app interfaces showing income dashboards"
 tags: ["Investing", "Dividends", "Finance Apps", "Portfolio Tracking", "Tools"]
 draft: false
 isListicle: true

@@ -6,6 +6,7 @@ publishDate: 2026-01-31
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./cad-software-3d-printing.webp"
+imageAlt: "Collection of CAD software interfaces for 3D printing design"
 tags: ["3D Printing", "CAD", "Software", "Tutorial", "Skills"]
 draft: false
 isListicle: true

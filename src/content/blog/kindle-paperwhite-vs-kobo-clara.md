@@ -6,6 +6,7 @@ publishDate: 2026-04-02
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./kindle-paperwhite-vs-kobo-clara.webp"
+imageAlt: "Side-by-side comparison of Kindle Paperwhite and Kobo Clara BW"
 tags: ["Tech & Gadgets", "Kindle", "Kobo", "E-Reader", "Comparison"]
 draft: false
 review:
@@ -13,6 +14,7 @@ review:
   productName: "Kindle Paperwhite (2024)"
   productBrand: "Amazon"
   priceRange: "$160"
+  reviewBody: "The Kindle Paperwhite (2024) edges out the Kobo Clara BW for most readers thanks to its larger 7-inch Carta 1300 display, longer battery life, and access to Amazon's unmatched ebook store. The Kobo Clara BW fights back with native OverDrive library integration and better format support, making it the better pick for heavy library borrowers."
 faq:
   - question: "Is the Kobo Clara BW worth it over the Kindle Paperwhite?"
     answer: "If you borrow a lot of library books or prefer EPUB files, yes. Kobo has native OverDrive support and reads EPUBs natively. If you're already in the Amazon ecosystem, the Paperwhite is the better choice."

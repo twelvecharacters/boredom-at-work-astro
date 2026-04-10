@@ -5,6 +5,7 @@ description: "I listen to investing podcasts during work hours. Here are the 8 b
 publishDate: 2026-06-15
 author: "bored chap"
 image: "./best-investing-podcasts.webp"
+imageAlt: "Collection of investing podcast cover art arranged on a clean background"
 tags: ["Investing", "Podcasts", "Personal Finance", "Learning", "Finance"]
 draft: false
 isListicle: true

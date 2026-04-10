@@ -6,6 +6,7 @@ publishDate: 2026-02-08
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./best-ai-tools-office-work.webp"
+imageAlt: "Collection of AI tools for office work displayed on a laptop screen"
 tags: ["AI", "Productivity", "Office", "Tools", "Work"]
 draft: false
 video:

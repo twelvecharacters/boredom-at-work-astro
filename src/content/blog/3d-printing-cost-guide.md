@@ -5,6 +5,7 @@ description: "What does 3D printing actually cost? Full breakdown of printer pri
 publishDate: 2026-08-25
 author: "bored chap"
 image: "./3d-printing-cost-guide.webp"
+imageAlt: "Illustration showing 3D printing cost breakdown with printer and filament"
 tags: ["3D Printing", "Buying Guide", "Beginners", "Budget"]
 draft: false
 faq:

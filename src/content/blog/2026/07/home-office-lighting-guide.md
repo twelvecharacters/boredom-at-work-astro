@@ -5,6 +5,7 @@ description: "The complete guide to home office lighting. Best monitor light bar
 publishDate: 2026-07-28
 author: "bored chap"
 image: "./home-office-lighting-guide.webp"
+imageAlt: "Home office lighting setup with monitor light bar and desk lamp"
 tags: ["Home Office", "Office Setup", "Lighting", "Eye Strain", "Video Calls"]
 draft: false
 faq:

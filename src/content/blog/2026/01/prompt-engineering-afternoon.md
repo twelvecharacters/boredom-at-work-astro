@@ -6,6 +6,7 @@ publishDate: 2026-01-12
 author: "bored chap"
 tags: ["Prompt Engineering", "ChatGPT", "AI Skills", "Tutorial"]
 image: "./prompt-engineering.webp"
+imageAlt: "Illustration showing prompt engineering concepts and AI chat interface"
 draft: false
 faq:
   - question: "How long does it take to learn prompt engineering?"

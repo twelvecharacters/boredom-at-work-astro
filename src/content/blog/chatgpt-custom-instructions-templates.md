@@ -5,6 +5,7 @@ description: "15 copy-paste ChatGPT custom instructions templates for work, writ
 publishDate: 2026-08-27
 author: "bored chap"
 image: "./chatgpt-custom-instructions-templates.webp"
+imageAlt: "ChatGPT custom instructions template examples on a screen"
 tags: ["AI", "ChatGPT", "Productivity", "Templates", "Tutorial"]
 draft: false
 isListicle: true

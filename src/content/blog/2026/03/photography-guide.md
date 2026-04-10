@@ -5,6 +5,7 @@ description: "Your complete guide to photography—from choosing your first came
 publishDate: 2026-03-01
 author: "bored chap"
 image: "./photography-guide.webp"
+imageAlt: "Illustration showing photography fundamentals and camera gear for beginners"
 tags: ["Photography", "Cameras", "Beginners", "Guide", "Hub Page"]
 draft: false
 faq:

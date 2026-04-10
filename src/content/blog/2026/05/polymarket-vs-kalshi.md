@@ -5,6 +5,7 @@ description: "Polymarket vs Kalshi compared side by side — fees, markets, regu
 publishDate: 2026-05-18
 author: "bored chap"
 image: "./polymarket-vs-kalshi.webp"
+imageAlt: "Side-by-side comparison of Polymarket and Kalshi prediction platforms"
 tags: ["Prediction Markets", "Polymarket", "Kalshi", "Finance", "Investing"]
 draft: false
 isListicle: false

@@ -5,6 +5,7 @@ description: "5 days in Málaga and Marbella, planned by Claude. Tapas bars, Alc
 publishDate: 2026-03-11
 author: "bored chap"
 image: "./claude-malaga-marbella-trip.webp"
+imageAlt: "Malaga and Marbella travel scene from a Claude AI-planned trip"
 tags: ["AI", "Travel", "Claude", "Trip Planning", "Spain", "AI Travel"]
 draft: false
 faq:

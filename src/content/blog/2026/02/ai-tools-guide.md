@@ -6,6 +6,7 @@ publishDate: 2026-02-27
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./ai-tools-guide.webp"
+imageAlt: "Illustration showing AI productivity tools organized by work category"
 tags: ["AI", "Productivity", "Tools", "ChatGPT", "Claude", "Gemini", "Hub Page"]
 draft: false
 video:

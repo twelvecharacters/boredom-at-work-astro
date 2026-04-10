@@ -142,7 +142,22 @@ const socialImageURL = new URL(socialImagePath || "/images/og-default.webp", Ast
       ]
     })} />
 
-    <meta name="generator" content={Astro.generator} />
+    {!article && (
+      <script type="application/ld+json" set:html={JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": SITE.title,
+        "url": new URL('/', Astro.site).toString(),
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": `${new URL('/', Astro.site).toString()}blog/?q={search_term_string}`
+          },
+          "query-input": "required name=search_term_string"
+        }
+      })} />
+    )}
 
     {prevUrl && <link rel="prev" href={new URL(prevUrl, Astro.site).toString()} />}
     {nextUrl && <link rel="next" href={new URL(nextUrl, Astro.site).toString()} />}

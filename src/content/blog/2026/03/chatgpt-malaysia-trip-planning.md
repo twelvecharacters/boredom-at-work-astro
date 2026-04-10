@@ -4,6 +4,7 @@ description: "A real 2-week Malaysia trip planned with ChatGPT. What the AI got 
 publishDate: 2026-03-13
 author: "bored chap"
 image: "./chatgpt-malaysia-trip.webp"
+imageAlt: "Malaysia travel scene from a ChatGPT-planned trip itinerary"
 tags: ["AI", "Travel", "ChatGPT", "Malaysia", "AI Travel"]
 draft: false
 faq:

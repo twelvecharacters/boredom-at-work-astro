@@ -6,6 +6,7 @@ publishDate: 2026-01-01
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./cameras-under-500.webp"
+imageAlt: "Collection of budget cameras under 500 dollars on a clean background"
 tags: ["Photography", "Cameras", "Budget", "Buying Guide"]
 draft: false
 isListicle: true

@@ -5,6 +5,7 @@ description: "Use ChatGPT or Claude to research companies, craft STAR answers, r
 publishDate: 2026-07-07
 author: "bored chap"
 image: "./ai-job-interview-prep.webp"
+imageAlt: "Illustration showing AI-powered job interview preparation workflow"
 tags: ["AI Tools", "Productivity", "ChatGPT", "Career"]
 draft: false
 faq:

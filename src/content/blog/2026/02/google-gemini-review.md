@@ -5,6 +5,7 @@ publishDate: 2026-02-07
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./google-gemini-review.webp"
+imageAlt: "Google Gemini AI interface on a laptop in a modern workspace"
 tags: ["AI", "Google Gemini", "Productivity", "Review"]
 draft: false
 review:
@@ -12,6 +13,7 @@ review:
   productName: "Google Gemini"
   productBrand: "Google"
   priceRange: "Free–$20/month"
+  reviewBody: "Google Gemini excels at real-time information, Google Workspace integration, and its massive 1M-token context window, making it the best AI assistant for Google power users. It still lags behind ChatGPT and Claude in creative writing quality and complex reasoning, so it works best as a complementary tool rather than a full ChatGPT replacement."
 softwareApp:
   name: "Google Gemini"
   operatingSystem: "Web, Android, iOS"

@@ -6,6 +6,7 @@ publishDate: 2026-01-02
 updatedDate: 2026-04-05
 author: "bored chap"
 image: "./best-ai-free-courses.webp"
+imageAlt: "Collection of free AI course logos from Google, IBM, and OpenAI"
 tags: ["AI Courses", "Free Learning", "Career Development"]
 draft: false
 isListicle: true

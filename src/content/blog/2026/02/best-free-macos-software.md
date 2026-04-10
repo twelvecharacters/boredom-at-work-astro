@@ -5,6 +5,7 @@ description: "The 30 best free macOS apps for productivity, creativity, and syst
 publishDate: 2026-02-25
 author: "bored chap"
 image: "./free-macos-software.webp"
+imageAlt: "Collection of free macOS app icons arranged on a Mac desktop"
 tags: ["Tech & Gadgets", "macOS", "Free Software", "Homebrew", "Productivity"]
 draft: false
 isListicle: true

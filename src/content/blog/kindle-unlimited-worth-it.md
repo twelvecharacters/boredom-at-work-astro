@@ -5,6 +5,7 @@ description: "I tracked 6 months of reading and crunched the numbers. Here's whe
 publishDate: 2026-08-11
 author: "bored chap"
 image: "./kindle-unlimited-worth-it.webp"
+imageAlt: "Kindle with Unlimited catalog and cost breakdown illustration"
 tags: ["Kindle", "E-Reader", "Amazon", "Books", "Subscription"]
 draft: false
 faq:

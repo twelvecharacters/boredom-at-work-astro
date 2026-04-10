@@ -5,6 +5,7 @@ description: "New to mechanical keyboards? We break down switches, sizes, and th
 publishDate: 2026-01-25
 author: "bored chap"
 image: "./mechanical-keyboards-beginners.webp"
+imageAlt: "Collection of mechanical keyboards with colorful keycaps on a desk"
 tags: ["Tech & Gadgets", "Mechanical Keyboards", "Peripherals", "Office Setup", "Beginners"]
 draft: false
 isListicle: true

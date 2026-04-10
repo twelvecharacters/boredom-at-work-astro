@@ -5,6 +5,7 @@ description: "Tired of slow RAW editors? Discover RapidRAW, the open-source powe
 publishDate: 2026-02-12
 author: "bored chap"
 image: "./rapidraw.webp"
+imageAlt: "RapidRAW photo editing interface showing RAW image processing"
 tags: ["Photography", "Open Source", "RAW Editing", "RapidRAW", "Rust", "GPU Acceleration"]
 draft: false
 faq:

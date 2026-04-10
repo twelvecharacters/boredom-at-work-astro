@@ -5,6 +5,7 @@ description: "Discover why affordable manual lenses from brands like 7Artisans a
 publishDate: 2026-03-24
 author: "bored chap"
 image: "./cheap-manual-lenses.webp"
+imageAlt: "Collection of affordable manual lenses from 7Artisans and TTArtisan"
 tags: ["Photography", "Lenses", "Beginners", "Gear"]
 draft: false
 faq:
