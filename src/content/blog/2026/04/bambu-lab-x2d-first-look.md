@@ -5,7 +5,7 @@ description: "Bambu Lab X2D brings dual extrusion to the X-series. Full specs, p
 publishDate: 2026-04-14
 author: "bored chap"
 image: "./bambu-lab-x2d-first-look.webp"
-imageAlt: "Bambu Lab X2D 3D printer with dual extrusion system"
+imageAlt: "Bambu Lab X2D 3D printer with AMS 2 multi-material system"
 tags: ["3D Printing", "Bambu Lab", "Review", "Hardware"]
 draft: false
 faq:
