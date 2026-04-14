@@ -175,7 +175,7 @@ Choose Sendico if you:
 
 Now that you know how to buy, here are some popular categories (we've compiled a detailed list of the [best Japanese products worth importing](/best-japanese-products-to-import/)):
 
-- **Vintage cameras** — Japan has an incredible secondhand camera market
+- **Vintage cameras** — Japan has an incredible secondhand camera market (see our guide to [cheap manual lenses](/cheap-manual-lenses-beginners/) for some great finds)
 - **Anime figures & merchandise** — Often cheaper and more selection than importing through retailers
 - **Japanese stationery** — Pilot pens, Midori notebooks, unique office supplies
 - **Retro video games** — Japanese exclusives and better-condition items

@@ -158,7 +158,7 @@ The Kindle Oasis was discontinued in 2025. The Paperwhite now offers similar or 
 
 ## Kindle vs. Kobo vs. Phone
 
-Not sure which e-reader brand to choose? Check out our detailed [Kindle vs Kobo comparison](/kindle-vs-kobo/) for a deep dive into the differences.
+Not sure which e-reader brand to choose? Check out our detailed [Kindle vs Kobo comparison](/kindle-vs-kobo/) for a deep dive, or our [Kindle Paperwhite vs Kobo Clara head-to-head](/kindle-paperwhite-vs-kobo-clara/) if you've narrowed it down to those two.
 
 | Feature | Kindle Paperwhite | Kobo Clara 2E | Phone (Kindle App) |
 |---------|-------------------|---------------|-------------------|

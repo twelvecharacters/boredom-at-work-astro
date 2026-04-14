@@ -124,7 +124,7 @@ I'm not old enough to need hearing aids (yet), but the hearing test was surprisi
 
 ## Office Survival Guide
 
-Real talk: these are work earbuds as much as commute earbuds. Here's how they perform in office reality:
+Real talk: these are work earbuds as much as commute earbuds. If you're comparing full-size headphones instead, check out our [best noise-canceling headphones for the office](/best-noise-canceling-headphones-office/) roundup. But here's how AirPods Pro 3 perform in office reality:
 
 **Open Office Life**
 

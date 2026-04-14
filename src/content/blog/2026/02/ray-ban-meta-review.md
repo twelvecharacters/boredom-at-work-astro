@@ -62,7 +62,7 @@ I put them to the ultimate test: **a 45-minute helicopter flight over Dubai.** T
 
 The results? I was honestly surprised. The videos came out **stable, sharp, and with accurate colors.** No motion blur, no washed-out footage. The kind of quality you'd happily post on Instagram without a second thought.
 
-**The hands-free advantage is real.** During the helicopter flight, I could look around freely while recording. No fumbling with a phone, no awkward angles trying to film through the window. I just looked at what I wanted to capture and tapped the frame.
+**The hands-free advantage is real.** During the helicopter flight, I could look around freely while recording. No fumbling with a phone, no awkward angles trying to film through the window. I just looked at what I wanted to capture and tapped the frame. (If you're debating whether your phone camera is "good enough" for trips like this, our [smartphone vs dedicated camera comparison](/camera-vs-smartphone/) breaks down exactly where each shines.)
 
 Here's footage I shot at the **Dubai Fountain show** — no phone, no gimbal, just the glasses:
 

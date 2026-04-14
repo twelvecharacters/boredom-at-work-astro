@@ -17,7 +17,7 @@ faq:
     answer: "OpenSCAD itself requires installation on Windows, macOS, or Linux, so it won't run natively on a Chromebook. However, there is an in-browser version at openscad.net that works surprisingly well for learning and smaller projects."
 ---
 
-Most people get into 3D printing by downloading other people's models. That's fine for the first few weeks. But eventually, you want to print *your* thing — a custom wall bracket, a replacement clip, a gift with someone's initials on it.
+Most people get into 3D printing by downloading other people's models from sites like [Printables or Thingiverse](/best-sites-free-3d-models/). That's fine for the first few weeks. But eventually, you want to print *your* thing — a custom wall bracket, a replacement clip, a gift with someone's initials on it.
 
 That's when you hit the wall. Tinkercad feels like building with LEGO bricks (fun, but limited). Fusion 360 feels like learning to fly a plane when you just wanted to ride a bike.
 
@@ -198,7 +198,7 @@ The beauty of OpenSCAD is that it looks like you're doing serious programming wo
 
 1. **Install OpenSCAD** from [openscad.org](https://openscad.org) — it's under 20 MB
 2. **Open the built-in examples** (File → Examples) — they cover almost every concept
-3. **Find a thing to replace:** Look around your desk. A broken pen holder, a loose cable clip, a missing rubber foot on your monitor — model it
+3. **Find a thing to replace:** Look around your desk. A broken pen holder, a loose cable clip, a missing rubber foot on your monitor — model it. (Need inspiration? Check out our [10 practical desk upgrades you can 3D print](/10-practical-desk-upgrades-3d-print/).)
 
 ---
 

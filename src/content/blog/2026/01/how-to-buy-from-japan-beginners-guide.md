@@ -25,7 +25,7 @@ Don't worry. Buying from Japan is easier than it looks, and this guide will walk
 
 Before we dive into the how, let's talk about the why:
 
-**Better Prices:** Many items are significantly cheaper in Japan, especially used goods. The Japanese secondhand market is exceptional — people take care of their belongings, and you can find near-mint condition items at fraction of retail prices.
+**Better Prices:** Many items are significantly cheaper in Japan, especially used goods. The Japanese secondhand market is exceptional — people take care of their belongings, and you can find near-mint condition items at a fraction of retail prices. Vintage lenses are a prime example: you can pick up legendary glass for under $100 (see our [cheap manual lenses guide](/cheap-manual-lenses-beginners/)).
 
 **Exclusive Products:** Japan-only releases, limited editions, and products that never made it to international markets. From vintage cameras to regional Kit-Kat flavors, some things you simply can't get elsewhere.
 

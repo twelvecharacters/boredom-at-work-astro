@@ -296,6 +296,6 @@ Apple's microphone technology is ahead. If you take lots of calls, this matters.
 - You need the best noise cancellation
 - You don't care about ecosystem integration
 
-All three are excellent. The "best" one depends entirely on what phone you carry and what you prioritize.
+All three are excellent. The "best" one depends entirely on what phone you carry and what you prioritize. If you'd rather have over-ear headphones for longer focus sessions, see our [best noise-canceling headphones for the office](/best-noise-canceling-headphones-office/) instead.
 
 *Want the full deep dive on Apple's latest? Read my [AirPods Pro 3 hands-on review](/airpods-pro-3-review/). Looking for more affordable options? Check out our [best tech gifts under $50](/best-tech-gifts-under-50/) for budget-friendly earbuds and other gadgets.*
