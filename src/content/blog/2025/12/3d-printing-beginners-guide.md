@@ -1,7 +1,7 @@
 ---
-title: "3D Printing for Beginners: Start Your First Print Today"
+title: "3D Printing Beginner Guide (2026): First Print in 2 Hours"
 slug: "3d-printing-beginners-guide"
-description: "New to 3D printing? This beginner guide covers the best printers under $300, PLA vs PETG, and how to get your first print done in under 2 hours."
+description: "Complete 3D printing beginner guide for 2026. Best printers under $300, PLA vs PETG basics, slicer setup, and how to get your first print done fast."
 publishDate: 2025-12-24
 updatedDate: 2026-04-05
 author: "bored chap"

@@ -1,7 +1,7 @@
 ---
 title: "Smartphone Camera vs Dedicated Camera: Still Worth It? (2026)"
 slug: "camera-vs-smartphone"
-description: "Smartphone camera vs dedicated camera compared with real samples. See exactly when a $500 camera beats your iPhone or Pixel — and when your phone wins."
+description: "Is a dedicated camera still worth it in 2026? We compare smartphone vs camera for low light, zoom, portraits, and video — with real-world samples."
 publishDate: 2026-01-03
 updatedDate: 2026-04-05
 author: "bored chap"
