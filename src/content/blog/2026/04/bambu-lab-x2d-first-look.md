@@ -10,7 +10,7 @@ tags: ["3D Printing", "Bambu Lab", "Review", "Hardware"]
 draft: false
 faq:
   - question: "How much does the Bambu Lab X2D cost?"
-    answer: "The X2D starts at approximately $1,049 for the base model and $1,299 for the Combo configuration that includes the AMS multi-material system. This positions it between the P2S ($549) and the professional H2D ($1,749+)."
+    answer: "The X2D Combo (including AMS) retails for $899.99. This positions it between the P2S ($549) and the professional H2D ($1,749+), making it a competitive option for dual extrusion at under $900."
   - question: "What is the difference between the X2D and the X1 Carbon?"
     answer: "The X2D replaces the X1 Carbon with a major upgrade: true dual extrusion. While the X1C had a single extruder with multi-color support via the AMS, the X2D has two independent hot ends — one direct-drive and one Bowden — allowing simultaneous printing with two different materials. It also adds a dedicated TPU feeding system and stainless steel linear rails."
   - question: "Can the Bambu Lab X2D print with flexible filaments like TPU?"
@@ -41,7 +41,7 @@ This isn't just a multi-color trick like the AMS. True dual extrusion means you 
 | **TPU Support** | Dedicated feeding system |
 | **Linear Motion** | Stainless steel linear rails |
 | **Camera** | Built-in monitoring camera |
-| **Price** | ~$1,049 (base) / ~$1,299 (Combo) |
+| **Price** | $899.99 (Combo with AMS) |
 
 ## Why Dual Extrusion Matters
 
@@ -60,7 +60,7 @@ Other dual extrusion use cases:
 
 | Feature | P2S | X2D | H2D |
 |---------|-----|-----|-----|
-| **Price** | ~$549 | ~$1,049 | ~$1,749 |
+| **Price** | ~$549 | $899.99 | ~$1,749 |
 | **Build Volume** | 256 × 256 × 256 mm | 256 × 256 × 256 mm | 350 × 350 × 350 mm |
 | **Extrusion** | Single | Dual | Dual |
 | **Chamber** | No | 65°C heated | Heated |
@@ -111,21 +111,20 @@ Anyone who's tried to print TPU on a Bowden system knows the frustration: the so
 
 **Skip, if you:**
 - Need a build volume larger than 256mm (look at the H2D instead)
-- Are on a budget under $800 (the [Bambu A1 Mini](/bambu-a1-mini-vs-creality-ender-3/) or P2S are better value)
+- Are on a budget under $500 (the [Bambu A1 Mini](/bambu-a1-mini-vs-creality-ender-3/) or P2S are better value)
 - Only do single-material prints and don't need a heated chamber
 
 ## Pricing and Availability
 
 The X2D is available in two configurations:
 
-- **X2D Base:** ~$1,049 — includes the printer with dual extrusion, LiDAR, heated chamber, and TPU system
-- **X2D Combo:** ~$1,299 — adds the AMS (Automatic Material System) for multi-color and expanded multi-material capability
+- **X2D Combo:** $899.99 — includes the printer with dual extrusion, LiDAR, heated chamber, TPU system, and the AMS 2 multi-material system
 
-Pre-orders are expected to open on launch day (April 14, 2026) through the [Bambu Lab store](https://bambulab.com) and authorized retailers like Micro Center.
+The X2D is available now through the [Bambu Lab store](https://bambulab.com) and retailers like [Best Buy](https://www.bestbuy.com).
 
 ## The Bottom Line
 
-The X2D fills a gap in Bambu Lab's lineup that the community has been asking about since the X1 Carbon was discontinued. True dual extrusion in a compact, X1-sized body at a price point that doesn't require H2D money.
+The X2D fills a gap in Bambu Lab's lineup that the community has been asking about since the X1 Carbon was discontinued. True dual extrusion in a compact, X1-sized body at $899.99 for the Combo — nearly half the price of the H2D.
 
 For makers and engineers who've been printing support-heavy parts on single-nozzle machines — dealing with scarred surfaces and hours of post-processing — the X2D's dissolvable support capability is a genuine workflow upgrade, not just a spec-sheet feature.
 
