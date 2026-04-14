@@ -68,13 +68,13 @@ Other dual extrusion use cases:
 | **AI Detection** | No | Yes (31 sensors) | Yes |
 | **TPU System** | No | Yes | Yes |
 | **AMS** | Optional | Optional | Optional |
-| **Best For** | Beginners, PLA/PETG | Engineers, multi-material | Professionals, large parts |
+| **Best For** | Tight budgets, PLA only | Best value for serious makers | Large-format production |
 
-**Choose the P2S** if you're getting started with 3D printing and mostly print single-material parts. At $649 base vs $549, the price gap is small — but the X2D's dual nozzles and heated chamber justify the extra $100. See our [best 3D printers under $300](/best-3d-printers-under-300/) guide if you're on an even tighter budget.
+**Choose the X2D** if you want the best all-round Bambu Lab printer. For just $100 more than the P2S, you get dual nozzles, a heated chamber up to 65°C, dedicated TPU support, 31 sensors, three-stage air filtration, and Cool/Heat Mode switching. That's a massive feature jump for a small price difference — it's hard to justify the P2S when the X2D exists at $649.
 
-**Choose the X2D** if you need dual extrusion for dissolvable supports, multi-material engineering prints, or dedicated TPU capability — and you want it in a compact desktop footprint.
+**Choose the P2S** only if you're on a strict budget and exclusively print PLA. You'll miss the heated chamber, dual nozzles, air filtration, and TPU support. See our [best 3D printers under $300](/best-3d-printers-under-300/) guide if you need something even more affordable.
 
-**Choose the H2D** if you need dual extrusion AND a larger build volume for professional or production use. The H2D's 350 × 320 × 325 mm build volume is significantly larger, but so is the price tag.
+**Choose the H2D** if you need a larger build volume for production work. The H2D's 350 × 320 × 325 mm build area is significantly bigger, but at $1,749+ it's nearly 3x the X2D's base price.
 
 ## Key Features Breakdown
 
@@ -99,21 +99,19 @@ Anyone who's tried to print TPU on a Bowden system knows the frustration: the so
 ## Who Should Buy the X2D?
 
 **Yes, if you:**
-- Print engineering parts that need dissolvable supports
-- Work with multiple materials (rigid + flexible, structural + support)
-- Want to print TPU without the headaches
-- Need a heated chamber for ABS, ASA, or nylon
-- Are upgrading from an X1 Carbon and want the next generation
+- Want the best value in Bambu Lab's lineup right now ($100 more than P2S for dramatically more features)
+- Print anything beyond basic PLA — the heated chamber and dual nozzles open up ABS, ASA, nylon, and TPU
+- Are tired of fighting with support removal (dissolvable supports change everything)
+- Want multi-material or multi-color capability without H2D money
+- Are upgrading from an X1 Carbon, Ender 3, or any single-nozzle printer
 
-**Maybe wait, if you:**
-- Only print PLA and PETG (the P2S at $549 handles this well)
-- Don't need dual extrusion and would rather have a larger build volume
-- Are a beginner still learning the basics of FDM printing
+**Consider the H2D instead, if you:**
+- Need a build volume larger than 256mm for large-format or production prints
+- Want optional laser engraving and cutting capability
 
-**Skip, if you:**
-- Need a build volume larger than 256mm (look at the H2D instead)
-- Are on a budget under $500 (the [Bambu A1 Mini](/bambu-a1-mini-vs-creality-ender-3/) or P2S are better value)
-- Only do single-material prints and don't need a heated chamber
+**Consider the [A1 Mini](/bambu-a1-mini-vs-creality-ender-3/) instead, if you:**
+- Are on a strict budget under $300 and only need basic PLA printing
+- Want the smallest possible footprint for a desk setup
 
 ## Pricing and Availability
 
@@ -126,11 +124,11 @@ The X2D is available now through the [Bambu Lab store](https://bambulab.com) and
 
 ## The Bottom Line
 
-The X2D fills a gap in Bambu Lab's lineup that the community has been asking about since the X1 Carbon was discontinued. True dual extrusion in a compact, X1-sized body starting at just $649 — or $899 for the AMS Combo.
+At $649, the X2D is the most compelling printer in Bambu Lab's lineup. You get dual nozzles, a heated chamber, 31 sensors, three-stage air filtration, dedicated TPU support, and Cool/Heat Mode — for just $100 more than the single-nozzle P2S. That's not an incremental upgrade; it's a different class of machine.
 
-For makers and engineers who've been printing support-heavy parts on single-nozzle machines — dealing with scarred surfaces and hours of post-processing — the X2D's dissolvable support capability is a genuine workflow upgrade, not just a spec-sheet feature.
+The $899 AMS Combo adds multi-color and expanded material management, making it a complete production-ready setup for under $900.
 
-It's not for everyone. If you're happy printing single-material parts, the P2S at $549 is still the smart buy. But if you've ever abandoned a print because the supports were impossible to remove, or wished you could combine rigid and flexible materials in one job, the X2D is built for exactly that.
+If you've ever abandoned a print because the supports were impossible to remove, spent hours sanding support marks, or wished you could combine rigid and flexible materials in one job — the X2D solves all of that. For most people buying a 3D printer in 2026, this is the one to get.
 
 ---
 
