@@ -10,9 +10,9 @@ tags: ["3D Printing", "Bambu Lab", "Review", "Hardware"]
 draft: false
 faq:
   - question: "How much does the Bambu Lab X2D cost?"
-    answer: "The X2D Combo (including AMS) retails for $899.99. This positions it between the P2S ($549) and the professional H2D ($1,749+), making it a competitive option for dual extrusion at under $900."
+    answer: "The X2D AMS Combo retails for $899. This positions it between the P2S ($549) and the professional H2D ($1,749+), making it a competitive option for dual extrusion at under $900."
   - question: "What is the difference between the X2D and the X1 Carbon?"
-    answer: "The X2D replaces the X1 Carbon with a major upgrade: true dual extrusion. While the X1C had a single extruder with multi-color support via the AMS, the X2D has two independent hot ends — one direct-drive and one Bowden — allowing simultaneous printing with two different materials. It also adds a dedicated TPU feeding system and stainless steel linear rails."
+    answer: "The X2D replaces the X1 Carbon with a major upgrade: dual-nozzle 3D printing with a closed-loop servo motor extruder. While the X1C had a single extruder with multi-color support via the AMS, the X2D has two nozzles allowing simultaneous printing with two different materials. It also adds full filament path AI detection, 60°C active chamber heating, and a 256 × 256 × 260 mm build volume."
   - question: "Can the Bambu Lab X2D print with flexible filaments like TPU?"
     answer: "Yes. The X2D includes a dedicated TPU feeding system specifically designed to prevent the binding and jamming issues that flexible filaments cause in standard extruders. This is a significant improvement over the X1C, which struggled with TPU."
   - question: "Is the X2D compatible with the AMS?"
@@ -31,17 +31,16 @@ This isn't just a multi-color trick like the AMS. True dual extrusion means you 
 
 | Spec | Bambu Lab X2D |
 |------|--------------|
-| **Build Volume** | 256 × 256 × 256 mm |
-| **Extrusion** | Dual hot end (1 direct-drive + 1 Bowden) |
-| **Nozzle Temp** | Up to 350°C |
-| **Bed Temp** | Up to 120°C |
-| **Chamber** | 65°C (heated & filtered) |
-| **LiDAR** | Yes |
-| **AMS Compatible** | Yes (dual filament buffers) |
+| **Build Volume** | 256 × 256 × 260 mm |
+| **Extrusion** | Dual-nozzle (closed-loop servo motor extruder) |
+| **Nozzle Temp** | Up to 300°C |
+| **Chamber** | 60°C active heating |
+| **AI Detection** | Full filament path AI detection |
+| **AMS Compatible** | Yes (AMS 2 Pro, AMS HT supported) |
 | **TPU Support** | Dedicated feeding system |
 | **Linear Motion** | Stainless steel linear rails |
-| **Camera** | Built-in monitoring camera |
-| **Price** | $899.99 (Combo with AMS) |
+| **Multi-Color** | Faster multi-color printing & cleaner support removal |
+| **Price** | $899 (AMS Combo) |
 
 ## Why Dual Extrusion Matters
 
@@ -60,11 +59,11 @@ Other dual extrusion use cases:
 
 | Feature | P2S | X2D | H2D |
 |---------|-----|-----|-----|
-| **Price** | ~$549 | $899.99 | ~$1,749 |
-| **Build Volume** | 256 × 256 × 256 mm | 256 × 256 × 256 mm | 350 × 350 × 350 mm |
+| **Price** | ~$549 | $899 | ~$1,749 |
+| **Build Volume** | 256 × 256 × 256 mm | 256 × 256 × 260 mm | 350 × 350 × 350 mm |
 | **Extrusion** | Single | Dual | Dual |
-| **Chamber** | No | 65°C heated | Heated |
-| **LiDAR** | No | Yes | Yes |
+| **Chamber** | No | 60°C heated | Heated |
+| **AI Detection** | No | Yes | Yes |
 | **TPU System** | No | Yes | Yes |
 | **AMS** | Optional | Optional | Optional |
 | **Best For** | Beginners, PLA/PETG | Engineers, multi-material | Professionals, large parts |
@@ -81,15 +80,15 @@ Other dual extrusion use cases:
 
 The X2D uses a hybrid approach: one **direct-drive** extruder (better for flexible filaments and precise retraction) and one **Bowden** extruder (lighter, faster movements). The 2-series nozzles are compatible with the H2D and H2S ecosystem.
 
-Both nozzles reach **350°C**, which means you can print with high-temperature materials like nylon, polycarbonate, and carbon-fiber composites — materials that the P2S simply can't handle.
+Both nozzles reach **300°C**, which means you can print with engineering materials like nylon, ABS, ASA, and carbon-fiber composites — materials that the P2S simply can't handle.
 
-### LiDAR and Vision System
+### AI Detection and Servo Extruder
 
-Like the X1 Carbon before it, the X2D includes Bambu Lab's **LiDAR module** for automatic first-layer calibration and real-time print quality monitoring. The "BirdsEye" vision encoder tracks the build plate for precision alignment between the two nozzles — critical for dual extrusion where even 0.1mm misalignment ruins a print.
+The X2D includes **full filament path AI detection** — the system monitors the entire filament path in real time, catching issues before they ruin a print. Combined with the closed-loop servo motor extruder, this ensures precise alignment between the two nozzles — critical for dual extrusion where even 0.1mm misalignment ruins a print.
 
 ### Heated and Filtered Chamber
 
-The 65°C heated chamber isn't just about printing ABS without warping. It's about **consistent material properties.** Engineering materials like nylon and ASA need a controlled thermal environment to achieve reliable layer adhesion. The built-in filtration system handles the VOCs that these materials emit.
+The 60°C actively heated chamber isn't just about printing ABS without warping. It's about **consistent material properties.** Engineering materials like nylon and ASA need a controlled thermal environment to achieve reliable layer adhesion. The built-in filtration system handles the VOCs that these materials emit.
 
 ### Dedicated TPU Feeding System
 
@@ -101,7 +100,7 @@ Anyone who's tried to print TPU on a Bowden system knows the frustration: the so
 - Print engineering parts that need dissolvable supports
 - Work with multiple materials (rigid + flexible, structural + support)
 - Want to print TPU without the headaches
-- Need a heated chamber for ABS, ASA, nylon, or PC
+- Need a heated chamber for ABS, ASA, or nylon
 - Are upgrading from an X1 Carbon and want the next generation
 
 **Maybe wait, if you:**
@@ -118,13 +117,13 @@ Anyone who's tried to print TPU on a Bowden system knows the frustration: the so
 
 The X2D is available in two configurations:
 
-- **X2D Combo:** $899.99 — includes the printer with dual extrusion, LiDAR, heated chamber, TPU system, and the AMS 2 multi-material system
+- **X2D AMS Combo:** $899 — includes the printer with dual-nozzle extrusion, 60°C active chamber heating, full filament path AI detection, and the AMS 2 multi-material system
 
 The X2D is available now through the [Bambu Lab store](https://bambulab.com) and retailers like [Best Buy](https://www.bestbuy.com).
 
 ## The Bottom Line
 
-The X2D fills a gap in Bambu Lab's lineup that the community has been asking about since the X1 Carbon was discontinued. True dual extrusion in a compact, X1-sized body at $899.99 for the Combo — nearly half the price of the H2D.
+The X2D fills a gap in Bambu Lab's lineup that the community has been asking about since the X1 Carbon was discontinued. True dual extrusion in a compact, X1-sized body at $899 for the AMS Combo — nearly half the price of the H2D.
 
 For makers and engineers who've been printing support-heavy parts on single-nozzle machines — dealing with scarred surfaces and hours of post-processing — the X2D's dissolvable support capability is a genuine workflow upgrade, not just a spec-sheet feature.
 
