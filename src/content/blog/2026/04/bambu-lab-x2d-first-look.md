@@ -12,7 +12,7 @@ faq:
   - question: "How much does the Bambu Lab X2D cost?"
     answer: "The X2D starts at $649 for the base model and $899 for the AMS Combo (including the AMS multi-material system). This positions it between the P2S ($549) and the professional H2D ($1,749+)."
   - question: "What is the difference between the X2D and the X1 Carbon?"
-    answer: "The X2D replaces the X1 Carbon with a major upgrade: dual-nozzle 3D printing with a closed-loop servo motor extruder. While the X1C had a single extruder with multi-color support via the AMS, the X2D has two nozzles allowing simultaneous printing with two different materials. It also adds full filament path AI detection, 60°C active chamber heating, and a 256 × 256 × 260 mm build volume."
+    answer: "The X2D replaces the X1 Carbon with a major upgrade: dual-nozzle 3D printing with a closed-loop servo motor extruder. While the X1C had a single extruder with multi-color support via the AMS, the X2D has two nozzles allowing simultaneous printing with two different materials. It also adds full filament path AI detection, a heated chamber up to 65°C, and a 256 × 256 × 260 mm build volume."
   - question: "Can the Bambu Lab X2D print with flexible filaments like TPU?"
     answer: "Yes. The X2D includes a dedicated TPU feeding system specifically designed to prevent the binding and jamming issues that flexible filaments cause in standard extruders. This is a significant improvement over the X1C, which struggled with TPU."
   - question: "Is the X2D compatible with the AMS?"
@@ -35,7 +35,9 @@ This isn't just a multi-color trick like the AMS. Dual-nozzle printing means you
 | **Build Volume (dual nozzle)** | 235.5 × 256 × 256 mm |
 | **Extrusion** | Dual-nozzle with mechanical switching (PMSM servo motor) |
 | **Nozzle Temp** | Up to 300°C |
+| **Bed Temp** | Up to 120°C |
 | **Chamber** | Cool Mode (ambient air) / Heat Mode (up to 65°C) |
+| **Print Speed** | Up to 1000 mm/s |
 | **Sensors** | 31 sensors monitoring filament path, thermal, and safety |
 | **AI Detection** | Full filament path AI detection |
 | **Air Filtration** | 3-stage: G3 pre-filter + H12 HEPA + activated carbon |
@@ -82,7 +84,7 @@ Other dual extrusion use cases:
 
 The X2D uses a mechanical nozzle-switching system — no extra motor on the toolhead, just gears and triggers. The **left nozzle** runs a direct-drive extruder (better for flexible filaments), while the **right nozzle** uses a Bowden setup with a rear-mounted motor (lighter, faster movements). Bambu Lab tested the switching mechanism for over **one million cycles** without degradation.
 
-Both nozzles reach **300°C**, powered by a proprietary PMSM servo motor that samples torque and position **20,000 times per second**. This enables printing with engineering materials like nylon, ABS, ASA, and carbon-fiber composites.
+Both nozzles reach **300°C** with a **120°C heated bed**, powered by a proprietary PMSM servo motor that samples torque and position **20,000 times per second**. This enables printing with engineering materials like nylon, ABS, ASA, PC, and carbon-fiber composites at speeds up to **1000 mm/s**.
 
 ### 31 Sensors and Dynamic Flow Calibration
 
@@ -90,7 +92,7 @@ The X2D packs **31 sensors** monitoring the feeding path, thermal environment, a
 
 ### Cool Mode / Heat Mode Chamber
 
-The X2D's chamber operates in two modes: **Cool Mode** draws in ambient air for clean overhangs in PLA, while **Heat Mode** actively heats the chamber up to 65°C for ABS, ASA, and nylon. The three-stage air filtration (G3 pre-filter, H12 HEPA, and coconut shell activated carbon) handles VOC emissions, and the whole system runs below **50 dB**.
+The X2D's chamber operates in two modes: **Cool Mode** draws in ambient air for clean overhangs in PLA, while **Heat Mode** actively heats the chamber up to 65°C for ABS, ASA, nylon, and PC. The three-stage air filtration (G3 pre-filter, H12 HEPA, and coconut shell activated carbon) handles VOC emissions, and the whole system runs below **50 dB**.
 
 ### Dedicated TPU Feeding System
 
@@ -100,7 +102,7 @@ Anyone who's tried to print TPU on a Bowden system knows the frustration: the so
 
 **Yes, if you:**
 - Want the best value in Bambu Lab's lineup right now ($100 more than P2S for dramatically more features)
-- Print anything beyond basic PLA — the heated chamber and dual nozzles open up ABS, ASA, nylon, and TPU
+- Print anything beyond basic PLA — the heated chamber and dual nozzles open up ABS, ASA, nylon, PC, and TPU
 - Are tired of fighting with support removal (dissolvable supports change everything)
 - Want multi-material or multi-color capability without H2D money
 - Are upgrading from an X1 Carbon, Ender 3, or any single-nozzle printer
