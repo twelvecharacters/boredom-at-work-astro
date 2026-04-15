@@ -122,6 +122,7 @@ The most important decision. Get this right, and everything else is easier.
 | **Creality Ender 3 V3 SE** | $199 | Learning the craft | Best for budget tinkering |
 | **Anycubic Kobra 2** | $219 | Balance of both | Good middle ground |
 | **Bambu Lab P1S** | ~$450 | Enclosed, quiet | Best enclosed option |
+| **[Bambu Lab X2D](/bambu-lab-x2d-first-look/)** | $649–899 | Dual-nozzle, 65°C chamber | Best for multi-material |
 
 **Budget pick:** Creality Ender 3 V3 SE—proven workhorse, huge community
 **Convenience pick:** Bambu A1 Mini—minimal setup, consistent results
@@ -399,6 +400,7 @@ The best way to learn 3D printing is to print things. A lot of things. So go mak
 **Choosing a Printer:**
 - [Best 3D Printers Under $300](/best-3d-printers-under-300/)
 - [Bambu A1 Mini vs Creality Ender 3](/bambu-a1-mini-vs-creality-ender-3/)
+- [Bambu Lab X2D: First Look](/bambu-lab-x2d-first-look/)
 - [FDM vs Resin Printing](/fdm-vs-resin-printing/)
 
 **Materials & Settings:**

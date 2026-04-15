@@ -164,6 +164,7 @@ The $80 extra you pay is basically a "frustration tax" that you're paying to avo
 ### From the Bambu A1 Mini:
 - **AMS Lite ($200):** Let's you print in 4 colors at once.
 - **Bambu Lab P1S ($700):** If you want to start printing "tough" plastics like Nylon or ABS.
+- **[Bambu Lab X2D](/bambu-lab-x2d-first-look/) ($649–899):** Dual-nozzle printing with dissolvable supports and a 65°C heated chamber — the best upgrade in the Bambu ecosystem.
 
 ### From the Ender 3:
 - **Klipper Firmware (Free/Cheap):** To squeeze even more speed out of it.

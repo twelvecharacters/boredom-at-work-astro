@@ -80,7 +80,7 @@ Here's everything you need to know to choose the right one.
 
 ❌ **Visible layer lines** — Surface texture is obvious
 ❌ **Limited detail** — Small features blur together
-❌ **Supports leave marks** — Cleanup can be tedious
+❌ **Supports leave marks** — Cleanup can be tedious (dual-nozzle printers like the [Bambu Lab X2D](/bambu-lab-x2d-first-look/) solve this with dissolvable supports)
 ❌ **Slower for detailed prints** — Fine layers = long print times
 ❌ **Warping issues** — Especially with ABS (our [adhesion troubleshooting guide](/3d-print-not-sticking-fixes/) covers fixes)
 

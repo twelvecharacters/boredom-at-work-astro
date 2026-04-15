@@ -265,7 +265,7 @@ If you want to print immediately and avoid frustration: Yes, absolutely. The ~$2
 
 **For speed enthusiasts with large projects:** The **Creality Ender 3 V3** offers Bambu-like speed with larger print volume.
 
-No matter which printer you choose - getting into 3D printing under $300 has never been easier and higher quality than in 2026. Once your printer arrives, check out our list of [10 things you should 3D print first](/10-things-to-print-new-3d-printer/) to put it to good use right away. And if you're eyeing the high-end multi-color segment, see our [Anycubic Kobra S1 Max vs Snapmaker U1 comparison](/anycubic-s1-vs-snapmaker-u1/) for the flagship battle of 2026.
+No matter which printer you choose - getting into 3D printing under $300 has never been easier and higher quality than in 2026. Once your printer arrives, check out our list of [10 things you should 3D print first](/10-things-to-print-new-3d-printer/) to put it to good use right away. And if you're eyeing the high-end multi-color segment, see our [Anycubic Kobra S1 Max vs Snapmaker U1 comparison](/anycubic-s1-vs-snapmaker-u1/) for the flagship battle of 2026. For dual-nozzle printing with dissolvable supports starting at $649, check out the [Bambu Lab X2D](/bambu-lab-x2d-first-look/).
 
 ---
 

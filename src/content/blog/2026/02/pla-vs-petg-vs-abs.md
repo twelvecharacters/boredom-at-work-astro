@@ -148,7 +148,7 @@ First Layer: Print slow (20mm/s) and squish it
 
 ### ABS's Serious Limitations
 
-- **Requires enclosure** — Warps badly without stable temperature
+- **Requires enclosure** — Warps badly without stable temperature (printers like the [Bambu Lab X2D](/bambu-lab-x2d-first-look/) solve this with a built-in 65°C heated chamber)
 - **Toxic fumes** — Needs ventilation, shouldn't breathe it
 - **Strong odor** — Smells like burning plastic
 - **High warping** — Corners lift, layers crack (see [adhesion fixes](/3d-print-not-sticking-fixes/))
