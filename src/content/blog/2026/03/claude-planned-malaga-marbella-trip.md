@@ -8,6 +8,11 @@ image: "./claude-malaga-marbella-trip.webp"
 imageAlt: "Malaga and Marbella travel scene from a Claude AI-planned trip"
 tags: ["AI", "Travel", "Claude", "Trip Planning", "Spain", "AI Travel"]
 draft: false
+video:
+  youtubeId: "wAfBMUGDPmg"
+  title: "Live Guitar Solo at Hard Rock Hotel Marbella — Lenny Kravitz Cover"
+  description: "A guitarist performing a Lenny Kravitz cover of Are You Gonna Go My Way at the Rockmania Afterwork Networking Event at Hard Rock Hotel Marbella."
+  duration: "PT1M"
 faq:
   - question: "Can Claude plan a trip to southern Spain on a budget?"
     answer: "Yes. We asked Claude to handle restaurant picks, sightseeing priorities, and day-by-day timing for 5 days in Málaga and Marbella. Most meals came in under €30 per person, and Claude's suggestions were solid — though it occasionally miscalculated walking distances."
