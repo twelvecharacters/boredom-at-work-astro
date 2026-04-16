@@ -1,7 +1,7 @@
 ---
 title: "Bambu Lab X2D First Look: The $649 Dual-Extrusion Game Changer"
 slug: "bambu-lab-x2d-first-look"
-description: "Bambu Lab X2D brings dual extrusion to the X-series. Full specs, pricing, comparison to X1C and H2D, and who should buy it."
+description: "Bambu Lab X2D brings dual extrusion to the X-series. Full specs, pricing, comparison to P2S and H2D, and who should buy it."
 publishDate: 2026-04-14
 author: "bored chap"
 image: "./bambu-lab-x2d-first-look.webp"
@@ -11,15 +11,15 @@ draft: false
 faq:
   - question: "How much does the Bambu Lab X2D cost?"
     answer: "The X2D starts at $649 for the base model and $899 for the AMS Combo (including the AMS multi-material system). This positions it between the P2S ($549) and the professional H2D ($1,749+)."
-  - question: "What is the difference between the X2D and the X1 Carbon?"
-    answer: "The X2D replaces the X1 Carbon with a major upgrade: dual-nozzle 3D printing with a closed-loop servo motor extruder. While the X1C had a single extruder with multi-color support via the AMS, the X2D has two nozzles allowing simultaneous printing with two different materials. It also adds full filament path AI detection, a heated chamber up to 65°C, and a 256 × 256 × 260 mm build volume."
+  - question: "What is the difference between the X2D and the P2S?"
+    answer: "The X2D is a significant upgrade over the P2S, offering true dual-nozzle 3D printing and an actively heated chamber (up to 65°C). While the P2S relies on a passive enclosure and single nozzle, the X2D provides 31 smart sensors, dynamic flow calibration, and a dedicated TPU feeding system, all for just $100 more."
   - question: "Can the Bambu Lab X2D print with flexible filaments like TPU?"
-    answer: "Yes. The X2D includes a dedicated TPU feeding system specifically designed to prevent the binding and jamming issues that flexible filaments cause in standard extruders. This is a significant improvement over the X1C, which struggled with TPU."
+    answer: "Yes. The X2D includes a dedicated TPU feeding system specifically designed to prevent the binding and jamming issues that flexible filaments cause in standard extruders. This takes the frustration out of printing flexible materials."
   - question: "Is the X2D compatible with the AMS?"
     answer: "Yes. The X2D supports Bambu Lab's AMS (Automatic Material System) with dual filament buffers, enabling multi-material and multi-color printing alongside the dual extrusion capability."
 ---
 
-Bambu Lab just announced the X2D — the successor to the now-discontinued X1 Carbon and the company's first compact 3D printer with true dual extrusion.
+Bambu Lab just announced the X2D — the company's first compact 3D printer with true dual extrusion and an actively heated chamber.
 
 The X2D launched on April 14, 2026 with the tagline "Xcellence made simple." Here's everything you need to know.
 
