@@ -59,7 +59,7 @@ Other dual extrusion use cases:
 - **Engineering prototypes:** Combine materials with different thermal, chemical, or mechanical properties
 - **Dedicated TPU printing:** The X2D's specialized TPU feeder addresses the jamming problems that plague standard extruders with flexible filaments
 
-## X2D vs. X1 Carbon vs. H2D: Which Should You Pick?
+## X2D vs. P2S vs. H2D: Which Should You Pick?
 
 | Feature | P2S | X2D | H2D |
 |---------|-----|-----|-----|
