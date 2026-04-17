@@ -189,7 +189,7 @@ Once you've got consistent prints, try these progressions:
 | **Tools** | Wrenches, scrapers | Custom jigs, tool organizers |
 | **Fun** | Keychains, fidget toys | Board game pieces, cosplay props |
 
-**Deep dive:** [10 Essential Things to 3D Print First](/10-things-to-print-new-3d-printer/)
+**Deep dive:** [10 Essential Things to 3D Print First](/10-things-to-print-new-3d-printer/) — or browse our [20 best functional 3D prints](/best-functional-3d-prints/) that solve real problems around the house and office.
 
 ---
 
