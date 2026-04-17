@@ -145,4 +145,4 @@ It's a tiny change that makes reading feel more natural. You're welcome.
 
 ---
 
-Still deciding which Kindle to get? Check our [best e-readers guide](/best-e-readers/) or the classic [Kindle vs Kobo comparison](/kindle-vs-kobo/). And once you have one, our [best Kindle accessories guide](/best-kindle-accessories/) covers the only add-ons actually worth buying.
+Still deciding which Kindle to get? Check our [best e-readers guide](/best-e-readers/) or the classic [Kindle vs Kobo comparison](/kindle-vs-kobo/). And once you have one, our [complete Kindle guide](/kindle-guide/) covers setup, books, and customization, and our [best Kindle accessories guide](/best-kindle-accessories/) covers the only add-ons actually worth buying.

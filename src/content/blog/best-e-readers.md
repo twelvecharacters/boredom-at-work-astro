@@ -22,7 +22,7 @@ faq:
 
 The e-reader market in 2026 has more options than ever — but the decision doesn't have to be complicated. Whether you want the cheapest decent reader or a premium device with color and note-taking, there's a clear best pick for each category.
 
-Here's every major e-reader worth considering, with a recommendation for each type of reader. (Not sure if you even need one? Start with [is a Kindle worth it](/is-kindle-worth-it/). Torn between an e-reader and a tablet? See [Kindle vs iPad for reading](/kindle-vs-ipad-reading/).)
+Here's every major e-reader worth considering, with a recommendation for each type of reader. (Not sure if you even need one? Start with [is a Kindle worth it](/is-kindle-worth-it/). Torn between an e-reader and a tablet? See [Kindle vs iPad for reading](/kindle-vs-ipad-reading/). Already decided on a Kindle? Jump to our [complete Kindle guide](/kindle-guide/) for setup, books, and customization.)
 
 ---
 
