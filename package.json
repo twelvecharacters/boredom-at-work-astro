@@ -20,18 +20,18 @@
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.18",
-    "@astrojs/sitemap": "^3.7.1",
-    "@pagefind/default-ui": "^1.4.0",
-    "@tailwindcss/vite": "^4.2.1",
-    "astro": "^6.0.5",
+    "@astrojs/sitemap": "^3.7.2",
+    "@pagefind/default-ui": "^1.5.2",
+    "@tailwindcss/vite": "^4.2.2",
+    "astro": "^6.1.7",
     "astro-seo": "^1.1.0",
-    "pagefind": "^1.4.0",
+    "pagefind": "^1.5.2",
     "rehype-external-links": "^3.0.0",
     "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
     "sass": "^1.97.2",
-    "sass-embedded": "^1.98.0",
+    "sass-embedded": "^1.99.0",
     "sharp": "^0.34.5"
   }
 }
