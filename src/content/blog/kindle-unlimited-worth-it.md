@@ -158,3 +158,5 @@ My recommendation: **Start with the [30-day free trial](https://www.amazon.com/k
 After my 6-month test, I kept my subscription. The convenience of always having something to read — on my commute, during lunch, before bed — is worth more than the $12/month price tag. But I also still buy specific bestsellers and use my library for the gaps KU doesn't fill.
 
 The best approach isn't all-or-nothing. It's using every option — KU, library, purchases — strategically.
+
+For more ways to maximize your reading budget, see our [guide to free Kindle books](/free-books-kindle/) and our [full Kindle guide](/kindle-guide/) covering setup, tips, and every source of books.

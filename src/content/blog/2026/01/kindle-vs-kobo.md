@@ -251,4 +251,4 @@ But if you know you'll use the library heavily or have strong feelings about avo
 
 Both are excellent devices. You won't regret either choice.
 
-For a closer model-by-model look, check our [Kindle Paperwhite vs Kobo Clara comparison](/kindle-paperwhite-vs-kobo-clara/). And if you want to see every e-reader on the market side by side, our [best e-readers guide](/best-e-readers/) covers Kindle, Kobo, Boox, and reMarkable.
+For a closer model-by-model look, check our [Kindle Paperwhite vs Kobo Clara comparison](/kindle-paperwhite-vs-kobo-clara/). And if you want to see every e-reader on the market side by side, our [best e-readers guide](/best-e-readers/) covers Kindle, Kobo, Boox, and reMarkable. Already decided on Kindle? Our [complete Kindle guide](/kindle-guide/) covers setup, books, and customization.

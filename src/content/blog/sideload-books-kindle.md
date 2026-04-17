@@ -206,4 +206,4 @@ Most people only need the email method and the web upload. If you're building a 
 
 **File is too large:** Send to Kindle methods cap at 200 MB per file. For larger files, use USB transfer or Calibre.
 
-For more ways to get the most out of your e-reader, check out our [best Kindle accessories](/best-kindle-accessories/) roundup and our guide to the [best e-readers](/best-e-readers/) on the market.
+For more ways to get the most out of your e-reader, check out our [best Kindle accessories](/best-kindle-accessories/) roundup and our guide to the [best e-readers](/best-e-readers/) on the market. Looking for an overview? Our [complete Kindle guide](/kindle-guide/) ties everything together — setup, books, tips, and customization.

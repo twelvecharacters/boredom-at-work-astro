@@ -181,7 +181,7 @@ After testing 50+ GPTs, here is what I look for:
 
 **Read the description carefully.** If a GPT claims to "revolutionize your workflow" without explaining how, skip it. Good GPTs describe a specific capability or data source.
 
-**Look for external integrations.** The best GPTs (Consensus, [Canva](https://www.canva.com/), AskYourPDF) connect to real databases or services. GPTs that only use custom instructions and knowledge files are often just fancy system prompts, which means you could replicate them yourself with [custom instructions](/chatgpt-custom-instructions/).
+**Look for external integrations.** The best GPTs (Consensus, [Canva](https://www.canva.com/), AskYourPDF) connect to real databases or services. GPTs that only use custom instructions and knowledge files are often just fancy system prompts, which means you could replicate them yourself with [custom instructions](/chatgpt-custom-instructions/) — grab one of our [15 ready-to-use templates](/chatgpt-custom-instructions-templates/) to skip the setup.
 
 **Test with a specific task, not a vague question.** Do not ask "can you help me with writing?" Ask it to rewrite a specific paragraph or draft a specific email. You will know within one interaction whether it is worth keeping.
 

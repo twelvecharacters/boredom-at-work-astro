@@ -136,4 +136,4 @@ Any Qi charger works — the **Anker 313** (~$16) is a safe bet. Drop the Kindle
 
 The Kindle is designed to be simple. Don't overcomplicate it with accessories you don't need. Start with a case, and add from there only when you feel a genuine need.
 
-Want to get more out of your Kindle software-side? Check out our [Kindle modding guide](/kindle-modding-guide/) for tips on custom fonts, KOReader, and more.
+Want to get more out of your Kindle software-side? Start with our [complete Kindle guide](/kindle-guide/) for setup basics, books, and customization — then level up with our [Kindle modding guide](/kindle-modding-guide/) for custom fonts, KOReader, and more.

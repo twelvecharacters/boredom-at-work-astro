@@ -161,4 +161,4 @@ Here's who should skip it:
 
 **My rating: 4 out of 5.** The Kindle Scribe is a genuinely useful work tool that I reach for every day. The note-taking is good enough, the reading is excellent, and the battery life means I never think about charging. The missing app ecosystem and clunky export workflow keep it from a perfect score — but for the hybrid reader-and-writer, nothing else comes this close.
 
-Looking for accessories to go with your Scribe? Browse our [best Kindle accessories](/best-kindle-accessories/) roundup.
+Looking for accessories to go with your Scribe? Browse our [best Kindle accessories](/best-kindle-accessories/) roundup. New to the Kindle ecosystem? Our [complete Kindle guide](/kindle-guide/) covers setup, books, and customization for every model.

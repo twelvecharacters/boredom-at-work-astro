@@ -152,4 +152,4 @@ For **everything else plus some reading**, use an iPad. It won't match the Kindl
 
 And if you're torn? Buy the Kindle first. It's cheaper, and you can always use the Kindle app on your phone or tablet for color content. You're not locked in.
 
-For more e-reader comparisons, check out our [Kindle vs Kobo](/kindle-vs-kobo/) breakdown — Kobo is the main alternative if you want an e-reader but don't love Amazon's ecosystem.
+For more e-reader comparisons, check out our [Kindle vs Kobo](/kindle-vs-kobo/) breakdown — Kobo is the main alternative if you want an e-reader but don't love Amazon's ecosystem. If you've decided on a Kindle, our [complete Kindle guide](/kindle-guide/) covers setup, books, and customization.

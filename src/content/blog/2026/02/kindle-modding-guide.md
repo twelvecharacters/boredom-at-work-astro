@@ -152,4 +152,4 @@ A modded Kindle is more than just a gadget; it’s a statement that you own your
 
 ---
 
-*Found a cool mod we didn't mention? Or stuck on a step? Leave a comment below or check out our guides on [Is a Kindle Worth It?](/is-kindle-worth-it/) and [Kindle vs Kobo](/kindle-vs-kobo/) if you're still on the fence about buying one. Already own a Kindle? Check our [15 tips and tricks](/kindle-tips-and-tricks/) and [best accessories](/best-kindle-accessories/) to get even more out of it.*
+*Found a cool mod we didn't mention? Or stuck on a step? Leave a comment below. If you're still on the fence, check [Is a Kindle Worth It?](/is-kindle-worth-it/) and [Kindle vs Kobo](/kindle-vs-kobo/). Already own a Kindle? Start with our [complete Kindle guide](/kindle-guide/) for setup basics, then level up with [15 tips and tricks](/kindle-tips-and-tricks/) and the [best accessories](/best-kindle-accessories/).*

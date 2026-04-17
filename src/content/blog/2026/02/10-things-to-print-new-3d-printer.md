@@ -160,7 +160,7 @@ If you're not ready to design your own in CAD yet, check out these three main re
 - [ ] Download/Design a solution.
 - [ ] Print, iterate, and enjoy your new productive hobby.
 
-**Ready to take it to the next level?** Check out our guide on [The Best CAD Software for 3D Printing Beginners](/cad-software-3d-printing/) to start designing your own solutions!
+**Ready to take it to the next level?** Check out our guide on [The Best CAD Software for 3D Printing Beginners](/cad-software-3d-printing/) to start designing your own solutions, or browse our [20 best functional 3D prints](/best-functional-3d-prints/) for more practical project ideas.
 
 ---
 

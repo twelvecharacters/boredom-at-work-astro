@@ -104,6 +104,7 @@ ChatGPT is the AI that started the revolution and remains the most popular. It's
 - [ChatGPT Tutorial for Beginners](/chatgpt-tutorial-beginners/) — Start here
 - [ChatGPT Plus vs Free](/chatgpt-plus-vs-free/) — Is $20/month worth it?
 - [ChatGPT Custom Instructions](/chatgpt-custom-instructions/) — Get better responses
+- [15 Custom Instructions Templates](/chatgpt-custom-instructions-templates/) — Copy-paste setups for work, writing, coding
 - [ChatGPT for Excel](/chatgpt-for-excel/) — Spreadsheet superpowers
 - [Claude vs ChatGPT](/claude-vs-chatgpt/) — Head-to-head comparison
 
