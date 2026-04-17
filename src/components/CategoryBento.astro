@@ -1,0 +1,82 @@
+---
+import { CATEGORIES } from '../config';
+
+const bentoCategories = CATEGORIES.slice(0, 6); // Take top 6 categories
+---
+
+<section class="py-24 bg-background-alt overflow-hidden">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="flex flex-col md:flex-row md:items-end justify-between mb-12 gap-6">
+      <div class="max-w-xl">
+        <h2 class="text-3xl md:text-5xl font-bold mb-4 tracking-tight">Level Up Your Skills</h2>
+        <p class="text-lg text-text-light">
+          Master the tools that matter. From AI and 3D printing to photography and career growth.
+        </p>
+      </div>
+      <a href="/blog/" class="btn-secondary whitespace-nowrap">
+        Browse All Categories <span class="ml-2">→</span>
+      </a>
+    </div>
+
+    <!-- Bento Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-4 md:grid-rows-2 gap-4 md:h-[600px]">
+      <!-- AI Category (Large) -->
+      <a 
+        href={bentoCategories[0].viewAllHref}
+        class="md:col-span-2 md:row-span-2 group relative bg-primary rounded-[2rem] p-8 md:p-12 overflow-hidden flex flex-col justify-end transition-all duration-500 hover:shadow-2xl hover:scale-[1.02]"
+      >
+        <div class="absolute inset-0 opacity-20 group-hover:opacity-30 transition-opacity">
+          <div class="absolute inset-0 bg-gradient-to-t from-primary via-primary/50 to-transparent z-10"></div>
+          <div class="absolute top-0 right-0 w-[500px] h-[500px] bg-accent/30 rounded-full blur-[100px] -translate-y-1/2 translate-x-1/2"></div>
+        </div>
+        <div class="relative z-20">
+          <span class="text-5xl mb-6 block group-hover:scale-110 group-hover:-rotate-12 transition-transform duration-500 origin-left">{bentoCategories[0].icon}</span>
+          <h3 class="text-3xl md:text-4xl font-bold text-white mb-4 leading-tight">{bentoCategories[0].title}</h3>
+          <p class="text-white/70 text-lg mb-6 max-w-sm line-clamp-2">{bentoCategories[0].description}</p>
+          <ul class="flex flex-wrap gap-2">
+            {bentoCategories[0].links.slice(0, 2).map(link => (
+              <li class="bg-white/10 text-white text-xs px-3 py-1.5 rounded-full border border-white/10">{link.text}</li>
+            ))}
+          </ul>
+        </div>
+      </a>
+
+      <!-- 3D Printing (Medium) -->
+      <a 
+        href={bentoCategories[1].viewAllHref}
+        class="md:col-span-2 group relative bg-white rounded-[2rem] p-8 border border-primary/5 shadow-sm overflow-hidden flex flex-col justify-end transition-all duration-500 hover:shadow-2xl hover:scale-[1.02]"
+      >
+        <div class="absolute top-0 right-0 w-48 h-48 bg-purple-500/5 rounded-full blur-[60px] translate-y-[-20%] translate-x-[20%] group-hover:bg-purple-500/10 transition-colors"></div>
+        <div class="relative z-10">
+          <span class="text-3xl mb-4 block group-hover:scale-110 transition-transform">{bentoCategories[1].icon}</span>
+          <h3 class="text-2xl font-bold mb-3">{bentoCategories[1].title}</h3>
+          <p class="text-text-light text-sm line-clamp-1">{bentoCategories[1].description}</p>
+        </div>
+      </a>
+
+      <!-- Photography (Medium) -->
+      <a 
+        href={bentoCategories[3].viewAllHref}
+        class="md:col-span-1 group relative bg-white rounded-[2rem] p-8 border border-primary/5 shadow-sm overflow-hidden flex flex-col justify-end transition-all duration-500 hover:shadow-2xl hover:scale-[1.02]"
+      >
+        <div class="absolute top-0 left-0 w-32 h-32 bg-orange-500/5 rounded-full blur-[40px] translate-y-[-20%] translate-x-[-20%] group-hover:bg-orange-500/10 transition-colors"></div>
+        <div class="relative z-10">
+          <span class="text-3xl mb-4 block group-hover:scale-110 transition-transform">{bentoCategories[3].icon}</span>
+          <h3 class="text-xl font-bold mb-2">{bentoCategories[3].title}</h3>
+        </div>
+      </a>
+
+      <!-- Career / Promotion (Small) -->
+      <a 
+        href={bentoCategories[5].viewAllHref}
+        class="md:col-span-1 group relative bg-accent rounded-[2rem] p-8 overflow-hidden flex flex-col justify-end transition-all duration-500 hover:shadow-2xl hover:scale-[1.02]"
+      >
+        <div class="absolute top-0 right-0 w-24 h-24 bg-white/20 rounded-full blur-[30px] translate-y-[-30%] translate-x-[30%]"></div>
+        <div class="relative z-10">
+          <span class="text-3xl mb-4 block group-hover:rotate-12 transition-transform">{bentoCategories[5].icon}</span>
+          <h3 class="text-xl font-bold text-white mb-2">{bentoCategories[5].title}</h3>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>

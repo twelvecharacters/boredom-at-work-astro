@@ -1,0 +1,79 @@
+---
+const paths = [
+  {
+    time: "5 MINS",
+    title: "Quick Hacks",
+    description: "Stealthy productivity tips and AI prompts you can master between tasks.",
+    icon: "⚡",
+    href: "/tags/ai/",
+    color: "bg-blue-500",
+  },
+  {
+    time: "30 MINS",
+    title: "Lunch Break",
+    description: "Practical tutorials and bite-sized courses to level up your career.",
+    icon: "🍕",
+    href: "/tags/tutorial/",
+    color: "bg-orange-500",
+  },
+  {
+    time: "PROJECT",
+    title: "Side Quest",
+    description: "Dive into 3D printing, photography, or gear research for your next hobby.",
+    icon: "🎮",
+    href: "/tags/3d-printing/",
+    color: "bg-purple-500",
+  }
+];
+---
+
+<section class="py-20 relative overflow-hidden bg-background">
+  <div class="max-w-6xl mx-auto px-4 relative z-10">
+    <div class="text-center mb-12">
+      <h2 class="text-3xl md:text-5xl font-bold mb-4 tracking-tight">Choose Your Adventure</h2>
+      <p class="text-lg text-text-light max-w-2xl mx-auto">
+        How much downtime do you have? Pick a path and turn those boring minutes into growth.
+      </p>
+    </div>
+
+    <div class="grid md:grid-cols-3 gap-8">
+      {paths.map((path) => (
+        <a 
+          href={path.href} 
+          class="group relative bg-white rounded-[2.5rem] p-8 border border-primary/5 shadow-sm hover:shadow-2xl hover:-translate-y-2 transition-all duration-500 overflow-hidden flex flex-col"
+        >
+          <!-- Animated Background Glow -->
+          <div class={`absolute top-0 right-0 w-32 h-32 ${path.color} opacity-[0.03] blur-3xl group-hover:opacity-10 transition-opacity`}></div>
+          
+          <div class="flex items-center justify-between mb-8">
+            <span class="text-xs font-black uppercase tracking-[0.2em] text-text-light/50 bg-background-alt px-3 py-1 rounded-full border border-primary/5">
+              {path.time}
+            </span>
+            <span class="text-4xl group-hover:scale-125 group-hover:rotate-12 transition-transform duration-500">
+              {path.icon}
+            </span>
+          </div>
+
+          <h3 class="text-2xl font-bold mb-4 group-hover:text-accent transition-colors">
+            {path.title}
+          </h3>
+          
+          <p class="text-text-light leading-relaxed mb-8 flex-grow">
+            {path.description}
+          </p>
+
+          <div class="flex items-center gap-2 text-accent font-bold text-sm">
+            <span>Explore Path</span>
+            <svg class="w-4 h-4 transition-transform group-hover:translate-x-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+            </svg>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+
+  <!-- Decorative background elements -->
+  <div class="absolute top-1/2 left-0 w-[500px] h-[500px] bg-accent/5 rounded-full blur-[120px] -translate-y-1/2 -translate-x-1/2 pointer-events-none"></div>
+  <div class="absolute bottom-0 right-0 w-[400px] h-[400px] bg-primary/5 rounded-full blur-[100px] translate-y-1/2 translate-x-1/2 pointer-events-none"></div>
+</section>

@@ -214,9 +214,25 @@ const socialImageURL = new URL(socialImagePath || "/images/og-default.webp", Ast
         });
       }
 
+      function setupScrollReveal() {
+        const revealElements = document.querySelectorAll('.reveal');
+        const observer = new IntersectionObserver((entries) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              entry.target.classList.add('active');
+              // Optionally unobserve after revealing
+              // observer.unobserve(entry.target);
+            }
+          });
+        }, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
+
+        revealElements.forEach(el => observer.observe(el));
+      }
+
       function init() {
         setupResponsiveTables();
         setupExternalLinks();
+        setupScrollReveal();
       }
 
       // Run on load and after swaps if using View Transitions
