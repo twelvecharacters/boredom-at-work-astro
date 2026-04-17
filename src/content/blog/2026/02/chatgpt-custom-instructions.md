@@ -22,6 +22,10 @@ howTo:
       text: "Start a new conversation and check if responses match your expectations. Adjust the instructions until they feel right."
 tldr: "Custom Instructions tell ChatGPT who you are and how you want responses. Set them once, benefit forever. Choose a personality preset for the overall tone, then add custom instructions for specifics. Copy our templates to get started instantly."
 faq:
+  - question: "What is the character limit for ChatGPT custom instructions?"
+    answer: "The character limit for ChatGPT custom instructions is approximately 1,500 characters per field. There are two separate fields — 'What should ChatGPT know about you?' and 'How would you like ChatGPT to respond?' — each with its own 1,500-character cap, giving you around 3,000 characters of total personalization."
+  - question: "What are the best practices for ChatGPT custom instructions in 2026?"
+    answer: "The five best practices are: (1) Lead with your role and expertise level so responses match your knowledge, (2) Specify your preferred response format (length, bullet points, code blocks), (3) Set tone preferences explicitly (formal, casual, direct), (4) Include domain-specific context you don't want to repeat, and (5) Test and iterate — start minimal and add rules only when ChatGPT gets something consistently wrong."
   - question: "What are ChatGPT custom instructions?"
     answer: "Custom instructions are persistent settings that tell ChatGPT about you and your preferences. Combined with a personality preset, they apply to all conversations (including existing ones) automatically, so you don't have to repeat context like your job, expertise level, or preferred response format."
   - question: "Are custom instructions available on ChatGPT free?"
@@ -35,6 +39,14 @@ Most people use ChatGPT like a stranger — starting every conversation from zer
 Custom Instructions let you tell ChatGPT who you are and how you want it to respond. Set them once, and every conversation automatically gets better.
 
 Here's how to set them up properly.
+
+## Quick Facts
+
+- **Character limit:** ~1,500 characters per field (two fields = ~3,000 total)
+- **Availability:** Free, Go ($8/mo), Plus ($20/mo), Pro ($200/mo) — all tiers
+- **Setup time:** About 5 minutes for a basic setup
+- **Scope:** Applies to all conversations automatically, including existing ones
+- **Where to find it:** Settings → Personalization → Custom Instructions
 
 ## What Are Custom Instructions?
 

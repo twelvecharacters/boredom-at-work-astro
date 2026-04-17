@@ -26,6 +26,24 @@ Your smartphone takes incredible photos. The iPhone and Pixel can produce images
 
 This is the question every potential camera buyer asks - and it deserves an honest answer. In this guide, I'll compare cameras and smartphones objectively, covering when each excels and helping you decide if a dedicated camera is worth your money.
 
+## Quick Verdict
+
+**Buy a dedicated camera if you:**
+- Need real optical zoom (3x or more, not digital)
+- Shoot low light regularly (indoor events, night scenes, concerts)
+- Want true shallow depth of field (real bokeh, not simulated)
+- Plan to make large prints (A3 or bigger)
+- Want photography as a hobby with manual control
+
+**Stick with your smartphone if you:**
+- Share mostly on social media
+- Value convenience over image quality
+- Don't want to carry extra gear
+- Are happy with your current photos
+- Shoot mainly in good daylight
+
+**The short answer:** In 2026, smartphones have closed 80% of the quality gap for everyday photography. Dedicated cameras still win decisively for low-light work, optical zoom, and creative control — but for the average user sharing on Instagram, a phone is genuinely enough.
+
 ## The Honest Truth
 
 Let me be direct: **most people don't need a dedicated camera.**
