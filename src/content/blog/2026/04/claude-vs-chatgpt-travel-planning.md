@@ -4,7 +4,7 @@ description: "We tested both AI assistants with the same trip requests. Here's w
 publishDate: 2026-04-22
 author: "bored chap"
 image: "./claude-vs-chatgpt-travel.webp"
-imageAlt: "Side-by-side comparison of Claude and ChatGPT for travel planning"
+imageAlt: "Travel journal with handwritten itinerary, vintage map of Europe, compass, coffee, and laptop showing AI-generated trip plan"
 tags: ["AI", "Travel", "ChatGPT", "Claude", "AI Travel"]
 draft: false
 faq:
