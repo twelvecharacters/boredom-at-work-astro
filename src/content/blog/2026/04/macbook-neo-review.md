@@ -90,7 +90,7 @@ If you're in the market for a portable Mac right now, the choice is more complex
 | :--- | :--- | :--- | :--- |
 | **Price** | $599 | ~$799 - $849 | $1,099 |
 | **Chip** | A18 Pro | M4 | M5 (10-core) |
-| **Unified Memory** | 8GB (Fixed) | 8GB or 16GB | 16GB (Start) |
+| **Unified Memory** | 8GB (Fixed) | 16GB (Start) | 16GB (Start) |
 | **Storage** | 256GB | 256GB or 512GB | 512GB (Start) |
 | **Weight** | 2.1 lbs | 2.7 lbs | 2.7 lbs |
 | **Connectivity** | Wi-Fi 6E, 2x USB-C | Wi-Fi 6E, MagSafe, 2x TB4 | Wi-Fi 7, MagSafe, 2x TB4 |
