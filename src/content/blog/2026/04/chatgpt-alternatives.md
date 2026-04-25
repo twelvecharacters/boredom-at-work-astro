@@ -14,7 +14,7 @@ faq:
   - question: "Is there a ChatGPT alternative without sign-up?"
     answer: "Microsoft Copilot (copilot.microsoft.com) and Perplexity AI (perplexity.ai) both work without creating an account, though you'll get more features if you sign in."
   - question: "Which ChatGPT alternative is best for coding?"
-    answer: "Claude is excellent for coding with clear explanations. GitHub Copilot is purpose-built for code in your IDE. For free options, Google Gemini handles coding tasks well."
+    answer: "Claude is excellent for coding with clear explanations. GitHub Copilot is purpose-built for code in your IDE. Google's new Antigravity workspace pushes further with full agentic coding. For free options, Google Gemini handles coding tasks well."
   - question: "What's the best ChatGPT alternative for privacy?"
     answer: "Claude offers better privacy defaults than ChatGPT. For maximum privacy, local AI models like Ollama run entirely on your computer with no data leaving your device."
   - question: "Are ChatGPT alternatives as good as ChatGPT?"
@@ -388,3 +388,4 @@ Try a few. Most have free tiers. You might find something that fits your workflo
 - [Microsoft Copilot Review](/microsoft-copilot-review/)
 - [ChatGPT Mastery Guide](/chatgpt-guide/)
 - [AI Tools Guide](/ai-tools-guide/)
+- [VS Code vs Antigravity](/vs-code-vs-antigravity/)

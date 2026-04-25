@@ -210,4 +210,4 @@ For a deeper walkthrough of getting your first printer running and calibrated, t
 
 ## Final Thought
 
-The real value of a 3D printer is not in what it can make — it is in the problems it can solve. Every item on this list exists because someone looked at a specific annoyance in their daily life and decided to fix it with a $0.50 piece of plastic. Once you start thinking that way, you will never run out of things to print.
+The real value of a 3D printer is not in what it can make — it is in the problems it can solve. Every item on this list exists because someone looked at a specific annoyance in their daily life and decided to fix it with a $0.50 piece of plastic. Once you start thinking that way, you will never run out of things to print — like a [3D-printed coffee station for your desk](/3d-printing-for-coffee-nerds/), where every accessory is custom-fit to your specific gear.

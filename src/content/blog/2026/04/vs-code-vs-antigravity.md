@@ -1,6 +1,6 @@
 ---
 title: "VS Code vs. Antigravity: The Battle for the Agentic Workspace in 2026"
-description: "We deep-dive into the 2026 coding landscape. Is Microsoft's legacy editor enough to compete with Google Deepmind's purpose-built agentic AI? We compare performance, security, and the new 'vibe coding' workflow."
+description: "VS Code vs Google's Antigravity in 2026: which agentic workspace wins? We compare performance, security, and the new 'vibe coding' workflow."
 publishDate: 2026-04-19
 author: "bored chap"
 image: "./vs-code-vs-antigravity.png"
