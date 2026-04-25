@@ -82,18 +82,28 @@ The Neo features two USB-C ports (Thunderbolt 4) on the left side and a 3.5mm ja
 
 For a $599 machine, this is expected. However, in an era where everything is wireless—from our mice to our 3D printer file transfers—I rarely found myself wishing for more ports. If you’re a photographer who needs to dump 100GB of RAW files daily, this isn't your machine. But if your life lives in the cloud and on GitHub, you won't care.
 
-## 6. Neo vs. Air vs. Pro: Where does it fit?
+## 6. The 2026 Buying Guide: Neo vs. M5 Air vs. Refurbished M4
 
-| Feature | MacBook Neo | MacBook Air (M3) | MacBook Pro (M4) |
+If you're in the market for a portable Mac right now, the choice is more complex than it was two years ago. Apple's lineup is no longer a straight line of "Good, Better, Best." It's now about identifying your specific workflow bottleneck.
+
+| Feature | MacBook Neo | Refurbished MacBook Air (M4) | MacBook Air (M5) |
 | :--- | :--- | :--- | :--- |
-| **Price** | $599 | $999 | $1,599 |
-| **Chip** | A18 Pro | M3 | M4 Pro |
-| **Display** | 13" Liquid Retina | 13.6" Liquid Retina | 14.2" Liquid XDR |
-| **RAM** | 8GB (Fixed) | 8GB - 24GB | 16GB - 128GB |
-| **Weight** | 2.1 lbs | 2.7 lbs | 3.5 lbs |
-| **Battery** | 16+ Hours | 15 Hours | 12 Hours |
+| **Price** | $599 | ~$799 - $849 | $1,099 |
+| **Chip** | A18 Pro | M4 | M5 (10-core) |
+| **Unified Memory** | 8GB (Fixed) | 8GB or 16GB | 16GB (Start) |
+| **Storage** | 256GB | 256GB or 512GB | 512GB (Start) |
+| **Weight** | 2.1 lbs | 2.7 lbs | 2.7 lbs |
+| **Connectivity** | Wi-Fi 6E, 2x USB-C | Wi-Fi 6E, MagSafe, 2x TB4 | Wi-Fi 7, MagSafe, 2x TB4 |
+| **Battery Life** | 16+ Hours | 15 Hours | 18+ Hours |
 
-The Neo effectively kills the $999 MacBook Air for students and casual users. Unless you specifically need the slightly larger screen or the M-series GPU for video editing, the Neo is a better "carry everywhere" device.
+### The Value Play: MacBook Neo ($599)
+The Neo wins on absolute portability and price. It is the only modern Mac under $600. If your work is primarily in the cloud—using tools like Antigravity, Google Docs, or browser-based IDEs—the Neo is unbeatable. It is also the most "fun" device, with its Blush and Indigo colorways.
+
+### The Balanced Choice: Refurbished MacBook Air M4 (~$849)
+A refurbished M4 Air is the "Goldilocks" option for 2026. You get the M-series GPU which handles video editing and local LLMs significantly better than the A18 Pro. Plus, you get MagSafe charging, freeing up both Thunderbolt ports for peripherals. It's the best choice for someone who needs a "real" laptop but can't justify the $1k+ price tag of the latest model.
+
+### The Power User: MacBook Air M5 ($1,099)
+With the M5 Air, Apple finally doubled the starting RAM to 16GB and storage to 512GB. This is a massive leap forward. If you are a developer running multiple Docker containers locally or a creator working with 8K video, the M5 is the only choice here. The addition of Wi-Fi 7 also makes it a much more future-proof investment for the next five years of connectivity standards.
 
 ## 7. The Software: macOS Tahoe
 
