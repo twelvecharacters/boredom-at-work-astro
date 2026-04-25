@@ -129,5 +129,4 @@ Now, if you’ll excuse me, I have some "productive procrastination" to get back
 - [10 Practical Desk Upgrades You Can 3D Print](/10-practical-desk-upgrades-3d-print/)
 - [How to Use AI at Work Safely: A Practical 2026 Guide](/how-to-use-ai-at-work-safely/)
 - [Best USB-C Docking Stations for your New Mac](/best-usb-c-docking-stations/)
-- [Why the A18 Pro is the Future of Mobile Computing](/a18-pro-deep-dive/)
 
