@@ -1,7 +1,7 @@
 ---
 title: "Beyond the To-Do List: Why Your Best Productivity Hack is a Fantasy Novel"
 description: "Is your reading list making you more productive or just stressed? Why a mix of non-fiction and epic fantasy is the secret sauce for the modern professional."
-publishDate: 2026-04-26
+publishDate: 2026-04-30
 author: "bored chap"
 image: "./books-for-productivity.png"
 imageAlt: "A stack of high-quality hardcover books on a minimalist wooden desk, one book is open showing a fantasy map, a warm cup of coffee nearby."
