@@ -1,6 +1,6 @@
 ---
 title: "Beyond the AMS: Mastering Bambu Studio's New Optical Filament Mixing"
-description: "The dream of full-color 3D printing just got a lot closer. We dive deep into Bambu Studio 2.5.3's new experimental 'Mixed Filament' feature, explaining the optical layer alternation technology and how to use it on the H2C and X2D."
+description: "The dream of full-color 3D printing just got a lot closer. We dive deep into Bambu Studio 2.6.0's new experimental 'Mixed Filament' feature, explaining the optical layer alternation technology and how to use it on the H2C and X2D."
 publishDate: 2026-05-12
 author: "bored chap"
 image: "./bambu-studio-filament-mixing.png"
@@ -8,7 +8,7 @@ imageAlt: "A 3D printed object showing smooth color gradients created using Bamb
 tags: ["3D Printing", "Bambu Lab", "Bambu Studio", "Filament Mixing", "FullSpectrum", "Tutorial", "H2C", "X2D"]
 slug: "bambu-studio-filament-mixing-guide"
 draft: false
-tldr: "Bambu Studio 2.5.3 introduces an experimental 'Mixed Filament' feature that uses optical layer alternation to create the illusion of thousands of colors. While it's heavy on purge waste for single-nozzle machines, it shines on the new H2C and X2D hardware."
+tldr: "Bambu Studio 2.6.0 introduces an experimental 'Mixed Filament' feature that uses optical layer alternation to create the illusion of thousands of colors. While it's heavy on purge waste for single-nozzle machines, it shines on the new H2C and X2D hardware."
 softwareApp:
   name: "Bambu Studio"
   operatingSystem: "Windows, macOS"
@@ -18,7 +18,7 @@ howTo:
   totalTime: "PT15M"
   steps:
     - name: "Enable Experimental Features"
-      text: "Ensure you are running Bambu Studio 2.5.3 or later. In the Filament settings, click the '+' icon to add a new filament and look for the 'Mixed Filament' option."
+      text: "Ensure you are running Bambu Studio 2.6.0 or later. In the Filament settings, click the '+' icon to add a new filament and look for the 'Mixed Filament' option."
     - name: "Select Base Filaments"
       text: "Choose the physical filaments you have loaded in your AMS (e.g., Cyan, Magenta, Yellow, White). These will serve as your primary mixing palette."
     - name: "Define Color Ratios"
@@ -36,7 +36,7 @@ faq:
 
 For years, the "holy grail" of consumer 3D printing has been true, full-color reproduction. We’ve had the Bambu Lab AMS (Automatic Material System) for a while now, which gave us the ability to switch between four, eight, or even sixteen different spools. But even with sixteen spools, we were still limited to the colors we physically owned. If you wanted a specific shade of "Sunset Orange" but only had "Fire Engine Red" and "Sunflower Yellow," you were out of luck.
 
-That changed with the release of **Bambu Studio 2.5.3**. 
+That changed with the release of **Bambu Studio 2.6.0**. 
 
 By introducing the experimental **Mixed Filament** feature, Bambu Lab has effectively shifted the paradigm from "color swapping" to "color mixing." It’s not a hardware upgrade—it’s a software revolution that leverages the precision of modern motion systems to trick the human eye. 
 
@@ -108,7 +108,7 @@ If you’re serious about using the mixing feature for anything other than small
 
 One of the most overlooked aspects of optical mixing is the material itself. Not all PLA is created equal when it comes to light transmission. If you use a highly opaque filament (like most "Matte" PLAs), the colors won't blend; they will simply cover each other up, resulting in a muddy, stratified look.
 
-Bambu Lab anticipated this with the release of the **Transmission Calibration Tool** included in the utility menu of Bambu Studio 2.5.3.
+Bambu Lab anticipated this with the release of the **Transmission Calibration Tool** included in the utility menu of Bambu Studio 2.6.0
 
 This tool allows you to measure the specific "Translucency Factor" (TF) of any filament. You print a small "stepped" wedge, measure the light transmission with a simple sensor (or even your phone's camera in a pinch), and input the values into the slicer. Once calibrated, the slicer knows exactly how much light passes through at a given thickness. This allows it to adjust the layer ratios with extreme precision. For example, if you're mixing a translucent Cyan and an opaque White, the slicer knows that it needs exactly two layers of Cyan to override one layer of White.
 
@@ -132,7 +132,7 @@ I spent an afternoon testing a "Banana for Scale" print using just CMYW. On a st
 
 ## 7. Optimal Settings and Pro Tips
 
-After spending three weeks with the beta builds of 2.5.3, here are my recommendations for getting the most out of the mixing feature:
+After spending three weeks with the beta builds of 2.6.0, here are my recommendations for getting the most out of the mixing feature:
 
 1. **Focus on Vertical Walls**: The optical blending works best on surfaces that are vertical or near-vertical. On flat top surfaces, the slicer has to use a different "dithering" pattern that can look a bit more "grainy."
 2. **Layer Height Sweet Spot**: For a standard 0.4mm nozzle, the official recommendation is a **0.12mm base layer height** combined with a **0.2mm mixed layer height**. This provides the best balance between color accuracy and print stability.
@@ -150,7 +150,7 @@ What we are seeing is the birth of "Post-Processing in the Slicer." By moving aw
 
 We are already seeing community members using this feature to create functional gradients—parts that transition from rigid to flexible by mixing PLA-like materials with stiffer variants (though adhesion is still an experimental hurdle). We are seeing labels that are part of the object’s "DNA" rather than just a layer on top.
 
-The **Bambu Studio 2.5.3 Mixing Feature** isn't perfect. It's slow on old hardware, it's experimental, and it requires a bit of a "color science" degree to master. But it is a glimpse into a future where the color of your filament spool matters less than the logic in your slicer.
+The **Bambu Studio 2.6.0 Mixing Feature** isn't perfect. It's slow on old hardware, it's experimental, and it requires a bit of a "color science" degree to master. But it is a glimpse into a future where the color of your filament spool matters less than the logic in your slicer.
 
 And for those of us who live for "productive procrastination," spending a weekend fine-tuning the perfect shade of "Midnight Teal" is exactly the kind of rabbit hole we love to fall down.
 
