@@ -53,8 +53,18 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
   day: 'numeric'
 });
 
-// Find matching banner based on tags
-const activeBanner = BANNERS.filter(b => b.active).find(b => tags.includes(b.tag));
+// Find matching banner based on tags and date availability
+const now = new Date();
+const activeBanner = BANNERS.filter(b => b.active).find(b => {
+  const matchesTag = tags.includes(b.tag);
+  if (!matchesTag) return false;
+  
+  // If timeframe is specified, check it
+  if (b.startDate && new Date(b.startDate) > now) return false;
+  if (b.endDate && new Date(b.endDate) < now) return false;
+  
+  return true;
+});
 ---
 
 <BaseLayout

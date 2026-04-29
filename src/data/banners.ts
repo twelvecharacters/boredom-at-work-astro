@@ -4,6 +4,8 @@ export interface BannerConfig {
   linkUrl: string;
   altText: string;
   active: boolean;
+  startDate?: string;
+  endDate?: string;
 }
 
 export const BANNERS: BannerConfig[] = [
@@ -13,6 +15,8 @@ export const BANNERS: BannerConfig[] = [
     linkUrl: "https://www.justway.com",
     altText: "CNC Machining Prototype | 3D Printing Service | Custom Parts & Rapid Prototyping - Justway.com",
     active: true,
+    startDate: "2026-05-01",
+    endDate: "2026-08-31",
   },
   // Add other banners here for different categories/tags
   /*
