@@ -1,0 +1,32 @@
+---
+interface Props {
+  imageUrl?: string;
+  linkUrl?: string;
+  altText?: string;
+}
+
+const {
+  imageUrl,
+  linkUrl,
+  altText,
+} = Astro.props;
+---
+
+<div class="mobile-banner xl:hidden w-full my-8">
+  <div class="bg-white rounded-xl border border-primary/10 overflow-hidden group relative shadow-sm">
+    <a href={linkUrl} target="_blank" rel="sponsored noopener" aria-label={altText} class="block w-full">
+      <img
+        src={imageUrl}
+        alt={altText}
+        width="600"
+        height="150"
+        loading="lazy"
+        class="w-full h-auto object-cover max-h-[150px] transition-transform duration-500 group-active:scale-[0.98]"
+      />
+      <div class="absolute inset-0 bg-black/0 group-active:bg-black/5 transition-colors duration-300"></div>
+    </a>
+    <div class="absolute top-0 right-0 bg-white/90 backdrop-blur-sm px-2 py-0.5 rounded-bl-lg border-l border-b border-primary/10">
+      <p class="text-[8px] font-bold uppercase tracking-widest text-text-light/50">Sponsored</p>
+    </div>
+  </div>
+</div>

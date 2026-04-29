@@ -21,6 +21,7 @@ import { SITE } from '../config';
 import { getPostSlug } from '../utils/blog';
 import type { CollectionEntry } from 'astro:content';
 import SideBanner from '../components/SideBanner.astro';
+import MobileBanner from '../components/MobileBanner.astro';
 import { BANNERS } from '../data/banners';
 
 interface Props {
@@ -230,6 +231,14 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
             />
           )}
         </header>
+
+        {activeBanner && (
+          <MobileBanner
+            imageUrl={activeBanner.mobileImageUrl || activeBanner.imageUrl}
+            linkUrl={activeBanner.linkUrl}
+            altText={activeBanner.altText}
+          />
+        )}
 
         <!-- TL;DR Box -->
         <TldrBox tldr={tldr} description={description} />

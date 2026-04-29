@@ -6,12 +6,14 @@ export interface BannerConfig {
   active: boolean;
   startDate?: string;
   endDate?: string;
+  mobileImageUrl?: string;
 }
 
 export const BANNERS: BannerConfig[] = [
   {
     tag: "3D Printing",
     imageUrl: "/images/banners/justway-banner-W300H600.jpg",
+    mobileImageUrl: "/images/banners/justway-banner-mobile.jpg",
     linkUrl: "https://www.justway.com",
     altText: "CNC Machining Prototype | 3D Printing Service | Custom Parts & Rapid Prototyping - Justway.com",
     active: true,
