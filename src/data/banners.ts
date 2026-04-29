@@ -9,10 +9,10 @@ export interface BannerConfig {
 export const BANNERS: BannerConfig[] = [
   {
     tag: "3D Printing",
-    imageUrl: "https://placehold.co/300x600/11153b/white?text=JUSTWAY+3D+Printing",
+    imageUrl: "/images/banners/justway-banner-W300H600.jpg",
     linkUrl: "https://www.justway.com",
-    altText: "JUSTWAY 3D Printers",
-    active: false,
+    altText: "CNC Machining Prototype | 3D Printing Service | Custom Parts & Rapid Prototyping - Justway.com",
+    active: true,
   },
   // Add other banners here for different categories/tags
   /*
