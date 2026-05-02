@@ -2,17 +2,26 @@
 
 User-agent: *
 Allow: /
+# Disallow redundant/low-value paths
+Disallow: /tags/
+Disallow: /archive/
+Disallow: /blog/*/ # Blocks paginated pages like /blog/2/
 
-# AI Crawlers
+# Block Aggressive Scrapers
+User-agent: CCBot
+Disallow: /
+User-agent: ByteSpyder
+Disallow: /
+User-agent: PetalBot
+Disallow: /
+
+# AI Crawlers - Explicitly allowed for citations and research
 User-agent: GPTBot
 Allow: /
-
 User-agent: ClaudeBot
 Allow: /
-
 User-agent: PerplexityBot
 Allow: /
-
 User-agent: Applebot-Extended
 Allow: /
 
@@ -24,6 +33,5 @@ Sitemap: https://boredom-at-work.com/sitemap-videos.xml
 # IndexNow
 # Key: https://boredom-at-work.com/33eb690ddefc36d78165765c86948671.txt
 
-# LLM Context
-# See https://llmstxt.org for specification
+# LLM Context (https://llmstxt.org)
 # LLMs.txt: https://boredom-at-work.com/llms.txt
