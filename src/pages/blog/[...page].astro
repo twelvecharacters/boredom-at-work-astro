@@ -7,9 +7,16 @@ import BlogArchive from '../../components/BlogArchive.astro';
 import Pagination from '../../components/Pagination.astro';
 import { getPublishedPosts, slugifyTag, getPostSlug } from '../../utils/blog';
 
-export async function getStaticPaths({ paginate }: any) {
+import type { GetStaticPathsOptions, Page } from 'astro';
+import type { CollectionEntry } from 'astro:content';
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const posts = await getPublishedPosts();
   return paginate(posts, { pageSize: 12 });
+}
+
+interface Props {
+  page: Page<CollectionEntry<'blog'>>;
 }
 
 const { page } = Astro.props;

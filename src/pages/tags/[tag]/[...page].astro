@@ -7,7 +7,10 @@ import BlogArchive from '../../../components/BlogArchive.astro';
 import Pagination from '../../../components/Pagination.astro';
 import { getPublishedPosts, slugifyTag, getPostSlug } from '../../../utils/blog';
 
-export async function getStaticPaths({ paginate }: any) {
+import type { GetStaticPathsOptions, Page } from 'astro';
+import type { CollectionEntry } from 'astro:content';
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const posts = await getPublishedPosts();
   const uniqueTags = [...new Set(posts.flatMap(post => post.data.tags))];
 
@@ -21,6 +24,11 @@ export async function getStaticPaths({ paginate }: any) {
       pageSize: 12,
     });
   });
+}
+
+interface Props {
+  page: Page<CollectionEntry<'blog'>>;
+  tagName: string;
 }
 
 const { page, tagName } = Astro.props;
@@ -47,7 +55,7 @@ const breadcrumbItems = [
 
           {posts.length > 0 ? (
             <div class="space-y-8">
-              {posts.map((post: any) => (
+              {posts.map((post) => (
                 <article class="bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
                   <div class="md:flex">
                     {post.data.image && (

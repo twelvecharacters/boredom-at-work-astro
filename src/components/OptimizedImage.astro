@@ -1,8 +1,10 @@
 ---
 import { Image } from 'astro:assets';
 
+import type { ImageMetadata } from 'astro';
+
 interface Props {
-  src: any; // Astro's image object or a string path
+  src: ImageMetadata | string | Promise<{ default: ImageMetadata }>;
   alt: string;
   class?: string;
   loading?: 'lazy' | 'eager';

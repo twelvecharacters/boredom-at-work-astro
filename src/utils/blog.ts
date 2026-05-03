@@ -1,10 +1,10 @@
-import { getCollection } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 
 /**
  * Fetches all blog posts that are not drafts and have a publishDate in the past or present.
  * Posts are sorted by publishDate descending (newest first) by default.
  */
-export async function getPublishedPosts() {
+export async function getPublishedPosts(): Promise<CollectionEntry<'blog'>[]> {
   const isDev = import.meta.env.DEV;
   // Get today's date at midnight UTC for consistent comparison
   const today = new Date();
@@ -23,7 +23,7 @@ export async function getPublishedPosts() {
  * Gets the URL slug for a post.
  * Uses the custom slug field if available, otherwise extracts filename from post.id
  */
-export function getPostSlug(post: any): string {
+export function getPostSlug(post: CollectionEntry<'blog'>): string {
   if (post.data.slug) {
     return post.data.slug;
   }

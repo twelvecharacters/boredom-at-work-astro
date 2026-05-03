@@ -7,7 +7,10 @@ import BlogArchive from '../../../../../components/BlogArchive.astro';
 import Pagination from '../../../../../components/Pagination.astro';
 import { getPublishedPosts, slugifyTag, getPostSlug } from '../../../../../utils/blog';
 
-export async function getStaticPaths({ paginate }: any) {
+import type { GetStaticPathsOptions, Page } from 'astro';
+import type { CollectionEntry } from 'astro:content';
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const posts = await getPublishedPosts();
   
   // Group posts by Year and Month to create paths
@@ -20,7 +23,7 @@ export async function getStaticPaths({ paginate }: any) {
     if (!acc[key]) acc[key] = [];
     acc[key].push(post);
     return acc;
-  }, {} as Record<string, any[]>);
+  }, {} as Record<string, CollectionEntry<'blog'>[]>);
 
   return Object.entries(archiveMap).flatMap(([key, monthPosts]) => {
     const [year, month] = key.split('/');
@@ -29,6 +32,10 @@ export async function getStaticPaths({ paginate }: any) {
       pageSize: 12,
     });
   });
+}
+
+interface Props {
+  page: Page<CollectionEntry<'blog'>>;
 }
 
 const { page } = Astro.props;
@@ -66,7 +73,7 @@ const breadcrumbItems = [
 
           {posts.length > 0 ? (
             <div class="space-y-8">
-              {posts.map((post: any) => (
+              {posts.map((post) => (
                 <article class="bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
                   <div class="md:flex">
                     {post.data.image && (
