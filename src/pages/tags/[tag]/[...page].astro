@@ -39,6 +39,16 @@ const posts = page.data;
 const hub = HUBS[tagName];
 const isFirstPage = page.url.current === page.url.first || !page.url.prev;
 
+// Fetch ALL published posts to verify slugs in Hub categories
+const allPublishedPosts = await getPublishedPosts();
+const publishedSlugs = new Set(allPublishedPosts.map(post => getPostSlug(post)));
+
+// Filter hub categories to only include published articles
+const filteredHubCategories = hub?.categories?.map(cat => ({
+  ...cat,
+  slugs: cat.slugs.filter(slug => publishedSlugs.has(slug))
+})).filter(cat => cat.slugs.length > 0);
+
 const breadcrumbItems = [
   { name: 'Blog', url: '/blog/' },
   { name: tagName, url: `/tags/${slugifyTag(tagName)}/` }
@@ -88,21 +98,23 @@ const shouldIndex = !!hub || (page.total > 5 && isFirstPage);
             </h1>
           )}
 
-          {hub && hub.categories && isFirstPage && (
+          {filteredHubCategories && isFirstPage && (
             <div class="grid md:grid-cols-2 gap-6 mb-16">
-              {hub.categories.map(cat => (
+              {filteredHubCategories.map(cat => (
                 <div class="bg-white p-8 rounded-2xl border border-primary/5 shadow-sm hover:shadow-md transition-all group">
                   <h3 class="text-xl font-bold mb-3 group-hover:text-accent transition-colors">{cat.title}</h3>
                   <p class="text-text-light text-sm mb-6">{cat.description}</p>
                   <ul class="space-y-3">
                     {cat.slugs.map(slug => {
-                      // Attempt to find the post for this slug
-                      // This is a bit expensive in a map, but small for a hub
+                      // Attempt to find the post for this slug to get its proper title
+                      const post = allPublishedPosts.find(p => getPostSlug(p) === slug);
+                      const title = post?.data.title || slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+                      
                       return (
                         <li>
                           <a href={`/${slug}/`} class="text-sm font-medium hover:text-accent flex items-center gap-2">
                             <span class="w-1.5 h-1.5 bg-accent rounded-full"></span>
-                            {slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')}
+                            {title}
                           </a>
                         </li>
                       );
