@@ -61,6 +61,8 @@ const socialImageURL = new URL(socialImagePath, Astro.site);
     <!-- Preload critical assets -->
     <link rel="preload" href={logo.src} as="image" type="image/webp" />
 
+    <link rel="alternate" type="application/rss+xml" title={SITE.title} href={new URL("rss.xml", Astro.site)} />
+
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <meta name="theme-color" content="#11153b" />
