@@ -30,7 +30,7 @@ export const NAV_ITEMS = [
 export const CATEGORIES = [
   {
     title: 'Acquire AI Superpowers',
-    id: 'free-courses',
+    id: 'ai-mastery',
     icon: '⚡',
     description: "The best free courses to help you stop worrying about AI replacing you and start using it to do your job in half the time.",
     links: [
@@ -39,7 +39,7 @@ export const CATEGORIES = [
       { text: 'Best AI Courses on Coursera', href: '/best-ai-courses-coursera/' },
       { text: 'Free vs Paid AI Courses', href: '/free-vs-paid-ai-courses/' },
     ],
-    viewAllHref: '/tags/ai-courses/',
+    viewAllHref: '/tags/ai/',
   },
   {
     title: 'The 3D Printing Lab',

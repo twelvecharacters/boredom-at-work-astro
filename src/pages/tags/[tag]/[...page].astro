@@ -6,6 +6,7 @@ import TagCloud from '../../../components/TagCloud.astro';
 import BlogArchive from '../../../components/BlogArchive.astro';
 import Pagination from '../../../components/Pagination.astro';
 import { getPublishedPosts, slugifyTag, getPostSlug } from '../../../utils/blog';
+import { HUBS } from '../../../data/hubs';
 
 import type { GetStaticPathsOptions, Page } from 'astro';
 import type { CollectionEntry } from 'astro:content';
@@ -34,70 +35,146 @@ interface Props {
 const { page, tagName } = Astro.props;
 const posts = page.data;
 
+// Detect if this tag has a Hub configuration
+const hub = HUBS[tagName];
+const isFirstPage = page.url.current === page.url.first || !page.url.prev;
+
 const breadcrumbItems = [
   { name: 'Blog', url: '/blog/' },
   { name: tagName, url: `/tags/${slugifyTag(tagName)}/` }
 ];
+
+// Determine if we should index this page (Hubs should be indexed, generic tags only if they have many posts)
+const shouldIndex = !!hub || (page.total > 5 && isFirstPage);
 ---
 
-<BaseLayout title={`Articles tagged with "${tagName}"`} description={`Guides and tutorials about ${tagName}.`} noindex={true}>
-  <section class="py-12">
+<BaseLayout 
+  title={hub?.seoTitle || `Expert Guide to ${tagName} | Boredom at Work`} 
+  description={hub?.seoDescription || hub?.description || `Everything you need to know about ${tagName}. Discover guides, tools, and tutorials to master this topic during your downtime.`} 
+  noindex={!shouldIndex}
+>
+  {hub && isFirstPage && (
+    <section class="relative py-20 overflow-hidden bg-primary text-white">
+      <div class="absolute inset-0 bg-gradient-to-br from-primary via-primary/90 to-accent/20"></div>
+      <div class="max-w-6xl mx-auto px-4 relative z-10">
+        <Breadcrumbs items={breadcrumbItems} class="text-white/60 mb-6" />
+        <div class="max-w-3xl">
+          <span class="inline-block px-3 py-1 bg-accent/30 backdrop-blur-sm border border-accent/50 rounded-full text-xs font-bold uppercase tracking-widest text-accent-light mb-4">
+            Mastery Hub
+          </span>
+          <h1 class="text-4xl md:text-6xl font-black mb-6 leading-tight">
+            {hub.title}
+          </h1>
+          <p class="text-xl md:text-2xl text-white/80 font-medium mb-8">
+            {hub.subtitle}
+          </p>
+          <div class="prose prose-invert max-w-none text-white/70 leading-relaxed mb-10">
+            <p>{hub.description}</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="py-12 bg-background">
     <div class="max-w-6xl mx-auto px-4">
+      {!hub && <Breadcrumbs items={breadcrumbItems} />}
+      
       <div class="grid lg:grid-cols-4 gap-12">
         <div class="lg:col-span-3">
-          <Breadcrumbs items={breadcrumbItems} />
-          <h1 class="text-3xl md:text-4xl font-bold mb-4">
-            Topic: <span class="text-accent">{tagName}</span>
-          </h1>
-          <p class="text-text-light mb-8">
-            Searching for articles about {tagName}... Found {page.total} results.
-          </p>
+          {!hub && (
+            <h1 class="text-3xl md:text-4xl font-bold mb-4">
+              Topic: <span class="text-accent">{tagName}</span>
+            </h1>
+          )}
+
+          {hub && hub.categories && isFirstPage && (
+            <div class="grid md:grid-cols-2 gap-6 mb-16">
+              {hub.categories.map(cat => (
+                <div class="bg-white p-8 rounded-2xl border border-primary/5 shadow-sm hover:shadow-md transition-all group">
+                  <h3 class="text-xl font-bold mb-3 group-hover:text-accent transition-colors">{cat.title}</h3>
+                  <p class="text-text-light text-sm mb-6">{cat.description}</p>
+                  <ul class="space-y-3">
+                    {cat.slugs.map(slug => {
+                      // Attempt to find the post for this slug
+                      // This is a bit expensive in a map, but small for a hub
+                      return (
+                        <li>
+                          <a href={`/${slug}/`} class="text-sm font-medium hover:text-accent flex items-center gap-2">
+                            <span class="w-1.5 h-1.5 bg-accent rounded-full"></span>
+                            {slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')}
+                          </a>
+                        </li>
+                      );
+                    })}
+                  </ul>
+                </div>
+              ))}
+            </div>
+          )}
+
+          <div class="flex items-center justify-between mb-8 border-b border-primary/10 pb-4">
+            <h2 class="text-2xl font-bold">
+              {hub ? 'Comprehensive Library' : 'Recent Articles'}
+            </h2>
+            <span class="text-sm font-medium text-text-light">
+              {page.total} Articles Found
+            </span>
+          </div>
 
           {posts.length > 0 ? (
             <div class="space-y-8">
               {posts.map((post) => (
-                <article class="bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
+                <article class="bg-white rounded-2xl overflow-hidden shadow-sm border border-primary/5 hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
                   <div class="md:flex">
                     {post.data.image && (
-                      <div class="md:w-1/3 overflow-hidden">
+                      <div class="md:w-1/3 overflow-hidden aspect-video md:aspect-auto">
                         <OptimizedImage
                           src={post.data.image}
                           alt={post.data.title}
-                          class="w-full h-48 md:h-full object-cover"
+                          class="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
                           width={400}
                           height={225}
                         />
                       </div>
                     )}
-                    <div class="p-6 md:flex-1">
-                      <div class="flex flex-wrap gap-2 mb-3">
-                        {post.data.tags.map((tag: string) => (
+                    <div class="p-8 md:flex-1">
+                      <div class="flex flex-wrap gap-2 mb-4">
+                        {post.data.tags.slice(0, 3).map((tag: string) => (
                           <a
                             href={`/tags/${slugifyTag(tag)}/`}
-                            class={`px-2 py-0.5 rounded text-xs transition-colors ${tag === tagName ? 'bg-accent text-white' : 'bg-background-alt text-text-light hover:bg-accent hover:text-white'}`}
+                            class={`px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider transition-all ${tag === tagName ? 'bg-accent text-white shadow-sm shadow-accent/30' : 'bg-background-alt text-text-light hover:bg-accent hover:text-white'}`}
                           >
                             {tag}
                           </a>
                         ))}
                       </div>
-                      <h2 class="text-xl font-bold mb-2">
+                      <h3 class="text-2xl font-bold mb-3 leading-tight">
                         <a href={`/${getPostSlug(post)}/`} class="hover:text-accent transition-colors">
                           {post.data.title}
                         </a>
-                      </h2>
-                      <p class="text-text-light text-sm mb-4 line-clamp-2">
+                      </h3>
+                      <p class="text-text-light text-sm mb-6 line-clamp-2 leading-relaxed">
                         {post.data.description}
                       </p>
-                      <div class="flex items-center justify-between">
-                        <span class="text-text-light text-sm">
-                          {post.data.publishDate.toLocaleDateString('en-US', {
-                            year: 'numeric',
-                            month: 'short',
-                            day: 'numeric'
-                          })}
-                        </span>
-                        <a href={`/${getPostSlug(post)}/`} class="text-accent font-medium text-sm hover:underline">
-                          Read more →
+                      <div class="flex items-center justify-between pt-4 border-t border-primary/5">
+                        <div class="flex items-center gap-3">
+                          <div class="w-8 h-8 rounded-full bg-background-alt flex items-center justify-center text-xs font-bold text-primary">
+                            {post.data.author.charAt(0)}
+                          </div>
+                          <span class="text-text-light text-xs font-medium">
+                            {post.data.publishDate.toLocaleDateString('en-US', {
+                              month: 'short',
+                              day: 'numeric',
+                              year: 'numeric'
+                            })}
+                          </span>
+                        </div>
+                        <a href={`/${getPostSlug(post)}/`} class="group flex items-center gap-2 text-accent font-bold text-sm">
+                          Read Full Guide
+                          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                          </svg>
                         </a>
                       </div>
                     </div>
@@ -108,26 +185,41 @@ const breadcrumbItems = [
               <Pagination page={page} />
             </div>
           ) : (
-            <div class="text-center py-12 bg-background-alt rounded-xl">
-              <p class="text-text-light">No posts found with this tag.</p>
+            <div class="text-center py-20 bg-white rounded-3xl border border-dashed border-primary/20">
+              <div class="w-20 h-20 bg-background-alt rounded-full flex items-center justify-center mx-auto mb-6">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10 text-text-light/50" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.172 9.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+              </div>
+              <p class="text-text-light font-medium">No guides found for this topic yet.</p>
+              <a href="/blog/" class="mt-4 inline-block text-accent font-bold hover:underline">Back to all articles</a>
             </div>
           )}
         </div>
         
         <aside class="lg:col-span-1">
-          <div class="sticky top-24">
+          <div class="sticky top-24 space-y-8">
             <TagCloud />
-            <BlogArchive />
+
+            <div class="bg-white p-6 rounded-2xl border border-primary/5 shadow-sm">
+              <h3 class="font-bold mb-4 flex items-center gap-2">
+                <span class="w-1.5 h-6 bg-accent rounded-full"></span>
+                History
+              </h3>
+              <BlogArchive />
+            </div>
             
-            <div class="mt-8 bg-primary rounded-2xl p-6 text-white overflow-hidden relative">
-              <div class="absolute top-0 right-0 w-24 h-24 bg-accent/20 rounded-full -mr-12 -mt-12"></div>
-              <h3 class="font-bold mb-2 relative z-10">Bored at Work?</h3>
-              <p class="text-white/80 text-sm mb-4 relative z-10">
-                Turn your downtime into career growth with our curated guides.
-              </p>
-              <a href="/productive-things-bored-at-work/" class="inline-block bg-white text-primary px-4 py-2 rounded-lg text-xs font-bold hover:bg-gray-100 transition-colors relative z-10">
-                Get Started →
-              </a>
+            <div class="bg-primary rounded-3xl p-8 text-white overflow-hidden relative shadow-xl shadow-primary/20 group">
+              <div class="absolute top-0 right-0 w-32 h-32 bg-accent/20 rounded-full -mr-16 -mt-16 transition-transform group-hover:scale-110"></div>
+              <div class="relative z-10">
+                <h3 class="text-2xl font-black mb-4">Turn Boredom into Growth.</h3>
+                <p class="text-white/70 text-sm mb-6 leading-relaxed">
+                  Join 2,000+ professionals mastering AI and hobbies during their 9-to-5 downtime.
+                </p>
+                <a href="/productive-things-bored-at-work/" class="flex items-center justify-center w-full bg-accent hover:bg-accent-light text-white px-6 py-3 rounded-xl font-bold transition-all hover:shadow-lg hover:shadow-accent/40 active:scale-95">
+                  Start Learning →
+                </a>
+              </div>
             </div>
           </div>
         </aside>
