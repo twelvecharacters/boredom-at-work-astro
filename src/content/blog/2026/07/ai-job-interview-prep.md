@@ -6,7 +6,7 @@ publishDate: 2026-07-07
 author: "bored chap"
 image: "./ai-job-interview-prep.webp"
 imageAlt: "Illustration showing AI-powered job interview preparation workflow"
-tags: ["AI Tools", "Productivity", "ChatGPT", "Career"]
+tags: ["AI Tools", "Productivity", "ChatGPT", "Career", "Career Development"]
 draft: false
 faq:
   - question: "Is it cheating to use AI for interview prep?"

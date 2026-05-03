@@ -6,7 +6,7 @@ publishDate: 2026-07-24
 author: "bored chap"
 image: "./ai-office-automation-tasks.webp"
 imageAlt: "Illustration showing repetitive office tasks being automated with AI"
-tags: ["AI Tools", "Productivity", "Office Automation", "ChatGPT", "Work Smarter"]
+tags: ["AI Tools", "Productivity", "Office Automation", "ChatGPT", "Work Smarter", "Career Development"]
 draft: false
 isListicle: true
 faq:

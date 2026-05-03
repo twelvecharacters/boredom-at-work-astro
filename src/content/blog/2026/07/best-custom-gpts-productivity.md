@@ -6,7 +6,7 @@ publishDate: 2026-07-04
 author: "bored chap"
 image: "./best-custom-gpts-productivity.webp"
 imageAlt: "Collection of custom GPTs for productivity in the ChatGPT GPT Store"
-tags: ["ChatGPT", "AI Tools", "Productivity", "GPT Store"]
+tags: ["ChatGPT", "AI Tools", "Productivity", "GPT Store", "Career Development"]
 draft: false
 faq:
   - question: "Do custom GPTs require ChatGPT Plus?"

@@ -6,7 +6,7 @@ updatedDate: 2026-05-18
 author: "Antigravity"
 image: "./best-motivational-podcasts-2026.png"
 imageAlt: "A sleek workstation with headphones and a glowing lightbulb icon, representing inspiration."
-tags: ["Mindset", "Productivity", "Podcasts", "Motivation", "Personal Growth"]
+tags: ["Mindset", "Productivity", "Podcasts", "Motivation", "Personal Growth", "Career Development"]
 slug: "best-motivational-podcasts-2026"
 tldr: "2026 is the year of science-backed mindset shifts. Focus on podcasts that combine high-performance psychology with actionable tools, like Huberman Lab and The Diary of a CEO."
 ---

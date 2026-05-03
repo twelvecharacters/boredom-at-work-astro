@@ -5,7 +5,7 @@ publishDate: 2026-04-30
 author: "bored chap"
 image: "./books-for-productivity.png"
 imageAlt: "A stack of high-quality hardcover books on a minimalist wooden desk, one book is open showing a fantasy map, a warm cup of coffee nearby."
-tags: ["Productivity", "Reading", "Books", "Fantasy", "Deep Work", "Growth Mindset"]
+tags: ["Productivity", "Reading", "Books", "Fantasy", "Deep Work", "Growth Mindset", "Career Development"]
 slug: "books-for-productive-procrastination"
 draft: false
 isListicle: true
