@@ -1,19 +1,22 @@
+import banner3D from '../assets/images/banners/justway-banner-W300H600.jpg';
+import banner3DMobile from '../assets/images/banners/justway-banner-mobile.jpg';
+
 export interface BannerConfig {
   tag: string;
-  imageUrl: string;
+  imageUrl: any;
   linkUrl: string;
   altText: string;
   active: boolean;
   startDate?: string;
   endDate?: string;
-  mobileImageUrl?: string;
+  mobileImageUrl?: any;
 }
 
 export const BANNERS: BannerConfig[] = [
   {
     tag: "3D Printing",
-    imageUrl: "/images/banners/justway-banner-W300H600.jpg",
-    mobileImageUrl: "/images/banners/justway-banner-mobile.jpg",
+    imageUrl: banner3D,
+    mobileImageUrl: banner3DMobile,
     linkUrl: "https://www.justway.com",
     altText: "CNC Machining Prototype | 3D Printing Service | Custom Parts & Rapid Prototyping - Justway.com",
     active: true,

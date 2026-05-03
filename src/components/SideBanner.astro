@@ -1,9 +1,11 @@
 ---
+import OptimizedImage from './OptimizedImage.astro';
 interface Props {
-  imageUrl?: string;
+  imageUrl?: any;
   linkUrl?: string;
   altText?: string;
   class?: string;
+  mobileImageUrl?: any;
 }
 
 const {
@@ -21,11 +23,11 @@ const isSticky = !className?.includes('not-sticky');
   <div class:list={["w-[300px] pointer-events-auto", isSticky && "sticky top-28"]}>
     <div class="bg-white rounded-xl border border-primary/10 overflow-hidden group w-[300px] h-[600px] relative">
       <a href={linkUrl} target="_blank" rel="sponsored noopener" aria-label={altText} class="block h-full w-full">
-        <img
+        <OptimizedImage
           src={imageUrl}
           alt={altText}
-          width="300"
-          height="600"
+          width={300}
+          height={600}
           loading="lazy"
           class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
         />

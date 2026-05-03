@@ -1,6 +1,7 @@
 ---
+import OptimizedImage from './OptimizedImage.astro';
 interface Props {
-  imageUrl?: string;
+  imageUrl?: any;
   linkUrl?: string;
   altText?: string;
 }
@@ -15,11 +16,11 @@ const {
 <div class="mobile-banner hidden max-xl:block w-full my-8">
   <div class="bg-white rounded-xl border border-primary/10 overflow-hidden group relative shadow-sm">
     <a href={linkUrl} target="_blank" rel="sponsored noopener" aria-label={altText} class="block w-full">
-      <img
+      <OptimizedImage
         src={imageUrl}
         alt={altText}
-        width="600"
-        height="150"
+        width={600}
+        height={150}
         loading="lazy"
         class="w-full h-auto object-cover max-h-[150px] transition-transform duration-500 group-active:scale-[0.98]"
       />

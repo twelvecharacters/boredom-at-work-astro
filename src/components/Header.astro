@@ -1,6 +1,7 @@
 ---
 import OptimizedImage from './OptimizedImage.astro';
 import Search from './Search.astro';
+import logo from '../assets/images/logo.webp';
 import { NAV_ITEMS, SITE } from '../config';
 
 const navItems = NAV_ITEMS;
@@ -13,7 +14,7 @@ const currentPath = Astro.url.pathname;
       <!-- Logo -->
       <a href="/" class="flex items-center group">
         <OptimizedImage
-          src="/images/logo.webp"
+          src={logo}
           alt={SITE.title}
           class="h-12 md:h-14 w-auto transition-transform group-hover:scale-105"
           width={296}

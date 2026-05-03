@@ -23,6 +23,8 @@ import type { CollectionEntry } from 'astro:content';
 import SideBanner from '../components/SideBanner.astro';
 import MobileBanner from '../components/MobileBanner.astro';
 import { BANNERS } from '../data/banners';
+import logo from '../assets/images/logo.webp';
+import ogDefault from '../assets/images/og-default.webp';
 
 interface Props {
   post: CollectionEntry<'blog'>;
@@ -317,7 +319,7 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
     "@type": "Article",
     "headline": title,
     "description": description,
-    "image": new URL(typeof image === 'string' ? image : (image?.src || '/images/og-default.webp'), Astro.site).toString(),
+    "image": new URL(typeof image === 'string' ? image : (image?.src || ogDefault.src), Astro.site).toString(),
     "datePublished": publishDate.toISOString(),
     "dateModified": (updatedDate || publishDate).toISOString(),
     "mainEntityOfPage": {
@@ -333,7 +335,7 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
       "name": SITE.title,
       "logo": {
         "@type": "ImageObject",
-        "url": new URL('/images/logo.webp', Astro.site).toString()
+        "url": new URL(logo.src, Astro.site).toString()
       }
     },
     "inLanguage": "en-US"
