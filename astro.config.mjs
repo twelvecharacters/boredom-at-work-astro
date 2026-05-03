@@ -41,15 +41,18 @@ const blogDates = getBlogDates();
 function remarkFilterUnpublishedLinks() {
   const publishedSlugs = new Set();
   for (const url of blogDates.keys()) {
-    const slugMatch = url.match(/boredom-at-work\.com\/([^\/]+)\/?$/);
-    if (slugMatch) {
-      publishedSlugs.add(slugMatch[1]);
+    try {
+      const u = new URL(url);
+      const slug = u.pathname.replace(/^\/|\/$/g, '');
+      if (slug) publishedSlugs.add(slug);
+    } catch (e) {
+      console.warn(`[remarkFilterUnpublishedLinks] Invalid URL in blogDates: ${url}`);
     }
   }
   
-  // Specific internal pages that should always be linked
-  const internalPages = ['blog', 'tags', 'about', 'contact', 'search'];
-  internalPages.forEach(p => publishedSlugs.add(p));
+  // Specific internal pages that should always be allowed
+  const allowedPaths = ['', 'blog', 'tags', 'about', 'contact', 'search'];
+  allowedPaths.forEach(p => publishedSlugs.add(p));
 
   /** @param {any} tree */
   return (tree) => {
@@ -57,25 +60,31 @@ function remarkFilterUnpublishedLinks() {
       const n = /** @type {any} */ (node);
       const p = /** @type {any} */ (parent);
       const url = n.url;
-      // Multi-layer check for internal links
-      if (
-        (url.startsWith('/') && !url.startsWith('/images/')) || 
-        url.startsWith('https://boredom-at-work.com/')
-      ) {
-        let slug = '';
-        if (url.startsWith('/')) {
-          const match = url.match(/^\/([^\/]+)\/?$/);
-          if (match) slug = match[1];
-        } else {
-          const match = url.match(/boredom-at-work\.com\/([^\/]+)\/?$/);
-          if (match) slug = match[1];
-        }
+      
+      // Skip external links, mailto, etc.
+      if (!url || (url.startsWith('http') && !url.startsWith('https://boredom-at-work.com'))) return;
+      if (url.startsWith('mailto:') || url.startsWith('tel:') || url.startsWith('#')) return;
 
-        if (slug && !publishedSlugs.has(slug)) {
-          // Replace link node with its children in the parent's children array
-          if (p && typeof index === 'number') {
-            p.children.splice(index, 1, ...n.children);
-          }
+      // Extract potential slug
+      let slug = '';
+      try {
+        if (url.startsWith('https://boredom-at-work.com')) {
+          slug = new URL(url).pathname.replace(/^\/|\/$/g, '');
+        } else {
+          // Handle absolute (/slug) and relative (slug) paths, stripping query/fragment
+          slug = url.split('#')[0].split('?')[0].replace(/^\/|\/$/g, '');
+        }
+      } catch (e) {
+        return;
+      }
+
+      // If it's a root-level path (potential blog post) that isn't published
+      // We only filter root-level slugs because blog posts are at /[slug]
+      // Sub-paths like /tags/ai/ are allowed (checked via allowedPaths for top-level /tags)
+      if (slug && !slug.includes('/') && !publishedSlugs.has(slug)) {
+        // Strip the link: replace the link node with its children in the parent
+        if (p && typeof index === 'number') {
+          p.children.splice(index, 1, ...n.children);
         }
       }
     });
