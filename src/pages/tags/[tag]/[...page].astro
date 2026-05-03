@@ -13,15 +13,46 @@ import type { CollectionEntry } from 'astro:content';
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const posts = await getPublishedPosts();
-  const uniqueTags = [...new Set(posts.flatMap(post => post.data.tags))];
+  
+  // Group posts by slugified tag to prevent route collisions
+  const tagMap = new Map<string, { tagName: string, posts: CollectionEntry<'blog'>[] }>();
+  
+  // Pre-calculate Hub slugs to preserve preferred casing from our design system
+  const hubSlugs = new Map<string, string>();
+  Object.keys(HUBS).forEach(hubTag => {
+    hubSlugs.set(slugifyTag(hubTag), hubTag);
+  });
 
-  return uniqueTags.flatMap(tag => {
-    const filteredPosts = posts.filter(post => 
-      post.data.tags.includes(tag)
-    );
+  posts.forEach(post => {
+    post.data.tags.forEach(tag => {
+      const slug = slugifyTag(tag);
+      if (!tagMap.has(slug)) {
+        // Use Hub casing if available, otherwise default to current tag
+        const preferredTagName = hubSlugs.get(slug) || tag;
+        tagMap.set(slug, { tagName: preferredTagName, posts: [] });
+      }
+      
+      const entry = tagMap.get(slug)!;
+      
+      // If we don't have a Hub casing, prefer the one with more capitalization (Title Case)
+      if (!hubSlugs.has(slug)) {
+        const hasUpper = /[A-Z]/.test(tag);
+        const entryHasUpper = /[A-Z]/.test(entry.tagName);
+        if (hasUpper && !entryHasUpper) {
+          entry.tagName = tag;
+        }
+      }
+
+      if (!entry.posts.find(p => p.id === post.id)) {
+        entry.posts.push(post);
+      }
+    });
+  });
+
+  return Array.from(tagMap.entries()).flatMap(([slug, { tagName, posts: filteredPosts }]) => {
     return paginate(filteredPosts, {
-      params: { tag: slugifyTag(tag) },
-      props: { tagName: tag },
+      params: { tag: slug },
+      props: { tagName },
       pageSize: 12,
     });
   });
