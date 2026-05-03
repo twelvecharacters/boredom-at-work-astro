@@ -3,17 +3,22 @@ interface Props {
   imageUrl?: string;
   linkUrl?: string;
   altText?: string;
+  class?: string;
 }
 
 const {
   imageUrl,
   linkUrl,
   altText,
+  class: className,
 } = Astro.props;
+
+// Determine if we should include default sticky classes
+const isSticky = !className?.includes('not-sticky');
 ---
 
-<div class="side-banner-container hidden xl:block absolute top-0 right-0 h-full pointer-events-none z-40 py-8">
-  <div class="sticky top-28 w-[300px] pointer-events-auto">
+<div class:list={["side-banner-container pointer-events-none z-40", className]}>
+  <div class:list={["w-[300px] pointer-events-auto", isSticky && "sticky top-28"]}>
     <div class="bg-white rounded-xl border border-primary/10 overflow-hidden group w-[300px] h-[600px] relative">
       <a href={linkUrl} target="_blank" rel="sponsored noopener" aria-label={altText} class="block h-full w-full">
         <img

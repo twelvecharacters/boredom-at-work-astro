@@ -84,6 +84,7 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
         imageUrl={activeBanner.imageUrl} 
         linkUrl={activeBanner.linkUrl} 
         altText={activeBanner.altText} 
+        class="hidden min-[1601px]:block absolute top-0 right-0 h-full py-8"
       />
     )}
     <article class="max-w-5xl mx-auto px-4 py-8">
@@ -272,6 +273,15 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
       <aside class="hidden lg:block w-80 flex-shrink-0">
         <div class="sticky top-28 space-y-8 max-h-[calc(100vh-8rem)] overflow-y-auto pr-2 custom-scrollbar">
           <TableOfContents />
+
+          {activeBanner && (
+            <SideBanner 
+              imageUrl={activeBanner.imageUrl} 
+              linkUrl={activeBanner.linkUrl} 
+              altText={activeBanner.altText}
+              class="hidden xl:block min-[1601px]:hidden not-sticky"
+            />
+          )}
 
           <div class="bg-background-alt rounded-xl p-6">
             <h3 class="text-lg font-semibold mb-2">Ready to learn more?</h3>
