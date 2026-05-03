@@ -30,8 +30,6 @@
     "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
-    "sass": "^1.97.2",
-    "sass-embedded": "^1.99.0",
     "sharp": "^0.34.5"
   }
 }

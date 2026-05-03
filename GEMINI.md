@@ -16,7 +16,7 @@ This document outlines the foundational standards and architectural goals for th
 
 ### Styling & CSS
 - **Tailwind 4:** Use Tailwind CSS 4 features (CSS variables, native nesting) where possible.
-- **Sass Deprecation:** Avoid introducing new `.scss` files; prefer standard CSS or Tailwind. Aim to remove `sass` dependency once legacy styles are migrated.
+- **Sass Deprecation:** [COMPLETED] Migrated `global.scss` to `global.css` using Tailwind 4 native nesting and removed `sass` dependency. Avoid introducing new `.scss` files.
 
 ## 2. SEO & Schema Mandates
 

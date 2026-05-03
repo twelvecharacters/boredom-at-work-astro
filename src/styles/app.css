@@ -54,5 +54,5 @@
   --font-body: 'Inter', sans-serif;
 }
 
-/* Import SCSS for nesting and custom styles */
-@import "./global.scss";
+/* Import global CSS for nesting and custom styles */
+@import "./global.css";
