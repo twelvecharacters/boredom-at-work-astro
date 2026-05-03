@@ -1,14 +1,58 @@
 ---
 // TableOfContents component - auto-generates TOC from article headings
-// Add this component to articles where you want a table of contents
+interface Props {
+  initialOpen?: boolean;
+  title?: string;
+}
+
+const { initialOpen = true, title = "Table of Contents" } = Astro.props;
 ---
 
-<nav class="toc bg-background-alt rounded-xl p-6 mb-8 not-prose">
-  <h2 class="text-lg font-semibold mb-4 text-primary">Table of Contents</h2>
-  <ul class="toc-list space-y-2 text-sm">
-    <!-- TOC items will be injected by JavaScript -->
-  </ul>
+<nav class="toc-container not-prose mb-8">
+  <details class="group bg-background-alt/50 backdrop-blur-md border border-primary/5 rounded-2xl overflow-hidden transition-all duration-300 hover:border-primary/20 shadow-sm" open={initialOpen}>
+    <summary class="flex items-center justify-between p-5 cursor-pointer list-none select-none">
+      <div class="flex items-center gap-3">
+        <div class="w-1.5 h-6 bg-accent rounded-full"></div>
+        <h2 class="text-lg font-bold text-primary tracking-tight">{title}</h2>
+      </div>
+      <div class="flex items-center justify-center w-8 h-8 rounded-full bg-primary/5 text-primary transition-transform duration-300 group-open:rotate-180 group-hover:bg-primary/10">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19 9l-7 7-7-7" />
+        </svg>
+      </div>
+    </summary>
+    
+    <div class="px-5 pb-6 pt-0 border-t border-primary/5">
+      <ul class="toc-list space-y-1 text-sm mt-4">
+        <!-- TOC items will be injected by JavaScript -->
+        <li class="animate-pulse flex space-x-4">
+          <div class="h-2 bg-primary/10 rounded w-3/4"></div>
+        </li>
+      </ul>
+    </div>
+  </details>
 </nav>
+
+<style>
+  @reference "../styles/app.css";
+
+  /* Remove default details marker */
+  summary::-webkit-details-marker {
+    display: none;
+  }
+  
+  .toc-list a {
+    @apply block py-1.5 px-3 rounded-lg transition-all duration-200 border-l-2 border-transparent;
+  }
+  
+  .toc-list a:hover {
+    @apply bg-accent/5 text-accent border-accent/30 translate-x-1;
+  }
+
+  .toc-list .active-link {
+    @apply bg-accent/10 text-accent font-bold border-accent shadow-sm;
+  }
+</style>
 
 <script>
   function generateTOC() {
@@ -18,7 +62,14 @@
     const headings = article.querySelectorAll('h2, h3');
     const tocLists = document.querySelectorAll('.toc-list');
     
-    if (tocLists.length === 0 || headings.length === 0) return;
+    if (tocLists.length === 0) return;
+
+    if (headings.length === 0) {
+      document.querySelectorAll('.toc-container').forEach(toc => {
+        (toc as HTMLElement).style.display = 'none';
+      });
+      return;
+    }
 
     // Clear existing lists to avoid duplicates on re-renders
     tocLists.forEach(list => list.innerHTML = '');
@@ -33,15 +84,29 @@
       const a = document.createElement('a');
       a.href = `#${heading.id}`;
       a.textContent = heading.textContent;
-      a.className = (heading.tagName === 'H3')
-        ? 'text-text-light hover:text-accent pl-4 block transition-colors'
-        : 'text-text hover:text-accent block transition-colors font-medium';
+      
+      const isH3 = heading.tagName === 'H3';
+      
+      a.className = isH3
+        ? 'text-text-light pl-6'
+        : 'text-text font-medium';
 
       li.appendChild(a);
       
       // Clone for each TOC instance
       tocLists.forEach(list => {
         list.appendChild(li.cloneNode(true));
+      });
+    });
+
+    // Add click listeners to close TOC on mobile after selection
+    document.querySelectorAll('.toc-list a').forEach(link => {
+      link.addEventListener('click', () => {
+        // Only auto-close on mobile (if it's in the mobile container)
+        const details = link.closest('details');
+        if (details && window.innerWidth < 1024) {
+          details.removeAttribute('open');
+        }
       });
     });
   }

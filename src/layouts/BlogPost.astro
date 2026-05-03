@@ -246,7 +246,7 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
 
         <!-- Table of Contents (Mobile Only) -->
         <div class="lg:hidden">
-          <TableOfContents />
+          <TableOfContents initialOpen={false} />
         </div>
 
         <!-- Article Content -->
@@ -272,7 +272,7 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
       <!-- Sticky Sidebar (Desktop Only) -->
       <aside class="hidden lg:block w-80 flex-shrink-0">
         <div class="sticky top-28 space-y-8 max-h-[calc(100vh-8rem)] overflow-y-auto pr-2 custom-scrollbar">
-          <TableOfContents />
+          <TableOfContents initialOpen={true} />
 
           {activeBanner && (
             <SideBanner 
@@ -417,10 +417,10 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
         entries.forEach(entry => {
           const id = entry.target.getAttribute('id');
           if (entry.isIntersecting) {
-            document.querySelectorAll('.toc a').forEach(link => {
-              link.classList.remove('text-accent', 'font-bold');
+            document.querySelectorAll('.toc-list a').forEach(link => {
+              link.classList.remove('active-link');
               if (link.getAttribute('href') === `#${id}`) {
-                link.classList.add('text-accent', 'font-bold');
+                link.classList.add('active-link');
               }
             });
           }
