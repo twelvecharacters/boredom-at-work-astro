@@ -2,7 +2,7 @@
 title: "Kindle Scribe Review: Is It Worth It for Work Notes? (2026)"
 slug: "kindle-scribe-review"
 description: "After months of using the Kindle Scribe at work, here's my honest review. Meeting notes, PDF annotations, and reading — can it replace your notebook?"
-publishDate: 2026-05-21
+publishDate: 2026-05-18
 author: "bored chap"
 image: "./kindle-scribe-review.webp"
 imageAlt: "Kindle Scribe on an office desk with handwritten meeting notes on screen next to a laptop."
