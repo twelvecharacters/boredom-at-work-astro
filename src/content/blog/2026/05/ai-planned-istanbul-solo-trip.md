@@ -12,7 +12,7 @@ faq:
   - question: "Is Istanbul safe for solo travel?"
     answer: "Yes. I traveled solo for 3 days across Sultanahmet, the European Bosphorus, and the Sütlüce neighborhood without any issues. Use BiTaksi or Bolt for taxis to avoid scams, stay alert in crowded tram stops like Eminönü, and politely decline tea offers from strangers in tourist areas."
   - question: "How much does a 3-day solo Istanbul trip cost?"
-    answer: "I spent around 250 EUR on transport, sights, and food across 3 days (excluding flight and hotel). Hagia Sophia was the biggest single cost at 50 EUR. Public transport via Istanbulkart is dirt cheap, and a sit-down dinner with drinks runs about 20-25 EUR."
+    answer: "I spent around 196 EUR on transport, sights, and food across 3 days (excluding flight and hotel). Hagia Sophia was the biggest single cost at 50 EUR. Public transport via Istanbulkart is dirt cheap, and a sit-down dinner with drinks runs about 20-25 EUR."
   - question: "Is Hagia Sophia worth visiting in 2026?"
     answer: "Yes. Since the conversion to a mosque in 2020 and the new Hagia Sophia History and Experience Museum, the visitor experience has changed. The combined ticket (museum plus upper gallery) costs around 50 EUR and gives you an hour with one of the most overwhelming buildings in the world. It was the highlight of my trip."
   - question: "Should I trust an AI itinerary for Istanbul?"
@@ -27,7 +27,7 @@ That's not a complaint. The trip was great. But it taught me something specific 
 
 - **Dates:** April 29 – May 2, 2026 (3 nights, solo)
 - **Hotel:** Stayso The House Hotel, Sütlüce, Beyoğlu — quiet local neighborhood on the Golden Horn
-- **Total spent (excl. flight + hotel):** ~250 EUR
+- **Total spent (excl. flight + hotel):** ~196 EUR
 - **Highlight:** Hagia Sophia — actual goosebumps
 - **Plan deviation:** Roughly 60% — Topkapi, Pierre Loti, and the Asian side all skipped
 - **Steps walked Day 2:** 30,000
@@ -142,15 +142,14 @@ Skipped: Spice Bazaar, Süleymaniye Mosque, Hamdi Restaurant lunch. The AI plan 
 
 | Category | EUR |
 |----------|-----|
-| Airport transport (in + out) | ~25 |
 | Hagia Sophia + Museum ticket | 50 |
 | Şerbethane (2 visits) | 59 |
-| Restaurants (3 dinners) | ~62 |
-| City taxis (incl. Ramazan) | ~40 |
-| Misc transport (buses, tram) | ~15 |
-| **Total ex hotel/flight** | **~250** |
+| Restaurants (2 dinners) | ~42 |
+| City taxis (incl. Ramazan) | ~31 |
+| Buses, metro, tram | ~14 |
+| **Total ex hotel/flight** | **~196** |
 
-For 3 days solo, that's reasonable but not cheap. Hagia Sophia alone is 20% of the total, and Şerbethane visits ate another quarter. If you skip the shisha-café habit and the museum ticket, you could do this trip on 100-120 EUR easily.
+For 3 days solo, that's reasonable but not cheap. Hagia Sophia alone is 25% of the total, and Şerbethane visits ate another 30%. If you skip the shisha-café habit and the museum ticket, you could do this trip on under 100 EUR for everything except the hotel and flight.
 
 ## What Worked
 
