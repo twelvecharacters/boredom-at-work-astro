@@ -1,8 +1,9 @@
 ---
-title: "Kindle Modding Guide: Jailbreak & KOReader Setup (2026)"
+title: "Kindle Modding Wiki: Every Jailbreak, Mod & KOReader Setup (2026)"
 slug: "kindle-modding-guide"
-description: "How to jailbreak your Kindle and install KOReader step by step. Custom fonts, screensavers, EPUB support, works on Paperwhite, basic Kindle, and Scribe."
+description: "The complete Kindle modding wiki: jailbreak, KOReader, custom fonts, screensavers, and EPUB sideloading. Works on Paperwhite, basic Kindle, and Scribe."
 publishDate: 2026-02-18
+updatedDate: 2026-05-04
 author: "Mehdi"
 image: "./kindle-modding-guide.webp"
 imageAlt: "Step-by-step visual guide for Kindle jailbreak and KOReader setup"
