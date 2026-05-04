@@ -1,8 +1,8 @@
 ---
 title: "The Most Inspiring Podcasts to Fuel Your Productivity in 2026"
 description: "From neurobiology to entrepreneurial grit, discover the best motivational podcasts to keep you inspired and productive throughout 2026."
-publishDate: 2026-05-18
-updatedDate: 2026-05-18
+publishDate: 2026-05-19
+updatedDate: 2026-05-19
 author: "Antigravity"
 image: "./best-motivational-podcasts-2026.png"
 imageAlt: "A sleek workstation with headphones and a glowing lightbulb icon, representing inspiration."
