@@ -69,7 +69,7 @@ Switches determine how your keyboard feels and sounds. There are three main type
 
 ## Keyboard Sizes Explained
 
-Mechanical keyboards come in different sizes. Smaller isn't always better — pick based on what keys you actually use.
+Mechanical keyboards come in different sizes. Smaller isn't always better, pick based on what keys you actually use.
 
 ### Full Size (100%)
 - All keys: number pad, function row, navigation cluster
@@ -168,7 +168,7 @@ No RGB, no wireless, no frills. Just exceptional build quality and the best stoc
 ### Best Quiet: [Logitech G515 Rockspeed TKL](https://www.logitechg.com/en-us/products/gaming-keyboards/g515-low-profile-mechanical-gaming-keyboard.html)
 **Price:** $130-150
 
-Low-profile mechanical switches — shorter travel, quieter operation, more laptop-like feel.
+Low-profile mechanical switches, shorter travel, quieter operation, more laptop-like feel.
 
 - Low-profile switches
 - Very quiet
@@ -219,45 +219,45 @@ Get a solid keyboard, use it for 6 months, then decide if you want to go deeper.
 
 When shopping, prioritize:
 
-1. **Hot-swappable switches** — Try different switches without soldering
-2. **USB-C connection** — Modern standard, cables are everywhere
-3. **PBT keycaps** — More durable than ABS, won't get shiny
-4. **Good reviews for build quality** — Avoid flex and rattle
-5. **Mac/Windows compatibility** — If you use both
+1. **Hot-swappable switches**, Try different switches without soldering
+2. **USB-C connection**, Modern standard, cables are everywhere
+3. **PBT keycaps**, More durable than ABS, won't get shiny
+4. **Good reviews for build quality**, Avoid flex and rattle
+5. **Mac/Windows compatibility**, If you use both
 
 ## Tips for Your First Mechanical Keyboard
 
-1. **Try before you buy** — Visit a store or buy a switch tester ($10-15)
-2. **Start with Brown switches** — Good middle ground
-3. **Get TKL size** — Best balance of size and functionality
-4. **Budget $50-120** — Sweet spot for quality/value
-5. **Don't cheap out too much** — Sub-$40 boards often have issues
+1. **Try before you buy**, Visit a store or buy a switch tester ($10-15)
+2. **Start with Brown switches**, Good middle ground
+3. **Get TKL size**, Best balance of size and functionality
+4. **Budget $50-120**, Sweet spot for quality/value
+5. **Don't cheap out too much**, Sub-$40 boards often have issues
 
 ## Office Reality Check: Will My Coworkers Hate Me?
 
-Let's be real — you're probably using this keyboard at work. Pair it with a good [ergonomic office chair](/best-office-chairs/) and you've got a solid setup. Here's what matters in an office:
+Let's be real, you're probably using this keyboard at work. Pair it with a good [ergonomic office chair](/best-office-chairs/) and you've got a solid setup. Here's what matters in an office:
 
 **The Noise Question**
 
 Your open-plan neighbors will absolutely notice a clicky keyboard. Blues and greens are out. Even Browns can be too loud in quiet offices.
 
 **Stealth recommendations:**
-- **Silent Reds** — Almost silent, very smooth
-- **Logitech G515** — Low-profile, barely audible
-- **Any board with O-rings** — Dampen the bottom-out sound
+- **Silent Reds**, Almost silent, very smooth
+- **Logitech G515**, Low-profile, barely audible
+- **Any board with O-rings**, Dampen the bottom-out sound
 
 **Will IT Care?**
 
 Most companies don't police keyboards. But if you're worried:
 - Stick to wired or bring your own USB receiver
 - Avoid RGB disco mode during meetings
-- Keep the box — you might need to swap back for video calls
+- Keep the box, you might need to swap back for video calls
 
 **The "Is That a Gaming Keyboard?" Conversation**
 
 Yes, you'll get comments. Options:
 1. Lean into it: "It's ergonomic, actually"
-2. Go stealth: Leopold and HHKB look professional (HHKB is a premium Japanese brand with Topre switches — [importing from Japan](/best-japanese-products-to-import/) can save you 20-30%)
+2. Go stealth: Leopold and HHKB look professional (HHKB is a premium Japanese brand with Topre switches, [importing from Japan](/best-japanese-products-to-import/) can save you 20-30%)
 3. Ignore: Good keyboards speak for themselves
 
 **Pro tip:** A mechanical keyboard actually looks *more* professional than the crusty Dell keyboard IT gave you in 2019.
@@ -274,6 +274,6 @@ Welcome to the hobby. Your fingers will thank you.
 
 ## Related Guides
 
-- [Best Tech Gifts Under $50](/best-tech-gifts-under-50/) — Mice, desk lamps, and office essentials
-- [Desk Upgrade Guide](/desk-upgrade-guide/) — Standing desks, chairs, and monitor arms
-- [Best Office Chairs](/best-office-chairs/) — Complete your ergonomic setup
+- [Best Tech Gifts Under $50](/best-tech-gifts-under-50/), Mice, desk lamps, and office essentials
+- [Desk Upgrade Guide](/desk-upgrade-guide/), Standing desks, chairs, and monitor arms
+- [Best Office Chairs](/best-office-chairs/), Complete your ergonomic setup

@@ -16,7 +16,7 @@ faq:
     answer: "ChatGPT cannot book directly, but it can use web search to find current prices and link you to booking sites. For actual bookings, use dedicated travel sites like Expedia, Kayak, or Google Flights."
 ---
 
-ChatGPT can be an incredible travel planning assistant—if you know how to ask. The difference between a mediocre AI response and a genuinely useful one comes down to your prompts.
+ChatGPT can be an incredible travel planning assistant, if you know how to ask. The difference between a mediocre AI response and a genuinely useful one comes down to your prompts.
 
 Here are 19 proven prompts that actually work, organized by planning stage.
 
@@ -317,9 +317,9 @@ Regarding travel insurance:
 
 1. What medical costs could I face if hospitalized there?
 2. What coverage is essential for this destination?
-3. I plan to do [activities]—do I need adventure sports coverage?
+3. I plan to do [activities],do I need adventure sports coverage?
 4. What's typically excluded that catches travelers off guard?
-5. Annual vs single-trip policy—which makes sense for me?
+5. Annual vs single-trip policy, which makes sense for me?
 
 Also, what documentation should I have ready in case of emergency?
 ```
@@ -367,8 +367,8 @@ When a prompt works well, save it. Create a travel planning template you can reu
 
 ## Related Articles
 
-- [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything about ChatGPT
-- [AI Travel Planning Hub](/ai-travel-planning/) — Complete travel guide
-- [Best AI Trip Planners](/best-ai-trip-planners/) — Compare AI tools
-- [Malaysia Trip Case Study](/chatgpt-malaysia-trip-planning/) — See it in action
-- [AI Tools Guide](/ai-tools-guide/) — All AI tools compared
+- [ChatGPT Mastery Guide](/chatgpt-guide/), Everything about ChatGPT
+- [AI Travel Planning Hub](/ai-travel-planning/), Complete travel guide
+- [Best AI Trip Planners](/best-ai-trip-planners/), Compare AI tools
+- [Malaysia Trip Case Study](/chatgpt-malaysia-trip-planning/), See it in action
+- [AI Tools Guide](/ai-tools-guide/), All AI tools compared

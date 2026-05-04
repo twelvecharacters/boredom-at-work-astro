@@ -20,7 +20,7 @@ howTo:
     - name: "Enable Experimental Features"
       text: "Ensure you are running Bambu Studio 2.6.0 or later. In the Filament settings, click the '+' icon to add a new filament and look for the 'Mixed Filament' option."
     - name: "Select Base Filaments"
-      text: "Choose the physical filaments you have loaded in your AMS (e.g., Cyan, Magenta, Yellow, White). These will serve as your primary mixing palette."
+      text: "Choose the physical filaments you have loaded in your AMS (e.g. Cyan, Magenta, Yellow, White). These will serve as your primary mixing palette."
     - name: "Define Color Ratios"
       text: "Use the Mixing Dialog to specify the ratio of each base filament to achieve your target color. The slicer will automatically calculate the required layer alternation."
     - name: "Slice and Verify"
@@ -38,9 +38,9 @@ For years, the "holy grail" of consumer 3D printing has been true, full-color re
 
 That changed with the release of **Bambu Studio 2.6.0**. 
 
-By introducing the experimental **Mixed Filament** feature, Bambu Lab has effectively shifted the paradigm from "color swapping" to "color mixing." It’s not a hardware upgrade—it’s a software revolution that leverages the precision of modern motion systems to trick the human eye. 
+By introducing the experimental **Mixed Filament** feature, Bambu Lab has effectively shifted the paradigm from "color swapping" to "color mixing." It’s not a hardware upgrade, it’s a software revolution that leverages the precision of modern motion systems to trick the human eye. 
 
-In this guide, we’re going to explore how this technology works, why it marks a turning point for the community, and how you can start using it today—provided you have the right hardware to handle the overhead.
+In this guide, we’re going to explore how this technology works, why it marks a turning point for the community, and how you can start using it today, provided you have the right hardware to handle the overhead.
 
 ---
 
@@ -79,7 +79,7 @@ For the best results, I recommend using a standard CMYW palette. Bambu has even 
 ### Step 2: Creating the Mix
 Once your base filaments are selected, you can create a new "Mixed Filament" entry. You can either:
 - **Use the Color Picker**: Select any color from a standard RGB wheel, and the slicer will calculate the necessary ratio of your base filaments.
-- **Manual Ratio**: If you're going for an artistic effect, you can manually set the percentages (e.g., 70% White, 30% Blue).
+- **Manual Ratio**: If you're going for an artistic effect, you can manually set the percentages (e.g. 70% White, 30% Blue).
 
 ### Step 3: Slicing for Success
 The "Mixed Filament" now acts like any other filament in your list. You can paint it onto your model using the Paint Bucket tool or assign it to specific objects. 
@@ -112,7 +112,7 @@ Bambu Lab anticipated this with the release of the **Transmission Calibration To
 
 This tool allows you to measure the specific "Translucency Factor" (TF) of any filament. You print a small "stepped" wedge, measure the light transmission with a simple sensor (or even your phone's camera in a pinch), and input the values into the slicer. Once calibrated, the slicer knows exactly how much light passes through at a given thickness. This allows it to adjust the layer ratios with extreme precision. For example, if you're mixing a translucent Cyan and an opaque White, the slicer knows that it needs exactly two layers of Cyan to override one layer of White.
 
-It’s a bit of work, but it’s the difference between a "printed toy" look and a "professional manufactured" look. While any filament can work, using filaments with high translucency—like Bambu's PETG HF or their specialized translucent PLA lines—will yield the most vibrant results.
+It’s a bit of work, but it’s the difference between a "printed toy" look and a "professional manufactured" look. While any filament can work, using filaments with high translucency, like Bambu's PETG HF or their specialized translucent PLA lines, will yield the most vibrant results.
 
 ---
 
@@ -126,7 +126,7 @@ Why White instead of Black? Because in 3D printing, the "canvas" is the object i
 
 The math happening behind the scenes is staggering. For every single pixel (or rather, every single line of G-code), the slicer is calculating the "Subtractive Light Path." It considers the color of the layer below, the thickness of the current layer, and even the color of the infill behind it.
 
-I spent an afternoon testing a "Banana for Scale" print using just CMYW. On a standard machine, this would have been a 4-color print (Yellow, Brown, Green, White). With mixing, I was able to get the subtle brown bruising on the peel, the greenish transition at the stem, and a soft, natural yellow body—all from the same four spools. The level of realism is something that simply wasn't possible with traditional color swapping. Note that currently, these mixed-filament files **cannot be uploaded to MakerWorld**, so you'll have to share your masterpieces as raw .3mf files or G-code for now.
+I spent an afternoon testing a "Banana for Scale" print using just CMYW. On a standard machine, this would have been a 4-color print (Yellow, Brown, Green, White). With mixing, I was able to get the subtle brown bruising on the peel, the greenish transition at the stem, and a soft, natural yellow body, all from the same four spools. The level of realism is something that simply wasn't possible with traditional color swapping. Note that currently, these mixed-filament files **cannot be uploaded to MakerWorld**, so you'll have to share your masterpieces as raw .3mf files or G-code for now.
 
 ---
 
@@ -148,7 +148,7 @@ Is this just a gimmick? I don't think so.
 
 What we are seeing is the birth of "Post-Processing in the Slicer." By moving away from the physical limitations of the plastic and toward the digital manipulation of how that plastic is laid down, Bambu Lab is opening doors that were previously only available to $50,000 industrial PolyJet machines.
 
-We are already seeing community members using this feature to create functional gradients—parts that transition from rigid to flexible by mixing PLA-like materials with stiffer variants (though adhesion is still an experimental hurdle). We are seeing labels that are part of the object’s "DNA" rather than just a layer on top.
+We are already seeing community members using this feature to create functional gradients, parts that transition from rigid to flexible by mixing PLA-like materials with stiffer variants (though adhesion is still an experimental hurdle). We are seeing labels that are part of the object’s "DNA" rather than just a layer on top.
 
 The **Bambu Studio 2.6.0 Mixing Feature** isn't perfect. It's slow on old hardware, it's experimental, and it requires a bit of a "color science" degree to master. But it is a glimpse into a future where the color of your filament spool matters less than the logic in your slicer.
 

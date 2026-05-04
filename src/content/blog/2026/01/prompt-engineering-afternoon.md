@@ -10,11 +10,11 @@ imageAlt: "Illustration showing prompt engineering concepts and AI chat interfac
 draft: false
 faq:
   - question: "How long does it take to learn prompt engineering?"
-    answer: "You can learn the core principles in one afternoon (2-3 hours). That includes understanding how to give clear instructions, use examples, set context, and iterate on outputs. Getting genuinely good takes a few weeks of daily practice applying these techniques to real tasks. The basics are easy — the mastery comes from experience."
+    answer: "You can learn the core principles in one afternoon (2-3 hours). That includes understanding how to give clear instructions, use examples, set context, and iterate on outputs. Getting genuinely good takes a few weeks of daily practice applying these techniques to real tasks. The basics are easy, the mastery comes from experience."
   - question: "Do I need coding skills for prompt engineering?"
     answer: "No. Prompt engineering is a communication skill, not a programming skill. You're writing natural language instructions, not code. Anyone who can write clear emails can learn prompt engineering. That said, understanding basic logic (if/then thinking, breaking tasks into steps) helps you structure better prompts."
   - question: "Is prompt engineering a real career skill or just a trend?"
-    answer: "It's a real skill that's becoming essential across industries. As AI tools become standard in every workplace, the ability to use them effectively is a genuine competitive advantage. It's less likely to become a standalone 'prompt engineer' job title and more likely to become a core competency expected of every knowledge worker — similar to how Excel proficiency became expected in the 2000s."
+    answer: "It's a real skill that's becoming essential across industries. As AI tools become standard in every workplace, the ability to use them effectively is a genuine competitive advantage. It's less likely to become a standalone 'prompt engineer' job title and more likely to become a core competency expected of every knowledge worker, similar to how Excel proficiency became expected in the 2000s."
 ---
 
 Prompt engineering is the single most valuable AI skill you can learn. It's the difference between getting mediocre results from ChatGPT and getting outputs that genuinely save you hours.
@@ -157,7 +157,7 @@ Your first output is rarely final. Build on it.
 You: "Write a job description for a marketing manager"
 AI: [produces draft]
 
-You: "Good start. Make the requirements section more specific—we need someone with B2B SaaS experience."
+You: "Good start. Make the requirements section more specific, we need someone with B2B SaaS experience."
 AI: [revises]
 
 You: "Better. Now make the company culture section more engaging and less corporate."
@@ -417,7 +417,7 @@ Provide 2 examples of meeting notes and their corresponding action items, then a
 
 Prompt engineering isn't magic. It's clear communication.
 
-The five principles—be specific, provide context, specify format, use examples, and iterate—cover 90% of what you need.
+The five principles, be specific, provide context, specify format, use examples, and iterate, cover 90% of what you need.
 
 The templates in this guide will handle most professional use cases. Copy them, adapt them, and use them daily.
 
@@ -434,8 +434,8 @@ By tonight, you'll be measurably better at getting value from AI. That's prompt 
 
 ## Related Articles
 
-- [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything you need to know about ChatGPT
-- [How to Learn AI in 2026](/learn-ai-guide/) — Your complete AI learning roadmap
-- **[OpenAI Academy](https://openai.com/academy)** — Start here if you're new
-- **[Coursera Prompt Engineering](https://coursera.org/specializations/prompt-engineering)** — Professional certification
-- **[DeepLearning.AI](https://deeplearning.ai)** — Technical deep dives
+- [ChatGPT Mastery Guide](/chatgpt-guide/), Everything you need to know about ChatGPT
+- [How to Learn AI in 2026](/learn-ai-guide/), Your complete AI learning roadmap
+- **[OpenAI Academy](https://openai.com/academy)**, Start here if you're new
+- **[Coursera Prompt Engineering](https://coursera.org/specializations/prompt-engineering)**, Professional certification
+- **[DeepLearning.AI](https://deeplearning.ai)**, Technical deep dives

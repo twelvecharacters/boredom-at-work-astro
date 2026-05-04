@@ -1,5 +1,5 @@
 ---
-// AI vs Screener Cost Calculator — pick tools, see monthly cost + feature coverage
+// AI vs Screener Cost Calculator, pick tools, see monthly cost + feature coverage
 // No data leaves the browser
 ---
 
@@ -222,7 +222,7 @@
     },
   ];
 
-  const QUALITY_LABELS = ['—', 'Basic', 'Good', 'Excellent'];
+  const QUALITY_LABELS = [',', 'Basic', 'Good', 'Excellent'];
   const QUALITY_COLORS = ['', 'text-text-light', 'text-accent', 'text-green-600'];
 
   // ── State ──
@@ -276,7 +276,7 @@
     document.getElementById('sc-monthly')!.textContent = '$' + monthly;
     document.getElementById('sc-annual')!.textContent = '$' + annual.toLocaleString();
 
-    // Merge features — take max quality per feature
+    // Merge features, take max quality per feature
     const merged: Record<string, number> = {};
     for (const tool of selected) {
       for (const [feat, qual] of Object.entries(tool.features)) {

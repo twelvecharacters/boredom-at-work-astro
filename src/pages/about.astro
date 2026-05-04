@@ -1,0 +1,150 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { AUTHOR, SITE } from '../config';
+
+const personSchema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": AUTHOR.name,
+  "jobTitle": AUTHOR.jobTitle,
+  "url": AUTHOR.url,
+  "image": `${SITE.url}${AUTHOR.photo}`,
+  "description": AUTHOR.bio,
+  "sameAs": [
+    AUTHOR.social.linkedin,
+    AUTHOR.social.youtube,
+    AUTHOR.social.companyLinkedin,
+  ].filter(Boolean),
+  "worksFor": {
+    "@type": "Organization",
+    "name": SITE.title,
+    "url": SITE.url,
+  },
+  "knowsAbout": [
+    "AI Tools",
+    "Marketing",
+    "3D Printing",
+    "AI Travel Planning",
+    "E-Readers",
+    "Home Office Setup",
+    "Photography",
+  ],
+};
+---
+
+<BaseLayout
+  title={`About ${AUTHOR.name} | ${SITE.title}`}
+  description={`Meet ${AUTHOR.name}, ${AUTHOR.jobTitle} and founder of ${SITE.title}. 9+ years in sales and leadership, self taught in AI since 2024.`}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
+
+  <article class="max-w-3xl mx-auto px-4 py-16 md:py-24">
+    <!-- Hero -->
+    <header class="text-center mb-16">
+      <img
+        src={AUTHOR.photo}
+        alt={`${AUTHOR.name}, ${AUTHOR.jobTitle} and founder of ${SITE.title}`}
+        width="192"
+        height="192"
+        loading="eager"
+        class="rounded-full w-40 h-40 md:w-48 md:h-48 object-cover mx-auto mb-6 shadow-lg ring-4 ring-white"
+      />
+      <h1 class="text-4xl md:text-5xl font-bold mb-3 tracking-tight">About {AUTHOR.name}</h1>
+      <p class="text-lg md:text-xl text-text-light">
+        {AUTHOR.jobTitle} · Founder of {SITE.title}
+      </p>
+    </header>
+
+    <!-- Credentials Strip -->
+    <div class="grid sm:grid-cols-3 gap-4 mb-16">
+      {AUTHOR.credentials.map(c => (
+        <div class="bg-background-alt rounded-xl px-5 py-4 text-center">
+          <div class="text-2xl mb-1">{c.icon}</div>
+          <p class="text-sm font-medium text-text">{c.text}</p>
+        </div>
+      ))}
+    </div>
+
+    <!-- Bio -->
+    <div class="prose prose-lg max-w-none">
+      <h2>Why this site exists</h2>
+      <p>
+        I was bored at work. That's the honest version.
+      </p>
+      <p>
+        I'm a Director of Affiliates with 9+ years in sales and leadership roles. The work is fine,
+        but like most people in office jobs, I had hours of low intensity time every week. Meetings
+        I didn't need to lead, gaps between deliverables, the slow afternoons.
+      </p>
+      <p>
+        In 2024, instead of using that time to scroll LinkedIn or refresh the same news sites, I
+        decided to learn AI. Not because I was worried it would take my job. Just because it seemed
+        like the most useful skill to pick up while sitting at a desk anyway.
+      </p>
+      <p>
+        Boredom at Work is what came out of that decision. The site started as my personal log of
+        AI tools and tutorials, and grew into the topics my brother and I are genuinely curious
+        about: AI tools, 3D printing, e-readers, photography, home office gear, and AI travel
+        planning.
+      </p>
+
+      <h2>The promise</h2>
+      <p>
+        Every article on this site comes from real use. If I review a 3D printer, I've printed
+        with it. If I recommend an AI tool, I've used it for actual work. If I write a city guide,
+        I've been there. If I compare e-readers, I've held both.
+      </p>
+      <p>
+        I'm not interested in the affiliate arbitrage route. That's the kind of site where every
+        product is "the best" and every recommendation is whatever pays the highest commission. I
+        want Boredom at Work to be the kind of site I'd actually want to read.
+      </p>
+      <p>
+        That means honest pros and cons, real costs in real currencies, occasional photos of my own
+        gear or trips, and admitting when something isn't worth it. It also means saying "I haven't
+        tried this yet" instead of pretending otherwise.
+      </p>
+
+      <h2>What you'll find here</h2>
+      <p>
+        The content clusters reflect what we actually do, not what ranks easiest on Google:
+      </p>
+      <ul>
+        <li><a href="/ai-tools-guide/"><strong>AI tools</strong></a>: ChatGPT, Claude, Gemini, and the working habits that actually save time</li>
+        <li><a href="/3d-printing-guide/"><strong>3D printing</strong></a>: printers, slicers, troubleshooting, and the projects worth your filament</li>
+        <li><a href="/kindle-guide/"><strong>E-readers and Kindle</strong></a>: comparisons, accessories, sideloading, and reading habits</li>
+        <li><a href="/desk-upgrade-guide/"><strong>Home office</strong></a>: desks, chairs, monitors, and what's actually worth upgrading</li>
+        <li><a href="/photography-guide/"><strong>Photography</strong></a>: beginner cameras, gear, and the editing tools we actually use</li>
+        <li><a href="/ai-travel-planning/"><strong>AI travel planning</strong></a>: real trip reports, prompts that work, and destination guides</li>
+      </ul>
+
+      <h2>Where to find me</h2>
+      <p>
+        The best place to reach me is LinkedIn. I post occasional updates on what I'm building and
+        what I'm reading. For tips, corrections, or sponsorship inquiries, the contact form below
+        works.
+      </p>
+    </div>
+
+    <!-- Connect -->
+    <div class="mt-12 pt-12 border-t border-gray-200 flex flex-col sm:flex-row gap-4 justify-center items-center">
+      <a
+        href={AUTHOR.social.linkedin}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="bg-accent hover:bg-accent-hover text-white font-semibold px-6 py-3 rounded-lg transition-colors inline-flex items-center gap-2"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+        </svg>
+        Connect on LinkedIn
+      </a>
+      <a
+        href="/contact/"
+        class="border border-accent text-accent hover:bg-accent hover:text-white font-semibold px-6 py-3 rounded-lg transition-colors"
+      >
+        Contact form
+      </a>
+    </div>
+  </article>
+</BaseLayout>

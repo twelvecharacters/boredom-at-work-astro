@@ -26,7 +26,7 @@ faq:
 
 So you want to get into photography. The internet is full of gear heads arguing about sensor sizes and autofocus points. Here's what actually matters when you're starting out.
 
-This hub brings together everything you need to make smart buying decisions — from whether you even need a camera to exactly what to buy at every budget level.
+This hub brings together everything you need to make smart buying decisions, from whether you even need a camera to exactly what to buy at every budget level.
 
 ---
 
@@ -39,13 +39,13 @@ Photography gear can be a money pit. Before spending anything, let's make sure y
 Modern smartphones have incredible cameras. The iPhone 15 Pro and Samsung Galaxy S24 Ultra can produce stunning images that would have required professional gear a decade ago. So when does a dedicated camera actually make sense?
 
 **Get a camera if you want:**
-- **Manual control** — Shutter speed, aperture, ISO at your fingertips
-- **Better low-light performance** — Larger sensors capture more light
-- **Shallow depth of field** — That creamy background blur (bokeh)
-- **Interchangeable lenses** — Wide, telephoto, macro, specialty
-- **Raw files** — Maximum editing flexibility
-- **Optical zoom** — Real zoom, not digital cropping
-- **To learn the craft** — Photography as a skill, not just snapshots
+- **Manual control**, Shutter speed, aperture, ISO at your fingertips
+- **Better low-light performance**, Larger sensors capture more light
+- **Shallow depth of field**, That creamy background blur (bokeh)
+- **Interchangeable lenses**, Wide, telephoto, macro, specialty
+- **Raw files**, Maximum editing flexibility
+- **Optical zoom**, Real zoom, not digital cropping
+- **To learn the craft**, Photography as a skill, not just snapshots
 
 **Stick with your phone if you:**
 - Mostly share on social media (Instagram compresses everything anyway)
@@ -53,7 +53,7 @@ Modern smartphones have incredible cameras. The iPhone 15 Pro and Samsung Galaxy
 - Take photos occasionally, not as a hobby
 - Aren't sure photography is "your thing" yet
 
-**Recommended reading:** [Camera vs Smartphone](/camera-vs-smartphone/) — The complete breakdown of when each makes sense.
+**Recommended reading:** [Camera vs Smartphone](/camera-vs-smartphone/), The complete breakdown of when each makes sense.
 
 ### The Real Cost of Photography
 
@@ -84,7 +84,7 @@ This is the first choice you'll face. Here's the simple answer: **buy mirrorless
 - **Better autofocus.** Eye-tracking AF that follows subjects across the frame is standard on mirrorless, rare on DSLRs.
 - **Smaller and lighter.** No mirror box means more compact bodies.
 - **What you see is what you get.** The electronic viewfinder shows your actual exposure in real-time.
-- **Silent shooting.** Electronic shutters make no sound — great for events and wildlife.
+- **Silent shooting.** Electronic shutters make no sound, great for events and wildlife.
 
 ### When DSLR Still Makes Sense
 
@@ -93,7 +93,7 @@ This is the first choice you'll face. Here's the simple answer: **buy mirrorless
 - Battery life is critical (DSLRs last longer per charge)
 - You're buying into a system where someone's giving you their old lenses
 
-**Recommended reading:** [DSLR vs Mirrorless for Beginners](/dslr-vs-mirrorless-beginners/) — The complete comparison with specific model recommendations.
+**Recommended reading:** [DSLR vs Mirrorless for Beginners](/dslr-vs-mirrorless-beginners/), The complete comparison with specific model recommendations.
 
 ---
 
@@ -140,9 +140,9 @@ At this level, you're getting cameras that can grow with you for years.
 **Our advice:** Unless you have specific needs, the mid-range tier offers better value. Spend the difference on a good lens.
 
 **Recommended reading:** 
-- [Best Cameras Under $500](/best-cameras-under-500/) — Detailed budget options
-- [Best Cameras for Beginners](/best-cameras-for-beginners/) — Comprehensive starter guide
-- [Canon R100 vs Nikon Z50 II](/canon-r100-vs-nikon-z50/) — Head-to-head comparison
+- [Best Cameras Under $500](/best-cameras-under-500/), Detailed budget options
+- [Best Cameras for Beginners](/best-cameras-for-beginners/), Comprehensive starter guide
+- [Canon R100 vs Nikon Z50 II](/canon-r100-vs-nikon-z50/), Head-to-head comparison
 
 ---
 
@@ -152,7 +152,7 @@ Here's a secret: lenses matter more than camera bodies. A great lens on a cheap 
 
 ### Kit Lenses: Good Enough to Start
 
-Every camera comes with a "kit lens" — usually an 18-55mm or 15-45mm zoom. These are designed to be versatile and affordable.
+Every camera comes with a "kit lens", usually an 18-55mm or 15-45mm zoom. These are designed to be versatile and affordable.
 
 **Kit lens pros:**
 - Covers wide to short telephoto (good for most situations)
@@ -160,7 +160,7 @@ Every camera comes with a "kit lens" — usually an 18-55mm or 15-45mm zoom. The
 - Included in the price
 
 **Kit lens cons:**
-- Slow aperture (f/3.5-5.6) — not great in low light
+- Slow aperture (f/3.5-5.6), not great in low light
 - Average sharpness
 - Plastic build quality
 
@@ -176,9 +176,9 @@ A 50mm f/1.8 prime lens (called the "nifty fifty") should be your first addition
 - **Affordable:** $100-200 depending on brand
 
 Every major brand makes one:
-- Canon RF 50mm f/1.8 STM — ~$200
-- Nikon Z 40mm f/2 — ~$280
-- Sony FE 50mm f/1.8 — ~$200
+- Canon RF 50mm f/1.8 STM, ~$200
+- Nikon Z 40mm f/2, ~$280
+- Sony FE 50mm f/1.8, ~$200
 
 ### Lens Buying Priority
 
@@ -204,7 +204,7 @@ You don't need a camera bag full of lenses. Most pros use 2-3 lenses for 90% of 
 
 ### Mistake 2: Obsessing Over Specs
 
-Megapixels, dynamic range, ISO performance — these matter far less than composition and lighting. A 12-megapixel camera from 2015 can take better photos than a 45-megapixel camera in untrained hands.
+Megapixels, dynamic range, ISO performance, these matter far less than composition and lighting. A 12-megapixel camera from 2015 can take better photos than a 45-megapixel camera in untrained hands.
 
 ### Mistake 3: Ignoring the Used Market
 
@@ -225,7 +225,7 @@ A wobbly tripod is worse than no tripod. Spend $80-100 on a decent aluminum trip
 
 Modern cameras have incredible features buried in menus. Spend an evening reading the manual. You'll discover functions that would take months to find randomly.
 
-**Recommended reading:** [Beginner Photography Mistakes](/beginner-photography-mistakes/) — 10 common errors and how to avoid them.
+**Recommended reading:** [Beginner Photography Mistakes](/beginner-photography-mistakes/), 10 common errors and how to avoid them.
 
 ---
 
@@ -244,14 +244,14 @@ Some of the best camera deals are on the Japanese used market. Japanese sellers 
 
 You'll need a proxy service that buys on your behalf and ships internationally:
 
-- **[Buyee](https://buyee.jp)** — Easiest to use, higher fees
-- **[Sendico](https://sendico.com)** — Lower fees, more manual
-- **From Japan** — Good for high-value items
+- **[Buyee](https://buyee.jp)**, Easiest to use, higher fees
+- **[Sendico](https://sendico.com)**, Lower fees, more manual
+- **From Japan**, Good for high-value items
 
 **Recommended reading:**
-- [How to Buy from Japan](/how-to-buy-from-japan-beginners-guide/) — Complete proxy service guide
-- [Buyee vs Sendico](/buyee-vs-sendico-japan-proxy/) — Which service is better?
-- [Best Japanese Products to Import](/best-japanese-products-to-import/) — Cameras are #1 on this list
+- [How to Buy from Japan](/how-to-buy-from-japan-beginners-guide/), Complete proxy service guide
+- [Buyee vs Sendico](/buyee-vs-sendico-japan-proxy/), Which service is better?
+- [Best Japanese Products to Import](/best-japanese-products-to-import/), Cameras are #1 on this list
 
 ---
 
@@ -321,14 +321,14 @@ Now you're ready to spend money wisely:
 
 Photography gear can be a rabbit hole. Here's how to avoid it:
 
-1. **Buy one camera body** — Entry-level mirrorless is perfect
-2. **Use the kit lens for 6 months** — It's better than you think
-3. **Take 1000 photos before buying anything else** — Learn what you actually need
-4. **Upgrade to solve specific problems** — Not because gear looks cool
+1. **Buy one camera body**, Entry-level mirrorless is perfect
+2. **Use the kit lens for 6 months**, It's better than you think
+3. **Take 1000 photos before buying anything else**, Learn what you actually need
+4. **Upgrade to solve specific problems**, Not because gear looks cool
 
 The best camera is the one you actually use. Start simple, learn the craft, then spend money where it matters.
 
-Your first 10,000 photos are your worst — and you need to take them to get to the good ones. No amount of gear skips that step.
+Your first 10,000 photos are your worst, and you need to take them to get to the good ones. No amount of gear skips that step.
 
 ---
 

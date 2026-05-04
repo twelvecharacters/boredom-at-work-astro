@@ -1,7 +1,7 @@
 ---
 title: "Kindle Paperwhite vs Kobo Clara BW: Which One to Buy?"
 slug: "kindle-paperwhite-vs-kobo-clara"
-description: "Kindle Paperwhite vs Kobo Clara BW compared — specs, display, ecosystem, library support, and value. A clear recommendation for each type of reader."
+description: "Kindle Paperwhite vs Kobo Clara BW compared, specs, display, ecosystem, library support, and value. A clear recommendation for each type of reader."
 publishDate: 2026-04-02
 updatedDate: 2026-04-05
 author: "bored chap"
@@ -19,14 +19,14 @@ faq:
   - question: "Is the Kobo Clara BW worth it over the Kindle Paperwhite?"
     answer: "If you borrow a lot of library books or prefer EPUB files, yes. Kobo has native OverDrive support and reads EPUBs natively. If you're already in the Amazon ecosystem, the Paperwhite is the better choice."
   - question: "Which has a better screen, Kindle Paperwhite or Kobo Clara?"
-    answer: "Both have 300 PPI E Ink displays, so text sharpness is identical. The Paperwhite has a larger 7-inch Carta 1300 screen vs the Clara's 6-inch Carta 1200 screen. The Kobo Clara BW is black and white only — color is only available in the separate Clara Colour model."
+    answer: "Both have 300 PPI E Ink displays, so text sharpness is identical. The Paperwhite has a larger 7-inch Carta 1300 screen vs the Clara's 6-inch Carta 1200 screen. The Kobo Clara BW is black and white only, color is only available in the separate Clara Colour model."
   - question: "Can I use both Kindle and Kobo without locking into one ecosystem?"
-    answer: "Yes, but it takes effort. You can use Calibre to manage books across both. Some people own both — a Kindle for Amazon purchases and a Kobo for library books and EPUBs."
+    answer: "Yes, but it takes effort. You can use Calibre to manage books across both. Some people own both, a Kindle for Amazon purchases and a Kobo for library books and EPUBs."
 ---
 
 So you've narrowed it down to two e-readers: the Kindle Paperwhite and the Kobo Clara BW. Both cost about the same, both have sharp screens, and both will last you years.
 
-But they're built on very different philosophies. Here's how they actually compare. (For the bigger picture — Kindle vs Kobo as ecosystems — check our [full Kindle vs Kobo comparison](/kindle-vs-kobo/).)
+But they're built on very different philosophies. Here's how they actually compare. (For the bigger picture, Kindle vs Kobo as ecosystems, check our [full Kindle vs Kobo comparison](/kindle-vs-kobo/).)
 
 ---
 
@@ -49,9 +49,9 @@ But they're built on very different philosophies. Here's how they actually compa
 
 ## Design and Build
 
-The Paperwhite grew to 7 inches with the 2024 model — noticeably larger than the Clara's 6 inches. Whether that's a pro or con depends on you. Bigger screen means more text per page and less frequent page turns. But it also means a slightly heavier device (205g vs 174g).
+The Paperwhite grew to 7 inches with the 2024 model, noticeably larger than the Clara's 6 inches. Whether that's a pro or con depends on you. Bigger screen means more text per page and less frequent page turns. But it also means a slightly heavier device (205g vs 174g).
 
-Both feel premium for their price. Both are waterproof (IPX8 — submersible up to 2 meters for 60 minutes). Both charge via USB-C.
+Both feel premium for their price. Both are waterproof (IPX8, submersible up to 2 meters for 60 minutes). Both charge via USB-C.
 
 The Clara is more pocketable. The Paperwhite is more comfortable for long reading sessions. Personally, I prefer the larger screen.
 
@@ -59,9 +59,9 @@ The Clara is more pocketable. The Paperwhite is more comfortable for long readin
 
 At 300 PPI, both screens are equally sharp. Text is crisp on either device, and you won't notice a quality difference reading the same book side by side.
 
-The Paperwhite uses the newer Carta 1300 display, which has marginally better contrast. In practice, the difference is subtle — you'd have to look closely to notice.
+The Paperwhite uses the newer Carta 1300 display, which has marginally better contrast. In practice, the difference is subtle, you'd have to look closely to notice.
 
-The Kobo Clara BW uses a standard E Ink Carta 1200 display — black and white only. It does not have color capability. (Color is available in the separate Kobo Clara Colour model, which uses the Kaleido 3 display.)
+The Kobo Clara BW uses a standard E Ink Carta 1200 display, black and white only. It does not have color capability. (Color is available in the separate Kobo Clara Colour model, which uses the Kaleido 3 display.)
 
 Both have adjustable warm-light frontlights. The Paperwhite's auto-brightness is convenient. Both reduce blue light for nighttime reading.
 
@@ -71,7 +71,7 @@ This is where the real difference lies.
 
 **Kindle** locks you into [Amazon's ecosystem](https://www.amazon.com/kindle-dbs/fd/kcp). You buy books from the Kindle Store, period. The upside: the Kindle Store has the largest ebook selection on the planet, competitive pricing, and Whispersync (syncs your position across devices). If you already have an Amazon account, it just works.
 
-**Kobo** uses the [Kobo Store](https://www.kobo.com/) (owned by Rakuten). The selection is slightly smaller but still massive. Kobo also supports Pocket integration for saving web articles to read on your e-reader — a feature Kindle doesn't have.
+**Kobo** uses the [Kobo Store](https://www.kobo.com/) (owned by Rakuten). The selection is slightly smaller but still massive. Kobo also supports Pocket integration for saving web articles to read on your e-reader, a feature Kindle doesn't have.
 
 Neither ecosystem makes it easy to switch. Books purchased on one platform don't transfer to the other without some effort and Calibre.
 
@@ -81,7 +81,7 @@ Neither ecosystem makes it easy to switch. Books purchased on one platform don't
 
 **Kindle** works with Libby too, but the process is indirect: you borrow in the Libby app on your phone, choose "Send to Kindle," and it arrives on your device. It works, but it's extra steps every time.
 
-If you're a heavy library user, this alone might tip the scale toward Kobo. If you want to maximize [free books on your Kindle](/free-books-kindle/), the extra steps are manageable — but Kobo makes it effortless.
+If you're a heavy library user, this alone might tip the scale toward Kobo. If you want to maximize [free books on your Kindle](/free-books-kindle/), the extra steps are manageable, but Kobo makes it effortless.
 
 ## File Format Support
 
@@ -89,7 +89,7 @@ If you're a heavy library user, this alone might tip the scale toward Kobo. If y
 
 **Kindle:** Reads EPUB (since 2022), MOBI, AZW3, PDF, and DOC. Amazon finally added native EPUB support, which was a major gap for years. You can [sideload EPUBs](/sideload-books-kindle/) via Send to Kindle email or USB.
 
-Kobo still has an edge here — it handles a wider range of formats out of the box. But the gap has narrowed significantly. If you want to go deeper into sideloading and custom readers, check our [Kindle modding guide](/kindle-modding-guide/).
+Kobo still has an edge here, it handles a wider range of formats out of the box. But the gap has narrowed significantly. If you want to go deeper into sideloading and custom readers, check our [Kindle modding guide](/kindle-modding-guide/).
 
 ## Battery Life
 

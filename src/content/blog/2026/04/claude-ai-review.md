@@ -36,7 +36,7 @@ tldr: "Claude is the best AI for writing and analysis. It produces more natural 
 isListicle: false
 ---
 
-I've been using Claude daily for months. Not as a ChatGPT replacement—as a complement.
+I've been using Claude daily for months. Not as a ChatGPT replacement, as a complement.
 
 Here's my honest take: Claude does some things better than any other AI I've used. But it's not trying to do everything. Understanding what Claude is (and isn't) good at will help you decide if it belongs in your toolkit.
 
@@ -46,7 +46,7 @@ Here's my honest take: Claude does some things better than any other AI I've use
 
 Claude is an AI assistant made by [Anthropic](https://anthropic.com), a company founded by former OpenAI researchers. The name comes from Claude Shannon, the father of information theory.
 
-Anthropic's mission is building AI that's "helpful, harmless, and honest." You'll notice this in how Claude responds—it's more cautious and thoughtful than ChatGPT, sometimes to a fault.
+Anthropic's mission is building AI that's "helpful, harmless, and honest." You'll notice this in how Claude responds, it's more cautious and thoughtful than ChatGPT, sometimes to a fault.
 
 **Current models (2026):**
 
@@ -56,7 +56,7 @@ Anthropic's mission is building AI that's "helpful, harmless, and honest." You'l
 | Opus 4.6 | Complex reasoning, analysis | Slower | Pro only |
 | Haiku 4.5 | Quick tasks, high volume | API only |
 
-Most users interact with **Sonnet 4.6**—it's the default and handles most tasks excellently.
+Most users interact with **Sonnet 4.6**,it's the default and handles most tasks excellently.
 
 ---
 
@@ -66,7 +66,7 @@ Most users interact with **Sonnet 4.6**—it's the default and handles most task
 
 This is Claude's killer feature. The writing just sounds more... human.
 
-ChatGPT tends toward a certain "AI voice"—slightly generic, predictable patterns, overuse of certain phrases. Claude's output reads more naturally, with better flow and more varied sentence structure.
+ChatGPT tends toward a certain "AI voice",slightly generic, predictable patterns, overuse of certain phrases. Claude's output reads more naturally, with better flow and more varied sentence structure.
 
 **Especially noticeable in:**
 - Long-form content (articles, reports)
@@ -78,7 +78,7 @@ I write first drafts with Claude, then edit. The editing is lighter than with Ch
 
 ### 2. Long Document Handling
 
-Claude's context window goes up to **1 million tokens** — roughly 750,000 words or multiple books. The standard window is 200K tokens, with 1M available on Pro, Max, Team, and Enterprise plans.
+Claude's context window goes up to **1 million tokens**, roughly 750,000 words or multiple books. The standard window is 200K tokens, with 1M available on Pro, Max, Team, and Enterprise plans.
 
 ChatGPT (GPT-5.4) now offers **272,000 tokens** as standard context. Both have grown significantly, but Claude's 1M option is hard to beat for truly massive documents.
 
@@ -90,7 +90,7 @@ ChatGPT (GPT-5.4) now offers **272,000 tokens** as standard context. Both have g
 
 ### 3. Nuanced Reasoning
 
-Ask Claude to analyze something complex—a business decision, an ethical dilemma, a strategic choice—and you'll often get more thoughtful responses.
+Ask Claude to analyze something complex, a business decision, an ethical dilemma, a strategic choice, and you'll often get more thoughtful responses.
 
 Claude tends to:
 - Consider multiple perspectives
@@ -113,7 +113,7 @@ This matters for:
 
 Both Claude and ChatGPT are excellent for coding. But Claude's explanations are often clearer, and it's better at understanding complex codebases.
 
-Claude also introduced **Artifacts**—a feature that renders code, documents, and visualizations in a separate panel. It's genuinely useful for development work.
+Claude also introduced **Artifacts**,a feature that renders code, documents, and visualizations in a separate panel. It's genuinely useful for development work.
 
 ---
 
@@ -249,7 +249,7 @@ Claude can match the style of documents you upload. Share examples of writing yo
 "Give me 3 different approaches to this email" works better than asking for one perfect version.
 
 ### Iterate, Don't Restart
-"Make it shorter" / "More casual" / "Focus more on X" — Claude handles revision requests well.
+"Make it shorter" / "More casual" / "Focus more on X", Claude handles revision requests well.
 
 ---
 
@@ -270,7 +270,7 @@ Claude can match the style of documents you upload. Share examples of writing yo
 
 Claude is the best AI for writing and analysis. Period.
 
-If you write for work—emails, reports, content, documentation—Claude should be in your toolkit. The quality difference is noticeable.
+If you write for work, emails, reports, content, documentation, Claude should be in your toolkit. The quality difference is noticeable.
 
 But it's not a ChatGPT replacement. No image generation, smaller ecosystem, occasionally slower. Most power users keep both.
 

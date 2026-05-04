@@ -32,7 +32,7 @@ A proxy service acts as your middleman in Japan. Here's how it works:
 3. They receive the item at their warehouse
 4. They ship it to you internationally
 
-Simple concept, but the devil is in the details — and that's where Buyee and Sendico differ significantly.
+Simple concept, but the devil is in the details, and that's where Buyee and Sendico differ significantly.
 
 ## Buyee vs Sendico: Quick Comparison
 
@@ -175,11 +175,11 @@ Choose Sendico if you:
 
 Now that you know how to buy, here are some popular categories (we've compiled a detailed list of the [best Japanese products worth importing](/best-japanese-products-to-import/)):
 
-- **Vintage cameras** — Japan has an incredible secondhand camera market (see our guide to [cheap manual lenses](/cheap-manual-lenses-beginners/) for some great finds)
-- **Anime figures & merchandise** — Often cheaper and more selection than importing through retailers
-- **Japanese stationery** — Pilot pens, Midori notebooks, unique office supplies
-- **Retro video games** — Japanese exclusives and better-condition items
-- **Fashion** — Japanese brands, vintage clothing, unique streetwear
-- **Watches** — Seiko, Citizen, and vintage pieces at great prices
+- **Vintage cameras**, Japan has an incredible secondhand camera market (see our guide to [cheap manual lenses](/cheap-manual-lenses-beginners/) for some great finds)
+- **Anime figures & merchandise**, Often cheaper and more selection than importing through retailers
+- **Japanese stationery**, Pilot pens, Midori notebooks, unique office supplies
+- **Retro video games**, Japanese exclusives and better-condition items
+- **Fashion**, Japanese brands, vintage clothing, unique streetwear
+- **Watches**, Seiko, Citizen, and vintage pieces at great prices
 
-Ready to start your Japan shopping journey? Pick a service, find something interesting, and give it a try. Your bored work hours are about to become a lot more productive — or at least more entertaining.
+Ready to start your Japan shopping journey? Pick a service, find something interesting, and give it a try. Your bored work hours are about to become a lot more productive, or at least more entertaining.

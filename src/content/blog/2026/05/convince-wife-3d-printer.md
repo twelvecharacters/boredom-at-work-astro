@@ -14,7 +14,7 @@ It’s the conversation every tech enthusiast dreads. You’ve spent weeks watch
 
 To you, a 3D printer is a portal to infinite creativity, a miniature factory in your living room. To her, it might look like a noisy, smelly, fire-hazard-adjacent box that produces a never-ending stream of "plastic junk."
 
-If you want to win this argument, you have to stop selling the *machine*. You need to start selling the *value*. This isn't just about another toy; it’s about a fundamental upgrade to your household’s ability to fix, create, and organize. Here is the 1,400-word roadmap to convincing your wife that a 3D printer isn't just a want—it's a household necessity.
+If you want to win this argument, you have to stop selling the *machine*. You need to start selling the *value*. This isn't just about another toy; it’s about a fundamental upgrade to your household’s ability to fix, create, and organize. Here is the 1,400-word roadmap to convincing your wife that a 3D printer isn't just a want, it's a household necessity.
 
 ---
 
@@ -113,7 +113,7 @@ Explain that instead of just scrolling on your phone or playing video games, 3D 
 
 If you’re ready to pop the question, don’t just blurt it out during dinner. Follow this structured approach:
 
-1.  **Seed the Idea (Week 1):** Casually mention a "cool solution" you saw online for a problem she’s currently having (e.g., "I saw someone 3D print a custom clip for those annoying cabinet doors that won't stay shut").
+1.  **Seed the Idea (Week 1):** Casually mention a "cool solution" you saw online for a problem she’s currently having (e.g. "I saw someone 3D print a custom clip for those annoying cabinet doors that won't stay shut").
 2.  **Show the Results (Week 2):** Show her a video of a high-end printer working quietly. Focus on the beauty of the process, not the technical specs.
 3.  **Find Her "Hook" (Week 3):** Find one specific thing she *wants* or *needs* that can only be 3D printed. A specific organizer, a piece of decor, or a fix for a beloved but broken item.
 4.  **The Formal Pitch (Week 4):** Sit down and present the "Household Hero" plan. Show her where it will go, how quiet it will be, and the list of "Day 1" projects that benefit the whole house.
@@ -123,13 +123,13 @@ If you’re ready to pop the question, don’t just blurt it out during dinner. 
 ## FAQ: Spousal Edition
 
 **Q: "Won't it just sit there and collect dust after a month?"**
-A: "Not if I have a project list. I've already found 15 things in the house that I can improve or fix. It’s a tool, like a drill or a sewing machine—you use it when you need a solution."
+A: "Not if I have a project list. I've already found 15 things in the house that I can improve or fix. It’s a tool, like a drill or a sewing machine, you use it when you need a solution."
 
 **Q: "Is it safe?"**
 A: "Modern printers have thermal runaway protection, auto-shutdown features, and are fully enclosed. They are safer than a toaster."
 
 **Q: "What about the cost of the plastic?"**
-A: "A 1kg roll of filament costs about $20 and can print dozens of small items. The running costs are extremely low—it uses less electricity than a lightbulb while printing."
+A: "A 1kg roll of filament costs about $20 and can print dozens of small items. The running costs are extremely low, it uses less electricity than a lightbulb while printing."
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Get Free Books on Kindle: 7 Legit Ways in 2026"
 slug: "free-books-kindle"
-description: "Seven legal ways to get free ebooks on your Kindle — from Libby and Project Gutenberg to Amazon First Reads, Prime Reading, and Standard Ebooks."
+description: "Seven legal ways to get free ebooks on your Kindle, from Libby and Project Gutenberg to Amazon First Reads, Prime Reading, and Standard Ebooks."
 publishDate: 2026-03-31
 author: "bored chap"
 image: "./free-books-kindle.webp"
@@ -41,15 +41,15 @@ Here are seven legit ways to fill your Kindle without spending a dime. (Still de
 
 **What it is:** A free app that lets you borrow ebooks from your local public library and send them directly to your Kindle.
 
-**How to set it up:** Download the [Libby app](https://libbyapp.com/) on your phone, sign in with your library card, find a book, and choose "Send to Kindle." It shows up on your device within minutes. When the loan expires, the book just disappears — no late fees.
+**How to set it up:** Download the [Libby app](https://libbyapp.com/) on your phone, sign in with your library card, find a book, and choose "Send to Kindle." It shows up on your device within minutes. When the loan expires, the book just disappears, no late fees.
 
 **The good:** Completely free, huge selection (depending on your library), and the borrowing experience is seamless. Popular titles might have a waitlist, but you can place holds and get notified.
 
 **The catch:** You need a library card, and selection varies wildly by library system. Big city libraries (New York, LA, Toronto) have enormous catalogs. Smaller systems might be more limited.
 
-**Catalog size:** Depends on your library — large systems have 100,000+ ebook titles.
+**Catalog size:** Depends on your library, large systems have 100,000+ ebook titles.
 
-This is hands down the best free book source for Kindle owners. If you're not using Libby, you're leaving money on the table. (Kobo users have it slightly easier with built-in OverDrive — see our [Kindle vs Kobo breakdown](/kindle-vs-kobo/) for details.)
+This is hands down the best free book source for Kindle owners. If you're not using Libby, you're leaving money on the table. (Kobo users have it slightly easier with built-in OverDrive, see our [Kindle vs Kobo breakdown](/kindle-vs-kobo/) for details.)
 
 ## 2. Project Gutenberg
 
@@ -59,7 +59,7 @@ This is hands down the best free book source for Kindle owners. If you're not us
 
 **The good:** Massive selection of classics, completely free, no sign-up needed.
 
-**The catch:** Only public domain works (mostly pre-1928). Formatting quality varies — some books look great, others need cleanup. If a book looks rough, run it through [Calibre](/kindle-modding-guide/) to reformat it before sending.
+**The catch:** Only public domain works (mostly pre-1928). Formatting quality varies, some books look great, others need cleanup. If a book looks rough, run it through [Calibre](/kindle-modding-guide/) to reformat it before sending.
 
 **Catalog size:** ~70,000 books.
 
@@ -69,7 +69,7 @@ This is hands down the best free book source for Kindle owners. If you're not us
 
 **How to set it up:** Visit Amazon's First Reads page at the beginning of each month. Choose from 6–10 editors' picks across different genres. The book gets added to your Kindle library instantly.
 
-**The good:** These are actual new releases, not obscure titles. You get to keep them forever — they don't expire like library loans.
+**The good:** These are actual new releases, not obscure titles. You get to keep them forever, they don't expire like library loans.
 
 **The catch:** Limited selection (6–10 choices per month). Not every month has something you'll love. Non-Prime members can buy them for ~$2.
 
@@ -83,7 +83,7 @@ This is hands down the best free book source for Kindle owners. If you're not us
 
 **The good:** No extra cost if you have Prime. Includes some popular titles, magazines (like Wired, People), and comics.
 
-**The catch:** Small, rotating catalog. The best titles come and go. You can only borrow 10 at a time — you have to return one to borrow another. Not the same as [Kindle Unlimited](/kindle-unlimited-worth-it/) ($11.99/month), which has 4+ million titles.
+**The catch:** Small, rotating catalog. The best titles come and go. You can only borrow 10 at a time, you have to return one to borrow another. Not the same as [Kindle Unlimited](/kindle-unlimited-worth-it/) ($11.99/month), which has 4+ million titles.
 
 **Catalog size:** ~1,000 rotating titles.
 
@@ -95,13 +95,13 @@ This is hands down the best free book source for Kindle owners. If you're not us
 
 **The good:** Occasionally incredible deals on books that normally cost $10–15. Great for building a library cheaply over time.
 
-**The catch:** It's not free — but at $1–2 per book, it's close enough. The selection is random, so you might go weeks without seeing something you want.
+**The catch:** It's not free, but at $1–2 per book, it's close enough. The selection is random, so you might go weeks without seeing something you want.
 
 **Catalog size:** 5–10 deals per day.
 
 ## 6. Standard Ebooks
 
-**What it is:** A volunteer project that takes public domain books from Project Gutenberg and gives them a serious quality upgrade — professional typography, modern formatting, corrected text, and beautiful cover art.
+**What it is:** A volunteer project that takes public domain books from Project Gutenberg and gives them a serious quality upgrade, professional typography, modern formatting, corrected text, and beautiful cover art.
 
 **How to set it up:** Visit [standardebooks.org](https://standardebooks.org/), download the EPUB, and send it to your Kindle via email. These books look significantly better than raw Gutenberg files.
 
@@ -141,10 +141,10 @@ Amazon accepts EPUB, PDF, DOC, and TXT files. EPUB works best for ebooks. For a 
 
 Here's what I actually use:
 
-- **Libby** for new releases and popular titles — this covers 80% of my reading
-- **Standard Ebooks** for classics — the formatting is just too good to ignore
-- **Kindle Daily Deals** — I check it a few times a week and grab anything interesting under $2
-- **Amazon First Reads** — I pick my two free books each month, even if I don't read them immediately
+- **Libby** for new releases and popular titles, this covers 80% of my reading
+- **Standard Ebooks** for classics, the formatting is just too good to ignore
+- **Kindle Daily Deals**, I check it a few times a week and grab anything interesting under $2
+- **Amazon First Reads**, I pick my two free books each month, even if I don't read them immediately
 
 Between these four sources, I spend maybe $5/month on books total. Not bad for a hobby that used to cost me $30–50/month in paperbacks.
 

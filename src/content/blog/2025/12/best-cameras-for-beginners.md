@@ -1,7 +1,7 @@
 ---
 title: "7 Best Cameras for Beginners in 2026 [Tested & Ranked]"
 slug: "best-cameras-for-beginners"
-description: "Tested 7 beginner cameras from Canon, Nikon, and Sony. Mirrorless vs DSLR compared with real photos — find your perfect first camera."
+description: "Tested 7 beginner cameras from Canon, Nikon, and Sony. Mirrorless vs DSLR compared with real photos, find your perfect first camera."
 publishDate: 2025-12-31
 updatedDate: 2026-04-05
 author: "bored chap"
@@ -64,7 +64,7 @@ Modern autofocus makes photography much easier:
 Your first camera should grow with you:
 - **Manual controls** when you're ready to learn
 - **Interchangeable lenses** for different styles (start with [cheap manual lenses](/cheap-manual-lenses-beginners/) to learn faster)
-- **RAW shooting** for advanced editing later (try [RapidRAW](/rapid-raw-image-editor-guide/) — a free, open-source editor that rivals Lightroom)
+- **RAW shooting** for advanced editing later (try [RapidRAW](/rapid-raw-image-editor-guide/), a free, open-source editor that rivals Lightroom)
 - **Compatible ecosystem** of accessories
 
 ## Mirrorless vs DSLR: Which Should Beginners Choose?
@@ -173,7 +173,7 @@ The Nikon Z50 II improves on the original with better autofocus and a more capab
 
 **Price:** ~$750 with kit lens | **Sensor:** 24.2MP APS-C
 
-*(Discontinued — check used/refurbished availability from dealers like MPB or KEH.)*
+*(Discontinued, check used/refurbished availability from dealers like MPB or KEH.)*
 
 The Sony A6100 may be a few years old, but its autofocus system remains one of the best at any price. For portraits and action, it's hard to beat.
 
@@ -200,7 +200,7 @@ The Sony A6100 may be a few years old, but its autofocus system remains one of t
 
 **Price:** ~$900 with kit lens | **Sensor:** 26.1MP APS-C
 
-*(The X-T30 II has been succeeded by the Fujifilm X-T30 III — check availability, as the X-T30 II may be found discounted or used.)*
+*(The X-T30 II has been succeeded by the Fujifilm X-T30 III, check availability, as the X-T30 II may be found discounted or used.)*
 
 The Fujifilm X-T30 II stands out with its gorgeous color science and classic film simulations. If you love the look of film photography, this is your camera.
 

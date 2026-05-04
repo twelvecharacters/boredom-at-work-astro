@@ -1,7 +1,7 @@
 ---
 title: "Desk Upgrade Guide: Build Your Perfect Home Office"
 slug: "desk-upgrade-guide"
-description: "The complete home office desk upgrade guide — standing desks, ergonomic chairs, monitor arms, and cable management for a productive workspace."
+description: "The complete home office desk upgrade guide, standing desks, ergonomic chairs, monitor arms, and cable management for a productive workspace."
 publishDate: 2026-03-01
 author: "bored chap"
 image: "./desk-upgrade-guide.webp"
@@ -10,15 +10,15 @@ tags: ["Office Setup", "Home Office", "Standing Desks", "Ergonomics", "Hub Page"
 draft: false
 faq:
   - question: "How much does a complete home office setup cost?"
-    answer: "A solid setup costs $800-1,500: standing desk ($500-600), ergonomic chair ($400-600), monitor arm ($40-180), and cable management ($50). Budget setups start around $600. Premium setups with Herman Miller chairs and Ergotron arms run $2,000-3,000. Prioritize the chair first—it affects your health most."
+    answer: "A solid setup costs $800-1,500: standing desk ($500-600), ergonomic chair ($400-600), monitor arm ($40-180), and cable management ($50). Budget setups start around $600. Premium setups with Herman Miller chairs and Ergotron arms run $2,000-3,000. Prioritize the chair first, it affects your health most."
   - question: "What should I upgrade first in my home office?"
     answer: "Upgrade in this order: 1) Chair (biggest health impact), 2) Monitor position (arm or stand), 3) Desk (standing desk if budget allows), 4) Cable management (cosmetic but satisfying). A good chair matters more than a fancy desk. Don't cheap out on what supports your body 8 hours a day."
   - question: "Is a standing desk worth it?"
-    answer: "Yes, if you actually use it. Standing desks help with back pain, energy levels, and posture—but only if you alternate between sitting and standing. Most people stand 2-4 hours per day. If you'll just leave it at sitting height, save the money. The health benefit comes from movement, not standing all day."
+    answer: "Yes, if you actually use it. Standing desks help with back pain, energy levels, and posture, but only if you alternate between sitting and standing. Most people stand 2-4 hours per day. If you'll just leave it at sitting height, save the money. The health benefit comes from movement, not standing all day."
   - question: "What's the best budget home office setup?"
     answer: "Best budget setup (~$600): Branch Duo desk ($549), HON Ignition 2.0 chair ($400), VIVO monitor arm ($40), and basic cable management ($45). This gives you a standing desk, decent ergonomics, and a clean look without breaking the bank. Upgrade the chair first when budget allows."
   - question: "Do I need a standing desk if I have a good chair?"
-    answer: "Not necessarily. A good chair is more important than a standing desk. But if you sit 8+ hours daily, a standing desk adds valuable movement to your day. The combination of good chair + standing desk is ideal. If budget is tight, prioritize the chair—you can add a desk converter later for $150-300."
+    answer: "Not necessarily. A good chair is more important than a standing desk. But if you sit 8+ hours daily, a standing desk adds valuable movement to your day. The combination of good chair + standing desk is ideal. If budget is tight, prioritize the chair, you can add a desk converter later for $150-300."
   - question: "How do I set up an ergonomic workspace?"
     answer: "Key ergonomic settings: Monitor top at eye level (use arm or stand), screen at arm's length (~24 inches), chair height so feet flat on floor, elbows at 90° when typing, lumbar support in lower back curve. Take breaks every 30-60 minutes. No setup is perfect if you sit frozen for 8 hours."
 tldr: "Build your home office in this order: chair first (biggest health impact), then monitor arm, then desk, then cable management. Budget ~$1,000-1,500 for a solid setup. This guide links to detailed buying guides for each component."
@@ -33,15 +33,15 @@ This guide covers everything you need to build a workspace that's comfortable fo
 
 ## How to Use This Guide
 
-This is a **hub page**—a central starting point for your desk upgrade journey.
+This is a **hub page**,a central starting point for your desk upgrade journey.
 
 **If you're starting from scratch:** Read this page for the big picture, then dive into the detailed guides for each component.
 
 **If you know what you need:** Jump directly to the relevant guide:
-- [Best Standing Desks](/best-standing-desks/) — Desk recommendations
-- [Best Office Chairs](/best-office-chairs/) — Chair recommendations
-- [Best Monitor Arms](/best-monitor-arms/) — Monitor positioning
-- [Cable Management Tips](/cable-management-tips/) — Hide the mess
+- [Best Standing Desks](/best-standing-desks/), Desk recommendations
+- [Best Office Chairs](/best-office-chairs/), Chair recommendations
+- [Best Monitor Arms](/best-monitor-arms/), Monitor positioning
+- [Cable Management Tips](/cable-management-tips/), Hide the mess
 
 **If you're on a budget:** Check the Budget Setup section below, or jump straight to our [home office setup budget guide](/home-office-setup-budget-guide/) with complete shopping lists at $500, $1,000, and $2,000.
 
@@ -79,9 +79,9 @@ Your desk is the foundation. In 2026, standing desks have become affordable enou
 
 | Desk | Price | Best For |
 |------|-------|----------|
-| **FlexiSpot E7 Pro** | ~$500 | Best overall — stability + value |
-| **Uplift V2** | ~$599+ | Best customization — 20+ desktop materials |
-| **Branch Duo** | ~$549 | Best budget — includes storage shelf |
+| **FlexiSpot E7 Pro** | ~$500 | Best overall, stability + value |
+| **Uplift V2** | ~$599+ | Best customization, 20+ desktop materials |
+| **Branch Duo** | ~$549 | Best budget, includes storage shelf |
 
 **What to look for:**
 - Dual motors (not single motor)
@@ -113,10 +113,10 @@ Your chair matters more than your desk. You can work at a mediocre desk, but a b
 
 | Chair | Price | Best For |
 |-------|-------|----------|
-| **Branch Ergonomic Chair Pro** | ~$500 | Best value — 14 adjustment points |
-| **Herman Miller Aeron** | ~$1,400+ | Best premium — 12-year warranty, lasts forever |
+| **Branch Ergonomic Chair Pro** | ~$500 | Best value, 14 adjustment points |
+| **Herman Miller Aeron** | ~$1,400+ | Best premium, 12-year warranty, lasts forever |
 | **Secretlab Titan Evo** | ~$550+ | Best for gaming + work |
-| **HON Ignition 2.0** | ~$400 | Best budget — solid ergonomics |
+| **HON Ignition 2.0** | ~$400 | Best budget, solid ergonomics |
 
 **Upgrade order:** If budget is tight, get the chair first. Add the desk later.
 
@@ -126,7 +126,7 @@ Your chair matters more than your desk. You can work at a mediocre desk, but a b
 
 ## Part 3: Monitor Position
 
-Most people put their monitor on its included stand. This is almost always wrong—the screen ends up too low, causing neck strain.
+Most people put their monitor on its included stand. This is almost always wrong, the screen ends up too low, causing neck strain.
 
 ### The Problem with Monitor Stands
 
@@ -148,9 +148,9 @@ A monitor arm lets you:
 
 | Arm | Price | Best For |
 |-----|-------|----------|
-| **Ergotron LX** | ~$179 | Best quality — 10-year warranty |
+| **Ergotron LX** | ~$179 | Best quality, 10-year warranty |
 | **Amazon Basics Premium** | ~$110 | Best mid-range |
-| **VIVO Premium Aluminum** | ~$40 | Best budget — handles most monitors |
+| **VIVO Premium Aluminum** | ~$40 | Best budget, handles most monitors |
 
 **For dual monitors:** VIVO Dual (~$45) or Ergotron LX Dual (~$350)
 
@@ -299,7 +299,7 @@ The chair affects your health more. A great desk with a terrible chair is worse 
 
 ### 2. Skipping the Monitor Arm
 
-"My monitor stand is fine" — it's almost certainly too low. Spend $40 on a basic arm and your neck will thank you.
+"My monitor stand is fine", it's almost certainly too low. Spend $40 on a basic arm and your neck will thank you.
 
 ### 3. Cheaping Out on the Chair
 
@@ -352,7 +352,7 @@ The best gear set up wrong is worse than average gear set up right. Spend 10 min
 
 ## The Bottom Line
 
-Building a great home office doesn't require unlimited budget—it requires smart priorities.
+Building a great home office doesn't require unlimited budget, it requires smart priorities.
 
 **The formula:**
 1. Get a good chair (~$500)

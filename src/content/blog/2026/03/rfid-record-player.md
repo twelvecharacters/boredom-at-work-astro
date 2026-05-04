@@ -31,7 +31,7 @@ The **[RFID Record Player](https://github.com/fatihak/RFID-Record-Player)** is a
 
 In an age where music is an invisible stream of data, we've lost the ritual of choosing an album, placing it on a platter, and moving the needle. This project brings that ritual back.
 
-Each "record" is actually a vinyl-themed coaster with a tiny NTAG213 NFC tag hidden inside. When you place the coaster on the player, an RFID reader identifies the tag and tells Spotify exactly what to play. Pick up the tone arm, drop it on the record, and your room fills with music — just like the real thing, minus the dust and static.
+Each "record" is actually a vinyl-themed coaster with a tiny NTAG213 NFC tag hidden inside. When you place the coaster on the player, an RFID reader identifies the tag and tells Spotify exactly what to play. Pick up the tone arm, drop it on the record, and your room fills with music, just like the real thing, minus the dust and static.
 
 ## How It Works
 
@@ -42,7 +42,7 @@ This isn't just a simple RFID trigger; the project goes the extra mile to simula
 3.  **The Visuals:** A 28BYJ-48 stepper motor spins the platter while the music is playing, giving you that classic spinning-disc aesthetic.
 4.  **The Brains:** A Raspberry Pi Zero 2W handles the logic, connects to the Spotify API, and manages the hardware components.
 
-The entire system runs on Python and communicates with Spotify's Web API via OAuth. When the RFID reader detects a new tag, it looks up the mapped Spotify URI and starts playback on your active device. Lift the tone arm off, and the music pauses — just like a real turntable.
+The entire system runs on Python and communicates with Spotify's Web API via OAuth. When the RFID reader detects a new tag, it looks up the mapped Spotify URI and starts playback on your active device. Lift the tone arm off, and the music pauses, just like a real turntable.
 
 ## Building Your Own
 
@@ -61,7 +61,7 @@ To build this, you'll need a mix of electronics and 3D printing. If you're new t
 | Jumper Wires + Micro USB Cable | Wiring + power | $5-10 |
 | **Total** | | **~$50-70** |
 
-You'll also need to 3D print the enclosure, platter, and tone arm. The STL files are included in the GitHub repo. If you don't own a printer yet, check out our [best 3D printers under $300](/best-3d-printers-under-300/) — any of them will handle this project easily.
+You'll also need to 3D print the enclosure, platter, and tone arm. The STL files are included in the GitHub repo. If you don't own a printer yet, check out our [best 3D printers under $300](/best-3d-printers-under-300/), any of them will handle this project easily.
 
 ### 3D Printing the Parts
 
@@ -90,9 +90,9 @@ Once you've cloned the repo and run the installer, the setup process looks like 
 This is where the project gets really fun. Each coaster becomes an album in your collection:
 
 - **Print custom labels** with album art and stick them on the coasters.
-- **Map tags to playlists** that update automatically — your "Daily Mix" coaster plays something different every day.
+- **Map tags to playlists** that update automatically, your "Daily Mix" coaster plays something different every day.
 - **Create themed coasters** for moods (Focus, Party, Chill) instead of specific albums.
-- **Make gift sets** — a custom coaster mapped to someone's favorite album is an incredibly thoughtful present.
+- **Make gift sets**, a custom coaster mapped to someone's favorite album is an incredibly thoughtful present.
 
 A pack of 50 NTAG213 stickers costs about $10-15 on Amazon, so building a collection of 20+ "records" is surprisingly affordable.
 
@@ -102,7 +102,7 @@ The RFID Record Player hits a sweet spot that's rare in DIY projects:
 
 - **It's achievable.** You can build it in a weekend with basic soldering skills and a 3D printer. No CNC work, no custom PCBs.
 - **It's useful.** Unlike many maker projects that sit on a shelf after the build, this one gets daily use.
-- **It's impressive.** The spinning platter and functional tone arm make it a genuine conversation piece — people who see it always want to try it.
+- **It's impressive.** The spinning platter and functional tone arm make it a genuine conversation piece, people who see it always want to try it.
 - **It's expandable.** Add more coasters anytime. Remap tags when you discover new music. Swap the enclosure design for something that matches your room.
 
 If you've been looking for a project that combines [3D printing](/3d-printing-guide/) with electronics and actually solves a real "problem" (making digital music feel tangible again), this is it.
@@ -111,9 +111,9 @@ If you've been looking for a project that combines [3D printing](/3d-printing-gu
 
 Love the idea of functional 3D printed builds? Here are some related projects:
 
-- **[Sesame Robot Quadruped](/sesame-robot-quadruped/)** — a fully 3D printed walking robot you can build at home.
-- **[OpenSCAD Beginners Guide](/openscad-beginners-guide/)** — learn to design your own parametric parts (like a custom enclosure for this player).
-- **[Best Sites for Free 3D Models](/best-sites-free-3d-models/)** — find more printable project files on Printables, Thingiverse, and others.
+- **[Sesame Robot Quadruped](/sesame-robot-quadruped/)**, a fully 3D printed walking robot you can build at home.
+- **[OpenSCAD Beginners Guide](/openscad-beginners-guide/)**, learn to design your own parametric parts (like a custom enclosure for this player).
+- **[Best Sites for Free 3D Models](/best-sites-free-3d-models/)**, find more printable project files on Printables, Thingiverse, and others.
 
 ## Frequently Asked Questions
 

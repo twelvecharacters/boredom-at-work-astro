@@ -10,16 +10,16 @@ tags: ["AI Tools", "Investing", "Earnings Calls", "ChatGPT", "Finance"]
 draft: false
 faq:
   - question: "Where can I find free earnings call transcripts?"
-    answer: "Seeking Alpha has the largest free collection, covering ~4,500 company calls every earnings season. The Motley Fool covers S&P 500 transcripts for free. You can also check company Investor Relations pages directly — most public companies post transcripts as PDFs. Koyfin's free tier includes 45 days of transcript history for 100,000+ stocks."
+    answer: "Seeking Alpha has the largest free collection, covering ~4,500 company calls every earnings season. The Motley Fool covers S&P 500 transcripts for free. You can also check company Investor Relations pages directly, most public companies post transcripts as PDFs. Koyfin's free tier includes 45 days of transcript history for 100,000+ stocks."
   - question: "Which AI tool is best for analyzing earnings calls?"
-    answer: "Claude is best for single-transcript deep analysis thanks to its 200K token context window — it fits the entire transcript plus supplementary documents. ChatGPT is best for structured extraction with charts. Perplexity is best for quick context with real-time data. For dedicated tools, Fiscal.ai (formerly FinChat) offers institutional-grade earnings analysis starting at $29/month."
+    answer: "Claude is best for single-transcript deep analysis thanks to its 200K token context window, it fits the entire transcript plus supplementary documents. ChatGPT is best for structured extraction with charts. Perplexity is best for quick context with real-time data. For dedicated tools, Fiscal.ai (formerly FinChat) offers institutional-grade earnings analysis starting at $29/month."
   - question: "Can AI detect when a CEO is being evasive during an earnings call?"
-    answer: "Partially. AI can flag vague or deflective language patterns in the Q&A section — like when a CEO pivots away from a direct question or uses qualifiers like 'we believe' instead of citing numbers. But it can't assess tone of voice, body language, or the subtle context an experienced analyst would catch. Use it as a signal, not a conclusion."
+    answer: "Partially. AI can flag vague or deflective language patterns in the Q&A section, like when a CEO pivots away from a direct question or uses qualifiers like 'we believe' instead of citing numbers. But it can't assess tone of voice, body language, or the subtle context an experienced analyst would catch. Use it as a signal, not a conclusion."
   - question: "How accurate is AI earnings call analysis?"
-    answer: "For single-transcript summarization, AI is highly accurate — it reliably extracts revenue figures, guidance, and key themes. Accuracy drops when analyzing multiple transcripts simultaneously or for small-cap companies with limited data. Always cross-check specific numbers against the company's actual SEC filings (10-Q, 10-K) rather than relying solely on AI output."
+    answer: "For single-transcript summarization, AI is highly accurate, it reliably extracts revenue figures, guidance, and key themes. Accuracy drops when analyzing multiple transcripts simultaneously or for small-cap companies with limited data. Always cross-check specific numbers against the company's actual SEC filings (10-Q, 10-K) rather than relying solely on AI output."
 ---
 
-Earnings season means hundreds of companies reporting results in a few weeks. Nobody has time to read every transcript — but AI can summarize them in minutes.
+Earnings season means hundreds of companies reporting results in a few weeks. Nobody has time to read every transcript, but AI can summarize them in minutes.
 
 I've been using [ChatGPT](/chatgpt-guide/), Claude, and Perplexity to analyze earnings calls, and it's become a core part of my research workflow. Here's exactly how.
 
@@ -86,7 +86,7 @@ Upload or paste the transcript, then:
 
 > Analyze this earnings call transcript and provide:
 > 1. Key financial metrics with QoQ and YoY changes
-> 2. Forward guidance summary — what did they guide for next quarter?
+> 2. Forward guidance summary, what did they guide for next quarter?
 > 3. Major risks or concerns raised by analysts
 > 4. Strategic initiatives mentioned
 > 5. Sentiment assessment of management's tone (confident, cautious, defensive)
@@ -106,7 +106,7 @@ If you have transcripts from multiple quarters:
 > 3. Topics that were emphasized this quarter but not last
 > 4. Topics from last quarter that were conspicuously absent
 
-This is where Claude's 200K context window shines — you can upload two full transcripts and get a meaningful comparison.
+This is where Claude's 200K context window shines, you can upload two full transcripts and get a meaningful comparison.
 
 ### Competitor Comparison
 
@@ -156,7 +156,7 @@ For individual investors, Fiscal.ai and Koyfin offer the best value. The enterpr
 Here's my actual workflow when a company I follow reports:
 
 **Day of earnings (5 minutes):**
-1. Check Perplexity: "[Company] Q1 2026 earnings results" — get the headline numbers and market reaction
+1. Check Perplexity: "[Company] Q1 2026 earnings results", get the headline numbers and market reaction
 2. Skim the press release for revenue, EPS, and guidance
 
 **Next morning (15 minutes):**
@@ -189,7 +189,7 @@ Total time: 15-50 minutes depending on how important the company is to me. Witho
 
 ## The Bottom Line
 
-AI turns a 45-minute earnings call transcript into a 5-minute summary with actionable insights. It's not perfect — you need to verify numbers and apply judgment — but it compresses hours of research into minutes.
+AI turns a 45-minute earnings call transcript into a 5-minute summary with actionable insights. It's not perfect, you need to verify numbers and apply judgment, but it compresses hours of research into minutes.
 
 The best part: you can do this during your lunch break, which is exactly the kind of productive boredom we're here for.
 
@@ -197,7 +197,7 @@ The best part: you can do this during your lunch break, which is exactly the kin
 
 ## Try It: Earnings Call Prompt Kit
 
-Paste any earnings call transcript into the tool below and get 5 ready-to-use analysis prompts — pre-filled with the company name, quarter, detected metrics, and key topics. Everything runs in your browser, nothing is sent to any server.
+Paste any earnings call transcript into the tool below and get 5 ready-to-use analysis prompts, pre-filled with the company name, quarter, detected metrics, and key topics. Everything runs in your browser, nothing is sent to any server.
 
 **Related:** Learn how to use AI for [portfolio analysis](/ai-portfolio-analysis-chatgpt/) and see our comparison of [AI vs. traditional stock screeners](/ai-vs-traditional-stock-screeners/). For more AI finance tools, check the [investing tools guide](/investing-tools-guide/).
 

@@ -18,7 +18,7 @@ faq:
     answer: "Japan-exclusive items include regional snacks, vintage electronics, Japanese-market cameras, anime merchandise, traditional crafts like Kumano brushes, and limited-edition collaborations."
 ---
 
-Japan has some of the best shopping in the world — but the really good stuff often doesn't make it overseas. Whether it's vintage cameras at unbeatable prices, limited-edition snacks, or stationery that puts your office supplies to shame, there's a whole world of Japanese products waiting to be discovered.
+Japan has some of the best shopping in the world, but the really good stuff often doesn't make it overseas. Whether it's vintage cameras at unbeatable prices, limited-edition snacks, or stationery that puts your office supplies to shame, there's a whole world of Japanese products waiting to be discovered.
 
 Here are 15 categories worth importing, why they're better from Japan, and what specifically to look for.
 
@@ -46,7 +46,7 @@ Japan was the camera capital of the world, and it shows. The secondhand market i
 - Items are often in better condition due to Japan's culture of careful maintenance
 
 **What to look for:**
-- Canon AE-1, Nikon FM2, Olympus OM-1 — classic beginner cameras
+- Canon AE-1, Nikon FM2, Olympus OM-1, classic beginner cameras
 - Japanese-market versions sometimes have unique features
 - Lenses often cheaper than bodies
 
@@ -64,17 +64,17 @@ If you've ever used a Pilot pen or a Kokuyo notebook, you know Japan takes stati
 - Access to professional-grade supplies
 
 **What to look for:**
-- **Pilot Vanishing Point** — Cheaper than international retail
-- **Tombow Mono Graph** mechanical pencils — Better variety
-- **Midori MD notebooks** — Full range of sizes
-- **Kokuyo Campus notebooks** — Bulk packs
-- **Pentel Orenz Nero** — Hard to find outside Japan
+- **Pilot Vanishing Point**, Cheaper than international retail
+- **Tombow Mono Graph** mechanical pencils, Better variety
+- **Midori MD notebooks**, Full range of sizes
+- **Kokuyo Campus notebooks**, Bulk packs
+- **Pentel Orenz Nero**, Hard to find outside Japan
 
 **Budget:** $10-100 depending on items
 
 ## 3. Japanese Snacks and Kit-Kats
 
-Japan has hundreds of Kit-Kat flavors that never leave the country. Matcha, sake, strawberry cheesecake, sweet potato — the variety is absurd.
+Japan has hundreds of Kit-Kat flavors that never leave the country. Matcha, sake, strawberry cheesecake, sweet potato, the variety is absurd.
 
 **Why buy from Japan:**
 - Regional exclusives only sold in specific prefectures
@@ -102,9 +102,9 @@ Japan is ground zero for anime merchandise. Selection, prices, and availability 
 - Better condition secondhand market
 
 **What to look for:**
-- **Prize figures** — Affordable, high quality
-- **Scale figures** — From manufacturers like Good Smile, Alter, Kotobukiya
-- **Nendoroids** — Cheaper domestically
+- **Prize figures**, Affordable, high quality
+- **Scale figures**, From manufacturers like Good Smile, Alter, Kotobukiya
+- **Nendoroids**, Cheaper domestically
 - **Limited convention exclusives**
 
 **Where to shop:** [Mandarake](https://earth.mandarake.co.jp) (used), [Suruga-ya](https://www.suruga-ya.jp/en/), [AmiAmi](https://www.amiami.com), [Yahoo Auctions](https://auctions.yahoo.co.jp)
@@ -116,16 +116,16 @@ Japan is ground zero for anime merchandise. Selection, prices, and availability 
 Seiko and Citizen make Japan-only models that outclass their international counterparts. The secondhand market is equally impressive.
 
 **Why buy from Japan:**
-- **JDM (Japanese Domestic Market) models** — Better specs, nicer dials
+- **JDM (Japanese Domestic Market) models**, Better specs, nicer dials
 - Vintage Seiko at reasonable prices
 - Access to brands like Orient and Minase
 - Lower prices on new models
 
 **What to look for:**
-- **Seiko Presage** — JDM versions with better dials
-- **Seiko Alpinist** — Japan-exclusive colorways
-- **Grand Seiko** — Slight savings on new models
-- **Vintage King Seiko, Lord Marvel** — Excellent value
+- **Seiko Presage**, JDM versions with better dials
+- **Seiko Alpinist**, Japan-exclusive colorways
+- **Grand Seiko**, Slight savings on new models
+- **Vintage King Seiko, Lord Marvel**, Excellent value
 
 **Budget:** $100-1000+ depending on model
 
@@ -157,11 +157,11 @@ Japanese beauty products have cult followings for good reason. Many top products
 - Access to drugstore gems
 
 **What to look for:**
-- **Hada Labo** lotions — Cult favorites
-- **Biore UV** sunscreens — Best in class
+- **Hada Labo** lotions, Cult favorites
+- **Biore UV** sunscreens, Best in class
 - **DHC** cleansing oil
 - **Shiseido** Japan-only lines
-- **Canmake, Cezanne** — Affordable, high-quality makeup
+- **Canmake, Cezanne**, Affordable, high-quality makeup
 
 **Budget:** $10-100+ depending on products
 
@@ -195,11 +195,11 @@ Japan's traditional crafts are world-class, and buying direct supports artisans 
 - Better selection
 
 **What to look for:**
-- **Kumano brushes** — World's best makeup brushes
-- **Nambu ironware** — Cast iron kettles and pans
-- **Arita/Hasami porcelain** — Beautiful ceramics
-- **Washi paper** — For journaling, crafts
-- **Tenugui** — Traditional cotton towels
+- **Kumano brushes**, World's best makeup brushes
+- **Nambu ironware**, Cast iron kettles and pans
+- **Arita/Hasami porcelain**, Beautiful ceramics
+- **Washi paper**, For journaling, crafts
+- **Tenugui**, Traditional cotton towels
 
 **Budget:** $20-300+ depending on craft
 
@@ -213,11 +213,11 @@ Japanese kitchen tools are legendary. The domestic market has items not exported
 - Better variety of sizes and styles
 
 **What to look for:**
-- **Japanese knives** — Shun, Global, Tojiro at better prices
-- **Mandolines** — Benriner, Kyocera
-- **Rice cookers** — Zojirushi, Tiger (Japanese models have more features)
-- **Cast iron pans** — Iwachu, Oigen
-- **Bento boxes** — Proper Japanese quality
+- **Japanese knives**, Shun, Global, Tojiro at better prices
+- **Mandolines**, Benriner, Kyocera
+- **Rice cookers**, Zojirushi, Tiger (Japanese models have more features)
+- **Cast iron pans**, Iwachu, Oigen
+- **Bento boxes**, Proper Japanese quality
 
 **Budget:** $30-500+ depending on items
 
@@ -232,10 +232,10 @@ From streetwear to heritage brands, Japan's fashion scene offers unique pieces.
 - Unique collaborations
 
 **What to look for:**
-- **Uniqlo Japan exclusives** — Collaborations, special lines
-- **Vintage denim** — Japanese selvedge brands
-- **Streetwear** — BAPE, Neighborhood, WTAPS
-- **Heritage brands** — Kapital, Visvim, Engineered Garments Japan
+- **Uniqlo Japan exclusives**, Collaborations, special lines
+- **Vintage denim**, Japanese selvedge brands
+- **Streetwear**, BAPE, Neighborhood, WTAPS
+- **Heritage brands**, Kapital, Visvim, Engineered Garments Japan
 
 **Budget:** $30-500+ depending on brand
 
@@ -263,7 +263,7 @@ Japanese books, manga, and art books in their original form.
 Japanese-made instruments and Japan-only models offer great value.
 
 **Why buy from Japan:**
-- **Japanese Fender/Gibson** — Made in Japan models
+- **Japanese Fender/Gibson**, Made in Japan models
 - Vintage Japanese guitars (Tokai, Greco, Burny)
 - Yamaha professional instruments
 - Used instruments in excellent condition
@@ -281,10 +281,10 @@ Japan dominates the model kit market. Bandai's Gundam models and Tamiya's scale 
 - Limited edition kits
 
 **What to look for:**
-- **Gunpla** — Master Grade, Real Grade, Perfect Grade
-- **Tamiya** — Military, cars, motorcycles
-- **Hasegawa** — Aircraft
-- **Kotobukiya** — Frame Arms, mecha kits
+- **Gunpla**, Master Grade, Real Grade, Perfect Grade
+- **Tamiya**, Military, cars, motorcycles
+- **Hasegawa**, Aircraft
+- **Kotobukiya**, Frame Arms, mecha kits
 
 **Budget:** $15-300+ depending on grade
 
@@ -313,14 +313,14 @@ New to buying from Japan? Check out our [complete beginner's guide](/how-to-buy-
 
 1. **Pick a category** that interests you
 2. **Set up a proxy service account** (Buyee for beginners, Sendico for budget)
-3. **Research prices** — Check Yahoo Auctions, Mercari, Rakuten
-4. **Start small** — Make your first purchase something inexpensive to learn the process
-5. **Join communities** — Reddit, forums, and Discord servers for your hobby often have Japan shopping tips
+3. **Research prices**, Check Yahoo Auctions, Mercari, Rakuten
+4. **Start small**, Make your first purchase something inexpensive to learn the process
+5. **Join communities**, Reddit, forums, and Discord servers for your hobby often have Japan shopping tips
 
 ## Final Thoughts
 
 Japan's consumer market is incredibly deep. Whatever your hobby or interest, there's probably a Japanese version that's better, cheaper, or simply not available anywhere else.
 
-The shipping costs and proxy fees are worth it when you're getting items at 30-50% below Western prices — or finding things that simply don't exist in your local market.
+The shipping costs and proxy fees are worth it when you're getting items at 30-50% below Western prices, or finding things that simply don't exist in your local market.
 
 Start exploring during your next slow afternoon at work. You might discover your new favorite thing.

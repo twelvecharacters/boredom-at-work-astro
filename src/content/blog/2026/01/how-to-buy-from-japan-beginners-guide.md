@@ -17,7 +17,7 @@ faq:
     answer: "Yes, Japanese sellers have a strong reputation for honesty and careful packaging. Use reputable proxy services and check seller ratings before purchasing."
 ---
 
-So you've discovered that Japan has incredible deals on cameras, anime figures, vintage electronics, or unique stationery — but the websites are all in Japanese and don't ship to your country. Now what?
+So you've discovered that Japan has incredible deals on cameras, anime figures, vintage electronics, or unique stationery, but the websites are all in Japanese and don't ship to your country. Now what?
 
 Don't worry. Buying from Japan is easier than it looks, and this guide will walk you through everything you need to know to make your first purchase.
 
@@ -25,13 +25,13 @@ Don't worry. Buying from Japan is easier than it looks, and this guide will walk
 
 Before we dive into the how, let's talk about the why:
 
-**Better Prices:** Many items are significantly cheaper in Japan, especially used goods. The Japanese secondhand market is exceptional — people take care of their belongings, and you can find near-mint condition items at a fraction of retail prices. Vintage lenses are a prime example: you can pick up legendary glass for under $100 (see our [cheap manual lenses guide](/cheap-manual-lenses-beginners/)).
+**Better Prices:** Many items are significantly cheaper in Japan, especially used goods. The Japanese secondhand market is exceptional, people take care of their belongings, and you can find near-mint condition items at a fraction of retail prices. Vintage lenses are a prime example: you can pick up legendary glass for under $100 (see our [cheap manual lenses guide](/cheap-manual-lenses-beginners/)).
 
 **Exclusive Products:** Japan-only releases, limited editions, and products that never made it to international markets. From vintage cameras to regional Kit-Kat flavors, some things you simply can't get elsewhere.
 
 **Quality Selection:** Japan's culture of meticulous care means even "used" items are often in excellent condition. Sellers accurately describe flaws and package items carefully.
 
-**Unique Finds:** Vintage electronics, retro gaming, traditional crafts, and niche hobbies — Japan has thriving markets for things that are hard to find anywhere else.
+**Unique Finds:** Vintage electronics, retro gaming, traditional crafts, and niche hobbies, Japan has thriving markets for things that are hard to find anywhere else.
 
 ## The Challenge: Most Japanese Sites Don't Ship Internationally
 
@@ -46,10 +46,10 @@ The solution? **Proxy services** and **forwarding services**.
 A proxy service buys items on your behalf. You tell them what to buy, they purchase it, receive it at their warehouse, and ship it to you.
 
 **Popular proxy services:**
-- **Buyee** — Most beginner-friendly, official partnerships with major sites
-- **Sendico** — Lower fees, good for experienced buyers
-- **ZenMarket** — Good balance of features and fees
-- **FromJapan** — Solid alternative with good customer service
+- **Buyee**, Most beginner-friendly, official partnerships with major sites
+- **Sendico**, Lower fees, good for experienced buyers
+- **ZenMarket**, Good balance of features and fees
+- **FromJapan**, Solid alternative with good customer service
 
 Not sure which proxy to use? Check out our [detailed Buyee vs Sendico comparison](/buyee-vs-sendico-japan-proxy/) to find the best fit for your needs.
 
@@ -60,18 +60,18 @@ Not sure which proxy to use? Check out our [detailed Buyee vs Sendico comparison
 A forwarding service gives you a Japanese address. You shop on websites yourself, ship items to that address, and the service forwards packages to you.
 
 **Popular forwarding services:**
-- **Tenso** — Long-established, reliable
-- **Blackship** — Competitive pricing
+- **Tenso**, Long-established, reliable
+- **Blackship**, Competitive pricing
 
 **Best for:** Stores that accept international credit cards but don't ship overseas
 
 ### Option 3: Direct International Shipping
 
 Some Japanese retailers do ship internationally:
-- **Amazon Japan** — Many items ship directly (check the "International Shipping" filter)
-- **CDJapan** — Music, anime, J-pop merchandise
-- **AmiAmi** — Anime figures and collectibles
-- **HLJ (HobbyLink Japan)** — Models, figures, toys
+- **Amazon Japan**, Many items ship directly (check the "International Shipping" filter)
+- **CDJapan**, Music, anime, J-pop merchandise
+- **AmiAmi**, Anime figures and collectibles
+- **HLJ (HobbyLink Japan)**, Models, figures, toys
 
 **Best for:** New products from established retailers
 
@@ -98,10 +98,10 @@ Browse Yahoo Auctions Japan directly, or use Buyee's integrated search.
 ### Step 3: Check the Listing Carefully
 
 Before bidding or buying, review:
-- **Photos** — Look for damage, wear, missing parts
-- **Description** — Use Google Translate; look for keywords like "junk" (ジャンク) which means "for parts"
-- **Seller rating** — Higher is better; avoid sellers with many negative reviews
-- **Shipping within Japan** — Some items have expensive domestic shipping
+- **Photos**, Look for damage, wear, missing parts
+- **Description**, Use Google Translate; look for keywords like "junk" (ジャンク) which means "for parts"
+- **Seller rating**, Higher is better; avoid sellers with many negative reviews
+- **Shipping within Japan**, Some items have expensive domestic shipping
 
 ### Step 4: Place Your Bid or Buy
 
@@ -152,13 +152,13 @@ Depending on shipping method:
 ## Customs and Import Duties
 
 When your package arrives in your country, customs may:
-- **Inspect the package** — Usually just a quick check
-- **Charge import duties** — Based on item value and category
-- **Charge handling fees** — Your postal service may charge a fee to process customs
+- **Inspect the package**, Usually just a quick check
+- **Charge import duties**, Based on item value and category
+- **Charge handling fees**, Your postal service may charge a fee to process customs
 
 **To minimize surprises:**
-- Know your country's duty-free threshold (e.g., $800 in the US, €22-150 in EU)
-- Declare accurate values (don't ask sellers to undervalue — it's illegal and risky)
+- Know your country's duty-free threshold (e.g. $800 in the US, €22-150 in EU)
+- Declare accurate values (don't ask sellers to undervalue, it's illegal and risky)
 - Some categories (electronics, clothing) may have specific duty rates
 
 ## Where to Buy: The Best Japanese Sites
@@ -184,23 +184,23 @@ Familiar interface, some items ship internationally.
 - **How to buy:** Direct (check "International Shipping" filter) or proxy
 
 ### Specialty Stores
-- **Suruga-ya** — Retro games, anime, figures
-- **Hard Off** — Used electronics, instruments, cameras
-- **Mandarake** — Vintage manga, anime collectibles
+- **Suruga-ya**, Retro games, anime, figures
+- **Hard Off**, Used electronics, instruments, cameras
+- **Mandarake**, Vintage manga, anime collectibles
 
 ## Common Mistakes to Avoid
 
-1. **Ignoring seller ratings** — A seller with poor feedback is a red flag, even if the price is great.
+1. **Ignoring seller ratings**, A seller with poor feedback is a red flag, even if the price is great.
 
-2. **Forgetting domestic shipping** — That 1,000 yen item might have 2,000 yen shipping within Japan.
+2. **Forgetting domestic shipping**, That 1,000 yen item might have 2,000 yen shipping within Japan.
 
-3. **Not consolidating packages** — Shipping multiple small packages is way more expensive than one combined shipment.
+3. **Not consolidating packages**, Shipping multiple small packages is way more expensive than one combined shipment.
 
-4. **Choosing the wrong shipping speed** — Express shipping on a cheap item can cost more than the item itself.
+4. **Choosing the wrong shipping speed**, Express shipping on a cheap item can cost more than the item itself.
 
-5. **Underestimating customs** — Budget for potential import duties, especially on expensive items.
+5. **Underestimating customs**, Budget for potential import duties, especially on expensive items.
 
-6. **Bidding without research** — Check completed auctions to see what items actually sell for.
+6. **Bidding without research**, Check completed auctions to see what items actually sell for.
 
 ## Quick Checklist: Before You Buy
 
@@ -216,18 +216,18 @@ Familiar interface, some items ship internationally.
 Not sure what to buy? We've compiled a list of the [best Japanese products worth importing](/best-japanese-products-to-import/) to give you some inspiration.
 
 Start simple. Good first purchases:
-- **Japanese stationery** — Light, cheap, unlikely to be damaged
-- **Small collectibles** — Low value, good to learn the process
-- **Used books or manga** — Affordable, sellers pack them well
+- **Japanese stationery**, Light, cheap, unlikely to be damaged
+- **Small collectibles**, Low value, good to learn the process
+- **Used books or manga**, Affordable, sellers pack them well
 
 Avoid for your first purchase:
-- **Expensive electronics** — Wait until you're comfortable with the process
-- **Fragile items** — Better to start with something that can survive rough handling
-- **Large/heavy items** — Shipping costs can be shocking
+- **Expensive electronics**, Wait until you're comfortable with the process
+- **Fragile items**, Better to start with something that can survive rough handling
+- **Large/heavy items**, Shipping costs can be shocking
 
 ## The Bottom Line
 
-Buying from Japan isn't complicated — it just requires a few extra steps compared to shopping domestically. Once you've done it a few times, the process becomes second nature.
+Buying from Japan isn't complicated, it just requires a few extra steps compared to shopping domestically. Once you've done it a few times, the process becomes second nature.
 
 Start with a small, low-risk purchase to learn the ropes. Use a beginner-friendly proxy like Buyee. Be patient with shipping times. And enjoy access to one of the world's most interesting consumer markets.
 

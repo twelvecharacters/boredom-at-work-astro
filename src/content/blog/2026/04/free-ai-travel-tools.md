@@ -17,7 +17,7 @@ faq:
     answer: "No. You can plan excellent trips using only free tools. Premium features add convenience but aren't necessary for great travel planning."
 ---
 
-Premium AI subscriptions are everywhere—ChatGPT Plus, Claude Pro, paid trip planners. But you don't need to spend $20/month to plan great trips.
+Premium AI subscriptions are everywhere, ChatGPT Plus, Claude Pro, paid trip planners. But you don't need to spend $20/month to plan great trips.
 
 Here's how to use completely free AI tools for budget travel planning.
 
@@ -328,8 +328,8 @@ For occasional travelers, free tools are more than sufficient.
 
 ## Related Articles
 
-- [ChatGPT Mastery Guide](/chatgpt-guide/) — Master free ChatGPT
-- [ChatGPT Alternatives](/chatgpt-alternatives/) — More free options
-- [AI Travel Planning Hub](/ai-travel-planning/) — Complete travel guide
-- [Best AI Trip Planners](/best-ai-trip-planners/) — Compare all tools
-- [AI Tools Guide](/ai-tools-guide/) — All AI tools compared
+- [ChatGPT Mastery Guide](/chatgpt-guide/), Master free ChatGPT
+- [ChatGPT Alternatives](/chatgpt-alternatives/), More free options
+- [AI Travel Planning Hub](/ai-travel-planning/), Complete travel guide
+- [Best AI Trip Planners](/best-ai-trip-planners/), Compare all tools
+- [AI Tools Guide](/ai-tools-guide/), All AI tools compared

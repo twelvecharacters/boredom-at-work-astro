@@ -10,24 +10,24 @@ tags: ["3D Printing", "CAD", "Software", "Tutorial", "OpenSCAD"]
 draft: false
 faq:
   - question: "Is OpenSCAD difficult to learn for someone who has never coded?"
-    answer: "It's more approachable than you'd think. OpenSCAD's language is simple and consistent — there are no variables changing behind your back, no object-oriented hierarchies, and no runtime errors from user input. If you can write a grocery list and understand what 'width', 'height', and 'depth' mean, you can get your first shape printed within an hour."
+    answer: "It's more approachable than you'd think. OpenSCAD's language is simple and consistent, there are no variables changing behind your back, no object-oriented hierarchies, and no runtime errors from user input. If you can write a grocery list and understand what 'width', 'height', and 'depth' mean, you can get your first shape printed within an hour."
   - question: "What file format does OpenSCAD export to?"
-    answer: "OpenSCAD exports to STL (the standard format for 3D printing), as well as OFF, AMF, and 3MF. STL is what you'll use 99% of the time — just open it in your slicer (OrcaSlicer, PrusaSlicer, Cura) and you're ready to print."
+    answer: "OpenSCAD exports to STL (the standard format for 3D printing), as well as OFF, AMF, and 3MF. STL is what you'll use 99% of the time, just open it in your slicer (OrcaSlicer, PrusaSlicer, Cura) and you're ready to print."
   - question: "Can I use OpenSCAD on a Chromebook or work laptop?"
     answer: "OpenSCAD itself requires installation on Windows, macOS, or Linux, so it won't run natively on a Chromebook. However, there is an in-browser version at openscad.net that works surprisingly well for learning and smaller projects."
 ---
 
-Most people get into 3D printing by downloading other people's models from sites like [Printables or Thingiverse](/best-sites-free-3d-models/). That's fine for the first few weeks. But eventually, you want to print *your* thing — a custom wall bracket, a replacement clip, a gift with someone's initials on it.
+Most people get into 3D printing by downloading other people's models from sites like [Printables or Thingiverse](/best-sites-free-3d-models/). That's fine for the first few weeks. But eventually, you want to print *your* thing, a custom wall bracket, a replacement clip, a gift with someone's initials on it.
 
 That's when you hit the wall. Tinkercad feels like building with LEGO bricks (fun, but limited). Fusion 360 feels like learning to fly a plane when you just wanted to ride a bike.
 
 Then there's OpenSCAD.
 
-OpenSCAD is the outlier. It doesn't have a fancy viewport you can drag and click. There are no toolbars. You don't *draw* shapes — you **code** them. And for a specific type of person (the kind bored enough to read about CAD software at their desk), it is the most satisfying tool in the maker's toolkit.
+OpenSCAD is the outlier. It doesn't have a fancy viewport you can drag and click. There are no toolbars. You don't *draw* shapes, you **code** them. And for a specific type of person (the kind bored enough to read about CAD software at their desk), it is the most satisfying tool in the maker's toolkit.
 
 ## What Is OpenSCAD?
 
-OpenSCAD is a free, open-source 3D CAD modeler where models are created entirely through a scripting language. Think of it as programming, but the output isn't an app or a website — it's a physical object you can hold in your hand.
+OpenSCAD is a free, open-source 3D CAD modeler where models are created entirely through a scripting language. Think of it as programming, but the output isn't an app or a website, it's a physical object you can hold in your hand.
 
 The software was created in 2010 by Marius Kintel and is still actively maintained. It's used by engineers, makers, teachers, and hobbyists worldwide. It runs on Windows, macOS, and Linux. It's completely free. And it exports directly to STL, ready for your slicer.
 
@@ -43,7 +43,7 @@ The software was created in 2010 by Marius Kintel and is still actively maintain
 
 ## Why Code Your Models Instead of Drawing Them?
 
-This is a fair question. Every other CAD tool lets you click and drag geometry around a screen — why would you *type* a model into existence?
+This is a fair question. Every other CAD tool lets you click and drag geometry around a screen, why would you *type* a model into existence?
 
 The answer is **parametric design at its simplest**.
 
@@ -87,9 +87,9 @@ The key rule: the transformation always applies to the shape on the **next line*
 
 Here's where OpenSCAD gets powerful. You can combine shapes using three Boolean operations:
 
-- **`union()`** — merge two shapes into one solid
-- **`difference()`** — subtract one shape from another (this is how you make holes)
-- **`intersection()`** — keep only the overlapping part of two shapes
+- **`union()`**, merge two shapes into one solid
+- **`difference()`**, subtract one shape from another (this is how you make holes)
+- **`intersection()`**, keep only the overlapping part of two shapes
 
 ```scad
 difference() {
@@ -116,13 +116,13 @@ difference() {
 }
 ```
 
-Change `wall_thickness = 3` to `wall_thickness = 5` and your entire box updates. Every derived dimension adjusts automatically. This is parametric design — and it took zero menu navigation to achieve.
+Change `wall_thickness = 3` to `wall_thickness = 5` and your entire box updates. Every derived dimension adjusts automatically. This is parametric design, and it took zero menu navigation to achieve.
 
 ---
 
 ## Your First Real Project: A Simple Phone Stand
 
-Let's build something you can actually print. A minimal phone stand — a wedge with a slot cut into it.
+Let's build something you can actually print. A minimal phone stand, a wedge with a slot cut into it.
 
 ```scad
 // --- PARAMETERS ---
@@ -186,19 +186,19 @@ Try changing `stand_width = 80` to `stand_width = 120` for a tablet stand. The s
 | **FreeCAD** | GUI + Sketches | Open-source alt to Fusion | ✅ Manual setup |
 | **Blender** | Mesh sculpting | Organic shapes, art | ❌ Not its purpose |
 
-OpenSCAD isn't better than Fusion 360 — it's different. Fusion 360 excels at complex surface modeling and large assemblies. OpenSCAD excels at **algorithmic, repeatable, math-driven geometry**. Designing a customizable parametric box generator? OpenSCAD wins. Designing an ergonomic mouse housing with curved surfaces? Use Fusion 360.
+OpenSCAD isn't better than Fusion 360, it's different. Fusion 360 excels at complex surface modeling and large assemblies. OpenSCAD excels at **algorithmic, repeatable, math-driven geometry**. Designing a customizable parametric box generator? OpenSCAD wins. Designing an ergonomic mouse housing with curved surfaces? Use Fusion 360.
 
 ---
 
 ## Tips for Working at Your Desk
 
-The beauty of OpenSCAD is that it looks like you're doing serious programming work. The `.scad` file is just a text file. You can work on it in any text editor — including VS Code, which has a solid [OpenSCAD extension](https://marketplace.visualstudio.com/items?itemName=Antyos.openscad) with syntax highlighting and preview integration.
+The beauty of OpenSCAD is that it looks like you're doing serious programming work. The `.scad` file is just a text file. You can work on it in any text editor, including VS Code, which has a solid [OpenSCAD extension](https://marketplace.visualstudio.com/items?itemName=Antyos.openscad) with syntax highlighting and preview integration.
 
 **Three things to do during your next slow meeting:**
 
-1. **Install OpenSCAD** from [openscad.org](https://openscad.org) — it's under 20 MB
-2. **Open the built-in examples** (File → Examples) — they cover almost every concept
-3. **Find a thing to replace:** Look around your desk. A broken pen holder, a loose cable clip, a missing rubber foot on your monitor — model it. (Need inspiration? Check out our [10 practical desk upgrades you can 3D print](/10-practical-desk-upgrades-3d-print/).)
+1. **Install OpenSCAD** from [openscad.org](https://openscad.org), it's under 20 MB
+2. **Open the built-in examples** (File → Examples), they cover almost every concept
+3. **Find a thing to replace:** Look around your desk. A broken pen holder, a loose cable clip, a missing rubber foot on your monitor, model it. (Need inspiration? Check out our [10 practical desk upgrades you can 3D print](/10-practical-desk-upgrades-3d-print/).)
 
 ---
 
@@ -206,8 +206,8 @@ The beauty of OpenSCAD is that it looks like you're doing serious programming wo
 
 Once you're comfortable with the basics, here's what to explore next:
 
-- **`linear_extrude` with `twist`:** Takes a 2D polygon and twists it as it rises — the secret to printing spiral vases and auger screws
-- **The `BOSL2` library:** A community-built library of pre-coded shapes — threads, gears, dovetails, lattices. Import it and you can add a perfectly threaded bolt hole in one line
+- **`linear_extrude` with `twist`:** Takes a 2D polygon and twists it as it rises, the secret to printing spiral vases and auger screws
+- **The `BOSL2` library:** A community-built library of pre-coded shapes, threads, gears, dovetails, lattices. Import it and you can add a perfectly threaded bolt hole in one line
 - **Customizer:** OpenSCAD has a built-in "Customizer" panel. Add special comment annotations to your variables and OpenSCAD generates a sliders-and-dropdowns UI. It's how Thingiverse "Customizable" models are built
 - **Recursive modules:** You can call a module from within itself. This is how OpenSCAD creates fractals, branching structures, and interlocking chain links
 
@@ -225,13 +225,13 @@ Use the [BOSL2 library](https://github.com/BelfrySCAD/BOSL2). After installing i
 
 ### 3. Can I import existing STL files into OpenSCAD?
 
-Yes, with `import("myfile.stl")`. You can then use it in Boolean operations — useful for adding features to a downloaded base model. The imported geometry isn't editable, but you can cut into it or add onto it.
+Yes, with `import("myfile.stl")`. You can then use it in Boolean operations, useful for adding features to a downloaded base model. The imported geometry isn't editable, but you can cut into it or add onto it.
 
 ---
 
 ## Conclusion: The Programmer's CAD Tool
 
-OpenSCAD is niche by design. It will never have the slick UI of Fusion 360 or the brand recognition of Tinkercad. But for people who think in systems, love the feeling of a model updating when they change a single number, and want their designs to live in a text file they can commit to Git — there is nothing better.
+OpenSCAD is niche by design. It will never have the slick UI of Fusion 360 or the brand recognition of Tinkercad. But for people who think in systems, love the feeling of a model updating when they change a single number, and want their designs to live in a text file they can commit to Git, there is nothing better.
 
 It's also the kind of skill that sounds impressive when you explain it: *"I write code that generates 3D geometry."*
 

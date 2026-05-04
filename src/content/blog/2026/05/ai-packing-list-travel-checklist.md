@@ -348,7 +348,7 @@ Once AI generates your list, transfer it to a packing app for easy checking:
 - **Packr** - Beautiful interface
 - **TripIt** - Integrates with itinerary
 
-Or just screenshot the AI list—whatever works for you.
+Or just screenshot the AI list, whatever works for you.
 
 ---
 

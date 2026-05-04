@@ -18,7 +18,7 @@ softwareApp:
   category: "BusinessApplication"
   priceRange: "Free–$20/month"
   url: "https://chatgpt.com"
-tldr: "ChatGPT Plus ($20/month) gives you GPT-5.2 access, image generation with DALL-E, video with Sora, and priority speed. Free users get limited GPT-5.2 and GPT-4o access. Worth it if you use ChatGPT daily for work — skip it for casual use."
+tldr: "ChatGPT Plus ($20/month) gives you GPT-5.2 access, image generation with DALL-E, video with Sora, and priority speed. Free users get limited GPT-5.2 and GPT-4o access. Worth it if you use ChatGPT daily for work, skip it for casual use."
 faq:
   - question: "Is ChatGPT Plus worth $20 a month?"
     answer: "Yes, if you use ChatGPT daily for work. You get full GPT-5.2 access, DALL-E image generation, Sora video, and priority during peak hours. For casual or occasional use, the Free tier is sufficient."
@@ -30,7 +30,7 @@ faq:
 
 Everyone's talking about ChatGPT, but should you actually pay $20/month for Plus?
 
-I've used both tiers extensively for work — writing, research, coding, and general productivity. Here's my honest take on whether the upgrade is worth it in 2026.
+I've used both tiers extensively for work, writing, research, coding, and general productivity. Here's my honest take on whether the upgrade is worth it in 2026.
 
 ## Watch the Video Version
 
@@ -91,17 +91,17 @@ Now let's break down what each of these actually means.
 The Free tier is surprisingly capable in 2026. OpenAI has been generous:
 
 ### Full Features (No Limits):
-- **GPT-4o-mini** — The smaller, faster model (unlimited)
-- **Web browsing** — Search the internet for current info
-- **File uploads** — PDFs, documents, images
-- **Code interpreter** — Run Python code
-- **Memory** — ChatGPT remembers your preferences
-- **Mobile app** — Full iOS and Android apps
+- **GPT-4o-mini**, The smaller, faster model (unlimited)
+- **Web browsing**, Search the internet for current info
+- **File uploads**, PDFs, documents, images
+- **Code interpreter**, Run Python code
+- **Memory**, ChatGPT remembers your preferences
+- **Mobile app**, Full iOS and Android apps
 
 ### Limited Access:
-- **GPT-5.2** — The flagship model (limited messages per day)
-- **GPT-4o** — Fast, capable model (limited messages)
-- **Custom GPTs** — Can use them, can't create them
+- **GPT-5.2**, The flagship model (limited messages per day)
+- **GPT-4o**, Fast, capable model (limited messages)
+- **Custom GPTs**, Can use them, can't create them
 
 ### Not Included:
 - ❌ DALL-E image generation
@@ -130,9 +130,9 @@ When you hit limits, you're switched to GPT-4o-mini. It's still useful, but noti
 Plus removes most friction and adds powerful features:
 
 ### Removed Limits:
-- **Much higher message caps** — Rarely hit limits with normal use
-- **Priority access** — Works smoothly even during peak hours
-- **Faster responses** — Noticeable speed difference
+- **Much higher message caps**, Rarely hit limits with normal use
+- **Priority access**, Works smoothly even during peak hours
+- **Faster responses**, Noticeable speed difference
 
 ### Added Features:
 
@@ -349,7 +349,7 @@ My recommendation:
 3. If it happens more than twice per week, upgrade
 4. If it rarely happens, stay on Free
 
-You can cancel Plus anytime — there's no commitment.
+You can cancel Plus anytime, there's no commitment.
 
 ---
 
@@ -368,9 +368,9 @@ Save your GPT-5.2/GPT-4o messages for complex tasks. Use GPT-4o-mini for:
 Limits reset at different intervals. Space out your GPT-5.2 queries throughout the day rather than burning through them all at once.
 
 ### 3. Combine with Other Free Tools
-- **Perplexity Free** — For research (web search is excellent)
-- **Claude Free** — For writing (often better quality)
-- **Bing Image Creator** — For image generation (uses DALL-E)
+- **Perplexity Free**, For research (web search is excellent)
+- **Claude Free**, For writing (often better quality)
+- **Bing Image Creator**, For image generation (uses DALL-E)
 
 ### 4. Be Specific in Prompts
 Better prompts = fewer follow-ups = fewer messages used. [Learn prompt engineering basics](/prompt-engineering-afternoon/).
@@ -402,8 +402,8 @@ But if you're unsure, start with Free. You'll know quickly if you need more.
 
 ## Related Articles
 
-- [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything you need to know about ChatGPT
-- [ChatGPT Tutorial for Beginners](/chatgpt-tutorial-beginners/) — Start here if you're new
-- [ChatGPT Custom Instructions](/chatgpt-custom-instructions/) — Get better responses automatically
-- [Claude vs ChatGPT](/claude-vs-chatgpt/) — Compare the top AI assistants
-- [AI Tools Guide](/ai-tools-guide/) — All AI tools for work compared
+- [ChatGPT Mastery Guide](/chatgpt-guide/), Everything you need to know about ChatGPT
+- [ChatGPT Tutorial for Beginners](/chatgpt-tutorial-beginners/), Start here if you're new
+- [ChatGPT Custom Instructions](/chatgpt-custom-instructions/), Get better responses automatically
+- [Claude vs ChatGPT](/claude-vs-chatgpt/), Compare the top AI assistants
+- [AI Tools Guide](/ai-tools-guide/), All AI tools for work compared

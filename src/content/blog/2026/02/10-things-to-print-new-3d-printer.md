@@ -1,7 +1,7 @@
 ---
 title: "10 Things You Should 3D Print First (New Printer)"
 slug: "10-things-to-print-new-3d-printer"
-description: "Just unboxed your first 3D printer? Skip the dust-collectors — here are 10 functional prints that upgrade your desk and workflow."
+description: "Just unboxed your first 3D printer? Skip the dust-collectors, here are 10 functional prints that upgrade your desk and workflow."
 publishDate: 2026-02-12
 author: "bored chap"
 image: "./10-things-to-3d-print-first.webp"
@@ -22,7 +22,7 @@ So, you’ve finally done it. You unboxed the machine, peeled off the satisfying
 
 The temptation is to head to Thingiverse and download a giant articulated dragon or a high-detail statue of a video game character. **Don't do it.**
 
-If you want to justify this purchase (especially if you're trying to prove to yourself or your partner that this isn't just a "toy"), start with **functional prints**. The best thing about 3D printing isn't making plastic knick-knacks; it's the ability to solve annoying problems in your daily life—specifically at your desk.
+If you want to justify this purchase (especially if you're trying to prove to yourself or your partner that this isn't just a "toy"), start with **functional prints**. The best thing about 3D printing isn't making plastic knick-knacks; it's the ability to solve annoying problems in your daily life, specifically at your desk.
 
 Here are 10 essential prints every new 3D printer owner should queue up in their first week.
 
@@ -128,7 +128,7 @@ Need more room for your keyboard or notebook? 3D print custom legs for a small s
 ## 7. Custom Drawer Dividers
 Generic drawer organizers never fit perfectly. 
 - **The Stealth Move:** Measure your desk drawer at work and print custom "bins" that fit exactly. 
-- **What to store:** Paperclips, extra pens, your fidget spinner—everything has a place.
+- **What to store:** Paperclips, extra pens, your fidget spinner, everything has a place.
 
 ## 8. Ergonomic Tool Handles
 Do you have a cheap screwdriver or a hex key that hurts your hand?

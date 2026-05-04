@@ -1,6 +1,6 @@
 ---
 title: "Best AI Trip Planners 2026: 8 Tools Compared"
-description: "We tested the top AI trip planners to find the best one for your travel style. Mindtrip, Wanderlog, Layla, and more—here's our honest ranking."
+description: "We tested the top AI trip planners to find the best one for your travel style. Mindtrip, Wanderlog, Layla, and more, here's our honest ranking."
 publishDate: 2026-04-15
 author: "bored chap"
 image: "./best-ai-trip-planners.webp"
@@ -103,7 +103,7 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 
 **Price**: Free / $20 per month for Plus.
 
-**Our take**: ChatGPT isn't a trip planner—it's a planning assistant. Combined with dedicated tools, it's incredibly powerful. Alone, it requires more work.
+**Our take**: ChatGPT isn't a trip planner, it's a planning assistant. Combined with dedicated tools, it's incredibly powerful. Alone, it requires more work.
 
 **Related**: [ChatGPT Travel Prompts That Work](/chatgpt-travel-planning-prompts/)
 
@@ -128,7 +128,7 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 
 **Price**: Free.
 
-**Our take**: Gemini's real-time knowledge is a huge advantage, but it lacks the polish of dedicated trip planners. **Deep dive:** [Gemini for Travel Planning](/gemini-travel-planning/) — our complete guide.
+**Our take**: Gemini's real-time knowledge is a huge advantage, but it lacks the polish of dedicated trip planners. **Deep dive:** [Gemini for Travel Planning](/gemini-travel-planning/), our complete guide.
 
 ---
 
@@ -237,7 +237,7 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 
 ## Special Needs: Dietary Restrictions
 
-If you have celiac disease, food allergies, or specific dietary needs, AI tools can help—but some are better than others.
+If you have celiac disease, food allergies, or specific dietary needs, AI tools can help, but some are better than others.
 
 **Best for dietary research:**
 - **Perplexity** - Can find recent experiences from people with your exact condition
@@ -253,9 +253,9 @@ Create phrases in the local language to explain my needs.
 ```
 
 **Real trip reports with dietary restrictions:**
-- [My Malaysia Trip with ChatGPT](/chatgpt-malaysia-trip-planning/) — 2 weeks, gluten-free, zero issues
-- [AI-Planned London Weekend](/ai-planned-london-weekend/) — Clawd.bot found 3 celiac-safe restaurants
-- [Claude-Planned Dubai Trip](/claude-planned-dubai-trip/) — 3 days, filmed hands-free with [Ray-Ban Meta smart glasses](/ray-ban-meta-review/)
+- [My Malaysia Trip with ChatGPT](/chatgpt-malaysia-trip-planning/), 2 weeks, gluten-free, zero issues
+- [AI-Planned London Weekend](/ai-planned-london-weekend/), Clawd.bot found 3 celiac-safe restaurants
+- [Claude-Planned Dubai Trip](/claude-planned-dubai-trip/), 3 days, filmed hands-free with [Ray-Ban Meta smart glasses](/ray-ban-meta-review/)
 
 ---
 
@@ -275,11 +275,11 @@ This hybrid approach gives you AI creativity plus real-world accuracy.
 
 ## Related Articles
 
-- [AI Tools Guide](/ai-tools-guide/) — All AI tools for work compared
-- [ChatGPT Mastery Guide](/chatgpt-guide/) — Master the #1 AI assistant
-- [AI Travel Planning Hub](/ai-travel-planning/) — Complete travel guide
-- [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/) — 19 prompts that work
-- [Perplexity for Travel Research](/perplexity-travel-research/) — Real-time search for trip planning
-- [Claude vs ChatGPT for Travel](/claude-vs-chatgpt-travel-planning/) — Head-to-head comparison
-- [Free AI Travel Tools](/free-ai-travel-tools/) — All free options
-- [Perplexity AI Guide](/perplexity-ai-guide/) — Best for research
+- [AI Tools Guide](/ai-tools-guide/), All AI tools for work compared
+- [ChatGPT Mastery Guide](/chatgpt-guide/), Master the #1 AI assistant
+- [AI Travel Planning Hub](/ai-travel-planning/), Complete travel guide
+- [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/), 19 prompts that work
+- [Perplexity for Travel Research](/perplexity-travel-research/), Real-time search for trip planning
+- [Claude vs ChatGPT for Travel](/claude-vs-chatgpt-travel-planning/), Head-to-head comparison
+- [Free AI Travel Tools](/free-ai-travel-tools/), All free options
+- [Perplexity AI Guide](/perplexity-ai-guide/), Best for research

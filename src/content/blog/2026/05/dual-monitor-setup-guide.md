@@ -16,7 +16,7 @@ howToSchema:
     - name: "Check your ports and cables"
       text: "Identify the video output ports on your laptop or desktop (HDMI, DisplayPort, USB-C/Thunderbolt) and the input ports on each monitor. Get the right cables or adapters. For laptops, a USB-C docking station simplifies everything to one cable."
     - name: "Connect both monitors"
-      text: "Plug in both monitors using the appropriate cables. For a laptop, connect via a docking station or use one USB-C/Thunderbolt port and one HDMI/DisplayPort. For a desktop, use separate outputs from your GPU — not the motherboard ports if you have a dedicated graphics card."
+      text: "Plug in both monitors using the appropriate cables. For a laptop, connect via a docking station or use one USB-C/Thunderbolt port and one HDMI/DisplayPort. For a desktop, use separate outputs from your GPU, not the motherboard ports if you have a dedicated graphics card."
     - name: "Configure display settings"
       text: "On Windows: Settings > System > Display. On Mac: System Settings > Displays. Arrange monitors to match their physical position, set resolution to native, and choose whether to extend or mirror (extend is correct for dual monitors)."
     - name: "Position monitors ergonomically"
@@ -25,16 +25,16 @@ howToSchema:
       text: "Designate your main monitor as the primary display (this is where apps open by default and where your taskbar/dock lives). On Windows, you can choose to show the taskbar on all displays or just the primary. On Mac, the menu bar stays on the primary display."
 faq:
   - question: "Do I need a special graphics card for dual monitors?"
-    answer: "For office work, no. Any modern laptop or desktop GPU can drive two monitors at 1080p or 1440p without issue. For dual 4K monitors, you need a GPU that supports two 4K outputs — most laptops from 2022+ and any discrete desktop GPU handle this. Integrated Intel Iris Xe and Apple Silicon chips support dual external displays natively. The exception: M1/M2 base MacBooks only support one external display without a workaround like DisplayLink."
+    answer: "For office work, no. Any modern laptop or desktop GPU can drive two monitors at 1080p or 1440p without issue. For dual 4K monitors, you need a GPU that supports two 4K outputs, most laptops from 2022+ and any discrete desktop GPU handle this. Integrated Intel Iris Xe and Apple Silicon chips support dual external displays natively. The exception: M1/M2 base MacBooks only support one external display without a workaround like DisplayLink."
   - question: "Is dual monitors better than one ultrawide?"
     answer: "Both have advantages. Dual monitors let you dedicate each screen to a task (email on one, work on the other) and are cheaper if you already own one monitor. Ultrawides eliminate the bezel gap, look cleaner, and are better for wide spreadsheets or video editing. Dual monitors win on flexibility and multitasking. Ultrawides win on aesthetics and immersion. For most office workers, dual monitors offer more practical value."
   - question: "Can I use two different sized monitors for a dual setup?"
-    answer: "Yes, but match the height if possible. A 27-inch and 24-inch monitor work fine together — just adjust the smaller one's stand or use a monitor arm to align the top edges. Mixing resolutions (e.g., 4K + 1080p) works but text will look noticeably different between screens. For the best experience, two identical monitors eliminate all these quirks."
+    answer: "Yes, but match the height if possible. A 27-inch and 24-inch monitor work fine together, just adjust the smaller one's stand or use a monitor arm to align the top edges. Mixing resolutions (e.g. 4K + 1080p) works but text will look noticeably different between screens. For the best experience, two identical monitors eliminate all these quirks."
 ---
 
 You have one monitor. You've seen people with two. You want two. But you're not sure how to actually set it up without buying the wrong cables, getting a headache in Display Settings, or ending up with two screens at wildly different heights.
 
-Good news: a dual monitor setup is one of the easiest and highest-impact upgrades in the [desk upgrade guide](/desk-upgrade-guide/). It takes about 30 minutes, costs nothing if you already have a second monitor, and the productivity bump is immediate — no more alt-tabbing between 47 browser tabs.
+Good news: a dual monitor setup is one of the easiest and highest-impact upgrades in the [desk upgrade guide](/desk-upgrade-guide/). It takes about 30 minutes, costs nothing if you already have a second monitor, and the productivity bump is immediate, no more alt-tabbing between 47 browser tabs.
 
 Here's everything you need to set it up correctly the first time.
 
@@ -62,7 +62,7 @@ Before buying anything, look at what you already have.
 | Port | Looks Like | Supports Video? | Notes |
 |------|-----------|----------------|-------|
 | **HDMI** | Wide trapezoid | Yes | Most common, easy |
-| **USB-C / Thunderbolt** | Small oval | Usually | Check specs — not all USB-C ports carry video |
+| **USB-C / Thunderbolt** | Small oval | Usually | Check specs, not all USB-C ports carry video |
 | **Mini DisplayPort** | Small rectangle | Yes | Common on older MacBooks and Surface devices |
 | **DisplayPort** | Rectangle with one cut corner | Yes | Rare on laptops, common on desktops |
 
@@ -72,7 +72,7 @@ Before buying anything, look at what you already have.
 
 ### Desktop Ports
 
-Look at the **back of your GPU** (the graphics card), not the motherboard. If you have a dedicated GPU, use its ports exclusively — using motherboard ports alongside GPU ports can cause issues.
+Look at the **back of your GPU** (the graphics card), not the motherboard. If you have a dedicated GPU, use its ports exclusively, using motherboard ports alongside GPU ports can cause issues.
 
 Most desktop GPUs have:
 - 1-3x DisplayPort
@@ -90,7 +90,7 @@ Two [DisplayPort](https://www.displayport.org) cables give you the best quality 
 | Laptop with 2 USB-C ports | USB-C to monitor | USB-C to monitor |
 | Laptop with 1 USB-C port | USB-C dock | Dock outputs to both monitors |
 
-**Budget cables work fine for office use.** You don't need $30 "premium" HDMI cables — a $7 Amazon Basics cable does the same thing. Just make sure the cable matches the resolution you need:
+**Budget cables work fine for office use.** You don't need $30 "premium" HDMI cables, a $7 Amazon Basics cable does the same thing. Just make sure the cable matches the resolution you need:
 - 1080p: Any HDMI or DisplayPort cable
 - 1440p: HDMI 1.4+ or DisplayPort 1.2+
 - 4K: HDMI 2.0+ or DisplayPort 1.4+
@@ -110,7 +110,7 @@ Two [DisplayPort](https://www.displayport.org) cables give you the best quality 
 1. Connect the [docking station](/best-usb-c-docking-stations/) to your laptop via USB-C/Thunderbolt
 2. Connect Monitor 1 to the dock's HDMI output
 3. Connect Monitor 2 to the dock's DisplayPort output (or second HDMI)
-4. Your laptop charges through the dock too — one cable does everything
+4. Your laptop charges through the dock too, one cable does everything
 
 **Option C: Monitor daisy-chaining (DisplayPort)**
 Some monitors with DisplayPort 1.2+ output support daisy-chaining: Laptop → Monitor 1 → Monitor 2. Check your monitor's specs for "DisplayPort Out" or "MST" ([Multi-Stream Transport](https://www.vesa.org/featured-articles/vesa-displayport-multistream-transport-mst-update/)). This avoids needing two cables from your laptop.
@@ -159,16 +159,16 @@ Here's the annoying part:
 
 1. System Settings → **Displays**
 2. Click **Arrange** to drag monitor positions
-3. The monitor with the white bar at the top is your primary display — drag the bar to switch
+3. The monitor with the white bar at the top is your primary display, drag the bar to switch
 4. Set resolution: "Default for display" or "Scaled" if you want more space
 5. Color profile: Leave at default unless you do design work
 
 ### Useful Settings Most People Miss
 
-- **Windows: Snap Layouts (Win + Z)** — Snap windows into preset layouts on each monitor
-- **Windows: Virtual desktops (Win + Tab)** — Create separate desktop environments across both screens
-- **macOS: Mission Control** — Swipe up with three fingers to see all windows across both displays
-- **Both: Mouse cursor speed** — You may need to increase cursor speed since you're covering twice the screen real estate
+- **Windows: Snap Layouts (Win + Z)**, Snap windows into preset layouts on each monitor
+- **Windows: Virtual desktops (Win + Tab)**, Create separate desktop environments across both screens
+- **macOS: Mission Control**, Swipe up with three fingers to see all windows across both displays
+- **Both: Mouse cursor speed**, You may need to increase cursor speed since you're covering twice the screen real estate
 
 ---
 
@@ -181,7 +181,7 @@ This is where most dual-monitor setups go wrong. Two monitors at the wrong heigh
 **If you use both monitors equally (50/50):**
 - Place both monitors side by side, centered on your body
 - The inner edges should touch (or be as close as possible)
-- You'll naturally look slightly left and right — that's fine
+- You'll naturally look slightly left and right, that's fine
 - Angle each monitor ~15° inward so you face them head-on when turning
 
 **If you have a primary monitor (70/30 or 80/20):**
@@ -197,9 +197,9 @@ This is where most dual-monitor setups go wrong. Two monitors at the wrong heigh
 | **Screen height** | Top of screen at or slightly below eye level |
 | **Distance** | Arm's length (~20-26 inches) |
 | **Tilt** | Slight backward tilt (10-20°) |
-| **Both monitors** | Same height — use a [monitor arm](/best-monitor-arms/) or stack of books |
+| **Both monitors** | Same height, use a [monitor arm](/best-monitor-arms/) or stack of books |
 
-**The biggest mistake:** One monitor at the right height and one sitting on its stand 3 inches lower. Your neck will hate you within a week. A dual [monitor arm](/best-monitor-arms/) fixes this — both screens float at the exact same height, and you reclaim the desk space under them.
+**The biggest mistake:** One monitor at the right height and one sitting on its stand 3 inches lower. Your neck will hate you within a week. A dual [monitor arm](/best-monitor-arms/) fixes this, both screens float at the exact same height, and you reclaim the desk space under them.
 
 ### Recommended Dual Monitor Arms
 
@@ -258,11 +258,11 @@ Having two monitors is one thing. Using them well is another.
 
 ### "My second monitor isn't detected"
 
-1. Check the cable connection — reseat both ends
+1. Check the cable connection, reseat both ends
 2. Make sure the monitor is on the correct input (HDMI 1 vs HDMI 2)
 3. Windows: Settings → Display → "Detect" button
 4. macOS: System Settings → Displays → hold Option key, click "Detect Displays"
-5. Try a different cable — bad cables are more common than you'd think
+5. Try a different cable, bad cables are more common than you'd think
 6. Update your GPU drivers (Windows: Device Manager → Display Adapters → Update)
 
 ### "The resolution looks wrong"
@@ -285,7 +285,7 @@ Having two monitors is one thing. Using them well is another.
 
 ### "My laptop gets hot with two monitors"
 
-- Expected — driving external displays uses more GPU power
+- Expected, driving external displays uses more GPU power
 - Make sure vents aren't blocked
 - A [laptop stand](/best-laptop-stands/) improves airflow significantly
 - Close unnecessary apps and browser tabs
@@ -327,10 +327,10 @@ Having two monitors is one thing. Using them well is another.
 
 Yes. Next question.
 
-Seriously though — a dual monitor setup is the highest ROI desk upgrade after a good chair. You'll alt-tab less, multitask better, and wonder how you ever worked on one screen. The setup takes 30 minutes, the cables cost less than lunch, and the productivity gain is noticeable from day one.
+Seriously though, a dual monitor setup is the highest ROI desk upgrade after a good chair. You'll alt-tab less, multitask better, and wonder how you ever worked on one screen. The setup takes 30 minutes, the cables cost less than lunch, and the productivity gain is noticeable from day one.
 
 Now go set up your second monitor. Your future self will thank you.
 
 Not sure if you should go dual or ultrawide? Read our [ultrawide vs dual monitors comparison](/ultrawide-vs-dual-monitors/) for a detailed breakdown by work type.
 
-**More desk upgrades:** Check the [complete desk upgrade guide](/desk-upgrade-guide/) for the full home office roadmap — chairs, desks, monitor arms, [cable management](/cable-management-tips/), and everything else.
+**More desk upgrades:** Check the [complete desk upgrade guide](/desk-upgrade-guide/) for the full home office roadmap, chairs, desks, monitor arms, [cable management](/cable-management-tips/), and everything else.

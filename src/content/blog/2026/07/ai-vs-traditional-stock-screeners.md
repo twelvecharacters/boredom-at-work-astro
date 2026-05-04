@@ -12,16 +12,16 @@ faq:
   - question: "Can ChatGPT replace a stock screener like Finviz?"
     answer: "Not entirely. ChatGPT is great for natural language queries and qualitative analysis, but it doesn't have real-time market data and can hallucinate numbers. Traditional screeners give you deterministic, reproducible results with live data. The best approach is using both: AI for discovery and frameworks, traditional screeners for precise filtering."
   - question: "Is Perplexity's stock screener any good?"
-    answer: "Yes — it's surprisingly capable for a free tool. Perplexity Finance has a built-in screener that pulls from 40+ live data sources including FactSet and S&P Global. You can ask natural language questions like 'show me SaaS companies with 30%+ revenue growth' and get real results with citations. It's not as granular as Finviz Elite, but it's free and great for discovery."
+    answer: "Yes, it's surprisingly capable for a free tool. Perplexity Finance has a built-in screener that pulls from 40+ live data sources including FactSet and S&P Global. You can ask natural language questions like 'show me SaaS companies with 30%+ revenue growth' and get real results with citations. It's not as granular as Finviz Elite, but it's free and great for discovery."
   - question: "What's the best free stock screener in 2026?"
-    answer: "Finviz (free tier) for traditional screening with 67 filters. Perplexity Finance for AI-powered natural language screening with live data. Yahoo Finance for absolute beginners who want zero complexity. Each has trade-offs — Finviz has delayed data on free, Perplexity can miss nuance, Yahoo is limited in filters."
+    answer: "Finviz (free tier) for traditional screening with 67 filters. Perplexity Finance for AI-powered natural language screening with live data. Yahoo Finance for absolute beginners who want zero complexity. Each has trade-offs, Finviz has delayed data on free, Perplexity can miss nuance, Yahoo is limited in filters."
   - question: "How much should I spend on stock screening tools?"
     answer: "For most individual investors, $20-40/month covers everything. A common 2026 stack: Perplexity Pro ($20/month) for AI screening with live data, plus Finviz free or TradingView free for traditional filtering. If you want premium data, add Finviz Elite (~$25/month) or TradingView Plus (~$34/month). You don't need to spend more unless you're day trading."
 ---
 
 Stock screeners used to be simple: set your filters, get a list of tickers. Then AI showed up and people started asking [ChatGPT](/chatgpt-guide/) to find stocks for them.
 
-Both approaches work. But they're good at very different things. Here's when to use each one — and the stack that makes the most sense in 2026.
+Both approaches work. But they're good at very different things. Here's when to use each one, and the stack that makes the most sense in 2026.
 
 *This article is for educational purposes only and does not constitute financial advice.*
 
@@ -78,7 +78,7 @@ The strongest charting platform with a solid screener built in.
 
 **Best for:** Technical traders who want screening + charting in one place.
 
-**Limitation:** The screener alone doesn't justify the price — you're paying for the charting.
+**Limitation:** The screener alone doesn't justify the price, you're paying for the charting.
 
 ### Seeking Alpha
 
@@ -106,15 +106,15 @@ More of a research platform than a pure screener, but its quant ratings are valu
 - Builds screening frameworks you can then apply in a traditional screener
 
 **Limitations:**
-- No real-time data — results are based on training data
+- No real-time data, results are based on training data
 - Can hallucinate specific numbers (always verify)
-- Not reproducible — the same prompt may give different results
+- Not reproducible, the same prompt may give different results
 
 **Best prompt for screening:**
 
 > Act as a stock analyst. I'm looking for [criteria]. Suggest 10 stocks that fit, and for each one explain why it qualifies. Include current approximate market cap, P/E ratio, and revenue growth. Flag any numbers you're less confident about.
 
-That last sentence is key — it forces ChatGPT to self-assess.
+That last sentence is key, it forces ChatGPT to self-assess.
 
 ### Claude
 
@@ -231,7 +231,7 @@ You don't need all three AI subscriptions. Pick one based on whether you value r
 
 ## The Bottom Line
 
-AI and traditional screeners aren't competing — they're complementary.
+AI and traditional screeners aren't competing, they're complementary.
 
 **Traditional screeners** are your filter. They give you precise, reproducible, real-time results based on hard numbers. Use them when you know what you're looking for.
 

@@ -7,7 +7,7 @@ image: "./chatgpt-for-excel.webp"
 imageAlt: "ChatGPT generating Excel formulas on a laptop next to a spreadsheet"
 tags: ["AI", "ChatGPT", "Excel", "Productivity"]
 draft: false
-tldr: "ChatGPT can write Excel formulas, explain complex functions, analyze data, and even create VBA macros. Upload your spreadsheet to ChatGPT or describe what you need. Works best for formula help, data cleaning, and learning — not for live Excel integration (use Copilot for that)."
+tldr: "ChatGPT can write Excel formulas, explain complex functions, analyze data, and even create VBA macros. Upload your spreadsheet to ChatGPT or describe what you need. Works best for formula help, data cleaning, and learning, not for live Excel integration (use Copilot for that)."
 faq:
   - question: "Can ChatGPT write Excel formulas?"
     answer: "Yes, ChatGPT excels at writing Excel formulas. Describe what you want in plain English ('sum all sales from January where region is East') and ChatGPT will give you the exact formula. It handles VLOOKUP, INDEX-MATCH, array formulas, and complex nested functions."
@@ -73,7 +73,7 @@ Both free and Plus users can upload .xlsx files directly:
 - "Create a formula to calculate monthly growth"
 - "What trends do you see?"
 
-ChatGPT sees your actual column names, data types, and values — giving much more accurate help.
+ChatGPT sees your actual column names, data types, and values, giving much more accurate help.
 
 > **Note:** Free users can upload up to 3 files per day (~50 MB for spreadsheets, 512 MB for other files). Plus users get significantly higher limits.
 
@@ -261,7 +261,7 @@ Or formatted as percentage:
 =TEXTJOIN("",TRUE,IF(ISNUMBER(MID(A2,ROW(INDIRECT("1:"&LEN(A2))),1)*1),MID(A2,ROW(INDIRECT("1:"&LEN(A2))),1),""))
 ```
 
-(This is where ChatGPT really shines — who wants to figure that out manually?)
+(This is where ChatGPT really shines, who wants to figure that out manually?)
 
 ### Example 4: Conditional Formatting Formula
 
@@ -421,7 +421,7 @@ Both can help with Excel, but they work differently:
 | **Learning/teaching** | Excellent | Good |
 | **Live data analysis** | No | Yes |
 | **Price** | $20/mo (Plus) | Included in M365 Personal/Family; $30/mo (Copilot for Business) |
-| **Free option** | Yes | Yes (Copilot Chat — limited) |
+| **Free option** | Yes | Yes (Copilot Chat, limited) |
 
 > **Important:** Copilot in Excel requires a Microsoft 365 subscription (Personal, Family, or Business). The standalone Copilot Pro plan was discontinued in late 2025. Free Copilot Chat is rolling out inside M365 apps with basic AI features, though premium capabilities like editing cells directly still require a paid plan.
 
@@ -479,7 +479,7 @@ the @ symbol / numbers only] from [cell].
 ### Data Validation
 ```
 Write a formula for data validation that only allows [specific
-criteria, e.g., dates in the future, numbers between X and Y].
+criteria, e.g. dates in the future, numbers between X and Y].
 ```
 
 ### Pivot Table Alternative
@@ -554,9 +554,9 @@ You'll always copy-paste manually.
 
 ## Related Articles
 
-- [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything you need to know about ChatGPT
-- [Copilot in Word Tutorial](/copilot-word-tutorial/) — AI in Microsoft Office
-- [Microsoft Copilot Review](/microsoft-copilot-review/) — Is Copilot worth it?
-- [AI Tools Guide](/ai-tools-guide/) — All AI tools for work compared
-- [AI for Google Sheets](/ai-for-google-sheets/) — The same workflow for Google Sheets users
-- [Best AI Tools for Office Work](/best-ai-tools-office-work/) — Curated productivity tools
+- [ChatGPT Mastery Guide](/chatgpt-guide/), Everything you need to know about ChatGPT
+- [Copilot in Word Tutorial](/copilot-word-tutorial/), AI in Microsoft Office
+- [Microsoft Copilot Review](/microsoft-copilot-review/), Is Copilot worth it?
+- [AI Tools Guide](/ai-tools-guide/), All AI tools for work compared
+- [AI for Google Sheets](/ai-for-google-sheets/), The same workflow for Google Sheets users
+- [Best AI Tools for Office Work](/best-ai-tools-office-work/), Curated productivity tools

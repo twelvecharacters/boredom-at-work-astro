@@ -1,7 +1,7 @@
 ---
 title: "FDM vs Resin 3D Printing: Which One Should You Choose?"
 slug: "fdm-vs-resin-printing"
-description: "FDM vs resin 3D printing — we compare cost, print quality, safety, and ease of use with real examples to help you pick the right technology for your project."
+description: "FDM vs resin 3D printing, we compare cost, print quality, safety, and ease of use with real examples to help you pick the right technology for your project."
 publishDate: 2026-03-02
 updatedDate: 2026-04-05
 author: "bored chap"
@@ -61,28 +61,28 @@ Here's everything you need to know to choose the right one.
 
 ### Common FDM Materials
 
-- **PLA** — Easy to print, biodegradable base, low strength
-- **PETG** — Stronger, more flexible, good all-rounder
-- **ABS** — Heat resistant, strong, requires enclosure
-- **TPU** — Flexible, rubber-like
+- **PLA**, Easy to print, biodegradable base, low strength
+- **PETG**, Stronger, more flexible, good all-rounder
+- **ABS**, Heat resistant, strong, requires enclosure
+- **TPU**, Flexible, rubber-like
 
 ### FDM Pros
 
-✅ **Large build volumes** — Print big things
-✅ **Cheap materials** — $20-30/kg filament
-✅ **Safe to use** — No toxic chemicals
-✅ **Easy to learn** — Forgiving of mistakes
-✅ **Strong functional parts** — PETG/ABS are genuinely strong
-✅ **Wide material variety** — Wood-fill, metal-fill, carbon fiber
-✅ **Minimal post-processing** — Remove supports, done
+✅ **Large build volumes**, Print big things
+✅ **Cheap materials**, $20-30/kg filament
+✅ **Safe to use**, No toxic chemicals
+✅ **Easy to learn**, Forgiving of mistakes
+✅ **Strong functional parts**, PETG/ABS are genuinely strong
+✅ **Wide material variety**, Wood-fill, metal-fill, carbon fiber
+✅ **Minimal post-processing**, Remove supports, done
 
 ### FDM Cons
 
-❌ **Visible layer lines** — Surface texture is obvious
-❌ **Limited detail** — Small features blur together
-❌ **Supports leave marks** — Cleanup can be tedious (dual-nozzle printers like the [Bambu Lab X2D](/bambu-lab-x2d-first-look/) solve this with dissolvable supports)
-❌ **Slower for detailed prints** — Fine layers = long print times
-❌ **Warping issues** — Especially with ABS (our [adhesion troubleshooting guide](/3d-print-not-sticking-fixes/) covers fixes)
+❌ **Visible layer lines**, Surface texture is obvious
+❌ **Limited detail**, Small features blur together
+❌ **Supports leave marks**, Cleanup can be tedious (dual-nozzle printers like the [Bambu Lab X2D](/bambu-lab-x2d-first-look/) solve this with dissolvable supports)
+❌ **Slower for detailed prints**, Fine layers = long print times
+❌ **Warping issues**, Especially with ABS (our [adhesion troubleshooting guide](/3d-print-not-sticking-fixes/) covers fixes)
 
 ---
 
@@ -99,38 +99,38 @@ Here's everything you need to know to choose the right one.
 
 ### Types of Resin Printing
 
-- **SLA (Stereolithography)** — UV laser traces each layer
-- **MSLA (Masked SLA)** — LCD screen masks UV light
-- **DLP (Digital Light Processing)** — Projector flashes entire layer
+- **SLA (Stereolithography)**, UV laser traces each layer
+- **MSLA (Masked SLA)**, LCD screen masks UV light
+- **DLP (Digital Light Processing)**, Projector flashes entire layer
 
-Most consumer printers are MSLA—they're cheaper and faster than laser SLA.
+Most consumer printers are MSLA, they're cheaper and faster than laser SLA.
 
 ### Common Resin Types
 
-- **Standard resin** — Good detail, brittle
-- **ABS-like resin** — More durable, less brittle
-- **Tough/Flexible resin** — Impact resistant
-- **Water-washable resin** — Easier cleanup (no IPA needed)
-- **Plant-based resin** — Lower odor, eco-friendlier
+- **Standard resin**, Good detail, brittle
+- **ABS-like resin**, More durable, less brittle
+- **Tough/Flexible resin**, Impact resistant
+- **Water-washable resin**, Easier cleanup (no IPA needed)
+- **Plant-based resin**, Lower odor, eco-friendlier
 
 ### Resin Pros
 
-✅ **Incredible detail** — Capture tiny features
-✅ **Smooth surfaces** — Almost no visible layers
-✅ **Fast for small parts** — Entire layer cures at once
-✅ **Perfect for miniatures** — Industry standard for tabletop gaming
-✅ **Excellent for jewelry** — Castable resins available
+✅ **Incredible detail**, Capture tiny features
+✅ **Smooth surfaces**, Almost no visible layers
+✅ **Fast for small parts**, Entire layer cures at once
+✅ **Perfect for miniatures**, Industry standard for tabletop gaming
+✅ **Excellent for jewelry**, Castable resins available
 
 ### Resin Cons
 
-❌ **Toxic materials** — Requires safety precautions
-❌ **Small build volume** — Most are under 150mm in each dimension
-❌ **Post-processing required** — Wash, cure, every single print
-❌ **Messy workflow** — Liquid resin gets everywhere
-❌ **Brittle prints** — Standard resin cracks under stress
-❌ **Consumables add up** — IPA, gloves, FEP films, filters
-❌ **Smell** — Even "low odor" resins have a chemical smell
-❌ **Disposal issues** — Can't pour resin down drains
+❌ **Toxic materials**, Requires safety precautions
+❌ **Small build volume**, Most are under 150mm in each dimension
+❌ **Post-processing required**, Wash, cure, every single print
+❌ **Messy workflow**, Liquid resin gets everywhere
+❌ **Brittle prints**, Standard resin cracks under stress
+❌ **Consumables add up**, IPA, gloves, FEP films, filters
+❌ **Smell**, Even "low odor" resins have a chemical smell
+❌ **Disposal issues**, Can't pour resin down drains
 
 ---
 
@@ -190,16 +190,16 @@ At 0.05mm layer height (standard for resin):
 ### Resin Safety
 
 **Risks:** Moderate to serious
-- **Skin contact** — Causes irritation, sensitization, allergic reactions
-- **Eye contact** — Severe irritation
-- **Inhalation** — Respiratory irritation, headaches
-- **Environmental** — Toxic to aquatic life
+- **Skin contact**, Causes irritation, sensitization, allergic reactions
+- **Eye contact**, Severe irritation
+- **Inhalation**, Respiratory irritation, headaches
+- **Environmental**, Toxic to aquatic life
 
 **Required precautions:**
 - **Always wear nitrile gloves** (latex doesn't protect against resin)
 - **Safety glasses** when pouring/handling resin
 - **Ventilated area** or fume extraction
-- **Never pour liquid resin down drains** — Cure with UV first
+- **Never pour liquid resin down drains**, Cure with UV first
 - **Clean spills immediately** with IPA
 - **Dedicated workspace** away from food/living areas
 
@@ -215,8 +215,8 @@ At 0.05mm layer height (standard for resin):
 |------|-----|-------|
 | Printer | $200-400 | $200-400 |
 | Materials to start | $25 (1kg PLA) | $60 (1L resin + IPA) |
-| Safety gear | — | $20 (gloves, glasses) |
-| Curing station | — | $40-80 |
+| Safety gear |, | $20 (gloves, glasses) |
+| Curing station |, | $40-80 |
 | **Total** | **~$250** | **~$350** |
 
 ### Ongoing Costs (per month, casual use)
@@ -224,9 +224,9 @@ At 0.05mm layer height (standard for resin):
 | Item | FDM | Resin |
 |------|-----|-------|
 | Material | $20-40 | $30-60 |
-| IPA | — | $15 |
-| Gloves | — | $10 |
-| FEP film replacement | — | $10 |
+| IPA |, | $15 |
+| Gloves |, | $10 |
+| FEP film replacement |, | $10 |
 | **Total** | **$20-40** | **$65-95** |
 
 **The verdict:** FDM is significantly cheaper to buy AND operate.
@@ -251,7 +251,7 @@ At 0.05mm layer height (standard for resin):
 1. Slice model in Chitubox/Lychee
 2. Transfer file to printer
 3. Print (1-8 hours typically)
-4. Remove from build plate (careful—dripping resin)
+4. Remove from build plate (careful, dripping resin)
 5. Wash in IPA (3-6 minutes in wash station)
 6. Dry
 7. Remove supports
@@ -263,7 +263,7 @@ At 0.05mm layer height (standard for resin):
 
 ### The Hidden Time Cost
 
-Resin printing doesn't just take more hands-on time—it takes more **mental energy**. You can't just walk away from fresh resin prints. Every print requires a multi-step post-processing routine.
+Resin printing doesn't just take more hands-on time, it takes more **mental energy**. You can't just walk away from fresh resin prints. Every print requires a multi-step post-processing routine.
 
 FDM? Pop it off the bed, snap off supports, done.
 
@@ -273,21 +273,21 @@ FDM? Pop it off the bed, snap off supports, done.
 
 ### Choose FDM For:
 
-- **Functional parts** — Brackets, enclosures, tools
-- **Large prints** — Cosplay helmets, vases, decorations
-- **Prototyping** — Quick iterations, size checks
-- **Everyday printing** — Phone stands, organizers, hooks (see [10 things to print first](/10-things-to-print-new-3d-printer/))
-- **Outdoor items** — PETG/ASA handle weather
-- **Beginners** — Easier, safer, more forgiving
+- **Functional parts**, Brackets, enclosures, tools
+- **Large prints**, Cosplay helmets, vases, decorations
+- **Prototyping**, Quick iterations, size checks
+- **Everyday printing**, Phone stands, organizers, hooks (see [10 things to print first](/10-things-to-print-new-3d-printer/))
+- **Outdoor items**, PETG/ASA handle weather
+- **Beginners**, Easier, safer, more forgiving
 
 ### Choose Resin For:
 
-- **Miniatures** — D&D figures, Warhammer, dioramas (find models at [best sites for free 3D models](/best-sites-free-3d-models/))
-- **Jewelry** — Rings, pendants (castable resin)
-- **Dental/Medical** — Dental models, surgical guides
-- **Tiny detailed parts** — Watch components, model kit details
-- **Display pieces** — Statues, busts, figurines
-- **Professional prototypes** — When finish matters
+- **Miniatures**, D&D figures, Warhammer, dioramas (find models at [best sites for free 3D models](/best-sites-free-3d-models/))
+- **Jewelry**, Rings, pendants (castable resin)
+- **Dental/Medical**, Dental models, surgical guides
+- **Tiny detailed parts**, Watch components, model kit details
+- **Display pieces**, Statues, busts, figurines
+- **Professional prototypes**, When finish matters
 
 ---
 

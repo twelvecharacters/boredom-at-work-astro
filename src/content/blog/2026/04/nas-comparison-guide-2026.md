@@ -1,6 +1,6 @@
 ---
 title: "The Data Sovereignty Guide: Synology vs. QNAP vs. Ugreen vs. DIY NAS in 2026"
-description: "Cloud storage is getting expensive and less private. We compare the NAS contenders—Synology, QNAP, Ugreen, and DIY—to help you build your own digital bunker."
+description: "Cloud storage is getting expensive and less private. We compare the NAS contenders, Synology, QNAP, Ugreen, and DIY, to help you build your own digital bunker."
 publishDate: 2026-04-28
 author: "bored chap"
 image: "./nas-comparison-guide-2026.png"
@@ -98,7 +98,7 @@ Choosing a NAS in 2026 comes down to how much you value your time versus your mo
 - **Buy a Ugreen** if you want a silent, all-flash setup for your desk and don't need a massive library of proprietary apps.
 - **Go DIY** if you enjoy the process of building and want a server that can do *anything*, provided you're willing to put in the work.
 
-Whichever path you choose, the goal is the same: taking your data back from the giants and building a digital bunker that you truly own. In 2026, that isn't just a tech hobby—it’s a necessity.
+Whichever path you choose, the goal is the same: taking your data back from the giants and building a digital bunker that you truly own. In 2026, that isn't just a tech hobby, it’s a necessity.
 
 ---
 

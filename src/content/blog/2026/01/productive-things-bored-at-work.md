@@ -1,7 +1,7 @@
 ---
 title: "25 Productive Things to Do When Bored at Work (2026)"
 slug: "productive-things-bored-at-work"
-description: "Bored at work? These 25 productive activities turn downtime into career growth — learn AI, build skills, and get ahead without anyone noticing."
+description: "Bored at work? These 25 productive activities turn downtime into career growth, learn AI, build skills, and get ahead without anyone noticing."
 publishDate: 2026-01-11
 author: "bored chap"
 tags: ["Productivity", "Career Growth", "Work Tips"]
@@ -20,7 +20,7 @@ faq:
 
 We've all been there. The afternoon slump hits, your to-do list is clear, or you're stuck waiting for someone else before you can move forward. Instead of mindlessly scrolling through social media or watching the clock, why not turn that downtime into something valuable?
 
-Boredom at work isn't wasted time—it's an opportunity. The most successful professionals use these quiet moments to build skills, advance their careers, and set themselves up for future success.
+Boredom at work isn't wasted time, it's an opportunity. The most successful professionals use these quiet moments to build skills, advance their careers, and set themselves up for future success.
 
 Here are 25 genuinely productive things you can do when bored at work, organized from most impactful to quick wins.
 
@@ -49,7 +49,7 @@ These courses are designed to be taken in short bursts, look professional on you
 
 ### Build Financial Literacy
 
-Understanding investing is one of the most valuable skills you can develop at work — and it looks exactly like business research on your screen. Start with a [free investing course](/best-free-investing-courses/) during lunch breaks, then practice with [paper trading apps](/best-paper-trading-apps/) that let you trade stocks with virtual money and zero risk.
+Understanding investing is one of the most valuable skills you can develop at work, and it looks exactly like business research on your screen. Start with a [free investing course](/best-free-investing-courses/) during lunch breaks, then practice with [paper trading apps](/best-paper-trading-apps/) that let you trade stocks with virtual money and zero risk.
 
 ### Pick Up a Language
 
@@ -106,7 +106,7 @@ This task is satisfying, clearly productive, and will save you time every day go
 
 ### Learn Your Company's Tools Better
 
-You probably use the same software every day, but are you using it well? Most tools have powerful features that go unused. If you're on a Mac, start with our [macOS Tahoe tips and hidden features](/macos-tahoe-tricks-and-hacks/) — there are productivity shortcuts most people never discover.
+You probably use the same software every day, but are you using it well? Most tools have powerful features that go unused. If you're on a Mac, start with our [macOS Tahoe tips and hidden features](/macos-tahoe-tricks-and-hacks/), there are productivity shortcuts most people never discover.
 
 **Explore the hidden features of:**
 - **Slack** - Keyboard shortcuts, workflows, automations, channel organization
@@ -133,7 +133,7 @@ The time invested in creating a template pays back every single time you use it.
 
 Can someone else do your job if you're sick or on vacation? If not, you need better documentation.
 
-Write down how you do your key tasks. This isn't just helpful for others—it helps you spot inefficiencies and makes a strong case for promotion (you're organized and ready to move up).
+Write down how you do your key tasks. This isn't just helpful for others, it helps you spot inefficiencies and makes a strong case for promotion (you're organized and ready to move up).
 
 ## Career Development
 
@@ -280,7 +280,7 @@ It's a virtuous cycle. The more you learn about AI, the faster you work. The fas
 - Analyze data quickly
 - Brainstorm ideas on demand
 
-Someone using AI effectively can easily save 30-60 minutes per day. That's 2.5-5 hours per week of extra time—plenty for continuous learning.
+Someone using AI effectively can easily save 30-60 minutes per day. That's 2.5-5 hours per week of extra time, plenty for continuous learning.
 
 ## Making This a Habit
 
@@ -306,7 +306,7 @@ The key to productive downtime is consistency:
 
 Boredom at work is inevitable. What you do with it determines whether that time is wasted or invested.
 
-The professionals who get ahead aren't necessarily smarter or harder working—they're better at using their time. Every slow afternoon is a chance to learn something, build something, or improve something.
+The professionals who get ahead aren't necessarily smarter or harder working, they're better at using their time. Every slow afternoon is a chance to learn something, build something, or improve something.
 
 Start small. Pick one thing from this list and do it today. Then do another tomorrow. In a year, you'll be amazed at how much you've grown.
 

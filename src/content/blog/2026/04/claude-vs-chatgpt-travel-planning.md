@@ -57,7 +57,7 @@ Fast and structured. Within 30 seconds, ChatGPT delivered:
 
 **Strengths**: Quick, well-organized, covered the basics well.
 
-**Weaknesses**: Felt like every other Japan itinerary. "Visit Senso-ji, see Fushimi Inari, eat at Tsukiji"—nothing surprising.
+**Weaknesses**: Felt like every other Japan itinerary. "Visit Senso-ji, see Fushimi Inari, eat at Tsukiji",nothing surprising.
 
 ### Claude's Response
 
@@ -80,7 +80,7 @@ Slower but deeper. Claude took longer but provided:
 
 ## Test 2: Weekend Paris Getaway
 
-**The prompt**: "I have 3 days in Paris next month. Not my first time—I've done the Eiffel Tower and Louvre. What should I actually do?"
+**The prompt**: "I have 3 days in Paris next month. Not my first time, I've done the Eiffel Tower and Louvre. What should I actually do?"
 
 ### ChatGPT's Response
 
@@ -109,7 +109,7 @@ Claude's ability to understand nuance ("not my first time") made a significant d
 
 ### ChatGPT's Response
 
-Listed Lisbon, Porto, and the Algarve. When pushed for less touristy options, added Sintra and Évora—still very much on the tourist trail.
+Listed Lisbon, Porto, and the Algarve. When pushed for less touristy options, added Sintra and Évora, still very much on the tourist trail.
 
 ### Claude's Response
 
@@ -121,7 +121,7 @@ Delivered exactly what we asked for:
 - Festivals happening during travel dates
 - Routes avoiding the A-roads
 
-Claude even noted: "Fair warning—some of these places have limited English signage. That's part of the charm, but be prepared."
+Claude even noted: "Fair warning, some of these places have limited English signage. That's part of the charm, but be prepared."
 
 ### Winner: Claude (decisively)
 
@@ -235,8 +235,8 @@ For celiac disease or serious allergies, Claude's cautious approach ("verify thi
 
 ## Related Articles
 
-- [Claude vs ChatGPT](/claude-vs-chatgpt/) — General comparison
-- [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything about ChatGPT
-- [Claude AI Review](/claude-ai-review/) — In-depth Claude review
-- [AI Travel Planning Hub](/ai-travel-planning/) — Complete travel guide
-- [AI Tools Guide](/ai-tools-guide/) — All AI tools compared
+- [Claude vs ChatGPT](/claude-vs-chatgpt/), General comparison
+- [ChatGPT Mastery Guide](/chatgpt-guide/), Everything about ChatGPT
+- [Claude AI Review](/claude-ai-review/), In-depth Claude review
+- [AI Travel Planning Hub](/ai-travel-planning/), Complete travel guide
+- [AI Tools Guide](/ai-tools-guide/), All AI tools compared

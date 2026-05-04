@@ -96,7 +96,7 @@ This is subjective:
 - **Canon:** Warm, pleasing skin tones, slightly saturated
 - **Nikon:** Neutral, accurate, excellent for landscapes
 
-Both are excellent. Most photographers can achieve their desired look with either camera through editing — a fast RAW editor like [RapidRAW](/rapid-raw-image-editor-guide/) makes this easy even for beginners.
+Both are excellent. Most photographers can achieve their desired look with either camera through editing, a fast RAW editor like [RapidRAW](/rapid-raw-image-editor-guide/) makes this easy even for beginners.
 
 **Verdict:** Nikon Z50 II for image quality, especially in challenging light. Canon R100 is excellent in good lighting conditions.
 

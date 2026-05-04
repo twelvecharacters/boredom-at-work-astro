@@ -1,7 +1,7 @@
 ---
 title: "7 Repetitive Office Tasks You Can Automate With AI Right Now"
 slug: "ai-office-automation-tasks"
-description: "Stop doing repetitive work manually. These 7 office tasks can be automated with AI tools like ChatGPT, Zapier, and Make.com — most in under 30 minutes."
+description: "Stop doing repetitive work manually. These 7 office tasks can be automated with AI tools like ChatGPT, Zapier, and Make.com, most in under 30 minutes."
 publishDate: 2026-07-24
 author: "bored chap"
 image: "./ai-office-automation-tasks.webp"
@@ -13,16 +13,16 @@ faq:
   - question: "Do I need to know how to code to automate office tasks with AI?"
     answer: "No. Tools like Zapier, Make.com, and ChatGPT custom GPTs are all no-code. You set up automations by connecting apps visually or describing what you want in plain English. Google Workspace Studio even lets you describe automations to Gemini and it builds them for you."
   - question: "How much time can AI automation actually save?"
-    answer: "Studies show 5-15 hours per week for knowledge workers who automate communication, scheduling, and reporting. The key is automating tasks you do repeatedly — even saving 10 minutes per day adds up to almost a full work week per year. The biggest time savings come from email triage, report generation, and data entry."
+    answer: "Studies show 5-15 hours per week for knowledge workers who automate communication, scheduling, and reporting. The key is automating tasks you do repeatedly, even saving 10 minutes per day adds up to almost a full work week per year. The biggest time savings come from email triage, report generation, and data entry."
   - question: "Is Zapier or Make.com better for office automation?"
-    answer: "Zapier is easier to set up and has 7,000+ app integrations — best for simple automations. Make.com has deeper functionality, better visual workflow building, and is cheaper at scale (1,000 free operations vs. Zapier's 100). For most office workers, start with Zapier. Switch to Make.com if you need complex multi-step workflows."
+    answer: "Zapier is easier to set up and has 7,000+ app integrations, best for simple automations. Make.com has deeper functionality, better visual workflow building, and is cheaper at scale (1,000 free operations vs. Zapier's 100). For most office workers, start with Zapier. Switch to Make.com if you need complex multi-step workflows."
   - question: "Can ChatGPT run automations on a schedule?"
-    answer: "Yes — as of 2026, ChatGPT Plus supports scheduled tasks. You can set it to run prompts automatically (e.g., 'Give me an AI news briefing every afternoon at 3 PM'). For more complex scheduling that involves multiple apps, pair ChatGPT with Zapier."
+    answer: "Yes, as of 2026, ChatGPT Plus supports scheduled tasks. You can set it to run prompts automatically (e.g. 'Give me an AI news briefing every afternoon at 3 PM'). For more complex scheduling that involves multiple apps, pair ChatGPT with Zapier."
 ---
 
 The average office worker spends 28% of their work week on email and another 20% on repetitive tasks that could be automated. That's two full days per week doing work a machine could handle.
 
-Here are 7 tasks you can automate today — no coding required, most in under 30 minutes to set up.
+Here are 7 tasks you can automate today, no coding required, most in under 30 minutes to set up.
 
 ---
 
@@ -65,7 +65,7 @@ You can do most of what follows with just the free tiers.
 
 **The automation:**
 
-Most video call platforms now offer AI summaries — Zoom AI Companion, Microsoft Copilot in Teams, Google Meet's take notes feature. But you can go further:
+Most video call platforms now offer AI summaries, Zoom AI Companion, Microsoft Copilot in Teams, Google Meet's take notes feature. But you can go further:
 
 1. Export the transcript (most platforms offer this)
 2. Paste into ChatGPT or Claude with this prompt:
@@ -146,7 +146,7 @@ Create a GPT that takes one piece of content and outputs:
 **The automation:**
 
 **Simple (ChatGPT):**
-Upload invoice PDFs to ChatGPT. It extracts vendor name, amount, date, line items, and tax — then formats them into a table you can paste into your spreadsheet.
+Upload invoice PDFs to ChatGPT. It extracts vendor name, amount, date, line items, and tax, then formats them into a table you can paste into your spreadsheet.
 
 **Advanced (Make.com):**
 1. Invoice arrives via email
@@ -161,7 +161,7 @@ Upload invoice PDFs to ChatGPT. It extracts vendor name, amount, date, line item
 
 ## 7. Research and Competitive Intelligence
 
-**The problem:** You periodically need to research competitors, market trends, or industry updates — and it takes hours of Googling.
+**The problem:** You periodically need to research competitors, market trends, or industry updates, and it takes hours of Googling.
 
 **The automation:**
 

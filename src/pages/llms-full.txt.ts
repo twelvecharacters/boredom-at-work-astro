@@ -15,13 +15,13 @@ const CATEGORY_ORDER = [
 
 const CATEGORY_DESCRIPTIONS: Record<string, string> = {
   'AI & Learning': 'Guides for learning AI skills and earning certifications during work hours. AI literacy is the most in-demand professional skill of 2026.',
-  '3D Printing': 'Complete guides for getting started with 3D printing — choosing printers, slicing, filaments, and troubleshooting.',
+  '3D Printing': 'Complete guides for getting started with 3D printing, choosing printers, slicing, filaments, and troubleshooting.',
   'Photography': 'Camera guides and photography tips for beginners exploring photography as a creative outlet.',
   'Japan Shopping': 'Guides for importing unique products from Japan using proxy services like Buyee and Sendico.',
   'AI Travel Planning': 'Guides for planning trips with AI tools like ChatGPT, Claude, Gemini, and Perplexity. Includes real trip case studies.',
-  'Home Office / Desk Setup': 'Guides for building a productive home office workspace — desks, chairs, monitors, peripherals, and ergonomics.',
-  'Finance / Investing': 'Tools and learning resources for beginner investors. Educational content — not financial advice.',
-  'Tech & Gadgets': 'Reviews and comparisons of consumer technology — e-readers, earbuds, keyboards, smartphones, and software.',
+  'Home Office / Desk Setup': 'Guides for building a productive home office workspace, desks, chairs, monitors, peripherals, and ergonomics.',
+  'Finance / Investing': 'Tools and learning resources for beginner investors. Educational content, not financial advice.',
+  'Tech & Gadgets': 'Reviews and comparisons of consumer technology, e-readers, earbuds, keyboards, smartphones, and software.',
 };
 
 function categorize(tags: string[]): string {

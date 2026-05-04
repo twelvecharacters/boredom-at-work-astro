@@ -9,7 +9,7 @@ tags: ["AI", "Travel", "Gemini", "Google", "AI Travel"]
 draft: false
 faq:
   - question: "Is Google Gemini good for travel planning?"
-    answer: "Yes, Gemini excels at travel planning thanks to real-time information and seamless Google integration. It can check current prices, weather, and availability—something ChatGPT's free version can't do."
+    answer: "Yes, Gemini excels at travel planning thanks to real-time information and seamless Google integration. It can check current prices, weather, and availability, something ChatGPT's free version can't do."
   - question: "Is Gemini better than ChatGPT for travel?"
     answer: "For real-time information like current prices and availability, Gemini wins. For creative itinerary building and conversational planning, ChatGPT is often better. Many travelers use both."
   - question: "Is Google Gemini free for travel planning?"
@@ -346,8 +346,8 @@ Gemini isn't the best at everything, but its real-time capabilities fill a cruci
 
 ## Related Articles
 
-- [Google Gemini Review](/google-gemini-review/) — Complete Gemini review
-- [AI Tools Guide](/ai-tools-guide/) — All AI tools compared
-- [AI Travel Planning Hub](/ai-travel-planning/) — Complete travel guide
-- [Best AI Trip Planners](/best-ai-trip-planners/) — Compare all tools
-- [ChatGPT Mastery Guide](/chatgpt-guide/) — The main alternative
+- [Google Gemini Review](/google-gemini-review/), Complete Gemini review
+- [AI Tools Guide](/ai-tools-guide/), All AI tools compared
+- [AI Travel Planning Hub](/ai-travel-planning/), Complete travel guide
+- [Best AI Trip Planners](/best-ai-trip-planners/), Compare all tools
+- [ChatGPT Mastery Guide](/chatgpt-guide/), The main alternative

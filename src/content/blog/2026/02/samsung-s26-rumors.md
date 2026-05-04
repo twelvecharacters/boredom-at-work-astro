@@ -19,7 +19,7 @@ faq:
 
 The dust has barely settled on the latest smartphone releases, but the rumor mill for the **Samsung Galaxy S26** series is already in high gear. For those of us looking for the perfect work-distraction, tracking these leaks is a top-tier activity.
 
-Samsung's next flagship series — likely consisting of the **Galaxy S26**, **S26 Plus**, and **S26 Ultra** — promises to be a powerhouse of AI, photography, and raw performance.
+Samsung's next flagship series, likely consisting of the **Galaxy S26**, **S26 Plus**, and **S26 Ultra**, promises to be a powerhouse of AI, photography, and raw performance.
 
 Here is everything we know about the Samsung S26 series so far.
 
@@ -74,9 +74,9 @@ Samsung has dominated the zoom game for years, and the S26 Ultra is looking to e
 Hardware aside, Samsung's real competitive edge in 2026 is **Galaxy AI**. The S25 series introduced on-device AI features, and the S26 is expected to push this further:
 
 ### Expected New AI Features
-- **Live Interpreter 2.0:** Real-time translation in phone calls with support for more languages and dialects — great for international business calls
+- **Live Interpreter 2.0:** Real-time translation in phone calls with support for more languages and dialects, great for international business calls
 - **Sketch to Image Pro:** Draw a rough sketch, and AI generates a high-quality image. The S26's extra RAM makes this faster and more detailed
-- **AI Photo Ambient:** Automatically adjusts photos based on scene context — not just brightness but mood, color grading, and composition suggestions
+- **AI Photo Ambient:** Automatically adjusts photos based on scene context, not just brightness but mood, color grading, and composition suggestions
 - **Circle to Search upgrades:** Deeper integration with shopping, translation, and contextual actions
 - **On-device Gemini Nano:** The larger RAM in the S26 series enables more powerful on-device AI processing without sending data to the cloud
 
@@ -124,7 +124,7 @@ If you're planning to buy the S26, here are some smart moves:
 ### Maximize Your Trade-In Value
 - **Back up everything** before trade-in (Samsung Smart Switch makes this easy)
 - **Factory reset** your current phone only after confirming data transfer
-- **Keep the original box** and accessories — trade-in programs often give better value for complete packages
+- **Keep the original box** and accessories, trade-in programs often give better value for complete packages
 - **Check multiple trade-in options:** Samsung's own program, carrier deals, and sites like Swappa or Gazelle
 
 ### Pre-Order Perks to Watch For

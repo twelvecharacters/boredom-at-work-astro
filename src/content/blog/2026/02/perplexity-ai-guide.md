@@ -68,7 +68,7 @@ Time saved: 10+ minutes per search.
 4. **You get a synthesized answer** (with numbered citations)
 5. **You can ask follow-ups** (it remembers context)
 
-The key innovation: Perplexity doesn't just retrieve information — it understands your question and constructs an answer from multiple sources.
+The key innovation: Perplexity doesn't just retrieve information, it understands your question and constructs an answer from multiple sources.
 
 ## Free vs Pro: What Do You Get?
 
@@ -83,7 +83,7 @@ The key innovation: Perplexity doesn't just retrieve information — it understa
 
 **Is Pro worth it?**
 
-If you research anything regularly — work projects, purchasing decisions, learning new topics — Pro pays for itself quickly. The unlimited Pro searches and file analysis alone justify the cost.
+If you research anything regularly, work projects, purchasing decisions, learning new topics, Pro pays for itself quickly. The unlimited Pro searches and file analysis alone justify the cost.
 
 For casual use, the free tier is generous enough.
 
@@ -143,12 +143,12 @@ For casual use, the free tier is generous enough.
 ### 2. Use Focus Modes
 
 Perplexity offers different focus modes:
-- **All** — General web search
-- **Academic** — Scholarly papers and research
-- **Writing** — Help with writing tasks
-- **Wolfram** — Math and computational queries
-- **YouTube** — Video content
-- **Reddit** — Community discussions and opinions
+- **All**, General web search
+- **Academic**, Scholarly papers and research
+- **Writing**, Help with writing tasks
+- **Wolfram**, Math and computational queries
+- **YouTube**, Video content
+- **Reddit**, Community discussions and opinions
 
 For product research, Reddit focus often gives the most honest opinions.
 
@@ -302,7 +302,7 @@ The free tier is generous enough to evaluate whether it fits your workflow.
 
 Perplexity doesn't replace Google for everything. But for research, learning, and getting real answers to complex questions, it's become indispensable.
 
-The combination of real-time web search, AI synthesis, and source citations creates something genuinely new — a search engine that actually tries to answer your question instead of just pointing you toward answers.
+The combination of real-time web search, AI synthesis, and source citations creates something genuinely new, a search engine that actually tries to answer your question instead of just pointing you toward answers.
 
 Give it a try for your next research task. You might find yourself reaching for Perplexity before Google more often than you expected.
 
@@ -310,8 +310,8 @@ Give it a try for your next research task. You might find yourself reaching for 
 
 ## Related Articles
 
-- [AI Tools Guide](/ai-tools-guide/) — Complete guide to all AI tools for work
-- [AI PDF Summarizers](/ai-pdf-summarizers/) — Chat with your documents
-- [ChatGPT Alternatives](/chatgpt-alternatives/) — 10 options compared including Perplexity
-- [Google Gemini Review](/google-gemini-review/) — Another ChatGPT alternative
-- [How to Learn AI in 2026](/learn-ai-guide/) — Your complete learning roadmap
+- [AI Tools Guide](/ai-tools-guide/), Complete guide to all AI tools for work
+- [AI PDF Summarizers](/ai-pdf-summarizers/), Chat with your documents
+- [ChatGPT Alternatives](/chatgpt-alternatives/), 10 options compared including Perplexity
+- [Google Gemini Review](/google-gemini-review/), Another ChatGPT alternative
+- [How to Learn AI in 2026](/learn-ai-guide/), Your complete learning roadmap

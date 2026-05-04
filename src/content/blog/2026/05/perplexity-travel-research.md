@@ -9,14 +9,14 @@ tags: ["AI", "Travel", "Perplexity", "Research", "AI Travel"]
 draft: false
 faq:
   - question: "Is Perplexity good for travel planning?"
-    answer: "Perplexity excels at travel research—finding information, comparing options, and answering complex questions with sources. For building itineraries, ChatGPT is better, but for research, Perplexity is hard to beat."
+    answer: "Perplexity excels at travel research, finding information, comparing options, and answering complex questions with sources. For building itineraries, ChatGPT is better, but for research, Perplexity is hard to beat."
   - question: "Is Perplexity better than Google for travel research?"
     answer: "For complex travel questions, yes. Instead of scanning 10 blog posts, Perplexity synthesizes information and cites sources. For simple searches like 'flights to Paris,' Google is still faster."
   - question: "Is Perplexity AI free?"
     answer: "Yes, Perplexity offers a generous free tier. Pro costs $20/month and adds more searches, better AI models, and file uploads."
 ---
 
-Google gives you links. ChatGPT gives you answers (sometimes outdated). [Perplexity](https://www.perplexity.ai) gives you answers with sources—and that's a game-changer for travel research.
+Google gives you links. ChatGPT gives you answers (sometimes outdated). [Perplexity](https://www.perplexity.ai) gives you answers with sources, and that's a game-changer for travel research.
 
 If you've ever spent hours comparing blog posts trying to figure out "is Bali worth visiting in rainy season?" or "what's the best way to get from Rome to Amalfi Coast?", Perplexity is about to become your new favorite tool.
 
@@ -320,7 +320,7 @@ After this research, I have a solid foundation to build my itinerary in ChatGPT.
 
 ## The Verdict
 
-Perplexity isn't a complete travel planning solution—it's a research superpower. Use it to:
+Perplexity isn't a complete travel planning solution, it's a research superpower. Use it to:
 
 - **Get informed** before making decisions
 - **Compare options** with balanced perspectives
@@ -333,8 +333,8 @@ Pair it with ChatGPT for itinerary building and Gemini for real-time prices, and
 
 ## Related Articles
 
-- [Perplexity AI Guide](/perplexity-ai-guide/) — Complete Perplexity guide
-- [AI Tools Guide](/ai-tools-guide/) — All AI tools compared
-- [AI Travel Planning Hub](/ai-travel-planning/) — Complete travel guide
-- [Best AI Trip Planners](/best-ai-trip-planners/) — Compare all tools
-- [ChatGPT Mastery Guide](/chatgpt-guide/) — Alternative for planning
+- [Perplexity AI Guide](/perplexity-ai-guide/), Complete Perplexity guide
+- [AI Tools Guide](/ai-tools-guide/), All AI tools compared
+- [AI Travel Planning Hub](/ai-travel-planning/), Complete travel guide
+- [Best AI Trip Planners](/best-ai-trip-planners/), Compare all tools
+- [ChatGPT Mastery Guide](/chatgpt-guide/), Alternative for planning

@@ -39,7 +39,7 @@ For those of us building complex, multi-functional 3D printed projects, the abil
 
 While the H2C is about complexity, the **H2D** is about efficiency. Its dual-nozzle system is designed for high-speed multi-material printing without the mechanical overhead of the Vortek system.
 
-It has been my go-to machine for "practical" prints—things like desk organizers or tool holders where I need a secondary material for support or labels but don't need the full seven-color palette. The dual-nozzle setup eliminates the need for prime towers in many cases, saving both time and filament. 
+It has been my go-to machine for "practical" prints, things like desk organizers or tool holders where I need a secondary material for support or labels but don't need the full seven-color palette. The dual-nozzle setup eliminates the need for prime towers in many cases, saving both time and filament. 
 
 With the launch of the **X2D** earlier this year, the H2D has seen a significant price drop, making it the most affordable entry point into professional-grade dual extrusion.
 

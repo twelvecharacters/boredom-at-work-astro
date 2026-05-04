@@ -28,7 +28,7 @@ faq:
   - question: "Is Google Gemini free to use?"
     answer: "Yes, Gemini offers a generous free tier with access to Gemini 3 Flash. Google AI Pro (formerly Gemini Advanced) costs $20/month (included with Google One AI Premium) and gives full access to the latest models including Gemini 3 Pro."
   - question: "Can Gemini access my Google Drive and Gmail?"
-    answer: "Yes, with Google AI Pro (formerly Gemini Advanced) you can connect Google Workspace (Gmail, Drive, Docs, Calendar). Gemini can search your emails, summarize documents, and help with scheduling — a major advantage over ChatGPT."
+    answer: "Yes, with Google AI Pro (formerly Gemini Advanced) you can connect Google Workspace (Gmail, Drive, Docs, Calendar). Gemini can search your emails, summarize documents, and help with scheduling, a major advantage over ChatGPT."
 ---
 
 Google's AI assistant has come a long way from its rocky Bard launch. Rebranded as Gemini, it's now a serious contender in the AI assistant space.
@@ -50,7 +50,7 @@ But is it actually good enough to replace ChatGPT? After using Gemini daily for 
 - Following nuanced instructions
 - Consistency in responses
 
-**Verdict:** Excellent as a second AI assistant. Not quite ready to replace ChatGPT as your primary tool — but getting close.
+**Verdict:** Excellent as a second AI assistant. Not quite ready to replace ChatGPT as your primary tool, but getting close.
 
 ---
 
@@ -166,7 +166,7 @@ For web development, Gemini often provides more accurate answers about modern fr
 
 ### 5. Long Context Window
 
-Gemini 3 Pro offers a 1 million token context window — about 700,000 words.
+Gemini 3 Pro offers a 1 million token context window, about 700,000 words.
 
 **Use cases:**
 - Analyze entire codebases
@@ -244,7 +244,7 @@ ChatGPT still has a broader feature set:
 - The GPT Store offers thousands of specialized assistants
 - More third-party integrations
 
-Gemini is catching up fast — especially with Veo 3 for video — but ChatGPT's ecosystem remains larger.
+Gemini is catching up fast, especially with Veo 3 for video, but ChatGPT's ecosystem remains larger.
 
 ---
 
@@ -438,8 +438,8 @@ Gemini isn't going to replace ChatGPT for most people. But it's absolutely worth
 
 ## Related Articles
 
-- [AI Tools Guide](/ai-tools-guide/) — Complete guide to all AI tools for work
-- [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything about ChatGPT
-- [Claude vs ChatGPT](/claude-vs-chatgpt/) — Head-to-head comparison
-- [ChatGPT Alternatives](/chatgpt-alternatives/) — 10 options compared
-- [Best AI Tools for Office Work](/best-ai-tools-office-work/) — Curated productivity tools
+- [AI Tools Guide](/ai-tools-guide/), Complete guide to all AI tools for work
+- [ChatGPT Mastery Guide](/chatgpt-guide/), Everything about ChatGPT
+- [Claude vs ChatGPT](/claude-vs-chatgpt/), Head-to-head comparison
+- [ChatGPT Alternatives](/chatgpt-alternatives/), 10 options compared
+- [Best AI Tools for Office Work](/best-ai-tools-office-work/), Curated productivity tools

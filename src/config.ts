@@ -1,22 +1,26 @@
 export const SITE = {
   title: 'Boredom at Work',
-  description: "Transform your 9-to-5 downtime into personal growth. From mastering AI skills to starting a 3D printing hobby or finding the perfect camera gear — we help you make every boring minute count.",
+  description: "Transform your 9-to-5 downtime into personal growth. From mastering AI skills to starting a 3D printing hobby or finding the perfect camera gear, we help you make every boring minute count.",
   url: 'https://boredom-at-work.com',
-  author: 'bored chap',
+  author: 'Mehdi',
 };
 
 export const AUTHOR = {
-  name: 'bored chap',
-  bio: "Tech enthusiast with 10+ years in online marketing. I've tested over 50 AI tools, built my own 3D printing setup, and traveled Southeast Asia planning trips entirely with ChatGPT. Everything I write comes from hands-on experience — no affiliate-driven recommendations, no AI-generated fluff.",
+  name: 'Mehdi',
+  jobTitle: 'Director of Affiliates',
+  url: 'https://boredom-at-work.com/about/',
+  photo: '/images/mehdi.webp',
+  bio: "Director of Affiliates with 9+ years in sales and leadership. I started Boredom at Work to turn workplace downtime into real skills, beginning with AI tools and expanding into the topics my brother and I are genuinely curious about: 3D printing, e-readers, photography, home office gear, and AI travel planning. Every article on this site comes from real use.",
   credentials: [
-    { icon: '🧪', text: '50+ AI tools tested' },
-    { icon: '🖨️', text: '3D printing since 2019' },
-    { icon: '✈️', text: '6 countries planned with AI' },
+    { icon: '💼', text: '9+ years sales & leadership' },
+    { icon: '📚', text: 'Self taught in AI since 2024' },
+    { icon: '🛠️', text: 'Personal use on every review' },
   ],
   social: {
+    linkedin: 'https://www.linkedin.com/in/mehdi-vazirian/',
+    companyLinkedin: 'https://www.linkedin.com/company/boredom-at-work',
     reddit: 'https://www.reddit.com/r/boredom_at_work/',
     youtube: 'https://www.youtube.com/@boredom-at-work',
-    linkedin: 'https://www.linkedin.com/company/boredom-at-work',
     tumblr: 'https://www.tumblr.com/boredomatworksposts',
     email: 'twelvecharacters@proton.me',
   },
@@ -58,7 +62,7 @@ export const CATEGORIES = [
     title: 'Import Treasures from Japan',
     id: 'japan-shopping',
     icon: '🇯🇵',
-    description: "Discover how to buy unique products from Japan — vintage cameras, stationery, snacks, and more — shipped right to your door.",
+    description: "Discover how to buy unique products from Japan, vintage cameras, stationery, snacks, and more, shipped right to your door.",
     links: [
       { text: 'Buyee vs Sendico: Which Proxy to Use?', href: '/buyee-vs-sendico-japan-proxy/' },
       { text: 'How to Buy from Japan: Beginner Guide', href: '/how-to-buy-from-japan-beginners-guide/' },
@@ -133,7 +137,7 @@ export const CATEGORIES = [
     title: 'Investing & Finance Tools',
     id: 'finance',
     icon: '📈',
-    description: "Learn investing during work downtime. Paper trading, stock screeners, courses, and tools — no financial advice, just education.",
+    description: "Learn investing during work downtime. Paper trading, stock screeners, courses, and tools, no financial advice, just education.",
     links: [
       { text: 'Investing Tools Guide (Hub)', href: '/investing-tools-guide/' },
       { text: 'Best Paper Trading Apps', href: '/best-paper-trading-apps/' },
@@ -161,7 +165,7 @@ export const FOOTER_LINKS = {
   quick: [
     { label: 'Home', href: '/' },
     { label: 'Blog', href: '/blog/' },
-    { label: 'Stop Being Bored', href: '/productive-things-bored-at-work/' },
+    { label: 'About', href: '/about/' },
     { label: 'Contact', href: '/contact/' },
   ],
   popular: [

@@ -55,7 +55,7 @@ Yes, they lack weather sealing. Yes, the corners might be a little soft when sho
 
 ## 3. They Help Avoid Common Beginner Mistakes
 
-One of the most common [beginner photography mistakes](/beginner-photography-mistakes/) is simply a lack of intentionality—taking "snapshots" instead of "photographs." 
+One of the most common [beginner photography mistakes](/beginner-photography-mistakes/) is simply a lack of intentionality, taking "snapshots" instead of "photographs." 
 
 When everything is automatic, it's easy to just point and spray. When focusing is manual, you have to decide if the subject is worth capturing before you take the effort to dial in focus. It reduces visual clutter and makes you think intensely about **composition** (the Rule of Thirds, leading lines, framing) before pressing the shutter.
 

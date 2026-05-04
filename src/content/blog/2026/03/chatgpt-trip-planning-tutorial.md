@@ -14,7 +14,7 @@ howTo:
     - name: "Write the opening prompt with trip details"
       text: "Tell ChatGPT your destination, dates, budget, travel style, and any dietary or accessibility needs."
     - name: "Push back and refine the initial suggestions"
-      text: "Ask follow-up questions to improve the itinerary — remove tourist traps, add local favorites, adjust pacing."
+      text: "Ask follow-up questions to improve the itinerary, remove tourist traps, add local favorites, adjust pacing."
     - name: "Build the day-by-day plan"
       text: "Have ChatGPT create a detailed daily schedule with times, locations, and travel between stops."
     - name: "Run the verification checklist"
@@ -23,7 +23,7 @@ howTo:
       text: "Ask ChatGPT to add transportation, restaurant reservations, dietary requirements, and a pre-trip packing checklist."
 faq:
   - question: "Can AI really plan a good trip?"
-    answer: "Yes, AI can create solid travel itineraries, but you should always verify details like opening hours, prices, and distances. A 2024 study found 90% of ChatGPT-generated itineraries contained at least one error—verification is essential."
+    answer: "Yes, AI can create solid travel itineraries, but you should always verify details like opening hours, prices, and distances. A 2024 study found 90% of ChatGPT-generated itineraries contained at least one error, verification is essential."
   - question: "Is ChatGPT or a dedicated trip planner better?"
     answer: "ChatGPT offers more flexibility and conversation, while dedicated planners like Mindtrip or Wanderlog have built-in booking features. Use ChatGPT for brainstorming and planning, dedicated tools for booking and organization."
   - question: "How much time can AI save in travel planning?"
@@ -34,7 +34,7 @@ faq:
 
 *This is a hands-on tutorial. By the end, you'll have a complete trip itinerary created with ChatGPT.*
 
-Never used AI to plan a trip before? Perfect. This guide walks you through the entire process—from opening ChatGPT to having a polished, day-by-day travel plan.
+Never used AI to plan a trip before? Perfect. This guide walks you through the entire process, from opening ChatGPT to having a polished, day-by-day travel plan.
 
 No prior AI experience needed. Just follow along.
 
@@ -67,7 +67,7 @@ That's it. Let's start.
 
 ## Step 1: The Opening Prompt
 
-Your first prompt sets the tone for the entire conversation. Don't be vague—the more context you give, the better the results.
+Your first prompt sets the tone for the entire conversation. Don't be vague, the more context you give, the better the results.
 
 ### The Template
 
@@ -113,7 +113,7 @@ Please flag any information I should verify before booking.
 
 ### Hit Enter and Wait
 
-ChatGPT will generate your first draft itinerary. It'll probably be decent but generic. That's fine—we're going to refine it.
+ChatGPT will generate your first draft itinerary. It'll probably be decent but generic. That's fine, we're going to refine it.
 
 ---
 
@@ -156,7 +156,7 @@ watch the chef.
 Forgot to mention something? Add it now:
 
 ```
-I forgot to mention—I have celiac disease and can't eat gluten. 
+I forgot to mention, I have celiac disease and can't eat gluten. 
 Can you adjust the restaurant recommendations? Also add some tips 
 for communicating this in [destination language].
 ```
@@ -407,10 +407,10 @@ You now have everything you need to plan your first AI-assisted trip. Here's whe
 
 ## Related Articles
 
-- [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything about ChatGPT
-- [AI Travel Planning Hub](/ai-travel-planning/) — Complete travel guide
-- [Malaysia Trip Case Study](/chatgpt-malaysia-trip-planning/) — Real example
-- [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/) — Copy-paste prompts
-- [Free AI Travel Tools](/free-ai-travel-tools/) — All free options for trip planning
-- [AI Packing List Generator](/ai-packing-list-travel-checklist/) — Let AI handle your packing
-- [AI Tools Guide](/ai-tools-guide/) — All AI tools compared
+- [ChatGPT Mastery Guide](/chatgpt-guide/), Everything about ChatGPT
+- [AI Travel Planning Hub](/ai-travel-planning/), Complete travel guide
+- [Malaysia Trip Case Study](/chatgpt-malaysia-trip-planning/), Real example
+- [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/), Copy-paste prompts
+- [Free AI Travel Tools](/free-ai-travel-tools/), All free options for trip planning
+- [AI Packing List Generator](/ai-packing-list-travel-checklist/), Let AI handle your packing
+- [AI Tools Guide](/ai-tools-guide/), All AI tools compared

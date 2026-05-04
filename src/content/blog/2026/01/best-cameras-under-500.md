@@ -10,7 +10,7 @@ imageAlt: "Collection of budget cameras under 500 dollars on a clean background"
 tags: ["Photography", "Cameras", "Budget", "Buying Guide"]
 draft: false
 isListicle: true
-tldr: "Canon EOS R100 (~$480) is the best all-rounder. Used buyers should grab a Nikon Z50 (~$450) — its successor, the Z50 II (~$860), is excellent but above this budget. Both easily beat any smartphone."
+tldr: "Canon EOS R100 (~$480) is the best all-rounder. Used buyers should grab a Nikon Z50 (~$450), its successor, the Z50 II (~$860), is excellent but above this budget. Both easily beat any smartphone."
 faq:
   - question: "What is the best camera under $500 in 2026?"
     answer: "The Canon EOS R100 at ~$480 with kit lens is the best overall camera under $500. It offers modern mirrorless technology, excellent autofocus, and room to grow with Canon's RF lens system."
@@ -36,7 +36,7 @@ In this guide, I'll review the best budget cameras available in 2026, comparing 
 | **Nikon Z50 (Used)** | ~$450 | Mirrorless | 20.9MP APS-C | Best Used Value (successor: Z50 II ~$860) |
 | **Sony A6000** | ~$450 | Mirrorless | 24.3MP APS-C | Best for Speed |
 | **Canon Rebel T7** | ~$400 | DSLR | 24.1MP APS-C | Best Budget DSLR |
-| **Fujifilm X-T200** | ~$500 | Mirrorless | 24.2MP APS-C | Best for Video (discontinued — available used/refurbished) |
+| **Fujifilm X-T200** | ~$500 | Mirrorless | 24.2MP APS-C | Best for Video (discontinued, available used/refurbished) |
 
 ## 1. Canon EOS R100 - Best Overall Under $500
 
@@ -96,7 +96,7 @@ Buying used from reputable dealers like MPB or KEH gets you:
 - Significant savings (40-50% off retail)
 - Access to higher-tier cameras
 
-Pro tip: [Japanese auction sites and proxy services](/best-japanese-products-to-import/) often have even better deals on used cameras — Japan's secondhand market is legendary for well-maintained gear.
+Pro tip: [Japanese auction sites and proxy services](/best-japanese-products-to-import/) often have even better deals on used cameras, Japan's secondhand market is legendary for well-maintained gear.
 
 ### What You Get
 
@@ -224,7 +224,7 @@ Not sure which type to pick? Our [DSLR vs mirrorless guide](/dslr-vs-mirrorless-
 
 **Price:** ~$500 with kit lens | **Sensor:** 24.2MP APS-C
 
-*(Discontinued — available used/refurbished from retailers like MPB and KEH.)*
+*(Discontinued, available used/refurbished from retailers like MPB and KEH.)*
 
 The Fujifilm X-T200 stands out for its video capabilities and gorgeous color science. If you plan to shoot both photos and video, this is the best option under $500.
 

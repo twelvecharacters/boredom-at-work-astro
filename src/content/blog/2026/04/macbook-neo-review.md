@@ -31,7 +31,7 @@ softwareApp:
 
 When Apple announced the MacBook Neo on March 4, 2026, the tech world did something it hadn’t done in a decade: it gasped at a *low* price. 
 
-For $599—or $499 if you’re a student—Apple wasn't just launching a new product; they were reclaiming the entry-level market they had effectively ceded to high-end Chromebooks and recycled iPads. But the price wasn't the only shock. The MacBook Neo is the first Mac to eschew the "M-series" chips in favor of the **A18 Pro**, the same silicon heart beating inside the iPhone 16 Pro.
+For $599, or $499 if you’re a student, Apple wasn't just launching a new product; they were reclaiming the entry-level market they had effectively ceded to high-end Chromebooks and recycled iPads. But the price wasn't the only shock. The MacBook Neo is the first Mac to eschew the "M-series" chips in favor of the **A18 Pro**, the same silicon heart beating inside the iPhone 16 Pro.
 
 On paper, it looked like a compromise. "An iPhone in a dress," some called it. "The return of the 12-inch MacBook disaster," others warned. But after thirty days of using the Indigo Neo as my primary machine for what I like to call "Productive Procrastination," I can confidently say that both the critics and the fans were half-right. 
 
@@ -39,13 +39,13 @@ This isn't a "Pro" machine in the traditional sense, but in the agentic world of
 
 ## 1. Design: The Return of Fun
 
-The first thing you notice about the Neo isn't the chip or the price—it’s the color. I chose **Indigo**, a deep, metallic blue that feels like a spiritual successor to the iMac G3’s Bondi Blue, but filtered through a 2026 minimalist lens. It’s also available in Blush, Citrus, and Silver, signaling a move away from the "Serious Space Grey" era.
+The first thing you notice about the Neo isn't the chip or the price, it’s the color. I chose **Indigo**, a deep, metallic blue that feels like a spiritual successor to the iMac G3’s Bondi Blue, but filtered through a 2026 minimalist lens. It’s also available in Blush, Citrus, and Silver, signaling a move away from the "Serious Space Grey" era.
 
-The chassis is impossibly thin—thinner even than the M3 MacBook Air. It weighs just 2.1 pounds. Carrying it feels less like carrying a computer and more like carrying a hardbound notebook. 
+The chassis is impossibly thin, thinner even than the M3 MacBook Air. It weighs just 2.1 pounds. Carrying it feels less like carrying a computer and more like carrying a hardbound notebook. 
 
 And then there’s the screen. Apple finally killed the notch. By utilizing the under-display sensor tech that debuted on the iPhone 17, the 13-inch Liquid Retina display is a clean, unbroken rectangle. It’s only 500 nits, which is fine for indoor use, but you’ll struggle a bit at a sunny cafe.
 
-The keyboard uses the refined third-generation scissor switches. It’s clicky, tactile, and—most importantly—reliable. The trackpad is smaller than the Pro models but remains the gold standard for haptic feedback.
+The keyboard uses the refined third-generation scissor switches. It’s clicky, tactile, and, most importantly, reliable. The trackpad is smaller than the Pro models but remains the gold standard for haptic feedback.
 
 ## 2. The A18 Pro: Silicon Alchemy
 
@@ -67,7 +67,7 @@ Actually, it felt better than fine. It felt *focused*. There is something about 
 
 ## 4. The "Boredom at Work" Workflow
 
-My typical day involves a lot of what I call "productive procrastination"—tasks that feel like work but are actually just high-level orchestration. I spent a week using the Neo to manage a new 3D printing project (a modular desk organizer, naturally).
+My typical day involves a lot of what I call "productive procrastination",tasks that feel like work but are actually just high-level orchestration. I spent a week using the Neo to manage a new 3D printing project (a modular desk organizer, naturally).
 
 I used the Neo to:
 1.  **Orchestrate CAD designs** in a web-based version of Fusion 360.
@@ -80,7 +80,7 @@ The Neo excelled at this. Its battery life is the stuff of legends. Because the 
 
 The Neo features two USB-C ports (Thunderbolt 4) on the left side and a 3.5mm jack on the right. That’s it. No MagSafe. No SD card slot. 
 
-For a $599 machine, this is expected. However, in an era where everything is wireless—from our mice to our 3D printer file transfers—I rarely found myself wishing for more ports. If you’re a photographer who needs to dump 100GB of RAW files daily, this isn't your machine. But if your life lives in the cloud and on GitHub, you won't care.
+For a $599 machine, this is expected. However, in an era where everything is wireless, from our mice to our 3D printer file transfers, I rarely found myself wishing for more ports. If you’re a photographer who needs to dump 100GB of RAW files daily, this isn't your machine. But if your life lives in the cloud and on GitHub, you won't care.
 
 ## 6. The 2026 Buying Guide: Neo vs. M5 Air vs. Refurbished M4
 
@@ -97,7 +97,7 @@ If you're in the market for a portable Mac right now, the choice is more complex
 | **Battery Life** | 16+ Hours | 15 Hours | 18+ Hours |
 
 ### The Value Play: MacBook Neo ($599)
-The Neo wins on absolute portability and price. It is the only modern Mac under $600. If your work is primarily in the cloud—using tools like Antigravity, Google Docs, or browser-based IDEs—the Neo is unbeatable. It is also the most "fun" device, with its Blush and Indigo colorways.
+The Neo wins on absolute portability and price. It is the only modern Mac under $600. If your work is primarily in the cloud, using tools like Antigravity, Google Docs, or browser-based IDEs, the Neo is unbeatable. It is also the most "fun" device, with its Blush and Indigo colorways.
 
 ### The Balanced Choice: Refurbished MacBook Air M4 (~$849)
 A refurbished M4 Air is the "Goldilocks" option for 2026. You get the M-series GPU which handles video editing and local LLMs significantly better than the A18 Pro. Plus, you get MagSafe charging, freeing up both Thunderbolt ports for peripherals. It's the best choice for someone who needs a "real" laptop but can't justify the $1k+ price tag of the latest model.

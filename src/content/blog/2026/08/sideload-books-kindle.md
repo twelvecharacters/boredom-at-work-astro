@@ -1,7 +1,7 @@
 ---
 title: "How to Sideload Books on Kindle: Every Method Explained (2026)"
 slug: "sideload-books-kindle"
-description: "Six ways to sideload books on your Kindle — from Send to Kindle and USB transfer to Calibre. Step-by-step for EPUB, PDF, and more."
+description: "Six ways to sideload books on your Kindle, from Send to Kindle and USB transfer to Calibre. Step-by-step for EPUB, PDF, and more."
 publishDate: 2026-05-21
 author: "bored chap"
 image: "./sideload-books-kindle.webp"
@@ -25,10 +25,10 @@ faq:
   - question: "Do sideloaded books sync across devices?"
     answer: "Only if you use a Send to Kindle method (web upload, email, desktop app, or Chrome extension). Books transferred via USB stay on that specific device and won't sync reading progress, bookmarks, or highlights."
   - question: "What is the best way to sideload books on Kindle?"
-    answer: "For most people, Send to Kindle via email is the easiest — just email files to your @kindle.com address. For managing a large library with format conversion, Calibre is the most powerful option."
+    answer: "For most people, Send to Kindle via email is the easiest, just email files to your @kindle.com address. For managing a large library with format conversion, Calibre is the most powerful option."
 ---
 
-You've got a stack of EPUBs from Humble Bundle, work PDFs you actually want to read, and a couple of public domain classics from Project Gutenberg. They're all sitting on your computer. Your Kindle is sitting on your desk. Getting them together shouldn't be complicated — and in 2026, it really isn't.
+You've got a stack of EPUBs from Humble Bundle, work PDFs you actually want to read, and a couple of public domain classics from Project Gutenberg. They're all sitting on your computer. Your Kindle is sitting on your desk. Getting them together shouldn't be complicated, and in 2026, it really isn't.
 
 Here's every method to sideload books onto your Kindle, from the simplest to the most powerful. (Already have a Kindle full of books? Check out our [Kindle tips and tricks](/kindle-tips-and-tricks/) to get more out of it.)
 
@@ -51,7 +51,7 @@ Before you start, here's what your Kindle can actually handle:
 
 **Important:** DRM-protected EPUBs from other stores (Kobo, Barnes & Noble, etc.) won't work on a Kindle. Only DRM-free EPUBs are supported. If you're weighing both ecosystems, our [Kindle vs Kobo](/kindle-vs-kobo/) comparison covers the format differences in detail.
 
-As of January 2026, Amazon also allows you to download DRM-free EPUBs directly from their own store — a welcome change for people who don't want to be locked into Amazon's proprietary formats forever.
+As of January 2026, Amazon also allows you to download DRM-free EPUBs directly from their own store, a welcome change for people who don't want to be locked into Amazon's proprietary formats forever.
 
 ---
 
@@ -99,7 +99,7 @@ Amazon offers a free Send to Kindle desktop app for both Windows and macOS.
 
 1. Download the app from [amazon.com/sendtokindle](https://www.amazon.com/sendtokindle).
 2. Install and sign in with your Amazon account.
-3. Drag and drop files onto the app window — or right-click files in your file manager and choose "Send to Kindle."
+3. Drag and drop files onto the app window, or right-click files in your file manager and choose "Send to Kindle."
 4. Select your target device.
 5. Done.
 
@@ -121,7 +121,7 @@ The books appear in your library immediately. No internet connection needed.
 
 **The catch:** USB-transferred books don't sync across devices. Your reading progress, bookmarks, and highlights stay on that one Kindle only. If you read on multiple devices (Kindle + phone app), use one of the Send to Kindle methods instead.
 
-USB transfer is also the method you'll use for sideloading custom fonts and screensavers — see our [Kindle modding guide](/kindle-modding-guide/) for those tweaks.
+USB transfer is also the method you'll use for sideloading custom fonts and screensavers, see our [Kindle modding guide](/kindle-modding-guide/) for those tweaks.
 
 ---
 
@@ -142,7 +142,7 @@ USB transfer is also the method you'll use for sideloading custom fonts and scre
 **How to set it up:**
 
 1. Download [Calibre](https://calibre-ebook.com/download) (free for Windows, macOS, and Linux).
-2. Install and run the initial setup — select "Amazon Kindle" as your device.
+2. Install and run the initial setup, select "Amazon Kindle" as your device.
 3. Import your ebooks into Calibre's library.
 4. Connect your Kindle via USB, or configure your Send to Kindle email in Calibre's preferences.
 5. Select the books you want to transfer and click "Send to device" or "Connect/share > Email."
@@ -192,7 +192,7 @@ The extension strips out ads and navigation, giving you a clean reading experien
 - **"I have books in weird formats and want to organize everything."** Use **Calibre**. It handles any format and keeps your library clean.
 - **"I want to read a web article on my Kindle."** Use the **Chrome extension**.
 
-Most people only need the email method and the web upload. If you're building a serious ebook collection, invest 20 minutes setting up Calibre — it pays for itself quickly.
+Most people only need the email method and the web upload. If you're building a serious ebook collection, invest 20 minutes setting up Calibre, it pays for itself quickly.
 
 ---
 
@@ -200,10 +200,10 @@ Most people only need the email method and the web upload. If you're building a 
 
 **Book doesn't appear after sending:** Give it a few minutes. Make sure your Kindle is connected to Wi-Fi. Try syncing manually: Settings > Sync My Kindle.
 
-**EPUB won't open via USB:** If you copied an EPUB directly via USB, your Kindle might not read it properly. Use Send to Kindle (email or web) instead — Amazon auto-converts it to a compatible format.
+**EPUB won't open via USB:** If you copied an EPUB directly via USB, your Kindle might not read it properly. Use Send to Kindle (email or web) instead, Amazon auto-converts it to a compatible format.
 
 **DRM-protected EPUB won't work:** Files bought from Kobo, Barnes & Noble, or other stores with DRM protection can't be loaded onto a Kindle. Only DRM-free EPUBs are supported.
 
 **File is too large:** Send to Kindle methods cap at 200 MB per file. For larger files, use USB transfer or Calibre.
 
-For more ways to get the most out of your e-reader, check out our [best Kindle accessories](/best-kindle-accessories/) roundup and our guide to the [best e-readers](/best-e-readers/) on the market. Looking for an overview? Our [complete Kindle guide](/kindle-guide/) ties everything together — setup, books, tips, and customization.
+For more ways to get the most out of your e-reader, check out our [best Kindle accessories](/best-kindle-accessories/) roundup and our guide to the [best e-readers](/best-e-readers/) on the market. Looking for an overview? Our [complete Kindle guide](/kindle-guide/) ties everything together, setup, books, tips, and customization.

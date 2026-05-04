@@ -1,7 +1,7 @@
 ---
 title: "8 Best Investing Podcasts for Beginners and Beyond (2026)"
 slug: "best-investing-podcasts"
-description: "I listen to investing podcasts during work hours. Here are the 8 best in 2026, ranked by level — from total beginner to advanced strategy."
+description: "I listen to investing podcasts during work hours. Here are the 8 best in 2026, ranked by level, from total beginner to advanced strategy."
 publishDate: 2026-06-15
 author: "bored chap"
 image: "./best-investing-podcasts.webp"
@@ -51,7 +51,7 @@ If you prefer structured learning, check the [best free investing courses](/best
 
 ## Beginner
 
-### 1. Planet Money (NPR) — Best for Economic Literacy
+### 1. Planet Money (NPR), Best for Economic Literacy
 
 **Hosts:** Various NPR journalists | **Length:** 20-30 minutes | **Frequency:** 2-3 episodes/week | **Since:** 2008
 
@@ -63,18 +63,18 @@ Planet Money doesn't call itself an investing podcast, and that's what makes it 
 - The economics behind everyday things (tipping, airline pricing, housing markets)
 - Investigative stories about financial fraud and market quirks
 
-**Why it's great for beginners:** Each episode is a self-contained story — no prior knowledge assumed, no jargon without explanation. You can start with any episode. The storytelling makes complex economics genuinely entertaining, which matters because you won't learn from a podcast you stop listening to.
+**Why it's great for beginners:** Each episode is a self-contained story, no prior knowledge assumed, no jargon without explanation. You can start with any episode. The storytelling makes complex economics genuinely entertaining, which matters because you won't learn from a podcast you stop listening to.
 
 **Best episodes to start with:**
-- "The Invention of Money" — How money works (and why we trust paper)
-- "The Giant Pool of Money" — The 2008 financial crisis explained simply
-- Any recent episode — they're all accessible
+- "The Invention of Money", How money works (and why we trust paper)
+- "The Giant Pool of Money", The 2008 financial crisis explained simply
+- Any recent episode, they're all accessible
 
-**Work-friendliness:** ★★★★★ — Short episodes, easy to pause and resume, no complex charts to follow.
+**Work-friendliness:** ★★★★★, Short episodes, easy to pause and resume, no complex charts to follow.
 
 ---
 
-### 2. The Plain Bagel — Best Explanations
+### 2. The Plain Bagel, Best Explanations
 
 **Host:** Richard Coffin, CFA | **Length:** 20-30 minutes | **Frequency:** Bi-weekly | **Since:** 2018
 
@@ -90,11 +90,11 @@ Richard Coffin is a CFA (Chartered Financial Analyst) who explains investing con
 
 **Also a YouTube channel:** If you prefer visual explanations, The Plain Bagel's YouTube videos include charts and graphics that complement the audio content.
 
-**Work-friendliness:** ★★★★★ — The shortest episodes on this list. Perfect for a single work break.
+**Work-friendliness:** ★★★★★, The shortest episodes on this list. Perfect for a single work break.
 
 ---
 
-### 3. Motley Fool Money — Best Weekly Market Overview
+### 3. Motley Fool Money, Best Weekly Market Overview
 
 **Hosts:** Dylan Lewis, various Motley Fool analysts | **Length:** 20-40 minutes | **Frequency:** Daily (weekdays) | **Since:** 2011
 
@@ -110,13 +110,13 @@ Motley Fool Money is the podcast equivalent of a friendly market recap. Each epi
 
 **A note about Motley Fool's business model:** Motley Fool runs paid stock-picking services (Stock Advisor, Rule Breakers). The podcast is free and doesn't hard-sell the paid products, but you should know the parent company's model. The podcast analysis is sound regardless.
 
-**Work-friendliness:** ★★★★ — Daily episodes keep you current. The conversational tone makes it easy to listen while doing light work.
+**Work-friendliness:** ★★★★, Daily episodes keep you current. The conversational tone makes it easy to listen while doing light work.
 
 ---
 
 ## Intermediate
 
-### 4. ChooseFI — Best for Financial Independence
+### 4. ChooseFI, Best for Financial Independence
 
 **Hosts:** Jonathan Mendonsa & Brad Barrett | **Length:** 45-60 minutes | **Frequency:** Weekly (+ bonus episodes) | **Since:** 2017
 
@@ -133,15 +133,15 @@ ChooseFI is the podcast arm of the financial independence / retire early (FIRE) 
 
 **Pairs well with:** The r/financialindependence and r/Bogleheads communities on Reddit (see our [finance subreddits guide](/best-finance-subreddits/)).
 
-**Work-friendliness:** ★★★★ — Longer episodes, but content-dense. Good for commutes or extended focus blocks.
+**Work-friendliness:** ★★★★, Longer episodes, but content-dense. Good for commutes or extended focus blocks.
 
 ---
 
-### 5. We Study Billionaires — Best for Value Investing
+### 5. We Study Billionaires, Best for Value Investing
 
 **Hosts:** Stig Brodersen & Clay Finck (The Investor's Podcast Network) | **Length:** 45-75 minutes | **Frequency:** Weekly | **Since:** 2014
 
-We Study Billionaires does what the name says — studies the investment strategies of the world's most successful investors. Warren Buffett, Charlie Munger, Ray Dalio, Howard Marks, and many others.
+We Study Billionaires does what the name says, studies the investment strategies of the world's most successful investors. Warren Buffett, Charlie Munger, Ray Dalio, Howard Marks, and many others.
 
 **What you'll hear:**
 - Deep dives into legendary investors' strategies and philosophies
@@ -150,15 +150,15 @@ We Study Billionaires does what the name says — studies the investment strateg
 - Macro-economic analysis and market outlook
 - Interviews with fund managers, authors, and economists
 
-**Why it's great:** This podcast bridges the gap between "I understand the basics" and "I can actually analyze an investment." The book review episodes are particularly valuable — you get the key insights from 300-page investing books distilled into an hour. The stock analysis episodes model how to think about businesses, not just stock prices.
+**Why it's great:** This podcast bridges the gap between "I understand the basics" and "I can actually analyze an investment." The book review episodes are particularly valuable, you get the key insights from 300-page investing books distilled into an hour. The stock analysis episodes model how to think about businesses, not just stock prices.
 
 **Why it's intermediate, not beginner:** The hosts assume some baseline knowledge. Terms like DCF, intrinsic value, margin of safety, and earnings yield come up without detailed explanation. If these terms are unfamiliar, start with The Plain Bagel for a few months first.
 
-**Work-friendliness:** ★★★ — Longer, denser episodes that reward focused listening. Better for commutes than background audio.
+**Work-friendliness:** ★★★, Longer, denser episodes that reward focused listening. Better for commutes than background audio.
 
 ---
 
-### 6. The Rational Reminder — Best Evidence-Based Investing
+### 6. The Rational Reminder, Best Evidence-Based Investing
 
 **Hosts:** Ben Felix & Cameron Passmore (PWL Capital) | **Length:** 60-90 minutes | **Frequency:** Weekly | **Since:** 2019
 
@@ -173,15 +173,15 @@ The Rational Reminder is the closest thing to an academic investing seminar in p
 
 **Why it's great:** In a world of opinions, The Rational Reminder insists on evidence. Every claim is backed by research. When they say "small-cap value stocks have historically outperformed," they cite the specific studies. This approach builds a knowledge base that's resilient to market hype and trends.
 
-**Why it's intermediate-advanced:** Episodes frequently reference academic papers, regression analysis, and factor models. Ben Felix explains things well, but the content assumes you're comfortable with investing fundamentals. The episodes are also long — 60-90 minutes requires commitment.
+**Why it's intermediate-advanced:** Episodes frequently reference academic papers, regression analysis, and factor models. Ben Felix explains things well, but the content assumes you're comfortable with investing fundamentals. The episodes are also long, 60-90 minutes requires commitment.
 
-**Work-friendliness:** ★★★ — Dense, long episodes. Best consumed in dedicated learning blocks rather than background listening.
+**Work-friendliness:** ★★★, Dense, long episodes. Best consumed in dedicated learning blocks rather than background listening.
 
 ---
 
 ## Advanced
 
-### 7. Animal Spirits — Best Market Commentary
+### 7. Animal Spirits, Best Market Commentary
 
 **Hosts:** Michael Batnick & Ben Carlson (Ritholtz Wealth Management) | **Length:** 30-45 minutes | **Frequency:** Weekly | **Since:** 2017
 
@@ -194,15 +194,15 @@ Two wealth management professionals discussing markets, economics, and investing
 - Personal finance hot takes and debates
 - Pop culture intersecting with finance
 
-**Why it's great:** Batnick and Carlson are knowledgeable enough for sophisticated analysis but personable enough to keep it entertaining. The behavioral finance angle is unique — understanding *why* investors panic, chase trends, or hold losers is arguably more valuable than technical analysis. They disagree with each other frequently, which keeps the discussion honest.
+**Why it's great:** Batnick and Carlson are knowledgeable enough for sophisticated analysis but personable enough to keep it entertaining. The behavioral finance angle is unique, understanding *why* investors panic, chase trends, or hold losers is arguably more valuable than technical analysis. They disagree with each other frequently, which keeps the discussion honest.
 
 **Why it's intermediate-advanced:** The hosts don't explain basic concepts. References to yield curves, equity risk premiums, and correlation matrices fly by without pause. If you're nodding along, you'll love it. If you're Googling every third term, listen to We Study Billionaires first.
 
-**Work-friendliness:** ★★★★ — Short enough for a work break, entertaining enough to look forward to.
+**Work-friendliness:** ★★★★, Short enough for a work break, entertaining enough to look forward to.
 
 ---
 
-### 8. Invest Like the Best — Best Deep-Dive Interviews
+### 8. Invest Like the Best, Best Deep-Dive Interviews
 
 **Host:** Patrick O'Shaughnessy (Positive Sum) | **Length:** 45-75 minutes | **Frequency:** Weekly | **Since:** 2016
 
@@ -215,11 +215,11 @@ Invest Like the Best is the gold standard for long-form investing interviews. Pa
 - Technology trends and their investment implications
 - Philosophy of investing and decision-making
 
-**Why it's great:** The guest quality is exceptional. Previous guests include Bill Gurley, Howard Marks, Annie Duke, Marc Andreessen, and hundreds of other world-class thinkers. O'Shaughnessy asks thoughtful questions and lets guests develop ideas fully — no soundbites, no rushing.
+**Why it's great:** The guest quality is exceptional. Previous guests include Bill Gurley, Howard Marks, Annie Duke, Marc Andreessen, and hundreds of other world-class thinkers. O'Shaughnessy asks thoughtful questions and lets guests develop ideas fully, no soundbites, no rushing.
 
 **Why it's advanced:** Many episodes discuss institutional investing, venture capital, or quantitative strategies that aren't relevant to individual investors. The conversations assume familiarity with investing concepts and market structure. But even when the specifics don't apply to your portfolio, the thinking frameworks are universally valuable.
 
-**Work-friendliness:** ★★★ — Long episodes that demand attention. Best for dedicated learning time or long commutes.
+**Work-friendliness:** ★★★, Long episodes that demand attention. Best for dedicated learning time or long commutes.
 
 ---
 
@@ -253,17 +253,17 @@ Invest Like the Best is the gold standard for long-form investing interviews. Pa
 
 ## Tips for Learning from Investing Podcasts
 
-1. **Take notes** — Keep a note on your phone for new terms, book recommendations, and ideas to research later
-2. **Follow up** — When a podcast mentions a concept you don't understand, search for it on [Khan Academy](https://www.khanacademy.org/economics-finance-domain) or Investopedia
-3. **Apply what you learn** — After hearing about a strategy, test it in a [paper trading app](/best-paper-trading-apps/) before using real money
-4. **Don't act on impulse** — A podcast discussing a stock isn't a buy signal. Do your own research using [stock screeners](/best-free-stock-screeners/) and financial statements
-5. **Rotate based on your level** — As you advance, swap beginner shows for intermediate ones. You'll know you've leveled up when a podcast stops teaching you new things
+1. **Take notes**, Keep a note on your phone for new terms, book recommendations, and ideas to research later
+2. **Follow up**, When a podcast mentions a concept you don't understand, search for it on [Khan Academy](https://www.khanacademy.org/economics-finance-domain) or Investopedia
+3. **Apply what you learn**, After hearing about a strategy, test it in a [paper trading app](/best-paper-trading-apps/) before using real money
+4. **Don't act on impulse**, A podcast discussing a stock isn't a buy signal. Do your own research using [stock screeners](/best-free-stock-screeners/) and financial statements
+5. **Rotate based on your level**, As you advance, swap beginner shows for intermediate ones. You'll know you've leveled up when a podcast stops teaching you new things
 
 ---
 
 ## The Bottom Line
 
-Investing podcasts are stealth education. You're building financial literacy during hours that would otherwise be dead time — commutes, lunch breaks, those stretches of work where you're technically present but mentally checked out.
+Investing podcasts are stealth education. You're building financial literacy during hours that would otherwise be dead time, commutes, lunch breaks, those stretches of work where you're technically present but mentally checked out.
 
 Start with **Planet Money** (economic literacy) and **The Plain Bagel** (investing concepts). Add **Motley Fool Money** when you want to follow markets weekly. Graduate to **We Study Billionaires** and **The Rational Reminder** as your knowledge deepens.
 

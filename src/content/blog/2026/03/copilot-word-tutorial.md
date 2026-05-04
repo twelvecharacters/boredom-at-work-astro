@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Copilot in Word: Complete Tutorial (2026)"
 slug: "copilot-word-tutorial"
-description: "Master Copilot in Word. From drafting documents to rewriting sections—everything you need to use AI directly in Microsoft Word."
+description: "Master Copilot in Word. From drafting documents to rewriting sections, everything you need to use AI directly in Microsoft Word."
 publishDate: 2026-03-03
 updatedDate: 2026-04-05
 author: "bored chap"
@@ -11,20 +11,20 @@ tags: ["Copilot", "Microsoft", "Word", "AI", "Productivity"]
 draft: false
 faq:
   - question: "Is Copilot in Word free?"
-    answer: "Copilot in Word requires Microsoft 365 Personal ($9.99/month) or Family ($12.99/month) — both now include Copilot — or Microsoft 365 Copilot Business ($30/user/month) for organizations. The free Copilot at copilot.microsoft.com can help with Word tasks via copy/paste but doesn't integrate directly."
+    answer: "Copilot in Word requires Microsoft 365 Personal ($9.99/month) or Family ($12.99/month), both now include Copilot, or Microsoft 365 Copilot Business ($30/user/month) for organizations. The free Copilot at copilot.microsoft.com can help with Word tasks via copy/paste but doesn't integrate directly."
   - question: "How do I enable Copilot in Word?"
     answer: "You need Microsoft 365 (Personal, Family, or Business) plus a Copilot subscription. Once subscribed, Copilot appears automatically in Word's ribbon. Look for the Copilot icon in the Home tab."
   - question: "What can Copilot do in Word?"
     answer: "Draft new documents from prompts, rewrite or improve existing text, summarize long documents, change tone (formal/casual), generate tables, answer questions about your document, and help with formatting."
   - question: "Is Copilot better than ChatGPT for Word documents?"
-    answer: "For working within Word, yes—Copilot integrates directly so you don't need to copy/paste. For complex writing tasks or longer documents, ChatGPT or Claude might produce better quality. Many users use both."
+    answer: "For working within Word, yes, Copilot integrates directly so you don't need to copy/paste. For complex writing tasks or longer documents, ChatGPT or Claude might produce better quality. Many users use both."
   - question: "Can Copilot write an entire document for me?"
     answer: "It can generate first drafts, but they typically need editing. Copilot works best as a collaborator: it drafts, you refine. The quality depends heavily on how specific your prompts are."
 tldr: "Copilot in Word is best for: quick first drafts, rewriting awkward sections, changing tone, and summarizing. Give specific prompts for better results. It won't replace good writing skills, but it significantly speeds up the drafting process. Now included in Microsoft 365 Personal/Family subscriptions."
 isListicle: false
 ---
 
-Microsoft put AI directly into Word. No more copying to ChatGPT and back—Copilot works right where you write.
+Microsoft put AI directly into Word. No more copying to ChatGPT and back, Copilot works right where you write.
 
 Here's everything you need to know to actually use it well.
 
@@ -38,7 +38,7 @@ Here's everything you need to know to actually use it well.
 - Word for Windows, Mac, or Word Online
 
 **Don't have Copilot yet?**  
-You can still use the free [Copilot](https://copilot.microsoft.com) for writing help—just copy/paste between Copilot and Word. Not as smooth, but it works.
+You can still use the free [Copilot](https://copilot.microsoft.com) for writing help, just copy/paste between Copilot and Word. Not as smooth, but it works.
 
 ---
 
@@ -256,31 +256,31 @@ Include [number] rows with realistic example data.
 
 ## What Copilot Does Well
 
-✅ **First drafts** — Gets you past the blank page fast
+✅ **First drafts**, Gets you past the blank page fast
 
-✅ **Rewriting** — Great for fixing awkward phrasing
+✅ **Rewriting**, Great for fixing awkward phrasing
 
-✅ **Tone adjustment** — Formal ↔ casual conversions
+✅ **Tone adjustment**, Formal ↔ casual conversions
 
-✅ **Summarizing** — Quick extraction of key points
+✅ **Summarizing**, Quick extraction of key points
 
-✅ **Formatting suggestions** — Tables, bullets, structure
+✅ **Formatting suggestions**, Tables, bullets, structure
 
-✅ **Brainstorming** — "Give me 5 ways to open this proposal"
+✅ **Brainstorming**, "Give me 5 ways to open this proposal"
 
 ---
 
 ## What Copilot Struggles With
 
-❌ **Highly creative writing** — Tends toward generic
+❌ **Highly creative writing**, Tends toward generic
 
-❌ **Very long documents** — Better for sections than whole books
+❌ **Very long documents**, Better for sections than whole books
 
-❌ **Specialized jargon** — May not know your industry's terms
+❌ **Specialized jargon**, May not know your industry's terms
 
-❌ **Factual accuracy** — Don't trust statistics or claims without verification
+❌ **Factual accuracy**, Don't trust statistics or claims without verification
 
-❌ **Your voice** — Needs training to match your style
+❌ **Your voice**, Needs training to match your style
 
 ---
 

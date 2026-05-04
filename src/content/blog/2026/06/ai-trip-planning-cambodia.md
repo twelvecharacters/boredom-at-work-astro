@@ -13,7 +13,7 @@ faq:
   - question: "Is Cambodia safe for tourists?"
     answer: "Yes, Cambodia is generally safe for tourists. Use common sense, especially in Phnom Penh. AI tools can provide current safety information and areas to avoid."
   - question: "What's the best time to visit Cambodia?"
-    answer: "November to March (dry season) is ideal. November is excellent—dry season starting, fewer crowds than December-February. AI helps optimize timing."
+    answer: "November to March (dry season) is ideal. November is excellent, dry season starting, fewer crowds than December-February. AI helps optimize timing."
 ---
 
 Cambodia is Southeast Asia's hidden gem. Angkor Wat alone justifies the trip, but there's so much more: floating villages, pristine beaches, dark history, and genuine hospitality. The [Tourism Cambodia](https://www.tourismcambodia.com) website is the official source for visa information, regional guides, and entry requirements.
@@ -172,7 +172,7 @@ Which offers best value for my planned visits?
 Can I see enough in [X] days?
 ```
 
-Passes must be purchased at the official [Angkor Enterprise](https://www.angkorfoundation.org) ticket office near the Angkor Wat entrance — third-party sellers are not authorized.
+Passes must be purchased at the official [Angkor Enterprise](https://www.angkorfoundation.org) ticket office near the Angkor Wat entrance, third-party sellers are not authorized.
 
 ### Temple Priorities
 
@@ -244,7 +244,7 @@ How do I communicate my needs (Khmer phrase)?
 Which restaurants in Siem Reap/Phnom Penh understand gluten-free?
 ```
 
-**AI insight:** Fish sauce is usually safe. Soy sauce is less common than in other Asian countries but still present. Amok (coconut curry) is often safe. Rice is the staple—good news for gluten-free travelers.
+**AI insight:** Fish sauce is usually safe. Soy sauce is less common than in other Asian countries but still present. Amok (coconut curry) is often safe. Rice is the staple, good news for gluten-free travelers.
 
 ### Scam Awareness
 
@@ -307,7 +307,7 @@ Thailand (if you want beaches + temples)
 
 ## Travel Insurance for Cambodia
 
-Healthcare in Cambodia is limited—serious medical issues often require evacuation to Thailand.
+Healthcare in Cambodia is limited, serious medical issues often require evacuation to Thailand.
 
 ### AI Insurance Prompt for Cambodia
 

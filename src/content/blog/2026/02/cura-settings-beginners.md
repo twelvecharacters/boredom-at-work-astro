@@ -31,7 +31,7 @@ faq:
   - question: "Do I need supports for every print?"
     answer: "No. Only use supports for overhangs greater than 45-50 degrees. Well-designed models often don't need supports at all. When you do need them, tree supports usually work better and are easier to remove."
   - question: "What print speed should beginners use?"
-    answer: "Start with 50mm/s for the main print and 25mm/s for the first layer. Once you're getting consistent results, you can gradually increase to 60-80mm/s. Speed isn't everything—quality matters more when learning."
+    answer: "Start with 50mm/s for the main print and 25mm/s for the first layer. Once you're getting consistent results, you can gradually increase to 60-80mm/s. Speed isn't everything, quality matters more when learning."
   - question: "Why does Cura have so many settings?"
     answer: "Cura is designed for everything from hobby printing to industrial production. 90% of users only need about 10-15 settings. The rest are for edge cases and fine-tuning. Stick to the basics until you have a specific problem to solve."
 tldr: "Focus on these 10 settings: Layer Height (0.2mm), Wall Count (3), Infill (20%), Print Temp (200-210°C for PLA), Bed Temp (60°C), Print Speed (50mm/s), Supports (only when needed), Retraction (enabled), Cooling (100% for PLA), and Adhesion (skirt or brim). Ignore everything else until you need it."
@@ -57,9 +57,9 @@ Let's focus on those.
 
 When you first open Cura:
 
-1. **Add your printer** — Select your printer model from the list (or "Custom FFF" if not listed)
-2. **Choose a profile** — Start with "Standard Quality" (0.2mm layer height)
-3. **Select your material** — Pick "Generic PLA" to start
+1. **Add your printer**, Select your printer model from the list (or "Custom FFF" if not listed)
+2. **Choose a profile**, Start with "Standard Quality" (0.2mm layer height)
+3. **Select your material**, Pick "Generic PLA" to start
 
 That's it. Cura now has reasonable defaults for your setup.
 
@@ -212,7 +212,7 @@ Cura offers many patterns. Here's what matters:
 | **Normal** | Simple, reliable | Harder to remove, leaves marks |
 | **Tree** | Easy removal, less scarring | Can fail on complex geometry |
 
-**Recommendation:** Use **Tree Supports** when possible. Set "Support Overhang Angle" to **45 degrees** (Cura's default — increase to 50° once you're confident your printer handles overhangs well).
+**Recommendation:** Use **Tree Supports** when possible. Set "Support Overhang Angle" to **45 degrees** (Cura's default, increase to 50° once you're confident your printer handles overhangs well).
 
 ---
 
@@ -240,7 +240,7 @@ Cura offers many patterns. Here's what matters:
 
 | Type | What It Does | When to Use |
 |------|--------------|-------------|
-| **Skirt** | Lines around (not touching) print | Default—primes nozzle |
+| **Skirt** | Lines around (not touching) print | Default, primes nozzle |
 | **Brim** | Lines attached to print edge | Small footprint, tall prints |
 | **Raft** | Full platform under print | Warping issues, poor bed |
 
@@ -300,14 +300,14 @@ Adhesion: Skirt (3 lines)
 
 These settings exist but you don't need them as a beginner:
 
-- **Flow Rate** — Only adjust if you've done flow calibration
-- **Coasting** — Edge case for stringing
-- **Combing** — Travel path optimization
-- **Z-Hop** — Lifting nozzle during travel
-- **Ironing** — Smoothing top surfaces (useful but advanced)
-- **Fuzzy Skin** — Textured surfaces (cosmetic)
-- **Adaptive Layers** — Variable layer height
-- **Tree Supports** — Already covered
+- **Flow Rate**, Only adjust if you've done flow calibration
+- **Coasting**, Edge case for stringing
+- **Combing**, Travel path optimization
+- **Z-Hop**, Lifting nozzle during travel
+- **Ironing**, Smoothing top surfaces (useful but advanced)
+- **Fuzzy Skin**, Textured surfaces (cosmetic)
+- **Adaptive Layers**, Variable layer height
+- **Tree Supports**, Already covered
 
 Learn the basics first. These exist for specific problems.
 
@@ -362,20 +362,20 @@ Now you can always return to known-good settings.
 
 Cura's 400+ settings exist for good reason, but you don't need most of them. Focus on these 10:
 
-1. **Layer Height** — 0.2mm
-2. **Line Width** — 0.4mm (nozzle size)
-3. **Wall Count** — 3
-4. **Infill** — 20%
-5. **Print Temp** — 200-210°C (PLA)
-6. **Bed Temp** — 60°C (PLA)
-7. **Print Speed** — 50mm/s
-8. **Supports** — Only when needed
-9. **Retraction** — Enabled, default values
-10. **Adhesion** — Skirt or Brim
+1. **Layer Height**, 0.2mm
+2. **Line Width**, 0.4mm (nozzle size)
+3. **Wall Count**, 3
+4. **Infill**, 20%
+5. **Print Temp**, 200-210°C (PLA)
+6. **Bed Temp**, 60°C (PLA)
+7. **Print Speed**, 50mm/s
+8. **Supports**, Only when needed
+9. **Retraction**, Enabled, default values
+10. **Adhesion**, Skirt or Brim
 
 Master these, get consistent prints, then explore advanced settings as specific problems arise.
 
-**Outgrowing Cura?** If you want built-in calibration tools and a more modern interface, check out our [OrcaSlicer guide](/orcaslicer-guide/) — it's quickly becoming the slicer of choice for power users.
+**Outgrowing Cura?** If you want built-in calibration tools and a more modern interface, check out our [OrcaSlicer guide](/orcaslicer-guide/), it's quickly becoming the slicer of choice for power users.
 
 Now go slice something and hit print.
 

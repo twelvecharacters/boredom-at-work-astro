@@ -12,7 +12,7 @@ faq:
   - question: "What AI skills should I learn to get promoted?"
     answer: "Focus on three areas: prompt engineering (getting better outputs from AI tools), AI-assisted workflow design (identifying which tasks benefit most from AI), and data-informed decision making (using AI to analyze information faster). These skills are valued across every department because they directly increase your output and make you more efficient."
   - question: "How long does it take to learn useful AI skills?"
-    answer: "You can learn the fundamentals in 2-4 weeks of casual study during work downtime. Prompt engineering takes an afternoon to learn the basics. Building real workflow automation skills takes 1-2 months of practice. The key is applying what you learn immediately — use AI tools for actual work tasks, not just tutorials."
+    answer: "You can learn the fundamentals in 2-4 weeks of casual study during work downtime. Prompt engineering takes an afternoon to learn the basics. Building real workflow automation skills takes 1-2 months of practice. The key is applying what you learn immediately, use AI tools for actual work tasks, not just tutorials."
   - question: "Will learning AI skills actually help my career?"
     answer: "LinkedIn's 2025 workforce data shows AI literacy is the most in-demand skill across industries. Employees who demonstrate AI proficiency are 2-3x more likely to be considered for leadership roles, because they can do more with less and help their teams adopt new tools. The ROI on learning AI skills is among the highest of any professional development investment."
 ---
@@ -25,7 +25,7 @@ The professionals who learn to work effectively with AI are becoming more produc
 
 LinkedIn's latest workforce report names AI literacy as the most in-demand skill of 2026. Every company wants AI-capable employees. The question is: will that be you?
 
-Here are the specific AI skills that lead to career advancement—and how to build them.
+Here are the specific AI skills that lead to career advancement, and how to build them.
 
 ## Why AI Skills = Career Advancement
 
@@ -51,7 +51,7 @@ Someone has to pilot new AI tools, lead implementation projects, and train other
 
 ## The 7 AI Skills That Matter Most
 
-These are the skills that actually lead to advancement—not theoretical knowledge, but practical capabilities.
+These are the skills that actually lead to advancement, not theoretical knowledge, but practical capabilities.
 
 ### Skill 1: Prompt Engineering
 
@@ -224,7 +224,7 @@ Different roles benefit from different skill emphasis:
 - Automating routine calculations
 - Summarizing complex documents
 
-**Recommended learning:** Data analysis courses + prompt engineering. Also see [ChatGPT for Stock Research](/chatgpt-stock-research/) — 10 prompts for analyzing companies and markets that apply to both professional and personal investing.
+**Recommended learning:** Data analysis courses + prompt engineering. Also see [ChatGPT for Stock Research](/chatgpt-stock-research/), 10 prompts for analyzing companies and markets that apply to both professional and personal investing.
 
 ### HR
 

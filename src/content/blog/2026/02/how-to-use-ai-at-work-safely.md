@@ -1,7 +1,7 @@
 ---
 title: "How to Use AI at Work Safely: A Practical 2026 Guide"
 slug: "how-to-use-ai-at-work-safely"
-description: "Practical guide to using AI tools at work safely — company policies, data privacy, disclosure rules, and the common mistakes that get people fired."
+description: "Practical guide to using AI tools at work safely, company policies, data privacy, disclosure rules, and the common mistakes that get people fired."
 publishDate: 2026-02-20
 author: "bored chap"
 image: "./how-to-use-ai-at-work-safely.webp"
@@ -10,7 +10,7 @@ tags: ["AI", "Productivity", "Work", "Privacy", "Career"]
 draft: false
 faq:
   - question: "Can I get fired for using AI at work?"
-    answer: "Yes, if you violate company policy or misuse AI (e.g., sharing confidential data, submitting AI work as your own without disclosure, or using AI for prohibited tasks). Most companies allow AI use within guidelines — check your policy."
+    answer: "Yes, if you violate company policy or misuse AI (e.g. sharing confidential data, submitting AI work as your own without disclosure, or using AI for prohibited tasks). Most companies allow AI use within guidelines, check your policy."
   - question: "Do I have to tell my boss I'm using AI?"
     answer: "It depends on your company policy and the task. Many companies require disclosure for client-facing work, official documents, or code. For internal drafts and personal productivity, disclosure requirements vary."
   - question: "Is it cheating to use AI for work?"
@@ -19,7 +19,7 @@ faq:
 
 AI can make you dramatically more productive at work. It can also get you fired if you use it wrong.
 
-The difference isn't about the AI itself — it's about how you use it. This guide covers the practical rules for using AI tools at work without risking your job, your company's data, or your reputation.
+The difference isn't about the AI itself, it's about how you use it. This guide covers the practical rules for using AI tools at work without risking your job, your company's data, or your reputation.
 
 ## The Golden Rules
 
@@ -56,8 +56,8 @@ This is the most important rule. Get it wrong, and you could face serious conseq
 
 When you paste text into ChatGPT or Claude:
 - It's transmitted to their servers
-- It may be used to train future models (ChatGPT uses free-tier conversations for training by default — you can opt out in settings. Claude does not use conversations for model training.)
-- It's stored in logs (at least temporarily — and possibly longer due to ongoing legal proceedings)
+- It may be used to train future models (ChatGPT uses free-tier conversations for training by default, you can opt out in settings. Claude does not use conversations for model training.)
+- It's stored in logs (at least temporarily, and possibly longer due to ongoing legal proceedings)
 - You've effectively shared company data with a third party
 
 **Real consequences:**
@@ -207,11 +207,11 @@ AI makes mistakes. Confident-sounding mistakes. You're responsible for catching 
 
 ### The Review Process
 
-1. **Read everything** — Don't skim
-2. **Verify facts** — Especially numbers and claims
-3. **Edit actively** — Don't just accept
-4. **Add your expertise** — AI doesn't know your context
-5. **Check tone** — Make it sound like you
+1. **Read everything**, Don't skim
+2. **Verify facts**, Especially numbers and claims
+3. **Edit actively**, Don't just accept
+4. **Add your expertise**, AI doesn't know your context
+5. **Check tone**, Make it sound like you
 
 ### Common AI Mistakes
 
@@ -320,7 +320,7 @@ Whatever AI produces, you're responsible for.
 - Check sources (AI may hallucinate)
 - Don't rely solely on AI for important decisions
 
-**Tip:** Use Perplexity for research — it provides sources you can verify. See our [Perplexity guide](/perplexity-ai-guide/).
+**Tip:** Use Perplexity for research, it provides sources you can verify. See our [Perplexity guide](/perplexity-ai-guide/).
 
 ---
 
@@ -328,10 +328,10 @@ Whatever AI produces, you're responsible for.
 
 ### Daily Practices
 
-1. **Pause before pasting** — Is this data safe to share?
-2. **Review before sending** — Did AI make mistakes?
-3. **Disclose when appropriate** — Am I being transparent?
-4. **Add your value** — What's my contribution?
+1. **Pause before pasting**, Is this data safe to share?
+2. **Review before sending**, Did AI make mistakes?
+3. **Disclose when appropriate**, Am I being transparent?
+4. **Add your value**, What's my contribution?
 
 ### Red Flags to Avoid
 
@@ -343,7 +343,7 @@ Whatever AI produces, you're responsible for.
 
 ### Making AI Work for You
 
-The goal isn't to avoid AI — it's to use it responsibly.
+The goal isn't to avoid AI, it's to use it responsibly.
 
 **Good AI use:**
 - Save time on tedious tasks
@@ -449,8 +449,8 @@ That's not a high bar. It's just being a responsible professional in 2026.
 
 ## Related Articles
 
-- [AI Tools Guide](/ai-tools-guide/) — Complete hub for all AI tools
-- [How to Learn AI in 2026](/learn-ai-guide/) — Your complete AI learning roadmap
-- [Best AI Tools for Office Work](/best-ai-tools-office-work/) — Curated productivity tools
-- [ChatGPT Mastery Guide](/chatgpt-guide/) — Master the most popular AI tool
-- [AI Meeting Assistants](/ai-meeting-assistants/) — Privacy-conscious options
+- [AI Tools Guide](/ai-tools-guide/), Complete hub for all AI tools
+- [How to Learn AI in 2026](/learn-ai-guide/), Your complete AI learning roadmap
+- [Best AI Tools for Office Work](/best-ai-tools-office-work/), Curated productivity tools
+- [ChatGPT Mastery Guide](/chatgpt-guide/), Master the most popular AI tool
+- [AI Meeting Assistants](/ai-meeting-assistants/), Privacy-conscious options

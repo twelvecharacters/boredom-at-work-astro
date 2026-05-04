@@ -1,7 +1,7 @@
 ---
 title: "30 Best Free macOS Apps in 2026 (+ Homebrew Guide)"
 slug: "best-free-macos-software"
-description: "The 30 best free macOS apps for productivity, creativity, and system utilities — plus a complete Homebrew setup guide for beginners in 2026."
+description: "The 30 best free macOS apps for productivity, creativity, and system utilities, plus a complete Homebrew setup guide for beginners in 2026."
 publishDate: 2026-02-25
 author: "bored chap"
 image: "./free-macos-software.webp"
@@ -26,7 +26,7 @@ Buying a Mac is expensive enough. Setting it up shouldn't be.
 
 Whether you're a pro user or just trying to look busy at work, the right software can make or break your experience. Fortunately, some of the best tools for macOS don't cost a dime.
 
-Here are 30 essential free apps organized by category, plus a complete guide to Homebrew — the tool that makes installing everything effortless.
+Here are 30 essential free apps organized by category, plus a complete guide to Homebrew, the tool that makes installing everything effortless.
 
 ## Quick Overview
 
@@ -49,11 +49,11 @@ These are the apps you'll use every day. They fill gaps Apple left in macOS.
 
 Stop using Spotlight. **Raycast** is a faster, more extensible launcher that does everything Spotlight does, plus:
 
-- **Clipboard history** — Never lose something you copied
-- **Window management** — Snap windows with commands
-- **Extensions** — Spotify control, GitHub, Notion, hundreds more
-- **Snippets** — Type shortcuts for frequently used text
-- **Calculator** — More powerful than Spotlight's
+- **Clipboard history**, Never lose something you copied
+- **Window management**, Snap windows with commands
+- **Extensions**, Spotify control, GitHub, Notion, hundreds more
+- **Snippets**, Type shortcuts for frequently used text
+- **Calculator**, More powerful than Spotlight's
 
 **Install:** `brew install --cask raycast` or [raycast.com](https://raycast.com)
 
@@ -101,7 +101,7 @@ Dragging an app to Trash doesn't actually delete everything. macOS leaves behind
 
 **Paid alternative it replaces:** CleanMyMac (~$40/year)
 
-**Power user upgrade:** If you use Homebrew heavily, check out [Pearcleaner](/pearcleaner-homebrew-guide/) — it does everything AppCleaner does plus full Homebrew cask management, App Lipo (strip unused Intel code), and an automatic Sentinel monitor that catches leftover files when you drag apps to Trash.
+**Power user upgrade:** If you use Homebrew heavily, check out [Pearcleaner](/pearcleaner-homebrew-guide/), it does everything AppCleaner does plus full Homebrew cask management, App Lipo (strip unused Intel code), and an automatic Sentinel monitor that catches leftover files when you drag apps to Trash.
 
 ### 5. Maccy (Clipboard Manager)
 
@@ -126,7 +126,7 @@ Too many menu bar icons? Hidden Bar lets you hide the ones you don't need to see
 
 **Install:** `brew install --cask hiddenbar` or Mac App Store
 
-**Paid alternative it replaces:** Bartender ($25 — though its 2024 acquisition by an unknown company raised trust concerns; many users switched away)
+**Paid alternative it replaces:** Bartender ($25, though its 2024 acquisition by an unknown company raised trust concerns; many users switched away)
 
 ### 7. Amphetamine (Keep Mac Awake)
 
@@ -447,7 +447,7 @@ Love it or hate it, you probably need it:
 
 ## Homebrew: The Missing Package Manager
 
-Notice how many apps above have a `brew install` command? That's **Homebrew** — and it's the best way to install software on macOS.
+Notice how many apps above have a `brew install` command? That's **Homebrew**, and it's the best way to install software on macOS.
 
 ### What Is Homebrew?
 
@@ -509,23 +509,23 @@ brew install --cask raycast rectangle obsidian appcleaner \
 
 ### Homebrew Tips
 
-- **Homebrew updates apps too** — Run `brew upgrade` regularly
-- **It tracks everything** — Won't mess up your system
-- **It's safe** — Used by millions of developers
-- **Works offline** — Once apps are installed, no internet needed
+- **Homebrew updates apps too**, Run `brew upgrade` regularly
+- **It tracks everything**, Won't mess up your system
+- **It's safe**, Used by millions of developers
+- **Works offline**, Once apps are installed, no internet needed
 
 ---
 
 ## The Bottom Line
 
-You don't need to spend hundreds on software to have a great Mac experience. This list covers almost everything most people need — productivity, creativity, security, development.
+You don't need to spend hundreds on software to have a great Mac experience. This list covers almost everything most people need, productivity, creativity, security, development.
 
 **Start with these five:**
-1. **Raycast** — Better launcher
-2. **Rectangle** — Window management
-3. **Obsidian** — Notes
-4. **AppCleaner** — Uninstaller
-5. **Bitwarden** — Passwords
+1. **Raycast**, Better launcher
+2. **Rectangle**, Window management
+3. **Obsidian**, Notes
+4. **AppCleaner**, Uninstaller
+5. **Bitwarden**, Passwords
 
 Then add others as you need them.
 

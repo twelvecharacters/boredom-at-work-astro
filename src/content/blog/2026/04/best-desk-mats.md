@@ -11,18 +11,18 @@ draft: false
 isListicle: true
 faq:
   - question: "What is the best material for a desk mat?"
-    answer: "It depends on your priorities. PU leather is waterproof and easy to clean—great if you spill coffee. Wool felt looks premium and dampens keyboard noise, but absorbs liquids. Full-grain leather ages beautifully and lasts years but costs $100+. For most home offices, PU leather at ~$8-15 offers the best value. Upgrade to wool felt or real leather if aesthetics matter to you."
+    answer: "It depends on your priorities. PU leather is waterproof and easy to clean, great if you spill coffee. Wool felt looks premium and dampens keyboard noise, but absorbs liquids. Full-grain leather ages beautifully and lasts years but costs $100+. For most home offices, PU leather at ~$8-15 offers the best value. Upgrade to wool felt or real leather if aesthetics matter to you."
   - question: "What size desk mat should I get?"
-    answer: "For a standard desk, get at least 31 x 16 inches—this fits a keyboard and mouse comfortably. If you want full desk coverage (keyboard, mouse, coffee, notepad), go 36 x 17 inches or larger. Extended desk pads at 47+ inches cover your entire workspace. Measure your desk first and leave 2-3 inches of clearance on each side."
+    answer: "For a standard desk, get at least 31 x 16 inches, this fits a keyboard and mouse comfortably. If you want full desk coverage (keyboard, mouse, coffee, notepad), go 36 x 17 inches or larger. Extended desk pads at 47+ inches cover your entire workspace. Measure your desk first and leave 2-3 inches of clearance on each side."
   - question: "Are expensive desk mats worth it over cheap ones?"
-    answer: "A $8-15 PU leather desk mat does 90% of what a $100+ premium mat does—protects your desk, improves mouse tracking, and looks decent. Premium mats from Grovemade or Harber London use better materials that last longer and age gracefully, plus they feel noticeably different under your hands. If you work 8+ hours at your desk daily, the upgrade is worth it. Otherwise, budget mats are perfectly fine."
+    answer: "A $8-15 PU leather desk mat does 90% of what a $100+ premium mat does, protects your desk, improves mouse tracking, and looks decent. Premium mats from Grovemade or Harber London use better materials that last longer and age gracefully, plus they feel noticeably different under your hands. If you work 8+ hours at your desk daily, the upgrade is worth it. Otherwise, budget mats are perfectly fine."
 ---
 
 A bare desk is technically functional, but it's also boring, scratched up, and makes every mouse movement sound like a tiny drumroll.
 
 A desk mat fixes all of that. It protects your desk surface, makes your mouse track better, and honestly just makes your workspace look like you care about it. If you've been building out your [home office setup](/desk-upgrade-guide/), a desk mat is one of those finishing touches that punches way above its price.
 
-I went through a pile of desk mats across every price point—from $8 Amazon specials to $180+ handcrafted leather. Here's what's actually worth your money.
+I went through a pile of desk mats across every price point, from $8 Amazon specials to $180+ handcrafted leather. Here's what's actually worth your money.
 
 ---
 
@@ -38,30 +38,30 @@ I went through a pile of desk mats across every price point—from $8 Amazon spe
 | **Harber London Desk Mat** | ~$129–239 | Full-grain leather + felt | Best leather | 20"x12" to 31"x18" |
 | **Amazon Basics Desk Pad** | ~$10–15 | PU leather | Ultra-budget | 31.5"x15.8" |
 
-*Prices as of early 2026. They fluctuate—check current prices before buying.*
+*Prices as of early 2026. They fluctuate, check current prices before buying.*
 
 ---
 
-## 1. Grovemade Matte Desk Pad — Best Premium
+## 1. Grovemade Matte Desk Pad, Best Premium
 
 **Price:** ~$40 (small) to ~$90 (extra-large)
 **Material:** Natural linoleum (linseed oil, pine rosin, wood flour) + cork backing
 **Sizes:** 11"x25", 11.5"x38", 15.75"x38", 26"x38.5", 26.5"x49"
 **Thickness:** 3.5mm
 
-[Grovemade](https://grovemade.com/product/matte-desk-pad/) doesn't make desk mats. They make desk *surfaces*. The Matte Desk Pad is made from natural linoleum—a material composed of linseed oil, natural pine rosin, wood flour, and calcium carbonate. It sounds weird. It feels incredible.
+[Grovemade](https://grovemade.com/product/matte-desk-pad/) doesn't make desk mats. They make desk *surfaces*. The Matte Desk Pad is made from natural linoleum, a material composed of linseed oil, natural pine rosin, wood flour, and calcium carbonate. It sounds weird. It feels incredible.
 
 The surface has a subtle texture, almost like premium paper. Writing on it with a pen feels better than writing on your desk. Mouse tracking is smooth and consistent. The cork backing keeps it firmly in place without any adhesive, and every edge is hand-sanded flush.
 
 Made in Portland, Oregon. Five size options from a compact keyboard pad to a full desk-spanning extra-large. This is the desk mat for people who treat their workspace like a tool, not an afterthought.
 
-**What makes it special:** The linoleum surface is self-healing—minor scratches and marks gradually fade. It also develops a subtle patina over time, which either delights you or bothers you depending on your personality.
+**What makes it special:** The linoleum surface is self-healing, minor scratches and marks gradually fade. It also develops a subtle patina over time, which either delights you or bothers you depending on your personality.
 
 **Who it's for:** Anyone who wants a premium, non-leather desk surface that looks and feels different from everything else. If you spend 8+ hours at your desk daily, the Grovemade pays for itself in the "I actually enjoy sitting here" department.
 
 ---
 
-## 2. Orbitkey Desk Mat — Best Features
+## 2. Orbitkey Desk Mat, Best Features
 
 **Price:** ~$65 (medium) to ~$85 (large)
 **Material:** Premium vegan leather top + 100% recycled PET felt bottom
@@ -70,15 +70,15 @@ Made in Portland, Oregon. Five size options from a compact keyboard pad to a ful
 
 The [Orbitkey Desk Mat](https://www.orbitkey.com/products/orbitkey-desk-mat) is the Swiss Army knife of desk pads. It has two features no other mat on this list offers: a **magnetic cable holder** built into the top edge and a **document hideaway** where you can tuck loose papers, sticky notes, or that receipt you'll definitely need later.
 
-The vegan leather surface is water-repellent and wipes clean easily. The recycled PET felt bottom adds a touch of sustainability cred and keeps the mat from sliding around. Build quality is solid—the edges are clean, the magnets are strong enough to hold cables without being a pain to remove.
+The vegan leather surface is water-repellent and wipes clean easily. The recycled PET felt bottom adds a touch of sustainability cred and keeps the mat from sliding around. Build quality is solid, the edges are clean, the magnets are strong enough to hold cables without being a pain to remove.
 
-**What makes it special:** That magnetic cable holder is genuinely useful. Instead of your charging cable sliding off the desk every time you unplug your phone, it just sticks to the mat. Small thing, huge quality-of-life improvement—especially when combined with good [cable management](/cable-management-tips/).
+**What makes it special:** That magnetic cable holder is genuinely useful. Instead of your charging cable sliding off the desk every time you unplug your phone, it just sticks to the mat. Small thing, huge quality-of-life improvement, especially when combined with good [cable management](/cable-management-tips/).
 
 **Who it's for:** People who want their desk mat to actually *do* something beyond covering the desk. If your workspace is a constant battle between loose cables, scattered papers, and general chaos, the Orbitkey brings order.
 
 ---
 
-## 3. YSAGi Dual-Sided Desk Pad — Best Budget
+## 3. YSAGi Dual-Sided Desk Pad, Best Budget
 
 **Price:** ~$8–15 (depending on size and color)
 **Material:** PU leather (both sides) or PU leather + cork
@@ -87,17 +87,17 @@ The vegan leather surface is water-repellent and wipes clean easily. The recycle
 
 Here's the thing about desk mats: a $10 one does most of what a $100 one does. The YSAGi is living proof.
 
-Both sides are usable—flip it for a different color or a different surface texture (the cork versions give you PU leather on one side and natural cork on the other). It's waterproof, easy to wipe clean, and soft enough to rest your wrists on without irritation.
+Both sides are usable, flip it for a different color or a different surface texture (the cork versions give you PU leather on one side and natural cork on the other). It's waterproof, easy to wipe clean, and soft enough to rest your wrists on without irritation.
 
-The ultra-thin design means it barely changes the feel of your desk—no raised edges to catch your wrists on, no awkward height difference between the mat and bare desk. Available in about a million color combinations, from professional black/gray to pastel pink.
+The ultra-thin design means it barely changes the feel of your desk, no raised edges to catch your wrists on, no awkward height difference between the mat and bare desk. Available in about a million color combinations, from professional black/gray to pastel pink.
 
 **What makes it special:** The dual-sided design means you get two desk mats for the price of one. Spilled something? Flip it. Bored with the color? Flip it. One side wearing out? Flip it.
 
-**Who it's for:** Anyone on a budget, anyone who wants a waterproof surface, anyone who can't commit to one color. Also perfect if you're not sure you even *want* a desk mat—at ~$8, it's basically free to find out.
+**Who it's for:** Anyone on a budget, anyone who wants a waterproof surface, anyone who can't commit to one color. Also perfect if you're not sure you even *want* a desk mat, at ~$8, it's basically free to find out.
 
 ---
 
-## 4. Oakywood Felt & Cork Desk Mat — Best Sustainable
+## 4. Oakywood Felt & Cork Desk Mat, Best Sustainable
 
 **Price:** ~$39 (M) to ~$65 (XL)
 **Material:** 100% merino wool felt + natural cork base
@@ -106,24 +106,24 @@ The ultra-thin design means it barely changes the feel of your desk—no raised 
 
 Oakywood does the eco-friendly desk mat right. The top layer is OEKO-TEX 100 certified merino wool felt, sourced in Germany. The base is natural cork, responsibly harvested in Portugal using methods that let the tree fully regenerate. Everything is handmade.
 
-The wool felt dampens keyboard and mouse noise noticeably—your coworkers on the other end of a video call will appreciate it. The cork base provides just enough grip to keep the mat in place without gripping so hard you can't adjust it.
+The wool felt dampens keyboard and mouse noise noticeably, your coworkers on the other end of a video call will appreciate it. The cork base provides just enough grip to keep the mat in place without gripping so hard you can't adjust it.
 
 It's a thin mat at 3mm, which keeps your desk height consistent. Available in multiple colors including anthracite, dark gray, and natural.
 
 **What makes it special:** The sustainability angle is real, not marketing fluff. Merino wool is naturally moisture-wicking and odor-resistant. The cork is self-renewing. And the whole thing looks like it belongs in a Scandinavian design catalog.
 
-**Who it's for:** Environmentally conscious buyers who want a natural, premium-feeling desk mat without plastic or synthetic materials. Also great if you type a lot—the noise dampening is a genuine benefit.
+**Who it's for:** Environmentally conscious buyers who want a natural, premium-feeling desk mat without plastic or synthetic materials. Also great if you type a lot, the noise dampening is a genuine benefit.
 
 ---
 
-## 5. LTT Northern Lights Desk Pad — Best Extended
+## 5. LTT Northern Lights Desk Pad, Best Extended
 
 **Price:** ~$30–50 (depending on size)
 **Material:** Micro-texture cloth surface + 3.5mm rubber base
 **Sizes:** 900x400mm (35"x16"), 1200x600mm (47"x24"), 1200x800mm (47"x31"), 1200x900mm (47"x35")
 **Thickness:** 3.5mm
 
-If your desk mat doesn't cover your entire desk, is it even a desk mat? The LTT Northern Lights from the Linus Tech Tips store goes big—really big. The largest size at 47"x35" essentially *is* your desk surface.
+If your desk mat doesn't cover your entire desk, is it even a desk mat? The LTT Northern Lights from the Linus Tech Tips store goes big, really big. The largest size at 47"x35" essentially *is* your desk surface.
 
 The micro-texture cloth provides excellent mouse tracking for both optical and laser sensors. The rubber base is thick enough to stay put and cushion your wrists, but not so thick that your keyboard wobbles. Available in multiple designs including the Northern Lights (colorful gradient on the left, clean mousing area on the right), Stealth (all black with subtle branding), and Circuit (tech-inspired design).
 
@@ -133,7 +133,7 @@ The micro-texture cloth provides excellent mouse tracking for both optical and l
 
 ---
 
-## 6. Harber London Desk Mat — Best Leather
+## 6. Harber London Desk Mat, Best Leather
 
 **Price:** ~$129 (basic) to ~$239 (professional)
 **Material:** Full-grain leather + wool felt or microfiber lining
@@ -143,7 +143,7 @@ The micro-texture cloth provides excellent mouse tracking for both optical and l
 
 This is the desk mat you buy when you've accepted that your home office is a permanent part of your life and you want it to look like it.
 
-[Harber London](https://www.harberlondon.com/collections/desk-mats) uses full-grain leather—the same quality you'd find in a high-end wallet or bag. It's handcrafted in Spain in a solar-powered workshop, which is a nice detail but honestly, you're buying this for the leather. It's soft, it smells incredible when new, and it develops a patina over years of use that makes it look *better*, not worse.
+[Harber London](https://www.harberlondon.com/collections/desk-mats) uses full-grain leather, the same quality you'd find in a high-end wallet or bag. It's handcrafted in Spain in a solar-powered workshop, which is a nice detail but honestly, you're buying this for the leather. It's soft, it smells incredible when new, and it develops a patina over years of use that makes it look *better*, not worse.
 
 The underside options are wool felt (warmer, more cushion) or microfiber (thinner, sticks better to smooth desks). A cut-through cable hole lets you route a charging cable neatly through the mat.
 
@@ -153,7 +153,7 @@ The underside options are wool felt (warmer, more cushion) or microfiber (thinne
 
 ---
 
-## 7. Amazon Basics Desk Pad — Best Ultra-Budget
+## 7. Amazon Basics Desk Pad, Best Ultra-Budget
 
 **Price:** ~$10–15
 **Material:** PU leather
@@ -178,7 +178,7 @@ If you've been working at a bare desk and it's fine, you might wonder what the p
 
 ### Desk Protection
 
-Scratches, stains, water rings from coffee mugs, wear marks from your mouse—these accumulate faster than you'd think. A desk mat takes the damage instead of your desk surface. Especially important if you have a nice standing desk or wood desk you want to keep looking good.
+Scratches, stains, water rings from coffee mugs, wear marks from your mouse, these accumulate faster than you'd think. A desk mat takes the damage instead of your desk surface. Especially important if you have a nice standing desk or wood desk you want to keep looking good.
 
 ### Better Mouse Tracking
 
@@ -186,7 +186,7 @@ A consistent surface means your mouse tracks consistently. No dead spots, no fri
 
 ### Noise Dampening
 
-Keyboard clatter on a hard desk surface is surprisingly loud—especially on video calls. A desk mat absorbs that impact. Wool felt mats like the Oakywood are particularly good at this, but even a thin PU leather mat helps.
+Keyboard clatter on a hard desk surface is surprisingly loud, especially on video calls. A desk mat absorbs that impact. Wool felt mats like the Oakywood are particularly good at this, but even a thin PU leather mat helps.
 
 ### Wrist Comfort
 
@@ -194,7 +194,7 @@ Resting your wrists on a hard desk for 8 hours isn't great. A desk mat with some
 
 ### Aesthetics
 
-Let's be honest—a matching desk mat just makes your setup look put together. It's the equivalent of a nice rug in a living room. Functional? Debatable. But it ties the room together.
+Let's be honest, a matching desk mat just makes your setup look put together. It's the equivalent of a nice rug in a living room. Functional? Debatable. But it ties the room together.
 
 ### Cable Routing
 
@@ -206,7 +206,7 @@ Some mats (like the Orbitkey with its magnetic cable holder, or the Harber Londo
 
 ### Size
 
-Measure your desk first. Seriously—grab a tape measure.
+Measure your desk first. Seriously, grab a tape measure.
 
 | Use Case | Recommended Size | Coverage |
 |----------|-----------------|----------|
@@ -230,7 +230,7 @@ Leave 2-3 inches of clearance from desk edges so the mat doesn't hang over.
 
 ### Waterproofing
 
-If you drink coffee, tea, or anything at your desk—and you do—waterproofing matters. PU leather and vegan leather are inherently waterproof. Wool felt and natural materials are not. Real leather is water-*resistant* but not waterproof.
+If you drink coffee, tea, or anything at your desk, and you do, waterproofing matters. PU leather and vegan leather are inherently waterproof. Wool felt and natural materials are not. Real leather is water-*resistant* but not waterproof.
 
 For non-waterproof mats: keep a coaster nearby. It's not complicated.
 
@@ -240,7 +240,7 @@ Reversible mats (like the YSAGi) give you two surfaces for the price of one. The
 
 ### Edge Stitching
 
-Cloth desk pads without edge stitching will fray within months. Always check for stitched or sealed edges on fabric-based mats. Leather and PU leather mats don't have this issue—the edges are cut and finished.
+Cloth desk pads without edge stitching will fray within months. Always check for stitched or sealed edges on fabric-based mats. Leather and PU leather mats don't have this issue, the edges are cut and finished.
 
 ### Thickness
 
@@ -254,19 +254,19 @@ Cloth desk pads without edge stitching will fray within months. Always check for
 
 ## My Recommendations by Use Case
 
-**Best overall (price meets quality):** Grovemade Matte Desk Pad — The linoleum surface is unlike anything else, the cork backing works, and prices start at ~$40. Hard to beat for a premium mat.
+**Best overall (price meets quality):** Grovemade Matte Desk Pad, The linoleum surface is unlike anything else, the cork backing works, and prices start at ~$40. Hard to beat for a premium mat.
 
-**Best if you want features:** Orbitkey Desk Mat — The magnetic cable holder and document hideaway actually solve real problems. At ~$65-85, you're paying for function, not just aesthetics.
+**Best if you want features:** Orbitkey Desk Mat, The magnetic cable holder and document hideaway actually solve real problems. At ~$65-85, you're paying for function, not just aesthetics.
 
-**Best on a tight budget:** YSAGi Dual-Sided — At ~$8-15, it's almost irresponsible not to try a desk mat at this price. Waterproof, reversible, and available in every color.
+**Best on a tight budget:** YSAGi Dual-Sided, At ~$8-15, it's almost irresponsible not to try a desk mat at this price. Waterproof, reversible, and available in every color.
 
-**Best for sustainability:** Oakywood Felt & Cork — Real merino wool, responsibly sourced cork, OEKO-TEX certified. If materials matter to you, this is the one.
+**Best for sustainability:** Oakywood Felt & Cork, Real merino wool, responsibly sourced cork, OEKO-TEX certified. If materials matter to you, this is the one.
 
-**Best for large desks:** LTT Northern Lights — Sizes up to 47"x35" that cover your entire workspace. Good quality cloth surface with rubber base.
+**Best for large desks:** LTT Northern Lights, Sizes up to 47"x35" that cover your entire workspace. Good quality cloth surface with rubber base.
 
-**Best for leather lovers:** Harber London — Full-grain leather, handmade in Spain, ages like fine wine. An investment piece at ~$129+.
+**Best for leather lovers:** Harber London, Full-grain leather, handmade in Spain, ages like fine wine. An investment piece at ~$129+.
 
-**Best for "just give me a desk mat":** Amazon Basics — Under $15, does the job, no frills. The Honda Civic of desk mats.
+**Best for "just give me a desk mat":** Amazon Basics, Under $15, does the job, no frills. The Honda Civic of desk mats.
 
 ---
 
@@ -274,6 +274,6 @@ Cloth desk pads without edge stitching will fray within months. Always check for
 
 A desk mat is one of those upgrades that costs almost nothing (or a lot, if you go Harber London) but makes your workspace feel immediately more intentional. Whether you're building out a full [home office setup](/desk-upgrade-guide/) or just want to stop your mouse from scratching up your desk, there's a mat on this list for you.
 
-And once your desk surface is sorted, don't forget about what's *under* the desk. A good [cable management setup](/cable-management-tips/) paired with a clean desk mat is basically the home office equivalent of making your bed—small effort, big visual payoff.
+And once your desk surface is sorted, don't forget about what's *under* the desk. A good [cable management setup](/cable-management-tips/) paired with a clean desk mat is basically the home office equivalent of making your bed, small effort, big visual payoff.
 
 *Prices checked as of early 2026 and may vary by retailer and size. When in doubt, check the manufacturer's website for current pricing.*

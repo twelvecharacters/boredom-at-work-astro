@@ -1,7 +1,7 @@
 ---
 title: "The Complete Kindle Guide (2026): Setup, Books, Tips & Tricks"
 slug: "kindle-guide"
-description: "Complete Kindle guide for 2026. Setup, free books, customization, sideloading, accessories, tips, and tricks — everything you need to master your Kindle."
+description: "Complete Kindle guide for 2026. Setup, free books, customization, sideloading, accessories, tips, and tricks, everything you need to master your Kindle."
 publishDate: 2026-04-15
 author: "bored chap"
 image: "./kindle-guide.webp"
@@ -14,26 +14,26 @@ faq:
   - question: "Which Kindle should I buy first?"
     answer: "The Kindle Paperwhite is the right pick for most people. It has a 7-inch 300 PPI screen, adjustable warm light, IPX8 waterproofing, and 16 GB of storage at around $160. The base Kindle ($110) is fine if budget is tight, but the Paperwhite's bigger screen and waterproofing justify the extra $50 for anyone who reads regularly."
   - question: "Can I read EPUB files on a Kindle?"
-    answer: "Yes, since 2022. Amazon's Send to Kindle service now accepts EPUB files — email them to your Kindle address or use the Send to Kindle website. The file gets converted to Amazon's format automatically. For bulk transfers or DRM-protected EPUB files, Calibre remains the most reliable tool."
+    answer: "Yes, since 2022. Amazon's Send to Kindle service now accepts EPUB files, email them to your Kindle address or use the Send to Kindle website. The file gets converted to Amazon's format automatically. For bulk transfers or DRM-protected EPUB files, Calibre remains the most reliable tool."
   - question: "How do I get free books for my Kindle?"
     answer: "Three legitimate sources: library borrowing through Libby or OverDrive (connects directly to Kindle), Amazon's monthly Kindle First Reads free for Prime members, and public domain classics from Project Gutenberg and Standard Ebooks. Kindle Unlimited ($12/month) also offers unlimited reads from a catalog of 4+ million titles."
   - question: "Do I need Kindle Unlimited?"
     answer: "Only if you read 2+ books per month and your taste matches the catalog. Kindle Unlimited is strongest in romance, sci-fi/fantasy, self-help, and cookbooks. It's weak on new releases from major publishers and recent bestsellers. Most public libraries offer free ebook lending through Libby, which is often a better deal for serious readers."
 ---
 
-So you got a Kindle — or you're thinking about getting one. Either way, this is the guide you'll want bookmarked. Everything from your first book to advanced sideloading tricks, organized in the order you'll actually need them.
+So you got a Kindle, or you're thinking about getting one. Either way, this is the guide you'll want bookmarked. Everything from your first book to advanced sideloading tricks, organized in the order you'll actually need them.
 
-Kindle is more than a device — it's an ecosystem of books, subscriptions, reading apps, and accessories. Amazon's been refining it for nearly 20 years, and in 2026 the experience is as polished as it gets. Here's how to get the most out of it.
+Kindle is more than a device, it's an ecosystem of books, subscriptions, reading apps, and accessories. Amazon's been refining it for nearly 20 years, and in 2026 the experience is as polished as it gets. Here's how to get the most out of it.
 
 **Quick navigation:**
 
-- [Is it worth it?](#is-a-kindle-actually-worth-it) — The honest answer before you spend
-- [Which Kindle to buy](#which-kindle-should-you-buy) — Quick picks (not a full comparison)
-- [Getting started](#getting-started) — First-time setup
-- [Getting books](#getting-books-free-paid-and-borrowed) — Free, paid, and borrowed
-- [Reading experience](#getting-the-most-out-of-reading) — Tips and customization
-- [Advanced](#advanced-sideloading-and-modding) — Sideloading, jailbreaking
-- [Accessories](#accessories-worth-buying) — What's actually worth it
+- [Is it worth it?](#is-a-kindle-actually-worth-it), The honest answer before you spend
+- [Which Kindle to buy](#which-kindle-should-you-buy), Quick picks (not a full comparison)
+- [Getting started](#getting-started), First-time setup
+- [Getting books](#getting-books-free-paid-and-borrowed), Free, paid, and borrowed
+- [Reading experience](#getting-the-most-out-of-reading), Tips and customization
+- [Advanced](#advanced-sideloading-and-modding), Sideloading, jailbreaking
+- [Accessories](#accessories-worth-buying), What's actually worth it
 
 ---
 
@@ -46,7 +46,7 @@ They're **not great** if you:
 - Only read 1-2 books a year (just borrow physical books)
 - Need to annotate heavily for academic work (the Kindle Scribe is an exception)
 
-For a deeper look at the trade-offs — including comparisons to phones and tablets — read our full breakdown: [Is a Kindle Worth It?](/is-kindle-worth-it/)
+For a deeper look at the trade-offs, including comparisons to phones and tablets, read our full breakdown: [Is a Kindle Worth It?](/is-kindle-worth-it/)
 
 And if you already have a phone you read on, here's the honest comparison: [Kindle vs iPad for reading](/kindle-vs-ipad-reading/).
 
@@ -54,14 +54,14 @@ And if you already have a phone you read on, here's the honest comparison: [Kind
 
 ## Which Kindle Should You Buy?
 
-**This guide isn't a full product comparison** — for that, see our dedicated [best e-readers comparison](/best-e-readers/) which covers every model from Amazon, Kobo, Boox, and reMarkable with specs and prices.
+**This guide isn't a full product comparison**, for that, see our dedicated [best e-readers comparison](/best-e-readers/) which covers every model from Amazon, Kobo, Boox, and reMarkable with specs and prices.
 
 But if you want the short version:
 
-- **Kindle Paperwhite** (~$160) — The right choice for 90% of readers. 7-inch 300 PPI screen, warm light, waterproof, 16 GB.
-- **Base Kindle** (~$110) — Fine if you're on a tight budget. Smaller 6-inch screen, not waterproof.
-- **Kindle Scribe** (~$400) — Only if you need note-taking and PDF annotation. See our [Kindle Scribe review](/kindle-scribe-review/) for the honest take.
-- **Kindle Colorsoft Signature** (~$280) — For comics, magazines, and cookbooks. Color E Ink is impressive but not cheap.
+- **Kindle Paperwhite** (~$160), The right choice for 90% of readers. 7-inch 300 PPI screen, warm light, waterproof, 16 GB.
+- **Base Kindle** (~$110), Fine if you're on a tight budget. Smaller 6-inch screen, not waterproof.
+- **Kindle Scribe** (~$400), Only if you need note-taking and PDF annotation. See our [Kindle Scribe review](/kindle-scribe-review/) for the honest take.
+- **Kindle Colorsoft Signature** (~$280), For comics, magazines, and cookbooks. Color E Ink is impressive but not cheap.
 
 **Considering Kobo instead?** Kobo has better library integration, open EPUB support, and no ads. Read [Kindle vs Kobo](/kindle-vs-kobo/) or the specific [Kindle Paperwhite vs Kobo Clara head-to-head](/kindle-paperwhite-vs-kobo-clara/) to decide.
 
@@ -73,11 +73,11 @@ But if you want the short version:
 
 Out of the box, setup takes about 5 minutes:
 
-1. **Charge it** — USB-C on newer models, micro-USB on older ones. First charge usually ships at 30–40%.
-2. **Connect to Wi-Fi** — Required to register and download books.
-3. **Sign into your Amazon account** — If you don't have one, you can create it during setup.
-4. **Skip the tutorial** — It's optional and mostly obvious.
-5. **Choose "without ads"** — If you're buying new, pay the extra $20 to remove lockscreen ads. Worth it.
+1. **Charge it**, USB-C on newer models, micro-USB on older ones. First charge usually ships at 30–40%.
+2. **Connect to Wi-Fi**, Required to register and download books.
+3. **Sign into your Amazon account**, If you don't have one, you can create it during setup.
+4. **Skip the tutorial**, It's optional and mostly obvious.
+5. **Choose "without ads"**, If you're buying new, pay the extra $20 to remove lockscreen ads. Worth it.
 
 ### Essential Settings to Change Immediately
 
@@ -92,7 +92,7 @@ Full setup walkthrough with 20+ customization options: [Kindle Tips and Tricks](
 
 ## Getting Books: Free, Paid, and Borrowed
 
-This is where most new Kindle owners go wrong — they assume everything costs $10–15 through Amazon. In reality, there are four ways to fill your library, and three of them are free.
+This is where most new Kindle owners go wrong, they assume everything costs $10–15 through Amazon. In reality, there are four ways to fill your library, and three of them are free.
 
 ### 1. Your Library (Free, Unlimited)
 
@@ -108,13 +108,13 @@ This is the single biggest money-saver for Kindle users. Expect to save $200–5
 
 Everything published before 1929 (in the US) is free to download. Sources:
 
-- **Project Gutenberg** — 70,000+ titles, basic formatting
-- **Standard Ebooks** — Professionally formatted classics, gorgeous typography
-- **Amazon's free classics** — Pre-formatted for Kindle, one-click download
+- **Project Gutenberg**, 70,000+ titles, basic formatting
+- **Standard Ebooks**, Professionally formatted classics, gorgeous typography
+- **Amazon's free classics**, Pre-formatted for Kindle, one-click download
 
 Full list of legitimate free sources and how to use them: [Free Books for Kindle](/free-books-kindle/).
 
-### 3. Kindle Unlimited (Subscription — Sometimes Worth It)
+### 3. Kindle Unlimited (Subscription, Sometimes Worth It)
 
 $12/month for unlimited reads from Amazon's Kindle Unlimited catalog. Strong in:
 - Romance (massive selection)
@@ -130,9 +130,9 @@ Only worth it if you read 2+ books per month and your taste matches the catalog.
 
 Amazon's prices are usually competitive, but not always the cheapest:
 
-- **Amazon Kindle Store** — Integrated, one-click download. Best for convenience.
-- **Humble Bundle** — Frequent DRM-free ebook bundles at huge discounts.
-- **eBooks.com / Kobo Store** — Often cheaper, but requires sideloading (see below).
+- **Amazon Kindle Store**, Integrated, one-click download. Best for convenience.
+- **Humble Bundle**, Frequent DRM-free ebook bundles at huge discounts.
+- **eBooks.com / Kobo Store**, Often cheaper, but requires sideloading (see below).
 
 **Pro tip:** Add books to your Amazon wishlist and wait for sales. Kindle books go on sale often, typically dropping to $1.99–$3.99.
 
@@ -145,7 +145,7 @@ Amazon's prices are usually competitive, but not always the cheapest:
 Kindles give you surprising control over the reading experience:
 
 - **Font:** Bookerly (default), Literata, Amazon Ember, and several others. Bookerly is optimized for E Ink.
-- **Font size:** Eight levels. Don't be afraid to go larger — Kindle isn't a textbook.
+- **Font size:** Eight levels. Don't be afraid to go larger, Kindle isn't a textbook.
 - **Line spacing and margins:** Tighter margins mean more words per page. Looser means less eye movement.
 - **Orientation lock:** Portrait only for most books, landscape for comics and PDFs.
 
@@ -159,7 +159,7 @@ Kindles give you surprising control over the reading experience:
 
 ### Reading Stats and Goodreads
 
-Your Kindle quietly tracks everything you read — time, speed, completion rate. View it at amazon.com/readinginsights.
+Your Kindle quietly tracks everything you read, time, speed, completion rate. View it at amazon.com/readinginsights.
 
 Kindle also integrates with Goodreads for reviews and reading goals, though in 2026 many readers prefer StoryGraph as a Goodreads alternative.
 
@@ -173,11 +173,11 @@ Once you're comfortable with the basics, two power-user techniques unlock seriou
 
 ### Sideloading Non-Amazon Books
 
-Sideloading lets you add books from non-Amazon sources — other stores, borrowed files, converted formats. Methods:
+Sideloading lets you add books from non-Amazon sources, other stores, borrowed files, converted formats. Methods:
 
-1. **Send to Kindle (easiest)** — Email files as attachments to your Kindle address, or use the Send to Kindle website. Works with EPUB, PDF, DOCX, MOBI, TXT, and most image formats.
-2. **USB transfer** — Plug in via USB-C, drag files to the Documents folder. Fastest for bulk transfers.
-3. **Calibre (most powerful)** — Converts between formats, strips DRM from books you own, manages metadata, and syncs to Kindle via Wi-Fi.
+1. **Send to Kindle (easiest)**, Email files as attachments to your Kindle address, or use the Send to Kindle website. Works with EPUB, PDF, DOCX, MOBI, TXT, and most image formats.
+2. **USB transfer**, Plug in via USB-C, drag files to the Documents folder. Fastest for bulk transfers.
+3. **Calibre (most powerful)**, Converts between formats, strips DRM from books you own, manages metadata, and syncs to Kindle via Wi-Fi.
 
 Step-by-step walkthrough for all three methods: [How to Sideload Books on Kindle](/sideload-books-kindle/).
 
@@ -185,10 +185,10 @@ Step-by-step walkthrough for all three methods: [How to Sideload Books on Kindle
 
 For the advanced user, jailbreaking opens up:
 
-- **KOReader** — A completely different reading app with EPUB support, custom layouts, and OPDS library support
-- **Custom fonts** — Full typography control beyond Amazon's defaults
-- **Screensavers** — Replace the default Amazon ads with your own images
-- **Basic terminal access** — For Linux-inclined users
+- **KOReader**, A completely different reading app with EPUB support, custom layouts, and OPDS library support
+- **Custom fonts**, Full typography control beyond Amazon's defaults
+- **Screensavers**, Replace the default Amazon ads with your own images
+- **Basic terminal access**, For Linux-inclined users
 
 This isn't for everyone and voids your warranty. But for tinkerers, it turns a Kindle into a much more flexible device. Full instructions: [Kindle Modding Guide](/kindle-modding-guide/).
 
@@ -198,10 +198,10 @@ This isn't for everyone and voids your warranty. But for tinkerers, it turns a K
 
 Most Kindle accessories are unnecessary. But a few genuinely improve the experience:
 
-- **Case** — Protects the screen and adds a stand. Amazon's official case is overpriced; third-party cases are $15–20.
-- **Reading light** — Only for base Kindles without backlight. Paperwhite owners can skip this.
-- **Finger grip / popsocket** — Surprisingly useful for one-handed reading.
-- **Matte screen protector** — Only if you plan to use the Scribe with its stylus.
+- **Case**, Protects the screen and adds a stand. Amazon's official case is overpriced; third-party cases are $15–20.
+- **Reading light**, Only for base Kindles without backlight. Paperwhite owners can skip this.
+- **Finger grip / popsocket**, Surprisingly useful for one-handed reading.
+- **Matte screen protector**, Only if you plan to use the Scribe with its stylus.
 
 Skip: branded lanyards, expensive leather sleeves, bookmarks (the Kindle saves your place automatically).
 
@@ -213,10 +213,10 @@ Full breakdown with recommendations at every price point: [Best Kindle Accessori
 
 If you're still deciding between Kindle and alternatives, here are the key comparisons:
 
-- **[Kindle vs Kobo](/kindle-vs-kobo/)** — The two main competitors. Kobo wins on library integration; Kindle wins on ecosystem depth.
-- **[Kindle Paperwhite vs Kobo Clara](/kindle-paperwhite-vs-kobo-clara/)** — Head-to-head at the $140–160 price point.
-- **[Kindle vs iPad for reading](/kindle-vs-ipad-reading/)** — E Ink vs LCD. Different tools for different jobs.
-- **[Best E-Readers (full comparison)](/best-e-readers/)** — Every major option with specs and prices.
+- **[Kindle vs Kobo](/kindle-vs-kobo/)**, The two main competitors. Kobo wins on library integration; Kindle wins on ecosystem depth.
+- **[Kindle Paperwhite vs Kobo Clara](/kindle-paperwhite-vs-kobo-clara/)**, Head-to-head at the $140–160 price point.
+- **[Kindle vs iPad for reading](/kindle-vs-ipad-reading/)**, E Ink vs LCD. Different tools for different jobs.
+- **[Best E-Readers (full comparison)](/best-e-readers/)**, Every major option with specs and prices.
 
 ---
 
@@ -234,13 +234,13 @@ Yes, through Amazon Household. Two adults and up to four teens/children can shar
 
 ### Do I need an Amazon Prime membership?
 
-No. Kindle works fully without Prime. Prime adds Prime Reading (a small rotating catalog of free books), First Reads (one free book per month), and monthly free lending from the Kindle Owners' Lending Library — but all of these are nice-to-haves, not essential.
+No. Kindle works fully without Prime. Prime adds Prime Reading (a small rotating catalog of free books), First Reads (one free book per month), and monthly free lending from the Kindle Owners' Lending Library, but all of these are nice-to-haves, not essential.
 
 ### Can I read Kindle books on my phone or computer?
 
 Yes. The Kindle app is free on iOS, Android, Mac, Windows, and web. Books sync across devices via Whispersync, so you can start reading on Kindle and pick up on your phone automatically.
 
-### What happens when I buy a Kindle book — do I own it?
+### What happens when I buy a Kindle book, do I own it?
 
 Not quite. You own a license to read it, not the file itself. Amazon can technically revoke access, though in practice this almost never happens outside of publisher disputes. If true ownership matters to you, buy DRM-free ebooks from sources like Humble Bundle or Standard Ebooks.
 
@@ -255,7 +255,7 @@ If you're just getting started, do these in order:
 3. [ ] Install Libby and link your library card (free books forever)
 4. [ ] Download 2–3 free classics from [Project Gutenberg](https://www.gutenberg.org) or Standard Ebooks
 5. [ ] Set up Send to Kindle for easy file transfers
-6. [ ] Consider Kindle Unlimited for a 30-day free trial — decide before auto-renew
+6. [ ] Consider Kindle Unlimited for a 30-day free trial, decide before auto-renew
 7. [ ] Enable Goodreads or StoryGraph for tracking
 8. [ ] Order a basic case ($15–20) if you travel with it
 

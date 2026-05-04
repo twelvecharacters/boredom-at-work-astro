@@ -36,10 +36,10 @@ Here are 25 tips and hidden features to master macOS Tahoe.
 
 Liquid Glass isn't just a coat of paint. The entire interface now uses:
 
-- **Translucent materials** — Windows show hints of what's behind them
-- **Dynamic reflections** — UI elements reflect light based on your wallpaper
-- **Depth layers** — Active windows feel "closer" to you
-- **Continuous curves** — Rounded corners everywhere, inspired by visionOS
+- **Translucent materials**, Windows show hints of what's behind them
+- **Dynamic reflections**, UI elements reflect light based on your wallpaper
+- **Depth layers**, Active windows feel "closer" to you
+- **Continuous curves**, Rounded corners everywhere, inspired by visionOS
 
 The effect is stunning on Retina displays, but can be distracting if you're not used to it.
 
@@ -57,7 +57,7 @@ Tahoe's Liquid Glass reflects your theme color more prominently than before. In 
 
 **System Settings > Appearance > Color**
 
-Try different colors with your wallpaper — some combinations look stunning with the new transparency effects. There's also a separate **Text highlight color** option now, so you can make selected text a different shade from buttons and menus.
+Try different colors with your wallpaper, some combinations look stunning with the new transparency effects. There's also a separate **Text highlight color** option now, so you can make selected text a different shade from buttons and menus.
 
 ### 4. Use Dark Mode with Liquid Glass
 
@@ -71,9 +71,9 @@ Or use **Auto** to switch based on time of day.
 
 Your wallpaper now affects the entire look of the OS. Liquid Glass tints windows based on the colors behind them.
 
-- **Solid colors** — Clean, consistent window tints
-- **Gradients** — Windows change tint as you move them
-- **Dynamic wallpapers** — The whole OS shifts throughout the day
+- **Solid colors**, Clean, consistent window tints
+- **Gradients**, Windows change tint as you move them
+- **Dynamic wallpapers**, The whole OS shifts throughout the day
 
 ---
 
@@ -85,7 +85,7 @@ Apple Intelligence powers many of Tahoe's smartest features. Make sure it's enab
 
 **System Settings > Apple Intelligence & Siri > Apple Intelligence**
 
-This requires an Apple Silicon Mac (M1 or later). Basic features like Writing Tools and notification summaries are available now. The much-anticipated **LLM-powered Siri** — with personal context, on-screen awareness, and the ability to take actions across apps — is expected to arrive in **macOS 26.4 (spring 2026)**.
+This requires an Apple Silicon Mac (M1 or later). Basic features like Writing Tools and notification summaries are available now. The much-anticipated **LLM-powered Siri**, with personal context, on-screen awareness, and the ability to take actions across apps, is expected to arrive in **macOS 26.4 (spring 2026)**.
 
 ### 7. What LLM Siri Will Bring
 
@@ -95,7 +95,7 @@ When the full LLM Siri arrives, Apple has promised complex, context-aware reques
 - "What did John say in yesterday's meeting notes?"
 - "Remind me about this email tomorrow morning"
 
-Siri will be able to reference files, emails, and conversations — not just web searches. For now, Siri handles basic requests and integrates with Apple Intelligence for summarization and writing tasks.
+Siri will be able to reference files, emails, and conversations, not just web searches. For now, Siri handles basic requests and integrates with Apple Intelligence for summarization and writing tasks.
 
 ### 8. Type to Siri (The Better Way)
 
@@ -109,9 +109,9 @@ A sleek Siri interface appears in the top-right corner of the screen. Type your 
 
 Select any text, right-click, and choose **Writing Tools** (part of Apple Intelligence). From there you can:
 
-- **Summarize** — Get a concise summary
-- **Key Points** — Extract the most important takeaways
-- **List** or **Table** — Reorganize the text into structured formats
+- **Summarize**, Get a concise summary
+- **Key Points**, Extract the most important takeaways
+- **List** or **Table**, Reorganize the text into structured formats
 
 Writing Tools work in most apps, including Mail, Notes, Pages, and many third-party apps.
 
@@ -133,8 +133,8 @@ Features:
 - View and manage voicemail
 - See recent call history
 - Make and receive regular cellular calls (routed through your iPhone)
-- **Call Screening** — for unknown numbers, Siri asks who's calling and why, then shows a live transcription so you can decide whether to pick up
-- **Hold Assist** — AI monitors hold music and alerts you when a human picks up
+- **Call Screening**, for unknown numbers, Siri asks who's calling and why, then shows a live transcription so you can decide whether to pick up
+- **Hold Assist**, AI monitors hold music and alerts you when a human picks up
 - Send calls to voicemail with a tap
 
 ### 12. Visual Voicemail on Mac
@@ -168,7 +168,7 @@ While mirroring, your Mac keyboard works in iPhone apps:
 
 ### 16. iPhone Mirroring Is Wireless (Always Has Been)
 
-A common misconception: iPhone Mirroring has been wireless since it launched in macOS Sequoia. Your iPhone and Mac just need Bluetooth and Wi-Fi turned on, signed into the same Apple ID. No cable required — your iPhone can be in another room.
+A common misconception: iPhone Mirroring has been wireless since it launched in macOS Sequoia. Your iPhone and Mac just need Bluetooth and Wi-Fi turned on, signed into the same Apple ID. No cable required, your iPhone can be in another room.
 
 ---
 
@@ -183,10 +183,10 @@ Tahoe refines the window tiling introduced in Sequoia with smoother snap-to-edge
 - Hover over a corner to snap into quarter-screen layouts
 
 Keyboard shortcuts:
-- **Fn + Control + ←/→** — Tile left/right half
-- **Fn + Control + ↑/↓** — Tile top/bottom half
-- **Fn + Control + F** — Fill the entire screen
-- **Fn + Control + C** — Center the window
+- **Fn + Control + ←/→**, Tile left/right half
+- **Fn + Control + ↑/↓**, Tile top/bottom half
+- **Fn + Control + F**, Fill the entire screen
+- **Fn + Control + C**, Center the window
 
 ### 18. Focus Modes and Desktop Customization
 
@@ -209,10 +209,10 @@ For full workspace management (saving/restoring window arrangements), you'll sti
 ### 20. Smart Actions Across macOS
 
 Tahoe combines Apple Intelligence with existing macOS features for a smoother workflow:
-- **Writing Tools** — Select text in any app, right-click, and use **Writing Tools** to summarize, extract key points, or rewrite
-- **Remove Background** — Right-click any image in Finder > Quick Actions (available since Ventura, still handy)
-- **Transcribe in Notes** — Record audio in Notes and get an automatic transcript, then use Apple Intelligence to summarize it
-- **Translate** — Works through Apple Intelligence in supported apps and via Writing Tools
+- **Writing Tools**, Select text in any app, right-click, and use **Writing Tools** to summarize, extract key points, or rewrite
+- **Remove Background**, Right-click any image in Finder > Quick Actions (available since Ventura, still handy)
+- **Transcribe in Notes**, Record audio in Notes and get an automatic transcript, then use Apple Intelligence to summarize it
+- **Translate**, Works through Apple Intelligence in supported apps and via Writing Tools
 
 ---
 
@@ -268,7 +268,7 @@ Even Terminal embraces Liquid Glass:
 - Updated default color schemes
 - Better font rendering
 
-To customize: **Terminal > Settings > Profiles** — explore the redesigned themes that align with the Liquid Glass aesthetic.
+To customize: **Terminal > Settings > Profiles**, explore the redesigned themes that align with the Liquid Glass aesthetic.
 
 ---
 
@@ -284,7 +284,7 @@ To customize: **Terminal > Settings > Profiles** — explore the redesigned them
 - Mac Pro (M2 Ultra, 2023)
 - iMac (M1, 2021 and later)
 
-**Intel (Final Version — Limited Support):**
+**Intel (Final Version, Limited Support):**
 - MacBook Pro (16-inch, 2019)
 - MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)
 - iMac (Retina 5K, 27-inch, 2020)
@@ -296,7 +296,7 @@ To customize: **Terminal > Settings > Profiles** — explore the redesigned them
 - Some Liquid Glass animations (simplified on Intel)
 - Future feature updates (security updates only)
 
-If you're on Intel, this is a good time to consider upgrading — especially with Apple Silicon Macs now available refurbished at good prices.
+If you're on Intel, this is a good time to consider upgrading, especially with Apple Silicon Macs now available refurbished at good prices.
 
 ---
 
@@ -308,7 +308,7 @@ If you're on Intel, this is a good time to consider upgrading — especially wit
 2. **Reduce Motion** (same location)
 3. **Close unused apps** (Tahoe is better at this, but still helps)
 4. **Check Activity Monitor** for runaway processes
-5. **Restart** — Tahoe has some memory leaks in early builds
+5. **Restart**, Tahoe has some memory leaks in early builds
 
 ### For Best Battery Life
 
@@ -326,7 +326,7 @@ macOS Tahoe is Apple's most significant visual update since Big Sur, and the AI 
 **Worth upgrading?** Yes, especially on Apple Silicon Macs. Intel users should update for security but won't get the full experience.
 
 **Best new features:**
-1. Apple Intelligence (Writing Tools, notification summaries — with LLM Siri coming in macOS 26.4)
+1. Apple Intelligence (Writing Tools, notification summaries, with LLM Siri coming in macOS 26.4)
 2. The Phone app (finally!)
 3. Liquid Glass design overhaul
 4. Window tiling and Stage Manager improvements
@@ -337,6 +337,6 @@ Take a weekend to explore. There's a lot here, and the hidden features are worth
 
 ## Related Articles
 
-- [Best Free macOS Software](/best-free-macos-software/) — Essential apps for your Mac that won't cost you anything
-- [Best AI Tools for Office Work](/best-ai-tools-office-work/) — AI tools that actually boost your productivity
-- [Pearcleaner: The Best Free Mac App Uninstaller](/pearcleaner-homebrew-guide/) — Keep your Mac clean with this source-available tool
+- [Best Free macOS Software](/best-free-macos-software/), Essential apps for your Mac that won't cost you anything
+- [Best AI Tools for Office Work](/best-ai-tools-office-work/), AI tools that actually boost your productivity
+- [Pearcleaner: The Best Free Mac App Uninstaller](/pearcleaner-homebrew-guide/), Keep your Mac clean with this source-available tool

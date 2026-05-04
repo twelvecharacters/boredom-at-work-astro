@@ -17,7 +17,7 @@ faq:
   - question: "Can AI summarize a 100-page PDF?"
     answer: "Yes, several tools handle very long documents. Claude (200K tokens ≈ 150K words), ChatGPT (128K tokens), and Gemini (1M+ tokens for paid) can all process book-length content. Dedicated tools like ChatPDF also work well."
   - question: "Is it safe to upload confidential PDFs to AI tools?"
-    answer: "It depends on the tool and your needs. Most AI tools use uploaded data for training by default—check privacy settings. For sensitive documents, use Claude (better privacy defaults), enterprise plans, or local tools like Ollama."
+    answer: "It depends on the tool and your needs. Most AI tools use uploaded data for training by default, check privacy settings. For sensitive documents, use Claude (better privacy defaults), enterprise plans, or local tools like Ollama."
   - question: "What can AI PDF tools actually do?"
     answer: "Summarize documents, answer questions about content, extract specific information, compare multiple documents, find inconsistencies, translate content, and explain complex sections in simpler terms."
 tldr: "For most people: ChatGPT or Claude (both free tiers work). For research with multiple sources: NotebookLM (free, Google). For heavy PDF work: ChatPDF or Humata (~$13-15/mo). Always verify AI summaries against the original for important work."
@@ -26,7 +26,7 @@ isListicle: true
 
 You have a 100-page report to read. You need the key points in 10 minutes.
 
-This is exactly what AI PDF summarizers do—and they've gotten remarkably good at it.
+This is exactly what AI PDF summarizers do, and they've gotten remarkably good at it.
 
 Here's a breakdown of the best tools, what they're actually good at, and which one to use for different situations.
 
@@ -75,15 +75,15 @@ Before diving into tools, here's what's actually possible:
 
 ---
 
-## 1. ChatGPT — Best All-Rounder
+## 1. ChatGPT, Best All-Rounder
 
 **Price:** Free / $20/mo Plus  
 **Website:** [chatgpt.com](https://chatgpt.com)
 
-ChatGPT handles PDFs directly—just upload and ask questions.
+ChatGPT handles PDFs directly, just upload and ask questions.
 
 **Strengths:**
-- No extra tool needed—works in regular ChatGPT
+- No extra tool needed, works in regular ChatGPT
 - Good at understanding context
 - Can handle multiple files in one conversation
 - Free tier includes file uploads
@@ -110,7 +110,7 @@ ChatGPT handles PDFs directly—just upload and ask questions.
 
 ---
 
-## 2. Claude — Best for Long Documents
+## 2. Claude, Best for Long Documents
 
 **Price:** Free / $20/mo Pro  
 **Website:** [claude.ai](https://claude.ai)
@@ -143,12 +143,12 @@ Claude's 200K token context window makes it the best choice for truly long docum
 
 ---
 
-## 3. Google NotebookLM — Best for Research
+## 3. Google NotebookLM, Best for Research
 
 **Price:** Free  
 **Website:** [notebooklm.google.com](https://notebooklm.google.com)
 
-NotebookLM is Google's AI research tool—built specifically for working with multiple documents.
+NotebookLM is Google's AI research tool, built specifically for working with multiple documents.
 
 **Strengths:**
 - Free tier with daily limits (paid tiers via Google AI Pro for higher limits)
@@ -170,11 +170,11 @@ NotebookLM is Google's AI research tool—built specifically for working with mu
 3. Ask questions across all documents
 4. Get answers with citations to specific pages
 
-**Unique feature:** The "Audio Overview" creates a podcast-style summary of your documents—surprisingly useful for digesting complex material.
+**Unique feature:** The "Audio Overview" creates a podcast-style summary of your documents, surprisingly useful for digesting complex material.
 
 ---
 
-## 4. ChatPDF — Best Dedicated PDF Tool
+## 4. ChatPDF, Best Dedicated PDF Tool
 
 **Price:** Free (limited) / ~$13/mo Plus
 **Website:** [chatpdf.com](https://chatpdf.com)
@@ -203,7 +203,7 @@ ChatPDF does one thing: chat with PDFs. It does it well.
 
 ---
 
-## 5. Humata — Best for Heavy Users
+## 5. Humata, Best for Heavy Users
 
 **Price:** Free (limited) / $9.99/mo  
 **Website:** [humata.ai](https://humata.ai)
@@ -221,11 +221,11 @@ Humata is built for people who process a lot of documents regularly.
 - Less capable for creative tasks
 - Primarily English-focused
 
-**Best for:** Researchers, analysts, legal professionals—anyone processing many documents.
+**Best for:** Researchers, analysts, legal professionals, anyone processing many documents.
 
 ---
 
-## 6. Gemini — Best for Google Users
+## 6. Gemini, Best for Google Users
 
 **Price:** Free / $19.99/mo (Google AI Pro)
 **Website:** [gemini.google.com](https://gemini.google.com)
@@ -381,7 +381,7 @@ For research across multiple sources: **NotebookLM** is free and built for this.
 
 For heavy PDF workflows: **ChatPDF or Humata** offer specialized features worth paying for.
 
-The best tool depends on your specific need—but the good news is that all of these are dramatically better than manually reading 100-page reports.
+The best tool depends on your specific need, but the good news is that all of these are dramatically better than manually reading 100-page reports.
 
 ---
 

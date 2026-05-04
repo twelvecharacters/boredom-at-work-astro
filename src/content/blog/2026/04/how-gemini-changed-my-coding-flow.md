@@ -10,7 +10,7 @@ imageAlt: "A clean terminal window showing an AI agent executing shell commands 
 tldr: "Switching from web-based AI chats to a CLI agent reduced my context switching by 80%. By giving the AI direct access to my file system and terminal, I stopped being a 'copy-paste monkey' and started being a technical architect."
 faq:
   - question: "Is Gemini CLI better than using ChatGPT in a browser for coding?"
-    answer: "For coding tasks, yes. Gemini CLI reads your local files directly, runs shell commands, and applies surgical edits — eliminating the copy-paste cycle. You stay in the terminal and avoid context switching."
+    answer: "For coding tasks, yes. Gemini CLI reads your local files directly, runs shell commands, and applies surgical edits, eliminating the copy-paste cycle. You stay in the terminal and avoid context switching."
   - question: "Is it safe to use AI CLI tools with production code?"
     answer: "Yes, if configured properly. Gemini CLI respects .geminiignore files to exclude sensitive directories. Using the API gives you more control over data retention than consumer chat interfaces."
   - question: "How much does Gemini CLI cost?"
@@ -37,9 +37,9 @@ For the last few months, I’ve been testing a different way: **[Gemini CLI](/ge
 
 ## 1. The Death of the "Context Switch"
 
-The biggest killer of productivity isn't a lack of knowledge—it's context switching. Every time you leave your IDE to go to a browser, your brain "reloads." It takes minutes to get back into "the zone." Psychological studies on flow state suggest that even a minor interruption can cost you up to 20 minutes of deep focus. 
+The biggest killer of productivity isn't a lack of knowledge, it's context switching. Every time you leave your IDE to go to a browser, your brain "reloads." It takes minutes to get back into "the zone." Psychological studies on flow state suggest that even a minor interruption can cost you up to 20 minutes of deep focus. 
 
-When you Alt-Tab to a browser, you aren't just looking for an answer; you're opening a gateway to distractions—email notifications, news tabs, and social media. With Gemini integrated directly into my CLI, I don't leave the environment. I can stay in my terminal and say: *"Analyze my `src/config.ts` and tell me if a new category for 'Anime' fits the current structure."* 
+When you Alt-Tab to a browser, you aren't just looking for an answer; you're opening a gateway to distractions, email notifications, news tabs, and social media. With Gemini integrated directly into my CLI, I don't leave the environment. I can stay in my terminal and say: *"Analyze my `src/config.ts` and tell me if a new category for 'Anime' fits the current structure."* 
 
 The AI doesn't just guess; it **reads the file**. It looks at the existing categories, understands the TypeScript interface, and gives me a grounded answer without me ever touching the mouse. It sees my project structure exactly as it is, not as a theoretical example from a 2023 training set.
 
@@ -115,7 +115,7 @@ The "boring" work of typing out the implementation is handled by the agent. This
 
 ## 9. Reclaiming the 9-to-5
 
-The name of this blog is *Boredom at Work*. The irony is that since I started using Gemini in the CLI, I’m rarely "bored" in a negative way—I’m **efficient**. 
+The name of this blog is *Boredom at Work*. The irony is that since I started using Gemini in the CLI, I’m rarely "bored" in a negative way, I’m **efficient**. 
 
 Tasks that used to take my whole afternoon now take 20 minutes of "orchestration." This gives me the downtime to actually learn new things (like [3D printing](/3d-printing-beginners-guide/) or [Japanese proxies](/buyee-vs-sendico-japan-proxy/)) rather than fighting with boilerplate code. It has turned my job from "fighting the machine" to "managing the fleet." It allows me to finish my work by 2:00 PM and spend the rest of the day researching my next hobby.
 
@@ -127,7 +127,7 @@ If you are still copy-pasting code into a browser window, you are working harder
 - **Step 2:** Move your interaction to the command line. Use the API.
 - **Step 3:** Think in **Directives** (actions) rather than just **Inquiries** (questions). Instead of asking "How do I do X?", tell the machine: "Do X and verify it works."
 
-The "Bored Chap" way isn't about doing less work—it's about doing the work so fast that you have time for everything else.
+The "Bored Chap" way isn't about doing less work, it's about doing the work so fast that you have time for everything else.
 
 ---
 

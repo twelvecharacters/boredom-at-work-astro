@@ -23,7 +23,7 @@ isListicle: false
 
 For years, the world of RAW photo editing has been dominated by a few heavy hitters. Adobe Lightroom is the industry standard, but it comes with a recurring subscription. Open-source alternatives like Darktable and RawTherapee are powerful but often criticized for their steep learning curves and sometimes sluggish performance.
 
-Enter **RapidRAW**—a fresh, ambitious project that aims to bridge the gap between professional power and open-source accessibility. Visit the [official RapidRAW website](https://getrapidraw.com) to download it for your platform. If you're just getting into photography, check out our [best cameras for beginners](/best-cameras-for-beginners/) guide first.
+Enter **RapidRAW**,a fresh, ambitious project that aims to bridge the gap between professional power and open-source accessibility. Visit the [official RapidRAW website](https://getrapidraw.com) to download it for your platform. If you're just getting into photography, check out our [best cameras for beginners](/best-cameras-for-beginners/) guide first.
 
 ---
 
@@ -49,7 +49,7 @@ Getting started takes under five minutes:
 
 1. **Download** the latest release from [getrapidraw.com](https://getrapidraw.com) for your platform
 2. **macOS users:** Right-click the app and select "Open" to bypass Gatekeeper on first launch (see our [macOS tips](/best-free-macos-software/) for more on this)
-3. **Import your photos:** Point RapidRAW to your RAW folder — it supports CR3, NEF, ARW, RAF, ORF, DNG, and most major RAW formats
+3. **Import your photos:** Point RapidRAW to your RAW folder, it supports CR3, NEF, ARW, RAF, ORF, DNG, and most major RAW formats
 4. **Start editing:** Adjustments are instant thanks to GPU acceleration
 
 No account creation. No subscription activation. Just open and edit.
@@ -58,7 +58,7 @@ No account creation. No subscription activation. Just open and edit.
 
 ## Built for Speed: Rust and GPU Power
 
-The most impressive thing about RapidRAW isn't just its feature set—it's how it's built. Developed by Timon Käch, the application utilizes a modern tech stack designed for the 2020s:
+The most impressive thing about RapidRAW isn't just its feature set, it's how it's built. Developed by Timon Käch, the application utilizes a modern tech stack designed for the 2020s:
 
 1.  **Rust Backend:** Using Rust ensures the application is memory-safe and incredibly fast at the system level.
 2.  **GPU Acceleration:** Unlike many editors that rely heavily on your CPU, RapidRAW moves the heavy lifting to your graphics card. Its image processing pipeline uses custom **WGSL shaders**, making adjustments to exposure, contrast, and color feel instantaneous even on high-resolution RAW files.
@@ -101,7 +101,7 @@ How does RapidRAW stack up against other free options?
 | **LUT Support** | Yes | Yes | Yes | Limited |
 | **Preset Ecosystem** | Growing | Large | Large | Massive |
 
-**Key takeaway:** Darktable and RawTherapee have more mature RAW format support and larger preset libraries. But RapidRAW’s speed advantage is immediately noticeable — culling through 200 photos from a shoot feels effortless compared to the lag you get in Darktable.
+**Key takeaway:** Darktable and RawTherapee have more mature RAW format support and larger preset libraries. But RapidRAW’s speed advantage is immediately noticeable, culling through 200 photos from a shoot feels effortless compared to the lag you get in Darktable.
 
 ---
 
@@ -118,10 +118,10 @@ RapidRAW is still in early development, but it’s already showing massive poten
 
 RapidRAW is still early in development, so it’s worth knowing what’s missing:
 
-- **No catalog management** — it’s a pure editor, not a photo organizer like Lightroom. You’ll need a separate tool (or just your file system) to manage your library.
-- **Plugin ecosystem doesn’t exist yet** — no third-party extensions or marketplace
+- **No catalog management**, it’s a pure editor, not a photo organizer like Lightroom. You’ll need a separate tool (or just your file system) to manage your library.
+- **Plugin ecosystem doesn’t exist yet**, no third-party extensions or marketplace
 - **RAW format support is growing** but may not cover every obscure camera model. Check the [compatibility list](https://getrapidraw.com) before committing.
-- **No mobile version** — desktop only for now
+- **No mobile version**, desktop only for now
 
 These are expected for a young project, and the active development pace means gaps are closing fast.
 

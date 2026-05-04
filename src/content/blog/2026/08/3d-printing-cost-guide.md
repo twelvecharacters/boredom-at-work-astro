@@ -19,7 +19,7 @@ faq:
     answer: "Common hidden costs include failed prints (5-10% waste for beginners), nozzle replacements ($5-15 every few months), build plate adhesive, filament storage (dry boxes), and upgrades like enclosures. Budget an extra $50-100/year for maintenance."
 ---
 
-So you're thinking about getting a 3D printer and want to know what it *actually* costs. Not the marketing fluff — the real numbers.
+So you're thinking about getting a 3D printer and want to know what it *actually* costs. Not the marketing fluff, the real numbers.
 
 I've been printing for a while now, and I can tell you: the printer price is just the beginning. There's filament, electricity, failed prints, replacement parts, and that irresistible urge to upgrade everything. Let me break it all down so you know exactly what you're getting into.
 
@@ -33,8 +33,8 @@ Your biggest single expense is the printer. Here's what the market looks like in
 
 This is where most beginners should start. You get surprisingly capable machines at this price point.
 
-- **[Bambu Lab A1 Mini](/bambu-a1-mini-vs-creality-ender-3/) (~$200)** — Fast, reliable, nearly plug-and-play. My top pick for beginners.
-- **Creality Ender 3 V3 (~$200)** — Huge community, tons of upgrades available, solid workhorse.
+- **[Bambu Lab A1 Mini](/bambu-a1-mini-vs-creality-ender-3/) (~$200)**, Fast, reliable, nearly plug-and-play. My top pick for beginners.
+- **Creality Ender 3 V3 (~$200)**, Huge community, tons of upgrades available, solid workhorse.
 
 Both are covered in detail in my [best 3D printers under $300](/best-3d-printers-under-300/) roundup.
 
@@ -42,12 +42,12 @@ Both are covered in detail in my [best 3D printers under $300](/best-3d-printers
 
 Bigger build volumes, better reliability, more material compatibility.
 
-- **Bambu Lab A1 (~$400)** — Larger build plate than the Mini, same great ecosystem.
-- **Prusa MK4S (~$709)** — Open-source legend. Premium price, but incredible build quality and community support.
+- **Bambu Lab A1 (~$400)**, Larger build plate than the Mini, same great ecosystem.
+- **Prusa MK4S (~$709)**, Open-source legend. Premium price, but incredible build quality and community support.
 
 ### Resin / MSLA ($150-400)
 
-Resin printers like the Elegoo Mars or Anycubic Photon produce insanely detailed prints — perfect for miniatures and jewelry. But resin is messier, smellier, and the consumable costs are higher (more on that below).
+Resin printers like the Elegoo Mars or Anycubic Photon produce insanely detailed prints, perfect for miniatures and jewelry. But resin is messier, smellier, and the consumable costs are higher (more on that below).
 
 ### Premium ($600+)
 
@@ -68,11 +68,11 @@ Filament is your main recurring expense. Here's what each type costs:
 | **ABS** | $16-25 | Heat-resistant parts | Requires enclosure, fumes |
 | **TPU** | $25-35 | Flexible items (cases, gaskets) | Trickier to print |
 
-**PLA is where you'll start and probably stay.** It handles 90% of what office workers want to print — desk organizers, phone stands, cable clips, replacement parts. Not sure which material to pick? Here's a [deep comparison of PLA vs PETG vs ABS](/pla-vs-petg-vs-abs/).
+**PLA is where you'll start and probably stay.** It handles 90% of what office workers want to print, desk organizers, phone stands, cable clips, replacement parts. Not sure which material to pick? Here's a [deep comparison of PLA vs PETG vs ABS](/pla-vs-petg-vs-abs/).
 
 A single 1kg spool of PLA prints roughly 100-400 small items depending on size. Most casual users go through 1-2 spools per month ($15-44).
 
-**Resin costs more per gram** — typically 2-4x the cost of PLA filament. But resin prints are often hollow, so you use less material per print. Still, factor in the cost of isopropyl alcohol for washing and UV curing equipment.
+**Resin costs more per gram**, typically 2-4x the cost of PLA filament. But resin prints are often hollow, so you use less material per print. Still, factor in the cost of isopropyl alcohol for washing and UV curing equipment.
 
 ### Electricity Costs
 
@@ -104,9 +104,9 @@ Here's the stuff that doesn't make it into the marketing brochures:
 
 ### Build Plate Adhesion
 
-- **Glue sticks** — cheap, but you go through them
-- **PEI sheet replacement** — $15-30 every 6-12 months depending on use
-- **Painter's tape** — a few dollars per roll
+- **Glue sticks**, cheap, but you go through them
+- **PEI sheet replacement**, $15-30 every 6-12 months depending on use
+- **Painter's tape**, a few dollars per roll
 
 ### Nozzle Replacement
 
@@ -114,16 +114,16 @@ Nozzles wear out, especially with abrasive filaments. Budget **$5-15 every few m
 
 ### Failed Prints
 
-This is the one nobody warns you about. As a beginner, expect **5-10% of your prints to fail** — bad adhesion, spaghetti disasters, warping. That's wasted filament and wasted time. You'll get better fast, but those first few weeks can be humbling.
+This is the one nobody warns you about. As a beginner, expect **5-10% of your prints to fail**, bad adhesion, spaghetti disasters, warping. That's wasted filament and wasted time. You'll get better fast, but those first few weeks can be humbling.
 
 ### Upgrades (The Rabbit Hole)
 
 Once you start printing, you'll want:
 
-- **Enclosure** ($50-150, or print one) — for ABS and drafty rooms
-- **Dry box** ($20-40) — moisture ruins filament
-- **Better nozzles** ($10-30) — for specialty materials
-- **Multi-material upgrade** — if your printer supports it
+- **Enclosure** ($50-150, or print one), for ABS and drafty rooms
+- **Dry box** ($20-40), moisture ruins filament
+- **Better nozzles** ($10-30), for specialty materials
+- **Multi-material upgrade**, if your printer supports it
 
 ### Time Investment
 
@@ -137,21 +137,21 @@ Let's be honest about when printing saves money and when it doesn't.
 
 ### Cheaper to Print
 
-- **Custom-fit items** — an organizer designed exactly for your desk drawer? Can't buy that.
-- **Replacement parts** — a $0.50 print vs. a $25 manufacturer part (or a whole new appliance)
-- **Adapters and mounts** — specific brackets for your exact setup
-- **Batch small items** — 50 cable clips for $3 vs. $15 on Amazon
+- **Custom-fit items**, an organizer designed exactly for your desk drawer? Can't buy that.
+- **Replacement parts**, a $0.50 print vs. a $25 manufacturer part (or a whole new appliance)
+- **Adapters and mounts**, specific brackets for your exact setup
+- **Batch small items**, 50 cable clips for $3 vs. $15 on Amazon
 
 ### Cheaper to Buy
 
-- **Generic hooks and clips** — a bag of 20 from the dollar store wins
-- **Anything you need *right now*** — printing takes hours
-- **High-strength structural parts** — injection-molded plastic is stronger
-- **Single-use items** — not worth the setup time
+- **Generic hooks and clips**, a bag of 20 from the dollar store wins
+- **Anything you need *right now***, printing takes hours
+- **High-strength structural parts**, injection-molded plastic is stronger
+- **Single-use items**, not worth the setup time
 
 ### The Real Value
 
-Here's what the pure cost comparison misses: **you can print things that don't exist as products.** An exact-fit insert for your specific desk drawer. A replacement knob for a discontinued appliance. A custom mount for your weird monitor arm situation. That's where 3D printing pays for itself — not in saving $2 on a phone stand, but in solving problems no store can solve.
+Here's what the pure cost comparison misses: **you can print things that don't exist as products.** An exact-fit insert for your specific desk drawer. A replacement knob for a discontinued appliance. A custom mount for your weird monitor arm situation. That's where 3D printing pays for itself, not in saving $2 on a phone stand, but in solving problems no store can solve.
 
 For more on the practical side, our [3D printing guide](/3d-printing-guide/) covers everything from first print to advanced techniques.
 
@@ -174,7 +174,7 @@ Here's the honest summary:
 
 **Per print average:** $0.50-5 for typical items.
 
-Is that cheap? Compared to other hobbies — photography, woodworking, RC cars — it's actually very affordable. And unlike most hobbies, 3D printing produces things you actually *use* every day. Those desk organizers, cable clips, and replacement parts add up.
+Is that cheap? Compared to other hobbies, photography, woodworking, RC cars, it's actually very affordable. And unlike most hobbies, 3D printing produces things you actually *use* every day. Those desk organizers, cable clips, and replacement parts add up.
 
 Just don't buy a printer expecting to save money on Amazon purchases. Buy it because you want to make things that don't exist yet. The savings are a nice bonus.
 

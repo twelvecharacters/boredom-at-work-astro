@@ -10,13 +10,13 @@ tags: ["AI Tools", "Productivity", "ChatGPT", "Career", "Career Development"]
 draft: false
 faq:
   - question: "Is it cheating to use AI for interview prep?"
-    answer: "No. Using AI for preparation is no different from using a career coach, reading Glassdoor reviews, or practicing with a friend. You're not bringing AI into the interview room — you're using it to prepare better beforehand. Every hiring manager would rather talk to a well-prepared candidate."
+    answer: "No. Using AI for preparation is no different from using a career coach, reading Glassdoor reviews, or practicing with a friend. You're not bringing AI into the interview room, you're using it to prepare better beforehand. Every hiring manager would rather talk to a well-prepared candidate."
   - question: "Can ChatGPT do a realistic mock interview?"
     answer: "Yes, surprisingly well. When you give ChatGPT the job description and tell it to act as the interviewer, it asks relevant follow-up questions and adjusts difficulty based on your answers. It won't replicate human body language or awkward silences, but for practicing your verbal responses and story structure, it's genuinely useful."
   - question: "Should I use ChatGPT or Claude for interview prep?"
     answer: "Both work well. ChatGPT (Plus at $20/month or even the free tier) handles mock interviews and company research effectively. Claude tends to give more nuanced, longer-form feedback on your STAR stories and is excellent at spotting weak points in your answers. If you have access to both, use Claude for answer crafting and ChatGPT for mock interviews."
   - question: "How far in advance should I start AI-assisted interview prep?"
-    answer: "You can do the entire workflow in a single evening — roughly 2 hours and 15 minutes total. That said, spreading it across 2-3 days gives you time to refine your stories and run multiple mock interview rounds. Start at least 48 hours before your interview if possible."
+    answer: "You can do the entire workflow in a single evening, roughly 2 hours and 15 minutes total. That said, spreading it across 2-3 days gives you time to refine your stories and run multiple mock interview rounds. Start at least 48 hours before your interview if possible."
 ---
 
 A friend of mine had a senior PM interview at a fintech company. She called me the night before, completely unprepared. We sat down with ChatGPT for about two hours, researched the company, built STAR answers for her top experiences, ran three mock interview rounds, and drafted questions to ask the panel.
@@ -29,7 +29,7 @@ Here's the exact workflow we used, broken into four phases. Total time: about 2 
 
 ## Phase 1: Research the Company (30 Minutes)
 
-Most candidates skim the "About Us" page and call it research. That's not enough. You need to understand what the company is actually dealing with right now — recent product launches, leadership changes, market challenges, competitor moves.
+Most candidates skim the "About Us" page and call it research. That's not enough. You need to understand what the company is actually dealing with right now, recent product launches, leadership changes, market challenges, competitor moves.
 
 This is where AI saves you hours of tab-hopping.
 
@@ -37,7 +37,7 @@ This is where AI saves you hours of tab-hopping.
 
 Open [ChatGPT](https://chatgpt.com/) (free tier works fine for this) or [Claude](https://claude.ai/) and paste this prompt:
 
-> I'm interviewing for the role of [JOB TITLE] at [COMPANY NAME] on [DATE]. Give me a briefing document that covers: (1) What the company does in plain language, (2) Their main products or services, (3) Recent news from the last 6 months — product launches, funding rounds, leadership changes, layoffs, partnerships, (4) Their biggest competitors and how they differentiate, (5) Any public challenges or controversies. Keep it factual and cite specific events where possible.
+> I'm interviewing for the role of [JOB TITLE] at [COMPANY NAME] on [DATE]. Give me a briefing document that covers: (1) What the company does in plain language, (2) Their main products or services, (3) Recent news from the last 6 months, product launches, funding rounds, leadership changes, layoffs, partnerships, (4) Their biggest competitors and how they differentiate, (5) Any public challenges or controversies. Keep it factual and cite specific events where possible.
 
 This gives you a solid foundation in about 60 seconds. But here's the critical part: **verify the key facts**. AI models can hallucinate details, especially about recent events. Cross-check any specific numbers, names, or dates against the company's actual press page, [LinkedIn company profile](https://www.linkedin.com/), or reliable news sources. Sites like [Glassdoor](https://www.glassdoor.com/) are also useful for checking interview question patterns and company culture details.
 
@@ -53,7 +53,7 @@ This is gold. The "first 90 days" section alone gives you material for one of th
 
 Now connect the dots:
 
-> Here's my resume/background: [PASTE RESUME OR KEY BULLET POINTS]. Based on the job description analysis above, identify: (1) My strongest overlaps with what they need, (2) Gaps where I'm weak — and how I could address each gap in an interview, (3) Experiences I should definitely bring up, even if they don't seem obviously relevant.
+> Here's my resume/background: [PASTE RESUME OR KEY BULLET POINTS]. Based on the job description analysis above, identify: (1) My strongest overlaps with what they need, (2) Gaps where I'm weak, and how I could address each gap in an interview, (3) Experiences I should definitely bring up, even if they don't seem obviously relevant.
 
 By the end of Phase 1, you'll know more about this company and role than 90% of candidates walking into that interview. And it took you 30 minutes, not an entire weekend.
 
@@ -83,7 +83,7 @@ Every interview has a few questions designed to trip you up. Let's prepare for t
 
 > Generate the 10 hardest interview questions for a [JOB TITLE] role at [COMPANY NAME], based on the job description. Include: (1) 3 behavioral questions, (2) 2 situational/hypothetical questions, (3) 2 questions about weaknesses or failures, (4) 2 role-specific technical questions, (5) 1 curveball question they might ask based on recent company news. For each question, give me a brief strategy note (2-3 sentences) on what the interviewer is actually trying to learn.
 
-That last part — understanding what the interviewer is *really* asking — is what separates prepared candidates from everyone else. "Tell me about a time you failed" isn't about the failure. It's about self-awareness and growth. Knowing the subtext changes how you frame your answer.
+That last part, understanding what the interviewer is *really* asking, is what separates prepared candidates from everyone else. "Tell me about a time you failed" isn't about the failure. It's about self-awareness and growth. Knowing the subtext changes how you frame your answer.
 
 ### Prepare for the "Why This Company" Question
 
@@ -97,7 +97,7 @@ Be honest with the AI about your real motivations. It can help you frame "I need
 
 If you have employment gaps, short stints, or a career pivot, don't wait for the interviewer to bring it up. Prepare a tight explanation:
 
-> I have the following potential red flags on my resume: [DESCRIBE — gap, short tenure, career change, etc.]. For each one, help me craft a 30-second explanation that: (1) Acknowledges it directly without being defensive, (2) Frames what I learned or gained during that period, (3) Pivots back to why I'm a strong fit for this role.
+> I have the following potential red flags on my resume: [DESCRIBE, gap, short tenure, career change, etc.]. For each one, help me craft a 30-second explanation that: (1) Acknowledges it directly without being defensive, (2) Frames what I learned or gained during that period, (3) Pivots back to why I'm a strong fit for this role.
 
 ## Phase 3: Run a Mock Interview (30 Minutes)
 
@@ -105,9 +105,9 @@ Reading your answers silently is not preparation. You need to say them out loud,
 
 ### Set Up the Mock Interview
 
-> You are now the interviewer for the [JOB TITLE] position at [COMPANY NAME]. Conduct a realistic 20-minute interview with me. Rules: (1) Ask one question at a time and wait for my response, (2) Ask follow-up questions based on my answers — don't just move to the next topic, (3) Start friendly, then gradually increase difficulty, (4) If my answer is vague, push me for specifics, (5) After the interview, give me brutally honest feedback on: answer quality, structure, specificity, and areas where I was unconvincing.
+> You are now the interviewer for the [JOB TITLE] position at [COMPANY NAME]. Conduct a realistic 20-minute interview with me. Rules: (1) Ask one question at a time and wait for my response, (2) Ask follow-up questions based on my answers, don't just move to the next topic, (3) Start friendly, then gradually increase difficulty, (4) If my answer is vague, push me for specifics, (5) After the interview, give me brutally honest feedback on: answer quality, structure, specificity, and areas where I was unconvincing.
 
-Now here's the important part: **actually speak your answers out loud** and then type a summary of what you said. Don't type out a perfect written response — that defeats the purpose. The goal is to practice verbal delivery, catch yourself rambling, and notice which stories feel natural versus forced.
+Now here's the important part: **actually speak your answers out loud** and then type a summary of what you said. Don't type out a perfect written response, that defeats the purpose. The goal is to practice verbal delivery, catch yourself rambling, and notice which stories feel natural versus forced.
 
 If you're using [ChatGPT Plus](https://chatgpt.com/) ($20/month), you can use Advanced Voice Mode for this. Talk directly to it. It'll respond conversationally, ask follow-ups, and the experience is surprisingly close to a real phone screen.
 
@@ -119,7 +119,7 @@ After the mock interview, ask for targeted feedback:
 
 This is where [Claude](/claude-vs-chatgpt/) really shines, by the way. Claude tends to give more detailed, nuanced feedback on communication patterns. If you have access to both tools, consider doing the mock interview in ChatGPT (especially with voice mode) and then pasting your answers into Claude for a second opinion on quality.
 
-For more on getting better outputs from AI tools, check out our guide on [prompt engineering techniques](/prompt-engineering-afternoon/) — the same principles that make AI write better emails also make it a better interview coach.
+For more on getting better outputs from AI tools, check out our guide on [prompt engineering techniques](/prompt-engineering-afternoon/), the same principles that make AI write better emails also make it a better interview coach.
 
 ## Phase 4: Prepare Your Follow-Up (15 Minutes)
 
@@ -129,7 +129,7 @@ Most advice says "send a thank you email." That's table stakes. You want a follo
 
 Prepare these before the interview, not during:
 
-> Based on the [COMPANY NAME] research and the [JOB TITLE] job description, generate 8 thoughtful questions I could ask the interviewer. Requirements: (1) Nothing that's easily answered by their website, (2) Questions that show I've done deep research, (3) At least 2 questions about team dynamics or culture, (4) At least 1 question about challenges or what keeps them up at night, (5) Avoid anything about salary, PTO, or perks — those come later. For each question, note who it's best suited for (hiring manager, peer interviewer, or executive).
+> Based on the [COMPANY NAME] research and the [JOB TITLE] job description, generate 8 thoughtful questions I could ask the interviewer. Requirements: (1) Nothing that's easily answered by their website, (2) Questions that show I've done deep research, (3) At least 2 questions about team dynamics or culture, (4) At least 1 question about challenges or what keeps them up at night, (5) Avoid anything about salary, PTO, or perks, those come later. For each question, note who it's best suited for (hiring manager, peer interviewer, or executive).
 
 Pick your top 4-5 and memorize them. Having strong questions ready is one of the easiest ways to stand out, and most candidates completely waste this opportunity.
 
@@ -139,7 +139,7 @@ Don't wait until after the interview when you're tired and second-guessing every
 
 > Write a thank you email template I can customize after my [JOB TITLE] interview at [COMPANY NAME]. Structure: (1) Thank them for their time and reference something specific from our conversation (leave a blank for me to fill in), (2) Briefly reinforce one key qualification that maps to their biggest need, (3) Address any concern that came up during the interview (leave a blank), (4) Express genuine enthusiasm without being over-the-top, (5) Keep it under 150 words total. Tone: professional but warm, not stiff.
 
-Having this template ready means you can send your follow-up within 2 hours of the interview — which signals real interest and organization. Just fill in the specific details from the actual conversation.
+Having this template ready means you can send your follow-up within 2 hours of the interview, which signals real interest and organization. Just fill in the specific details from the actual conversation.
 
 ## Bonus: The Company Research Cheat Sheet
 
@@ -155,7 +155,7 @@ After walking through this whole system, I want to be clear about its limits. AI
 
 **AI can't fake authenticity.** Interviewers who've done thousands of interviews can tell when someone is reciting memorized answers versus speaking from real experience. Use AI to structure and sharpen your stories, but the core content has to come from your actual career.
 
-**AI can't read the room.** Body language, eye contact, the energy you bring into the room, knowing when to let a pause sit versus when to fill it — these are human skills that no amount of prompt engineering will give you.
+**AI can't read the room.** Body language, eye contact, the energy you bring into the room, knowing when to let a pause sit versus when to fill it, these are human skills that no amount of prompt engineering will give you.
 
 **AI can't generate genuine enthusiasm.** If you don't actually want the job, a perfectly crafted "Why this company?" answer won't save you. The best interview prep in the world can't compensate for a fundamental mismatch.
 
@@ -183,4 +183,4 @@ If you want the most streamlined experience, here's the order to run these promp
 
 Total: roughly 2 hours and 15 minutes. That's it. One evening, and you're more prepared than you've ever been for an interview.
 
-For more ways to use AI tools at work beyond interview prep, check out our roundup of the [best AI tools for office work](/best-ai-tools-office-work/) — several of the tools there will also help with resume writing, cover letters, and career planning.
+For more ways to use AI tools at work beyond interview prep, check out our roundup of the [best AI tools for office work](/best-ai-tools-office-work/), several of the tools there will also help with resume writing, cover letters, and career planning.

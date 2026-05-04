@@ -44,7 +44,7 @@ But it’s not just about saving money. It’s about **customization**. Every es
 
 If you print only one thing for your coffee station, make it a **WDT (Weiss Distribution Technique) tool**. 
 
-For the uninitiated, a WDT tool is essentially a handle holding several thin needles (usually 0.3mm to 0.4mm). By stirring the coffee grounds in your portafilter, you break up clumps and ensure an even density across the puck. This prevents "channeling"—where water finds a path of least resistance—leading to a more balanced, sweeter extraction.
+For the uninitiated, a WDT tool is essentially a handle holding several thin needles (usually 0.3mm to 0.4mm). By stirring the coffee grounds in your portafilter, you break up clumps and ensure an even density across the puck. This prevents "channeling",where water finds a path of least resistance, leading to a more balanced, sweeter extraction.
 
 ### The Standard vs. The "Endgame" (Umikot)
 While you can print a simple "clover" style handle for $0.05, the 3D printing community has taken this to the extreme. Enter the **Umikot**. 
@@ -59,7 +59,7 @@ The Umikot is a planetary-gear-driven WDT tool. You place it on top of your port
 
 "Single dosing" is the practice of weighing out individual portions of coffee beans rather than keeping them in a hopper. This keeps the beans fresher and allows you to switch between different roasts effortlessly.
 
-Commercial bean cellars—like those from Weber Workshops—are the "gold standard" of coffee aesthetics. They look like something out of a high-end chemistry lab. With 3D printing, you can recreate this look.
+Commercial bean cellars, like those from Weber Workshops, are the "gold standard" of coffee aesthetics. They look like something out of a high-end chemistry lab. With 3D printing, you can recreate this look.
 
 You can find numerous designs for **Bean Cellar Stands** that hold standard 50ml or 60ml glass centrifuge tubes. 
 *   **The Look:** Print the stand in a matte black or "galaxy" dark grey filament to give it a premium, professional feel.
@@ -85,7 +85,7 @@ If you’ve ever made a mess grinding coffee into a portafilter, you need a dosi
 
 ## 4. The Organization King: Gridfinity for Coffee
 
-If you are a regular reader of this blog, you know our love for **Gridfinity**—the open-source organizational system created by Zack Freedman. 
+If you are a regular reader of this blog, you know our love for **Gridfinity**,the open-source organizational system created by Zack Freedman. 
 
 The coffee station is the perfect candidate for Gridfinity. You have dozens of small, specific tools:
 *   Puck screens
@@ -159,4 +159,4 @@ Happy printing, and may your extractions always be even.
 ## Related Articles
 *   [10 Practical Desk Upgrades You Can 3D Print](/10-practical-desk-upgrades-3d-print/)
 *   [Bambu Lab X2D: First Look](/bambu-lab-x2d-first-look/)
-*   [Gridfinity: The Ultimate Organization System](/gridfinity-guide/) — *Coming Soon*
+*   [Gridfinity: The Ultimate Organization System](/gridfinity-guide/), *Coming Soon*

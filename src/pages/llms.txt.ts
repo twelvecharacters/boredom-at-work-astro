@@ -20,7 +20,7 @@ const CATEGORY_DESCRIPTIONS: Record<string, string> = {
   'Japan Shopping': 'Guides for importing products from Japan.',
   'AI Travel Planning': 'Guides for planning trips with AI tools like ChatGPT, Claude, and Perplexity.',
   'Home Office / Desk Setup': 'Guides for building a productive home office workspace.',
-  'Finance / Investing': 'Tools and learning resources for beginner investors. Educational content—not financial advice.',
+  'Finance / Investing': 'Tools and learning resources for beginner investors. Educational content, not financial advice.',
   'Tech & Gadgets': 'Reviews and comparisons of consumer technology.',
 };
 

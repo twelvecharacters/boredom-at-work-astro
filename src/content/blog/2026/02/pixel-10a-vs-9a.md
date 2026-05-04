@@ -38,7 +38,7 @@ The Pixel 9a was a standout release in early 2025. It brought the Tensor G4 chip
 - **Battery:** 5,100 mAh
 - **Price:** $499
 
-It's been a reliable favorite for those who want Google's flagship AI features—like Magic Editor and Gemini—without the Pro price tag.
+It's been a reliable favorite for those who want Google's flagship AI features, like Magic Editor and Gemini, without the Pro price tag.
 
 ---
 
@@ -77,7 +77,7 @@ Rumors point to even thinner bezels on the Pixel 10a, giving it a more premium "
 On paper, both phones share a 48MP main sensor. But the real story is in the processing.
 
 ### Night Photography
-The Pixel 9a already takes excellent low-light photos thanks to Google's Night Sight. The 10a is expected to improve this with **longer handheld exposures** and better noise reduction from the optimized Tensor G4 — meaning cleaner shots in near-darkness without a tripod.
+The Pixel 9a already takes excellent low-light photos thanks to Google's Night Sight. The 10a is expected to improve this with **longer handheld exposures** and better noise reduction from the optimized Tensor G4, meaning cleaner shots in near-darkness without a tripod.
 
 ### Video Improvements
 The Pixel 10a is rumored to support **4K 60fps** recording with improved stabilization. The 9a maxes out at 4K 30fps, which is fine for casual use but limiting if you shoot action or travel content.
@@ -91,7 +91,7 @@ For a deeper dive into phone vs dedicated camera quality, check our [camera vs s
 
 ## Software and Updates
 
-Both the Pixel 9a and 10a come with Google's **7-year update promise** — that's OS upgrades and security patches through 2032 and 2033, respectively.
+Both the Pixel 9a and 10a come with Google's **7-year update promise**, that's OS upgrades and security patches through 2032 and 2033, respectively.
 
 The key difference: the 10a ships with **Android 16** out of the box, which includes:
 - **Desktop windowing mode** for larger displays

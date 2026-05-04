@@ -1,7 +1,7 @@
 ---
 title: "AirPods Pro 3 Review: Still Worth It in 2026?"
 slug: "airpods-pro-3-review"
-description: "Full AirPods Pro 3 review after months of daily use. Sound quality, ANC, battery, and the hearing health features — here's the honest verdict."
+description: "Full AirPods Pro 3 review after months of daily use. Sound quality, ANC, battery, and the hearing health features, here's the honest verdict."
 publishDate: 2026-01-28
 updatedDate: 2026-04-05
 author: "bored chap"
@@ -9,7 +9,7 @@ image: "./airpods-pro-3-review.webp"
 imageAlt: "AirPods Pro 3 in their charging case on a modern desk"
 tags: ["Tech & Gadgets", "AirPods", "Apple", "Earbuds", "Review"]
 draft: false
-tldr: "Better ANC, longer battery (8h vs 6h), more water resistant — but $249 isn't a must-upgrade from Pro 2. Worth it if you're buying new or your old AirPods are dying."
+tldr: "Better ANC, longer battery (8h vs 6h), more water resistant, but $249 isn't a must-upgrade from Pro 2. Worth it if you're buying new or your old AirPods are dying."
 review:
   rating: 4
   productName: "AirPods Pro 3"
@@ -140,7 +140,7 @@ Pro tip: Keep one earbud out during "available" hours. Universal signal that you
 
 Call quality is genuinely excellent. Your voice cuts through clearly even in noisy environments. The mics know which sounds are you and which are background.
 
-Just remember to mute when not speaking — they don't filter *your* keyboard clicks.
+Just remember to mute when not speaking, they don't filter *your* keyboard clicks.
 
 **The Work-From-Home MVP**
 
@@ -158,4 +158,4 @@ Getting them as a gift? Even better. That's the best price point.
 
 ---
 
-*Interested in how these compare to the competition? Check out my [AirPods Pro vs Galaxy Buds vs Sony comparison](/airpods-vs-galaxy-buds-vs-sony/) for a deeper dive. Want hands-free audio without earbuds? See my [Ray-Ban Meta smart glasses review](/ray-ban-meta-review/) — they handle podcasts and calls surprisingly well.*
+*Interested in how these compare to the competition? Check out my [AirPods Pro vs Galaxy Buds vs Sony comparison](/airpods-vs-galaxy-buds-vs-sony/) for a deeper dive. Want hands-free audio without earbuds? See my [Ray-Ban Meta smart glasses review](/ray-ban-meta-review/), they handle podcasts and calls surprisingly well.*

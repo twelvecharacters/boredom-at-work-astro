@@ -1,6 +1,6 @@
 ---
 title: "Build an AI Flight Search Agent (No Coding)"
-description: "Learn how AI agents work by building a flight search assistant. From no-code tools to Python scripts—find the cheapest flights automatically."
+description: "Learn how AI agents work by building a flight search assistant. From no-code tools to Python scripts, find the cheapest flights automatically."
 publishDate: 2026-05-20
 author: "bored chap"
 image: "./ai-flight-search-agent.webp"
@@ -20,7 +20,7 @@ howTo:
       text: "For full control, build a Python script using the Amadeus or Kiwi.com API to search, compare, and filter flights automatically."
 faq:
   - question: "What is an AI flight search agent?"
-    answer: "An AI agent that automatically searches multiple flight sources, compares prices, considers your preferences, and finds the best routes—like having a personal travel assistant working 24/7."
+    answer: "An AI agent that automatically searches multiple flight sources, compares prices, considers your preferences, and finds the best routes, like having a personal travel assistant working 24/7."
   - question: "Can I build a flight search agent without coding?"
     answer: "Yes! Tools like ChatGPT with web search, Zapier, and Make.com let you create basic flight search automation without writing code. For more control, simple Python scripts are beginner-friendly."
   - question: "Is it legal to scrape flight prices?"
@@ -29,7 +29,7 @@ faq:
 
 Imagine having a personal assistant that monitors flight prices 24/7, alerts you when prices drop, and finds routing options you'd never discover yourself. That's what an AI flight search agent does.
 
-In this guide, you'll learn how these agents work and build your own—starting with no-code tools and progressing to more powerful options if you're curious.
+In this guide, you'll learn how these agents work and build your own, starting with no-code tools and progressing to more powerful options if you're curious.
 
 ## What Is an AI Flight Search Agent?
 
@@ -160,7 +160,7 @@ Want more control? Tools like Zapier and Make.com let you build custom workflows
 
 ## Level 4: Build a Real Agent (For the Curious)
 
-If you want to understand how AI agents actually work, here's a simplified example using Python. Don't worry—I'll explain each part.
+If you want to understand how AI agents actually work, here's a simplified example using Python. Don't worry, I'll explain each part.
 
 ### What You'll Build
 
@@ -341,9 +341,9 @@ def save_price(route, price):
 
 ---
 
-## Level 5: The Future—Autonomous Booking Agents
+## Level 5: The Future, Autonomous Booking Agents
 
-We're moving toward agents that don't just search—they book.
+We're moving toward agents that don't just search, they book.
 
 ### What's Coming
 
@@ -365,7 +365,7 @@ Airlines don't love automated booking. Most APIs allow searching but not purchas
 - Payment processing
 - Legal compliance
 
-For now, agents excel at *finding* deals—you still click "book" yourself.
+For now, agents excel at *finding* deals, you still click "book" yourself.
 
 ---
 

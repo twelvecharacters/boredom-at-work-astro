@@ -1,7 +1,7 @@
 ---
 title: "Sesame Robot: The Most Adorable DIY Quadruped You Can 3D Print"
 slug: "sesame-robot-quadruped"
-description: "Build the Sesame Robot — an open-source 3D-printed quadruped with personality, OLED eyes, and WiFi control. Full BOM, print settings, and build guide inside."
+description: "Build the Sesame Robot, an open-source 3D-printed quadruped with personality, OLED eyes, and WiFi control. Full BOM, print settings, and build guide inside."
 publishDate: 2026-03-22
 author: "bored chap"
 image: "./sesame-robot.webp"
@@ -12,20 +12,20 @@ faq:
   - question: "How much does it cost to build a Sesame Robot?"
     answer: "The total cost for components (servos, ESP32, OLED, battery, wiring) is typically between $50 and $70, assuming you already have a 3D printer and filament. Buying servos in a 10-pack brings the cost down."
   - question: "Do I need special filament for the Sesame Robot?"
-    answer: "No, standard PLA works perfectly. The parts are designed for FDM printers with minimal supports — only the top cover needs them. Use 8-10% infill with honeycomb pattern for the best strength-to-weight ratio."
+    answer: "No, standard PLA works perfectly. The parts are designed for FDM printers with minimal supports, only the top cover needs them. Use 8-10% infill with honeycomb pattern for the best strength-to-weight ratio."
   - question: "Is soldering required for the Sesame Robot?"
     answer: "Yes, basic soldering skills are needed to connect the servos, display, buck converter, and power system to the ESP32 microcontroller. The GitHub documentation includes clear wiring diagrams."
   - question: "How does Sesame compare to SpotMicro or Otto Robot?"
-    answer: "Sesame is cheaper than SpotMicro (~$50-70 vs $150-250) and has more personality than Otto (OLED face, 8 DOF vs 4). It's the best middle ground — more capable than Otto, more accessible than SpotMicro."
+    answer: "Sesame is cheaper than SpotMicro (~$50-70 vs $150-250) and has more personality than Otto (OLED face, 8 DOF vs 4). It's the best middle ground, more capable than Otto, more accessible than SpotMicro."
 tldr: "If you're looking for a project that combines 3D printing, electronics, and personality, the Sesame Robot is it. For under $70, you can build a fully functional, emotive quadruped robot powered by an ESP32."
 isListicle: false
 ---
 
-If you've been following our [3D Printing Guide for Beginners](/3d-printing-guide/), you've probably reached the stage where you're tired of printing static "dust collectors." You want something that moves, something interactive, and — let's be honest — something that looks cool on your desk.
+If you've been following our [3D Printing Guide for Beginners](/3d-printing-guide/), you've probably reached the stage where you're tired of printing static "dust collectors." You want something that moves, something interactive, and, let's be honest, something that looks cool on your desk.
 
 Enter the **Sesame Robot**.
 
-Created by [Dorian Todd](https://github.com/dorianborian/sesame-robot), Sesame is an open-source, 8-servo quadruped robot that has taken the maker community by storm. Featured on [Hackaday](https://hackaday.com/2026/01/24/building-a-little-quadruped-robot/), [Hackster.io](https://www.hackster.io/news/build-your-own-quadruped-robot-for-under-60-99a2b1db20dd), and [Adafruit](https://blog.adafruit.com/2026/01/19/how-i-made-this-tiny-walking-robot-from-scratch/), it's not just a walking machine — it's a personality-driven companion designed to be accessible to everyone.
+Created by [Dorian Todd](https://github.com/dorianborian/sesame-robot), Sesame is an open-source, 8-servo quadruped robot that has taken the maker community by storm. Featured on [Hackaday](https://hackaday.com/2026/01/24/building-a-little-quadruped-robot/), [Hackster.io](https://www.hackster.io/news/build-your-own-quadruped-robot-for-under-60-99a2b1db20dd), and [Adafruit](https://blog.adafruit.com/2026/01/19/how-i-made-this-tiny-walking-robot-from-scratch/), it's not just a walking machine, it's a personality-driven companion designed to be accessible to everyone.
 
 ## What Makes Sesame Special?
 
@@ -53,13 +53,13 @@ Sesame occupies the sweet spot: more capable and expressive than Otto, far more 
 
 ## The Brains: ESP32 Power
 
-At the heart of Sesame is the **ESP32-S2 Mini** — cheap (~$5), powerful, and WiFi-enabled out of the box.
+At the heart of Sesame is the **ESP32-S2 Mini**, cheap (~$5), powerful, and WiFi-enabled out of the box.
 
 Because it has WiFi, you don't just program it and hope for the best. Once flashed, Sesame creates its own WiFi network. Connect to it, open `192.168.4.1` in your browser, and you get a full control panel: walk, turn, sit, dance, and adjust servo parameters in real time.
 
-Want to go further? Script complex movements using **Sesame Studio** — a Python desktop app that lets you visually compose animations frame by frame. Set servo angles for each joint, add delays, and export the code directly to Arduino IDE. No other hobby quadruped has a dedicated animation tool like this.
+Want to go further? Script complex movements using **Sesame Studio**, a Python desktop app that lets you visually compose animations frame by frame. Set servo angles for each joint, add delays, and export the code directly to Arduino IDE. No other hobby quadruped has a dedicated animation tool like this.
 
-There's even a **Sesame Companion App** that adds AI-powered voice control via Google Gemini — complete with speech recognition and a personality the creator describes as having "comedic timing and occasional sarcasm."
+There's even a **Sesame Companion App** that adds AI-powered voice control via Google Gemini, complete with speech recognition and a personality the creator describes as having "comedic timing and occasional sarcasm."
 
 ## Full Bill of Materials
 
@@ -77,8 +77,8 @@ Here's exactly what you need to order:
 | Wire kits (22AWG + 30AWG silicone) | 2 | ~$5-8 | [Link](https://s.click.aliexpress.com/e/_c3b1igzd)
 | M2 x 5mm self-threading screws | ~40 | ~$2-3 | [Link](https://s.click.aliexpress.com/e/_c34GWU55)
 | M2.5 x 5mm machine screws | ~10 | ~$1-2 | [Link](https://s.click.aliexpress.com/e/_c34GWU55)
-| Misc (heat-shrink, zip ties, headers, solder) | — | ~$5-8 |
-| PLA filament (~200-300g) | — | ~$3-5 | [Link](https://s.click.aliexpress.com/e/_c3oJfjoX)
+| Misc (heat-shrink, zip ties, headers, solder) |, | ~$5-8 |
+| PLA filament (~200-300g) |, | ~$3-5 | [Link](https://s.click.aliexpress.com/e/_c3oJfjoX)
 | **Total** | | **~$50-70** |
 
 **Tip:** Buy the MG90S servos in a 10-pack. Dead-on-arrival servos aren't uncommon with budget brands, and having spares saves you a week of waiting.
@@ -105,10 +105,10 @@ New to dialing in your slicer? Check our [Cura settings guide](/cura-settings-be
 The full build takes about **5-8 sessions** spread over a weekend or two. Here's the overview:
 
 ### Phase 1: Print and Prep
-Print all 11 parts. While they're printing, pre-test every servo with a servo tester — catching a dead unit now saves hours of troubleshooting later.
+Print all 11 parts. While they're printing, pre-test every servo with a servo tester, catching a dead unit now saves hours of troubleshooting later.
 
 ### Phase 2: Electronics and Wiring
-Solder the power rails and buck converter first. Route signal wires and **label every servo lead S0-S7** with tape flags. This is the single most important step — swapped servo plugs are the #1 cause of calibration failures.
+Solder the power rails and buck converter first. Route signal wires and **label every servo lead S0-S7** with tape flags. This is the single most important step, swapped servo plugs are the #1 cause of calibration failures.
 
 ### Phase 3: Pre-Assembly
 Press-fit servo horns into the femur shells, but do **not** attach them to motor shafts yet. Install the OLED into the top cover. Press-fit the rocker switch.
@@ -125,7 +125,7 @@ Once calibrated, flash the production firmware, connect to the "Sesame-Controlle
 
 A few gotchas the documentation warns about:
 
-- **Hip motors crash at max angle:** Data wires connected to wrong headers — easy to accidentally reverse left/right.
+- **Hip motors crash at max angle:** Data wires connected to wrong headers, easy to accidentally reverse left/right.
 - **Foot motors drive into the bottom cover:** Servo horn installed in the wrong direction. Pull it off, command the opposite extreme, reinstall pointing up, and re-center at 90 degrees.
 - **Servo jitter during movement:** Increase `motorCurrentDelay` in the web settings to stagger servo bursts. The default 20ms works for most builds.
 - **Stripped servo gears:** Never run calibration with joints already attached. A misaligned horn can stall and strip a gear instantly.
@@ -133,7 +133,7 @@ A few gotchas the documentation warns about:
 
 ## Why You Should Build One
 
-3D printing is at its best when it merges with other disciplines like electronics and programming. Sesame is the perfect "next step" project after you've [printed your first functional objects](/what-to-3d-print-first/) and [avoided the beginner mistakes](/3d-printing-beginner-mistakes/). It teaches you about power management, servo calibration, and kinematic movement — all while resulting in a robot that feels genuinely alive.
+3D printing is at its best when it merges with other disciplines like electronics and programming. Sesame is the perfect "next step" project after you've [printed your first functional objects](/what-to-3d-print-first/) and [avoided the beginner mistakes](/3d-printing-beginner-mistakes/). It teaches you about power management, servo calibration, and kinematic movement, all while resulting in a robot that feels genuinely alive.
 
 Plus, watching it do a little "happy dance" on your desk after you've spent a weekend building it is one of the most rewarding feelings in the maker hobby.
 

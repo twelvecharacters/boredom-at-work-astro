@@ -1,5 +1,5 @@
 ---
-// Portfolio CSV Analyzer — client-side, privacy-first
+// Portfolio CSV Analyzer, client-side, privacy-first
 // No data ever leaves the browser
 ---
 
@@ -12,7 +12,7 @@
       </svg>
       Free Portfolio Analyzer
     </h2>
-    <p class="text-white/80 text-sm">Upload your brokerage CSV — everything stays in your browser. Nothing is sent to any server.</p>
+    <p class="text-white/80 text-sm">Upload your brokerage CSV, everything stays in your browser. Nothing is sent to any server.</p>
   </div>
 
   <!-- Upload Zone -->
@@ -37,19 +37,19 @@
     <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
       <div class="bg-background-alt rounded-xl p-4 text-center">
         <p class="text-xs font-bold uppercase tracking-widest text-text-light mb-1">Total Value</p>
-        <p id="pa-total-value" class="text-2xl font-bold text-primary">—</p>
+        <p id="pa-total-value" class="text-2xl font-bold text-primary">,</p>
       </div>
       <div class="bg-background-alt rounded-xl p-4 text-center">
         <p class="text-xs font-bold uppercase tracking-widest text-text-light mb-1">Positions</p>
-        <p id="pa-positions" class="text-2xl font-bold text-primary">—</p>
+        <p id="pa-positions" class="text-2xl font-bold text-primary">,</p>
       </div>
       <div class="bg-background-alt rounded-xl p-4 text-center">
         <p class="text-xs font-bold uppercase tracking-widest text-text-light mb-1">Avg Expense</p>
-        <p id="pa-avg-expense" class="text-2xl font-bold text-primary">—</p>
+        <p id="pa-avg-expense" class="text-2xl font-bold text-primary">,</p>
       </div>
       <div class="bg-background-alt rounded-xl p-4 text-center">
         <p class="text-xs font-bold uppercase tracking-widest text-text-light mb-1">Top Holding</p>
-        <p id="pa-top-holding" class="text-2xl font-bold text-primary">—</p>
+        <p id="pa-top-holding" class="text-2xl font-bold text-primary">,</p>
       </div>
     </div>
 
@@ -199,10 +199,10 @@ QQQ,Invesco QQQ Trust,30,485.20,14556.00,12800.00,0.20%,ETF
 SCHD,Schwab US Dividend Equity,80,82.50,6600.00,6000.00,0.06%,ETF
 VWO,Vanguard FTSE Emerging Markets,100,44.80,4480.00,4200.00,0.08%,ETF
 BND,Vanguard Total Bond Market,60,72.10,4326.00,4500.00,0.03%,ETF
-AAPL,Apple Inc,25,228.50,5712.50,4000.00,—,Stock
-MSFT,Microsoft Corp,15,445.20,6678.00,5200.00,—,Stock
-NVDA,NVIDIA Corp,20,875.30,17506.00,8000.00,—,Stock
-JPM,JPMorgan Chase,18,235.60,4240.80,3800.00,—,Stock
+AAPL,Apple Inc,25,228.50,5712.50,4000.00,,Stock
+MSFT,Microsoft Corp,15,445.20,6678.00,5200.00,,Stock
+NVDA,NVIDIA Corp,20,875.30,17506.00,8000.00,,Stock
+JPM,JPMorgan Chase,18,235.60,4240.80,3800.00,,Stock
 VNQ,Vanguard Real Estate ETF,45,84.30,3793.50,4100.00,0.12%,ETF
 GLD,SPDR Gold Shares,15,215.40,3231.00,2800.00,0.40%,ETF
 XLE,Energy Select Sector SPDR,40,88.90,3556.00,3200.00,0.09%,ETF`;
@@ -266,7 +266,7 @@ XLE,Energy Select Sector SPDR,40,88.90,3556.00,3200.00,0.09%,ETF`;
   }
 
   function parseNum(val: string | undefined): number {
-    if (!val || val === '—' || val === 'N/A' || val === '-') return 0;
+    if (!val || val === ',' || val === 'N/A' || val === '-') return 0;
     return parseFloat(val.replace(/[$,\s%]/g, '')) || 0;
   }
 
@@ -365,7 +365,7 @@ XLE,Energy Select Sector SPDR,40,88.90,3556.00,3200.00,0.09%,ETF`;
       warnings.push(`High concentration: ${top.ticker || top.name} is ${top.weight.toFixed(1)}% of your portfolio. Consider if this aligns with your risk tolerance.`);
     }
     if (top && top.weight > 15 && top.weight <= 25) {
-      warnings.push(`${top.ticker || top.name} is ${top.weight.toFixed(1)}% of your portfolio — watch for over-concentration.`);
+      warnings.push(`${top.ticker || top.name} is ${top.weight.toFixed(1)}% of your portfolio, watch for over-concentration.`);
     }
 
     const sectorEntries = Object.entries(sectors).sort((a, b) => b[1] - a[1]);
@@ -383,7 +383,7 @@ XLE,Energy Select Sector SPDR,40,88.90,3556.00,3200.00,0.09%,ETF`;
     }
 
     if (avgExpense > 0.5) {
-      warnings.push(`Your weighted average expense ratio is ${avgExpense.toFixed(2)}% — higher than typical index fund portfolios (0.03-0.10%).`);
+      warnings.push(`Your weighted average expense ratio is ${avgExpense.toFixed(2)}%, higher than typical index fund portfolios (0.03-0.10%).`);
     }
 
     return { holdings, totalValue, sectors, avgExpense, expenseCount, warnings };
@@ -418,7 +418,7 @@ XLE,Energy Select Sector SPDR,40,88.90,3556.00,3200.00,0.09%,ETF`;
     el('pa-total-value').textContent = formatCurrency(totalValue);
     el('pa-positions').textContent = String(holdings.length);
     el('pa-avg-expense').textContent = expenseCount > 0 ? avgExpense.toFixed(2) + '%' : 'N/A';
-    el('pa-top-holding').textContent = (holdings[0]?.ticker || holdings[0]?.name || '—').substring(0, 8);
+    el('pa-top-holding').textContent = (holdings[0]?.ticker || holdings[0]?.name || ',').substring(0, 8);
 
     // Warnings
     const warningsEl = el('pa-warnings');
@@ -441,12 +441,12 @@ XLE,Energy Select Sector SPDR,40,88.90,3556.00,3200.00,0.09%,ETF`;
       const gainClass = h.gainLoss > 0 ? 'text-green-600' : h.gainLoss < 0 ? 'text-red-600' : 'text-text-light';
       const gainSign = h.gainLoss > 0 ? '+' : '';
       tr.innerHTML = `
-        <td class="px-4 py-2.5 font-semibold text-primary">${h.ticker || '—'}</td>
+        <td class="px-4 py-2.5 font-semibold text-primary">${h.ticker || ','}</td>
         <td class="px-4 py-2.5 text-text-light max-w-[200px] truncate">${h.name}</td>
         <td class="px-4 py-2.5 text-right font-medium">${formatCurrency(h.value)}</td>
         <td class="px-4 py-2.5 text-right font-medium">${h.weight.toFixed(1)}%</td>
         <td class="px-4 py-2.5">${h.sector}</td>
-        <td class="px-4 py-2.5 text-right ${gainClass} font-medium">${h.costBasis > 0 ? gainSign + formatCurrency(h.gainLoss) + ' (' + gainSign + h.gainLossPct.toFixed(1) + '%)' : '—'}</td>
+        <td class="px-4 py-2.5 text-right ${gainClass} font-medium">${h.costBasis > 0 ? gainSign + formatCurrency(h.gainLoss) + ' (' + gainSign + h.gainLossPct.toFixed(1) + '%)' : ','}</td>
       `;
       tbody.appendChild(tr);
     });
@@ -550,14 +550,14 @@ XLE,Energy Select Sector SPDR,40,88.90,3556.00,3200.00,0.09%,ETF`;
         }
       });
     } catch {
-      // Chart.js failed — show text fallback
+      // Chart.js failed, show text fallback
       el('pa-allocation-chart').parentElement!.innerHTML = '<p class="text-sm text-text-light p-4">Chart unavailable. See holdings table below for details.</p>';
       el('pa-holdings-chart').parentElement!.innerHTML = '<p class="text-sm text-text-light p-4">Chart unavailable. See holdings table below for details.</p>';
     }
 
     // Generate prompts
     const holdingsList = holdings.slice(0, 20).map(h =>
-      `${h.ticker || h.name}: $${h.value.toFixed(0)} (${h.weight.toFixed(1)}%) — ${h.sector}`
+      `${h.ticker || h.name}: $${h.value.toFixed(0)} (${h.weight.toFixed(1)}%), ${h.sector}`
     ).join('\n');
 
     const sectorList = Object.entries(sectors)
@@ -569,7 +569,7 @@ XLE,Energy Select Sector SPDR,40,88.90,3556.00,3200.00,0.09%,ETF`;
       .filter(h => h.expenseRatio > 0)
       .sort((a, b) => b.expenseRatio - a.expenseRatio)
       .slice(0, 15)
-      .map(h => `${h.ticker}: ${h.expenseRatio.toFixed(2)}% ER — $${h.value.toFixed(0)}`)
+      .map(h => `${h.ticker}: ${h.expenseRatio.toFixed(2)}% ER, $${h.value.toFixed(0)}`)
       .join('\n');
 
     const lossList = holdings
@@ -607,7 +607,7 @@ Please:
 2. For each expensive fund, suggest a lower-cost alternative tracking a similar index
 3. Calculate my total annual fees in dollars
 4. Calculate how much I would save per year if I switched to the cheapest alternatives
-5. Flag any duplicate exposure (e.g., two funds tracking similar indexes)`;
+5. Flag any duplicate exposure (e.g. two funds tracking similar indexes)`;
 
     el('pa-prompt-3').textContent = `Here is my current portfolio allocation:
 
@@ -616,7 +616,7 @@ ${sectorList}
 Total value: ${formatCurrency(totalValue)}
 ${lossList ? '\nPositions with unrealized losses:\n' + lossList : ''}
 
-My target allocation is: [FILL IN YOUR TARGET, e.g., 70% US stocks / 15% international / 10% bonds / 5% alternatives]
+My target allocation is: [FILL IN YOUR TARGET, e.g. 70% US stocks / 15% international / 10% bonds / 5% alternatives]
 
 Please:
 1. Compare my current allocation to the target above

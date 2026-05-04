@@ -227,7 +227,7 @@ A fair question for anyone interested in 3D printing:
 - **Practical:** Hooks, holders, organizers, spare parts
 - **Creative:** Figures, decorations, gifts
 - **Functional:** Prototypes, custom parts
-- **Commercial:** Etsy shop, contract work — see our guide on [selling 3D prints online](/selling-3d-prints-online/)
+- **Commercial:** Etsy shop, contract work, see our guide on [selling 3D prints online](/selling-3d-prints-online/)
 
 Find a detailed cost-benefit analysis in [Is a 3D Printer Worth It?](/is-3d-printing-worth-it/), and see our [complete 3D printing cost breakdown](/3d-printing-cost-guide/) for per-print calculations.
 

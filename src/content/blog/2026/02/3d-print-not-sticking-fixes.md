@@ -1,7 +1,7 @@
 ---
 title: "3D Print Not Sticking to Bed? Every Fix You Need"
 slug: "3d-print-not-sticking-fixes"
-description: "First layer keeps failing? Here's every reason your 3D print won't stick to the bed and how to fix it—from bed leveling to adhesion helpers."
+description: "First layer keeps failing? Here's every reason your 3D print won't stick to the bed and how to fix it, from bed leveling to adhesion helpers."
 publishDate: 2026-02-24
 author: "bored chap"
 image: "./3d-print-not-sticking-fixes.webp"
@@ -20,7 +20,7 @@ faq:
   - question: "Why does my print stick in the middle but not the corners?"
     answer: "Your bed is likely warped (very common) or not properly leveled at all points. Try using a mesh bed leveling feature if your printer supports it, or focus prints in the center of the bed."
   - question: "Should I use a raft or brim for better adhesion?"
-    answer: "A brim is usually better—it adds surface area around your print's base without wasting as much material as a raft. Use a raft only as a last resort for severely warped beds or very small contact areas."
+    answer: "A brim is usually better, it adds surface area around your print's base without wasting as much material as a raft. Use a raft only as a last resort for severely warped beds or very small contact areas."
 tldr: "Clean your bed with IPA, re-level it, slow down the first layer to 20mm/s, and increase bed temp by 5-10°C. If that doesn't work, add a brim or use glue stick/hairspray. 90% of adhesion problems are solved by proper leveling and a clean bed."
 ---
 
@@ -28,7 +28,7 @@ You hit print, walk away excited, and come back to find a bird's nest of filamen
 
 **Don't panic.** This is the most common 3D printing problem, and it's almost always fixable. (New to 3D printing? Start with our [beginner's guide](/3d-printing-beginners-guide/) first.)
 
-In this guide, I'll walk you through every cause of bed adhesion failure and how to fix each one—from the obvious (dirty bed) to the subtle (wrong z-offset by 0.05mm).
+In this guide, I'll walk you through every cause of bed adhesion failure and how to fix each one, from the obvious (dirty bed) to the subtle (wrong z-offset by 0.05mm).
 
 ## Why First Layer Adhesion Matters
 
@@ -200,7 +200,7 @@ Different surfaces work better with different materials:
 | Surface | Best For | Avoid |
 |---------|----------|-------|
 | **PEI (smooth)** | PLA, ABS | PETG (sticks too well) |
-| **PEI (textured)** | PETG, PLA | — |
+| **PEI (textured)** | PETG, PLA |, |
 | **Glass** | PLA (with glue), ABS (with hairspray) | PETG (without release agent) |
 | **BuildTak** | PLA, ABS | PETG |
 | **Magnetic flex plates** | Varies | Check manufacturer |
@@ -211,7 +211,7 @@ Different surfaces work better with different materials:
 
 ## Cause #8: Warped Bed
 
-**The problem:** Many beds aren't perfectly flat—they're higher in the middle or have low corners.
+**The problem:** Many beds aren't perfectly flat, they're higher in the middle or have low corners.
 
 **Symptoms:**
 - Perfect adhesion in some spots, none in others
@@ -373,7 +373,7 @@ Initial Fan Speed: 0% (let first layers bond without cooling)
 4. Increase bed temp
 
 **Print sticks in center but not corners:**
-1. Bed is warped—use mesh leveling
+1. Bed is warped, use mesh leveling
 2. Print in center of bed
 3. Consider glass bed upgrade
 
@@ -389,9 +389,9 @@ Initial Fan Speed: 0% (let first layers bond without cooling)
 
 First layer adhesion comes down to three things:
 
-1. **Clean surface** — IPA wipe before printing
-2. **Proper distance** — Nozzle close enough to squish filament
-3. **Right temperature** — Bed warm enough to keep plastic soft
+1. **Clean surface**, IPA wipe before printing
+2. **Proper distance**, Nozzle close enough to squish filament
+3. **Right temperature**, Bed warm enough to keep plastic soft
 
 Master these three, and 90% of your adhesion problems disappear.
 

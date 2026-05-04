@@ -15,12 +15,12 @@ faq:
   - question: "Are finance YouTubers trustworthy?"
     answer: "Some are, many aren't. Look for creators with actual credentials (CFA, CFP, CPA), transparent portfolios, and balanced takes. Avoid anyone promising guaranteed returns, showing off luxury lifestyles as proof, or promoting penny stocks and meme coins. The channels in this guide have been vetted for accuracy and educational value."
   - question: "Can I learn investing from YouTube alone?"
-    answer: "You can learn the fundamentals, yes. YouTube is excellent for understanding concepts, discovering strategies, and staying current with market trends. But it shouldn't be your only source — pair it with actual books (The Psychology of Money, A Random Walk Down Wall Street), paper trading practice, and your own research. See our best free investing courses for structured learning."
+    answer: "You can learn the fundamentals, yes. YouTube is excellent for understanding concepts, discovering strategies, and staying current with market trends. But it shouldn't be your only source, pair it with actual books (The Psychology of Money, A Random Walk Down Wall Street), paper trading practice, and your own research. See our best free investing courses for structured learning."
   - question: "What's the difference between finance YouTube and finfluencers?"
-    answer: "Finance YouTubers create educational content about money concepts. Finfluencers promote specific stocks, crypto, or products — often with undisclosed sponsorships. The line is blurry, but a good rule: if someone tells you WHAT to buy rather than HOW to think, be skeptical. Educational content teaches principles; finfluencer content sells picks."
+    answer: "Finance YouTubers create educational content about money concepts. Finfluencers promote specific stocks, crypto, or products, often with undisclosed sponsorships. The line is blurry, but a good rule: if someone tells you WHAT to buy rather than HOW to think, be skeptical. Educational content teaches principles; finfluencer content sells picks."
 ---
 
-YouTube is the #1 platform for learning about investing — 65% of Americans who use social media for financial info prefer it over any other platform. But the quality ranges from genuinely life-changing to dangerously misleading.
+YouTube is the #1 platform for learning about investing, 65% of Americans who use social media for financial info prefer it over any other platform. But the quality ranges from genuinely life-changing to dangerously misleading.
 
 Here are the channels actually worth your time, organized by what you need, plus the red flags that should make you close the tab immediately.
 
@@ -42,7 +42,7 @@ The best finance educator on YouTube, period. Richard is a CFA charterholder who
 
 **Subscribers:** ~5.15M | **Focus:** Personal finance, real estate, credit
 
-Huge audience for a reason — Graham makes financial concepts entertaining without being clickbaity. Strong on credit scores, saving strategies, and income growth. Less focused on stock picking, more on building wealth through habits.
+Huge audience for a reason, Graham makes financial concepts entertaining without being clickbaity. Strong on credit scores, saving strategies, and income growth. Less focused on stock picking, more on building wealth through habits.
 
 **Start with:** "How I Budget My Millions" or his credit score breakdown videos
 
@@ -50,7 +50,7 @@ Huge audience for a reason — Graham makes financial concepts entertaining with
 
 **Subscribers:** ~540K | **Focus:** Retirement planning, tax strategy
 
-Hosted by a CPA/CFP/CFA — actual credentials behind the advice. Focuses on long-term wealth building, retirement planning, and tax optimization. Less exciting than some channels, but the advice is solid and conservative in the best way.
+Hosted by a CPA/CFP/CFA, actual credentials behind the advice. Focuses on long-term wealth building, retirement planning, and tax optimization. Less exciting than some channels, but the advice is solid and conservative in the best way.
 
 **Start with:** "Financial Order of Operations" (their signature framework)
 
@@ -86,7 +86,7 @@ Academic rigor applied to individual stock picks. Sven does deep fundamental ana
 
 **Subscribers:** ~500K+ | **Focus:** Value investing, book summaries
 
-Animated summaries of investing classics — Buffett, Graham, Lynch, Dalio. Perfect for getting the key insights from a 300-page investing book in 15 minutes. Then read the actual book if the ideas resonate.
+Animated summaries of investing classics, Buffett, Graham, Lynch, Dalio. Perfect for getting the key insights from a 300-page investing book in 15 minutes. Then read the actual book if the ideas resonate.
 
 **Start with:** "The Intelligent Investor" or "One Up on Wall Street" summaries
 
@@ -130,7 +130,7 @@ If someone promotes a specific small-cap stock with an extreme price target and 
 
 ### 2. Luxury Lifestyle as "Proof"
 
-Lamborghinis, mansions, and first-class flights in the thumbnail. Real wealth builders rarely flex — and the people flexing are usually making money from courses, not investing.
+Lamborghinis, mansions, and first-class flights in the thumbnail. Real wealth builders rarely flex, and the people flexing are usually making money from courses, not investing.
 
 ### 3. "Banks Don't Want You to Know This"
 
@@ -142,7 +142,7 @@ Check: do they disclose their holdings? Do they have any financial credentials (
 
 ### 5. Pivoted From Unrelated Content
 
-A lifestyle or gaming YouTuber who suddenly becomes a finance expert during a bull market is usually chasing views, not sharing knowledge. Finance requires domain expertise — being entertaining doesn't qualify.
+A lifestyle or gaming YouTuber who suddenly becomes a finance expert during a bull market is usually chasing views, not sharing knowledge. Finance requires domain expertise, being entertaining doesn't qualify.
 
 ---
 
@@ -176,7 +176,7 @@ YouTube is an incredible free resource for learning about money. The channels ab
 2. Sven Carlin (stock analysis framework)
 3. The Swedish Investor (investing classics summarized)
 
-Pair YouTube learning with actual practice — check our [best paper trading apps](/best-paper-trading-apps/) to trade risk-free, or start with our [free investing courses](/best-free-investing-courses/) for structured learning. For AI-powered research, see how to use [ChatGPT for stock research](/chatgpt-stock-research/). [Investopedia](https://www.investopedia.com/) is also an excellent companion resource for looking up any financial term or concept you encounter in these videos.
+Pair YouTube learning with actual practice, check our [best paper trading apps](/best-paper-trading-apps/) to trade risk-free, or start with our [free investing courses](/best-free-investing-courses/) for structured learning. For AI-powered research, see how to use [ChatGPT for stock research](/chatgpt-stock-research/). [Investopedia](https://www.investopedia.com/) is also an excellent companion resource for looking up any financial term or concept you encounter in these videos.
 
 ---
 

@@ -16,7 +16,7 @@ faq:
     answer: "It depends on the destination. November is excellent for Cambodia and Vietnam (dry season starting) and good for Japan (autumn colors). AI helped me analyze the best timing for each."
 ---
 
-Last year, I planned a [Malaysia trip entirely with ChatGPT](/chatgpt-malaysia-trip-planning/). It worked so well that I'm doing it again—but this time, I'm documenting the entire process in real-time.
+Last year, I planned a [Malaysia trip entirely with ChatGPT](/chatgpt-malaysia-trip-planning/). It worked so well that I'm doing it again, but this time, I'm documenting the entire process in real-time.
 
 **The goal:** Plan an epic November 2026 trip to either Japan, Vietnam, or Cambodia (or a combination) using every AI tool at my disposal.
 
@@ -56,7 +56,7 @@ Here's the full toolkit for this planning process:
 | **[Google Flights](https://www.google.com/travel/flights)** | Cross-referencing AI flight suggestions | Free |
 | **[Wanderlog](https://wanderlog.com)** | Visual itinerary mapping | Free tier |
 
-The combination of multiple AI tools is key. No single tool gets everything right — ChatGPT is great at big-picture planning, Perplexity excels at current, sourced information, and Claude is best for nuanced comparisons when I need to weigh competing priorities.
+The combination of multiple AI tools is key. No single tool gets everything right, ChatGPT is great at big-picture planning, Perplexity excels at current, sourced information, and Claude is best for nuanced comparisons when I need to weigh competing priorities.
 
 ---
 
@@ -70,7 +70,7 @@ Before diving into itineraries, I asked Perplexity to check visa requirements fo
 | **Vietnam** | E-visa required | 90 days single/multiple | ~$25 |
 | **Cambodia** | Visa on arrival or e-visa | 30 days | ~$36 |
 
-Japan is easiest — just show up. Vietnam's e-visa process takes 3 business days online. Cambodia offers visa on arrival at airports, but the e-visa avoids queues.
+Japan is easiest, just show up. Vietnam's e-visa process takes 3 business days online. Cambodia offers visa on arrival at airports, but the e-visa avoids queues.
 
 ---
 
@@ -171,7 +171,7 @@ Running daily searches for:
 
 ## Phase 4: The Decision
 
-*Coming soon—currently gathering data*
+*Coming soon, currently gathering data*
 
 ### Decision Framework (AI-Assisted)
 

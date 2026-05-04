@@ -1,7 +1,7 @@
 ---
 title: "20 Best Functional 3D Prints That Are Actually Useful (2026)"
 slug: "best-functional-3d-prints"
-description: "Skip the toys — these 20 functional 3D prints solve real problems at your desk, home, and tech setup. Print times, difficulty, and STL sources included."
+description: "Skip the toys, these 20 functional 3D prints solve real problems at your desk, home, and tech setup. Print times, difficulty, and STL sources included."
 publishDate: 2026-08-29
 author: "bored chap"
 image: "./best-functional-3d-prints.webp"
@@ -22,7 +22,7 @@ faq:
 
 There is a massive difference between 3D printing a decorative dragon and 3D printing something that actually makes your life easier. The novelty prints collect dust. The functional prints get used every single day.
 
-This guide covers 20 of the most genuinely useful things you can 3D print — organized by category so you can jump straight to what you need. Every item includes estimated print time, difficulty level, and where to grab the STL file.
+This guide covers 20 of the most genuinely useful things you can 3D print, organized by category so you can jump straight to what you need. Every item includes estimated print time, difficulty level, and where to grab the STL file.
 
 If you are brand new to 3D printing, start with [what to 3D print first](/what-to-3d-print-first/) to get your printer calibrated. If you already know your way around a slicer, keep reading.
 
@@ -30,11 +30,11 @@ If you are brand new to 3D printing, start with [what to 3D print first](/what-t
 
 ### 1. Gridfinity Modular Bins
 
-The open-source organization system that took the 3D printing community by storm. Print a baseplate, then snap in custom-sized bins for pens, SD cards, batteries, screws — whatever lives in your drawers. Designed by Zack Freedman, with thousands of community-made bin variations.
+The open-source organization system that took the 3D printing community by storm. Print a baseplate, then snap in custom-sized bins for pens, SD cards, batteries, screws, whatever lives in your drawers. Designed by Zack Freedman, with thousands of community-made bin variations.
 
 - **Print time:** 1-2 hours per baseplate, 20-45 min per bin
 - **Difficulty:** Easy
-- **Where to find:** [Printables](https://www.printables.com/model/274054-gridfinity-rebuilt-in-openscad) — search "Gridfinity" for 3,000+ bin designs
+- **Where to find:** [Printables](https://www.printables.com/model/274054-gridfinity-rebuilt-in-openscad), search "Gridfinity" for 3,000+ bin designs
 
 ### 2. Honeycomb Storage Wall (HSW)
 
@@ -42,7 +42,7 @@ A wall-mounted organization system using interlocking hexagonal tiles. Mount it 
 
 - **Print time:** 30-60 min per tile, 15-30 min per accessory
 - **Difficulty:** Easy
-- **Where to find:** [MakerWorld](https://makerworld.com/) — search "Honeycomb Storage Wall"
+- **Where to find:** [MakerWorld](https://makerworld.com/), search "Honeycomb Storage Wall"
 
 ### 3. Cable Clips and Management Channels
 
@@ -50,7 +50,7 @@ Small, fast, and solve one of the most annoying desk problems: charging cables t
 
 - **Print time:** 5-15 min per clip, 30-60 min per channel
 - **Difficulty:** Easy
-- **Where to find:** [Printables](https://www.printables.com/) — search "cable clip desk" or "cable management channel"
+- **Where to find:** [Printables](https://www.printables.com/), search "cable clip desk" or "cable management channel"
 
 ### 4. Under-Desk Slide-Out Tray
 
@@ -58,7 +58,7 @@ A shallow tray that mounts under your desk with screws or adhesive, giving you a
 
 - **Print time:** 2-4 hours
 - **Difficulty:** Medium (needs precise measurements for your desk thickness)
-- **Where to find:** [Thingiverse](https://www.thingiverse.com/) — search "under desk tray slide"
+- **Where to find:** [Thingiverse](https://www.thingiverse.com/), search "under desk tray slide"
 
 ### 5. Headphone Hook / Stand
 
@@ -66,17 +66,17 @@ A desk-mount or adhesive hook that keeps over-ear headphones off your desk surfa
 
 - **Print time:** 1-2 hours
 - **Difficulty:** Easy
-- **Where to find:** [Printables](https://www.printables.com/) — search "headphone hook desk mount"
+- **Where to find:** [Printables](https://www.printables.com/), search "headphone hook desk mount"
 
 ## Ergonomics
 
 ### 6. Keyboard Tilt Stands
 
-Custom-angle risers that sit under your keyboard — especially useful for split keyboards like the Keychron Q11 or ZSA Voyager where finding the right tenting angle is half the battle. Print a few at different angles to find your sweet spot.
+Custom-angle risers that sit under your keyboard, especially useful for split keyboards like the Keychron Q11 or ZSA Voyager where finding the right tenting angle is half the battle. Print a few at different angles to find your sweet spot.
 
 - **Print time:** 1-2 hours per pair
 - **Difficulty:** Easy
-- **Where to find:** [Printables](https://www.printables.com/) — search "keyboard tilt stand" or "split keyboard tent"
+- **Where to find:** [Printables](https://www.printables.com/), search "keyboard tilt stand" or "split keyboard tent"
 
 ### 7. Vertical Laptop Stand
 
@@ -84,15 +84,15 @@ If your laptop spends most of its life connected to an external monitor, a verti
 
 - **Print time:** 2-4 hours
 - **Difficulty:** Easy
-- **Where to find:** [Printables](https://www.printables.com/) — search "vertical laptop stand adjustable"
+- **Where to find:** [Printables](https://www.printables.com/), search "vertical laptop stand adjustable"
 
 ### 8. Monitor Riser with Storage
 
-A set of riser legs or a full platform that elevates your monitor to proper eye level while creating storage space underneath for a keyboard, notebook, or small drawer. Poor monitor height is one of the most common [desk setup mistakes](/desk-upgrade-guide/) — this solves it for under a dollar.
+A set of riser legs or a full platform that elevates your monitor to proper eye level while creating storage space underneath for a keyboard, notebook, or small drawer. Poor monitor height is one of the most common [desk setup mistakes](/desk-upgrade-guide/), this solves it for under a dollar.
 
 - **Print time:** 3-6 hours (full platform) or 1-2 hours (legs only)
-- **Difficulty:** Medium (load-bearing — use thick walls and higher infill)
-- **Where to find:** [Thingiverse](https://www.thingiverse.com/) — search "monitor riser storage"
+- **Difficulty:** Medium (load-bearing, use thick walls and higher infill)
+- **Where to find:** [Thingiverse](https://www.thingiverse.com/), search "monitor riser storage"
 
 ### 9. Phone / Tablet Stand (Adjustable Angle)
 
@@ -100,7 +100,7 @@ A stand with a hinge or stepped base that lets you adjust the viewing angle. Use
 
 - **Print time:** 1-2 hours
 - **Difficulty:** Easy
-- **Where to find:** [Printables](https://www.printables.com/) — search "phone stand adjustable angle"
+- **Where to find:** [Printables](https://www.printables.com/), search "phone stand adjustable angle"
 
 ### 10. Keyboard Wrist Rest
 
@@ -108,7 +108,7 @@ A contoured rest that sits in front of your keyboard to keep your wrists at a ne
 
 - **Print time:** 2-4 hours
 - **Difficulty:** Easy (PLA) / Medium (TPU requires tuned settings)
-- **Where to find:** [Thingiverse](https://www.thingiverse.com/) — search "keyboard wrist rest ergonomic"
+- **Where to find:** [Thingiverse](https://www.thingiverse.com/), search "keyboard wrist rest ergonomic"
 
 ## Home and Kitchen
 
@@ -117,8 +117,8 @@ A contoured rest that sits in front of your keyboard to keep your wrists at a ne
 Small containers or label holders with embedded magnet slots that snap onto a metal surface like a fridge or a magnetic knife strip. Keeps spices visible, organized, and easy to swap. Print in PETG if they will be near heat sources.
 
 - **Print time:** 20-40 min per holder
-- **Difficulty:** Easy (requires small magnets — typically 6mm x 3mm neodymium)
-- **Where to find:** [Printables](https://www.printables.com/) — search "magnetic spice rack" or "spice jar label holder"
+- **Difficulty:** Easy (requires small magnets, typically 6mm x 3mm neodymium)
+- **Where to find:** [Printables](https://www.printables.com/), search "magnetic spice rack" or "spice jar label holder"
 
 ### 12. Wall-Mount Soap Dispenser Holder
 
@@ -126,7 +126,7 @@ A bracket that holds a standard soap or lotion dispenser against the wall, freei
 
 - **Print time:** 1-2 hours
 - **Difficulty:** Easy
-- **Where to find:** [Thingiverse](https://www.thingiverse.com/) — search "soap dispenser wall mount"
+- **Where to find:** [Thingiverse](https://www.thingiverse.com/), search "soap dispenser wall mount"
 
 ### 13. Plant Pot with Built-In Drainage
 
@@ -134,15 +134,15 @@ A two-piece pot with a removable inner basket and drainage holes, plus an outer 
 
 - **Print time:** 2-4 hours
 - **Difficulty:** Easy
-- **Where to find:** [Printables](https://www.printables.com/) — search "plant pot drainage tray"
+- **Where to find:** [Printables](https://www.printables.com/), search "plant pot drainage tray"
 
 ### 14. Key Holder / Wall Mount
 
-A wall-mounted rack with hooks, slots, or magnetic insets for keys, plus optional compartments for sunglasses, wallets, or mail. Mounts with screws or Command strips. One of the most popular functional prints for a reason — it eliminates the "where are my keys" problem permanently.
+A wall-mounted rack with hooks, slots, or magnetic insets for keys, plus optional compartments for sunglasses, wallets, or mail. Mounts with screws or Command strips. One of the most popular functional prints for a reason, it eliminates the "where are my keys" problem permanently.
 
 - **Print time:** 1-3 hours
 - **Difficulty:** Easy
-- **Where to find:** [MakerWorld](https://makerworld.com/) — search "key holder wall mount"
+- **Where to find:** [MakerWorld](https://makerworld.com/), search "key holder wall mount"
 
 ### 15. Bag Clip / Chip Clip
 
@@ -150,17 +150,17 @@ A spring-loaded or snap-fit clip for sealing open bags of chips, coffee, cereal,
 
 - **Print time:** 10-20 min per clip
 - **Difficulty:** Easy
-- **Where to find:** [Printables](https://www.printables.com/) — search "bag clip" or "chip clip"
+- **Where to find:** [Printables](https://www.printables.com/), search "bag clip" or "chip clip"
 
 ## Tech and Gadgets
 
 ### 16. MagSafe Charging Stand
 
-A stand that holds a MagSafe puck at the perfect angle for your iPhone — functioning as a nightstand dock or desk charger. The best designs include a spot for an Apple Watch charger and a cable routing path to keep things clean.
+A stand that holds a MagSafe puck at the perfect angle for your iPhone, functioning as a nightstand dock or desk charger. The best designs include a spot for an Apple Watch charger and a cable routing path to keep things clean.
 
 - **Print time:** 2-3 hours
 - **Difficulty:** Medium (tolerances need to be dialed in for MagSafe puck fit)
-- **Where to find:** [Printables](https://www.printables.com/) — search "MagSafe stand" or "MagSafe dock"
+- **Where to find:** [Printables](https://www.printables.com/), search "MagSafe stand" or "MagSafe dock"
 
 ### 17. AirPods / Earbuds Case Holder
 
@@ -168,7 +168,7 @@ A small dock or wall mount for your AirPods, Galaxy Buds, or any wireless earbud
 
 - **Print time:** 30-60 min
 - **Difficulty:** Easy
-- **Where to find:** [Thingiverse](https://www.thingiverse.com/) — search "AirPods stand" or "earbuds holder"
+- **Where to find:** [Thingiverse](https://www.thingiverse.com/), search "AirPods stand" or "earbuds holder"
 
 ### 18. SD Card / USB Drive Organizer
 
@@ -176,7 +176,7 @@ A compact holder with labeled slots for SD cards, MicroSD cards, and USB drives.
 
 - **Print time:** 30-60 min
 - **Difficulty:** Easy
-- **Where to find:** [Printables](https://www.printables.com/) — search "SD card organizer" or "USB holder"
+- **Where to find:** [Printables](https://www.printables.com/), search "SD card organizer" or "USB holder"
 
 ### 19. Raspberry Pi Case
 
@@ -184,7 +184,7 @@ A snap-fit or screw-together enclosure for your Raspberry Pi (models 4, 5, or Ze
 
 - **Print time:** 1-3 hours
 - **Difficulty:** Easy to Medium (tight tolerances for port alignment)
-- **Where to find:** [Printables](https://www.printables.com/) — search "Raspberry Pi 5 case" (specify your model)
+- **Where to find:** [Printables](https://www.printables.com/), search "Raspberry Pi 5 case" (specify your model)
 
 ### 20. Under-Desk Power Strip Mount
 
@@ -192,7 +192,7 @@ A bracket that screws or adhesive-mounts your power strip to the underside of yo
 
 - **Print time:** 1-2 hours
 - **Difficulty:** Easy (measure twice, print once)
-- **Where to find:** [Thingiverse](https://www.thingiverse.com/) — search "power strip mount under desk"
+- **Where to find:** [Thingiverse](https://www.thingiverse.com/), search "power strip mount under desk"
 
 ## Getting Started: What You Need
 
@@ -200,14 +200,14 @@ If you do not already own a 3D printer, here is the short version:
 
 **Printer:** A budget FDM printer in the $150-300 range handles every print on this list. The [Bambu Lab A1 Mini and Creality Ender 3 V3](/best-3d-printers-under-300/) are the two most recommended entry points in 2026. Both print PLA and PETG without any issues.
 
-**Filament:** PLA is the default for functional prints — it is stiff, easy to print, and available in every color. For items that need heat resistance or impact strength (kitchen items, mounts that might get bumped), step up to PETG. A 1kg spool runs about $15-25 and will last you through most of this list. See the full [3D printing cost breakdown](/3d-printing-cost-guide/) for real numbers.
+**Filament:** PLA is the default for functional prints, it is stiff, easy to print, and available in every color. For items that need heat resistance or impact strength (kitchen items, mounts that might get bumped), step up to PETG. A 1kg spool runs about $15-25 and will last you through most of this list. See the full [3D printing cost breakdown](/3d-printing-cost-guide/) for real numbers.
 
 **Software:** You need a slicer to convert STL files into printer instructions. Bambu Studio and Cura are free and cover most printers. If you want to design your own modifications, check out the [best free CAD software for 3D printing](/cad-software-3d-printing/).
 
-**STL sources:** The three sites linked throughout this article — [Printables](https://www.printables.com/), [Thingiverse](https://www.thingiverse.com/), and [MakerWorld](https://makerworld.com/) — collectively have millions of free models. Search by the project names listed above and sort by "most makes" or "most popular" to find the best-tested versions.
+**STL sources:** The three sites linked throughout this article, [Printables](https://www.printables.com/), [Thingiverse](https://www.thingiverse.com/), and [MakerWorld](https://makerworld.com/), collectively have millions of free models. Search by the project names listed above and sort by "most makes" or "most popular" to find the best-tested versions.
 
 For a deeper walkthrough of getting your first printer running and calibrated, the [3D printing beginners guide](/3d-printing-beginners-guide/) covers everything from unboxing to your first successful print.
 
 ## Final Thought
 
-The real value of a 3D printer is not in what it can make — it is in the problems it can solve. Every item on this list exists because someone looked at a specific annoyance in their daily life and decided to fix it with a $0.50 piece of plastic. Once you start thinking that way, you will never run out of things to print — like a [3D-printed coffee station for your desk](/3d-printing-for-coffee-nerds/), where every accessory is custom-fit to your specific gear.
+The real value of a 3D printer is not in what it can make, it is in the problems it can solve. Every item on this list exists because someone looked at a specific annoyance in their daily life and decided to fix it with a $0.50 piece of plastic. Once you start thinking that way, you will never run out of things to print, like a [3D-printed coffee station for your desk](/3d-printing-for-coffee-nerds/), where every accessory is custom-fit to your specific gear.

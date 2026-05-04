@@ -1,7 +1,7 @@
 ---
 title: "Ray-Ban Meta Smart Glasses Review After 2 Weeks of Use"
 slug: "ray-ban-meta-review"
-description: "My honest Ray-Ban Meta review after 2 weeks of daily use, including a helicopter flight over Dubai. Camera, battery, audio — the full picture."
+description: "My honest Ray-Ban Meta review after 2 weeks of daily use, including a helicopter flight over Dubai. Camera, battery, audio, the full picture."
 publishDate: 2026-02-14
 author: "bored chap"
 image: "./ray-ban-meta-review.webp"
@@ -10,7 +10,7 @@ tags: ["Tech & Gadgets", "Smart Glasses", "Meta", "Ray-Ban", "Review"]
 draft: false
 video:
   youtubeId: "npcqic4geOA"
-  title: "Dubai Fountain Show — Filmed Hands-Free with Ray-Ban Meta"
+  title: "Dubai Fountain Show, Filmed Hands-Free with Ray-Ban Meta"
   description: "The Dubai Fountain show at Burj Khalifa filmed entirely hands-free with Ray-Ban Meta smart glasses during our Dubai trip."
   duration: "PT1M"
 tldr: "Fantastic camera quality, great open-ear audio for calls and podcasts, and they look like regular Ray-Bans. Battery lasts 3-4 hours with heavy camera use. I wouldn't buy them myself, but as a gift? I'm using them daily."
@@ -26,10 +26,10 @@ faq:
   - question: "How long does Ray-Ban Meta battery last with heavy use?"
     answer: "With heavy camera use (multiple 3-minute videos and photos), expect around 3-4 hours. For lighter use like music and occasional photos, Meta claims up to 8 hours. The charging case adds up to 48 hours of additional charge."
   - question: "Can you zoom with Ray-Ban Meta glasses?"
-    answer: "No. The 12MP ultra-wide camera has a fixed lens with no optical or digital zoom. You get what you see — which means great wide-angle shots but no close-ups from a distance."
+    answer: "No. The 12MP ultra-wide camera has a fixed lens with no optical or digital zoom. You get what you see, which means great wide-angle shots but no close-ups from a distance."
 ---
 
-I got [Ray-Ban Meta](https://www.ray-ban.com/usa/ray-ban-meta-smart-glasses) smart glasses as a birthday gift two weeks ago. Since then, I've worn them on walks, during video calls, and — most memorably — on a helicopter flight over Dubai.
+I got [Ray-Ban Meta](https://www.ray-ban.com/usa/ray-ban-meta-smart-glasses) smart glasses as a birthday gift two weeks ago. Since then, I've worn them on walks, during video calls, and, most memorably, on a helicopter flight over Dubai.
 
 Here's what it's actually like to use smart glasses in 2026.
 
@@ -58,13 +58,13 @@ I have the **Wayfarer in black** with standard sun lenses. Transition and prescr
 
 This is why you'd consider buying these glasses. The 12MP ultra-wide camera produces genuinely impressive photos and videos.
 
-I put them to the ultimate test: **a 45-minute helicopter flight over Dubai.** The conditions were challenging — vibration, bright sunlight, constantly changing angles. The kind of scenario where holding your phone steady is nearly impossible.
+I put them to the ultimate test: **a 45-minute helicopter flight over Dubai.** The conditions were challenging, vibration, bright sunlight, constantly changing angles. The kind of scenario where holding your phone steady is nearly impossible.
 
 The results? I was honestly surprised. The videos came out **stable, sharp, and with accurate colors.** No motion blur, no washed-out footage. The kind of quality you'd happily post on Instagram without a second thought.
 
 **The hands-free advantage is real.** During the helicopter flight, I could look around freely while recording. No fumbling with a phone, no awkward angles trying to film through the window. I just looked at what I wanted to capture and tapped the frame. (If you're debating whether your phone camera is "good enough" for trips like this, our [smartphone vs dedicated camera comparison](/camera-vs-smartphone/) breaks down exactly where each shines.)
 
-Here's footage I shot at the **Dubai Fountain show** — no phone, no gimbal, just the glasses:
+Here's footage I shot at the **Dubai Fountain show**, no phone, no gimbal, just the glasses:
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/npcqic4geOA" title="Dubai Fountain Show filmed with Ray-Ban Meta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display:block;margin:1.5rem auto;max-width:100%;border-radius:12px;"></iframe>
 
@@ -80,7 +80,7 @@ That said, the 3-minute limit makes sense when you consider battery life. Withou
 
 I wasn't expecting much from open-ear speakers built into sunglasses frames. I was wrong.
 
-**Podcasts** sound clear and natural. The audio doesn't leak as much as you'd expect — people next to me couldn't hear what I was listening to at moderate volume.
+**Podcasts** sound clear and natural. The audio doesn't leak as much as you'd expect, people next to me couldn't hear what I was listening to at moderate volume.
 
 **WhatsApp voice messages** work seamlessly. Tap the frame, listen, respond. No need to pull out your phone.
 
@@ -109,13 +109,13 @@ The charging case provides up to 48 additional hours, so you won't need to find 
 
 ## Sun Protection: Actually Good Sunglasses
 
-This might sound obvious, but it matters: the Ray-Ban Meta glasses work really well as **actual sunglasses.** In the Dubai sun, my eyes felt fully protected. The lenses are proper Ray-Ban quality — not some tech-product afterthought.
+This might sound obvious, but it matters: the Ray-Ban Meta glasses work really well as **actual sunglasses.** In the Dubai sun, my eyes felt fully protected. The lenses are proper Ray-Ban quality, not some tech-product afterthought.
 
 If you're going to wear sunglasses anyway, having a camera and speakers built in starts to make a lot of sense.
 
 ## Meta AI: Haven't Tried It Yet
 
-I'll be honest — I haven't used the Meta AI assistant. You can say "Hey Meta" to ask questions, get translations, or have the AI describe what you're looking at. It sounds useful for travel, but I haven't felt the need yet.
+I'll be honest, I haven't used the Meta AI assistant. You can say "Hey Meta" to ask questions, get translations, or have the AI describe what you're looking at. It sounds useful for travel, but I haven't felt the need yet.
 
 The **Meta View app** on my iPhone has been fine for transferring photos and videos, but I haven't explored its other features. I might update this section after more time with the glasses.
 
@@ -142,7 +142,7 @@ The **Meta View app** on my iPhone has been fine for transferring photos and vid
 
 The Ray-Ban Meta glasses are the first smart glasses that feel like a **real product** rather than a tech demo. They look like normal sunglasses, the camera is genuinely good, and the audio is better than it has any right to be.
 
-The helicopter flight in Dubai sold me. Being able to record stunning footage while keeping both hands free — without anyone knowing I was filming — felt like a glimpse of the future. That footage would have been impossible with a phone.
+The helicopter flight in Dubai sold me. Being able to record stunning footage while keeping both hands free, without anyone knowing I was filming, felt like a glimpse of the future. That footage would have been impossible with a phone.
 
 But here's my honest take: **I wouldn't have bought these myself.** At ~$379, they're a luxury. If you're choosing between Ray-Ban Meta and a pair of AirPods Pro, the AirPods are more versatile for everyday audio.
 

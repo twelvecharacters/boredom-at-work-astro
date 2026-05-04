@@ -22,7 +22,7 @@ If 2024 was the year of the "Copilot," 2026 is the year of the "Agent." In this 
 
 ## 1. The Landscape: From Autocomplete to Autonomy
 
-In the early 20s, we were impressed when an AI could finish a function. Today, that’s table stakes. The current gold standard is **agentic autonomy**—the ability for an AI to take a prompt like "Add a stripe subscription flow with tiered pricing and a trial period," and then go off to create the database schemas, implement the API endpoints, build the frontend components, and verify the integration with real-world test tokens.
+In the early 20s, we were impressed when an AI could finish a function. Today, that’s table stakes. The current gold standard is **agentic autonomy**,the ability for an AI to take a prompt like "Add a stripe subscription flow with tiered pricing and a trial period," and then go off to create the database schemas, implement the API endpoints, build the frontend components, and verify the integration with real-world test tokens.
 
 ### The Contenders
 *   **VS Code (Version 1.110+):** The veteran. Microsoft has spent the last 18 months refactoring the VS Code core. It is no longer just a text editor; it is a host for specialized AI agents that have direct "hooks" into the terminal, the integrated browser, and the OS.
@@ -127,7 +127,7 @@ Is it worth it? When you consider that Antigravity can replace the output of two
 
 The battle between VS Code and Antigravity isn't just about software; it's about the identity of the developer. Are we writers, or are we directors?
 
-As we move further into 2026, the gap between "standard" coding and "agentic" coding will only widen. Those who master the art of directing agents—whether through the evolved VS Code or the revolutionary Antigravity—will be the ones building the world of 2027.
+As we move further into 2026, the gap between "standard" coding and "agentic" coding will only widen. Those who master the art of directing agents, whether through the evolved VS Code or the revolutionary Antigravity, will be the ones building the world of 2027.
 
 The choice is yours. Will you pick up the pen, or will you take the baton?
 

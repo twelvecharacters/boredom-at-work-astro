@@ -31,7 +31,7 @@ But when you need AI help, you usually have to context-switch: copy code, alt-ta
 
 ## What is Gemini CLI?
 
-[Gemini CLI](https://github.com/google-gemini/gemini-cli) is more than just a wrapper for an API. It's a context-aware AI agent designed specifically for the command line. Unlike a web-based chat, it "sees" your local environment—your files, your directory structure, and your project's specific configurations.
+[Gemini CLI](https://github.com/google-gemini/gemini-cli) is more than just a wrapper for an API. It's a context-aware AI agent designed specifically for the command line. Unlike a web-based chat, it "sees" your local environment, your files, your directory structure, and your project's specific configurations.
 
 It understands that when you ask "Why is this test failing?", you're talking about the code in your current directory, not some abstract concept.
 
@@ -52,7 +52,7 @@ cat error.log | gemini "What's causing this crash?"
 Gemini CLI can do more than just talk; it can *act*. It can propose and execute shell commands (with your approval) to fix bugs, refactor code, or move files. This makes it a powerful tool for repetitive tasks that are hard to script but easy for an AI to understand.
 
 ### 4. Agent Skills and Sub-Agents
-The CLI can be extended with specialized "skills"—pre-configured sets of instructions for specific tasks like frontend development, database management, or security auditing. It can even delegate complex tasks to specialized sub-agents.
+The CLI can be extended with specialized "skills",pre-configured sets of instructions for specific tasks like frontend development, database management, or security auditing. It can even delegate complex tasks to specialized sub-agents.
 
 ## Installation & Integration
 
@@ -80,7 +80,7 @@ Gemini CLI isn't the only player in the terminal AI space. Here is how it stacks
 
 ### Gemini CLI vs. Claude Code
 Claude Code is Anthropic's primary terminal assistant. While both are powerful, they have different philosophies:
-- **Context:** Both offer massive context windows — Gemini CLI leverages Gemini's **1M+ token context**, while Claude Code also supports **1M tokens** with Opus 4.6 and Sonnet 4.6. In practice, Gemini CLI indexes your project upfront, while Claude Code loads files on demand.
+- **Context:** Both offer massive context windows, Gemini CLI leverages Gemini's **1M+ token context**, while Claude Code also supports **1M tokens** with Opus 4.6 and Sonnet 4.6. In practice, Gemini CLI indexes your project upfront, while Claude Code loads files on demand.
 - **Search:** Gemini CLI has native **Google Search** built-in, allowing it to research real-time documentation or library updates directly.
 - **Cost:** Gemini CLI offers a generous free tier (1,000 requests/day with a Google account), whereas Claude Code requires an Anthropic Max subscription or API credits.
 
@@ -104,7 +104,7 @@ To get started, you'll need to install the CLI and provide it with a [Google AI 
 
 ## Conclusion
 
-Gemini CLI is a significant step forward for developer productivity. By meeting developers where they already are—in the terminal—and adding deep project awareness, it transforms the AI from a distant consultant into a local pair programmer.
+Gemini CLI is a significant step forward for developer productivity. By meeting developers where they already are, in the terminal, and adding deep project awareness, it transforms the AI from a distant consultant into a local pair programmer.
 
 If you find yourself constantly jumping between your IDE and your browser, give Gemini CLI a try. Your terminal will thank you.
 

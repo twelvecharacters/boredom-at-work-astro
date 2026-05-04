@@ -104,7 +104,7 @@ This is where OrcaSlicer really excels. Native Klipper support means you can sen
 |---------|----------|
 | **Slicer crashes on launch (macOS)** | Right-click → Open to bypass Gatekeeper, or allow in Security settings |
 | **Printer not detected** | Check IP address, enable LAN mode on Bambu printers, or verify Moonraker URL for Klipper |
-| **Profiles missing after update** | OrcaSlicer stores profiles separately — re-select your printer in settings after major updates |
+| **Profiles missing after update** | OrcaSlicer stores profiles separately, re-select your printer in settings after major updates |
 | **Slow slicing on large models** | Enable "Use GPU for slicing preview" in preferences; close other GPU-heavy apps |
 | **Inconsistent first layers** | Run the built-in "Flow Rate" and "First Layer" calibration tests before tuning manually |
 

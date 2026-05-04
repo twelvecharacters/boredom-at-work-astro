@@ -1,7 +1,7 @@
 ---
 title: "Photography for Beginners: The Complete Guide (2026)"
 slug: "photography-guide"
-description: "Your complete guide to photography—from choosing your first camera to taking better photos. Everything beginners need to start their photography journey."
+description: "Your complete guide to photography, from choosing your first camera to taking better photos. Everything beginners need to start their photography journey."
 publishDate: 2026-03-01
 author: "bored chap"
 image: "./photography-guide.webp"
@@ -10,22 +10,22 @@ tags: ["Photography", "Cameras", "Beginners", "Guide", "Hub Page"]
 draft: false
 faq:
   - question: "What's the best camera for beginners in 2026?"
-    answer: "For most beginners, the Sony a6400 (~$900 with kit lens) offers the best balance of features, image quality, and ease of use. On a budget, the Canon EOS R100 (~$480) is an excellent choice. If you want something compact, consider the Fujifilm X-T30 II (~$900). The Nikon Z50 II (~$860) is another strong option. Avoid spending over $1200 on your first camera—you'll learn faster by actually shooting than by having fancy features."
+    answer: "For most beginners, the Sony a6400 (~$900 with kit lens) offers the best balance of features, image quality, and ease of use. On a budget, the Canon EOS R100 (~$480) is an excellent choice. If you want something compact, consider the Fujifilm X-T30 II (~$900). The Nikon Z50 II (~$860) is another strong option. Avoid spending over $1200 on your first camera, you'll learn faster by actually shooting than by having fancy features."
   - question: "Should I buy a camera or just use my smartphone?"
     answer: "For casual photos and social media, your smartphone is probably enough. Buy a dedicated camera if you want: better low-light performance, more creative control (manual settings, interchangeable lenses), superior zoom range, or you're serious about learning photography as a skill. If you're not sure, try renting a camera first."
-  - question: "DSLR or mirrorless—which is better for beginners?"
+  - question: "DSLR or mirrorless, which is better for beginners?"
     answer: "Mirrorless is better for beginners in 2026. They're smaller, lighter, have better autofocus, and show real-time exposure preview. DSLRs have longer battery life and more used lenses available, but manufacturers have shifted to mirrorless. Buy mirrorless unless you find a great deal on a DSLR kit."
   - question: "How much should I spend on my first camera?"
-    answer: "Budget $400-800 for a camera body with kit lens. Under $400 you're making serious compromises. Over $1000 is overkill for learning. Remember to budget $100-200 for accessories: SD card, extra battery, camera bag. Don't spend all your money on the body—lenses matter more for image quality."
+    answer: "Budget $400-800 for a camera body with kit lens. Under $400 you're making serious compromises. Over $1000 is overkill for learning. Remember to budget $100-200 for accessories: SD card, extra battery, camera bag. Don't spend all your money on the body, lenses matter more for image quality."
   - question: "What camera settings should beginners use?"
     answer: "Start with Aperture Priority mode (A or Av). Set your aperture, let the camera handle shutter speed. Use Auto ISO (100-6400 range). This gives you creative control over depth of field while the camera handles exposure. Once comfortable, learn Manual mode for full control."
   - question: "How long does it take to get good at photography?"
     answer: "You'll take noticeably better photos within 2-4 weeks of daily practice. Understanding exposure, composition, and your camera's controls takes 2-3 months. Developing your own style takes 1-2 years. The fastest way to improve: shoot every day, study photos you admire, and learn from your mistakes."
-tldr: "Start with a mirrorless camera ($500-800 with kit lens). Learn Aperture Priority mode first. Practice daily—even 10 minutes helps. Don't obsess over gear; the best camera is the one you have with you."
+tldr: "Start with a mirrorless camera ($500-800 with kit lens). Learn Aperture Priority mode first. Practice daily, even 10 minutes helps. Don't obsess over gear; the best camera is the one you have with you."
 isListicle: false
 ---
 
-Everyone takes photos, but most people never learn to take *good* photos. The difference isn't expensive gear—it's understanding a few fundamentals and practicing consistently.
+Everyone takes photos, but most people never learn to take *good* photos. The difference isn't expensive gear, it's understanding a few fundamentals and practicing consistently.
 
 This guide will take you from "I just point and shoot" to "I understand what I'm doing and why." No photography degree required.
 
@@ -33,7 +33,7 @@ This guide will take you from "I just point and shoot" to "I understand what I'm
 
 ## How to Use This Guide
 
-This is a **hub page**—a central starting point for everything photography.
+This is a **hub page**,a central starting point for everything photography.
 
 **If you're considering buying a camera:** Start with Part 1 to understand your options.
 
@@ -62,7 +62,7 @@ Most people see dramatic improvement within the first month of intentional pract
 
 ## Part 1: Choosing Your First Camera
 
-The most common question—and the one that matters least in the long run. But let's get it right.
+The most common question, and the one that matters least in the long run. But let's get it right.
 
 ### Do You Even Need a Camera?
 
@@ -108,8 +108,8 @@ Buy a dedicated camera if:
 | **Sony a6400** | ~$900 | Best autofocus | Eye AF is incredible |
 | **Fujifilm X-T30 II** | $900 | Style + quality | Beautiful color science |
 
-**Budget pick:** Canon EOS R100—best value under $500
-**Best overall:** Sony a6400—the autofocus alone is worth it
+**Budget pick:** Canon EOS R100, best value under $500
+**Best overall:** Sony a6400, the autofocus alone is worth it
 
 **Deep dives:**
 - [Best Cameras for Beginners](/best-cameras-for-beginners/)
@@ -128,7 +128,7 @@ Don't overlook older cameras. A 10-year-old mirrorless still takes great photos:
 | **Sony a6000** | $350-500 | Still excellent in 2026 |
 | **Fujifilm X-T20** | $550-700 | Beautiful colors |
 
-The Olympus PEN series is particularly interesting—pocket-sized with interchangeable lenses.
+The Olympus PEN series is particularly interesting, pocket-sized with interchangeable lenses.
 
 **Deep dive:** [Olympus PEN E-PM2: The Perfect Compact Camera?](/olympus-pen-e-pm2-guide/)
 
@@ -177,7 +177,7 @@ Every photo is a balance of three settings:
                       /   \
                      /     \
                     /       \
-            APERTURE ——————— ISO
+            APERTURE ,,,, ISO
                      \     /
                       \   /
                        \ /
@@ -343,8 +343,8 @@ Talent is overrated. Deliberate practice works.
 ### Learn from Your Photos
 
 After each session:
-1. Pick your 3 best photos—why do they work?
-2. Pick your 3 worst photos—what went wrong?
+1. Pick your 3 best photos, why do they work?
+2. Pick your 3 worst photos, what went wrong?
 3. Identify one thing to improve next time
 
 ### Study Good Photography
@@ -358,7 +358,7 @@ After each session:
 | Week | Challenge |
 |------|-----------|
 | 1 | Shoot only with your kit lens at 50mm |
-| 2 | Manual mode only—no auto anything |
+| 2 | Manual mode only, no auto anything |
 | 3 | Black and white only |
 | 4 | One photo per day, posted publicly |
 
@@ -394,13 +394,13 @@ Raw photos need editing. Free/cheap options:
 | **[RapidRAW](/rapid-raw-image-editor-guide/)** | Desktop | Free (open-source) |
 | **Lightroom Classic** | Desktop | $10/month |
 
-Start with Lightroom Mobile—it's powerful and free for basic editing. If you're on a Mac, check out our [best free macOS software](/best-free-macos-software/) guide for more creative tools.
+Start with Lightroom Mobile, it's powerful and free for basic editing. If you're on a Mac, check out our [best free macOS software](/best-free-macos-software/) guide for more creative tools.
 
 ### Building a Portfolio
 
 - Start an Instagram dedicated to your photography
 - Create a simple website (Squarespace, Adobe Portfolio)
-- Print your best work—it forces critical evaluation
+- Print your best work, it forces critical evaluation
 
 ---
 

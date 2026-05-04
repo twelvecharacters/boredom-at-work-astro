@@ -10,18 +10,18 @@ tags: ["AI Tools", "Investing", "ChatGPT", "Portfolio Analysis", "Finance"]
 draft: false
 faq:
   - question: "Is it safe to upload my portfolio data to ChatGPT or Claude?"
-    answer: "Both OpenAI and Anthropic state they don't use your data to train models on paid plans. Still, avoid uploading sensitive info like account numbers or SSNs. Export only positions, values, and cost basis — strip personal identifiers first. If you're concerned, use the API instead of the web app for more control over data handling."
+    answer: "Both OpenAI and Anthropic state they don't use your data to train models on paid plans. Still, avoid uploading sensitive info like account numbers or SSNs. Export only positions, values, and cost basis, strip personal identifiers first. If you're concerned, use the API instead of the web app for more control over data handling."
   - question: "Can AI replace a financial advisor for portfolio analysis?"
     answer: "No. AI is excellent for number-crunching, visualization, and spotting obvious issues like over-concentration or high expense ratios. But it can't account for your full tax situation, estate planning, insurance needs, or risk tolerance the way a human advisor can. Think of it as a powerful first pass, not a replacement."
-  - question: "Which is better for portfolio analysis — ChatGPT or Claude?"
-    answer: "ChatGPT Plus has better CSV handling with its built-in Python sandbox — it parses files automatically and generates charts. Claude Pro has a larger context window (200K tokens) which is better for analyzing multiple documents at once, like combining your portfolio with 10-K filings. For pure spreadsheet analysis, ChatGPT has the edge. For deep document analysis, Claude wins."
+  - question: "Which is better for portfolio analysis, ChatGPT or Claude?"
+    answer: "ChatGPT Plus has better CSV handling with its built-in Python sandbox, it parses files automatically and generates charts. Claude Pro has a larger context window (200K tokens) which is better for analyzing multiple documents at once, like combining your portfolio with 10-K filings. For pure spreadsheet analysis, ChatGPT has the edge. For deep document analysis, Claude wins."
   - question: "Can ChatGPT access my brokerage account directly?"
     answer: "No. Neither ChatGPT nor Claude can connect to your brokerage account. You need to export a CSV or spreadsheet from your broker (Fidelity, Schwab, Vanguard, etc.) and upload it manually. Dedicated tools like PortfolioPilot or Mezzi can connect to accounts directly, but they have limited AI analysis compared to ChatGPT/Claude."
 ---
 
 You don't need a Bloomberg Terminal or a finance degree to analyze your investment portfolio properly. You just need a CSV export from your broker and an AI chatbot.
 
-I've been using [ChatGPT](/chatgpt-guide/) and Claude to analyze portfolios, and it's genuinely impressive what a $20/month subscription can do — sector breakdowns, risk analysis, expense ratio audits, and rebalancing suggestions in minutes.
+I've been using [ChatGPT](/chatgpt-guide/) and Claude to analyze portfolios, and it's genuinely impressive what a $20/month subscription can do, sector breakdowns, risk analysis, expense ratio audits, and rebalancing suggestions in minutes.
 
 Here's exactly how to do it, step by step.
 
@@ -83,7 +83,7 @@ ChatGPT will generate charts, tables, and a written summary. It usually takes 30
 
 ### Using Claude Pro
 
-Claude handles file uploads differently — it reads the content but doesn't run code in a sandbox like ChatGPT.
+Claude handles file uploads differently, it reads the content but doesn't run code in a sandbox like ChatGPT.
 
 **Upload your file and use this prompt:**
 
@@ -126,7 +126,7 @@ Once you have the overview, go deeper with these follow-up prompts:
 
 ## Step 4: Compare Against Benchmarks
 
-This is where AI really shines — contextual analysis that a static screener can't do.
+This is where AI really shines, contextual analysis that a static screener can't do.
 
 > Compare my portfolio's sector allocation against the S&P 500. Where am I overweight? Where am I underweight? Is this intentional tilting or accidental concentration?
 
@@ -138,10 +138,10 @@ This is where AI really shines — contextual analysis that a static screener ca
 
 | Feature | ChatGPT Plus | Claude Pro |
 |---------|-------------|-----------|
-| **CSV parsing** | Excellent — auto-detects columns | Good — reads content, no code sandbox |
+| **CSV parsing** | Excellent, auto-detects columns | Good, reads content, no code sandbox |
 | **Charts** | Interactive, downloadable | Text-based tables |
 | **Context window** | 128K tokens | 200K tokens |
-| **Multi-document** | Limited | Excels — analyze portfolio + 10-K together |
+| **Multi-document** | Limited | Excels, analyze portfolio + 10-K together |
 | **Expense** | $20/month | $20/month |
 | **Best for** | Spreadsheet analysis, visualizations | Deep document analysis, narrative insights |
 
@@ -177,7 +177,7 @@ These are more polished but less flexible than ChatGPT/Claude. You can't ask cus
 
 ## The Bottom Line
 
-Uploading a portfolio CSV to ChatGPT or Claude gives you analysis that used to require expensive software or a financial advisor meeting. It's not perfect — you need to verify the numbers and apply your own judgment — but as a first pass, it's remarkably powerful.
+Uploading a portfolio CSV to ChatGPT or Claude gives you analysis that used to require expensive software or a financial advisor meeting. It's not perfect, you need to verify the numbers and apply your own judgment, but as a first pass, it's remarkably powerful.
 
 **The workflow:**
 1. Export CSV from your broker (2 minutes)
@@ -191,7 +191,7 @@ Twenty minutes for a comprehensive portfolio checkup. Not bad for free (well, $2
 
 ## Try It: Free Portfolio Analyzer
 
-Before uploading to ChatGPT or Claude, get an instant preview with our free browser-based tool below. It analyzes your CSV locally — your data never leaves your device — and generates pre-filled AI prompts you can copy straight into your chatbot of choice.
+Before uploading to ChatGPT or Claude, get an instant preview with our free browser-based tool below. It analyzes your CSV locally, your data never leaves your device, and generates pre-filled AI prompts you can copy straight into your chatbot of choice.
 
 **Related:** If you're using AI for [stock research](/chatgpt-stock-research/), check out our guide on [AI vs. traditional stock screeners](/ai-vs-traditional-stock-screeners/) and how to use [AI for earnings call analysis](/ai-earnings-call-analysis/).
 

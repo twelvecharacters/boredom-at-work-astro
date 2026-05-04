@@ -25,7 +25,7 @@ Planning a trip used to mean dozens of browser tabs, hours of research, and a sp
 
 **AI travel planning** is exactly what it sounds like: using artificial intelligence tools like ChatGPT, Claude, Perplexity, and dedicated trip planners to research destinations, create itineraries, find hidden gems, and organize your entire trip.
 
-This comprehensive hub covers everything you need to master AI-powered travel planning—whether you're a complete beginner or looking to level up your existing workflow.
+This comprehensive hub covers everything you need to master AI-powered travel planning, whether you're a complete beginner or looking to level up your existing workflow.
 
 ---
 
@@ -53,11 +53,11 @@ A 2-week international trip typically requires 15-20 hours of research. AI can c
 
 ### Hyper-Personalization
 
-Travel blogs write for their average reader. AI writes for *you*. Tell it your budget, interests, physical limitations, dietary needs, travel style—and get recommendations that actually fit.
+Travel blogs write for their average reader. AI writes for *you*. Tell it your budget, interests, physical limitations, dietary needs, travel style, and get recommendations that actually fit.
 
 ### Discovery of Hidden Gems
 
-Page 1 of Google shows the same tourist spots everyone sees. AI can surface lesser-known alternatives when you ask: "I want to see temples in Kyoto but hate crowds—what are the hidden gems?"
+Page 1 of Google shows the same tourist spots everyone sees. AI can surface lesser-known alternatives when you ask: "I want to see temples in Kyoto but hate crowds, what are the hidden gems?"
 
 ### Organization Without Spreadsheets
 
@@ -156,13 +156,13 @@ Ready to dive deeper? This hub contains everything you need to become an AI trav
 
 New to using AI for trips? Start here.
 
-- **[Step-by-Step: Your First AI-Planned Trip](/chatgpt-trip-planning-tutorial/)** — A beginner-friendly tutorial that walks you through planning your first trip with ChatGPT, from first prompt to final itinerary.
+- **[Step-by-Step: Your First AI-Planned Trip](/chatgpt-trip-planning-tutorial/)**, A beginner-friendly tutorial that walks you through planning your first trip with ChatGPT, from first prompt to final itinerary.
 
-- **[ChatGPT for Travel Planning: 19 Prompts That Actually Work](/chatgpt-travel-planning-prompts/)** — Copy-paste prompts for itineraries, restaurants, packing lists, budget breakdowns, and more. Tested and refined over dozens of trips.
+- **[ChatGPT for Travel Planning: 19 Prompts That Actually Work](/chatgpt-travel-planning-prompts/)**, Copy-paste prompts for itineraries, restaurants, packing lists, budget breakdowns, and more. Tested and refined over dozens of trips.
 
-- **[Best AI Trip Planners 2026: 8 Tools Compared](/best-ai-trip-planners/)** — Not just ChatGPT—there are dedicated AI trip planning tools. We compare Mindtrip, Wanderlog, Layla, and more to find which actually delivers.
+- **[Best AI Trip Planners 2026: 8 Tools Compared](/best-ai-trip-planners/)**, Not just ChatGPT, there are dedicated AI trip planning tools. We compare Mindtrip, Wanderlog, Layla, and more to find which actually delivers.
 
-- **[7 AI Travel Planning Mistakes That Ruin Trips](/ai-travel-planning-mistakes/)** — AI isn't perfect. Learn the common pitfalls: hallucinated restaurants, outdated info, over-packed itineraries, and how to avoid them.
+- **[7 AI Travel Planning Mistakes That Ruin Trips](/ai-travel-planning-mistakes/)**, AI isn't perfect. Learn the common pitfalls: hallucinated restaurants, outdated info, over-packed itineraries, and how to avoid them.
 
 ---
 
@@ -170,17 +170,17 @@ New to using AI for trips? Start here.
 
 Different AI tools have different strengths. Find the right one for your travel style.
 
-- **[Claude vs ChatGPT for Travel Planning](/claude-vs-chatgpt-travel-planning/)** — A detailed comparison for travel-specific tasks: itinerary creation, research, local tips, and handling complex multi-destination trips.
+- **[Claude vs ChatGPT for Travel Planning](/claude-vs-chatgpt-travel-planning/)**, A detailed comparison for travel-specific tasks: itinerary creation, research, local tips, and handling complex multi-destination trips.
 
-- **[Free AI Tools for Budget Travel](/free-ai-travel-tools/)** — No subscriptions needed. The best free AI tools for planning trips on a budget, including free tiers of premium tools.
+- **[Free AI Tools for Budget Travel](/free-ai-travel-tools/)**, No subscriptions needed. The best free AI tools for planning trips on a budget, including free tiers of premium tools.
 
-- **[AI Packing Lists & Travel Checklists](/ai-packing-list-travel-checklist/)** — Let AI generate custom packing lists based on your destination, weather, activities, and trip length.
+- **[AI Packing Lists & Travel Checklists](/ai-packing-list-travel-checklist/)**, Let AI generate custom packing lists based on your destination, weather, activities, and trip length.
 
-- **[Google Gemini for Travel Planning](/gemini-travel-planning/)** — Gemini's real-time integration with Google Search and Maps gives it unique advantages. When to use Gemini over ChatGPT.
+- **[Google Gemini for Travel Planning](/gemini-travel-planning/)**, Gemini's real-time integration with Google Search and Maps gives it unique advantages. When to use Gemini over ChatGPT.
 
-- **[Perplexity AI for Travel Research](/perplexity-travel-research/)** — The best AI for research with sources. Perfect for visa requirements, safety info, and up-to-date local conditions.
+- **[Perplexity AI for Travel Research](/perplexity-travel-research/)**, The best AI for research with sources. Perfect for visa requirements, safety info, and up-to-date local conditions.
 
-- **[Build Your Own AI Flight Search Agent](/build-ai-flight-search-agent/)** — Advanced: Create a custom AI agent that monitors flight prices and finds optimal routes. No coding required.
+- **[Build Your Own AI Flight Search Agent](/build-ai-flight-search-agent/)**, Advanced: Create a custom AI agent that monitors flight prices and finds optimal routes. No coding required.
 
 ---
 
@@ -188,13 +188,13 @@ Different AI tools have different strengths. Find the right one for your travel 
 
 AI-powered planning guides for specific countries, including dietary considerations and travel insurance tips.
 
-- **[AI Trip Planning: Japan](/ai-trip-planning-japan/)** — The complete guide to planning Japan with AI. Prompts for JR Pass optimization, temple routes, food recommendations (including gluten-free), and cultural tips.
+- **[AI Trip Planning: Japan](/ai-trip-planning-japan/)**, The complete guide to planning Japan with AI. Prompts for JR Pass optimization, temple routes, food recommendations (including gluten-free), and cultural tips.
 
-- **[AI Trip Planning: Vietnam](/ai-trip-planning-vietnam/)** — From Hanoi to Ho Chi Minh City. AI prompts for motorbike routes, street food tours, visa logistics, and navigating the language barrier.
+- **[AI Trip Planning: Vietnam](/ai-trip-planning-vietnam/)**, From Hanoi to Ho Chi Minh City. AI prompts for motorbike routes, street food tours, visa logistics, and navigating the language barrier.
 
-- **[AI Trip Planning: Cambodia](/ai-trip-planning-cambodia/)** — Angkor Wat and beyond. AI-assisted planning for temple circuits, ethical tourism, and combining with Vietnam or Thailand.
+- **[AI Trip Planning: Cambodia](/ai-trip-planning-cambodia/)**, Angkor Wat and beyond. AI-assisted planning for temple circuits, ethical tourism, and combining with Vietnam or Thailand.
 
-- **[Japan vs Vietnam vs Cambodia: Which Should You Visit?](/japan-vietnam-cambodia-comparison/)** — Can't decide? AI-powered comparison based on budget, travel style, interests, and time of year.
+- **[Japan vs Vietnam vs Cambodia: Which Should You Visit?](/japan-vietnam-cambodia-comparison/)**, Can't decide? AI-powered comparison based on budget, travel style, interests, and time of year.
 
 ---
 
@@ -202,15 +202,15 @@ AI-powered planning guides for specific countries, including dietary considerati
 
 See AI travel planning in action with real trips, including what worked and what didn't.
 
-- **[How I Planned My Malaysia Trip with ChatGPT](/chatgpt-malaysia-trip-planning/)** — A 2-week itinerary through KL, Penang, and Langkawi. The actual prompts used, AI suggestions that were gold, and the recommendations that flopped.
+- **[How I Planned My Malaysia Trip with ChatGPT](/chatgpt-malaysia-trip-planning/)**, A 2-week itinerary through KL, Penang, and Langkawi. The actual prompts used, AI suggestions that were gold, and the recommendations that flopped.
 
-- **[I Let Claude Plan Our Málaga & Marbella Trip](/claude-planned-malaga-marbella-trip/)** — 5 days in southern Spain, planned entirely by Claude. Real restaurants, real walks, real budget breakdown.
+- **[I Let Claude Plan Our Málaga & Marbella Trip](/claude-planned-malaga-marbella-trip/)**, 5 days in southern Spain, planned entirely by Claude. Real restaurants, real walks, real budget breakdown.
 
-- **[Planning My Southeast Asia Trip with AI (2026)](/ai-planning-southeast-asia-trip-2026/)** — A work-in-progress case study. Follow along as I use multiple AI tools to plan a 3-country trip for November 2026.
+- **[Planning My Southeast Asia Trip with AI (2026)](/ai-planning-southeast-asia-trip-2026/)**, A work-in-progress case study. Follow along as I use multiple AI tools to plan a 3-country trip for November 2026.
 
-- **[AI-Planned London Weekend](/ai-planned-london-weekend/)** — A weekend in London planned entirely by AI. The itinerary, the restaurant picks, and what the algorithm got wrong.
+- **[AI-Planned London Weekend](/ai-planned-london-weekend/)**, A weekend in London planned entirely by AI. The itinerary, the restaurant picks, and what the algorithm got wrong.
 
-- **[Claude-Planned Dubai Trip](/claude-planned-dubai-trip/)** — Using Claude to plan a long weekend in Dubai. Prompts used, surprises found, and the one recommendation that saved the trip.
+- **[Claude-Planned Dubai Trip](/claude-planned-dubai-trip/)**, Using Claude to plan a long weekend in Dubai. Prompts used, surprises found, and the one recommendation that saved the trip.
 
 ---
 
@@ -242,8 +242,8 @@ See AI travel planning in action with real trips, including what worked and what
 
 ## Related Articles
 
-- [ChatGPT Mastery Guide](/chatgpt-guide/) — Master ChatGPT for all tasks
-- [AI Tools Guide](/ai-tools-guide/) — All AI tools compared
-- [Malaysia Trip Case Study](/chatgpt-malaysia-trip-planning/) — See AI planning in action
-- [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/) — 19 prompts that work
-- [AI Flight Search Agent](/build-ai-flight-search-agent/) — Build something advanced
+- [ChatGPT Mastery Guide](/chatgpt-guide/), Master ChatGPT for all tasks
+- [AI Tools Guide](/ai-tools-guide/), All AI tools compared
+- [Malaysia Trip Case Study](/chatgpt-malaysia-trip-planning/), See AI planning in action
+- [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/), 19 prompts that work
+- [AI Flight Search Agent](/build-ai-flight-search-agent/), Build something advanced

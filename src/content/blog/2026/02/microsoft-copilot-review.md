@@ -26,27 +26,27 @@ faq:
   - question: "How much does Microsoft Copilot cost?"
     answer: "For businesses, the Microsoft 365 Copilot add-on costs $21/user/month (Business) or $30/user/month (Enterprise), on top of a Microsoft 365 subscription (~$6-22/user/month). For individuals, Copilot is included in Microsoft 365 Personal ($9.99/mo) and Family ($12.99/mo). Note: business base prices are increasing July 2026."
   - question: "Is Microsoft Copilot the same as ChatGPT?"
-    answer: "Copilot uses OpenAI's technology but is deeply integrated into Microsoft 365 apps. It can access your emails, documents, and calendar — something ChatGPT cannot do. They're complementary, not interchangeable."
+    answer: "Copilot uses OpenAI's technology but is deeply integrated into Microsoft 365 apps. It can access your emails, documents, and calendar, something ChatGPT cannot do. They're complementary, not interchangeable."
   - question: "Can individuals buy Microsoft Copilot?"
     answer: "Yes. Since January 2025, Copilot is included in Microsoft 365 Personal ($9.99/mo) and Family ($12.99/mo) plans. For heavier usage, Microsoft 365 Premium ($19.99/mo) offers enhanced Copilot access. The free Copilot in Windows, Edge, and Bing is also available with fewer features."
 ---
 
 Microsoft Copilot promises to revolutionize how you work with Office apps. After using it daily for several months, I can tell you: it's genuinely useful, occasionally magical, and frustratingly inconsistent.
 
-Here's my honest review — what works, what doesn't, and whether it's worth the hefty price tag.
+Here's my honest review, what works, what doesn't, and whether it's worth the hefty price tag.
 
 ## What Is Microsoft Copilot?
 
 Microsoft Copilot is AI assistance built directly into Microsoft 365 apps:
 
-- **Word** — Draft documents, rewrite text, summarize
-- **Excel** — Analyze data, create formulas, generate charts
-- **PowerPoint** — Generate presentations from prompts or documents
-- **Outlook** — Draft emails, summarize threads, schedule meetings
-- **Teams** — Meeting summaries, catch-up on missed discussions
-- **OneNote** — Summarize notes, generate content
+- **Word**, Draft documents, rewrite text, summarize
+- **Excel**, Analyze data, create formulas, generate charts
+- **PowerPoint**, Generate presentations from prompts or documents
+- **Outlook**, Draft emails, summarize threads, schedule meetings
+- **Teams**, Meeting summaries, catch-up on missed discussions
+- **OneNote**, Summarize notes, generate content
 
-It's powered by OpenAI's latest models — currently GPT-5.2 with real-time model routing that picks the best model for each task — and has deep access to your Microsoft 365 data: your emails, documents, calendar, and Teams conversations.
+It's powered by OpenAI's latest models, currently GPT-5.2 with real-time model routing that picks the best model for each task, and has deep access to your Microsoft 365 data: your emails, documents, calendar, and Teams conversations.
 
 ## The Price Reality
 
@@ -67,7 +67,7 @@ Let's talk money first, because it's significant.
 
 For a team of 10, that's $335-430/month just for Copilot.
 
-> **Note:** Microsoft is raising base M365 business prices effective July 1, 2026 (e.g., Business Basic to $7, Business Standard to $14). Check [Microsoft's pricing page](https://www.microsoft.com/en-us/microsoft-365-copilot/pricing) for the latest numbers.
+> **Note:** Microsoft is raising base M365 business prices effective July 1, 2026 (e.g. Business Basic to $7, Business Standard to $14). Check [Microsoft's pricing page](https://www.microsoft.com/en-us/microsoft-365-copilot/pricing) for the latest numbers.
 
 ### Individual Pricing
 
@@ -79,7 +79,7 @@ Since January 2025, Copilot is also available for individuals:
 | Microsoft 365 Family | $12.99/month | Included (owner only) |
 | Microsoft 365 Premium | $19.99/month ($199.99/year) | Enhanced Copilot |
 
-This is a big change — Copilot is no longer business-only. Individual users get Copilot in Word, Excel, PowerPoint, Outlook, and OneNote right out of the box, though with usage limits compared to the full business add-on.
+This is a big change, Copilot is no longer business-only. Individual users get Copilot in Word, Excel, PowerPoint, Outlook, and OneNote right out of the box, though with usage limits compared to the full business add-on.
 
 ## What Copilot Does Well
 
@@ -183,7 +183,7 @@ You still can't:
 - Train it on your writing style
 - Adjust its behavior preferences
 
-However, Microsoft has improved here. The **Prompt Gallery** now lets you save, reuse, and share prompts with colleagues — a welcome addition. Custom templates for repeated tasks are also rolling out (in Public Preview as of late 2025). These are steps in the right direction, but Copilot still doesn't learn your preferences over time the way tools like Notion AI adapt to your workspace.
+However, Microsoft has improved here. The **Prompt Gallery** now lets you save, reuse, and share prompts with colleagues, a welcome addition. Custom templates for repeated tasks are also rolling out (in Public Preview as of late 2025). These are steps in the right direction, but Copilot still doesn't learn your preferences over time the way tools like Notion AI adapt to your workspace.
 
 ### 4. Slow Response Times
 
@@ -349,14 +349,14 @@ If you're paying personally or have a light Microsoft 365 usage, the combination
 
 **Rating: 3.5/5 stars**
 
-Good enough to use daily, not good enough to be transformative. Microsoft has built a solid foundation — now they need to execute on consistency and customization.
+Good enough to use daily, not good enough to be transformative. Microsoft has built a solid foundation, now they need to execute on consistency and customization.
 
 ---
 
 ## Related Articles
 
-- [Copilot in Word Tutorial](/copilot-word-tutorial/) — Complete guide to Copilot in Word
-- [AI Tools Guide](/ai-tools-guide/) — Compare all AI tools for work
-- [ChatGPT Mastery Guide](/chatgpt-guide/) — The main alternative to Copilot
-- [ChatGPT Alternatives](/chatgpt-alternatives/) — 10 options compared
-- [Best AI Tools for Office Work](/best-ai-tools-office-work/) — Curated productivity tools
+- [Copilot in Word Tutorial](/copilot-word-tutorial/), Complete guide to Copilot in Word
+- [AI Tools Guide](/ai-tools-guide/), Compare all AI tools for work
+- [ChatGPT Mastery Guide](/chatgpt-guide/), The main alternative to Copilot
+- [ChatGPT Alternatives](/chatgpt-alternatives/), 10 options compared
+- [Best AI Tools for Office Work](/best-ai-tools-office-work/), Curated productivity tools

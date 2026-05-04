@@ -23,7 +23,7 @@ One of these chairs is overpriced. The other is overrated. After spending weeks 
 
 The [Secretlab Titan Evo](https://secretlab.co/collections/titan-series) and the [Herman Miller Aeron](https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/) sit at opposite ends of the premium chair spectrum. One comes from gaming culture and costs around $550. The other is a 30-year-old design icon that runs $1,400 and up. Both claim to be the best seat for long work sessions.
 
-I put both through real 8-10 hour workdays—not a quick showroom test, not a weekend tryout. Here's what I found.
+I put both through real 8-10 hour workdays, not a quick showroom test, not a weekend tryout. Here's what I found.
 
 ---
 
@@ -48,11 +48,11 @@ Neither chair is objectively "better." But they serve very different people.
 
 ## Ergonomics: Where the Real Differences Live
 
-The Aeron's ergonomic pedigree is hard to argue with. Herman Miller has published [extensive research and documentation](https://www.hermanmiller.com/research/categories/white-papers/aeron-chair-research-summary/) on the Aeron's design principles. The PostureFit SL system uses two independent pads that support both the lumbar and sacral regions of your spine. You don't adjust it much—you set it once and forget it. The 8Z Pellicle mesh has eight tension zones that distribute your weight differently across the seat and back. It's passive support done right.
+The Aeron's ergonomic pedigree is hard to argue with. Herman Miller has published [extensive research and documentation](https://www.hermanmiller.com/research/categories/white-papers/aeron-chair-research-summary/) on the Aeron's design principles. The PostureFit SL system uses two independent pads that support both the lumbar and sacral regions of your spine. You don't adjust it much, you set it once and forget it. The 8Z Pellicle mesh has eight tension zones that distribute your weight differently across the seat and back. It's passive support done right.
 
-The Titan Evo takes an active approach. The 4-way L-ADAPT lumbar system lets you adjust depth and height independently using two dials on the back of the chair. That's more control than most dedicated office chairs offer. You can dial it in exactly where you need it, which is great if you know what you want. The magnetic headrest pillow is a bonus the Aeron doesn't match—useful for leaning back during calls or thinking breaks.
+The Titan Evo takes an active approach. The 4-way L-ADAPT lumbar system lets you adjust depth and height independently using two dials on the back of the chair. That's more control than most dedicated office chairs offer. You can dial it in exactly where you need it, which is great if you know what you want. The magnetic headrest pillow is a bonus the Aeron doesn't match, useful for leaning back during calls or thinking breaks.
 
-Here's the thing: the Aeron's mesh naturally conforms to different body shapes and sitting positions. The Titan Evo's foam and lumbar mechanism require you to find your sweet spot manually. If your posture shifts throughout the day—and it will—the Aeron adapts passively while the Titan Evo stays where you set it.
+Here's the thing: the Aeron's mesh naturally conforms to different body shapes and sitting positions. The Titan Evo's foam and lumbar mechanism require you to find your sweet spot manually. If your posture shifts throughout the day, and it will, the Aeron adapts passively while the Titan Evo stays where you set it.
 
 **Edge: Aeron.** The passive mesh support is more forgiving across different postures. The Titan Evo's lumbar is excellent once dialed in, but "once dialed in" is doing heavy lifting in that sentence.
 
@@ -62,7 +62,7 @@ Here's the thing: the Aeron's mesh naturally conforms to different body shapes a
 
 The Secretlab Titan Evo feels solid the moment you unbox it. The cold-cure foam is dense, the metal frame underneath is sturdy, and the leatherette (or SoftWeave fabric, or the newer NEO Hybrid material) has a premium hand feel. The magnetic headrest clicks into place satisfyingly. The 4D armrests are smooth and don't wobble. For a ~$550 chair, the build quality punches well above its weight class.
 
-The Aeron doesn't try to impress you with feel. It impresses you with engineering. Every component is designed to be replaced individually—armrest pads, mesh panels, gas cylinders, tilt mechanisms. Herman Miller sells parts for Aerons that are 20 years old. The aluminum frame won't creak, bend, or fatigue. The Pellicle mesh doesn't sag over time the way foam does.
+The Aeron doesn't try to impress you with feel. It impresses you with engineering. Every component is designed to be replaced individually, armrest pads, mesh panels, gas cylinders, tilt mechanisms. Herman Miller sells parts for Aerons that are 20 years old. The aluminum frame won't creak, bend, or fatigue. The Pellicle mesh doesn't sag over time the way foam does.
 
 This matters more than most people realize. Foam degrades. After 3-4 years of daily 8-hour use, any foam seat will feel noticeably different from day one. The Aeron's mesh? It'll feel the same at year 10 as it did at year one.
 
@@ -90,11 +90,11 @@ Let's break down what each chair actually lets you adjust:
 | Seat depth | Yes (slider on R/XL) | No (sized by model) |
 | Headrest | Magnetic pillow (included) | None |
 
-The Titan Evo technically has more adjustability—the deep recline and magnetic headrest are things the Aeron simply doesn't offer. If you want to lean back to 165 degrees and watch something on a second screen, the Titan Evo does that. The Aeron was designed for working upright and barely tilts by comparison.
+The Titan Evo technically has more adjustability, the deep recline and magnetic headrest are things the Aeron simply doesn't offer. If you want to lean back to 165 degrees and watch something on a second screen, the Titan Evo does that. The Aeron was designed for working upright and barely tilts by comparison.
 
-But the Aeron has forward tilt, which the Titan Evo lacks. If you lean into your desk when focused—which many people do—forward tilt keeps the seat pan angled to support that posture instead of fighting it. It's a subtle feature that makes a real difference during intense work sessions.
+But the Aeron has forward tilt, which the Titan Evo lacks. If you lean into your desk when focused, which many people do, forward tilt keeps the seat pan angled to support that posture instead of fighting it. It's a subtle feature that makes a real difference during intense work sessions.
 
-The Aeron also sidesteps seat depth adjustment entirely by offering three sizes (A, B, C). You pick the size that fits your body. This is better in theory—no adjustment needed because it already fits—but worse in practice if you're between sizes.
+The Aeron also sidesteps seat depth adjustment entirely by offering three sizes (A, B, C). You pick the size that fits your body. This is better in theory, no adjustment needed because it already fits, but worse in practice if you're between sizes.
 
 **Edge: Titan Evo** for range. **Aeron** for the adjustments that matter most during focused work.
 
@@ -108,11 +108,11 @@ For the first two hours, the Titan Evo is more comfortable. The foam seat is plu
 
 By hour five, the dynamic shifts. The foam retains heat. If you have the leatherette version, your back will be warm. Not unbearably so, but noticeably. The SoftWeave fabric is better here, but still warmer than mesh. The lumbar support that felt perfect at hour one now feels like it's pushing into you rather than supporting you. You'll find yourself reaching back to adjust the dials.
 
-The Aeron at hour five feels the same as the Aeron at hour one. The mesh breathes. Your back isn't sweating. The PostureFit SL isn't poking you—it's just... there. The Harmonic 2 tilt lets you micro-shift your weight without thinking about it.
+The Aeron at hour five feels the same as the Aeron at hour one. The mesh breathes. Your back isn't sweating. The PostureFit SL isn't poking you, it's just... there. The Harmonic 2 tilt lets you micro-shift your weight without thinking about it.
 
 By hour eight, I'm fidgeting in the Titan Evo. In the Aeron, I forget I'm sitting.
 
-That said, the Titan Evo's deep recline is a genuine advantage for breaks. Kick it back to 140 degrees, rest your head on the magnetic pillow, and decompress for five minutes. The Aeron forces you to stand up for that kind of break—which, honestly, is probably better for you anyway. If you're pairing your chair with a [standing desk](/best-standing-desks/), alternating between sitting and standing throughout the day makes the Aeron's limited recline less of an issue.
+That said, the Titan Evo's deep recline is a genuine advantage for breaks. Kick it back to 140 degrees, rest your head on the magnetic pillow, and decompress for five minutes. The Aeron forces you to stand up for that kind of break, which, honestly, is probably better for you anyway. If you're pairing your chair with a [standing desk](/best-standing-desks/), alternating between sitting and standing throughout the day makes the Aeron's limited recline less of an issue.
 
 **Edge: Aeron** for sustained comfort. **Titan Evo** for comfort versatility.
 
@@ -120,7 +120,7 @@ That said, the Titan Evo's deep recline is a genuine advantage for breaks. Kick 
 
 ## Summer Matters: The Heat Factor
 
-I need to call this out separately because nobody talks about it enough. If you work from home and your office doesn't have perfect AC—or if you run warm—the chair material matters enormously.
+I need to call this out separately because nobody talks about it enough. If you work from home and your office doesn't have perfect AC, or if you run warm, the chair material matters enormously.
 
 The Aeron's 8Z Pellicle mesh is fully breathable. Air flows through the seat and back. You will never feel sticky or overheated in this chair. Period.
 
@@ -145,7 +145,7 @@ If you live somewhere warm or your office gets hot, this single factor might out
 
 The Aeron's warranty is its secret weapon. Twelve years, covering everything, rated for 24/7 three-shift use. Herman Miller will send you parts and even a technician. When your Aeron needs a new gas cylinder in year 9, it's covered. When your Titan Evo's foam compresses in year 4, you're on your own.
 
-Over a 12-year period, the math changes. An Aeron at $1,400 over 12 years is ~$117/year. A Titan Evo at $550 that you replace every 5-6 years is ~$110/year. Suddenly the price gap shrinks to almost nothing—and you get a better chair the whole time.
+Over a 12-year period, the math changes. An Aeron at $1,400 over 12 years is ~$117/year. A Titan Evo at $550 that you replace every 5-6 years is ~$110/year. Suddenly the price gap shrinks to almost nothing, and you get a better chair the whole time.
 
 **Edge: Aeron**, decisively.
 
@@ -159,7 +159,7 @@ This depends entirely on your time horizon.
 
 **If you're keeping the chair for 5+ years**, the Aeron starts winning on cost-per-year. The foam will degrade, the leatherette may peel, and you'll likely want to replace the Titan Evo before its shape fully deteriorates. The Aeron will still feel and look the same.
 
-**If you're on a strict budget**, there's no contest. A brand-new Titan Evo at ~$550 versus a new Aeron at ~$1,400 is an $850 difference. That's a [full desk upgrade](/desk-upgrade-guide/) worth of money. And the Titan Evo is genuinely good—it's not a compromise chair.
+**If you're on a strict budget**, there's no contest. A brand-new Titan Evo at ~$550 versus a new Aeron at ~$1,400 is an $850 difference. That's a [full desk upgrade](/desk-upgrade-guide/) worth of money. And the Titan Evo is genuinely good, it's not a compromise chair.
 
 **If budget isn't the constraint**, the Aeron is the rational choice. Better long-term value, better sustained comfort, better warranty, better for your back. The only thing you sacrifice is the recline and the headrest.
 
@@ -186,6 +186,6 @@ It's not exciting. It doesn't look cool. It doesn't recline into a nap position.
 
 The Titan Evo is the chair I'd recommend to anyone who asks "what's a good chair that won't break the bank?" It's genuinely excellent for the money, and the lumbar system embarrasses office chairs twice its price. But it's a great chair for 5 hours. The Aeron is a great chair for 10.
 
-One more option worth considering: buy a refurbished Aeron. Used Aerons in good condition run $400-$600, and because the mesh doesn't degrade like foam, a 5-year-old Aeron often feels identical to a new one. That's Secretlab pricing for Herman Miller ergonomics. Just make sure it's the remastered version (post-2017) with PostureFit SL—the older Classic model has a different, less effective lumbar system.
+One more option worth considering: buy a refurbished Aeron. Used Aerons in good condition run $400-$600, and because the mesh doesn't degrade like foam, a 5-year-old Aeron often feels identical to a new one. That's Secretlab pricing for Herman Miller ergonomics. Just make sure it's the remastered version (post-2017) with PostureFit SL, the older Classic model has a different, less effective lumbar system.
 
 Whatever you decide, a good chair is the single best investment in your home office. It's the piece of equipment you touch for every second of every workday. Check out our full [office chair roundup](/best-office-chairs/) for more options at every price point.

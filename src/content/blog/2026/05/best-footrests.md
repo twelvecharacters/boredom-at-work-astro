@@ -1,7 +1,7 @@
 ---
 title: "7 Best Under-Desk Footrests for Home Office (2026)"
 slug: "best-footrests"
-description: "I compared 7 under-desk footrests from ~$20 to ~$180. Foam, rocking, and tilting — here's which ones actually help with posture and comfort while working."
+description: "I compared 7 under-desk footrests from ~$20 to ~$180. Foam, rocking, and tilting, here's which ones actually help with posture and comfort while working."
 publishDate: 2026-05-08
 author: "bored chap"
 image: "./best-footrests.webp"
@@ -11,9 +11,9 @@ draft: false
 isListicle: true
 faq:
   - question: "Do footrests actually help with posture?"
-    answer: "Yes — if your feet don't reach the floor when your chair is at the right height, a footrest is essential. Proper ergonomic position means your feet flat on a surface, knees at 90 degrees, and thighs parallel to the floor. If you're shorter than about 5'8\" or your desk is higher than standard (30 inches), a footrest fills the gap. Even for taller people, a footrest encourages micro-movements that reduce the health risks of sitting all day."
+    answer: "Yes, if your feet don't reach the floor when your chair is at the right height, a footrest is essential. Proper ergonomic position means your feet flat on a surface, knees at 90 degrees, and thighs parallel to the floor. If you're shorter than about 5'8\" or your desk is higher than standard (30 inches), a footrest fills the gap. Even for taller people, a footrest encourages micro-movements that reduce the health risks of sitting all day."
   - question: "What type of footrest is best for standing desks?"
-    answer: "For standing desks, get an anti-fatigue footrest with a rocking or rolling motion — not a flat platform. The Humanscale FM300 and similar rocking models let you shift weight between feet, which reduces leg fatigue and keeps blood flowing. When you switch to sitting, you can still use it as a traditional footrest. Regular foam footrests don't work well while standing since you need something that encourages movement."
+    answer: "For standing desks, get an anti-fatigue footrest with a rocking or rolling motion, not a flat platform. The Humanscale FM300 and similar rocking models let you shift weight between feet, which reduces leg fatigue and keeps blood flowing. When you switch to sitting, you can still use it as a traditional footrest. Regular foam footrests don't work well while standing since you need something that encourages movement."
   - question: "How high should a footrest be?"
     answer: "Most people need a footrest that's 3-5 inches high. The goal is to keep your knees at roughly 90 degrees when sitting with proper chair height (elbows at 90 degrees at desk level). Adjustable footrests with multiple height or tilt settings are ideal because you can fine-tune the position. If you're between 5'2\" and 5'6\", aim for 4-5 inches. If you're 5'6\" to 5'10\", 2-4 inches is usually enough."
 ---
@@ -22,7 +22,7 @@ Here's a thing nobody talks about in home office upgrade guides: your feet.
 
 You've got a nice [chair](/best-office-chairs/), maybe a [standing desk](/best-standing-desks/), your monitors are at the right height. But your feet are either dangling slightly above the floor or resting flat in the same position for 8 hours. Neither is great.
 
-A footrest fixes this. It keeps your feet supported when the chair is at the ergonomically correct height (which, for a lot of people, means feet don't quite reach the floor). And the rocking or tilting ones encourage micro-movements throughout the day — which is the whole point of ergonomics. Not sitting perfectly still, but moving.
+A footrest fixes this. It keeps your feet supported when the chair is at the ergonomically correct height (which, for a lot of people, means feet don't quite reach the floor). And the rocking or tilting ones encourage micro-movements throughout the day, which is the whole point of ergonomics. Not sitting perfectly still, but moving.
 
 I looked at every popular under-desk footrest and tested the ones I could get my hands on. Some are genuinely helpful. Others are glorified pillows that flatten in a month.
 
@@ -40,11 +40,11 @@ I looked at every popular under-desk footrest and tested the ones I could get my
 | **Humanscale FR500** | ~$143 | Rocking, tall | 6.5-9.5" | Tall desk / standing |
 | **Amazon Basics Footrest** | ~$18 | Basic platform | 4 positions | Ultra-budget |
 
-*Prices as of early 2026. They fluctuate—check current prices before buying.*
+*Prices as of early 2026. They fluctuate, check current prices before buying.*
 
 ---
 
-## 1. Humanscale FM300 — Best Overall
+## 1. Humanscale FM300, Best Overall
 
 **Price:** ~$143 | **Type:** Rocking platform | **Surface:** 17.5" x 13.5" | **Height:** 4.5" platform
 
@@ -60,7 +60,7 @@ The build quality is industrial. Metal frame, solid platform, smooth rocking act
 
 ---
 
-## 2. ErgoFoam Adjustable Foot Rest — Best Foam Option
+## 2. ErgoFoam Adjustable Foot Rest, Best Foam Option
 
 **Price:** ~$40 | **Type:** Foam with two height positions | **Surface:** 17.3" x 13" | **Heights:** 3.9" (flat) or 5.1" (with extension)
 
@@ -68,7 +68,7 @@ ErgoFoam nailed the formula for foam footrests. The velvet cover feels premium, 
 
 The removable extension piece on the bottom adds ~1.2 inches when you need more height. Flip it over for the lower position. Simple, no tools required.
 
-Unlike cheap foam footrests that go flat within weeks, the ErgoFoam uses high-density foam that holds its shape. It also has a non-slip rubber bottom that actually works on hardwood floors — a detail many competitors miss.
+Unlike cheap foam footrests that go flat within weeks, the ErgoFoam uses high-density foam that holds its shape. It also has a non-slip rubber bottom that actually works on hardwood floors, a detail many competitors miss.
 
 **What makes it special:** The adjustable height. Most foam footrests are one-size-fits-all, which means they're one-size-fits-nobody. The extension piece is a small thing that makes a big difference.
 
@@ -76,15 +76,15 @@ Unlike cheap foam footrests that go flat within weeks, the ErgoFoam uses high-de
 
 ---
 
-## 3. Kensington SoleMate Plus — Best Tilting Platform
+## 3. Kensington SoleMate Plus, Best Tilting Platform
 
 **Price:** ~$55 | **Type:** Tilting platform | **Surface:** 21.9" x 14.2" | **Height:** ~3.5" to 5" (adjustable tilt + height)
 
 [Kensington](https://www.kensington.com/p/products/ergonomic-desk-accessories/foot-rests/solemate-plus-adjustable-foot-rest/) has been making office accessories since the 80s, and the SoleMate Plus shows that experience. It's a proper adjustable footrest with independent height and angle settings.
 
-Three height positions and three angle positions give you nine possible combinations. The SmartFit color-coded system helps you find the right setting based on your height — a nice touch that takes the guesswork out.
+Three height positions and three angle positions give you nine possible combinations. The SmartFit color-coded system helps you find the right setting based on your height, a nice touch that takes the guesswork out.
 
-The surface is textured for grip, and the platform is wide enough for both feet with room to spare. Build quality is solid plastic — not premium, but durable enough for daily use. The angle adjustment locks firmly in place; no wobbling.
+The surface is textured for grip, and the platform is wide enough for both feet with room to spare. Build quality is solid plastic, not premium, but durable enough for daily use. The angle adjustment locks firmly in place; no wobbling.
 
 **What makes it special:** The wide platform (nearly 22 inches) and the systematic adjustment system. It's designed for office use, and it shows.
 
@@ -92,13 +92,13 @@ The surface is textured for grip, and the platform is wide enough for both feet 
 
 ---
 
-## 4. VIVO Ergonomic Footrest — Best Budget Tilting
+## 4. VIVO Ergonomic Footrest, Best Budget Tilting
 
 **Price:** ~$30 | **Type:** Tilting platform | **Surface:** 15.7" x 11.8" | **Height:** ~3.3" to 4.7"
 
 VIVO makes the monitor arms and standing desk converters that fill half the "budget home office" recommendations online. Their footrest follows the same playbook: good enough, cheap enough.
 
-The tilt adjusts between 0° and 20° with a smooth rocking motion. It's not spring-loaded like the Humanscale — you control the tilt with foot pressure. This gives you some of the movement benefit of a rocking footrest at a fraction of the cost.
+The tilt adjusts between 0° and 20° with a smooth rocking motion. It's not spring-loaded like the Humanscale, you control the tilt with foot pressure. This gives you some of the movement benefit of a rocking footrest at a fraction of the cost.
 
 The platform is smaller than the Kensington (about 16 inches wide), which is fine for most people but might feel cramped if you like to spread out. The textured surface grips well, and the rubber base keeps it in place on hard floors.
 
@@ -108,13 +108,13 @@ The platform is smaller than the Kensington (about 16 inches wide), which is fin
 
 ---
 
-## 5. Everlasting Comfort Foot Rest — Best Budget Foam
+## 5. Everlasting Comfort Foot Rest, Best Budget Foam
 
 **Price:** ~$25 | **Type:** Memory foam | **Surface:** ~17" x 13" | **Height:** ~4"
 
 If you just want something soft under your feet and don't want to overthink it, this is the one. Everlasting Comfort's footrest is a dense memory foam cushion with a teardrop shape that supports your feet at a natural angle.
 
-The foam is good quality for the price — it compresses under weight but bounces back overnight. The machine-washable cover is a genuine advantage; foam footrests get gross faster than you'd expect.
+The foam is good quality for the price, it compresses under weight but bounces back overnight. The machine-washable cover is a genuine advantage; foam footrests get gross faster than you'd expect.
 
 No height adjustment, no tilt mechanism, no rocking. Just foam. For ~$25, that's totally fine.
 
@@ -124,7 +124,7 @@ No height adjustment, no tilt mechanism, no rocking. Just foam. For ~$25, that's
 
 ---
 
-## 6. Humanscale FR500 — Best for Tall Desks and Standing
+## 6. Humanscale FR500, Best for Tall Desks and Standing
 
 **Price:** ~$143 | **Type:** Rocking, tall | **Surface:** 17" x 12" | **Height:** Adjustable 6.5" to 9.5"
 
@@ -132,7 +132,7 @@ The [Humanscale FR500](https://www.humanscale.com/products/ergonomic-accessories
 
 The height range (6.5" to 9.5") is significantly taller than any other footrest on this list. This makes it ideal for two scenarios: sitting at a higher-than-standard desk, or using it while standing to elevate one foot and reduce lower back pressure.
 
-Same Humanscale build quality — metal frame, smooth rocking mechanism, non-skid surface. The height adjusts with a foot-operated lever, no bending down required.
+Same Humanscale build quality, metal frame, smooth rocking mechanism, non-skid surface. The height adjusts with a foot-operated lever, no bending down required.
 
 **What makes it special:** The height range. No other footrest goes this tall while maintaining the rocking motion. If you alternate between sitting and standing at a [standing desk](/best-standing-desks/), this is the one that works in both positions.
 
@@ -140,13 +140,13 @@ Same Humanscale build quality — metal frame, smooth rocking mechanism, non-ski
 
 ---
 
-## 7. Amazon Basics Under Desk Foot Rest — Ultra Budget
+## 7. Amazon Basics Under Desk Foot Rest, Ultra Budget
 
 **Price:** ~$18 | **Type:** Platform with tilt | **Surface:** ~18" x 14" | **Height:** 4 positions
 
 The Amazon Basics footrest is the "I want a footrest and I want to spend as little as possible" option. It's a plastic platform with four height positions and a slight tilt capability.
 
-Build quality is exactly what you'd expect at $18 — functional plastic that won't win design awards. The surface has a basic texture for grip, and the height adjustment is manual (you physically click it to different positions). The platform is reasonably wide and holds both feet comfortably.
+Build quality is exactly what you'd expect at $18, functional plastic that won't win design awards. The surface has a basic texture for grip, and the height adjustment is manual (you physically click it to different positions). The platform is reasonably wide and holds both feet comfortably.
 
 It squeaks a little more than premium options, and the tilt mechanism is less smooth. But it gets your feet off the floor and into an ergonomic position, which is the whole point.
 
@@ -188,10 +188,10 @@ Take this quick test:
 
 A footrest is a $20-130 upgrade that completes your ergonomic setup. It won't change your life the way a good [office chair](/best-office-chairs/) will, but it fills a gap that most people don't even realize exists until it's fixed.
 
-**Best overall:** Humanscale FM300 (~$130) — expensive but genuinely the best for long-term comfort.
+**Best overall:** Humanscale FM300 (~$130), expensive but genuinely the best for long-term comfort.
 
-**Best value:** ErgoFoam Adjustable (~$40) — solid foam with adjustable height, hard to beat for the price.
+**Best value:** ErgoFoam Adjustable (~$40), solid foam with adjustable height, hard to beat for the price.
 
-**Best budget:** VIVO Ergonomic (~$30) — a real tilting platform at foam-footrest prices.
+**Best budget:** VIVO Ergonomic (~$30), a real tilting platform at foam-footrest prices.
 
 For the full home office setup roadmap, check the [desk upgrade guide](/desk-upgrade-guide/). And if your feet aren't the only thing that hurts after 8 hours, maybe it's time for a better [chair](/best-office-chairs/).

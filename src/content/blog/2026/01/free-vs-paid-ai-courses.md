@@ -12,7 +12,7 @@ faq:
   - question: "Are free AI courses as good as paid ones?"
     answer: "For learning fundamentals, yes. Khan Academy, Google AI Essentials (preview), and many YouTube channels teach the same core concepts as paid courses. Where paid courses pull ahead is in structured learning paths, graded assignments, mentorship, and recognized certificates. If you just want knowledge, free is fine. If you need credentials for your resume, paying $49-79 for a certificate is worth it."
   - question: "When should I pay for an AI course?"
-    answer: "Pay when you need a recognized certificate for your resume, when you've outgrown free content and need structured advanced material, or when you need accountability (deadlines and graded assignments) to actually finish. Don't pay for beginner content — there's excellent free material from Google, IBM, and Andrew Ng that covers the basics just as well."
+    answer: "Pay when you need a recognized certificate for your resume, when you've outgrown free content and need structured advanced material, or when you need accountability (deadlines and graded assignments) to actually finish. Don't pay for beginner content, there's excellent free material from Google, IBM, and Andrew Ng that covers the basics just as well."
   - question: "What's the best free AI course in 2026?"
     answer: "Google AI Essentials is the best overall free starting point for its combination of quality, practical focus, and brand recognition. For deeper technical skills, Andrew Ng's Machine Learning course on Coursera (first module free) is the gold standard. For no-code AI applications, Microsoft's AI Skills portal offers free learning paths with practical exercises."
 ---
@@ -53,7 +53,7 @@ If you're not sure AI is worth investing in, start free. Take Google AI Essentia
 
 ### Situation 2: You Already Have Credentials
 
-If you have an impressive resume—good degree, relevant experience, recognized certifications—adding another paid certificate provides diminishing returns. The knowledge matters more than the credential.
+If you have an impressive resume, good degree, relevant experience, recognized certifications, adding another paid certificate provides diminishing returns. The knowledge matters more than the credential.
 
 **Cost: $0**
 **Outcome: Same knowledge, skip the certificate**
@@ -281,7 +281,7 @@ That's fine. Elements of AI (free with certificate), Google AI Essentials (audit
 
 ## The Bottom Line
 
-Free AI courses are better than ever. For many people, they're genuinely sufficient. The paid options add certificates, structure, and support—valuable, but not always necessary.
+Free AI courses are better than ever. For many people, they're genuinely sufficient. The paid options add certificates, structure, and support, valuable, but not always necessary.
 
 **Our recommendation:**
 

@@ -23,7 +23,7 @@ faq:
     answer: "If you're using a personal account on your own device, no. But be aware that company IT policies vary, and using work networks may have monitoring. When in doubt, ask IT or use your personal device."
 ---
 
-ChatGPT can save you hours every day. It can draft your emails, explain complex topics, brainstorm ideas, analyze data, and help you work through problems—all through simple conversation.
+ChatGPT can save you hours every day. It can draft your emails, explain complex topics, brainstorm ideas, analyze data, and help you work through problems, all through simple conversation.
 
 But here's the thing: most people barely scratch the surface of what it can do. They type in a basic question, get a basic answer, and wonder what all the fuss is about.
 
@@ -35,7 +35,7 @@ ChatGPT is an AI chatbot created by OpenAI. You type messages, and it responds w
 
 ### How It Works (Simple Version)
 
-ChatGPT is powered by GPT-5.2, OpenAI's latest large language model. It was trained on massive amounts of text from the internet—books, articles, websites, and more. It learned patterns in language, facts about the world, and how to structure responses.
+ChatGPT is powered by GPT-5.2, OpenAI's latest large language model. It was trained on massive amounts of text from the internet, books, articles, websites, and more. It learned patterns in language, facts about the world, and how to structure responses.
 
 When you ask it something, it can either generate a response based on its training or search the web for current information. You can also enable features like image generation, video creation, and deep research.
 
@@ -115,7 +115,7 @@ Click in the message box and type something. It can be anything:
 
 Press Enter or click the send arrow. ChatGPT will respond within seconds.
 
-Congratulations—you've just used AI.
+Congratulations, you've just used AI.
 
 ## Your First 5 Prompts to Try
 
@@ -336,7 +336,7 @@ Avoid these pitfalls:
 
 ### Being Too Vague
 
-If your prompt could mean many different things, ChatGPT will guess—and might guess wrong. Add specifics about length, tone, audience, and format.
+If your prompt could mean many different things, ChatGPT will guess, and might guess wrong. Add specifics about length, tone, audience, and format.
 
 ### Not Providing Context
 
@@ -348,7 +348,7 @@ Treat the first output as a draft. Ask for revisions, request changes, and itera
 
 ### Not Fact-Checking
 
-ChatGPT can be wrong, especially about statistics or specialized topics. Always verify important information from authoritative sources—even when it uses web search.
+ChatGPT can be wrong, especially about statistics or specialized topics. Always verify important information from authoritative sources, even when it uses web search.
 
 ### Sharing Sensitive Information
 
@@ -432,7 +432,7 @@ Unlikely. ChatGPT is a tool that makes you more productive, not a replacement fo
 
 ### How accurate is ChatGPT?
 
-It's quite good but not perfect. It can make mistakes, especially with statistics and specialized topics. Always verify important information—even when it cites sources from web search.
+It's quite good but not perfect. It can make mistakes, especially with statistics and specialized topics. Always verify important information, even when it cites sources from web search.
 
 ### Can my employer see my ChatGPT history?
 
@@ -476,7 +476,7 @@ Here's your homework:
 
 1. Try the 5 sample prompts above
 2. Use ChatGPT for one real work task today
-3. Practice iterating—ask for revisions until you're happy
+3. Practice iterating, ask for revisions until you're happy
 4. Explore one new feature (web search, image generation, or deep research)
 
 In a week of regular use, you'll wonder how you worked without it.
@@ -485,8 +485,8 @@ In a week of regular use, you'll wonder how you worked without it.
 
 ## Related Articles
 
-- [ChatGPT Mastery: Everything You Need to Know](/chatgpt-guide/) — Take your skills to the next level
-- [How to Learn AI in 2026: Complete Roadmap](/learn-ai-guide/) — Your full AI learning path
-- [Best Free AI Courses](/best-free-ai-courses/) — Structured learning options
-- [ChatGPT Custom Instructions Guide](/chatgpt-custom-instructions/) — Set up once, get better responses forever
-- [AI Tools Guide](/ai-tools-guide/) — Explore all AI tools for work
+- [ChatGPT Mastery: Everything You Need to Know](/chatgpt-guide/), Take your skills to the next level
+- [How to Learn AI in 2026: Complete Roadmap](/learn-ai-guide/), Your full AI learning path
+- [Best Free AI Courses](/best-free-ai-courses/), Structured learning options
+- [ChatGPT Custom Instructions Guide](/chatgpt-custom-instructions/), Set up once, get better responses forever
+- [AI Tools Guide](/ai-tools-guide/), Explore all AI tools for work

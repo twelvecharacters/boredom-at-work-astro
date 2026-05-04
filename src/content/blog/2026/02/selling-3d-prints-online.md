@@ -62,40 +62,40 @@ Skip the analysis paralysis. Here's what works in 2026:
 
 ### Selling Physical Prints
 
-**[Etsy](https://www.etsy.com/)** — The Default Choice
+**[Etsy](https://www.etsy.com/)**, The Default Choice
 6.5% transaction fee + $0.20 listing fee + 3-4% payment processing (~10-12% total)  
 Best for: Gift items, home decor, cosplay props, personalized products  
 Reality check: Huge audience, but you're competing with thousands of sellers. Photography matters more than print quality.
 
-**eBay** — The Underdog  
+**eBay**, The Underdog  
 ~13% total fees  
 Best for: Functional parts, replacement components, automotive accessories  
 Reality check: Less pretty, more practical. Buyers here want solutions, not aesthetics.
 
-**Facebook Marketplace / Craigslist** — Zero Fees  
+**Facebook Marketplace / Craigslist**, Zero Fees  
 Best for: Local sales, large prints, testing demand  
 Reality check: No shipping hassle, cash transactions, but limited scale.
 
 ### Selling Digital Files (STLs)
 
-**[Cults3D](https://cults3d.com/)** — Largest Marketplace
+**[Cults3D](https://cults3d.com/)**, Largest Marketplace
 20% flat commission (seller receives 80%)
 Best for: Gadgets, art, functional designs
 Reality check: High traffic, high competition. Simple fee structure with no tiers.
 
-**MyMiniFactory** — Curated Quality
+**MyMiniFactory**, Curated Quality
 10-15% commission depending on creator tier (+ payment processing)
 Best for: Tabletop gaming, miniatures, high-detail models
 Reality check: Smaller but dedicated audience. Quality standards mean less junk competition.
 
-**Thangs** — The New Player  
+**Thangs**, The New Player  
 Free to list, takes commission on sales  
 Best for: Getting discovered via their 3D search engine  
 Reality check: Growing fast, worth having presence even if not primary income source.
 
 ### Building Your Own Brand
 
-**Shopify / WooCommerce** — Maximum Margins  
+**Shopify / WooCommerce**, Maximum Margins  
 ~$39/month + ~2.9% payment processing  
 Best for: Scaling beyond side hustle, building email list, repeat customers  
 Reality check: You drive 100% of your own traffic. Only worth it once you've validated demand elsewhere.

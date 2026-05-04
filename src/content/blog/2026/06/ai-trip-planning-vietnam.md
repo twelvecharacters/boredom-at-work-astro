@@ -16,7 +16,7 @@ faq:
     answer: "It varies by region. November-April is best for the south, March-April for the north. Central Vietnam is trickiest. AI can help plan around the weather."
 ---
 
-Vietnam offers incredible value: world-class food, stunning landscapes, rich history, and welcoming people—all at budget-friendly prices. The challenge? It's a long, narrow country with varying climates and overwhelming options. The [Vietnam National Administration of Tourism](https://vietnam.travel) offers official destination guides and regional travel information.
+Vietnam offers incredible value: world-class food, stunning landscapes, rich history, and welcoming people, all at budget-friendly prices. The challenge? It's a long, narrow country with varying climates and overwhelming options. The [Vietnam National Administration of Tourism](https://vietnam.travel) offers official destination guides and regional travel information.
 
 Here's how to use AI to plan the perfect Vietnam trip.
 
@@ -56,7 +56,7 @@ Travel style: [budget/mid-range/comfort]
 Include:
 - Best transport between cities
 - How many nights per location
-- Don't rush—I want to experience, not just see
+- Don't rush, I want to experience, not just see
 ```
 
 ### The Transport Question
@@ -193,7 +193,7 @@ Give me a Vietnamese phrase card for restaurants.
 Which restaurants in [city] cater to gluten-free?
 ```
 
-**AI insight:** Fish sauce (nuoc mam) is usually safe, but soy sauce is common. Pho broth sometimes contains soy sauce. Rice noodles are safe; wheat noodles look similar—always confirm.
+**AI insight:** Fish sauce (nuoc mam) is usually safe, but soy sauce is common. Pho broth sometimes contains soy sauce. Rice noodles are safe; wheat noodles look similar, always confirm.
 
 ---
 
@@ -213,7 +213,7 @@ AI often recommends:
 ```
 Fly into Hanoi, out of Ho Chi Minh (or reverse).
 Saves backtracking and usually costs similar to round-trip.
-Check both directions—prices vary.
+Check both directions, prices vary.
 ```
 
 ### Best Airlines for Europe → Vietnam
@@ -282,7 +282,7 @@ Best balance of experience, cost, and efficiency.
 
 ## Travel Insurance for Vietnam
 
-Healthcare quality varies widely in Vietnam—international hospitals in big cities are good but expensive, while rural facilities are basic.
+Healthcare quality varies widely in Vietnam, international hospitals in big cities are good but expensive, while rural facilities are basic.
 
 ### AI Insurance Prompt for Vietnam
 
@@ -295,7 +295,7 @@ Help me with travel insurance:
 - Which cities have good international hospitals?
 ```
 
-**AI insight:** If you rent a motorbike (common in Vietnam), make sure your insurance covers motorbike accidents—many policies exclude this. Emergency evacuation to Singapore or Bangkok is important for serious injuries, as specialized care may require leaving the country.
+**AI insight:** If you rent a motorbike (common in Vietnam), make sure your insurance covers motorbike accidents, many policies exclude this. Emergency evacuation to Singapore or Bangkok is important for serious injuries, as specialized care may require leaving the country.
 
 ---
 

@@ -24,7 +24,7 @@ course:
   isFree: false
 faq:
   - question: "Is Google AI Essentials really free?"
-    answer: "The content is free to audit. The certificate costs $49. You can learn everything without paying—you just won't get the official credential."
+    answer: "The content is free to audit. The certificate costs $49. You can learn everything without paying, you just won't get the official credential."
   - question: "How long does Google AI Essentials take?"
     answer: "Officially 10 hours. Most people can finish faster if they're focused. Comfortable pace is 2 weeks at 1 hour/day."
   - question: "Is Google AI Essentials worth it for developers?"
@@ -55,7 +55,7 @@ I completed the entire course to find out. Here's my honest review.
 | Difficulty | Easy |
 | Certificate value | High (Google brand recognition) |
 
-**Bottom line:** Google AI Essentials is the best starting point for anyone new to AI. It's practical, well-structured, and the Google certificate carries real weight. The only downside is it stays surface-level—but that's exactly what beginners need.
+**Bottom line:** Google AI Essentials is the best starting point for anyone new to AI. It's practical, well-structured, and the Google certificate carries real weight. The only downside is it stays surface-level, but that's exactly what beginners need.
 
 ## What Is Google AI Essentials?
 
@@ -85,7 +85,7 @@ Here's where it gets practical. This module teaches:
 - Integrating AI into your workflow
 - Real examples of AI-assisted work
 
-This was my favorite module. It's immediately applicable—you can start using these concepts the same day.
+This was my favorite module. It's immediately applicable, you can start using these concepts the same day.
 
 ### Module 3: Discover the Art of Prompting
 
@@ -124,7 +124,7 @@ I completed Google AI Essentials over four days, spending about 2-3 hours per da
 
 ### What Surprised Me
 
-**It's more practical than expected.** Many corporate courses are heavy on theory and light on application. Google AI Essentials is the opposite—almost everything taught can be used immediately.
+**It's more practical than expected.** Many corporate courses are heavy on theory and light on application. Google AI Essentials is the opposite, almost everything taught can be used immediately.
 
 **The pacing is good.** Modules are broken into short segments (5-15 minutes each). This makes it easy to fit into breaks or lunch periods.
 
@@ -134,7 +134,7 @@ I completed Google AI Essentials over four days, spending about 2-3 hours per da
 
 **Module 3 on prompting** was the highlight. Even though I'd been using ChatGPT for a while, I learned techniques that improved my results.
 
-**The hands-on exercises** force you to actually practice. You can't just passively watch videos—you have to apply concepts.
+**The hands-on exercises** force you to actually practice. You can't just passively watch videos, you have to apply concepts.
 
 **The real-world examples** across different industries helped me see applications I hadn't considered.
 
@@ -285,7 +285,7 @@ If you get the certificate, add it to your LinkedIn profile. Include it in the l
 
 ### Is Google AI Essentials really free?
 
-The content is free to audit. The certificate costs $49. You can learn everything without paying—you just won't get the official credential.
+The content is free to audit. The certificate costs $49. You can learn everything without paying, you just won't get the official credential.
 
 ### How long does Google AI Essentials take?
 
@@ -311,7 +311,7 @@ Easy. It's designed for complete beginners with no technical background. If you 
 
 Google AI Essentials is the best starting point for AI beginners in 2026. It's practical, well-made, and results in a credential that carries real weight.
 
-Is it comprehensive? No—it's an introduction. Will it make you an AI expert? No—but it will make you AI literate, which is exactly what most professionals need.
+Is it comprehensive? No, it's an introduction. Will it make you an AI expert? No, but it will make you AI literate, which is exactly what most professionals need.
 
 If you're wondering where to start with AI, this is it.
 

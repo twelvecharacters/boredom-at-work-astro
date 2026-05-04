@@ -21,7 +21,7 @@ faq:
     answer: "None of these filaments are truly food-safe for repeated use. While PLA is made from plant-based materials, the layer lines harbor bacteria. For food contact, you'd need food-safe coatings or single-use applications. PETG is used in food packaging industrially but FDM prints aren't certified food-safe."
   - question: "What temperature should I print each filament at?"
     answer: "PLA: 190-220°C nozzle, 0-60°C bed. PETG: 220-250°C nozzle, 70-90°C bed. ABS: 220-250°C nozzle, 90-110°C bed. Always check your specific filament brand's recommendations."
-tldr: "PLA is easiest to print and best for beginners. PETG offers better strength and flexibility for functional parts. ABS is strongest but hardest to print—skip it unless you need heat resistance. Most hobbyists only need PLA and PETG."
+tldr: "PLA is easiest to print and best for beginners. PETG offers better strength and flexibility for functional parts. ABS is strongest but hardest to print, skip it unless you need heat resistance. Most hobbyists only need PLA and PETG."
 ---
 
 You've got your [new 3D printer set up](/3d-printing-beginners-guide/), printed a few test cubes, and now you're staring at spools of filament wondering: "What's the difference between all these materials?"
@@ -50,19 +50,19 @@ The long answer involves trade-offs between ease of printing, strength, flexibil
 
 ### Why Choose PLA
 
-- **Easiest to print** — Low temperatures, minimal warping, works on any printer
-- **No heated bed required** — Though it helps with adhesion
-- **No enclosure needed** — Print in any room
-- **Virtually no odor** — Safe for home use without ventilation
-- **Wide color selection** — Every color and finish imaginable
-- **Cheapest option** — Often [$18-22/kg for quality brands](/3d-printing-cost-guide/)
+- **Easiest to print**, Low temperatures, minimal warping, works on any printer
+- **No heated bed required**, Though it helps with adhesion
+- **No enclosure needed**, Print in any room
+- **Virtually no odor**, Safe for home use without ventilation
+- **Wide color selection**, Every color and finish imaginable
+- **Cheapest option**, Often [$18-22/kg for quality brands](/3d-printing-cost-guide/)
 
 ### PLA's Limitations
 
-- **Brittle under stress** — Snaps rather than bends
-- **Low heat resistance (~60°C)** — Will deform in a hot car or near heat sources
-- **Degrades in sunlight** — Not great for outdoor use long-term
-- **Difficult to post-process** — Can't be acetone-smoothed like ABS
+- **Brittle under stress**, Snaps rather than bends
+- **Low heat resistance (~60°C)**, Will deform in a hot car or near heat sources
+- **Degrades in sunlight**, Not great for outdoor use long-term
+- **Difficult to post-process**, Can't be acetone-smoothed like ABS
 
 ### Best Uses for PLA
 
@@ -70,15 +70,15 @@ The long answer involves trade-offs between ease of printing, strength, flexibil
 - Prototypes and test prints
 - Cosplay props (with coating)
 - Desk organizers and household items
-- Educational projects — check out [10 things to 3D print first](/10-things-to-print-new-3d-printer/)
+- Educational projects, check out [10 things to 3D print first](/10-things-to-print-new-3d-printer/)
 - Anything that won't see heat or stress
 
 ### Recommended PLA Brands
 
-- **Bambu Lab PLA Basic** — Excellent quality, consistent results
-- **Polymaker PolyLite PLA** — Wide color range, reliable
-- **Hatchbox PLA** — Budget-friendly, good performance
-- **Prusament PLA** — Premium quality, tight tolerances
+- **Bambu Lab PLA Basic**, Excellent quality, consistent results
+- **Polymaker PolyLite PLA**, Wide color range, reliable
+- **Hatchbox PLA**, Budget-friendly, good performance
+- **Prusament PLA**, Premium quality, tight tolerances
 
 ---
 
@@ -88,20 +88,20 @@ The long answer involves trade-offs between ease of printing, strength, flexibil
 
 ### Why Choose PETG
 
-- **Strong and flexible** — Bends before breaking
-- **Excellent layer adhesion** — Parts don't delaminate
-- **Good chemical resistance** — Handles oils, solvents better than PLA
-- **Higher heat resistance (~80°C)** — Survives warm environments
-- **No enclosure needed** — Prints reliably in open air
-- **Low warping** — Much easier than ABS
+- **Strong and flexible**, Bends before breaking
+- **Excellent layer adhesion**, Parts don't delaminate
+- **Good chemical resistance**, Handles oils, solvents better than PLA
+- **Higher heat resistance (~80°C)**, Survives warm environments
+- **No enclosure needed**, Prints reliably in open air
+- **Low warping**, Much easier than ABS
 
 ### PETG's Limitations
 
-- **Stringing** — More prone to fine strings between parts
-- **Slightly harder to dial in** — Needs proper temperature tuning
-- **Scratches easily** — Softer surface than PLA
-- **Hygroscopic** — Absorbs moisture, needs dry storage
-- **Sticks TOO well** — Can damage build surfaces if not careful
+- **Stringing**, More prone to fine strings between parts
+- **Slightly harder to dial in**, Needs proper temperature tuning
+- **Scratches easily**, Softer surface than PLA
+- **Hygroscopic**, Absorbs moisture, needs dry storage
+- **Sticks TOO well**, Can damage build surfaces if not careful
 
 ### Best Uses for PETG
 
@@ -114,10 +114,10 @@ The long answer involves trade-offs between ease of printing, strength, flexibil
 
 ### Recommended PETG Brands
 
-- **Prusament PETG** — Benchmark quality
-- **Overture PETG** — Great value
-- **eSUN PETG** — Consistent performer (note: lower Tg ~60°C than typical PETG)
-- **Polymaker PETG** — Wide color selection, updated formula
+- **Prusament PETG**, Benchmark quality
+- **Overture PETG**, Great value
+- **eSUN PETG**, Consistent performer (note: lower Tg ~60°C than typical PETG)
+- **Polymaker PETG**, Wide color selection, updated formula
 
 ### PETG Print Settings Tips
 
@@ -140,20 +140,20 @@ First Layer: Print slow (20mm/s) and squish it
 
 ### Why Choose ABS
 
-- **Highest strength** — Tough, impact-resistant
-- **Best heat resistance (~100°C)** — Survives hot environments
-- **Can be acetone-smoothed** — Professional finish possible
-- **Excellent machinability** — Can be drilled, sanded, painted
-- **Long-term durability** — Resists degradation better than PLA in most environments
+- **Highest strength**, Tough, impact-resistant
+- **Best heat resistance (~100°C)**, Survives hot environments
+- **Can be acetone-smoothed**, Professional finish possible
+- **Excellent machinability**, Can be drilled, sanded, painted
+- **Long-term durability**, Resists degradation better than PLA in most environments
 
 ### ABS's Serious Limitations
 
-- **Requires enclosure** — Warps badly without stable temperature (printers like the [Bambu Lab X2D](/bambu-lab-x2d-first-look/) solve this with a built-in 65°C heated chamber)
-- **Toxic fumes** — Needs ventilation, shouldn't breathe it
-- **Strong odor** — Smells like burning plastic
-- **High warping** — Corners lift, layers crack (see [adhesion fixes](/3d-print-not-sticking-fixes/))
-- **Needs high bed temps (100°C+)** — Not all printers support this
-- **Steep learning curve** — Many failed prints before success
+- **Requires enclosure**, Warps badly without stable temperature (printers like the [Bambu Lab X2D](/bambu-lab-x2d-first-look/) solve this with a built-in 65°C heated chamber)
+- **Toxic fumes**, Needs ventilation, shouldn't breathe it
+- **Strong odor**, Smells like burning plastic
+- **High warping**, Corners lift, layers crack (see [adhesion fixes](/3d-print-not-sticking-fixes/))
+- **Needs high bed temps (100°C+)**, Not all printers support this
+- **Steep learning curve**, Many failed prints before success
 
 ### Best Uses for ABS
 
@@ -210,8 +210,8 @@ Unless you specifically need:
 Here's a secret most experienced makers know: **You only need two filaments.**
 
 **Keep on hand:**
-1. **PLA** — For quick prints, prototypes, decorative items
-2. **PETG** — For anything functional
+1. **PLA**, For quick prints, prototypes, decorative items
+2. **PETG**, For anything functional
 
 That's it. This covers 95% of hobbyist use cases. You can explore specialty filaments (TPU, CF-Nylon, ASA) later when specific projects demand them.
 
@@ -235,7 +235,7 @@ All three filaments are hygroscopic (absorb moisture from air), but to different
 - Stringing worse than usual
 - Poor layer adhesion
 
-**Fix:** Dry in a food dehydrator or filament dryer — PLA at 45-50°C, PETG at 55-70°C, ABS at 60-80°C — for 4-6 hours.
+**Fix:** Dry in a food dehydrator or filament dryer, PLA at 45-50°C, PETG at 55-70°C, ABS at 60-80°C, for 4-6 hours.
 
 ---
 
@@ -243,9 +243,9 @@ All three filaments are hygroscopic (absorb moisture from air), but to different
 
 If you're new to 3D printing, here's my honest advice:
 
-1. **Start with PLA** — Learn your printer without fighting the material. Dial in your [slicer settings](/cura-settings-beginners/) first
-2. **Graduate to PETG** — When you need stronger functional parts
-3. **Skip ABS** — Unless you have a specific need AND an enclosed printer with ventilation
+1. **Start with PLA**, Learn your printer without fighting the material. Dial in your [slicer settings](/cura-settings-beginners/) first
+2. **Graduate to PETG**, When you need stronger functional parts
+3. **Skip ABS**, Unless you have a specific need AND an enclosed printer with ventilation
 
 The best filament is the one you can actually print successfully. Master PLA first, then expand your material knowledge as projects demand it.
 

@@ -1,7 +1,7 @@
 ---
 title: "Smartphone Camera vs Dedicated Camera: Still Worth It? (2026)"
 slug: "camera-vs-smartphone"
-description: "Is a dedicated camera still worth it in 2026? We compare smartphone vs camera for low light, zoom, portraits, and video — with real-world samples."
+description: "Is a dedicated camera still worth it in 2026? We compare smartphone vs camera for low light, zoom, portraits, and video, with real-world samples."
 publishDate: 2026-01-03
 updatedDate: 2026-04-05
 author: "bored chap"
@@ -42,7 +42,7 @@ This is the question every potential camera buyer asks - and it deserves an hone
 - Are happy with your current photos
 - Shoot mainly in good daylight
 
-**The short answer:** In 2026, smartphones have closed 80% of the quality gap for everyday photography. Dedicated cameras still win decisively for low-light work, optical zoom, and creative control — but for the average user sharing on Instagram, a phone is genuinely enough.
+**The short answer:** In 2026, smartphones have closed 80% of the quality gap for everyday photography. Dedicated cameras still win decisively for low-light work, optical zoom, and creative control, but for the average user sharing on Instagram, a phone is genuinely enough.
 
 ## The Honest Truth
 
@@ -189,7 +189,7 @@ Camera RAW files contain far more data:
 - Better noise reduction options
 - Non-destructive editing
 
-You don't even need a subscription to edit RAW files — [RapidRAW](/rapid-raw-image-editor-guide/) is a free, open-source alternative to Lightroom with GPU-accelerated performance.
+You don't even need a subscription to edit RAW files, [RapidRAW](/rapid-raw-image-editor-guide/) is a free, open-source alternative to Lightroom with GPU-accelerated performance.
 
 Phone RAW exists but from smaller sensors with less information captured.
 

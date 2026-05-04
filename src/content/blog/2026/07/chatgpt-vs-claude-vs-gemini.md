@@ -14,14 +14,14 @@ faq:
   - question: "Is ChatGPT Plus still worth $20/month in 2026?"
     answer: "Yes, if you use it daily. You get GPT-5.2, o3 reasoning, DALL-E image generation, Advanced Data Analysis, web browsing, custom GPTs, and the largest plugin ecosystem. The free tier is surprisingly good now but hits message limits fast during peak hours. If you use AI for work 1+ hours/day, the $20 pays for itself."
   - question: "What's the biggest difference between Claude and ChatGPT?"
-    answer: "ChatGPT has the broader ecosystem — plugins, GPTs, DALL-E, browsing. Claude has better coding performance, longer context (200K tokens vs 128K for GPT-5.2), and tends to be more honest about what it doesn't know. ChatGPT is the Swiss Army knife; Claude is the precision tool."
+    answer: "ChatGPT has the broader ecosystem, plugins, GPTs, DALL-E, browsing. Claude has better coding performance, longer context (200K tokens vs 128K for GPT-5.2), and tends to be more honest about what it doesn't know. ChatGPT is the Swiss Army knife; Claude is the precision tool."
   - question: "Is Gemini better than ChatGPT now?"
     answer: "In some areas, yes. Gemini 3.1 Pro has a 1M token context window (4x ChatGPT's), native Google Workspace integration, and real-time web access via Google Search. It's the best choice if you're deep in the Google ecosystem or need to process very long documents. For general-purpose use, ChatGPT still has the edge in versatility and ecosystem."
 ---
 
 Three AI chatbots, all ~$20/month, all claiming to be the best. Here's what actually matters after using all three daily for months.
 
-I'll skip the benchmark nerd-out and focus on what each one is genuinely best at in the real world — and which one deserves your money.
+I'll skip the benchmark nerd-out and focus on what each one is genuinely best at in the real world, and which one deserves your money.
 
 ---
 
@@ -73,7 +73,7 @@ All three have usable free tiers. The $20 tier is where the real value lives.
 ### ChatGPT: The Ecosystem King
 
 **Best at:**
-- **Data analysis.** Upload a CSV and get charts, calculations, and Python-powered analysis instantly. The built-in code sandbox is unmatched — perfect for [portfolio analysis](/ai-portfolio-analysis-chatgpt/)
+- **Data analysis.** Upload a CSV and get charts, calculations, and Python-powered analysis instantly. The built-in code sandbox is unmatched, perfect for [portfolio analysis](/ai-portfolio-analysis-chatgpt/)
 - **Image generation.** DALL-E is built in. Claude and Gemini can't generate images natively
 - **Plugin ecosystem.** Custom GPTs, browsing, third-party integrations. The GPT Store has thousands of specialized tools
 - **Speed.** Fastest initial response latency of the three
@@ -87,7 +87,7 @@ All three have usable free tiers. The $20 tier is where the real value lives.
 ### Claude: The Quality Leader
 
 **Best at:**
-- **Coding.** 80.9% on SWE-bench Verified — best in class. Writes cleaner, more maintainable code
+- **Coding.** 80.9% on SWE-bench Verified, best in class. Writes cleaner, more maintainable code
 - **Writing.** More natural prose, better at matching tone and style. Less "AI-sounding"
 - **Honesty.** More likely to say "I'm not sure" than hallucinate an answer
 - **Long-form analysis.** Give it a 50-page document and it extracts insights methodically
@@ -106,7 +106,7 @@ You can learn more about each platform's capabilities at [openai.com](https://op
 **Best at:**
 - **Massive context.** 1M tokens means you can upload entire books, codebases, or [multiple earnings reports](/ai-earnings-call-analysis/) at once
 - **Google integration.** Works natively with Gmail, Docs, Drive, Sheets, Calendar. If you live in Google Workspace, nothing else comes close
-- **Real-time information.** Built-in Google Search gives it current data — no knowledge cutoff issues
+- **Real-time information.** Built-in Google Search gives it current data, no knowledge cutoff issues
 - **Multimodal.** Strong at analyzing images, videos, and audio files
 - **Video generation.** Ultra tier includes Veo for video creation
 
@@ -114,7 +114,7 @@ You can learn more about each platform's capabilities at [openai.com](https://op
 - Coding performance lags behind Claude and ChatGPT
 - Creative writing feels more generic
 - The Ultra tier ($250/month) is expensive for individual users
-- Less predictable output quality — great on some tasks, mediocre on others
+- Less predictable output quality, great on some tasks, mediocre on others
 
 ---
 
@@ -125,7 +125,7 @@ You can learn more about each platform's capabilities at [openai.com](https://op
 | | ChatGPT | Claude | Gemini |
 |--|---------|--------|--------|
 | **Structure** | Clean headers, bullet points | Detailed narrative with nuance | Concise, Google-doc style |
-| **Depth** | Good — hits key points | Best — catches subtle language shifts | Adequate — surface-level insights |
+| **Depth** | Good, hits key points | Best, catches subtle language shifts | Adequate, surface-level insights |
 | **Accuracy** | Mostly accurate, one hallucinated metric | Accurate, flagged its own uncertainty | Accurate, cited Google Search for context |
 | **Speed** | Fastest (~15 sec) | Slowest (~25 sec) | Medium (~20 sec) |
 
@@ -150,13 +150,13 @@ ChatGPT gives you the most messages. Claude's limits are tighter but the quality
 ## Which One for Your Use Case?
 
 ### For Office Workers
-**ChatGPT** — best for email drafting, data analysis, presentations, and general productivity. The ecosystem (GPTs, plugins) covers more work scenarios. See our full [ChatGPT guide](/chatgpt-guide/).
+**ChatGPT**, best for email drafting, data analysis, presentations, and general productivity. The ecosystem (GPTs, plugins) covers more work scenarios. See our full [ChatGPT guide](/chatgpt-guide/).
 
 ### For Developers
-**Claude** — better code output, stronger at understanding complex codebases, more reliable at following detailed specifications. The [AI tools guide](/ai-tools-guide/) covers more options.
+**Claude**, better code output, stronger at understanding complex codebases, more reliable at following detailed specifications. The [AI tools guide](/ai-tools-guide/) covers more options.
 
 ### For Students and Researchers
-**Gemini** — 1M token context for research papers, real-time web access for current sources, free tier is generous. Google Scholar integration is a nice bonus.
+**Gemini**, 1M token context for research papers, real-time web access for current sources, free tier is generous. Google Scholar integration is a nice bonus.
 
 ### For Investors
 **ChatGPT** for [portfolio analysis](/ai-portfolio-analysis-chatgpt/) (CSV upload + charts). **Claude** for [earnings call analysis](/ai-earnings-call-analysis/) (context window). **Perplexity** for real-time market data and [stock screening](/ai-vs-traditional-stock-screeners/).
@@ -168,7 +168,7 @@ ChatGPT gives you the most messages. Claude's limits are tighter but the quality
 
 ## Can You Use the Free Tiers?
 
-Honestly, yes — for casual use. All three free tiers are surprisingly capable in 2026:
+Honestly, yes, for casual use. All three free tiers are surprisingly capable in 2026:
 
 - **ChatGPT Free:** GPT-5.2 access with daily limits. Enough for 5-10 conversations/day
 - **Claude Free:** Sonnet 4.6 (their mid-tier model). Solid for writing and coding
@@ -180,7 +180,7 @@ If you hit limits regularly or use AI for work, the $20 upgrade is worth it on a
 
 ## The Bottom Line
 
-There's no single "best" AI in 2026. The gap between them has narrowed significantly — all three are excellent. The choice comes down to what you value most:
+There's no single "best" AI in 2026. The gap between them has narrowed significantly, all three are excellent. The choice comes down to what you value most:
 
 - **Broadest capabilities:** ChatGPT
 - **Highest quality output:** Claude

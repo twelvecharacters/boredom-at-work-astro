@@ -1,5 +1,5 @@
 ---
-title: "I Let AI Plan My London Weekend — Here's What Actually Happened"
+title: "I Let AI Plan My London Weekend, Here's What Actually Happened"
 slug: "ai-planned-london-weekend"
 description: "A real trip report: I used Clawd.bot to plan a gluten-free weekend in London. MJ The Musical, Chinatown, and three restaurants without a single celiac reaction."
 publishDate: 2026-02-15
@@ -14,10 +14,10 @@ faq:
   - question: "Is Clawd.bot free to use for trip planning?"
     answer: "Clawd.bot is open-source and free to install. Your only costs are hosting (~$5/month on a VPS) and AI API usage, which varies by how much you use it. For a weekend trip with specific requirements like gluten-free dining, it worked perfectly without racking up a big bill."
   - question: "How accurate are AI-generated travel itineraries?"
-    answer: "Pretty accurate for logistics (train times, distances, opening hours), but you'll still deviate. We skipped one breakfast spot and added Chinatown spontaneously. The AI gives you a solid framework — you add the human element."
+    answer: "Pretty accurate for logistics (train times, distances, opening hours), but you'll still deviate. We skipped one breakfast spot and added Chinatown spontaneously. The AI gives you a solid framework, you add the human element."
 ---
 
-I've written plenty about [AI trip planning tools](/best-ai-trip-planners/) — and I even [let Claude plan a 3-day Dubai trip](/claude-planned-dubai-trip/) with helicopter tours and Michelin-recommended dinners. But there's a difference between testing an app and actually trusting it with your weekend.
+I've written plenty about [AI trip planning tools](/best-ai-trip-planners/), and I even [let Claude plan a 3-day Dubai trip](/claude-planned-dubai-trip/) with helicopter tours and Michelin-recommended dinners. But there's a difference between testing an app and actually trusting it with your weekend.
 
 So when my girlfriend and I booked last-minute flights to London, I decided to let AI do the heavy lifting. One catch: my girlfriend has celiac disease, so every restaurant recommendation needed to be genuinely gluten-free safe.
 
@@ -35,13 +35,13 @@ I gave [Clawd.bot](https://clawd.bot) a simple brief:
 Within minutes, I had a detailed itinerary with train times, restaurant recommendations with links to their GF menus, and a Google Maps route connecting everything.
 
 **The AI's Saturday plan:**
-- 08:35 — Land at Stansted
+- 08:35, Land at Stansted
 - Stansted Express to Liverpool Street (~48 min)
 - Tube to Notting Hill
 - Breakfast at Libby's (dedicated GF bakery)
 - Portobello Road Market
 - Drop bags at hotel
-- 14:30 — MJ The Musical
+- 14:30, MJ The Musical
 - Dinner at Ugly Dumpling (GF menu available)
 
 Looked solid on paper. But would it survive contact with reality?
@@ -50,16 +50,16 @@ Looked solid on paper. But would it survive contact with reality?
 
 ### The First Deviation: Brick Lane Instead of Notting Hill
 
-We landed on time and grabbed the Stansted Express (pro tip: buy tickets in advance — £75 for two people round trip). But at Liverpool Street, we made an audible.
+We landed on time and grabbed the Stansted Express (pro tip: buy tickets in advance, £75 for two people round trip). But at Liverpool Street, we made an audible.
 
-Instead of tubing across London to Notting Hill for breakfast, we walked to Brick Lane. The neighborhood was buzzing, and we found [Brick Lane Coffee Shop](https://bricklanecoffeeshop.co.uk/) — a spot with surprisingly good gluten-free options.
+Instead of tubing across London to Notting Hill for breakfast, we walked to Brick Lane. The neighborhood was buzzing, and we found [Brick Lane Coffee Shop](https://bricklanecoffeeshop.co.uk/), a spot with surprisingly good gluten-free options.
 
 **What we ordered:**
 - GF crepes for my girlfriend (they have dedicated GF batter)
 - Full English Breakfast for me
 - Excellent coffee
 
-**GF notes for celiacs:** They're not a dedicated GF facility, but [FindMeGlutenFree lists them as GF-friendly](https://www.findmeglutenfree.com/biz/brick-lane-coffee/5174708163706880) with positive community ratings. Items aren't labeled GF on the menu — ask staff. They reportedly have 20+ GF options including crepes, waffles, brownies, and cakes. No dedicated fryer though, so skip fried items if you're highly sensitive.
+**GF notes for celiacs:** They're not a dedicated GF facility, but [FindMeGlutenFree lists them as GF-friendly](https://www.findmeglutenfree.com/biz/brick-lane-coffee/5174708163706880) with positive community ratings. Items aren't labeled GF on the menu, ask staff. They reportedly have 20+ GF options including crepes, waffles, brownies, and cakes. No dedicated fryer though, so skip fried items if you're highly sensitive.
 
 **Lesson #1:** AI gives you a plan. You give it flexibility.
 
@@ -69,11 +69,11 @@ The Notting Hill breakfast spot (Libby's) was probably great. But sometimes the 
 
 ![MJ The Musical at Prince Edward Theatre](./ai-london-trip-mj-musical.webp)
 
-The afternoon was exactly as planned. We dropped our backpacks at the hotel (The Westbourne Hyde Park — chosen by the AI for its location between Notting Hill and the West End), then headed to the Prince Edward Theatre.
+The afternoon was exactly as planned. We dropped our backpacks at the hotel (The Westbourne Hyde Park, chosen by the AI for its location between Notting Hill and the West End), then headed to the Prince Edward Theatre.
 
-MJ The Musical was incredible. The choreography, the live band, the guy playing Michael — absolutely nailed it. We caught it during its "Final Weeks" in London, which made it feel even more special.
+MJ The Musical was incredible. The choreography, the live band, the guy playing Michael, absolutely nailed it. We caught it during its "Final Weeks" in London, which made it feel even more special.
 
-![The stage before the show — covered in MJ's handwritten choreography notes](./ai-london-trip-theater.webp)
+![The stage before the show, covered in MJ's handwritten choreography notes](./ai-london-trip-theater.webp)
 
 The stage design featured Michael Jackson's actual handwritten notes about studying dancers like Bob Fosse and movies like "All That Jazz." A nice touch that set the tone before the curtain even rose.
 
@@ -83,33 +83,33 @@ After the show, we weren't ready for dinner yet. The AI's itinerary had us going
 
 ![London Chinatown at night](./ai-london-trip-chinatown.webp)
 
-The red lanterns were glowing, the streets were packed, and we spent a good 30 minutes just soaking it in. This wasn't on the AI's radar — and that's fine. Good trip planning leaves room for serendipity.
+The red lanterns were glowing, the streets were packed, and we spent a good 30 minutes just soaking it in. This wasn't on the AI's radar, and that's fine. Good trip planning leaves room for serendipity.
 
 ### Dinner at Ugly Dumpling: AI Recommendation = Success
 
 ![Gluten-free dumplings at Ugly Dumpling](./ai-london-trip-dumplings.webp)
 
-This was the real test. My girlfriend has celiac disease — she can't just "try" a restaurant. One wrong sauce and she's sick for days.
+This was the real test. My girlfriend has celiac disease, she can't just "try" a restaurant. One wrong sauce and she's sick for days.
 
 Clawd.bot had recommended [Ugly Dumpling](https://uglydumpling.co.uk/) specifically because they have a dedicated gluten-free menu and excellent reviews on [FindMeGlutenFree](https://www.findmeglutenfree.com/biz/ugly-dumpling/6243481373245440) (90+ community ratings at time of writing). The AI even linked to their celiac-safe rating.
 
 **The verdict:** Absolutely legit.
 
 **What makes Ugly Dumpling celiac-safe:**
-- **Black plates = gluten-free** — All GF dishes come on black plates for easy identification
-- **Dedicated fryer** — Dozens of community reports on FindMeGlutenFree confirm a separate fryer for GF items
-- **Separate prep space** — GF food prepared with dedicated tools
-- **Handmade daily** — Their GF dumplings are made fresh every day
-- **Staff training** — One reviewer was greeted with "welcome to coeliac heaven"
+- **Black plates = gluten-free**, All GF dishes come on black plates for easy identification
+- **Dedicated fryer**, Dozens of community reports on FindMeGlutenFree confirm a separate fryer for GF items
+- **Separate prep space**, GF food prepared with dedicated tools
+- **Handmade daily**, Their GF dumplings are made fresh every day
+- **Staff training**, One reviewer was greeted with "welcome to coeliac heaven"
 
 **What we ordered:**
-- Cheeseburger dumplings (yes, really — and they're amazing)
+- Cheeseburger dumplings (yes, really, and they're amazing)
 - Duck dumplings
 - Tempura aubergine
 - Nutella dessert dumplings
 - Gluten-free beer
 
-**Pro tip:** Visit on Sunday or Monday for their GF meal deal. Avoid weekday evenings and Saturdays if you're highly sensitive — they note that "during busy hours there are longer waiting times for GF foods to decrease cross-contamination risk." We went Saturday evening and had no issues, but it's good they're transparent about it.
+**Pro tip:** Visit on Sunday or Monday for their GF meal deal. Avoid weekday evenings and Saturdays if you're highly sensitive, they note that "during busy hours there are longer waiting times for GF foods to decrease cross-contamination risk." We went Saturday evening and had no issues, but it's good they're transparent about it.
 
 We ordered way too many dumplings, and she had zero reaction. For celiacs reading this: Ugly Dumpling is safe. Check their [current GF menu (PDF)](https://uglydumpling.co.uk/menus/) before you go.
 
@@ -117,9 +117,9 @@ We ordered way too many dumplings, and she had zero reaction. For celiacs readin
 
 The AI had only planned Saturday in detail, so Sunday was our own creation:
 
-1. **British Museum** (free entry, ~2 hours) — Focused on the Mesopotamia and Ancient Near East galleries. Could easily spend a full day here, but we had a flight to catch.
+1. **British Museum** (free entry, ~2 hours), Focused on the Mesopotamia and Ancient Near East galleries. Could easily spend a full day here, but we had a flight to catch.
 
-2. **Wicked Fish at Spitalfields** — Another gluten-free win. Proper fish and chips with GF batter, and massive portions. Perfect pre-flight meal.
+2. **Wicked Fish at Spitalfields**, Another gluten-free win. Proper fish and chips with GF batter, and massive portions. Perfect pre-flight meal.
 
 Then back to Liverpool Street, Stansted Express, and home.
 
@@ -153,7 +153,7 @@ Here's what required human judgment:
 
 The AI gave us a framework. We made it our own.
 
-For anyone with dietary restrictions especially — AI trip planners have gotten remarkably good at finding safe options. Clawd.bot didn't just search for "gluten-free London." It found places with dedicated menus, celiac reviews, and proper food safety practices.
+For anyone with dietary restrictions especially, AI trip planners have gotten remarkably good at finding safe options. Clawd.bot didn't just search for "gluten-free London." It found places with dedicated menus, celiac reviews, and proper food safety practices.
 
 Three restaurants. Zero reactions. That's a win.
 
@@ -175,7 +175,7 @@ For more AI travel strategies, case studies, and destination guides, check out o
 
 If you're interested in AI-powered travel planning:
 
-- [Best AI Trip Planners 2026](/best-ai-trip-planners/) — Full comparison of tools
-- [I Let Claude Plan Our Dubai Trip](/claude-planned-dubai-trip/) — Helicopter tours, Burj Khalifa, and Michelin dining
-- [How I Planned Malaysia with ChatGPT](/chatgpt-malaysia-trip-planning/) — Another real trip report
-- [AI Travel Planning Mistakes to Avoid](/ai-travel-planning-mistakes/) — What can go wrong
+- [Best AI Trip Planners 2026](/best-ai-trip-planners/), Full comparison of tools
+- [I Let Claude Plan Our Dubai Trip](/claude-planned-dubai-trip/), Helicopter tours, Burj Khalifa, and Michelin dining
+- [How I Planned Malaysia with ChatGPT](/chatgpt-malaysia-trip-planning/), Another real trip report
+- [AI Travel Planning Mistakes to Avoid](/ai-travel-planning-mistakes/), What can go wrong

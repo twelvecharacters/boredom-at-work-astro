@@ -16,7 +16,7 @@ faq:
     answer: "Our AI-planned route was: Kuala Lumpur (2 nights) → Penang (3 nights) → Langkawi (5 nights) → Kuala Lumpur (3 nights). This balanced city, culture, and beach time perfectly."
 ---
 
-Last November, I put AI travel planning to the test: a 2-week Malaysia trip planned with ChatGPT. My partner and I wanted a mix of city exploration, culture, and beaches—with one extra challenge: my partner has celiac disease, so finding gluten-free food was critical.
+Last November, I put AI travel planning to the test: a 2-week Malaysia trip planned with ChatGPT. My partner and I wanted a mix of city exploration, culture, and beaches, with one extra challenge: my partner has celiac disease, so finding gluten-free food was critical.
 
 Here's the honest breakdown of what ChatGPT got right, what it completely missed, and whether AI travel planning is actually worth it.
 
@@ -52,7 +52,7 @@ Before diving into what we did, two practical tips that made everything easier:
 Right after landing at KLIA, we bought a tourist SIM card. For about 30-40 MYR (~$7-9), you get plenty of data for 2 weeks. This is way cheaper than international roaming and essential for using maps, translation apps, and booking services.
 
 **2. Download Grab (Uber Doesn't Exist Here)**
-Uber pulled out of Southeast Asia years ago. [Grab](https://www.grab.com/) is the dominant ride-hailing app in Malaysia and most of Southeast Asia. Download it before you arrive and link a payment method. We used Grab daily—it's reliable, affordable, and safer than negotiating with taxi drivers.
+Uber pulled out of Southeast Asia years ago. [Grab](https://www.grab.com/) is the dominant ride-hailing app in Malaysia and most of Southeast Asia. Download it before you arrive and link a payment method. We used Grab daily, it's reliable, affordable, and safer than negotiating with taxi drivers.
 
 ---
 
@@ -79,7 +79,7 @@ Let me break down each destination.
 
 ### What We Actually Did
 
-**Petronas Towers:** Absolutely worth it. ChatGPT was right to emphasize booking in advance—tickets sell out, especially for sunset slots. The view from the sky bridge is incredible.
+**Petronas Towers:** Absolutely worth it. ChatGPT was right to emphasize booking in advance, tickets sell out, especially for sunset slots. The view from the sky bridge is incredible.
 
 **Batu Caves:** Here's where ChatGPT failed us.
 
@@ -88,12 +88,12 @@ Let me break down each destination.
 ChatGPT didn't warn us about two important things:
 
 **1. Dress code for women**
-My partner wore shorts. At the entrance, she had to rent a sarong to cover her legs. It's a Hindu temple—shoulders and knees must be covered. ChatGPT never mentioned this.
+My partner wore shorts. At the entrance, she had to rent a sarong to cover her legs. It's a Hindu temple, shoulders and knees must be covered. ChatGPT never mentioned this.
 
 **2. The monkeys are AGGRESSIVE**
 ChatGPT said something vague like "there are monkeys at Batu Caves." What it should have said: "The monkeys will literally steal food from your hands, go through your bags, and can be intimidating. Don't bring food, secure your belongings, and don't make eye contact."
 
-We saw a monkey snatch a water bottle from a tourist's hand. Another went through someone's open backpack. It's not dangerous if you're prepared, but we weren't—because ChatGPT didn't properly warn us.
+We saw a monkey snatch a water bottle from a tourist's hand. Another went through someone's open backpack. It's not dangerous if you're prepared, but we weren't, because ChatGPT didn't properly warn us.
 
 **Lesson learned:** AI gives you the highlights but misses the practical warnings that experienced travelers share.
 
@@ -119,11 +119,11 @@ The reality: Many Malaysian dishes are rice-based and naturally gluten-free, but
 
 ### What We Actually Did
 
-**Penang National Park:** ChatGPT mentioned this but didn't emphasize it enough. It's a hidden gem—beautiful jungle trails leading to secluded beaches. We spent half a day here and it was a highlight.
+**Penang National Park:** ChatGPT mentioned this but didn't emphasize it enough. It's a hidden gem, beautiful jungle trails leading to secluded beaches. We spent half a day here and it was a highlight.
 
 **Penang Hill:** The funicular ride up is fun, and the views are spectacular. ChatGPT recommended this, and it delivered.
 
-**Kek Lok Si Temple:** Stunning Buddhist temple complex. ChatGPT got this right—it's one of the largest in Southeast Asia and absolutely worth the visit.
+**Kek Lok Si Temple:** Stunning Buddhist temple complex. ChatGPT got this right, it's one of the largest in Southeast Asia and absolutely worth the visit.
 
 ### What ChatGPT Got Right in Penang
 
@@ -133,7 +133,7 @@ Penang is Malaysia's food capital, and ChatGPT correctly prioritized food experi
 
 ## Langkawi (Days 6-10)
 
-This is where the trip shifted from culture to relaxation—and where ChatGPT's recommendations really shined.
+This is where the trip shifted from culture to relaxation, and where ChatGPT's recommendations really shined.
 
 ### What ChatGPT Recommended
 
@@ -146,7 +146,7 @@ This is where the trip shifted from culture to relaxation—and where ChatGPT's 
 
 **Langkawi Cable Car & Sky Bridge:** A must-do. The cable car ride is thrilling, and walking across the curved Sky Bridge with panoramic views is unforgettable. ChatGPT was right to put this at the top of the list.
 
-**Jetski Tour:** This wasn't a ChatGPT recommendation—we found it locally. Four hours of jetskiing around the islands for 600 MYR (~$130). One of the best experiences of the entire trip.
+**Jetski Tour:** This wasn't a ChatGPT recommendation, we found it locally. Four hours of jetskiing around the islands for 600 MYR (~$130). One of the best experiences of the entire trip.
 
 **Scooter Rental:** ChatGPT suggested this, and it was perfect advice. For 40 MYR per day (~$9), we had complete freedom to explore the island. Langkawi is very scooter-friendly with good roads and light traffic.
 
@@ -193,7 +193,7 @@ Help us:
 ### What ChatGPT Provided
 
 **Safe dishes:**
-- Nasi lemak (coconut rice with sides—check the sauce)
+- Nasi lemak (coconut rice with sides, check the sauce)
 - Satay (usually safe, but verify the marinade)
 - Grilled seafood
 - Rice-based dishes generally
@@ -262,7 +262,7 @@ Even accounting for the things ChatGPT missed, AI planning saved us significant 
 
 ## Would I Use ChatGPT for Trip Planning Again?
 
-**Absolutely yes—but with caveats.**
+**Absolutely yes, but with caveats.**
 
 ChatGPT excels at:
 - Creating logical routes
@@ -306,12 +306,12 @@ Based on our experience:
 
 ## More Trip Reports
 
-- [AI-Planned London Weekend](/ai-planned-london-weekend/) — Another real trip with Clawd.bot (gluten-free tested)
+- [AI-Planned London Weekend](/ai-planned-london-weekend/), Another real trip with Clawd.bot (gluten-free tested)
 
 ## Related Articles
 
-- [ChatGPT Mastery Guide](/chatgpt-guide/) — Everything about ChatGPT
-- [AI Travel Planning Hub](/ai-travel-planning/) — Complete travel guide
-- [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/) — All the prompts we used
-- [Best AI Trip Planners](/best-ai-trip-planners/) — Compare AI tools
-- [AI Tools Guide](/ai-tools-guide/) — All AI tools compared
+- [ChatGPT Mastery Guide](/chatgpt-guide/), Everything about ChatGPT
+- [AI Travel Planning Hub](/ai-travel-planning/), Complete travel guide
+- [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/), All the prompts we used
+- [Best AI Trip Planners](/best-ai-trip-planners/), Compare AI tools
+- [AI Tools Guide](/ai-tools-guide/), All AI tools compared

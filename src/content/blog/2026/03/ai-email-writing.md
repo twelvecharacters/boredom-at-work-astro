@@ -1,7 +1,7 @@
 ---
 title: "AI for Email Writing: Templates, Tools & Prompts That Work"
 slug: "ai-email-writing"
-description: "Write better emails faster with AI. Templates, prompts, and tools for every situation—from cold outreach to difficult conversations."
+description: "Write better emails faster with AI. Templates, prompts, and tools for every situation, from cold outreach to difficult conversations."
 publishDate: 2026-03-06
 author: "bored chap"
 image: "./ai-email-writing.webp"
@@ -12,20 +12,20 @@ faq:
   - question: "Is it okay to use AI to write emails?"
     answer: "Yes, for most professional emails. AI helps with drafting, not replacing your judgment. Always review before sending, add personal touches, and never use AI for highly sensitive communications without careful editing."
   - question: "Can people tell if an email was written by AI?"
-    answer: "Generic AI output is often detectable—it sounds too perfect, uses certain phrases repeatedly, and lacks personality. The solution: use AI for the first draft, then edit to add your voice and specific details."
+    answer: "Generic AI output is often detectable, it sounds too perfect, uses certain phrases repeatedly, and lacks personality. The solution: use AI for the first draft, then edit to add your voice and specific details."
   - question: "What's the best AI tool for email writing?"
     answer: "For general email drafting, ChatGPT and Claude both work excellently. For Gmail users, Gemini integrates directly. For Outlook users, Copilot is built-in. For grammar and tone, Grammarly is still the gold standard."
   - question: "How do I make AI emails sound more human?"
-    answer: "Add specific details AI doesn't know (names, inside references, context). Vary sentence length. Remove overly formal phrases. Add a personal touch at the end. Read it aloud—if it sounds robotic, edit it."
+    answer: "Add specific details AI doesn't know (names, inside references, context). Vary sentence length. Remove overly formal phrases. Add a personal touch at the end. Read it aloud, if it sounds robotic, edit it."
   - question: "Should I disclose that I used AI to write an email?"
     answer: "Not typically necessary for routine business emails, as you're still reviewing and taking responsibility. For academic or legal contexts, check specific policies. The key is that you verify and own the content."
-tldr: "Use AI to draft emails faster, not to replace thinking. Give context (who, what, tone), get a draft, then edit to add your voice. Best prompts include: recipient relationship, goal of email, desired tone, and any constraints. Always read before sending—AI drafts are starting points, not final products."
+tldr: "Use AI to draft emails faster, not to replace thinking. Give context (who, what, tone), get a draft, then edit to add your voice. Best prompts include: recipient relationship, goal of email, desired tone, and any constraints. Always read before sending, AI drafts are starting points, not final products."
 isListicle: false
 ---
 
 You spend hours on email every week. Much of it is repetitive: scheduling, following up, saying no politely, asking for things.
 
-AI can cut that time dramatically—without making you sound like a robot.
+AI can cut that time dramatically, without making you sound like a robot.
 
 Here's how to use AI for email writing effectively, with templates and prompts you can copy today.
 
@@ -55,10 +55,10 @@ Think of AI as a writing assistant who creates the first draft. You're still the
 
 Every AI email prompt needs four things:
 
-1. **Who** — Recipient and your relationship
-2. **What** — Purpose of the email
-3. **Tone** — How it should sound
-4. **Constraints** — Length, format, things to include/avoid
+1. **Who**, Recipient and your relationship
+2. **What**, Purpose of the email
+3. **Tone**, How it should sound
+4. **Constraints**, Length, format, things to include/avoid
 
 **Basic template:**
 
@@ -123,7 +123,7 @@ Tone: Professional, confident
 Goal: Get approval
 Include: Conference name/date, specific benefits to the team, 
 that I'll share learnings afterward
-Length: Keep it concise—managers are busy
+Length: Keep it concise, managers are busy
 ```
 
 ---
@@ -135,7 +135,7 @@ Length: Keep it concise—managers are busy
 Write an email to a vendor about consistently late deliveries. 
 This is the third time in two months.
 
-Tone: Firm but professional—not angry
+Tone: Firm but professional, not angry
 Goal: Get commitment to improvement, document the issue
 Include: Specific dates of late deliveries, impact on our work, 
 request for explanation and remediation plan
@@ -156,7 +156,7 @@ Tone: Confident, not salesy
 Goal: Get a 15-minute call
 Include: One specific observation about their current content, 
 brief credibility (worked with similar companies), clear CTA
-Length: Under 150 words—busy people won't read more
+Length: Under 150 words, busy people won't read more
 Avoid: Generic flattery, multiple CTAs, attachments
 ```
 
@@ -188,7 +188,7 @@ as a product manager.
 Tone: Friendly, approachable, professional
 Include: My background briefly, excitement about joining, 
 invitation to chat
-Length: Short—people will learn more about me over time
+Length: Short, people will learn more about me over time
 Avoid: Listing all my accomplishments, being too formal
 ```
 
@@ -277,7 +277,7 @@ went well, interviewer mentioned timeline of 2 weeks.
 
 For most people: Use ChatGPT or Claude for drafting (free), Grammarly for polish (free tier works).
 
-If you live in Gmail: Enable Gemini integration—it's surprisingly good and free.
+If you live in Gmail: Enable Gemini integration, it's surprisingly good and free.
 
 If you live in Outlook: Copilot is built in and improving fast.
 
@@ -297,13 +297,13 @@ AI drafts often have tells:
 **Add specifics AI doesn't know:**
 ```
 Before: "Thank you for your help with the project."
-After: "Thank you for staying late Tuesday to fix the dashboard bug—you saved the client demo."
+After: "Thank you for staying late Tuesday to fix the dashboard bug, you saved the client demo."
 ```
 
 **Vary your sentence length:**
 ```
 Before: "I wanted to follow up on our discussion. I think the proposal has merit. Let me know your thoughts."
-After: "Following up on our discussion. I think this proposal has real merit—especially the timeline. Thoughts?"
+After: "Following up on our discussion. I think this proposal has real merit, especially the timeline. Thoughts?"
 ```
 
 **Remove AI-isms:**
@@ -320,11 +320,11 @@ End with something only you would say. An inside joke, a reference to a shared e
 
 Some emails need to be fully human:
 
-- **Condolences or serious personal matters** — AI can't feel, and it shows
-- **Highly sensitive HR issues** — Too much at stake for AI errors
-- **Legal or contractual matters** — Review with actual humans
-- **Relationship-critical communications** — When authenticity matters most
-- **When you're told not to** — Some companies have AI policies
+- **Condolences or serious personal matters**, AI can't feel, and it shows
+- **Highly sensitive HR issues**, Too much at stake for AI errors
+- **Legal or contractual matters**, Review with actual humans
+- **Relationship-critical communications**, When authenticity matters most
+- **When you're told not to**, Some companies have AI policies
 
 For these, AI can help you *think through* what to say, but write it yourself.
 

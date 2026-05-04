@@ -23,7 +23,7 @@ If you're anything like me, your desk is a constant battleground between "gettin
 
 The beauty of owning a 3D printer isn't just making plastic dragons or articulated octopuses; it's the ability to solve specific, annoying problems in your environment for pennies. Whether you're working from home or trying to make your office cubicle feel more functional, 3D printing allows you to engineer your way out of frustration.
 
-In this guide, we aren't looking at "showcase" prints. We are looking at the highest-leverage upgrades you can make today—functional, fast, and incredibly cheap additions that transform a cluttered workspace into a high-performance cockpit.
+In this guide, we aren't looking at "showcase" prints. We are looking at the highest-leverage upgrades you can make today, functional, fast, and incredibly cheap additions that transform a cluttered workspace into a high-performance cockpit.
 
 ## The Psychology of the Perfect Desk
 
@@ -36,7 +36,7 @@ Visual clutter is more than just an eyesore; it’s a tax on your cognitive load
 ---
 
 ## 1. Under-Desk Cable Management Trays
-The "spaghetti monster" of cables under your desk isn't just ugly—it's a dust magnet and a trip hazard. Commercial cable trays often cost $20–$40 and require specific mounting hardware. A 3D-printed modular bracket system is superior because you can size it exactly to your power strip and cable volume.
+The "spaghetti monster" of cables under your desk isn't just ugly, it's a dust magnet and a trip hazard. Commercial cable trays often cost $20–$40 and require specific mounting hardware. A 3D-printed modular bracket system is superior because you can size it exactly to your power strip and cable volume.
 
 *   **The Problem:** Excess cable length hanging in the leg-well or bunching up behind the desk.
 *   **The Solution:** Interlocking J-hooks or a modular "spine" that mounts to the underside of the desk.
@@ -45,7 +45,7 @@ The "spaghetti monster" of cables under your desk isn't just ugly—it's a dust 
 *   **Search for:** "Modular Under-Desk Cable Tray" or "J-Hook Cable Manager."
 
 ## 2. The Gridfinity System
-Created by Zack Freedman, Gridfinity is the "open-source standard for desk organization." It’s a grid-based system where every bin, pen holder, and SD card tray locks into a baseplate. Once you print your first baseplate, you’ll never look at a drawer the same way again. You can find the full collection of Gridfinity files on [Printables](https://www.printables.com/model/274054-gridfinity-rebuilt-in-openscad) and [Thangs](https://thangs.com/search/gridfinity). (The original Gridfinity baseplates are actually built in OpenSCAD — if you want to customize your own bins, our [OpenSCAD beginner guide](/openscad-beginners-guide/) will get you started.)
+Created by Zack Freedman, Gridfinity is the "open-source standard for desk organization." It’s a grid-based system where every bin, pen holder, and SD card tray locks into a baseplate. Once you print your first baseplate, you’ll never look at a drawer the same way again. You can find the full collection of Gridfinity files on [Printables](https://www.printables.com/model/274054-gridfinity-rebuilt-in-openscad) and [Thangs](https://thangs.com/search/gridfinity). (The original Gridfinity baseplates are actually built in OpenSCAD, if you want to customize your own bins, our [OpenSCAD beginner guide](/openscad-beginners-guide/) will get you started.)
 
 *   **The Problem:** "Junk drawers" where batteries, paperclips, and thumb drives live in a chaotic soup.
 *   **The Solution:** A 4x4 or 5x5 grid baseplate and custom-sized bins for every specific tool you use.
@@ -152,10 +152,10 @@ Don't settle for the "shiny plastic" look.
 
 ## Conclusion: The ROI of a 3D-Printed Office
 
-When you add up the cost of these 10 items, the total filament usage is less than 250g—about a quarter of a standard $20 spool. For **$5.00 in plastic**, you can replace over $150 worth of branded desk accessories.
+When you add up the cost of these 10 items, the total filament usage is less than 250g, about a quarter of a standard $20 spool. For **$5.00 in plastic**, you can replace over $150 worth of branded desk accessories.
 
 But the real "return on investment" isn't the money saved; it’s the friction removed. When every tool has a home and every cable is routed, you stop fighting your environment and start working in it.
 
-**What’s the most useful thing you’ve printed for your desk?** Let us know or share your setup! Find more free models to print on [Printables](https://www.printables.com), [Thingiverse](https://www.thingiverse.com), and [Thangs](https://thangs.com). And if you want to get the most out of your printer itself, check out our list of [must-have 3D printing accessories](/must-have-3d-printing-accessories/) — or our [3D-printed coffee station upgrades](/3d-printing-for-coffee-nerds/) if your desk doubles as a barista station.
+**What’s the most useful thing you’ve printed for your desk?** Let us know or share your setup! Find more free models to print on [Printables](https://www.printables.com), [Thingiverse](https://www.thingiverse.com), and [Thangs](https://thangs.com). And if you want to get the most out of your printer itself, check out our list of [must-have 3D printing accessories](/must-have-3d-printing-accessories/), or our [3D-printed coffee station upgrades](/3d-printing-for-coffee-nerds/) if your desk doubles as a barista station.
 
 *New to the hobby? Check out our [Best 3D Printers Under $300](/best-3d-printers-under-300/) guide to find the machine that will build your next upgrade. Already have a printer and want to level up your whole workspace? See our [Desk Upgrade Guide](/desk-upgrade-guide/) for the full picture.*

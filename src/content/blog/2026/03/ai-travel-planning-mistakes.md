@@ -16,7 +16,7 @@ faq:
     answer: "Trusting AI-generated travel times. AI consistently underestimates how long it takes to get between places, especially when accounting for traffic, walking in heat, or public transit waits."
 ---
 
-AI travel planning tools are incredible—until they send you to a restaurant that closed two years ago, schedule a "quick 10-minute walk" that takes 45 minutes in tropical heat, or pack your days so full you need a vacation from your vacation.
+AI travel planning tools are incredible, until they send you to a restaurant that closed two years ago, schedule a "quick 10-minute walk" that takes 45 minutes in tropical heat, or pack your days so full you need a vacation from your vacation.
 
 Here are the 9 most common mistakes and how to avoid them.
 
@@ -41,7 +41,7 @@ Here are the 9 most common mistakes and how to avoid them.
 
 ## Mistake #2: Overplanning Your Days
 
-**What happens**: You ask AI for a "full day" itinerary and it delivers exactly that—a schedule packed from 8am to 10pm with no breathing room.
+**What happens**: You ask AI for a "full day" itinerary and it delivers exactly that, a schedule packed from 8am to 10pm with no breathing room.
 
 AI doesn't understand:
 - You might want to linger at that amazing café
@@ -105,13 +105,13 @@ AI doesn't know:
 1. Research AI's recommendations before committing
 2. Always ask "Why?" - "Why should I visit this? What type of traveler would love it?"
 3. Be honest about your preferences in prompts: "I get bored in museums after 30 minutes"
-4. Skip "must-sees" that don't excite you—it's your trip
+4. Skip "must-sees" that don't excite you, it's your trip
 
 ---
 
 ## Mistake #6: Using AI for Last-Minute Information
 
-**What happens**: You ask ChatGPT if a restaurant is open right now, or if there's a festival today, or what the weather will be—and trust the answer.
+**What happens**: You ask ChatGPT if a restaurant is open right now, or if there's a festival today, or what the weather will be, and trust the answer.
 
 **The problem**: AI doesn't have real-time information. Even AI with web access can miss current conditions.
 
@@ -193,11 +193,11 @@ What do insurance policies usually exclude that surprises travelers?
 **Strong approach**:
 - You: "Plan 3 days in Tokyo"
 - AI: [generic itinerary]
-- You: "Make it less touristy. I've seen the highlights on Instagram—what would a local do?"
+- You: "Make it less touristy. I've seen the highlights on Instagram, what would a local do?"
 - AI: [better itinerary]
 - You: "Day 2 looks too packed. What would you cut?"
 - AI: [realistic itinerary]
-- You: "Add more food experiences—I want to eat my way through Tokyo"
+- You: "Add more food experiences, I want to eat my way through Tokyo"
 - AI: [perfect itinerary]
 
 **The fix**:
@@ -238,8 +238,8 @@ Use AI for the **creative and structural work**. Handle the **verification and l
 
 ## Related Articles
 
-- [ChatGPT Mastery Guide](/chatgpt-guide/) — Avoid AI mistakes in general
-- [AI Travel Planning Hub](/ai-travel-planning/) — Complete travel guide
-- [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/) — Better prompts
-- [Best AI Trip Planners](/best-ai-trip-planners/) — Choose the right tool
-- [AI Tools Guide](/ai-tools-guide/) — All AI tools compared
+- [ChatGPT Mastery Guide](/chatgpt-guide/), Avoid AI mistakes in general
+- [AI Travel Planning Hub](/ai-travel-planning/), Complete travel guide
+- [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/), Better prompts
+- [Best AI Trip Planners](/best-ai-trip-planners/), Choose the right tool
+- [AI Tools Guide](/ai-tools-guide/), All AI tools compared

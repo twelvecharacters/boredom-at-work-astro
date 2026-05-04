@@ -1,7 +1,7 @@
 ---
 title: "15 Kindle Tips and Tricks You Probably Didn't Know"
 slug: "kindle-tips-and-tricks"
-description: "15 hidden Kindle features and tips — custom fonts, Vocabulary Builder, Send to Kindle, reading stats, and more. Get the most out of your e-reader."
+description: "15 hidden Kindle features and tips, custom fonts, Vocabulary Builder, Send to Kindle, reading stats, and more. Get the most out of your e-reader."
 publishDate: 2026-04-07
 author: "bored chap"
 image: "./kindle-tips-and-tricks.webp"
@@ -17,7 +17,7 @@ faq:
     answer: "Yes, all current Kindles support dark mode (white text on black background). Go to Settings > Accessibility or swipe down from the top and toggle it. Great for reading at night."
 ---
 
-Most people use about 10% of what their Kindle can do. They buy books, read books, and that's it. Nothing wrong with that — but you're leaving some genuinely useful features on the table.
+Most people use about 10% of what their Kindle can do. They buy books, read books, and that's it. Nothing wrong with that, but you're leaving some genuinely useful features on the table.
 
 Here are 15 tips that make the Kindle experience noticeably better. No [jailbreaking](/kindle-modding-guide/) required (though we have a guide for that too).
 
@@ -29,11 +29,11 @@ Here are 15 tips that make the Kindle experience noticeably better. No [jailbrea
 
 Every time you look up a word on your Kindle, it automatically saves it to Vocabulary Builder. You'll find it under Menu > Vocabulary Builder.
 
-It creates flashcards from the words you've looked up, with the sentence you found them in as context. If you're reading in a second language or just want to expand your vocabulary, this feature is gold — and most people don't even know it exists.
+It creates flashcards from the words you've looked up, with the sentence you found them in as context. If you're reading in a second language or just want to expand your vocabulary, this feature is gold, and most people don't even know it exists.
 
 ### 2. X-Ray
 
-Tap the top of the screen while reading, then hit the X-Ray button. It shows you every character, term, and concept mentioned in the book — with a frequency map showing where they appear across chapters.
+Tap the top of the screen while reading, then hit the X-Ray button. It shows you every character, term, and concept mentioned in the book, with a frequency map showing where they appear across chapters.
 
 Incredibly useful for dense novels with large casts (looking at you, *War and Peace*). Forgot who a character is? X-Ray tells you instantly without spoilers.
 
@@ -41,7 +41,7 @@ Not available for every book, but most popular titles support it.
 
 ### 3. Word Wise
 
-Go to Aa > More Options > Word Wise and turn it on. Short, simple definitions appear above difficult words as you read — inline, without interrupting the text.
+Go to Aa > More Options > Word Wise and turn it on. Short, simple definitions appear above difficult words as you read, inline, without interrupting the text.
 
 This is a game-changer for ESL readers or anyone tackling challenging literature. You can adjust the difficulty level so it only shows hints for the hardest words.
 
@@ -63,7 +63,7 @@ Long-press on a page in the Page Flip view to preview it. When you close Page Fl
 
 ### 6. Collections
 
-Swipe down from the library view and tap "Collections" to organize your books into folders. You can create collections by genre, reading status, mood — whatever makes sense to you.
+Swipe down from the library view and tap "Collections" to organize your books into folders. You can create collections by genre, reading status, mood, whatever makes sense to you.
 
 A book can belong to multiple collections. I use: "Currently Reading," "Up Next," "Favorites," and genre-based collections. Keeps the library manageable once you have 100+ books.
 
@@ -75,7 +75,7 @@ This is how you get free ebooks from sites like [Project Gutenberg](https://www.
 
 ### 8. Dark Mode
 
-All current Kindles have dark mode — white text on a black background. Toggle it from the quick settings (swipe down from the top) or go to Settings > Accessibility.
+All current Kindles have dark mode, white text on a black background. Toggle it from the quick settings (swipe down from the top) or go to Settings > Accessibility.
 
 Useful for nighttime reading with the light turned low. Combined with the warm frontlight, it's extremely easy on the eyes. Some people find it actually reduces eye strain during long sessions.
 
@@ -83,7 +83,7 @@ Useful for nighttime reading with the light turned low. Combined with the warm f
 
 Some Kindle models let you link your [Goodreads](https://www.goodreads.com) account in Settings > Your Account > Social Networks. When connected, your Kindle can mark books as "Currently Reading" and "Read" on your Goodreads profile.
 
-You can also rate and review books directly from the Kindle when you finish them. Note: Amazon has been scaling back this integration on newer firmware — the feature may not be available on all models. Check your settings to see if the option appears.
+You can also rate and review books directly from the Kindle when you finish them. Note: Amazon has been scaling back this integration on newer firmware, the feature may not be available on all models. Check your settings to see if the option appears.
 
 ### 10. Airplane Mode for Battery
 
@@ -97,7 +97,7 @@ With airplane mode on, expect 8–10+ weeks on a single charge with daily readin
 
 ### 11. Screenshots
 
-Press opposite corners of the screen simultaneously (top-left and bottom-right, or top-right and bottom-left). The screen will flash — that's your screenshot.
+Press opposite corners of the screen simultaneously (top-left and bottom-right, or top-right and bottom-left). The screen will flash, that's your screenshot.
 
 Screenshots save to the root directory when you connect via USB. Useful for sharing quotes, saving book recommendations, or documenting reading stats.
 
@@ -111,7 +111,7 @@ This is a hidden gem for students, researchers, or anyone who highlights a lot. 
 
 Go to Settings > Your Account > Household & Family Library. You can set up a kid's profile with age filters, vocabulary goals, and achievement badges.
 
-Even if you don't have kids, the "Profile" feature lets you create separate reading profiles on one device — handy if you share a Kindle with a partner.
+Even if you don't have kids, the "Profile" feature lets you create separate reading profiles on one device, handy if you share a Kindle with a partner.
 
 ### 14. Custom Screensavers (No Jailbreak)
 
@@ -126,7 +126,7 @@ It's not fully custom screensavers (that still requires [jailbreaking](/kindle-m
 - Convert between ebook formats (EPUB → AZW3, PDF → EPUB)
 - Edit metadata and covers
 - Organize your entire library
-- Remove DRM (legal gray area — be aware)
+- Remove DRM (legal gray area, be aware)
 - Send books wirelessly to your Kindle
 
 If you buy ebooks from multiple sources or download free books regularly, Calibre is essential. See our [Kindle modding guide](/kindle-modding-guide/) for a full Calibre setup walkthrough.
@@ -139,7 +139,7 @@ If you buy ebooks from multiple sources or download free books regularly, Calibr
 
 Tap the bottom-left corner of the screen while reading. You can cycle through: location number, page number, time left in chapter, and time left in book.
 
-Most Kindles default to showing "Location" — a meaningless number that tells you nothing. Switch it to "Page X of Y" and you'll actually know how far along you are. Or set it to "Time left in chapter" if you're the "just one more chapter" type.
+Most Kindles default to showing "Location", a meaningless number that tells you nothing. Switch it to "Page X of Y" and you'll actually know how far along you are. Or set it to "Time left in chapter" if you're the "just one more chapter" type.
 
 It's a tiny change that makes reading feel more natural. You're welcome.
 

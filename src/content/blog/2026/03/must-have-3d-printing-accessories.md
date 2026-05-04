@@ -15,7 +15,7 @@ faq:
     answer: "While it works in a pinch, 90% or 99% Isopropyl Alcohol is much better at dissolving oils and grease, which is essential for bed adhesion."
   - question: "What is a deburring tool used for?"
     answer: "It features a swiveling curved blade that effortlessly removes sharp edges and 'elephant's foot' from the bottom of your prints, leaving a professional chamfered edge."
-tldr: "Don't just buy the printer—build the workshop. From precision calipers to holographic build plates and safety sensors, this guide covers every tool you need to master 3D printing."
+tldr: "Don't just buy the printer, build the workshop. From precision calipers to holographic build plates and safety sensors, this guide covers every tool you need to master 3D printing."
 isListicle: true
 ---
 
