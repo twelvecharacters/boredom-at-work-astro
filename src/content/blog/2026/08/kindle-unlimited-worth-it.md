@@ -2,7 +2,7 @@
 title: "Is Kindle Unlimited Worth It? I Did the Math (2026)"
 slug: "kindle-unlimited-worth-it"
 description: "I tracked 6 months of reading and crunched the numbers. Here's whether Kindle Unlimited is worth $11.99/month — and who should skip it."
-publishDate: 2026-08-11
+publishDate: 2026-05-07
 author: "bored chap"
 image: "./kindle-unlimited-worth-it.webp"
 imageAlt: "Kindle with Unlimited catalog and cost breakdown illustration"
