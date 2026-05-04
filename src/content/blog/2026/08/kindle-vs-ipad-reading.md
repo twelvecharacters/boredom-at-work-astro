@@ -2,7 +2,7 @@
 title: "Kindle vs iPad for Reading: Which One Should You Get? (2026)"
 slug: "kindle-vs-ipad-reading"
 description: "Kindle vs iPad for reading — screen, battery, weight, distractions, and price compared. Find out which device fits your reading habits in 2026."
-publishDate: 2026-08-13
+publishDate: 2026-05-14
 author: "bored chap"
 image: "./kindle-vs-ipad-reading.webp"
 imageAlt: "Side-by-side comparison of Kindle and iPad for reading books"
