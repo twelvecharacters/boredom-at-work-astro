@@ -3,7 +3,7 @@ title: "20 Best Functional 3D Prints That Are Actually Useful (2026)"
 slug: "best-functional-3d-prints"
 description: "Skip the toys, these 20 functional 3D prints solve real problems at your desk, home, and tech setup. Print times, difficulty, and STL sources included."
 publishDate: 2026-08-29
-author: "bored chap"
+author: "Mehdi"
 image: "./best-functional-3d-prints.webp"
 imageAlt: "Collection of functional 3D printed objects for desk and home use"
 tags: ["3D Printing", "Home Office", "Desk Accessories", "Productivity", "Projects"]

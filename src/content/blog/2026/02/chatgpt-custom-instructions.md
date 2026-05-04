@@ -2,7 +2,7 @@
 title: "ChatGPT Custom Instructions: Best Practices + Templates (2026)"
 description: "ChatGPT custom instructions best practices, examples, and copy-paste templates for work, writing, and coding. Get better responses in 5 minutes."
 publishDate: 2026-02-13
-author: "bored chap"
+author: "Mehdi"
 image: "./chatgpt-custom-instructions.webp"
 imageAlt: "ChatGPT custom instructions settings panel on a screen"
 tags: ["AI", "ChatGPT", "Productivity", "Tutorial"]

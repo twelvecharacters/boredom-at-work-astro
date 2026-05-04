@@ -3,7 +3,7 @@ title: "AI Travel Planning: Complete Guide to AI Trip Planning"
 slug: "ai-travel-planning"
 description: "Master AI-powered trip planning with our comprehensive guide. Learn what AI travel planning is, which tools to use, and how to save 10+ hours on your next trip."
 publishDate: 2026-02-28
-author: "bored chap"
+author: "Mehdi"
 image: "./ai-travel-planning.webp"
 imageAlt: "Illustration showing AI travel planning with map and itinerary elements"
 tags: ["AI", "Travel", "ChatGPT", "Trip Planning", "Hub Page"]

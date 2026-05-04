@@ -3,7 +3,7 @@ title: "AI Planned My Solo Istanbul Trip, Here's What I Actually Did"
 slug: "ai-planned-istanbul-solo-trip"
 description: "I had AI plan a 3-day solo Istanbul trip. I followed maybe 40% of it, and the trip was better for it. Real costs, photos, and lessons."
 publishDate: 2026-05-09
-author: "bored chap"
+author: "Mehdi"
 image: "./ai-planned-istanbul-solo-trip.webp"
 imageAlt: "Interior view of the Blue Mosque (Sultan Ahmed Camii) in Istanbul with its iconic blue Iznik tiles and central dome"
 tags: ["AI Travel", "Istanbul", "Solo Travel", "ChatGPT", "Travel"]

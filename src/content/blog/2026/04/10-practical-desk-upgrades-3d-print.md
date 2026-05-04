@@ -3,7 +3,7 @@ title: "10 Practical Desk Upgrades You Can 3D Print for Under $1"
 slug: "10-practical-desk-upgrades-3d-print"
 description: "Transform your workspace from a cable-cluttered mess to a productivity powerhouse with these 10 cheap, fast, and functional 3D prints."
 publishDate: 2026-04-12
-author: "bored chap"
+author: "Mehdi"
 image: "./10-practical-desk-upgrades.webp"
 imageAlt: "Ten 3D printed desk upgrade accessories arranged on a workspace"
 tags: ["3D Printing", "Desk Setup", "Productivity", "DIY", "Organization"]

@@ -3,7 +3,7 @@ title: "How to Learn AI While Looking Busy at Work"
 slug: "learn-ai-while-looking-busy"
 description: "Learn AI skills during work downtime. Stealth learning strategies, workplace-friendly platforms, and how to turn boredom into career advancement."
 publishDate: 2026-01-10
-author: "bored chap"
+author: "Mehdi"
 tags: ["AI Learning", "Productivity", "Career Tips", "Tutorial"]
 image: "./looking-busy.webp"
 imageAlt: "Person discreetly learning AI skills at an office desk"

@@ -4,7 +4,7 @@ slug: "camera-vs-smartphone"
 description: "Is a dedicated camera still worth it in 2026? We compare smartphone vs camera for low light, zoom, portraits, and video, with real-world samples."
 publishDate: 2026-01-03
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./camera-vs-smartphone.webp"
 imageAlt: "Side-by-side comparison of a dedicated camera and smartphone camera"
 tags: ["Photography", "Cameras", "Smartphones", "Buying Guide"]

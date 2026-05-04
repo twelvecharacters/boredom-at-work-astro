@@ -3,7 +3,7 @@ title: "7 Best Laptop Stands for Home Office (2026) [Tested]"
 slug: "best-laptop-stands"
 description: "I compared 7 popular laptop stands from ~$15 to ~$90, Rain Design, Roost, Nulaxy, and more. Here's which ones actually fix your posture at work."
 publishDate: 2026-05-01
-author: "bored chap"
+author: "Mehdi"
 image: "./best-laptop-stands.webp"
 imageAlt: "Collection of laptop stands at different heights on a desk"
 tags: ["Office Setup", "Laptop Stands", "Work From Home", "Desk Accessories", "Buying Guide"]

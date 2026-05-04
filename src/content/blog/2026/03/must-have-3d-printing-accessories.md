@@ -3,7 +3,7 @@ title: "15 Must-Have 3D Printing Accessories for Every Maker"
 slug: "must-have-3d-printing-accessories"
 description: "The 15 best 3D printing accessories from calipers and scrapers to deburring tools, filament dryers, and fire safety. The complete maker's toolkit."
 publishDate: 2026-04-02
-author: "bored chap"
+author: "Mehdi"
 image: "./must-have-3d-printing-accessories.webp"
 imageAlt: "Collection of essential 3D printing accessories and tools"
 tags: ["3D Printing", "Accessories", "Tools", "DIY", "Beginners"]

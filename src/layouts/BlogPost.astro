@@ -17,7 +17,7 @@ import AuthorBio from '../components/AuthorBio.astro';
 import PortfolioAnalyzer from '../components/tools/PortfolioAnalyzer.astro';
 import EarningsPromptKit from '../components/tools/EarningsPromptKit.astro';
 import ScreenerCostCalculator from '../components/tools/ScreenerCostCalculator.astro';
-import { SITE } from '../config';
+import { SITE, AUTHOR } from '../config';
 import { getPostSlug } from '../utils/blog';
 import type { CollectionEntry } from 'astro:content';
 import SideBanner from '../components/SideBanner.astro';
@@ -328,7 +328,15 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
     },
     "author": {
       "@type": "Person",
-      "name": author
+      "name": author,
+      "url": AUTHOR.url,
+      "image": new URL(AUTHOR.photo, Astro.site).toString(),
+      "jobTitle": AUTHOR.jobTitle,
+      "sameAs": [
+        AUTHOR.social.linkedin,
+        AUTHOR.social.youtube,
+        AUTHOR.social.companyLinkedin,
+      ].filter(Boolean)
     },
     "publisher": {
       "@type": "Organization",

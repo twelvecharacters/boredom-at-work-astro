@@ -3,7 +3,7 @@ title: "I Let AI Plan My London Weekend, Here's What Actually Happened"
 slug: "ai-planned-london-weekend"
 description: "A real trip report: I used Clawd.bot to plan a gluten-free weekend in London. MJ The Musical, Chinatown, and three restaurants without a single celiac reaction."
 publishDate: 2026-02-15
-author: "bored chap"
+author: "Mehdi"
 image: "./ai-london-trip-chinatown.webp"
 imageAlt: "AI-planned London trip scene with Chinatown and city landmarks"
 tags: ["AI", "Travel", "London", "Gluten-Free", "Trip Planning"]

@@ -3,7 +3,7 @@ title: "3D Printing Guide 2026: Everything You Need to Know"
 slug: "3d-printing-guide"
 description: "From choosing your first printer to selling your prints, this complete 3D printing guide covers everything beginners need. Start your journey here."
 publishDate: 2026-02-28
-author: "bored chap"
+author: "Mehdi"
 image: "./3d-printing-guide.webp"
 imageAlt: "Illustration showing 3D printing concepts from printer to finished objects"
 tags: ["3D Printing", "Beginners", "Guide", "Hub Page"]

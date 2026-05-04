@@ -3,7 +3,7 @@ title: "How Much Does 3D Printing Cost? Complete Breakdown (2026)"
 slug: "3d-printing-cost-guide"
 description: "What does 3D printing actually cost? Full breakdown of printer prices, filament, electricity, and hidden costs with real examples and honest math."
 publishDate: 2026-08-25
-author: "bored chap"
+author: "Mehdi"
 image: "./3d-printing-cost-guide.webp"
 imageAlt: "Illustration showing 3D printing cost breakdown with printer and filament"
 tags: ["3D Printing", "Buying Guide", "Beginners", "Budget"]

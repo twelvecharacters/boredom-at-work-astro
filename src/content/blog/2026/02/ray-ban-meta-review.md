@@ -3,7 +3,7 @@ title: "Ray-Ban Meta Smart Glasses Review After 2 Weeks of Use"
 slug: "ray-ban-meta-review"
 description: "My honest Ray-Ban Meta review after 2 weeks of daily use, including a helicopter flight over Dubai. Camera, battery, audio, the full picture."
 publishDate: 2026-02-14
-author: "bored chap"
+author: "Mehdi"
 image: "./ray-ban-meta-review.webp"
 imageAlt: "Ray-Ban Meta smart glasses on a desk in a modern setting"
 tags: ["Tech & Gadgets", "Smart Glasses", "Meta", "Ray-Ban", "Review"]

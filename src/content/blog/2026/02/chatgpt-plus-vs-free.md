@@ -3,7 +3,7 @@ title: "ChatGPT Plus vs Free: Is $20/Month Actually Worth It?"
 description: "Honest comparison of ChatGPT Plus vs Free in 2026. What you get, what you miss, and whether the $20/month is worth it for your needs."
 publishDate: 2026-02-04
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./chatgpt-plus-vs-free.webp"
 imageAlt: "Side-by-side comparison of ChatGPT Plus and Free tier features"
 tags: ["AI", "ChatGPT", "Productivity", "Comparison"]

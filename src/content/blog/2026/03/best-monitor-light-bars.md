@@ -4,7 +4,7 @@ slug: "best-monitor-light-bars"
 description: "The best monitor light bars for your home office compared. From the BenQ ScreenBar Halo to budget picks under $40, find the right one for your desk setup."
 publishDate: 2026-03-25
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./best-monitor-light-bars.webp"
 imageAlt: "Collection of monitor light bars mounted on screens in a home office"
 tags: ["Office Setup", "Monitor Accessories", "Work From Home", "Desk Accessories", "Buying Guide"]

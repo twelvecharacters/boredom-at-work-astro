@@ -3,7 +3,7 @@ title: "7 Best Free Stock Screeners [Tested], I Use These Daily"
 slug: "best-free-stock-screeners"
 description: "I tested every major free stock screener so you don't have to. Here are the 7 best for filtering stocks by fundamentals, technicals, and dividends in 2026."
 publishDate: 2026-05-22
-author: "bored chap"
+author: "Mehdi"
 image: "./best-free-stock-screeners.webp"
 imageAlt: "Collection of free stock screener interfaces showing filter options"
 tags: ["Investing", "Stock Screeners", "Finance Tools", "Stock Market", "Beginners"]

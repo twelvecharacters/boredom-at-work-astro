@@ -4,7 +4,7 @@ slug: "best-ai-tools-office-work"
 description: "Automate email replies, meeting notes, report writing, and data entry. These 15 AI tools handle the office tasks you hate, tested on real workflows."
 publishDate: 2026-02-08
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./best-ai-tools-office-work.webp"
 imageAlt: "Collection of AI tools for office work displayed on a laptop screen"
 tags: ["AI", "Productivity", "Office", "Tools", "Work"]

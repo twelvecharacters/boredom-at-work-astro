@@ -4,7 +4,7 @@ slug: "chatgpt-guide"
 description: "Go beyond basic prompts. Master Custom Instructions, GPTs, plugins, and real workflows that save hours. The complete ChatGPT reference for 2026."
 publishDate: 2026-02-28
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./chatgpt-guide.webp"
 imageAlt: "Illustration showing advanced ChatGPT features and workflows"
 tags: ["ChatGPT", "AI", "Productivity", "OpenAI", "Hub Page"]

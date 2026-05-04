@@ -3,7 +3,7 @@ title: "AI Skills That Will Get You Promoted in 2026"
 slug: "ai-skills-for-promotion"
 description: "The specific AI skills that lead to promotions. What to focus on, how to demonstrate value, and a 30-day plan to build promotable AI skills."
 publishDate: 2025-12-26
-author: "bored chap"
+author: "Mehdi"
 tags: ["Career Development", "AI Skills", "Promotion"]
 image: "./ai-skills-promotion.webp"
 imageAlt: "Professional using AI tools at a modern office desk"

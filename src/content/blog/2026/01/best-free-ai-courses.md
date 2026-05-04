@@ -4,7 +4,7 @@ slug: "best-free-ai-courses"
 description: "The 7 best free AI courses from Google, IBM, and OpenAI, ranked by career impact. No credit card needed, all completable during work hours."
 publishDate: 2026-01-02
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./best-ai-free-courses.webp"
 imageAlt: "Collection of free AI course logos from Google, IBM, and OpenAI"
 tags: ["AI Courses", "Free Learning", "Career Development"]

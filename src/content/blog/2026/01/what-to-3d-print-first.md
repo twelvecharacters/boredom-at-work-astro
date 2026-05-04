@@ -3,7 +3,7 @@ title: "What Should I 3D Print First? 25 Beginner Projects"
 slug: "what-to-3d-print-first"
 description: "Your first 3D print is coming up? Here are 25 perfect beginner projects from test prints to practical objects - sorted by difficulty level."
 publishDate: 2026-01-13
-author: "bored chap"
+author: "Mehdi"
 image: "./first-3d-prints.webp"
 imageAlt: "Collection of beginner 3D print projects arranged on a clean background"
 tags: ["3D Printing", "Beginners", "Projects", "Ideas", "Printables"]

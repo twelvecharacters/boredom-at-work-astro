@@ -3,7 +3,7 @@ title: "30 Best Free macOS Apps in 2026 (+ Homebrew Guide)"
 slug: "best-free-macos-software"
 description: "The 30 best free macOS apps for productivity, creativity, and system utilities, plus a complete Homebrew setup guide for beginners in 2026."
 publishDate: 2026-02-25
-author: "bored chap"
+author: "Mehdi"
 image: "./free-macos-software.webp"
 imageAlt: "Collection of free macOS app icons arranged on a Mac desktop"
 tags: ["Tech & Gadgets", "macOS", "Free Software", "Homebrew", "Productivity"]

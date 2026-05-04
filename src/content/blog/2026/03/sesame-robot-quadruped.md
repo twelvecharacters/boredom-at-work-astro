@@ -3,7 +3,7 @@ title: "Sesame Robot: The Most Adorable DIY Quadruped You Can 3D Print"
 slug: "sesame-robot-quadruped"
 description: "Build the Sesame Robot, an open-source 3D-printed quadruped with personality, OLED eyes, and WiFi control. Full BOM, print settings, and build guide inside."
 publishDate: 2026-03-22
-author: "bored chap"
+author: "Mehdi"
 image: "./sesame-robot.webp"
 imageAlt: "Sesame Robot 3D printed quadruped with OLED eyes on a desk"
 tags: ["3D Printing", "Robotics", "DIY", "ESP32", "Open Source"]

@@ -2,7 +2,7 @@
 title: "AI Packing Lists & Travel Checklists (2026)"
 description: "Let AI create the perfect packing list for your trip. Copy these prompts for destination-specific lists, carry-on optimization, and pre-trip checklists."
 publishDate: 2026-05-04
-author: "bored chap"
+author: "Mehdi"
 image: "./ai-packing-list.webp"
 imageAlt: "AI-generated packing list with travel checklist items on a screen"
 tags: ["AI", "Travel", "Packing", "Productivity", "AI Travel"]

@@ -2,7 +2,7 @@
 title: "The Data Sovereignty Guide: Synology vs. QNAP vs. Ugreen vs. DIY NAS in 2026"
 description: "Cloud storage is getting expensive and less private. We compare the NAS contenders, Synology, QNAP, Ugreen, and DIY, to help you build your own digital bunker."
 publishDate: 2026-04-28
-author: "bored chap"
+author: "Mehdi"
 image: "./nas-comparison-guide-2026.png"
 tags: ["NAS", "Self-Hosting", "Synology", "QNAP", "Ugreen", "TrueNAS", "Unraid"]
 slug: "nas-comparison-guide-2026"

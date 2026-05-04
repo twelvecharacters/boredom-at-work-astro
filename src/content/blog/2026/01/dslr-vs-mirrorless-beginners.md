@@ -3,7 +3,7 @@ title: "DSLR vs Mirrorless for Beginners (2026)"
 slug: "dslr-vs-mirrorless-beginners"
 description: "DSLR or mirrorless camera? We explain the key differences, pros and cons, and help beginners decide which camera type is right for their photography journey."
 publishDate: 2026-01-06
-author: "bored chap"
+author: "Mehdi"
 image: "./dslr-vs-mirrorless.webp"
 imageAlt: "Side-by-side comparison of a DSLR and mirrorless camera"
 tags: ["Photography", "Cameras", "DSLR", "Mirrorless", "Beginners"]

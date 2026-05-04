@@ -4,7 +4,7 @@ slug: "best-ai-courses-coursera"
 description: "I took every major Coursera AI course and ranked them. Google AI Essentials, DeepLearning.AI, and Stanford ML compared, see which one is worth your time."
 publishDate: 2025-12-30
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 tags: ["Coursera", "AI Courses", "Online Learning"]
 image: "./coursera-courses.webp"
 imageAlt: "Coursera AI course logos from Google, Stanford, and IBM on a minimal background"

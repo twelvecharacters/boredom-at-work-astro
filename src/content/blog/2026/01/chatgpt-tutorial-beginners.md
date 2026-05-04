@@ -4,7 +4,7 @@ slug: "chatgpt-tutorial-beginners"
 description: "New to ChatGPT? This quickstart gets you from zero to productive in 30 minutes. Write your first prompt, avoid common mistakes, and see real examples."
 publishDate: 2026-01-05
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./chatgpt.webp"
 imageAlt: "ChatGPT interface on a laptop screen in a modern workspace"
 tags: ["ChatGPT", "AI", "Tutorial", "Beginners"]

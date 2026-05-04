@@ -2,7 +2,7 @@
 title: "AI Trip Planning: Japan - The Complete Guide for 2026"
 description: "Plan your perfect Japan trip with AI. From cherry blossoms to autumn colors, learn how to use ChatGPT, Gemini, and flight agents for Japan travel."
 publishDate: 2026-06-01
-author: "bored chap"
+author: "Mehdi"
 image: "./ai-trip-planning-japan.webp"
 imageAlt: "Japan travel scene with temples and cherry blossoms from an AI-planned trip"
 tags: ["AI", "Travel", "Japan", "Asia", "AI Travel"]

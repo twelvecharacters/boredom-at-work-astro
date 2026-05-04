@@ -3,7 +3,7 @@ title: "7 Best Webcams for Working From Home (I Tested Them)"
 slug: "best-webcams-working-from-home"
 description: "The best webcams for working from home compared. From 4K options to budget picks under $70, I tested 7 webcams so you don't look terrible on your next call."
 publishDate: 2026-03-16
-author: "bored chap"
+author: "Mehdi"
 image: "./best-webcams-working-from-home.webp"
 imageAlt: "Collection of webcams for working from home mounted on monitors"
 tags: ["Work From Home", "Office Setup", "Video Calls", "Webcams", "Buying Guide"]

@@ -3,7 +3,7 @@ title: "AI vs. Traditional Stock Screeners: Which One Should You Use?"
 slug: "ai-vs-traditional-stock-screeners"
 description: "ChatGPT and Perplexity vs. Finviz and TradingView for stock screening. We compare features, accuracy, and pricing to help you pick the right approach."
 publishDate: 2026-07-17
-author: "bored chap"
+author: "Mehdi"
 image: "./ai-vs-traditional-stock-screeners.webp"
 imageAlt: "Side-by-side comparison of AI and traditional stock screener interfaces"
 tags: ["AI Tools", "Investing", "Stock Screeners", "ChatGPT", "Finance"]

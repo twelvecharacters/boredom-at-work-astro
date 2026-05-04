@@ -3,7 +3,7 @@ title: "15 Kindle Tips and Tricks You Probably Didn't Know"
 slug: "kindle-tips-and-tricks"
 description: "15 hidden Kindle features and tips, custom fonts, Vocabulary Builder, Send to Kindle, reading stats, and more. Get the most out of your e-reader."
 publishDate: 2026-04-07
-author: "bored chap"
+author: "Mehdi"
 image: "./kindle-tips-and-tricks.webp"
 imageAlt: "Kindle e-reader showing hidden features and customization options"
 tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Tips", "Productivity"]

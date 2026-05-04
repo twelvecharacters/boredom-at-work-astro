@@ -3,7 +3,7 @@ title: "Buyee vs Sendico: Best Japan Proxy Service in 2026"
 slug: "buyee-vs-sendico-japan-proxy"
 description: "A detailed comparison of Buyee and Sendico proxy services. Find out which one offers better fees, shipping, and service for buying from Japan."
 publishDate: 2026-01-15
-author: "bored chap"
+author: "Mehdi"
 image: "./buyee-vs-sendico.webp"
 imageAlt: "Side-by-side comparison of Buyee and Sendico proxy service interfaces"
 tags: ["Japan Shopping", "Proxy Services", "Buyee", "Sendico", "Import Guide"]

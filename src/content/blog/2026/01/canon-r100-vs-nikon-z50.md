@@ -3,7 +3,7 @@ title: "Canon EOS R100 vs Nikon Z50 II: Which Beginner Camera Is Better?"
 slug: "canon-r100-vs-nikon-z50"
 description: "Canon R100 or Nikon Z50 II? We compare these popular beginner mirrorless cameras head-to-head on image quality, autofocus, features, and value."
 publishDate: 2026-01-04
-author: "bored chap"
+author: "Mehdi"
 image: "./canon-r100-vs-nikon-z50.webp"
 imageAlt: "Side-by-side comparison of Canon EOS R100 and Nikon Z50 II cameras"
 tags: ["Photography", "Cameras", "Canon", "Nikon", "Comparison"]

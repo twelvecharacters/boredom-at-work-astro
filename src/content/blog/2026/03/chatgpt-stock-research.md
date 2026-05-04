@@ -3,7 +3,7 @@ title: "ChatGPT for Stock Research: 10 Prompts I Actually Use"
 slug: "chatgpt-stock-research"
 description: "I use ChatGPT to research stocks during lunch breaks. Here are 10 prompts that actually work, what ChatGPT gets right, and where it falls short in 2026."
 publishDate: 2026-03-04
-author: "bored chap"
+author: "Mehdi"
 image: "./chatgpt-stock-research.webp"
 imageAlt: "ChatGPT interface showing stock research prompts and analysis"
 tags: ["ChatGPT", "Investing", "Stock Market", "AI", "Finance Tools"]

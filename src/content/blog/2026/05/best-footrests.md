@@ -3,7 +3,7 @@ title: "7 Best Under-Desk Footrests for Home Office (2026)"
 slug: "best-footrests"
 description: "I compared 7 under-desk footrests from ~$20 to ~$180. Foam, rocking, and tilting, here's which ones actually help with posture and comfort while working."
 publishDate: 2026-05-08
-author: "bored chap"
+author: "Mehdi"
 image: "./best-footrests.webp"
 imageAlt: "Collection of under-desk footrests in different styles on a floor"
 tags: ["Office Setup", "Desk Accessories", "Ergonomics", "Home Office", "Buying Guide"]

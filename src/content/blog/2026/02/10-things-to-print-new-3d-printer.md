@@ -3,7 +3,7 @@ title: "10 Things You Should 3D Print First (New Printer)"
 slug: "10-things-to-print-new-3d-printer"
 description: "Just unboxed your first 3D printer? Skip the dust-collectors, here are 10 functional prints that upgrade your desk and workflow."
 publishDate: 2026-02-12
-author: "bored chap"
+author: "Mehdi"
 image: "./10-things-to-3d-print-first.webp"
 imageAlt: "Ten functional 3D printed desk accessories arranged on a clean surface"
 tags: ["3D Printing", "Beginner", "Productivity", "Desk Setup", "Organization"]

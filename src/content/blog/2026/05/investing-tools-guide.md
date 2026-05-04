@@ -3,7 +3,7 @@ title: "Investing Tools Guide: Everything You Need to Start (2026)"
 slug: "investing-tools-guide"
 description: "The complete guide to investing tools for beginners. Brokerage apps, screeners, trackers, and learning resources, organized by what you actually need."
 publishDate: 2026-05-15
-author: "bored chap"
+author: "Mehdi"
 image: "./investing-tools-guide.webp"
 imageAlt: "Illustration showing investing tools organized by category for beginners"
 tags: ["Investing", "Finance Tools", "Personal Finance", "Beginners", "Hub Page"]

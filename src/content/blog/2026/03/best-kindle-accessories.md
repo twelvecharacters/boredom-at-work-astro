@@ -4,7 +4,7 @@ slug: "best-kindle-accessories"
 description: "The 10 best Kindle accessories from cases and stands to screen protectors, grips, and wireless chargers. Only the ones actually worth buying."
 publishDate: 2026-03-29
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./best-kindle-accessories.webp"
 imageAlt: "Collection of Kindle accessories including cases, stands, and chargers"
 tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Accessories", "Amazon"]

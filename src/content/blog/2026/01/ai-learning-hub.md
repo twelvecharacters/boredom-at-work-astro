@@ -3,7 +3,7 @@ title: "Master AI Skills at Work: The Complete Learning Path"
 slug: "ai-learning-hub"
 description: "Everything you need to learn AI during work hours. Free courses, tutorials, tools, and practical skills that actually matter for your career in 2026."
 publishDate: 2026-01-28
-author: "bored chap"
+author: "Mehdi"
 image: "./ai-learning-hub.webp"
 imageAlt: "Illustration showing AI learning paths and skill development tools"
 tags: ["AI", "Learning", "Career Development", "Productivity", "Hub Page"]

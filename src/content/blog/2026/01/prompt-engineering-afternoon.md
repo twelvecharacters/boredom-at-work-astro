@@ -3,7 +3,7 @@ title: "Learn Prompt Engineering in One Afternoon"
 slug: "prompt-engineering-afternoon"
 description: "Master prompt engineering in one afternoon. Core principles, advanced techniques, and templates for better results from ChatGPT and AI tools."
 publishDate: 2026-01-12
-author: "bored chap"
+author: "Mehdi"
 tags: ["Prompt Engineering", "ChatGPT", "AI Skills", "Tutorial"]
 image: "./prompt-engineering.webp"
 imageAlt: "Illustration showing prompt engineering concepts and AI chat interface"

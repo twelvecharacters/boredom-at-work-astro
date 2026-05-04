@@ -3,7 +3,7 @@ title: "Gemini CLI Guide: How to Use Google's AI in Your Terminal"
 slug: "gemini-cli-guide"
 description: "How to install and use Gemini CLI for AI-powered coding, task automation, and project analysis. A complete guide to Google's terminal AI agent."
 publishDate: 2026-03-31
-author: "bored chap"
+author: "Mehdi"
 image: "./gemini-cli-guide.webp"
 imageAlt: "A terminal window showing the Gemini CLI interface with AI-powered code assistance."
 tags: ["AI", "Gemini", "CLI", "Developer Tools", "Productivity"]

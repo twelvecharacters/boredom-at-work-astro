@@ -4,7 +4,7 @@ slug: "best-ai-chrome-extensions"
 description: "The only AI Chrome extensions worth installing: summarize any page, write emails faster, and research smarter, without leaving your browser."
 publishDate: 2026-02-26
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./best-ai-chrome-extensions.webp"
 imageAlt: "Collection of AI Chrome extension icons in a browser toolbar"
 tags: ["AI", "Chrome Extensions", "Productivity", "Browser", "Tools"]

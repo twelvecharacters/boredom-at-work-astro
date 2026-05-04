@@ -4,7 +4,7 @@ slug: "claude-vs-chatgpt"
 description: "I use Claude and ChatGPT every day. Here's which one wins at writing, coding, and reasoning, with real side-by-side examples and a clear verdict."
 publishDate: 2026-02-02
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./claude-vs-chatgpt.webp"
 imageAlt: "Side-by-side comparison of Claude and ChatGPT AI interfaces"
 tags: ["AI", "ChatGPT", "Claude", "Productivity", "Comparison"]

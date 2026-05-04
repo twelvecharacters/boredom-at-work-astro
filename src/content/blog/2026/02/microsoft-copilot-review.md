@@ -4,7 +4,7 @@ slug: "microsoft-copilot-review"
 description: "Honest review of Microsoft 365 Copilot after months of use. What it does well, where it fails, and whether it's worth the steep price tag."
 publishDate: 2026-02-11
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./microsoft-copilot-review.webp"
 imageAlt: "Microsoft Copilot interface in a Word document on a laptop screen"
 tags: ["AI", "Microsoft", "Copilot", "Productivity", "Review"]

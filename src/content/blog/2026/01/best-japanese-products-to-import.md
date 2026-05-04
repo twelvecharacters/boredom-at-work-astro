@@ -3,7 +3,7 @@ title: "15 Best Japanese Products Worth Importing (2026 Guide)"
 slug: "best-japanese-products-to-import"
 description: "Unique Japanese products worth importing: vintage cameras, stationery, snacks, and electronics. Why they're better from Japan and how to buy."
 publishDate: 2026-01-19
-author: "bored chap"
+author: "Mehdi"
 image: "./japanese-products-import.webp"
 imageAlt: "Collection of Japanese products including stationery, snacks, and electronics"
 tags: ["Japan Shopping", "Import Guide", "Japanese Products", "Gift Ideas"]

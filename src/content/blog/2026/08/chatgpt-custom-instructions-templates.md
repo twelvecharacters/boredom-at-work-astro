@@ -3,7 +3,7 @@ title: "15 ChatGPT Custom Instructions Templates You Can Copy Right Now"
 slug: "chatgpt-custom-instructions-templates"
 description: "15 copy-paste ChatGPT custom instructions templates for work, writing, coding, and more. Grab a template, paste it in, and get better responses instantly."
 publishDate: 2026-08-27
-author: "bored chap"
+author: "Mehdi"
 image: "./chatgpt-custom-instructions-templates.webp"
 imageAlt: "ChatGPT custom instructions template examples on a screen"
 tags: ["AI", "ChatGPT", "Productivity", "Templates", "Tutorial"]

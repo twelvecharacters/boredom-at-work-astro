@@ -3,7 +3,7 @@ title: "Best Mechanical Keyboards for Beginners: A No-Nonsense Guide"
 slug: "best-mechanical-keyboards-beginners"
 description: "New to mechanical keyboards? We break down switches, sizes, and the best beginner-friendly options without the enthusiast jargon."
 publishDate: 2026-01-25
-author: "bored chap"
+author: "Mehdi"
 image: "./mechanical-keyboards-beginners.webp"
 imageAlt: "Collection of mechanical keyboards with colorful keycaps on a desk"
 tags: ["Tech & Gadgets", "Mechanical Keyboards", "Peripherals", "Office Setup", "Beginners"]

@@ -3,7 +3,7 @@ title: "How to Use AI to Analyze Earnings Calls (Free Workflow)"
 slug: "ai-earnings-call-analysis"
 description: "Use ChatGPT, Claude, or Perplexity to summarize and analyze earnings call transcripts. Free sources, prompts, and a step-by-step workflow included."
 publishDate: 2026-07-14
-author: "bored chap"
+author: "Mehdi"
 image: "./ai-earnings-call-analysis.webp"
 imageAlt: "Step-by-step visual guide for analyzing earnings calls with AI tools"
 tags: ["AI Tools", "Investing", "Earnings Calls", "ChatGPT", "Finance"]

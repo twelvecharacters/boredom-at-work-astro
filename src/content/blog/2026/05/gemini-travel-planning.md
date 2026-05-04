@@ -2,7 +2,7 @@
 title: "Google Gemini for Travel Planning: The Real-Time Advantage"
 description: "Gemini's real-time data and Google integration make it uniquely powerful for travel planning. Here's how to use it effectively for your next trip."
 publishDate: 2026-05-11
-author: "bored chap"
+author: "Mehdi"
 image: "./gemini-travel-planning.webp"
 imageAlt: "Google Gemini travel planning interface with real-time search results"
 tags: ["AI", "Travel", "Gemini", "Google", "AI Travel"]

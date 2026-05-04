@@ -3,7 +3,7 @@ title: "The Complete Kindle Guide (2026): Setup, Books, Tips & Tricks"
 slug: "kindle-guide"
 description: "Complete Kindle guide for 2026. Setup, free books, customization, sideloading, accessories, tips, and tricks, everything you need to master your Kindle."
 publishDate: 2026-04-15
-author: "bored chap"
+author: "Mehdi"
 image: "./kindle-guide.webp"
 imageAlt: "Kindle e-reader on a desk with a book and a cup of coffee"
 tags: ["Kindle", "E-Reader", "Reading", "Guide", "Hub Page"]

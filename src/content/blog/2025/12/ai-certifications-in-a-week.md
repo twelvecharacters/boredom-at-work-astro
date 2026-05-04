@@ -4,7 +4,7 @@ slug: "ai-certifications-in-a-week"
 description: "Get AI certified this weekend. Google, Microsoft, and IBM certifications ranked by resume impact, I completed all 5 and here's what's actually worth it."
 publishDate: 2025-12-25
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 tags: ["AI Certification", "Career Development", "Quick Learning"]
 image: "./ai-certifications.webp"
 imageAlt: "Collection of AI certification badges from Google, Microsoft, and IBM"

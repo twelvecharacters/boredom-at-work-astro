@@ -2,7 +2,7 @@
 title: "Beyond the AMS: Mastering Bambu Studio's New Optical Filament Mixing"
 description: "The dream of full-color 3D printing just got a lot closer. We dive deep into Bambu Studio 2.6.0's new experimental 'Mixed Filament' feature, explaining the optical layer alternation technology and how to use it on the H2C and X2D."
 publishDate: 2026-05-12
-author: "bored chap"
+author: "Mehdi"
 image: "./bambu-studio-filament-mixing.png"
 imageAlt: "A 3D printed object showing smooth color gradients created using Bambu Studio's mixing feature."
 tags: ["3D Printing", "Bambu Lab", "Bambu Studio", "Filament Mixing", "FullSpectrum", "Tutorial", "H2C", "X2D"]

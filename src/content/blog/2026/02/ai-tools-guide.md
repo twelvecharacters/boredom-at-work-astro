@@ -4,7 +4,7 @@ slug: "ai-tools-guide"
 description: "ChatGPT, Claude, Copilot, and 20+ AI tools ranked by actual usefulness at work. Organized by task with free alternatives, no fluff, just what works."
 publishDate: 2026-02-27
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./ai-tools-guide.webp"
 imageAlt: "Illustration showing AI productivity tools organized by work category"
 tags: ["AI", "Productivity", "Tools", "ChatGPT", "Claude", "Gemini", "Hub Page"]

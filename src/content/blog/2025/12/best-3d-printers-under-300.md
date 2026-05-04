@@ -4,7 +4,7 @@ slug: "best-3d-printers-under-300"
 description: "Find the best budget 3D printer without the guesswork. We tested Bambu Lab A1 Mini, Creality Ender 3 V3, Anycubic Kobra, and more. See our top pick."
 publishDate: 2025-12-29
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./3d-printers-under-300.webp"
 imageAlt: "Collection of budget 3D printers under 300 dollars arranged on a clean background"
 tags: ["3D Printing", "Buying Guide", "3D Printers", "Comparison", "Budget"]

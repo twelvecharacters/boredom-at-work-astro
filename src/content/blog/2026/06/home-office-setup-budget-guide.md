@@ -3,7 +3,7 @@ title: "Home Office Setup Guide: $500, $1,000, and $2,000 Builds"
 slug: "home-office-setup-budget-guide"
 description: "Three complete home office setups at $500, $1,000, and $2,000. Full shopping lists with specific desks, chairs, monitors, and peripherals at real prices."
 publishDate: 2026-06-19
-author: "bored chap"
+author: "Mehdi"
 image: "./home-office-setup-budget-guide.webp"
 imageAlt: "Three home office setups at different budget levels side by side"
 tags: ["Home Office", "Work From Home", "Office Setup", "Desk Setup", "Guide"]

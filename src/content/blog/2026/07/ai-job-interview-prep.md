@@ -3,7 +3,7 @@ title: "How to Use AI for Job Interview Prep: Full Guide"
 slug: "ai-job-interview-prep"
 description: "Use ChatGPT or Claude to research companies, craft STAR answers, run mock interviews, and write follow-up emails. Copy-paste prompt templates included."
 publishDate: 2026-07-07
-author: "bored chap"
+author: "Mehdi"
 image: "./ai-job-interview-prep.webp"
 imageAlt: "Illustration showing AI-powered job interview preparation workflow"
 tags: ["AI Tools", "Productivity", "ChatGPT", "Career", "Career Development"]

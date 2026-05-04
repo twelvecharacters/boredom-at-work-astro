@@ -2,7 +2,7 @@
 title: "The $599 Experiment: A Month with the MacBook Neo"
 description: "Apple's cheapest laptop in a decade uses an iPhone chip and only has 8GB of RAM. Is it a toy, or the ultimate tool for productive procrastination? We spent 30 days finding out."
 publishDate: 2026-04-25
-author: "bored chap"
+author: "Mehdi"
 image: "./macbook-neo-review.webp"
 imageAlt: "A sleek Indigo MacBook Neo on a wooden desk with coffee and 3D printed accessories."
 tags: ["Apple", "MacBook Neo", "Tech Review", "Productivity", "A18 Pro", "macOS Tahoe"]

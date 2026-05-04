@@ -3,7 +3,7 @@ title: "12 Best Finance Subreddits for Investors (2026 Guide)"
 slug: "best-finance-subreddits"
 description: "I've been lurking these finance subreddits for years. Here are the 12 that actually help you learn investing, manage money, and avoid bad advice in 2026."
 publishDate: 2026-06-10
-author: "bored chap"
+author: "Mehdi"
 image: "./best-finance-subreddits.webp"
 imageAlt: "Collection of finance subreddit community pages on a screen"
 tags: ["Investing", "Reddit", "Personal Finance", "Community", "Learning"]

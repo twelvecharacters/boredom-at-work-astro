@@ -3,7 +3,7 @@ title: "RFID Record Player: Play Spotify with Physical Vinyl"
 slug: "rfid-record-player"
 description: "Build an RFID Record Player that plays Spotify with physical vinyl cards. A complete DIY guide using Raspberry Pi, NFC tags, and 3D printing."
 publishDate: 2026-03-26
-author: "bored chap"
+author: "Mehdi"
 image: "./rfid-record-player.webp"
 imageAlt: "RFID record player project with Raspberry Pi and NFC vinyl cards"
 tags: ["3D Printing", "Raspberry Pi", "DIY", "Spotify", "Open Source"]

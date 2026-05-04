@@ -3,7 +3,7 @@ title: "7 Best Investing Apps for Beginners (I Use 3 Daily)"
 slug: "best-investing-apps-beginners"
 description: "I tested every major investing app so you don't have to. Here are the 7 best for beginners in 2026, with honest takes on fees, features, and which to pick."
 publishDate: 2026-04-08
-author: "bored chap"
+author: "Mehdi"
 image: "./best-investing-apps-beginners.webp"
 imageAlt: "Collection of beginner investing app interfaces on a smartphone"
 tags: ["Investing", "Finance Apps", "Beginners", "Personal Finance", "Tools"]

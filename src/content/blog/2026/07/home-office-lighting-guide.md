@@ -3,7 +3,7 @@ title: "Home Office Lighting Guide: Reduce Eye Strain (2026)"
 slug: "home-office-lighting-guide"
 description: "The complete guide to home office lighting. Best monitor light bars, desk lamps, and video call setups compared with prices and ergonomic recommendations."
 publishDate: 2026-07-28
-author: "bored chap"
+author: "Mehdi"
 image: "./home-office-lighting-guide.webp"
 imageAlt: "Home office lighting setup with monitor light bar and desk lamp"
 tags: ["Home Office", "Office Setup", "Lighting", "Eye Strain", "Video Calls"]

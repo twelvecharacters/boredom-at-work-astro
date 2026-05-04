@@ -3,7 +3,7 @@ title: "Your First AI-Planned Trip with ChatGPT (2026)"
 slug: "chatgpt-trip-planning-tutorial"
 description: "A beginner-friendly tutorial for planning your first trip with ChatGPT. Follow along step-by-step from your first prompt to a complete travel itinerary."
 publishDate: 2026-03-01
-author: "bored chap"
+author: "Mehdi"
 image: "./chatgpt-trip-planning-tutorial.webp"
 imageAlt: "Step-by-step tutorial for planning a trip with ChatGPT"
 tags: ["AI", "Travel", "ChatGPT", "Tutorial", "Beginners", "AI Travel"]

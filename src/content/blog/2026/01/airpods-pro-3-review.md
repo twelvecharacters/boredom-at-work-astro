@@ -4,7 +4,7 @@ slug: "airpods-pro-3-review"
 description: "Full AirPods Pro 3 review after months of daily use. Sound quality, ANC, battery, and the hearing health features, here's the honest verdict."
 publishDate: 2026-01-28
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./airpods-pro-3-review.webp"
 imageAlt: "AirPods Pro 3 in their charging case on a modern desk"
 tags: ["Tech & Gadgets", "AirPods", "Apple", "Earbuds", "Review"]

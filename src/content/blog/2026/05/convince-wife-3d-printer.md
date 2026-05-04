@@ -2,7 +2,7 @@
 title: "The Ultimate Guide: How to Convince Your Wife You Need a 3D Printer"
 description: "Struggling with the 'approval process' for a 3D printer? Here is the roadmap to winning the argument with logic, aesthetics, and practical value."
 publishDate: 2026-05-16
-author: "bored chap"
+author: "Mehdi"
 image: "./convince-wife-3d-printer.png"
 imageAlt: "A sleek 3D printer integrated into a modern home interior, printing a beautiful vase."
 tags: ["3D Printing", "Lifestyle", "Hobby", "Home Improvement", "Productivity"]

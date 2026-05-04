@@ -2,7 +2,7 @@
 title: "TRMNL: The E-Ink Dashboard That Reclaims Your Desk and Focus"
 description: "Is your desk setup missing something? Discover TRMNL, the minimalist E-ink display that gives you glanceable data without the distraction of a standard monitor."
 publishDate: 2026-04-18
-author: "bored chap"
+author: "Mehdi"
 tags: ["tech-gadgets", "productivity", "minimalism", "desk-setup"]
 image: "./trmnl-desk-setup.webp"
 imageAlt: "A minimalist workspace featuring a TRMNL E-ink display showing GitHub contributions and weather."

@@ -4,7 +4,7 @@ slug: "kindle-vs-kobo"
 description: "After using both Kindle and Kobo daily, here's the honest truth. Features, prices, and ecosystem compared, with a clear winner."
 publishDate: 2026-01-23
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./kindle-vs-kobo.webp"
 imageAlt: "Side-by-side comparison of Kindle and Kobo e-readers"
 tags: ["Tech & Gadgets", "Kindle", "Kobo", "E-Reader", "Comparison"]

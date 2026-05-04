@@ -4,7 +4,7 @@ slug: "airpods-vs-galaxy-buds-vs-sony"
 description: "AirPods Pro 3 vs Galaxy Buds3 Pro vs Sony WF-1000XM5. Sound, ANC, battery, comfort, which earbuds are worth your money in 2026?"
 publishDate: 2026-01-29
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./airpods-vs-galaxy-buds-vs-sony.webp"
 imageAlt: "Side-by-side comparison of AirPods Pro 3, Galaxy Buds, and Sony WF-1000XM5"
 tags: ["Tech & Gadgets", "Earbuds", "AirPods", "Sony", "Comparison"]

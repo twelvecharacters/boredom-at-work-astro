@@ -4,7 +4,7 @@ slug: "ai-pdf-summarizers"
 description: "The best AI tools for summarizing PDFs and long documents. Upload a 100-page report, get key insights in seconds. Free and paid options compared."
 publishDate: 2026-03-11
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./ai-pdf-summarizers.webp"
 imageAlt: "Collection of AI PDF summarizer tools processing a long document"
 tags: ["AI", "PDF", "Productivity", "Tools", "Research"]

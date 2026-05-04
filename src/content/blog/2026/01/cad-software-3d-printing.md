@@ -4,7 +4,7 @@ slug: "cad-software-3d-printing"
 description: "Fusion 360 vs Onshape vs Tinkercad vs Blender, compared by skill level, cost, and 3D printing features. Find the right CAD software for your prints."
 publishDate: 2026-01-31
 updatedDate: 2026-04-05
-author: "bored chap"
+author: "Mehdi"
 image: "./cad-software-3d-printing.webp"
 imageAlt: "Collection of CAD software interfaces for 3D printing design"
 tags: ["3D Printing", "CAD", "Software", "Tutorial", "Skills"]

@@ -3,7 +3,7 @@ title: "7 Repetitive Office Tasks You Can Automate With AI Right Now"
 slug: "ai-office-automation-tasks"
 description: "Stop doing repetitive work manually. These 7 office tasks can be automated with AI tools like ChatGPT, Zapier, and Make.com, most in under 30 minutes."
 publishDate: 2026-07-24
-author: "bored chap"
+author: "Mehdi"
 image: "./ai-office-automation-tasks.webp"
 imageAlt: "Illustration showing repetitive office tasks being automated with AI"
 tags: ["AI Tools", "Productivity", "Office Automation", "ChatGPT", "Work Smarter", "Career Development"]
