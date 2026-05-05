@@ -28,6 +28,7 @@ export const AUTHOR = {
 
 export const NAV_ITEMS = [
   { label: 'Home', href: '/' },
+  { label: 'Contact', href: '/contact/' },
   { label: 'Blog', href: '/blog/' },
 ];
 

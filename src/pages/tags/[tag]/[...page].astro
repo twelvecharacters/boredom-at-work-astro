@@ -244,13 +244,7 @@ const shouldIndex = !!hub || (page.total > 5 && isFirstPage);
           <div class="sticky top-24 space-y-8">
             <TagCloud />
 
-            <div class="bg-white p-6 rounded-2xl border border-primary/5 shadow-sm">
-              <h3 class="font-bold mb-4 flex items-center gap-2">
-                <span class="w-1.5 h-6 bg-accent rounded-full"></span>
-                History
-              </h3>
-              <BlogArchive />
-            </div>
+            <BlogArchive />
             
             <div class="bg-primary rounded-3xl p-8 text-white overflow-hidden relative shadow-xl shadow-primary/20 group">
               <div class="absolute top-0 right-0 w-32 h-32 bg-accent/20 rounded-full -mr-16 -mt-16 transition-transform group-hover:scale-110"></div>

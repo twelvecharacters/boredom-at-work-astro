@@ -29,32 +29,46 @@ const monthNames = [
   "January", "February", "March", "April", "May", "June",
   "July", "August", "September", "October", "November", "December"
 ];
+
+const { initialOpen = false, title = "Archive" } = Astro.props;
 ---
 
-<div class="bg-white p-6 rounded-2xl shadow-sm border border-gray-100 mt-8">
-  <h2 class="text-sm font-bold uppercase tracking-wider text-primary mb-4">Archive</h2>
-  <div class="space-y-4">
-    {years.map(year => (
-      <div>
-        <h3 class="font-bold text-sm text-text mb-2">{year}</h3>
-        <ul class="space-y-1">
-          {Object.entries(archiveMap[year])
-            .map(([month, count]) => [Number(month), count])
-            .sort(([a], [b]) => b - a) // Latest month first
-            .map(([month, count]) => (
-              <li>
-                <a 
-                  href={`/blog/archive/${year}/${(month + 1).toString().padStart(2, '0')}/`}
-                  class="text-sm text-text-light hover:text-accent transition-colors flex justify-between items-center group"
-                >
-                  <span>{monthNames[month]}</span>
-                  <span class="text-xs opacity-50 group-hover:opacity-100">({count})</span>
-                </a>
-              </li>
-            ))
-          }
-        </ul>
+<div class="not-prose mb-8">
+  <details class="group bg-background-alt/50 backdrop-blur-md border border-primary/5 rounded-2xl overflow-hidden transition-all duration-300 hover:border-primary/20 shadow-sm" open={initialOpen}>
+    <summary class="flex items-center justify-between p-5 cursor-pointer list-none select-none">
+      <div class="flex items-center gap-3">
+        <div class="w-1.5 h-6 bg-accent rounded-full"></div>
+        <h2 class="text-lg font-bold text-primary tracking-tight">{title}</h2>
       </div>
-    ))}
-  </div>
+      <div class="flex items-center justify-center w-8 h-8 rounded-full bg-primary/5 text-primary transition-transform duration-300 group-open:rotate-180 group-hover:bg-primary/10">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19 9l-7 7-7-7" />
+        </svg>
+      </div>
+    </summary>
+    <div class="px-5 pb-5 space-y-4">
+      {years.map(year => (
+        <div>
+          <h3 class="font-bold text-sm text-text mb-2">{year}</h3>
+          <ul class="space-y-1">
+            {Object.entries(archiveMap[year])
+              .map(([month, count]) => [Number(month), count])
+              .sort(([a], [b]) => b - a) // Latest month first
+              .map(([month, count]) => (
+                <li>
+                  <a 
+                    href={`/blog/archive/${year}/${(month + 1).toString().padStart(2, '0')}/`}
+                    class="text-sm text-text-light hover:text-accent transition-colors flex justify-between items-center group"
+                  >
+                    <span>{monthNames[month]}</span>
+                    <span class="text-xs opacity-50 group-hover:opacity-100">({count})</span>
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </div>
+      ))}
+    </div>
+  </details>
 </div>
