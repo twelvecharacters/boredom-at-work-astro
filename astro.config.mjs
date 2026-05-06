@@ -91,6 +91,12 @@ function remarkFilterUnpublishedLinks() {
   };
 }
 
+// Sponsored partner domains. Links to these get rel="sponsored" instead of nofollow
+// per Google guidelines for paid placements. Add new sponsors here.
+const SPONSORED_DOMAINS = [
+  'justway.com',
+];
+
 // Find most recent publishDate for homepage/blog lastmod
 const mostRecentDate = [...blogDates.values()].sort().pop() || new Date().toISOString();
 blogDates.set('https://boredom-at-work.com/', mostRecentDate);
@@ -107,9 +113,17 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [remarkFilterUnpublishedLinks],
     rehypePlugins: [
-      [rehypeExternalLinks, { 
-        target: '_blank', 
-        rel: ['noopener', 'nofollow'] 
+      [rehypeExternalLinks, {
+        target: '_blank',
+        rel: (element) => {
+          const href = element.properties?.href;
+          if (typeof href === 'string') {
+            for (const domain of SPONSORED_DOMAINS) {
+              if (href.includes(domain)) return ['sponsored', 'noopener'];
+            }
+          }
+          return ['noopener', 'nofollow'];
+        }
       }]
     ],
   },
