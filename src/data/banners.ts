@@ -17,7 +17,7 @@ export const BANNERS: BannerConfig[] = [
     tag: "3D Printing",
     imageUrl: banner3D,
     mobileImageUrl: banner3DMobile,
-    linkUrl: "https://www.justway.com",
+    linkUrl: "https://www.justway.com/?from=BC2026B",
     altText: "CNC Machining Prototype | 3D Printing Service | Custom Parts & Rapid Prototyping - Justway.com",
     active: true,
     startDate: "2026-05-01",
