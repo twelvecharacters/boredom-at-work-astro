@@ -88,10 +88,13 @@ const currentYear = new Date().getFullYear();
     </div>
 
     <!-- Bottom Bar -->
-    <div class="border-t border-white/20 pt-8 text-center">
+    <div class="border-t border-white/20 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
       <p class="text-white/60 text-sm">
         &copy; {currentYear} {SITE.title}. All rights reserved.
       </p>
+      <div class="flex gap-4 text-sm">
+        <a href="/privacy-policy" class="text-white/60 hover:text-white transition-colors">Privacy Policy</a>
+      </div>
     </div>
   </div>
 </footer>
