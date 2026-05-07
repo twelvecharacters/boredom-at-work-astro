@@ -91,6 +91,36 @@ If you're a heavy library user, this alone might tip the scale toward Kobo. If y
 
 Kobo still has an edge here, it handles a wider range of formats out of the box. But the gap has narrowed significantly. If you want to go deeper into sideloading and custom readers, check our [Kindle modding guide](/kindle-modding-guide/).
 
+## Subscription Services: Kindle Unlimited vs Kobo Plus
+
+Both devices have a subscription option for unlimited reading, and the math behind each one is very different.
+
+**Kindle Unlimited** costs $11.99/month and gives access to over 4 million titles, including a selection of Audible-narrated audiobooks. The catalog skews toward genre fiction, indie authors, and back catalogs of major publishers. New releases from Big 5 publishers are usually not included. (We did the full math on whether Kindle Unlimited is actually worth it, [check our breakdown here](/kindle-unlimited-worth-it/).)
+
+**Kobo Plus** comes in two tiers: Read ($7.99/month) for ebooks only, or Read & Listen ($9.99/month) which adds audiobooks. The catalog is smaller (around 1.5 million titles), but the entry price is lower and the audiobook integration is smoother because it works on the device itself rather than only over Bluetooth.
+
+If you read 2+ books a month, either subscription pays for itself. The choice usually comes down to whether your favorite authors are available on each platform, and that's worth checking before you commit.
+
+## Reading Experience: Typography and Customization
+
+This is the area where personal taste matters most, and both devices give you genuine control.
+
+**Kindle** ships with around a dozen fonts, including Bookerly (Amazon's in-house typeface designed for E Ink), Open Dyslexic, and several traditional serifs. You can adjust font size, weight, line spacing, and margins. The "Aa" menu is well-designed and changes are instant.
+
+**Kobo** ships with about 15 fonts plus the option to sideload your own (something Kindle does not allow without modding). Line height, weight, justification, and even hyphenation are individually adjustable. Power users prefer Kobo's typography controls because they're genuinely unlimited.
+
+Page turning feels nearly identical on both, but the gesture controls differ. Kindle gives you tap zones (left to go back, right or center to go forward) plus swipe. Kobo adds pinch-to-zoom on text size, which is a small but useful detail when reading PDFs.
+
+Both devices track your reading stats (books finished, time read, pages per session). Kobo's stats display is slightly more detailed and includes reading goals, which appeals to people who like quantifying their habits.
+
+## Long-Term Support and Build Quality
+
+Both Amazon and Kobo have decent track records on software updates. A 2018-era Kindle still receives security updates, and Kobo's older devices typically get 4 to 6 years of feature updates after launch.
+
+Build quality is comparable. Both use a soft-touch plastic back that resists fingerprints. Both have flush front bezels. Neither cracks easily under normal use, but you'll want a case if you're tossing it in a backpack.
+
+The one difference: replacement parts. Kindles are easier to repair via third-party services because the volume is so much higher. Kobo replacement parts are harder to find, especially in the US where Kobo's market share is smaller.
+
 ## Battery Life
 
 Kindle claims up to 12 weeks on a single charge. Kobo claims about 6 weeks. Real-world usage puts the Paperwhite at roughly 3–4 weeks of heavy daily reading, and the Clara at about 2–3 weeks.

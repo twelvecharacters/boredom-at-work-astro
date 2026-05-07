@@ -92,7 +92,81 @@ Most built-in printer lights are mediocre. A bright, **magnetic LED light** allo
 
 ---
 
+## Build Your Toolkit by Budget
+
+You don't need to buy all 15 of these on day one. Here's a practical staged approach based on what you actually need versus what's nice to have.
+
+### The $50 Starter Kit
+If you just bought your first printer, this is the bare minimum to print successfully and not damage anything:
+
+- **Digital calipers** ($15)
+- **Flush cutters** ($10)
+- **90% IPA + microfiber cloth** ($8)
+- **Thin metal scraper** ($5)
+- **Silicone sock for the hotend** ($5 to $8)
+- **Smoke detector** if you don't have one in the room ($10)
+
+That's everything you need to print PLA reliably. Skip the rest until you've actually run into the problem each tool solves.
+
+### The $150 Hobbyist Kit
+After your first month or two, add the post-processing and reliability tools that turn rough prints into clean ones:
+
+- **Deburring tool** ($12)
+- **Needle files + sandpaper set** ($20)
+- **Butane torch** ($15)
+- **Nozzle cleaning needles** ($8)
+- **Smart plug with power monitoring** ($15)
+- **Magnetic LED work light** ($25)
+
+This is the level where most hobbyists settle. Every tool here pays for itself within a couple of prints.
+
+### The $300+ Advanced Kit
+Once you start printing engineering materials (PETG, TPU, ABS, ASA, Nylon) or running multi-day prints, the moisture and safety tools become non-negotiable:
+
+- **Filament dryer** ($60 to $120)
+- **Patterned aftermarket build plate** ($35 to $50)
+- **3D printing pen for repairs** ($30)
+- **Automatic fire extinguisher ball** ($45)
+- **Vacuum filament storage bags + desiccant** ($25)
+- **Quality nozzle replacement set** (hardened steel, multiple sizes, $40)
+
+If you're at this point, you've probably also outgrown your starter printer. Worth checking our [Bambu Lab X2D first look](/bambu-lab-x2d-first-look/) or [Bambu A1 Mini vs Creality Ender 3](/bambu-a1-mini-vs-creality-ender-3/) for the next-step machine that justifies these tools.
+
+---
+
+## Maintenance Schedule: What to Do and When
+
+Tools are only useful if you actually use them. Here's the calendar most experienced makers settle into.
+
+**Every print:**
+- Wipe build plate with IPA before starting
+- Visual check of first layer (use the LED light)
+
+**Every 20 to 30 hours of printing:**
+- Cold pull through the nozzle (Atomic Method) to clear partial clogs
+- Check belt tension if you hear unusual noises
+- Vacuum or brush dust from fans
+
+**Every 100 hours:**
+- Replace nozzle (or sooner with abrasive filaments like carbon fiber or glow-in-the-dark)
+- Lubricate linear rails with PTFE-based grease
+- Wash build plate with dish soap and warm water (full reset)
+
+**Monthly:**
+- Inspect Bowden tube for filament dust or cracking
+- Check that the silicone sock isn't torn or full of plastic blobs
+- Run a temperature tower for any new filament you've started using
+
+**Quarterly:**
+- Calibrate e-steps if your prints are over- or under-extruding
+- Bake any opened filament in the dryer for a full cycle (especially PETG, TPU, Nylon)
+- Review your printer's firmware for updates
+
+This sounds like a lot, but most of it takes 5 minutes once it becomes habit. The tools above make every step faster.
+
+---
+
 ### Ready to level up?
-Now that your workshop is fully equipped, why not test your skills on a complex project like the [Sesame Robot Quadruped](/sesame-robot-quadruped/)? Or, if you're still looking for the perfect machine, check out our guide on [Bambu Lab vs Creality](/bambu-vs-creality/) to see which hardware works best with these tools.
+Now that your workshop is fully equipped, why not test your skills on a complex project like the [Sesame Robot Quadruped](/sesame-robot-quadruped/)? Or, if you're still looking for the perfect machine, check out our [Bambu A1 Mini vs Creality Ender 3 comparison](/bambu-a1-mini-vs-creality-ender-3/) to see which hardware works best with these tools.
 
 **Happy printing!**
