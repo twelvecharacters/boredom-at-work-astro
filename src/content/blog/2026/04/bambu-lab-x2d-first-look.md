@@ -1,8 +1,9 @@
 ---
-title: "Bambu Lab X2D First Look: The $649 Dual-Extrusion Game Changer"
+title: "Bambu Lab X2D Review (2026): Specs, Price & Who Should Buy"
 slug: "bambu-lab-x2d-first-look"
-description: "Bambu Lab X2D brings dual extrusion to the X-series. Full specs, pricing, comparison to P2S and H2D, and who should buy it."
+description: "Bambu Lab X2D review: $649 base price, 256x256x260 mm build, mechanical dual-nozzle switching, 65°C chamber. Full specs and comparison to P2S and H2D."
 publishDate: 2026-04-14
+updatedDate: 2026-05-17
 author: "Mehdi"
 image: "./bambu-lab-x2d-first-look.webp"
 imageAlt: "Bambu Lab X2D 3D printer with AMS 2 multi-material system"
