@@ -21,9 +21,9 @@ faq:
   - question: "What is Antigravity 2?"
     answer: "Antigravity 2 is the second major version of Google DeepMind's agentic AI coding assistant, deeply integrated into developer environments. It uses the Gemini 3.5 model family to understand entire codebases, plan multi-step changes, and execute them autonomously with developer approval."
   - question: "What model does Antigravity 2 use?"
-    answer: "Antigravity 2 primarily runs on Gemini 3.5 Flash for speed and Gemini 3.5 Pro for complex reasoning tasks. Users can switch between models depending on the task's complexity."
+    answer: "Antigravity 2 primarily runs on Gemini 3.5 Flash for speed and Gemini 3.1 Pro for complex reasoning tasks. Users can switch between models depending on the task's complexity."
   - question: "Is Antigravity 2 free to use?"
-    answer: "Antigravity 2 is available at no additional cost to users with a Google account. However, high-volume usage and access to Gemini 3.5 Pro may require a Google AI Pro or Workspace subscription."
+    answer: "Antigravity 2 is available at no additional cost to users with a Google account. However, high-volume usage and access to Gemini 3.1 Pro may require a Google AI Pro or Workspace subscription."
 ---
 
 Let's be honest. Most AI coding tools launched in the last two years share the same basic pitch: paste your code, get a suggestion, copy it back. It's useful, but it's not transformative.
@@ -41,7 +41,7 @@ Antigravity 2 is the second major release of Google DeepMind's agentic AI coding
 Version 2 arrives on the back of **Gemini 3.5**, which brings two key improvements over its predecessor:
 
 1.  **Speed:** Gemini 3.5 Flash delivers near-instant responses for everyday edits and refactors.
-2.  **Depth:** Gemini 3.5 Pro tackles complex multi-file reasoning tasks with a level of coherence that version 1 simply couldn't match.
+2.  **Depth:** Gemini 3.1 Pro tackles complex multi-file reasoning tasks with a level of coherence that version 1 simply couldn't match.
 
 Think of it as the difference between a junior developer who can fix individual bugs and a senior engineer who can rearchitect a module without breaking anything downstream.
 
@@ -111,7 +111,7 @@ The practical effect? You stop second-guessing whether a task is "worth asking t
 
 ### Speed Benchmark Comparison
 
-| Task | Gemini 2.5 (v1) | Gemini 3.5 Flash (v2) |
+| Task | Gemini 3.1 (v1) | Gemini 3.5 Flash (v2) |
 | :--- | :--- | :--- |
 | Fix a TypeScript error | ~8 seconds | ~1.5 seconds |
 | Generate a unit test | ~12 seconds | ~3 seconds |
@@ -122,7 +122,7 @@ The practical effect? You stop second-guessing whether a task is "worth asking t
 
 ## 4. Multi-File Context: It Knows Your Whole Codebase
 
-This is the feature that separates Antigravity 2 from most competitors. Rather than working on a single file in isolation, Antigravity 2 uses Gemini 3.5 Pro's extended context window to ingest your **entire project**—not just the file you have open.
+This is the feature that separates Antigravity 2 from most competitors. Rather than working on a single file in isolation, Antigravity 2 uses Gemini 3.1 Pro's extended context window to ingest your **entire project**—not just the file you have open.
 
 In practice, this means:
 
@@ -200,14 +200,14 @@ Antigravity 2 is free to use, but "free" comes with a ceiling—and depending on
 On the free tier, Antigravity 2 runs on **Gemini 3.5 Flash** for most interactions. You get:
 
 *   **Unlimited** basic completions, inline suggestions, and short edits (Flash model).
-*   **50 requests/day** on Gemini 3.5 Pro — the heavy-reasoning model used for Planning Mode and full-codebase analysis.
+*   **50 requests/day** on Gemini 3.1 Pro — the heavy-reasoning model used for Planning Mode and full-codebase analysis.
 *   **Context window:** Up to 1 million tokens per session on the free tier.
 
 For casual use—occasional refactors, a few plans per week—the free tier is genuinely workable. You'll feel the limit on days when you're deep in a feature and burning through Pro requests before lunch.
 
 ### What Hits Your Pro Quota
 
-Not every Antigravity action is equal. Here's what counts against your daily Gemini 3.5 Pro allowance:
+Not every Antigravity action is equal. Here's what counts against your daily Gemini 3.1 Pro allowance:
 
 | Action | Model Used | Counts Against Pro Quota? |
 | :--- | :--- | :--- |
@@ -223,12 +223,11 @@ The practical pattern most developers land on: use Flash for the quick stuff all
 
 ### Google AI Pro: Is It Worth It?
 
-**Google AI Pro** costs **$20/month** and removes the daily Pro request cap. You also get:
+**Google AI Pro** costs **$20/month** and significantly raises your quota limits. You also get:
 
-*   **Unlimited** Gemini 3.5 Pro requests in Antigravity.
-*   Access to **Gemini 3.5 Ultra** (where available) for the most demanding reasoning tasks.
-*   **2 million token** context window (up from 1M on free).
-*   Priority access during peak hours — no throttling when everyone else is maxing out the free tier at 9 AM.
+*   **Higher daily request allowance** for Gemini 3.1 Pro in Antigravity — enough to run Planning Mode and multi-file analysis throughout a full workday without hitting a wall.
+*   **2 million token** context window (up from 1M on the free tier).
+*   Priority access during peak hours — reduced throttling compared to the free tier.
 *   The same subscription covers **Gemini Advanced** in your browser, the **Workspace sidebar** in Gmail/Docs/Sheets, and **Google AI Studio** API credits.
 
 At $20/month, Google AI Pro is the same price as ChatGPT Plus and Claude Pro. The differentiator is the breadth: one subscription unlocks the assistant across your IDE, your browser, your email, and your spreadsheets. If you were already paying for any one of those individually, the math changes quickly.
