@@ -183,26 +183,32 @@
     }
 
     pre {
-      @apply bg-background-alt p-4 rounded-xl border border-primary/5 my-6 overflow-x-auto relative;
-      background-color: #f8fafc !important;
+      @apply my-6 overflow-x-auto relative;
+      background-color: #f6f8fa !important;
+      border: 1px solid #e1e4e8;
+      border-radius: 0.75rem;
+      padding: 1.25rem 1.5rem;
+      box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 
       code {
-        all: unset !important;
         display: block !important;
-        color: #1e293b !important;
-        font-family: "JetBrains Mono", "Fira Code", "Menlo", "Monaco", "Consolas", monospace !important;
-        font-size: 0.9rem !important;
-        line-height: 1.7 !important;
-        white-space: pre !important;
-        word-wrap: normal !important;
+        background: none !important;
+        border: none !important;
         padding: 0 !important;
         margin: 0 !important;
+        font-family: "JetBrains Mono", "Fira Code", "Menlo", "Monaco", "Consolas", monospace !important;
+        font-size: 0.875rem !important;
+        line-height: 1.75 !important;
+        white-space: pre !important;
+        word-wrap: normal !important;
       }
     }
 
     code {
-      @apply bg-background-alt px-1.5 py-0.5 rounded text-accent font-mono text-sm;
-      background-color: #f1f5f9 !important;
+      @apply px-1.5 py-0.5 rounded font-mono text-sm;
+      background-color: #f0f0f0 !important;
+      color: #24292e !important;
+      border: 1px solid #d1d5db;
     }
 
     blockquote {
