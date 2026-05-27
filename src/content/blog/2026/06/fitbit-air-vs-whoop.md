@@ -4,7 +4,7 @@ slug: "fitbit-air-vs-whoop"
 description: "A deep-dive comparison between the new Fitbit Air and WHOOP. Which screenless wearable offers the best recovery, strain, and health data for athletes and health enthusiasts?"
 publishDate: 2026-06-21
 author: "Mehdi"
-image: "./fitbit-air-vs-whoop.webp"
+image: "./fitbit-air-vs-whoop.png"
 imageAlt: "Comparison photo showing the slim Fitbit Air next to a WHOOP 4.0 strap on a wooden table"
 tags: ["Health", "Fitness", "Wearables", "Fitbit", "WHOOP", "Biohacking"]
 draft: false
