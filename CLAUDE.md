@@ -76,7 +76,7 @@ Drafts in `medium-drafts/` (in `.gitignore`).
 
 ### Fact-Check & Content Lint (22.–23. Feb 2026)
 
-- [x] **Content Lint Script:** `scripts/content-lint.js` (`npm run lint:content`)
+- [x] **Content Lint Script:** `scripts/content-lint.js` (`pnpm run lint:content`)
   - Prüft: veraltete URLs, Model-Namen, discontinued products, Listicle-Count, Preis-Mismatches, Meta-Description-Länge
 - [x] **ALLE 123 Artikel fact-gecheckt** (komplett seit 23. Feb)
 - [x] `chat.openai.com` → `chatgpt.com` in allen Artikeln
@@ -130,7 +130,7 @@ Drafts in `medium-drafts/` (in `.gitignore`).
 | Detail | Wert |
 |--------|------|
 | Key | `33eb690ddefc36d78165765c86948671` |
-| Script | `scripts/indexnow.js` (`npm run indexnow`) |
+| Script | `scripts/indexnow.js` (`pnpm run indexnow`) |
 | CI | `.github/workflows/deploy.yml` — auto nach Build |
 
 ---
@@ -227,7 +227,7 @@ faq:
 
 6. **Vergleichs-Sections:** Echte Fees, Pro/Contra, Tabelle, Empfehlung
 
-7. **Nach jedem Artikel-Erstellen/-Bearbeiten:** `npm run lint:content:fix` ausführen
+7. **Nach jedem Artikel-Erstellen/-Bearbeiten:** `pnpm run lint:content:fix` ausführen
    - Fixt automatisch: veraltete URLs (`chat.openai.com`), Model-Namen (Claude, Gemini)
    - Zeigt danach verbleibende Warnings — manuell prüfen
    - Bei Errors: sofort fixen bevor committed wird
@@ -247,7 +247,7 @@ faq:
 
 **Vor dem Pushen:**
 ```
-□ npm run lint:content:fix ausgeführt (0 Errors)
+□ pnpm run lint:content:fix ausgeführt (0 Errors)
 □ Produkt-Specs gegen offizielle Quellen geprüft
 □ Preise aktuell (max 30 Tage alt)
 □ Externe Links getestet (keine 404s)

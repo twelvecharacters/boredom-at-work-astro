@@ -41,16 +41,16 @@
 
 | Year | Month | Articles |
 | :--- | :--- | :--- |
-| 2026 | 08 - Aug | 9 |
+| 2026 | 08 - Aug | 10 |
 | 2026 | 07 - Jul | 10 |
-| 2026 | 06 - Jun | 12 |
-| 2026 | 05 - May | 18 |
-| 2026 | 04 - Apr | 27 |
-| 2026 | 03 - Mar | 27 |
+| 2026 | 06 - Jun | 15 |
+| 2026 | 05 - May | 28 |
+| 2026 | 04 - Apr | 29 |
+| 2026 | 03 - Mar | 26 |
 | 2026 | 02 - Feb | 36 |
 | 2026 | 01 - Jan | 26 |
 | 2025 | 12 - Dec | 9 |
-| **Total** | | **174** |
+| **Total** | | **189** |
 
 
 ## 🧞 Commands
@@ -59,12 +59,12 @@ All commands are run from the root of the project:
 
 | Command | Action |
 | :--- | :--- |
-| `npm install` | Installs dependencies |
-| `npm run dev` | Starts local dev server at `localhost:4321` |
-| `npm run build` | Builds for production (includes Pagefind indexing) |
-| `npm run preview` | Preview production build locally |
-| `npm run thumbnails` | Generate missing blog thumbnails |
-| `npm run stats` | Update article statistics in README.md |
+| `pnpm install` | Installs dependencies |
+| `pnpm run dev` | Starts local dev server at `localhost:4321` |
+| `pnpm run build` | Builds for production (includes Pagefind indexing) |
+| `pnpm run preview` | Preview production build locally |
+| `pnpm run thumbnails` | Generate missing blog thumbnails |
+| `pnpm run stats` | Update article statistics in README.md |
 
 ## 📬 Contact
 

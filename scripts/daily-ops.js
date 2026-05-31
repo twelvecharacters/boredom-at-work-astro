@@ -12,7 +12,7 @@
  *
  * Usage:
  *   node scripts/daily-ops.js          # Full daily report
- *   npm run daily                      # Same via npm
+ *   pnpm run daily                     # Same via pnpm
  */
 
 import { readFileSync, readdirSync, statSync } from 'node:fs';
@@ -260,8 +260,8 @@ function reportReminders() {
   console.log('\x1b[1m📋 REMINDERS\x1b[0m');
   console.log('   • Quora: aim for 1 link post per session');
   console.log('   • GSC: submit up to 10 URLs/day if pending');
-  console.log('   • Content Lint: run npm run lint:content');
-  console.log('   • Optimizer: run npm run optimize -- --below 90');
+  console.log('   • Content Lint: run pnpm run lint:content');
+  console.log('   • Optimizer: run pnpm run optimize -- --below 90');
   console.log('   • JUSTWAY: check payment status');
   console.log('   • HackerNoon: check unblock status');
   console.log('   • Google Core Update: monitor until ~Apr 10');
@@ -291,7 +291,7 @@ function main() {
   reportReminders();
 
   console.log('═'.repeat(60));
-  console.log('  Run: npm run lint:content | npm run optimize -- --below 90');
+  console.log('  Run: pnpm run lint:content | pnpm run optimize -- --below 90');
   console.log('═'.repeat(60) + '\n');
 }
 

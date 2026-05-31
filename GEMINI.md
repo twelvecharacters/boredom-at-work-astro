@@ -38,5 +38,5 @@ This document outlines the foundational standards and architectural goals for th
 
 ## 4. Development Workflow
 
-- **Content Linting:** Run `npm run lint:content` before major updates to ensure frontmatter consistency.
-- **Build Validation:** Always run a full `npm run build` to verify Pagefind indexing and Sitemap generation before deployment.
+- **Content Linting:** Run `pnpm run lint:content` before major updates to ensure frontmatter consistency.
+- **Build Validation:** Always run a full `pnpm run build` to verify Pagefind indexing and Sitemap generation before deployment.
