@@ -4,39 +4,49 @@ This document outlines the foundational standards and architectural goals for th
 
 ## 1. Core Engineering Standards
 
-### Asset Management (Priority 1)
-- **Migration Goal:** [COMPLETED] Moved all images from `public/images/` to `src/assets/images/`.
-- **Optimization:** [COMPLETED] Integrated Astro's native `astro:assets` (`<Image />` and `<Picture />`) across all core components (Header, Hero, Banners, Blog Posts).
-- **Reasoning:** Leverages Astro's build-time image processing for automatic resizing, density descriptors (2x, 3x), and improved Core Web Vitals (LCP).
+### Package Management
+- **pnpm Only:** The project has migrated from npm to `pnpm`. Do not use `npm` or `yarn`.
+- **Build Scripts:** Maintain `pnpm-workspace.yaml` to explicitly allow necessary build scripts (e.g., `esbuild`, `sharp`).
+- **Dependencies:** Use `pnpm install --frozen-lockfile` in CI/CD to ensure consistent environments.
+
+### Asset Management
+- **Optimization:** Use Astro's native `astro:assets` (`<Image />` and `<Picture />`) for all images.
+- **Paths:** Store content-related images relative to the article in the same folder. This allows for co-location of assets and easier content portability.
 
 ### Content Strategy
+- **Structure:** Blog articles are organized in subdirectories (e.g., `src/content/blog/YYYY/MM/`). Store the markdown file and its associated images together in the same directory.
 - **Slug Management:** Favor the explicit `slug` field in blog frontmatter over directory-based IDs.
-- **Internal Linking:** Maintain the `remarkFilterUnpublishedLinks` plugin in `astro.config.mjs` to prevent leaking links to draft or future-dated content.
-- **Type Safety:** [COMPLETED] Systematic replacement of `any` with `CollectionEntry<'blog'>` in `src/utils/blog.ts`, components (`Pagination.astro`, `OptimizedImage.astro`), and all paginated/slug pages.
+- **Internal Linking:** The `remarkFilterUnpublishedLinks` plugin in `astro.config.mjs` prevents leaking links to draft or future-dated content.
+- **Language:** Always use **American English** (e.g., "color", "realize", "center").
+- **Quality Standard:** Pillar posts target **1600+ words** to avoid "thin content" flags. Standard posts should be 1000+ words.
 
 ### Styling & CSS
-- **Tailwind 4:** [COMPLETED] Fully migrated to Tailwind CSS 4 features.
-- **Sass Deprecation:** [COMPLETED] Migrated `global.scss` to `global.css` and removed `sass` dependency.
+- **Tailwind 4:** Use Tailwind CSS 4 features and modern CSS variables.
+- **Sass Deprecation:** Avoid Sass; use standard CSS with Tailwind utilities.
 
 ## 2. SEO & Schema Mandates
 
 ### Structured Data
-- All blog posts implement appropriate Schema.org JSON-LD (FAQ, Review, etc.).
-- [COMPLETED] Updated JSON-LD to use optimized asset paths for logos and featured images.
+- All blog posts must implement appropriate Schema.org JSON-LD (FAQ, Review, etc.).
+- Use optimized asset paths for logos and featured images in JSON-LD.
+
+### External Links & Sponsorship
+- **Official Links:** Always provide direct links to the official websites or app stores for tools mentioned.
+- **Sponsored Content:** Add sponsored partner domains to `SPONSORED_DOMAINS` in `astro.config.mjs` to automatically apply `rel="sponsored"`.
+- **Default SEO:** All other external links default to `rel="noopener nofollow"`.
 
 ### Discovery
-- Maintain the custom `sitemap-images.xml` and `sitemap-videos.xml` generators.
-- **RSS Feed:** [COMPLETED] Created rich RSS feed (`rss.xml.js`) with full article HTML and featured image enclosures.
-- **Search:** [COMPLETED] Integrated Pagefind with a custom premium UI (Glassmorphism, Thumbnails).
-- Use `IndexNow` (via `scripts/indexnow.js`) for rapid indexing of new content.
+- **RSS Feed:** Maintain the rich RSS feed (`rss.xml.js`) with full HTML and featured images.
+- **Search:** Keep `pagefind` integrated into the build process.
+- **IndexNow:** Use `pnpm run indexnow` to alert search engines of new content.
 
 ## 3. Performance & Optimization
 
 - **Font Loading:** Self-host all fonts in `public/fonts/` and use `font-display: swap`.
-- **Search:** Keep `pagefind` integrated into the build process for high-performance static search.
-- **Preloading:** Use `BaseLayout.astro` to manage critical asset preloading (Logo, Hero backgrounds) based on page requirements.
+- **Preloading:** Use `BaseLayout.astro` to manage critical asset preloading (Logo, Hero backgrounds).
 
 ## 4. Development Workflow
 
-- **Content Linting:** Run `pnpm run lint:content` before major updates to ensure frontmatter consistency.
-- **Build Validation:** Always run a full `pnpm run build` to verify Pagefind indexing and Sitemap generation before deployment.
+- **Content Linting:** Run `pnpm run lint:content:fix` before major updates to ensure frontmatter and price consistency.
+- **Build Validation:** Always run a full `pnpm run build` to verify Pagefind indexing and Sitemap generation.
+- **Stats:** Run `pnpm run stats` after adding content to update the `README.md` and repository visibility.
