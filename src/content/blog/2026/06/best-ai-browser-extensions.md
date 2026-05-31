@@ -5,7 +5,7 @@ publishDate: 2026-06-15
 author: "bored chap"
 tags: ["AI", "Productivity", "Browser Extensions", "Tech Tools", "Stealth Learning"]
 draft: false
-image: "./ai-browser-extensions.png"
+image: "./best-ai-browser-extensions.png"
 isListicle: true
 tldr: "Integrate AI directly into your browser to eliminate the context-switching tax. Use Perplexity for research, Claude for analysis, and Otter for meeting automation to reclaim hours of your workday."
 faq:
