@@ -81,7 +81,7 @@ The stage design featured Michael Jackson's actual handwritten notes about study
 
 After the show, we weren't ready for dinner yet. The AI's itinerary had us going straight to Ugly Dumpling, but instead we wandered through Soho and stumbled into Chinatown.
 
-![London Chinatown at night](./ai-london-trip-chinatown.webp)
+![London Chinatown at night](./15-ai-london-trip-chinatown.webp)
 
 The red lanterns were glowing, the streets were packed, and we spent a good 30 minutes just soaking it in. This wasn't on the AI's radar, and that's fine. Good trip planning leaves room for serendipity.
 
