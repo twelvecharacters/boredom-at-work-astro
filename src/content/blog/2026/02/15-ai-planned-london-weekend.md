@@ -1,0 +1,181 @@
+---
+title: "I Let AI Plan My London Weekend, Here's What Actually Happened"
+slug: "ai-planned-london-weekend"
+description: "A real trip report: I used Clawd.bot to plan a gluten-free weekend in London. MJ The Musical, Chinatown, and three restaurants without a single celiac reaction."
+publishDate: 2026-02-15
+author: "Mehdi"
+image: "./15-ai-london-trip-chinatown.webp"
+imageAlt: "AI-planned London trip scene with Chinatown and city landmarks"
+tags: ["AI", "Travel", "London", "Gluten-Free", "Trip Planning"]
+draft: false
+faq:
+  - question: "Can AI really plan a trip for someone with dietary restrictions?"
+    answer: "Yes! I used Clawd.bot to plan a gluten-free weekend in London for my girlfriend who has celiac disease. It found dedicated GF restaurants like Ugly Dumpling and suggested celiac-safe options. All three restaurants we visited had proper GF menus and she had zero reactions."
+  - question: "Is Clawd.bot free to use for trip planning?"
+    answer: "Clawd.bot is open-source and free to install. Your only costs are hosting (~$5/month on a VPS) and AI API usage, which varies by how much you use it. For a weekend trip with specific requirements like gluten-free dining, it worked perfectly without racking up a big bill."
+  - question: "How accurate are AI-generated travel itineraries?"
+    answer: "Pretty accurate for logistics (train times, distances, opening hours), but you'll still deviate. We skipped one breakfast spot and added Chinatown spontaneously. The AI gives you a solid framework, you add the human element."
+---
+
+I've written plenty about [AI trip planning tools](/best-ai-trip-planners/), and I even [let Claude plan a 3-day Dubai trip](/claude-planned-dubai-trip/) with helicopter tours and Michelin-recommended dinners. But there's a difference between testing an app and actually trusting it with your weekend.
+
+So when my girlfriend and I booked last-minute flights to London, I decided to let AI do the heavy lifting. One catch: my girlfriend has celiac disease, so every restaurant recommendation needed to be genuinely gluten-free safe.
+
+Here's the unfiltered trip report.
+
+## The Setup: Clawd.bot Does the Planning
+
+I gave [Clawd.bot](https://clawd.bot) a simple brief:
+- Weekend trip to London (Saturday-Sunday)
+- Flying into Stansted
+- Want to see MJ The Musical (already had tickets)
+- Need 100% gluten-free safe restaurants
+- Staying near Notting Hill
+
+Within minutes, I had a detailed itinerary with train times, restaurant recommendations with links to their GF menus, and a Google Maps route connecting everything.
+
+**The AI's Saturday plan:**
+- 08:35, Land at Stansted
+- Stansted Express to Liverpool Street (~48 min)
+- Tube to Notting Hill
+- Breakfast at Libby's (dedicated GF bakery)
+- Portobello Road Market
+- Drop bags at hotel
+- 14:30, MJ The Musical
+- Dinner at Ugly Dumpling (GF menu available)
+
+Looked solid on paper. But would it survive contact with reality?
+
+## What Actually Happened
+
+### The First Deviation: Brick Lane Instead of Notting Hill
+
+We landed on time and grabbed the Stansted Express (pro tip: buy tickets in advance, £75 for two people round trip). But at Liverpool Street, we made an audible.
+
+Instead of tubing across London to Notting Hill for breakfast, we walked to Brick Lane. The neighborhood was buzzing, and we found [Brick Lane Coffee Shop](https://bricklanecoffeeshop.co.uk/), a spot with surprisingly good gluten-free options.
+
+**What we ordered:**
+- GF crepes for my girlfriend (they have dedicated GF batter)
+- Full English Breakfast for me
+- Excellent coffee
+
+**GF notes for celiacs:** They're not a dedicated GF facility, but [FindMeGlutenFree lists them as GF-friendly](https://www.findmeglutenfree.com/biz/brick-lane-coffee/5174708163706880) with positive community ratings. Items aren't labeled GF on the menu, ask staff. They reportedly have 20+ GF options including crepes, waffles, brownies, and cakes. No dedicated fryer though, so skip fried items if you're highly sensitive.
+
+**Lesson #1:** AI gives you a plan. You give it flexibility.
+
+The Notting Hill breakfast spot (Libby's) was probably great. But sometimes the best travel moments come from saying "let's just explore this neighborhood first."
+
+### MJ The Musical: The AI Got This Right
+
+![MJ The Musical at Prince Edward Theatre](./ai-london-trip-mj-musical.webp)
+
+The afternoon was exactly as planned. We dropped our backpacks at the hotel (The Westbourne Hyde Park, chosen by the AI for its location between Notting Hill and the West End), then headed to the Prince Edward Theatre.
+
+MJ The Musical was incredible. The choreography, the live band, the guy playing Michael, absolutely nailed it. We caught it during its "Final Weeks" in London, which made it feel even more special.
+
+![The stage before the show, covered in MJ's handwritten choreography notes](./ai-london-trip-theater.webp)
+
+The stage design featured Michael Jackson's actual handwritten notes about studying dancers like Bob Fosse and movies like "All That Jazz." A nice touch that set the tone before the curtain even rose.
+
+### The Spontaneous Chinatown Detour
+
+After the show, we weren't ready for dinner yet. The AI's itinerary had us going straight to Ugly Dumpling, but instead we wandered through Soho and stumbled into Chinatown.
+
+![London Chinatown at night](./ai-london-trip-chinatown.webp)
+
+The red lanterns were glowing, the streets were packed, and we spent a good 30 minutes just soaking it in. This wasn't on the AI's radar, and that's fine. Good trip planning leaves room for serendipity.
+
+### Dinner at Ugly Dumpling: AI Recommendation = Success
+
+![Gluten-free dumplings at Ugly Dumpling](./ai-london-trip-dumplings.webp)
+
+This was the real test. My girlfriend has celiac disease, she can't just "try" a restaurant. One wrong sauce and she's sick for days.
+
+Clawd.bot had recommended [Ugly Dumpling](https://uglydumpling.co.uk/) specifically because they have a dedicated gluten-free menu and excellent reviews on [FindMeGlutenFree](https://www.findmeglutenfree.com/biz/ugly-dumpling/6243481373245440) (90+ community ratings at time of writing). The AI even linked to their celiac-safe rating.
+
+**The verdict:** Absolutely legit.
+
+**What makes Ugly Dumpling celiac-safe:**
+- **Black plates = gluten-free**, All GF dishes come on black plates for easy identification
+- **Dedicated fryer**, Dozens of community reports on FindMeGlutenFree confirm a separate fryer for GF items
+- **Separate prep space**, GF food prepared with dedicated tools
+- **Handmade daily**, Their GF dumplings are made fresh every day
+- **Staff training**, One reviewer was greeted with "welcome to coeliac heaven"
+
+**What we ordered:**
+- Cheeseburger dumplings (yes, really, and they're amazing)
+- Duck dumplings
+- Tempura aubergine
+- Nutella dessert dumplings
+- Gluten-free beer
+
+**Pro tip:** Visit on Sunday or Monday for their GF meal deal. Avoid weekday evenings and Saturdays if you're highly sensitive, they note that "during busy hours there are longer waiting times for GF foods to decrease cross-contamination risk." We went Saturday evening and had no issues, but it's good they're transparent about it.
+
+We ordered way too many dumplings, and she had zero reaction. For celiacs reading this: Ugly Dumpling is safe. Check their [current GF menu (PDF)](https://uglydumpling.co.uk/menus/) before you go.
+
+### Sunday: British Museum + Fish & Chips
+
+The AI had only planned Saturday in detail, so Sunday was our own creation:
+
+1. **British Museum** (free entry, ~2 hours), Focused on the Mesopotamia and Ancient Near East galleries. Could easily spend a full day here, but we had a flight to catch.
+
+2. **Wicked Fish at Spitalfields**, Another gluten-free win. Proper fish and chips with GF batter, and massive portions. Perfect pre-flight meal.
+
+Then back to Liverpool Street, Stansted Express, and home.
+
+## The One Thing That Went Wrong
+
+Okay, one small disaster.
+
+I'd pre-booked Stansted Express tickets for both directions. On the return journey, my girlfriend forgot and tapped in with her Google Pay instead of using the ticket.
+
+At Stansted Airport, we tapped out with the pre-booked ticket. Which means somewhere in Greater Anglia's system, there's an incomplete journey on her card.
+
+**Important:** Contactless and Oyster are currently NOT valid for Stansted Express journeys to/from the airport (only between Liverpool Street and Tottenham Hale). In the worst case, this could result in a penalty fare of up to £100. Pay-as-you-go contactless for the full Stansted route is expected to roll out in summer 2026. We're still waiting to see what they charge her.
+
+**Lesson #2:** If you've got pre-booked tickets, remind everyone in your group before they reach the barriers. Contactless muscle memory is real.
+
+## The Verdict: Would I Use AI to Plan Again?
+
+**Absolutely yes.**
+
+Here's what the AI got right:
+- Train connections and timings
+- Finding genuinely celiac-safe restaurants (not just "GF options available")
+- Logical route that minimized backtracking
+- Hotel location that made sense for our activities
+
+Here's what required human judgment:
+- Deciding to skip Portobello Market (we weren't feeling it)
+- Pivoting to Brick Lane for breakfast
+- Adding the Chinatown walk
+- Planning Sunday ourselves
+
+The AI gave us a framework. We made it our own.
+
+For anyone with dietary restrictions especially, AI trip planners have gotten remarkably good at finding safe options. Clawd.bot didn't just search for "gluten-free London." It found places with dedicated menus, celiac reviews, and proper food safety practices.
+
+Three restaurants. Zero reactions. That's a win.
+
+For more AI travel strategies, case studies, and destination guides, check out our [complete AI travel planning guide](/ai-travel-planning/).
+
+## Trip Stats
+
+| Category | Details |
+|----------|---------|
+| **Trip Length** | 2 days (Saturday-Sunday) |
+| **Flights** | Stansted (budget airline) |
+| **Transport** | Stansted Express (£75/2 pax RT) + Tube |
+| **Hotel** | The Westbourne Hyde Park |
+| **AI Tool Used** | Clawd.bot |
+| **GF Restaurants** | [Brick Lane Coffee](https://bricklanecoffeeshop.co.uk/), [Ugly Dumpling](https://uglydumpling.co.uk/), Wicked Fish Spitalfields |
+| **Celiac Reactions** | 0 |
+
+## Related Reading
+
+If you're interested in AI-powered travel planning:
+
+- [Best AI Trip Planners 2026](/best-ai-trip-planners/), Full comparison of tools
+- [I Let Claude Plan Our Dubai Trip](/claude-planned-dubai-trip/), Helicopter tours, Burj Khalifa, and Michelin dining
+- [How I Planned Malaysia with ChatGPT](/chatgpt-malaysia-trip-planning/), Another real trip report
+- [AI Travel Planning Mistakes to Avoid](/ai-travel-planning-mistakes/), What can go wrong
