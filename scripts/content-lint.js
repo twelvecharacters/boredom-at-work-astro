@@ -461,6 +461,31 @@ function checkPriceConsistency(content, filePath) {
   return issues;
 }
 
+function checkSlugPrefixConsistency(content, filePath) {
+  // If filename starts with a numeric prefix (e.g. "04-chatgpt-plus-vs-free.md"),
+  // the frontmatter MUST have an explicit slug field. Otherwise Astro generates
+  // URLs like /04-chatgpt-plus-vs-free/ which is rarely intentional.
+  // This bug bit us once already (commit acc27af, 31 May 2026) — 30 articles
+  // had broken canonical URLs because filenames were renamed without slug fields.
+  const issues = [];
+  const filename = filePath.split('/').pop().replace(/\.md$/, '');
+  const prefixMatch = filename.match(/^(\d{1,2})-(.+)$/);
+  if (!prefixMatch) return issues;
+
+  const { frontmatter } = splitFrontmatterAndBody(content);
+  const slug = getFrontmatterValue(frontmatter, 'slug');
+  if (slug) return issues;
+
+  const cleanSlug = prefixMatch[2];
+  issues.push({
+    filePath,
+    lineNum: 1,
+    severity: 'error',
+    message: `Filename has numeric prefix "${filename}" but no slug field. URL would become /${filename}/ instead of /${cleanSlug}/. Add: slug: "${cleanSlug}"`,
+  });
+  return issues;
+}
+
 function checkMetaDescriptionLength(content, filePath) {
   const issues = [];
   const { frontmatter } = splitFrontmatterAndBody(content);
@@ -506,6 +531,7 @@ function lintFile(filePath) {
     ...checkListicleConsistency(content, filePath),
     ...checkPriceConsistency(content, filePath),
     ...checkMetaDescriptionLength(content, filePath),
+    ...checkSlugPrefixConsistency(content, filePath),
   ];
   return issues;
 }
