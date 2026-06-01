@@ -1,5 +1,6 @@
 ---
 title: "5 AI Browser Extensions to Supercharge Your Daily Workflow"
+slug: "best-ai-browser-extensions"
 description: "Stop tab-switching. These 5 AI browser extensions automate research, writing, and meeting summaries directly within your professional workflow."
 publishDate: 2026-06-15
 author: "bored chap"

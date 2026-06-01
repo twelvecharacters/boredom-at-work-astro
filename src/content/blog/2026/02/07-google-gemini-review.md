@@ -1,5 +1,6 @@
 ---
 title: "Google Gemini Review: Is It Better Than ChatGPT in 2026?"
+slug: "google-gemini-review"
 description: "Honest review of Google Gemini after months of daily use. What it does well, where it falls short, and whether it's worth switching from ChatGPT."
 publishDate: 2026-02-07
 updatedDate: 2026-04-05

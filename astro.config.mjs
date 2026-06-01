@@ -147,6 +147,39 @@ export default defineConfig({
   redirects: {
     '/learning-paths': '/ai-learning-hub/',
     '/learning-paths/ai-mastery': '/ai-learning-hub/',
-    '/learning-paths/3d-printing-startup': '/3d-printing-guide/'
+    '/learning-paths/3d-printing-startup': '/3d-printing-guide/',
+
+    // Slug-Fix 1.6.2026: Filename-Prefix-Bug (acc27af) — Bing/Google haben prefixed URLs
+    // gecrawlt zwischen 31.5. und 1.6.2026. 301 zurück auf canonical Slugs.
+    '/01-ai-trip-planning-japan/': '/ai-trip-planning-japan/',
+    '/04-ai-packing-list-travel-checklist/': '/ai-packing-list-travel-checklist/',
+    '/04-chatgpt-plus-vs-free/': '/chatgpt-plus-vs-free/',
+    '/05-ai-trip-planning-vietnam/': '/ai-trip-planning-vietnam/',
+    '/07-google-gemini-review/': '/google-gemini-review/',
+    '/10-chatgpt-for-excel/': '/chatgpt-for-excel/',
+    '/11-gemini-travel-planning/': '/gemini-travel-planning/',
+    '/12-ai-trip-planning-cambodia/': '/ai-trip-planning-cambodia/',
+    '/13-chatgpt-custom-instructions/': '/chatgpt-custom-instructions/',
+    '/13-chatgpt-malaysia-trip-planning/': '/chatgpt-malaysia-trip-planning/',
+    '/13-perplexity-travel-research/': '/perplexity-travel-research/',
+    '/15-best-ai-browser-extensions/': '/best-ai-browser-extensions/',
+    '/15-best-ai-trip-planners/': '/best-ai-trip-planners/',
+    '/16-ai-presentation-makers/': '/ai-presentation-makers/',
+    '/16-convince-wife-3d-printer/': '/convince-wife-3d-printer/',
+    '/17-essential-mac-apps-2026/': '/essential-mac-apps-2026/',
+    '/17-japan-vietnam-cambodia-comparison/': '/japan-vietnam-cambodia-comparison/',
+    '/18-chatgpt-travel-planning-prompts/': '/chatgpt-travel-planning-prompts/',
+    '/18-trmnl-e-ink-dashboard-review/': '/trmnl-e-ink-dashboard-review/',
+    '/19-vs-code-vs-antigravity/': '/vs-code-vs-antigravity/',
+    '/20-ai-travel-planning-mistakes/': '/ai-travel-planning-mistakes/',
+    '/20-build-ai-flight-search-agent/': '/build-ai-flight-search-agent/',
+    '/20-sensor-size-guide-mft-apsc-fullframe/': '/sensor-size-guide-mft-apsc-fullframe/',
+    '/22-claude-vs-chatgpt-travel-planning/': '/claude-vs-chatgpt-travel-planning/',
+    '/23-3d-printing-for-coffee-nerds/': '/3d-printing-for-coffee-nerds/',
+    '/23-new-gemini-features-2026/': '/new-gemini-features-2026/',
+    '/25-ai-planning-southeast-asia-trip-2026/': '/ai-planning-southeast-asia-trip-2026/',
+    '/27-free-ai-travel-tools/': '/free-ai-travel-tools/',
+    '/30-antigravity-2-gemini-35/': '/antigravity-2-gemini-35/',
+    '/31-ai-powered-smart-appliances-guide/': '/ai-powered-smart-appliances-guide/',
   }
 });

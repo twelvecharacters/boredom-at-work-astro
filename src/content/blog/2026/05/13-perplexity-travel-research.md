@@ -1,5 +1,6 @@
 ---
 title: "Perplexity AI for Travel Research: Better Than Google?"
+slug: "perplexity-travel-research"
 description: "Perplexity combines AI conversation with real-time search, making it perfect for travel research. Here's how to use it to plan smarter trips."
 publishDate: 2026-05-13
 author: "Mehdi"

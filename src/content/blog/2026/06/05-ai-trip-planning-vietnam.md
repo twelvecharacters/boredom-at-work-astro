@@ -1,5 +1,6 @@
 ---
 title: "AI Trip Planning: Vietnam - The Complete Guide for 2026"
+slug: "ai-trip-planning-vietnam"
 description: "Plan your Vietnam adventure with AI. From Hanoi to Ho Chi Minh, use ChatGPT and flight agents to create the perfect Vietnamese itinerary."
 publishDate: 2026-06-05
 author: "Mehdi"

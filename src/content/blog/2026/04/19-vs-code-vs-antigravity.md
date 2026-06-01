@@ -1,5 +1,6 @@
 ---
 title: "VS Code vs. Antigravity: The Battle for the Agentic Workspace in 2026"
+slug: "vs-code-vs-antigravity"
 description: "VS Code vs Google's Antigravity in 2026: which agentic workspace wins? We compare performance, security, and the new 'vibe coding' workflow."
 publishDate: 2026-04-19
 author: "Mehdi"

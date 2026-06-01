@@ -1,5 +1,6 @@
 ---
 title: "3D Printing for Coffee Nerds: The Ultimate Guide to Espresso Mods & Organization"
+slug: "3d-printing-for-coffee-nerds"
 description: "Why spend $300 on accessories when you can print them? From planetary-gear WDT tools to aesthetic bean cellars, here is how to upgrade your coffee station with 3D printing."
 publishDate: 2026-04-23
 author: "Mehdi"

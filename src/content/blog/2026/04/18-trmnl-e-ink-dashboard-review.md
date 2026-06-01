@@ -1,5 +1,6 @@
 ---
 title: "TRMNL: The E-Ink Dashboard That Reclaims Your Desk and Focus"
+slug: "trmnl-e-ink-dashboard-review"
 description: "Is your desk setup missing something? Discover TRMNL, the minimalist E-ink display that gives you glanceable data without the distraction of a standard monitor."
 publishDate: 2026-04-18
 author: "Mehdi"

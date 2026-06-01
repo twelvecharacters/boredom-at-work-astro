@@ -1,5 +1,6 @@
 ---
 title: "Google Gemini for Travel Planning: The Real-Time Advantage"
+slug: "gemini-travel-planning"
 description: "Gemini's real-time data and Google integration make it uniquely powerful for travel planning. Here's how to use it effectively for your next trip."
 publishDate: 2026-05-11
 author: "Mehdi"

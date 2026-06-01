@@ -1,5 +1,6 @@
 ---
 title: "ChatGPT for Excel: Formulas, Analysis & Automation"
+slug: "chatgpt-for-excel"
 description: "Learn how to use ChatGPT to write Excel formulas, analyze spreadsheets, create macros, and save hours of manual work. Practical examples included."
 publishDate: 2026-02-10
 author: "Mehdi"

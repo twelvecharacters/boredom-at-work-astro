@@ -1,5 +1,6 @@
 ---
 title: "Build an AI Flight Search Agent (No Coding)"
+slug: "build-ai-flight-search-agent"
 description: "Learn how AI agents work by building a flight search assistant. From no-code tools to Python scripts, find the cheapest flights automatically."
 publishDate: 2026-05-20
 author: "Mehdi"

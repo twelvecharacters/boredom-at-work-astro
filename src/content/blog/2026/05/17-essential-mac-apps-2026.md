@@ -1,5 +1,6 @@
 ---
 title: "5 Essential Mac Apps You Didn't Know You Needed (2026 Edition)"
+slug: "essential-mac-apps-2026"
 description: "Elevate your macOS experience with these 5 must-have apps. From window management to cloud storage, these tools are game-changers for productivity."
 publishDate: 2026-05-17
 author: "Mehdi"

@@ -1,5 +1,6 @@
 ---
 title: "The AI Kitchen Revolution: How Smart Appliances are Reclaiming Your 5-to-9"
+slug: "ai-powered-smart-appliances-guide"
 description: "AI-powered smart appliances are transforming home management. From meal-planning fridges to precision ovens, see the future of the AI kitchen."
 publishDate: 2026-05-31
 author: "bored chap"

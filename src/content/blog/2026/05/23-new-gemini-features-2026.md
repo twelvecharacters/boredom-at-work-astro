@@ -1,5 +1,6 @@
 ---
 title: "Google Gemini 2026: The New Features You Need to Try"
+slug: "new-gemini-features-2026"
 description: "Discover the latest Google Gemini features in 2026. From the massive 2M context window to custom Gems and Workspace integration, here is how to use them."
 publishDate: 2026-05-23
 author: "bored chap"

@@ -1,5 +1,6 @@
 ---
 title: "Antigravity 2 Meets Gemini 3.5: The AI Coding Assistant That Actually Gets Your Codebase"
+slug: "antigravity-2-gemini-35"
 description: "Antigravity 2 paired with Gemini 3.5 is changing how developers work at the office. Here's what's new, what's improved, and why this combo is worth your attention in 2026."
 publishDate: 2026-05-30
 author: "bored chap"
