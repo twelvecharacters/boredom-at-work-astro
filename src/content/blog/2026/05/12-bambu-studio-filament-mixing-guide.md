@@ -161,4 +161,4 @@ And for those of us who live for "productive procrastination," spending a weeken
 - [The 2026 State of Additive: Why the Bambu Lab H2 Series Still Matters](/bambu-lab-h2-series-revisited-2026)
 - [3D Printing for Coffee Nerds: Building the Perfect Setup](/3d-printing-for-coffee-nerds/)
 - [10 Practical Desk Upgrades You Can 3D Print](/10-practical-desk-upgrades-3d-print/)
-- [The $599 Miracle: One Month with the MacBook Neo](/macbook-neo-review/)
+- [The $599 Miracle: One Month with the MacBook Neo](/macbook-neo-one-month-review/)

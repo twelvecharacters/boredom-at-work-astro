@@ -486,7 +486,7 @@ I prefer [independent travel / guided tours / a mix].
 
 2. **Combine elements from multiple templates** if needed. You're a remote-working data analyst? Mix templates 4 and 5. Just stay under the 1,500-character limit per field.
 
-3. **Iterate after a week.** Notice when ChatGPT still misses the mark and adjust your instructions. The best templates are the ones you've customized over time. For more on crafting effective instructions, see the [prompt engineering guide](/prompt-engineering-guide/).
+3. **Iterate after a week.** Notice when ChatGPT still misses the mark and adjust your instructions. The best templates are the ones you've customized over time. For more on crafting effective instructions, see our [prompt engineering walkthrough](/prompt-engineering-afternoon/).
 
 ---
 
