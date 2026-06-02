@@ -160,3 +160,5 @@ After my 6-month test, I kept my subscription. The convenience of always having 
 The best approach isn't all-or-nothing. It's using every option, KU, library, purchases, strategically.
 
 For more ways to maximize your reading budget, see our [guide to free Kindle books](/free-books-kindle/) and our [full Kindle guide](/kindle-guide/) covering setup, tips, and every source of books.
+
+Need title recommendations to fill that KU library? Start with our [books for productive procrastination](/books-for-productive-procrastination/) list. Building a learning habit beyond fiction? The [Learn AI Guide](/learn-ai-guide/) is a structured roadmap that pairs well with e-book reading.

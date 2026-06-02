@@ -217,3 +217,5 @@ But if you're not sure, start with the free Kindle app on your phone. If you fin
 The best e-reader is the one you'll actually use. For many people, that's a Kindle Paperwhite. For others, it's whatever's already in their pocket. Not sure which model? Our [best e-readers guide](/best-e-readers/) compares every option on the market.
 
 If you do buy a Kindle and want to push it further, our [Kindle modding guide](/kindle-modding-guide/) covers jailbreaking, KOReader, and getting native EPUB support without Calibre conversions.
+
+Already have a Kindle and need something to read on it? Our [books for productive procrastination](/books-for-productive-procrastination/) list works perfectly for desk reading. For more ways to stay focused at work, see our guide to [using AI at work safely](/how-to-use-ai-at-work-safely/).

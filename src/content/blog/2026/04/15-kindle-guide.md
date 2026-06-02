@@ -264,3 +264,5 @@ That's it. You're now ahead of 90% of Kindle owners who never dig past the defau
 ---
 
 *Ready to go deeper? Start with [Kindle Tips and Tricks](/kindle-tips-and-tricks/) for 20+ customizations, then check out [Free Books for Kindle](/free-books-kindle/) to fill your library without spending. For comparisons with other e-readers, see our [best e-readers roundup](/best-e-readers/).*
+
+*Setting up a complete workspace? Pair this with our [desk upgrade guide](/desk-upgrade-guide/) for the workstation itself, and our [AI tools guide](/ai-tools-guide/) for the productivity stack you'll actually use during reading breaks.*

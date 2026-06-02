@@ -146,3 +146,5 @@ It's a tiny change that makes reading feel more natural. You're welcome.
 ---
 
 Still deciding which Kindle to get? Check our [best e-readers guide](/best-e-readers/) or the classic [Kindle vs Kobo comparison](/kindle-vs-kobo/). And once you have one, our [complete Kindle guide](/kindle-guide/) covers setup, books, and customization, and our [best Kindle accessories guide](/best-kindle-accessories/) covers the only add-ons actually worth buying.
+
+Enjoyed tweaking your reading setup? The same mindset applies to your AI tools, see our [ChatGPT custom instructions templates](/chatgpt-custom-instructions/) for ChatGPT customizations that change how it works, and our guide to [using AI at work safely](/how-to-use-ai-at-work-safely/) for ground rules.

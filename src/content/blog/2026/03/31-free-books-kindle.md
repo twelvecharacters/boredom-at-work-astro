@@ -150,3 +150,5 @@ Here's what I actually use:
 Between these four sources, I spend maybe $5/month on books total. Not bad for a hobby that used to cost me $30–50/month in paperbacks.
 
 The Kindle pays for itself within a few months. If you're still on the fence, here's our honest take on [whether a Kindle is worth it](/is-kindle-worth-it/). Already own one? Our [full Kindle guide](/kindle-guide/) covers setup, tips, and every way to get books onto it.
+
+For a curated list of titles worth your reading time, see our [books for productive procrastination](/books-for-productive-procrastination/) roundup. And if saving money on hobbies is a theme for you, our [best finance YouTube channels](/best-finance-youtube-channels/) is a good follow-up.
