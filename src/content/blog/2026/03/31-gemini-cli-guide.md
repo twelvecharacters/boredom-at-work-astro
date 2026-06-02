@@ -198,3 +198,4 @@ If you find yourself constantly jumping between your IDE and your browser, give 
 - [Google Gemini Review: Is It Better Than ChatGPT in 2026?](/google-gemini-review/)
 - [How Gemini CLI Changed My Coding Flow Forever](/how-gemini-changed-my-coding-flow/)
 - [VS Code vs Antigravity: The Battle for the Agentic Workspace](/vs-code-vs-antigravity/)
+- [Antigravity 2 + Gemini 3.5: What Just Shipped](/antigravity-2-gemini-35/)

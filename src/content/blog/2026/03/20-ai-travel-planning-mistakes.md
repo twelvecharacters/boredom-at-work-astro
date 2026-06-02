@@ -244,3 +244,4 @@ Use AI for the **creative and structural work**. Handle the **verification and l
 - [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/), Better prompts
 - [Best AI Trip Planners](/best-ai-trip-planners/), Choose the right tool
 - [AI Tools Guide](/ai-tools-guide/), All AI tools compared
+- [AI-Planned Istanbul Solo Trip](/ai-planned-istanbul-solo-trip/), Real-world example of which advice held up

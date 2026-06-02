@@ -247,3 +247,4 @@ See AI travel planning in action with real trips, including what worked and what
 - [Malaysia Trip Case Study](/chatgpt-malaysia-trip-planning/), See AI planning in action
 - [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/), 19 prompts that work
 - [AI Flight Search Agent](/build-ai-flight-search-agent/), Build something advanced
+- [AI-Planned Istanbul Solo Trip](/ai-planned-istanbul-solo-trip/), Personal recap of a real 3-day trip

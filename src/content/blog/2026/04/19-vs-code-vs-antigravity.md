@@ -141,4 +141,5 @@ The choice is yours. Will you pick up the pen, or will you take the baton?
 - [Best AI Tools for Work in 2026](/ai-tools-guide/)
 - [Claude vs ChatGPT 2026: Which AI Is Actually Better?](/claude-vs-chatgpt/)
 - [How to Use AI at Work Safely: A Practical 2026 Guide](/how-to-use-ai-at-work-safely/)
+- [Antigravity 2 + Gemini 3.5: What Just Shipped](/antigravity-2-gemini-35/)
 

@@ -474,6 +474,7 @@ Quick links to all tools mentioned:
 - [Learn AI Guide](/learn-ai-guide/), Your complete AI learning roadmap
 - [ChatGPT Mastery Guide](/chatgpt-guide/), Everything about ChatGPT
 - [Desk Upgrade Guide](/desk-upgrade-guide/), Build a productive workspace for using these tools
+- [AI-Powered Smart Appliances Guide](/ai-powered-smart-appliances-guide/), AI beyond software, in your home
 
 ---
 

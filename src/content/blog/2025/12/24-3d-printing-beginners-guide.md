@@ -266,4 +266,4 @@ Getting started with 3D printing is easier than ever. With the right expectation
 
 ---
 
-*Ready for the next step? Check out [what you should 3D print first](/what-to-3d-print-first/) for practical project ideas.*
+*Ready for the next step? Check out [what you should 3D print first](/what-to-3d-print-first/) for practical project ideas. Need to convince a skeptical partner about the printer purchase? Our [convince your wife you need a 3D printer](/convince-wife-3d-printer/) guide has the playbook.*
