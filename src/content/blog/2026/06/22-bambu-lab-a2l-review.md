@@ -4,7 +4,7 @@ slug: "bambu-lab-a2l-review"
 description: "Bambu Lab just dropped the A2L: a 330mm large-format bed-slinger with linear motors and Lidar for $499. Is this the end of the small-printer era?"
 publishDate: 2026-06-22
 author: "Mehdi"
-image: "./22-bambu-lab-a2l-review.webp"
+image: "./22-bambu-lab-a2l-review.png"
 imageAlt: "The Bambu Lab A2L 3D printer showing its large 330mm build plate and linear motor rails."
 tags: ["3D Printing", "Bambu Lab", "Review", "Hardware", "Large Format"]
 draft: false

@@ -4,7 +4,7 @@ slug: "ai-workflow-roi"
 description: "Is AI actually saving you time and money? A deep dive into the ROI of AI workflows in 2026, from subscription costs to hidden productivity gains."
 publishDate: 2026-06-30
 author: "Mehdi"
-image: "./30-ai-workflow-roi.webp"
+image: "./30-ai-workflow-roi.png"
 imageAlt: "A conceptual illustration of a balance scale with a robot arm on one side and a stack of coins/clocks on the other"
 tags: ["AI", "Productivity", "Workflow", "ROI", "Business"]
 draft: false
