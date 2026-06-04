@@ -122,8 +122,8 @@ The sheer breadth of connections. CoinStats supports 300+ wallets and exchanges,
 **Pricing breakdown:**
 
 - **Free:** Limited portfolios and daily syncs
-- **Premium (~$4/mo billed annually at ~$36/yr):** 100 portfolios, 100,000 transactions, 200 daily syncs per portfolio
-- **Degen (~$63/mo or ~$755/yr):** 500 portfolios, 1,000,000 transactions, unlimited daily syncs, VIP support
+- **CoinStats Premium (~$4/mo billed annually at ~$36/yr):** 100 portfolios, 100,000 transactions, 200 daily syncs per portfolio
+- **CoinStats Degen (~$63/mo or ~$755/yr):** 500 portfolios, 1,000,000 transactions, unlimited daily syncs, VIP support
 
 CoinStats also offers a 7-day free trial for the yearly Premium plan.
 

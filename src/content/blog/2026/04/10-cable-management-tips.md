@@ -27,7 +27,7 @@ faq:
   - question: "How do I hide cables on a standing desk?"
     answer: "Standing desks need extra cable slack for height adjustment. Use a cable management spine or flexible cable sleeve that expands and contracts with the desk. Mount your power strip to the desk frame (not the wall) so it moves with the desk. Leave 6-12 inches of slack at connection points."
   - question: "Are cable management trays worth it?"
-    answer: "Yes, a $20-40 cable tray is one of the best desk upgrades. It hides your power strip and excess cables completely, keeps them off the floor (easier cleaning), and makes your setup look professional. Even a basic tray makes a huge difference."
+    answer: "Yes, a ~$25 cable tray is one of the best desk upgrades. It hides your power strip and excess cables completely, keeps them off the floor (easier cleaning), and makes your setup look professional. Even a basic tray makes a huge difference."
   - question: "What's the difference between cable clips and cable ties?"
     answer: "Cable clips attach to surfaces (desk edge, wall) to route cables along a path. Cable ties bundle multiple cables together. You need both: clips to guide cables where you want them, ties to keep bundles neat. Use velcro ties instead of zip ties, they're reusable and adjustable."
   - question: "How do I manage cables behind a TV or monitor?"
@@ -224,7 +224,7 @@ Cables that reach your desktop (keyboard, mouse, charging cables):
 - Cable tray with power strip (under desk, back center)
 - Route all power cables to tray
 - Desktop charging cable with single clip at desk edge
-- Total products needed: ~$40
+- Home office total: ~$40
 
 ### Gaming Setup
 
@@ -235,7 +235,7 @@ Cables that reach your desktop (keyboard, mouse, charging cables):
 - Cable raceway for PC-to-desk runs
 - Dedicated USB hub mounted under desk
 - Velcro ties for bundling thick cables
-- Total products needed: ~$60-80
+- Gaming setup total: ~$60-80
 
 ### Standing Desk
 
@@ -246,7 +246,7 @@ Cables that reach your desktop (keyboard, mouse, charging cables):
 - Cable spine for desk-to-floor
 - Extra slack at all connection points
 - Power strip moves with desk
-- Total products needed: ~$50-70
+- Standing desk total: ~$50-70
 
 ### Dual Monitor Setup
 

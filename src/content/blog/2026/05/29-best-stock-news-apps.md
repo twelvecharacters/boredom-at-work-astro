@@ -40,7 +40,7 @@ If you're newer to investing, you might want to pair these news apps with a [goo
 | **Benzinga Pro** | 14-day trial | ~$27-199/mo | Audio squawk (real-time) | Yes | Day traders + speed |
 | **MarketWatch** | Most content free | ~$2-4/mo (promo) | Clean, beginner-friendly | Yes | Beginners |
 | **Finimize** | Limited | ~$7-10/mo | 3-minute daily briefs | Yes | Busy professionals |
-| **Motley Fool** | Articles free | ~$99-199/yr | Stock Advisor picks | Yes | Long-term investors |
+| **Motley Fool** | Articles free | ~$199/yr | Stock Advisor picks | Yes | Long-term investors |
 
 *Prices are approximate and may vary based on promotions and billing cycles.*
 

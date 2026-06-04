@@ -1,6 +1,6 @@
 ---
 title: "The $599 Experiment: A Month with the MacBook Neo"
-description: "Apple's cheapest laptop in a decade uses an iPhone chip and only has 8GB of RAM. Is it a toy, or the ultimate tool for productive procrastination? We spent 30 days finding out."
+description: "Apple's $599 MacBook Neo uses an iPhone chip and 8GB of RAM. Is it a toy or the ultimate tool for focused work? We spent 30 days finding out."
 publishDate: 2026-04-25
 author: "Mehdi"
 image: "./25-macbook-neo-review.webp"

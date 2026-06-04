@@ -117,16 +117,16 @@ The AI is a tool to help you understand yourself better, but it doesn't have the
 
 You don't need to buy every gadget on day one. Here is a tiered approach to building your stack:
 
-### Level 1: The "Software Only" Starter (Budget: ~$0 - $20/mo)
+### Level 1: The "Software Only" Starter (Starter Cost: ~$0 - $20/mo)
 - **ChatGPT / Claude:** Use them as a nutritionist and programmer. "Here is what's in my fridge, give me a high-protein meal under 600 calories." Or "Design a 4-week 5K training plan for a beginner."
 - **Zing Coach:** Use the free tier for AI-guided bodyweight workouts.
 - **MyFitnessPal:** Use the AI photo logging feature.
 
-### Level 2: The "Quantified" Intermediate (Budget: ~$200 - $500)
+### Level 2: The "Quantified" Intermediate (Intermediate Cost: ~$200 - $500)
 - **Wearable (Oura, Whoop, or Apple Watch):** Start tracking your HRV and sleep stages. Use the "Readiness" data to decide when to push and when to pull back.
 - **Form Analysis App:** Use a paid subscription to something like **SwingVision** or **Golf.ai** to refine your specific sports technique.
 
-### Level 3: The "Biohacker" Advanced (Budget: $1,000+)
+### Level 3: The "Biohacker" Advanced (Advanced Cost: $1,000+)
 - **Eight Sleep Pod:** Actively manage your sleep environment.
 - **CGM (Levels/Nutrisense):** Map your metabolic response to food.
 - **Professional Video Analysis:** Use high-end AI software to break down every aspect of your athletic performance.

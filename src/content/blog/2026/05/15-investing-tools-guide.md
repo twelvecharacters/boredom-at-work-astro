@@ -122,11 +122,11 @@ Time to put actual money to work. Every brokerage on this list charges $0 for st
 
 | App | Best For | Fractional Shares | Unique Feature |
 |-----|---------|-------------------|----------------|
-| Fidelity | Overall beginners | Yes ($1 min) | Zero-fee index funds |
-| Charles Schwab | Education + tools | Yes ($5 min) | thinkorswim included |
-| [Robinhood](https://robinhood.com) | Simplicity | Yes ($1 min) | Clean mobile UX |
-| Vanguard | Long-term indexing | Yes ($1 min) | Pioneer of index investing |
-| SoFi Invest | All-in-one finance | Yes ($5 min) | Banking + investing combined |
+| Fidelity | Overall beginners | From $1 | Zero-fee index funds |
+| Charles Schwab | Education + tools | From $5 | thinkorswim included |
+| [Robinhood](https://robinhood.com) | Simplicity | From $1 | Clean mobile UX |
+| Vanguard | Long-term indexing | From $1 | Pioneer of index investing |
+| SoFi Invest | All-in-one finance | From $5 | Banking + investing combined |
 
 **If I had to pick one:** Fidelity. No account minimum, $0 commissions, zero-fee index funds, and the best educational library. It's the boring choice. It's the right choice.
 
@@ -146,8 +146,8 @@ Stock screeners filter thousands of stocks by criteria you set, P/E ratio, marke
 |----------|-------|----------|
 | [Finviz](https://finviz.com) | Free (Elite: ~$25/mo) | Best free screener overall |
 | Yahoo Finance | Free | Quick filters + news integration |
-| [TradingView](https://www.tradingview.com) | Free (Plus: ~$15/mo) | Best for technical analysis |
-| Seeking Alpha | Free (Premium: ~$25/mo) | Analyst ratings + quant scores |
+| [TradingView](https://www.tradingview.com) | Free (Pro: ~$15/mo) | Best for technical analysis |
+| Seeking Alpha | Free (Seeking Alpha Premium: ~$25/mo) | Analyst ratings + quant scores |
 
 **Deep dive:** [Best Free Stock Screeners](/best-free-stock-screeners/), How to use screeners effectively with example filters.
 
@@ -173,9 +173,9 @@ As your portfolio grows, tracking becomes important. These tools monitor your ho
 
 | Tool | Price | Best For |
 |------|-------|----------|
-| Stock Events | Free (Pro: ~$6/mo) | Dividend calendar + income tracking |
+| Stock Events | Free (Stock Events Pro: ~$6/mo) | Dividend calendar + income tracking |
 | Sharesight | Free (up to 10 holdings) | Tax reporting + performance |
-| Simply Wall St | Free (Premium: ~$10/mo) | Visual portfolio analysis |
+| Simply Wall St | Free (Simply Wall St Premium: ~$10/mo) | Visual portfolio analysis |
 | Your brokerage app | Free | Basic tracking (already built in) |
 
 **Pro tip:** Your brokerage app already tracks your portfolio. A separate tracker is only necessary if you have accounts at multiple brokerages, want better dividend tracking, or need tax reporting features.

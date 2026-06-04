@@ -1,6 +1,6 @@
 ---
 title: "The 2026 State of Additive: Why the Bambu Lab H2 Series Still Matters"
-description: "With the recent launch of the X2D flagship, many are wondering if the H2 series is still relevant. We revisit the H2S, H2D, and H2C to see how they hold up in the current 3D printing landscape."
+description: "Is the Bambu Lab H2 series still relevant after the X2D launch? We revisit the H2S, H2D, and H2C to see how they hold up in the 2026 3D printing landscape."
 publishDate: 2026-05-05
 author: "Mehdi"
 image: "./05-bambu-lab-h2-series-comparison.png"

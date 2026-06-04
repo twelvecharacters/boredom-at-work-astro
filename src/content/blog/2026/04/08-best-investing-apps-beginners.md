@@ -34,12 +34,12 @@ If you want to [practice with fake money first](/best-paper-trading-apps/) (hone
 
 | App | Commission | Min. Deposit | Fractional Shares | Best For | Monthly Cost |
 |-----|-----------|-------------|-------------------|----------|-------------|
-| **Fidelity** | $0 | $0 | Yes ($1 min) | Overall beginners | Free |
-| **Charles Schwab** | $0 | $0 | Yes ($5 min) | Education + tools | Free |
-| **Robinhood** | $0 | $0 | Yes ($1 min) | Simplicity | Free ($5/mo Gold) |
-| **Vanguard** | $0 | $0 | Yes ($1 min) | Long-term index investing | Free |
-| **SoFi Invest** | $0 | $0 | Yes ($5 min) | All-in-one finance | Free |
-| **Webull** | $0 | $0 | Yes ($1 min) | Active beginners | Free |
+| **Fidelity** | $0 | $0 | From $1 | Overall beginners | Free |
+| **Charles Schwab** | $0 | $0 | From $5 | Education + tools | Free |
+| **Robinhood** | $0 | $0 | From $1 | Simplicity | Free ($5/mo Gold) |
+| **Vanguard** | $0 | $0 | From $1 | Long-term index investing | Free |
+| **SoFi Invest** | $0 | $0 | From $5 | All-in-one finance | Free |
+| **Webull** | $0 | $0 | From $1 | Active beginners | Free |
 | **Acorns** | N/A | $5 | Automated | Set-and-forget | $3-12/mo |
 
 *All apps offer $0 commissions on stocks and ETFs. Options, futures, and other products may carry fees.*
@@ -48,7 +48,7 @@ If you want to [practice with fake money first](/best-paper-trading-apps/) (hone
 
 ## 1. Fidelity, Best Overall for Beginners
 
-**Commissions:** $0 stocks/ETFs, $0.65/options contract | **Minimum:** $0 | **Fractional Shares:** Yes, from $1
+**Commissions:** $0 stocks/ETFs, $0.65/options contract | **Minimum:** $0 | **Fractional Shares:** From $1
 
 If I had to recommend one app to someone who's never invested before, it's [Fidelity](https://www.fidelity.com). No contest.
 
@@ -72,7 +72,7 @@ Anyone who wants a reliable, full-featured brokerage that won't charge them unne
 
 ## 2. Charles Schwab, Best for Education and Tools
 
-**Commissions:** $0 stocks/ETFs, $0.65/options contract | **Minimum:** $0 | **Fractional Shares:** Yes ($5 min via Stock Slices)
+**Commissions:** $0 stocks/ETFs, $0.65/options contract | **Minimum:** $0 | **Fractional Shares:** From $5 (via Stock Slices)
 
 Schwab is the platform you grow into. It's beginner-friendly on the surface, but there's serious depth underneath for when you're ready.
 
@@ -96,7 +96,7 @@ Beginners who take learning seriously and want room to grow. If you see yourself
 
 ## 3. Robinhood, Best for Simplicity
 
-**Commissions:** $0 stocks/ETFs, $0.50/options contract ($0.35 with Gold) | **Minimum:** $0 | **Fractional Shares:** Yes, from $1
+**Commissions:** $0 stocks/ETFs, $0.50/options contract ($0.35 with Gold) | **Minimum:** $0 | **Fractional Shares:** From $1
 
 Love it or hate it, [Robinhood](https://robinhood.com) made investing accessible to an entire generation. And despite the controversies, the app itself is genuinely good for beginners.
 
