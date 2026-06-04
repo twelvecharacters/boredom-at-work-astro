@@ -15,7 +15,7 @@ faq:
   - question: "Do these extensions work in Microsoft Edge?"
     answer: "Yes, since Edge is built on Chromium, almost all Chrome Web Store extensions work natively in Edge. This is particularly useful for corporate environments where Edge is the standard browser."
   - question: "How much do these AI extensions cost?"
-    answer: "Most tools follow a freemium model. Free tiers often include basic models (like GPT-4o mini) with daily limits. Pro plans typically range from $10 to $30 per month for unlimited access to advanced models like Claude Sonnet 4.5 or GPT-4o."
+    answer: "Most tools follow a freemium model. Free tiers often include basic models (like GPT-4o mini) with daily limits. Pro plans typically range from $10 to $30 per month for unlimited access to advanced models like Claude 4.6 or GPT-5.5."
   - question: "Will these extensions slow down my browser?"
     answer: "Modern AI extensions are lightweight, but having many active sidebars can impact memory usage. It is recommended to pin only the ones you use daily and use keyboard shortcuts to toggle them only when needed."
   - question: "Can IT see that I'm using an AI extension?"
@@ -95,7 +95,7 @@ Let Otter record the "all-hands" meeting or a repetitive weekly sync while you u
 ---
 
 ## 5. [Merlin](https://chromewebstore.google.com/detail/merlin-ai-assistant-power/camppjlehlgejonlefmimobdgibohnon): The Swiss Army Knife for Power Users
-If you only want to install one extension, Merlin is the strongest candidate. It is a centralized hub that gives you access to almost every major AI model (GPT-4, Claude 3, Gemini) in a single sidebar.
+If you only want to install one extension, Merlin is the strongest candidate. It is a centralized hub that gives you access to almost every major AI model (GPT-5.5, Claude 4.6, Gemini 3.5) in a single sidebar.
 
 ### Deep Dive Features
 Merlin's power lies in its versatility and its ability to handle different media types.
