@@ -2,9 +2,9 @@
 title: "ChatGPT for Email: 9 Templates That Actually Work in 2026"
 slug: "chatgpt-for-email-templates"
 description: "Stop writing emails from scratch. Nine proven ChatGPT prompts for cold outreach, replies, follow-ups, apologies, and negotiations. Copy and adapt."
-publishDate: 2026-08-20
+publishDate: 2026-06-15
 author: "Mehdi"
-image: "./20-chatgpt-for-email-templates.webp"
+image: "./15-chatgpt-for-email-templates.webp"
 imageAlt: "ChatGPT interface drafting a professional email with a template structure"
 tags: ["AI", "ChatGPT", "Email", "Productivity", "Templates"]
 draft: false

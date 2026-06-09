@@ -2,9 +2,9 @@
 title: "Best ChatGPT Plugins in 2026? They're Now Custom GPTs (Top 12 Picks)"
 slug: "best-chatgpt-plugins-custom-gpts"
 description: "ChatGPT Plugins are gone. Custom GPTs replaced them. Here are the 12 best Custom GPTs for productivity, research, coding, and writing in 2026."
-publishDate: 2026-08-11
+publishDate: 2026-06-10
 author: "Mehdi"
-image: "./11-best-chatgpt-plugins-custom-gpts.webp"
+image: "./10-best-chatgpt-plugins-custom-gpts.webp"
 imageAlt: "ChatGPT interface showing a Custom GPT store with productivity, research, and coding tools"
 tags: ["AI", "ChatGPT", "Custom GPTs", "Productivity", "Tools"]
 draft: false

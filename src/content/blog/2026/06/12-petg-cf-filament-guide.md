@@ -2,9 +2,9 @@
 title: "PETG-CF Filament Guide 2026: Settings, Printers & When to Use It"
 slug: "petg-cf-filament-guide"
 description: "PETG-CF (carbon fiber reinforced PETG) is stiffer, stronger, and harder to print than regular PETG. Settings, hardware needs, and when it's worth the extra cost."
-publishDate: 2026-08-14
+publishDate: 2026-06-12
 author: "Mehdi"
-image: "./14-petg-cf-filament-guide.webp"
+image: "./12-petg-cf-filament-guide.webp"
 imageAlt: "Spool of black PETG-CF carbon fiber filament next to a 3D printed mechanical bracket"
 tags: ["3D Printing", "Filament", "PETG", "Carbon Fiber", "Materials"]
 draft: false

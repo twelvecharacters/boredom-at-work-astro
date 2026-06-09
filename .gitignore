@@ -34,3 +34,9 @@ __pycache__/
 
 # medium cross-post drafts (not part of site)
 medium-drafts/
+
+# local secrets / tooling — never commit
+*.kdbx
+KeePassXC
+.mcp.json
+*.code-workspace

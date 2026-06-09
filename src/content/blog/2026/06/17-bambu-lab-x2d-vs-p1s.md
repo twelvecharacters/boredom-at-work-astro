@@ -2,9 +2,9 @@
 title: "Bambu Lab X2D vs P1S (2026): Which Should You Buy?"
 slug: "bambu-lab-x2d-vs-p1s"
 description: "Bambu Lab X2D vs P1S compared: $649 dual-nozzle X2D with heated chamber, or $549 P1S workhorse. Specs, real-world use, and who should buy which."
-publishDate: 2026-08-24
+publishDate: 2026-06-17
 author: "Mehdi"
-image: "./24-bambu-lab-x2d-vs-p1s.webp"
+image: "./17-bambu-lab-x2d-vs-p1s.webp"
 imageAlt: "Bambu Lab X2D and P1S 3D printers side by side for comparison"
 tags: ["3D Printing", "Bambu Lab", "X2D", "P1S", "Comparison", "Buying Guide"]
 draft: false

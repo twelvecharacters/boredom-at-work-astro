@@ -2,9 +2,9 @@
 title: "Best Kindle Cases 2026: Tested Picks for Every Model"
 slug: "best-kindle-cases-2026"
 description: "The best Kindle cases in 2026 for Paperwhite, basic Kindle, Colorsoft, and Scribe. Genuine leather, slim covers, origami stands, and budget picks tested."
-publishDate: 2026-08-17
+publishDate: 2026-06-14
 author: "Mehdi"
-image: "./17-best-kindle-cases-2026.webp"
+image: "./14-best-kindle-cases-2026.webp"
 imageAlt: "Selection of Kindle cases in different styles: origami stand, slim cover, leather wallet, and sleeve"
 tags: ["Kindle", "E-Reader", "Accessories", "Buying Guide", "Amazon"]
 draft: false

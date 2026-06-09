@@ -2,9 +2,9 @@
 title: "AI Trip Planning: Cambodia - The Complete Guide for 2026"
 slug: "ai-trip-planning-cambodia"
 description: "Plan your Cambodia adventure with AI. From Angkor Wat to tropical beaches, use ChatGPT and flight agents to discover the Kingdom of Wonder."
-publishDate: 2026-06-12
+publishDate: 2026-08-14
 author: "Mehdi"
-image: "./12-ai-trip-planning-cambodia.webp"
+image: "./14-ai-trip-planning-cambodia.webp"
 imageAlt: "Cambodia travel scene with Angkor Wat and AI trip planning elements"
 tags: ["AI", "Travel", "Cambodia", "Asia", "AI Travel"]
 draft: false
