@@ -1,15 +1,16 @@
 ---
 import { AUTHOR } from '../config';
+import OptimizedImage from './OptimizedImage.astro';
 ---
 
 <aside class="author-bio">
   <div class="author-header">
     <a href="/about/" class="author-avatar-link" aria-label={`About ${AUTHOR.name}`}>
-      <img
+      <OptimizedImage
         src={AUTHOR.photo}
         alt={`${AUTHOR.name}, ${AUTHOR.jobTitle}`}
-        width="64"
-        height="64"
+        width={64}
+        height={64}
         loading="lazy"
         class="author-avatar-img"
       />
