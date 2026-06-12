@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
+import partytown from '@astrojs/partytown';
 import rehypeExternalLinks from 'rehype-external-links';
 import { readdirSync, readFileSync } from 'node:fs';
 import { join, basename } from 'node:path';
@@ -129,6 +130,11 @@ export default defineConfig({
   },
 
   integrations: [
+    partytown({
+      config: {
+        forward: ['dataLayer.push'],
+      },
+    }),
     sitemap({
       filter: (page) =>
         // Exclude tag pages

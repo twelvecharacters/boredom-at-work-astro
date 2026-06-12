@@ -1,0 +1,66 @@
+---
+// Replace with your actual Measurement ID if different
+const MEASUREMENT_ID = 'GT-PL3RVFQX';
+---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="text/partytown" async src={`https://www.googletagmanager.com/gtag/js?id=${MEASUREMENT_ID}`}></script>
+<script type="text/partytown">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', `${MEASUREMENT_ID}`);
+
+  // Scroll depth tracking (25/50/75/100%)
+  var scrollMarks = [25, 50, 75, 100];
+  var firedMarks = {};
+  window.addEventListener('scroll', function() {
+    var scrollPct = Math.round(100 * (window.scrollY + window.innerHeight) / document.documentElement.scrollHeight);
+    for (var i = 0; i < scrollMarks.length; i++) {
+      if (scrollPct >= scrollMarks[i] && !firedMarks[scrollMarks[i]]) {
+        firedMarks[scrollMarks[i]] = true;
+        gtag('event', 'scroll_depth', { percent: scrollMarks[i] });
+      }
+    }
+  }, { passive: true });
+
+  // 2. Outbound link click tracking
+  document.addEventListener('click', function(e) {
+    var link = e.target.closest('a[href]');
+    if (!link) return;
+    var href = link.getAttribute('href');
+    if (href && href.startsWith('http') && !href.includes('boredom-at-work.com')) {
+      gtag('event', 'outbound_click', { url: href });
+    }
+  });
+
+  // 3. Form Submission tracking
+  document.addEventListener('submit', function(e) {
+    if (e.target.tagName === 'FORM') {
+      gtag('event', 'form_submit', {
+        form_id: e.target.id || 'unknown',
+        form_action: e.target.action || 'unknown'
+      });
+    }
+  });
+
+  // 4. Video Engagement tracking (assuming native <video> elements)
+  document.addEventListener('play', function(e) {
+    if (e.target.tagName === 'VIDEO') {
+      gtag('event', 'video_play', { video_src: e.target.currentSrc });
+    }
+  }, true);
+
+  // 5. Search Term tracking (Assuming a search input in a form or a URL parameter)
+  // Example for URL parameter search tracking (e.g., ?q=...)
+  var urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.has('q')) {
+    gtag('event', 'site_search', { search_term: urlParams.get('q') });
+  }
+
+  // 6. Time-on-Page / Engagement Heartbeat (every 30 seconds)
+  setInterval(function() {
+    gtag('event', 'engagement_heartbeat', { duration_seconds: 30 });
+  }, 30000);
+</script>

@@ -19,6 +19,7 @@
     "traffic:cluster": "node scripts/gsc-traffic.js --cluster && node scripts/bing-traffic.js --cluster"
   },
   "dependencies": {
+    "@astrojs/partytown": "^2.1.7",
     "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.2",
     "@pagefind/default-ui": "^1.5.2",
