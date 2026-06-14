@@ -3,7 +3,7 @@
 <script type="text/partytown" src={`https://www.googletagmanager.com/gtag/js?id=GT-PL3RVFQX`}></script>
 <script type="text/partytown">
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
+  window.gtag = function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'GT-PL3RVFQX');
 

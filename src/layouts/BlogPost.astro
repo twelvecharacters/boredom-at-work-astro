@@ -25,6 +25,7 @@ import MobileBanner from '../components/MobileBanner.astro';
 import { BANNERS } from '../data/banners';
 import logo from '../assets/images/logo.webp';
 import ogDefault from '../assets/images/og-default.webp';
+import { getImage } from 'astro:assets';
 
 interface Props {
   post: CollectionEntry<'blog'>;
@@ -32,6 +33,8 @@ interface Props {
 
 const { post } = Astro.props;
 const { title, description, publishDate, updatedDate, author, image, imageAlt, tags, faq, tldr, review, isListicle, video, howTo, softwareApp, course } = post.data;
+
+const optimizedLogo = await getImage({ src: logo, width: 296, height: 95, format: 'webp' });
 
 // Calculate reading time (average 200 words per minute)
 const content = post.body || '';
@@ -343,7 +346,7 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
       "name": SITE.title,
       "logo": {
         "@type": "ImageObject",
-        "url": new URL(logo.src, Astro.site).toString()
+        "url": new URL(optimizedLogo.src, Astro.site).toString()
       }
     },
     "inLanguage": "en-US"
