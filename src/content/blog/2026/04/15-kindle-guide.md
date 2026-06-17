@@ -3,6 +3,7 @@ title: "The Complete Kindle Guide (2026): Setup, Books, Tips & Tricks"
 slug: "kindle-guide"
 description: "Complete Kindle guide for 2026. Setup, free books, customization, sideloading, accessories, tips, and tricks, everything you need to master your Kindle."
 publishDate: 2026-04-15
+updatedDate: 2026-06-17
 author: "Mehdi"
 image: "./15-kindle-guide.webp"
 imageAlt: "Kindle e-reader on a desk with a book and a cup of coffee"
@@ -82,7 +83,7 @@ Out of the box, setup takes about 5 minutes:
 ### Essential Settings to Change Immediately
 
 - **Warm light** (Paperwhite+): Set it to auto or schedule it. Reduces eye strain at night.
-- **Airplane mode when reading**: Conserves battery when you're not downloading new books.
+- **Airplane mode when reading**: Conserves battery when you're not downloading new books. **Crucial:** In mid-2026, keeping Airplane Mode on is the only way to prevent firmware 5.18.1.1.1+, which blocks many current modding exploits.
 - **Disable "Popular Highlights"**: Settings → Reading Options. They're distracting.
 - **Page refresh**: Set to "every page" for cleaner rendering. Minor battery hit, worth it.
 
@@ -190,7 +191,7 @@ For the advanced user, jailbreaking opens up:
 - **Screensavers**, Replace the default Amazon ads with your own images
 - **Basic terminal access**, For Linux-inclined users
 
-This isn't for everyone and voids your warranty. But for tinkerers, it turns a Kindle into a much more flexible device. Full instructions: [Kindle Modding Guide](/kindle-modding-guide/).
+As of June 2026, **Nosebleed** is the recommended method for modern models (PW5, K11) on firmware up to 5.18.6. This isn't for everyone and voids your warranty. But for tinkerers, it turns a Kindle into a much more flexible device. Full instructions: [Kindle Modding Guide](/kindle-modding-guide/).
 
 ---
 
@@ -227,6 +228,8 @@ If you're still deciding between Kindle and alternatives, here are the key compa
 Hardware: 5–8 years for most models. The main failure point is the battery, which degrades noticeably after year 4. Amazon doesn't officially offer battery replacements, but third-party services exist.
 
 Software: Kindles receive firmware updates for roughly 5–6 years after release. Older models lose some features (like Send to Kindle updates) but remain fully functional for reading.
+
+**Important Legacy Note:** On **May 20, 2026**, Amazon ended store and sync support for "legacy" models (1st-5th Gen). These devices can no longer download books over Wi-Fi, but remain functional via USB sideloading and [jailbreaking](/kindle-modding-guide/).
 
 ### Can I share Kindle books with family?
 
