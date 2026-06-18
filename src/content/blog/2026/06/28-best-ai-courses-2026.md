@@ -3,9 +3,10 @@ title: "Top AI Courses of 2026: Mastering Agentic Workflows and Local LLMs"
 slug: "best-ai-courses-2026"
 description: "A comprehensive guide to the most impactful and interesting AI courses in 2026, focusing on agentic design, local model deployment, and specialized industry applications."
 publishDate: 2026-06-28
-author: "Bored Chap"
+author: "Mehdi"
 tags: ["AI", "Education", "Learning", "LLMs", "Technology", "Career"]
 image: "./28-best-ai-courses-2026.png"
+imageAlt: "A futuristic control center with multiple holographic screens displaying complex AI data and workflows, representing the advanced state of AI education in 2026."
 draft: false
 isListicle: true
 tldr: "2026 marks a shift in AI education from 'how to prompt' to 'how to build autonomous systems.' The top courses this year focus on Agentic Workflows, local model deployment for privacy, and specialized industry integrations."

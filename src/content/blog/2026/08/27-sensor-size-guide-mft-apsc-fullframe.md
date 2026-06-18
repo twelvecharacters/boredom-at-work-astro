@@ -3,7 +3,7 @@ title: "The Ultimate Sensor Size Guide: Full Frame vs. APS-C vs. Micro Four Thir
 slug: "sensor-size-guide-mft-apsc-fullframe"
 description: "Choosing the right camera sensor size is the most important decision for your photography workflow. Compare Full Frame, APS-C, and MFT to find your perfect fit."
 publishDate: 2026-08-27
-author: "bored chap"
+author: "Mehdi"
 tags: ["Photography", "Camera Gear", "Tech Guide", "Photography Workflow"]
 image: "./27-sensor-size-guide-mft-apsc-fullframe.png"
 draft: false

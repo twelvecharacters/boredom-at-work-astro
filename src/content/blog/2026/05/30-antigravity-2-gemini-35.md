@@ -3,7 +3,7 @@ title: "Antigravity 2 Meets Gemini 3.5: The AI Coding Assistant That Actually Ge
 slug: "antigravity-2-gemini-35"
 description: "Antigravity 2 with Gemini 3.5 is changing how developers work. Explore the new Planning Mode, Knowledge Items, and multi-file context in this 2026 guide."
 publishDate: 2026-05-30
-author: "bored chap"
+author: "Mehdi"
 image: "./30-antigravity-2-gemini-35.png"
 imageAlt: "A holographic brain surrounded by floating code panels and AI data streams in purple and blue tones"
 tags: ["AI", "Gemini", "Google", "Productivity", "Tech", "Software", "Coding"]

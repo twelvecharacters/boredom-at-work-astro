@@ -3,7 +3,7 @@ title: "iPad vs. Android Tablet: Which Should You Buy in 2026?"
 slug: "ipad-vs-android-tablet"
 description: "A comprehensive 2026 comparison between iPads and Android tablets to help you decide which platform best suits your creative, professional, or entertainment needs."
 publishDate: 2026-06-07
-author: "Bored Chap"
+author: "Mehdi"
 tags: ["Tablets", "iPad", "Android", "Technology", "Buying Guide"]
 image: "./07-ipad-vs-android-tablet.png"
 draft: false

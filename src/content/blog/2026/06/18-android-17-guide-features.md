@@ -3,8 +3,9 @@ title: "Android 17: The AI-First Evolution – Features, Release Date, and Full 
 slug: "android-17-guide-features"
 description: "A deep dive into Android 17 (2026), exploring its revolutionary AI integration, enhanced privacy features, and everything you need to know about the current generation of mobile OS."
 publishDate: 2026-06-18
-author: "Bored Chap"
+author: "Mehdi"
 image: "./18-android-17-guide-features.jpg"
+imageAlt: "A futuristic smartphone interface displaying Android 17's new AI-powered features, including real-time translation and predictive suggestions."
 tags: ["Android", "Google", "Technology", "AI", "Mobile OS", "Software"]
 draft: false
 isListicle: false

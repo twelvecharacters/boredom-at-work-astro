@@ -197,7 +197,7 @@ Drafts in `medium-drafts/` (in `.gitignore`).
 title: "Artikel Titel"
 description: "SEO Beschreibung (150-160 Zeichen)"
 publishDate: YYYY-MM-DD
-author: "bored chap"
+author: "Mehdi"
 image: "/images/artikel-bild.webp"
 tags: ["Tag1", "Tag2"]
 draft: false
