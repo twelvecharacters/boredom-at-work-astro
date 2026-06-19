@@ -1,0 +1,42 @@
+---
+import { CATEGORIES } from '../config';
+
+// Duplicate categories so the infinite scroll is seamless
+const sliderCategories = [...CATEGORIES, ...CATEGORIES];
+---
+
+<section class="py-6 border-b border-primary/5 bg-white overflow-hidden relative">
+  <!-- Gradient fading edges for smooth entrance/exit -->
+  <div class="absolute left-0 top-0 bottom-0 w-12 md:w-32 bg-gradient-to-r from-white to-transparent z-10 pointer-events-none"></div>
+  <div class="absolute right-0 top-0 bottom-0 w-12 md:w-32 bg-gradient-to-l from-white to-transparent z-10 pointer-events-none"></div>
+
+  <div class="slider-container flex items-center w-max gap-4 px-4 hover:[animation-play-state:paused]">
+    {sliderCategories.map((category) => (
+      <a 
+        href={category.viewAllHref}
+        class="flex items-center gap-3 bg-background-alt hover:bg-primary/5 border border-primary/5 px-6 py-3 rounded-2xl transition-colors shrink-0 group"
+      >
+        <span class="text-xl group-hover:scale-110 transition-transform origin-center">{category.icon}</span>
+        <span class="font-bold text-text-light group-hover:text-primary transition-colors whitespace-nowrap">{category.title}</span>
+      </a>
+    ))}
+  </div>
+</section>
+
+<style>
+  .slider-container {
+    /* Auto slide animation */
+    animation: slide 40s linear infinite;
+  }
+
+  @keyframes slide {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      /* Scroll by exactly half the total width (since items are duplicated) 
+         Using calculation based on number of items and gap */
+      transform: translateX(calc(-50% - 0.5rem)); 
+    }
+  }
+</style>

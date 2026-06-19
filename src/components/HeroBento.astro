@@ -1,0 +1,117 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { getPostSlug } from '../utils/blog';
+import OptimizedImage from './OptimizedImage.astro';
+
+interface Props {
+  posts: CollectionEntry<'blog'>[];
+}
+
+const { posts } = Astro.props;
+
+// Take top 5 posts for the Bento grid
+const featuredPost = posts[0];
+const subPosts = posts.slice(1, 5);
+---
+
+<section class="pt-8 pb-12 md:pt-12 md:pb-24 relative overflow-hidden bg-background">
+  <!-- Critical SEO H1 -->
+  <h1 class="sr-only">Boredom at Work: Turn Boring Work Hours Into Your Next Breakthrough</h1>
+  
+  <div class="max-w-[1600px] mx-auto px-4 w-full">
+    
+    <!-- Optional subtle header -->
+    <div class="flex items-center justify-between mb-6 px-2">
+      <div class="inline-flex items-center gap-2 bg-primary/5 border border-primary/10 px-4 py-1.5 rounded-full text-xs font-bold text-accent shadow-sm uppercase tracking-widest">
+        <span class="animate-pulse">🔥</span> Trending Guides
+      </div>
+    </div>
+
+    <!-- Bento Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-4 md:grid-rows-2 gap-4 md:gap-6 h-auto md:h-[700px]">
+      
+      <!-- MAIN FEATURED ARTICLE (Spans 2 columns, 2 rows) -->
+      {featuredPost && (
+        <a 
+          href={`/${getPostSlug(featuredPost)}/`}
+          class="md:col-span-2 md:row-span-2 group relative bg-primary rounded-[2rem] overflow-hidden flex flex-col justify-end transition-all duration-500 hover:shadow-2xl hover:-translate-y-1 min-h-[400px] md:min-h-0"
+        >
+          <!-- Background Image -->
+          <div class="absolute inset-0">
+            {featuredPost.data.image ? (
+              <OptimizedImage
+                src={featuredPost.data.image}
+                alt={featuredPost.data.title}
+                class="w-full h-full object-cover transition-transform duration-[2000ms] group-hover:scale-105"
+                width={800}
+                height={800}
+              />
+            ) : (
+              <div class="w-full h-full bg-primary/20"></div>
+            )}
+          </div>
+
+          <!-- Gradients -->
+          <div class="absolute inset-0 bg-gradient-to-t from-primary/95 via-primary/40 to-transparent opacity-90 group-hover:opacity-100 transition-opacity duration-500"></div>
+          
+          <!-- Content -->
+          <div class="relative z-10 p-8 md:p-12">
+            <div class="flex items-center gap-3 mb-4">
+              {featuredPost.data.tags?.slice(0, 1).map(tag => (
+                <span class="text-xs font-black uppercase tracking-widest text-white bg-accent px-4 py-1.5 rounded-full shadow-lg">{tag}</span>
+              ))}
+            </div>
+            <h2 class="text-3xl md:text-5xl font-black text-white mb-4 leading-tight drop-shadow-lg">
+              {featuredPost.data.title}
+            </h2>
+            <p class="text-white/80 text-lg md:text-xl line-clamp-2 mb-6 max-w-xl drop-shadow-md">
+              {featuredPost.data.description}
+            </p>
+            <span class="inline-flex items-center gap-2 font-bold text-sm text-primary bg-white px-6 py-3 rounded-xl shadow-xl transition-transform group-hover:scale-105">
+              Read Guide <span class="text-lg transition-transform group-hover:translate-x-1">→</span>
+            </span>
+          </div>
+        </a>
+      )}
+
+      <!-- THE 4 SUB-ARTICLES (Each spans 1 col, 1 row) -->
+      {subPosts.map((post) => (
+        <a 
+          href={`/${getPostSlug(post)}/`}
+          class="col-span-1 row-span-1 group relative bg-white rounded-[2rem] overflow-hidden flex flex-col justify-end transition-all duration-500 hover:shadow-2xl hover:-translate-y-1 min-h-[250px] md:min-h-0 border border-primary/5"
+        >
+          <!-- Background Image -->
+          <div class="absolute inset-0">
+            {post.data.image ? (
+              <OptimizedImage
+                src={post.data.image}
+                alt={post.data.title}
+                class="w-full h-full object-cover transition-transform duration-[2000ms] group-hover:scale-105"
+                width={400}
+                height={400}
+              />
+            ) : (
+              <div class="w-full h-full bg-background-alt"></div>
+            )}
+          </div>
+
+          <!-- Gradients -->
+          <div class="absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/20 to-transparent opacity-80 group-hover:opacity-95 transition-opacity duration-500"></div>
+
+          <!-- Content -->
+          <div class="relative z-10 p-6">
+            <div class="flex items-center gap-2 mb-3">
+              {post.data.tags?.slice(0, 1).map(tag => (
+                <span class="text-[10px] font-black uppercase tracking-widest text-white bg-white/20 backdrop-blur-md border border-white/20 px-2.5 py-1 rounded-full">{tag}</span>
+              ))}
+            </div>
+            <h3 class="text-lg md:text-xl font-bold text-white leading-snug line-clamp-3 group-hover:text-accent-light transition-colors drop-shadow-md">
+              {post.data.title}
+            </h3>
+          </div>
+        </a>
+      ))}
+
+    </div>
+  </div>
+</section>
