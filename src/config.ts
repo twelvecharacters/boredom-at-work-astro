@@ -21,7 +21,6 @@ export const AUTHOR = {
     companyLinkedin: 'https://www.linkedin.com/company/boredom-at-work',
     reddit: 'https://www.reddit.com/r/boredom_at_work/',
     youtube: 'https://www.youtube.com/@boredom-at-work',
-    tumblr: 'https://www.tumblr.com/boredomatworksposts',
     email: 'twelvecharacters@proton.me',
   },
 };

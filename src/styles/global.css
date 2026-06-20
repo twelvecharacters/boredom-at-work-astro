@@ -166,7 +166,7 @@
       @apply text-xl md:text-2xl mb-3 mt-6 scroll-mt-24;
     }
     p {
-      @apply mb-4 leading-relaxed;
+      @apply mb-6 text-lg text-gray-800 leading-[1.8];
     }
     ul,
     ol {
@@ -212,7 +212,13 @@
     }
 
     blockquote {
-      @apply border-l-4 border-accent pl-4 italic my-4;
+      @apply relative border-l-4 border-transparent pl-6 italic my-8 text-gray-600 bg-gray-50/50 py-4 pr-4 rounded-r-xl;
+      border-image: linear-gradient(to bottom, #7c3aed, #ec4899) 1;
+      font-size: 1.1rem;
+    }
+
+    a {
+      @apply text-accent font-medium border-b-2 border-accent/20 hover:border-accent hover:text-accent-hover transition-colors no-underline;
     }
 
     /* Table wrapper for scroll - added via JS */
@@ -274,7 +280,7 @@
     }
 
     img {
-      @apply rounded-lg my-4;
+      @apply rounded-xl my-8 shadow-md border border-gray-100 transition-transform duration-300 hover:shadow-lg;
     }
   }
 
