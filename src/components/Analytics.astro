@@ -15,7 +15,7 @@
     for (var i = 0; i < scrollMarks.length; i++) {
       if (scrollPct >= scrollMarks[i] && !firedMarks[scrollMarks[i]]) {
         firedMarks[scrollMarks[i]] = true;
-        gtag('event', 'scroll_depth', { percent: scrollMarks[i] });
+        gtag('event', 'scroll', { percent_scrolled: scrollMarks[i] });
       }
     }
   }, { passive: true });
@@ -26,7 +26,16 @@
     if (!link) return;
     var href = link.getAttribute('href');
     if (href && href.startsWith('http') && !href.includes('boredom-at-work.com')) {
-      gtag('event', 'outbound_click', { url: href });
+      try {
+        var urlObj = new URL(href);
+        gtag('event', 'outbound_click', {
+          link_url: href,
+          link_domain: urlObj.hostname
+        });
+      } catch(e) {
+        // Fallback if URL parsing fails
+        gtag('event', 'outbound_click', { link_url: href });
+      }
     }
   });
 
@@ -35,7 +44,7 @@
     if (e.target.tagName === 'FORM') {
       gtag('event', 'form_submit', {
         form_id: e.target.id || 'unknown',
-        form_action: e.target.action || 'unknown'
+        form_destination: e.target.action || 'unknown'
       });
     }
   });
@@ -43,7 +52,7 @@
   // 4. Search Term tracking (Assuming a search input in a form or a URL parameter)
   var urlParams = new URLSearchParams(window.location.search);
   if (urlParams.has('q')) {
-    gtag('event', 'site_search', { search_term: urlParams.get('q') });
+    gtag('event', 'view_search_results', { search_term: urlParams.get('q') });
   }
 
   // 5. Time-on-Page / Engagement Heartbeat (every 30 seconds)
