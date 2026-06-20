@@ -91,17 +91,17 @@ const displayPosts = posts.slice(0, 8);
       ))}
       
       <!-- View More Card -->
-      <div class="snap-start shrink-0 w-[280px] md:w-[380px] flex items-center justify-center p-8 bg-white/50 rounded-[2rem] border-2 border-dashed border-primary/10 hover:bg-white hover:border-accent/30 transition-colors">
+      <a href="/blog/" class="snap-start shrink-0 w-[280px] md:w-[380px] flex items-center justify-center p-8 bg-white/50 rounded-[2rem] border-2 border-dashed border-primary/10 hover:bg-white hover:border-accent/30 transition-colors group cursor-pointer block">
         <div class="text-center">
-          <div class="w-16 h-16 bg-accent/10 text-accent rounded-full flex items-center justify-center text-2xl mx-auto mb-4 font-black">
+          <div class="w-16 h-16 bg-accent/10 text-accent rounded-full flex items-center justify-center text-2xl mx-auto mb-4 font-black transition-transform group-hover:translate-x-1">
             →
           </div>
           <h3 class="text-xl font-bold text-primary mb-2">Want more?</h3>
-          <a href="/blog/" class="text-sm font-bold text-text-light hover:text-accent transition-colors uppercase tracking-widest">
+          <span class="text-sm font-bold text-text-light group-hover:text-accent transition-colors uppercase tracking-widest">
             Browse Archive
-          </a>
+          </span>
         </div>
-      </div>
+      </a>
     </div>
   </div>
 
