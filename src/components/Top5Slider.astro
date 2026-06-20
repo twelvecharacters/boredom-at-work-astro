@@ -1,0 +1,374 @@
+---
+const categories = [
+  {
+    id: 'ai-tools',
+    tabName: 'AI Tools',
+    title: 'The Top 5 AI Tools',
+    description: "Don't get overwhelmed by the thousands of AI tools launching every week. These are the only 5 you actually need to do your job faster.",
+    link: '/tags/ai/',
+    linkText: 'Read our full AI mastery guides',
+    items: [
+      {
+        rank: 1, name: 'Claude', company: 'Anthropic', icon: '🧠', bestFor: 'Writing & Coding',
+        description: 'The absolute best AI for writing human-sounding emails and generating code without bugs. Feels like a genius coworker.',
+        price: 'Free / $20', color: 'bg-amber-500', textColor: 'text-amber-700', bgColor: 'bg-amber-50', url: 'https://claude.ai/'
+      },
+      {
+        rank: 2, name: 'ChatGPT', company: 'OpenAI', icon: '⚡', bestFor: 'The Best All-Rounder',
+        description: 'Still the industry standard. Great at brainstorming, data analysis, and has the best voice mode for commuting.',
+        price: 'Free / $20', color: 'bg-emerald-500', textColor: 'text-emerald-700', bgColor: 'bg-emerald-50', url: 'https://chatgpt.com/'
+      },
+      {
+        rank: 3, name: 'Perplexity', company: 'Perplexity AI', icon: '🔍', bestFor: 'Deep Research',
+        description: 'Replaces Google. It searches the live web and writes a summarized report with clickable citations in seconds.',
+        price: 'Free / $20', color: 'bg-blue-500', textColor: 'text-blue-700', bgColor: 'bg-blue-50', url: 'https://www.perplexity.ai/'
+      },
+      {
+        rank: 4, name: 'Cursor', company: 'Anysphere', icon: '💻', bestFor: 'Building Apps',
+        description: 'An AI-first code editor. Even if you barely know how to code, this tool can help you build internal tools or side projects.',
+        price: 'Free / $20', color: 'bg-purple-500', textColor: 'text-purple-700', bgColor: 'bg-purple-50', url: 'https://cursor.sh/'
+      },
+      {
+        rank: 5, name: 'Gemini', company: 'Google', icon: '✨', bestFor: 'Google Workspace',
+        description: 'Incredibly fast and integrates flawlessly into Docs, Sheets, and Gmail. It has a massive context window for analyzing huge documents.',
+        price: 'Free / $20', color: 'bg-rose-500', textColor: 'text-rose-700', bgColor: 'bg-rose-50', url: 'https://gemini.google.com/'
+      }
+    ]
+  },
+  {
+    id: 'home-office-gadgets',
+    tabName: 'Home Office',
+    title: 'Top 5 Home Office Gadgets',
+    description: "Upgrade your WFH setup with these essential ergonomic and productivity-boosting gadgets.",
+    link: '/tags/gear/',
+    linkText: 'Check out our desk setups',
+    items: [
+      {
+        rank: 1, name: 'Herman Miller Aeron', company: 'Herman Miller', icon: '🪑', bestFor: 'Ergonomics',
+        description: 'The gold standard of office chairs. It forces good posture and remains incredibly breathable during long work sessions.',
+        price: '$1,300', color: 'bg-zinc-500', textColor: 'text-zinc-700', bgColor: 'bg-zinc-50', url: 'https://store.hermanmiller.com/'
+      },
+      {
+        rank: 2, name: 'Logitech MX Master 3S', company: 'Logitech', icon: '🖱️', bestFor: 'Productivity',
+        description: 'The ultimate wireless mouse. Features a MagSpeed scroll wheel, ergonomic shape, and quiet clicks for deep focus.',
+        price: '$99', color: 'bg-blue-500', textColor: 'text-blue-700', bgColor: 'bg-blue-50', url: 'https://www.logitech.com/'
+      },
+      {
+        rank: 3, name: 'Keychron Q1 Pro', company: 'Keychron', icon: '⌨️', bestFor: 'Typing Experience',
+        description: 'A premium, fully customizable mechanical keyboard with a beautiful aluminum chassis and satisfying keystrokes.',
+        price: '$199', color: 'bg-amber-500', textColor: 'text-amber-700', bgColor: 'bg-amber-50', url: 'https://www.keychron.com/'
+      },
+      {
+        rank: 4, name: 'BenQ ScreenBar Halo', company: 'BenQ', icon: '💡', bestFor: 'Eye Comfort',
+        description: 'Illuminates your workspace perfectly without causing screen glare. A massive upgrade for late-night sessions.',
+        price: '$169', color: 'bg-yellow-500', textColor: 'text-yellow-700', bgColor: 'bg-yellow-50', url: 'https://www.benq.com/'
+      },
+      {
+        rank: 5, name: 'Secretlab Magnus Pro', company: 'Secretlab', icon: '🖥️', bestFor: 'Cable Management',
+        description: 'A standing desk with a built-in cable management tray and magnetic accessories that completely hides all your messy wires.',
+        price: '$799', color: 'bg-red-500', textColor: 'text-red-700', bgColor: 'bg-red-50', url: 'https://secretlab.co/'
+      }
+    ]
+  },
+  {
+    id: 'travel-gadgets',
+    tabName: 'Travel Tech',
+    title: 'Top 5 Travel Gadgets & Apps',
+    description: "Whether you're backpacking through Asia or on a business trip, these essential tools make traveling stress-free.",
+    link: '/tags/travel/',
+    linkText: 'Read our AI travel guides',
+    items: [
+      {
+        rank: 1, name: 'Sony WH-1000XM5', company: 'Sony', icon: '🎧', bestFor: 'Flights & Trains',
+        description: 'The undisputed king of active noise cancellation. Blocks out crying babies and engine noise completely.',
+        price: '$398', color: 'bg-zinc-500', textColor: 'text-zinc-700', bgColor: 'bg-zinc-50', url: 'https://electronics.sony.com/'
+      },
+      {
+        rank: 2, name: 'Apple AirTag', company: 'Apple', icon: '📍', bestFor: 'Luggage Tracking',
+        description: 'Never lose your checked bags again. Gives you total peace of mind by showing exactly where your suitcase is.',
+        price: '$29', color: 'bg-slate-500', textColor: 'text-slate-700', bgColor: 'bg-slate-50', url: 'https://www.apple.com/airtag/'
+      },
+      {
+        rank: 3, name: 'Anker Prime GaN', company: 'Anker', icon: '🔌', bestFor: 'Charging',
+        description: 'A tiny but incredibly powerful 100W charger that can charge your MacBook, phone, and headphones simultaneously.',
+        price: '$84', color: 'bg-blue-500', textColor: 'text-blue-700', bgColor: 'bg-blue-50', url: 'https://www.anker.com/'
+      },
+      {
+        rank: 4, name: 'Wanderlog', company: 'Wanderlog', icon: '🗺️', bestFor: 'Itineraries',
+        description: 'The best app for organizing trips. Automatically imports flights and lets you map out daily activities visually.',
+        price: 'Free / $49', color: 'bg-rose-500', textColor: 'text-rose-700', bgColor: 'bg-rose-50', url: 'https://wanderlog.com/'
+      },
+      {
+        rank: 5, name: 'Airalo', company: 'Airalo', icon: '📱', bestFor: 'Global Data',
+        description: 'An eSIM store that gives you cheap mobile data in over 200 countries instantly. No more physical SIM cards.',
+        price: 'Varies', color: 'bg-orange-500', textColor: 'text-orange-700', bgColor: 'bg-orange-50', url: 'https://www.airalo.com/'
+      }
+    ]
+  },
+  {
+    id: 'ai-courses',
+    tabName: 'AI Courses',
+    title: 'The Top 5 AI Courses',
+    description: "Upskill rapidly with the best AI courses available right now, ranging from beginner prompts to advanced engineering.",
+    link: '/tags/courses/',
+    linkText: 'Browse all courses',
+    items: [
+      {
+        rank: 1, name: 'AI for Everyone', company: 'Coursera / DeepLearning.AI', icon: '🎓', bestFor: 'Absolute Beginners',
+        description: 'A non-technical introduction to AI by Andrew Ng. Perfect for managers and business leaders.',
+        price: 'Free / $49', color: 'bg-blue-500', textColor: 'text-blue-700', bgColor: 'bg-blue-50', url: 'https://www.coursera.org/learn/ai-for-everyone'
+      },
+      {
+        rank: 2, name: 'Prompt Engineering for Devs', company: 'OpenAI', icon: '⌨️', bestFor: 'Practical Skills',
+        description: 'Learn how to properly write prompts to build robust applications with LLMs.',
+        price: 'Free', color: 'bg-emerald-500', textColor: 'text-emerald-700', bgColor: 'bg-emerald-50', url: 'https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/'
+      },
+      {
+        rank: 3, name: 'Practical Deep Learning', company: 'fast.ai', icon: '🧠', bestFor: 'Coders learning AI',
+        description: 'A top-down approach to deep learning. You build working models right from the first lesson.',
+        price: 'Free', color: 'bg-yellow-500', textColor: 'text-yellow-700', bgColor: 'bg-yellow-50', url: 'https://course.fast.ai/'
+      },
+      {
+        rank: 4, name: 'Gen AI Specialization', company: 'Google Cloud', icon: '☁️', bestFor: 'Enterprise Devs',
+        description: 'Comprehensive path covering large language models, attention mechanisms, and image generation.',
+        price: 'Free', color: 'bg-rose-500', textColor: 'text-rose-700', bgColor: 'bg-rose-50', url: 'https://www.cloudskillsboost.google/journeys/118'
+      },
+      {
+        rank: 5, name: 'Intro to AI with Python', company: 'Harvard', icon: '🏛️', bestFor: 'CS Students',
+        description: 'Rigorous introduction to the concepts and algorithms at the foundation of modern AI.',
+        price: 'Free', color: 'bg-red-500', textColor: 'text-red-700', bgColor: 'bg-red-50', url: 'https://cs50.harvard.edu/ai/'
+      }
+    ]
+  }
+];
+---
+
+<section class="py-24 bg-background-alt relative overflow-hidden top5-slider-container">
+  <div class="max-w-4xl mx-auto px-4 relative z-10">
+    
+    <div class="text-center mb-8">
+      <div class="inline-flex items-center gap-2 bg-white border border-primary/10 px-4 py-1.5 rounded-full text-xs font-bold text-accent uppercase tracking-widest mb-6 shadow-sm reveal">
+        <span class="animate-pulse">🏆</span> Power Rankings
+      </div>
+    </div>
+
+    <!-- Tabs -->
+    <div class="flex flex-wrap justify-center gap-2 mb-4 relative z-20">
+      {categories.map((cat, index) => (
+        <button 
+          class={`slider-tab px-5 py-2.5 rounded-full text-sm font-bold transition-all ${index === 0 ? 'bg-primary text-white shadow-md' : 'bg-white text-primary border border-primary/10 hover:bg-primary/5 hover:border-primary/20'}`}
+          data-target={cat.id}
+        >
+          {cat.tabName}
+        </button>
+      ))}
+    </div>
+
+    <!-- Progress Bar -->
+    <div class="w-full max-w-sm mx-auto h-1 bg-primary/10 rounded-full mb-12 overflow-hidden">
+      <div class="slider-progress-bar h-full bg-primary" style="width: 0%;"></div>
+    </div>
+
+    <!-- Slider Panels -->
+    <div class="slider-panels relative">
+      {categories.map((cat, index) => (
+        <div class={`slider-panel transition-opacity duration-300 ${index !== 0 ? 'hidden opacity-0' : 'opacity-100'}`} id={`panel-${cat.id}`}>
+          
+          <div class="text-center mb-12">
+            <h2 class="text-3xl md:text-5xl font-black mb-4 tracking-tight text-primary">{cat.title}</h2>
+            <p class="text-lg text-text-light max-w-2xl mx-auto">
+              {cat.description}
+            </p>
+          </div>
+
+          <div class="flex flex-col gap-4">
+            {cat.items.map((item, itemIndex) => (
+              <a href={item.url} data-track-click="slider-item" data-item-name={item.name} data-item-category={cat.id} target="_blank" rel="noopener nofollow" class="group block bg-white rounded-3xl p-6 md:p-8 flex flex-col md:grid md:grid-cols-[4rem_16rem_1fr_100px] md:items-center gap-6 border border-primary/5 shadow-sm hover:shadow-xl hover:-translate-y-1 hover:border-primary/20 transition-all duration-300">
+                
+                <!-- Rank Badge -->
+                <div class="hidden md:flex shrink-0 w-16 h-16 rounded-2xl bg-background-alt items-center justify-center border border-primary/5 group-hover:scale-110 group-hover:bg-primary/5 group-hover:text-primary transition-all">
+                  <span class="text-2xl font-black text-primary/30 group-hover:text-primary/70">#{item.rank}</span>
+                </div>
+                
+                <!-- Icon & Title -->
+                <div class="flex items-center gap-4">
+                  <div class={`shrink-0 w-12 h-12 rounded-xl flex items-center justify-center text-2xl ${item.bgColor} border border-white group-hover:scale-105 transition-transform`}>
+                    {item.icon}
+                  </div>
+                  <div>
+                    <div class="flex items-center gap-2">
+                      <span class="md:hidden text-sm font-black text-primary/30 group-hover:text-primary/70">#{item.rank}</span>
+                      <h3 class="text-xl font-bold text-primary group-hover:text-accent transition-colors flex items-center gap-1 line-clamp-2">
+                        {item.name}
+                        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="opacity-0 group-hover:opacity-100 transition-opacity -translate-x-2 group-hover:translate-x-0 shrink-0"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+                      </h3>
+                    </div>
+                    <p class="text-xs font-bold text-text-light uppercase tracking-widest line-clamp-1">{item.company}</p>
+                  </div>
+                </div>
+
+                <!-- Description -->
+                <div>
+                  <div class={`inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md text-[10px] font-black uppercase tracking-widest mb-2 ${item.bgColor} ${item.textColor} border border-white`}>
+                    <span class={`w-1.5 h-1.5 rounded-full ${item.color}`}></span>
+                    Best For: {item.bestFor}
+                  </div>
+                  <p class="text-sm text-text-light leading-relaxed group-hover:text-text-dark transition-colors">
+                    {item.description}
+                  </p>
+                </div>
+
+                <!-- Price -->
+                <div class="md:text-right mt-4 md:mt-0 pt-4 md:pt-0 border-t md:border-t-0 border-primary/5">
+                  <p class="text-[10px] font-bold text-text-light uppercase tracking-widest mb-1">Pricing</p>
+                  <p class="text-sm font-black text-primary bg-background-alt px-3 py-1.5 rounded-lg inline-block whitespace-nowrap group-hover:bg-primary/5 transition-colors">
+                    {item.price}
+                  </p>
+                </div>
+                
+              </a>
+            ))}
+          </div>
+
+          <!-- External category links removed -->
+
+        </div>
+      ))}
+    </div>
+
+  </div>
+</section>
+
+<script>
+  function setupTop5Slider() {
+    const sliders = document.querySelectorAll('.top5-slider-container');
+    
+    sliders.forEach(slider => {
+      const tabs = slider.querySelectorAll('.slider-tab');
+      const panels = slider.querySelectorAll('.slider-panel');
+      const progressBar = slider.querySelector('.slider-progress-bar');
+      let currentIndex = 0;
+      let timerId;
+      const duration = 12000; // Increased to 12 seconds
+
+      const switchToTab = (index) => {
+        if (!tabs[index]) return;
+        const tab = tabs[index];
+        const targetId = tab.getAttribute('data-target');
+
+        // Reset all tabs
+        tabs.forEach(t => {
+          t.classList.remove('bg-primary', 'text-white', 'shadow-md');
+          t.classList.add('bg-white', 'text-primary', 'border', 'border-primary/10');
+        });
+        
+        // Set active tab
+        tab.classList.add('bg-primary', 'text-white', 'shadow-md');
+        tab.classList.remove('bg-white', 'text-primary', 'border', 'border-primary/10');
+
+        // Hide all panels
+        panels.forEach(p => {
+          p.classList.add('hidden', 'opacity-0');
+          p.classList.remove('opacity-100');
+        });
+
+        // Show target panel
+        const targetPanel = slider.querySelector(`#panel-${targetId}`);
+        if (targetPanel) {
+          targetPanel.classList.remove('hidden');
+          // Small delay to allow CSS transition
+          setTimeout(() => {
+            targetPanel.classList.remove('opacity-0');
+            targetPanel.classList.add('opacity-100');
+          }, 50);
+        }
+        
+        currentIndex = index;
+      };
+
+      const startAutoPlay = () => {
+        clearTimeout(timerId);
+        
+        // Reset and start progress bar animation
+        if (progressBar) {
+          progressBar.style.transition = 'none';
+          progressBar.style.width = '0%';
+          
+          // Force a reflow to ensure the transition resets instantly
+          void progressBar.offsetWidth;
+          
+          // Start the fill animation
+          progressBar.style.transition = `width ${duration}ms linear`;
+          progressBar.style.width = '100%';
+        }
+        
+        timerId = setTimeout(() => {
+          const nextIndex = (currentIndex + 1) % tabs.length;
+          switchToTab(nextIndex);
+          startAutoPlay(); // loop
+        }, duration);
+      };
+
+      tabs.forEach((tab, index) => {
+        // Prevent multiple listeners
+        if(tab.hasAttribute('data-slider-init')) return;
+        tab.setAttribute('data-slider-init', 'true');
+        
+        tab.addEventListener('click', () => {
+          switchToTab(index);
+          // Restart auto-play and timer animation on manual interaction
+          startAutoPlay();
+        });
+      });
+
+      // Start auto-play initially
+      if (!slider.hasAttribute('data-autoplay-init')) {
+        slider.setAttribute('data-autoplay-init', 'true');
+        startAutoPlay();
+      }
+    });
+  }
+
+  function setupTracking() {
+    document.querySelectorAll('[data-track-click="slider-item"]').forEach(link => {
+      if(link.hasAttribute('data-tracked')) return;
+      link.setAttribute('data-tracked', 'true');
+      
+      link.addEventListener('click', () => {
+        const itemName = link.getAttribute('data-item-name');
+        const itemCategory = link.getAttribute('data-item-category');
+        
+        console.log(`[Tracking] Slider Click: ${itemName} (${itemCategory})`);
+        
+        // Fathom / Plausible Support
+        if (typeof window.plausible === 'function') {
+          window.plausible('Slider Click', { props: { item: itemName, category: itemCategory } });
+        }
+        
+        // Google Analytics 4 (gtag.js)
+        if (typeof window.gtag === 'function') {
+          window.gtag('event', 'slider_click', {
+            item_name: itemName,
+            item_category: itemCategory
+          });
+        } else {
+          // Fallback if gtag is not fully loaded yet or via GTM
+          window.dataLayer = window.dataLayer || [];
+          window.dataLayer.push({
+            event: 'slider_click',
+            item_name: itemName,
+            item_category: itemCategory
+          });
+        }
+      });
+    });
+  }
+
+  // Initialize on load and after Astro page transitions
+  setupTop5Slider();
+  setupTracking();
+  document.addEventListener('astro:page-load', () => {
+    setupTop5Slider();
+    setupTracking();
+  });
+</script>
