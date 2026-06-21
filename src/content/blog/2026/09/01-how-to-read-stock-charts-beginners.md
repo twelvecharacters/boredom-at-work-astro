@@ -2,9 +2,9 @@
 title: "How to Read Stock Charts: A Beginner's Guide (2026)"
 slug: "how-to-read-stock-charts-beginners"
 description: "Learn to read stock charts in 30 minutes. Candlesticks, moving averages, RSI, MACD, and common patterns explained simply with free tools to practice."
-publishDate: 2026-08-04
+publishDate: 2026-09-01
 author: "Mehdi"
-image: "./04-how-to-read-stock-charts-beginners.webp"
+image: "./01-how-to-read-stock-charts-beginners.webp"
 imageAlt: "Step-by-step visual guide for reading stock charts with candlesticks"
 tags: ["Investing", "Stock Charts", "Technical Analysis", "Beginners Guide", "Finance"]
 draft: false

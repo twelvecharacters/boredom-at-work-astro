@@ -96,7 +96,7 @@ KOReader is a versatile e-book reader application that runs alongside (or instea
 - **Vast Format Support:** It handles EPUB, DJVU, CBZ, and more natively.
 - **Deep Customization:** You can tweak everything from line spacing to the specific way E Ink refreshes.
 
-You can find the latest installation guides on the [community-run Kindle Modding Wiki](https://kindlemodding.org/).
+For a full walkthrough of the prerequisites, the safe install method, and the risks, see our dedicated [guide to installing KOReader on a Kindle](/install-koreader-kindle/). You can also find the latest installation files on the [community-run Kindle Modding Wiki](https://kindlemodding.org/).
 
 ---
 

@@ -62,7 +62,9 @@ But if you want the short version:
 - **Kindle Paperwhite** (~$160), The right choice for 90% of readers. 7-inch 300 PPI screen, warm light, waterproof, 16 GB.
 - **Base Kindle** (~$110), Fine if you're on a tight budget. Smaller 6-inch screen, not waterproof.
 - **Kindle Scribe** (~$400), Only if you need note-taking and PDF annotation. See our [Kindle Scribe review](/kindle-scribe-review/) for the honest take.
-- **Kindle Colorsoft Signature** (~$280), For comics, magazines, and cookbooks. Color E Ink is impressive but not cheap.
+- **Kindle Colorsoft Signature** (~$280), For comics, magazines, and cookbooks. Color E Ink is impressive but not cheap. See [Kindle Colorsoft vs Paperwhite](/kindle-colorsoft-vs-paperwhite/) to decide whether color is worth the premium.
+
+**Studying or in school?** The right model depends on whether you need note-taking and PDF support. We break it down in [best Kindle for students](/best-kindle-for-students/).
 
 **Considering Kobo instead?** Kobo has better library integration, open EPUB support, and no ads. Read [Kindle vs Kobo](/kindle-vs-kobo/) or the specific [Kindle Paperwhite vs Kobo Clara head-to-head](/kindle-paperwhite-vs-kobo-clara/) to decide.
 
@@ -186,7 +188,7 @@ Step-by-step walkthrough for all three methods: [How to Sideload Books on Kindle
 
 For the advanced user, jailbreaking opens up:
 
-- **KOReader**, A completely different reading app with EPUB support, custom layouts, and OPDS library support
+- **[KOReader](/install-koreader-kindle/)**, A completely different reading app with EPUB support, custom layouts, and OPDS library support
 - **Custom fonts**, Full typography control beyond Amazon's defaults
 - **Screensavers**, Replace the default Amazon ads with your own images
 - **Basic terminal access**, For Linux-inclined users
