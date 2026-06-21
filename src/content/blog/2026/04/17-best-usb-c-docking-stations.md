@@ -18,7 +18,7 @@ faq:
     answer: "It depends on your laptop. Most 13-14 inch ultrabooks (MacBook Air, Dell XPS 13, ThinkPad X1) need 60-65W to charge at full speed. Larger 15-16 inch laptops (MacBook Pro 16, Dell XPS 15) need 90-100W. If the dock delivers less than your laptop requires, it will still charge, just slowly, and it may drain while under heavy load. Look for at least 85W PD if you have a standard work laptop, or 96W+ for larger machines."
 ---
 
-If you work from a laptop at home, a docking station is the upgrade that ties everything together. One cable plugs into your laptop and suddenly you have your monitor, keyboard, mouse, webcam, Ethernet, and charging all connected. Unplug that one cable at the end of the day and you're mobile again.
+If you work from a laptop at home, a docking station is the upgrade that ties everything together. One cable plugs into your laptop and suddenly you have your monitor, keyboard, [ergonomic mouse](/best-ergonomic-mice/), webcam, Ethernet, and charging all connected. Unplug that one cable at the end of the day and you're mobile again.
 
 But shopping for a dock in 2026 is confusing. Thunderbolt 4, USB-C, USB4, DisplayLink, the terminology alone is enough to make you close the browser tab. And prices range from $25 to $500, which doesn't help narrow things down.
 

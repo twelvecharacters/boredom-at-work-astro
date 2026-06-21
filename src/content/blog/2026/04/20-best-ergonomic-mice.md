@@ -1,8 +1,9 @@
 ---
 title: "7 Best Ergonomic Mice (2026), I Tested Them All at My Desk"
 slug: "best-ergonomic-mice"
-description: "Best ergonomic mice for home office work. Vertical mice, trackballs, and ergonomic options tested with honest picks for every budget."
+description: "The best ergonomic mice for work and productivity in 2026: vertical, trackball and sculpted picks tested for every budget, from Logitech Lift to MX Master 3S."
 publishDate: 2026-04-20
+updatedDate: 2026-06-21
 author: "Mehdi"
 image: "./20-best-ergonomic-mice.webp"
 imageAlt: "Collection of ergonomic mice including vertical and trackball options"

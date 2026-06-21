@@ -330,6 +330,7 @@ Whatever you choose, get a dual-motor desk with at least a 5-year warranty. Your
 - [Best Monitor Arms](/best-monitor-arms/), Get your screen at the right height
 - [Cable Management Tips](/cable-management-tips/), Hide those standing desk cables
 - [Best Mechanical Keyboards for Beginners](/best-mechanical-keyboards-beginners/), Your hands touch it all day
+- [Best Ergonomic Mice](/best-ergonomic-mice/), Stop wrist strain while you stand
 
 ---
 

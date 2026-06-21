@@ -3,7 +3,7 @@ title: "Free Kindle Books in 2026: 7 Legal Sources (No Subscription)"
 slug: "free-books-kindle"
 description: "Seven legal ways to read free Kindle books without paying or subscribing: Libby library loans, Project Gutenberg classics, Amazon First Reads, Standard Ebooks, and more."
 publishDate: 2026-03-31
-updatedDate: 2026-05-17
+updatedDate: 2026-06-21
 author: "Mehdi"
 image: "./31-free-books-kindle.webp"
 imageAlt: "Kindle e-reader displaying free ebook sources and library apps"

@@ -58,7 +58,7 @@ All the courses below meet these criteria.
 
 **Our top pick for most people.**
 
-[Google AI Essentials](https://www.coursera.org/learn/google-ai-essentials) is the gold standard for AI beginners. Created by Google's career certificate team and hosted on [Coursera](https://www.coursera.org/), it's designed to take anyone from zero to competent.
+[Google AI Essentials](https://www.coursera.org/learn/google-ai-essentials) is the gold standard for AI beginners. Created by Google's career certificate team and hosted on [Coursera](https://www.coursera.org/) (we ranked all the [best Coursera AI courses](/best-ai-courses-coursera/) separately), it's designed to take anyone from zero to competent.
 
 ### What You'll Learn
 

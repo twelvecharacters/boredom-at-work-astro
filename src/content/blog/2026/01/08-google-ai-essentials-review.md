@@ -59,7 +59,7 @@ I completed the entire course to find out. Here's my honest review.
 
 ## What Is Google AI Essentials?
 
-Google AI Essentials is a beginner-level course created by Google's Career Certificates team. It's hosted on Coursera and designed to teach AI fundamentals to anyone, regardless of technical background.
+Google AI Essentials is a beginner-level course created by Google's Career Certificates team. It's hosted on Coursera, where it ranks among the [best Coursera AI courses](/best-ai-courses-coursera/), and designed to teach AI fundamentals to anyone, regardless of technical background.
 
 The course is part of Google's broader initiative to make AI accessible to everyone. Unlike many corporate AI courses that are thinly veiled product marketing, this one focuses on transferable skills you can use with any AI tool.
 

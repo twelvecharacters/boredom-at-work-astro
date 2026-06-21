@@ -109,7 +109,7 @@ Most people reading this should aim for **Level 2 or 3**. That's where the bigge
 
 **Step 1: Take a free introductory course**
 
-The best starting point is [Google AI Essentials](/google-ai-essentials-review/),it's beginner-friendly, takes about 10 hours, and you can audit it for free on Coursera.
+The best starting point is [Google AI Essentials](/google-ai-essentials-review/),it's beginner-friendly, takes about 10 hours, and you can audit it for free on Coursera. (For paid certificate tracks, see our ranked guide to the [best Coursera AI courses](/best-ai-courses-coursera/).)
 
 Alternative: [Best Free AI Courses](/best-free-ai-courses/) has more options if Google's style doesn't click for you.
 

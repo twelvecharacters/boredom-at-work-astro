@@ -29,6 +29,8 @@ You spend more time in your office chair than in your bed. Yet most people buy a
 
 I've researched the major brands, compared specs, and identified the best options at each price point. This guide covers chairs from $400 to $1,700, because anything under $300 isn't worth recommending for all-day use.
 
+A chair is only half of an ergonomic setup, though. If your wrist aches after long sessions, pairing it with one of the [best ergonomic mice](/best-ergonomic-mice/) tackles the other common source of desk strain.
+
 ---
 
 ## Quick Answer: Best Office Chairs 2026
