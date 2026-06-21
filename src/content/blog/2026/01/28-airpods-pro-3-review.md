@@ -1,9 +1,9 @@
 ---
 title: "AirPods Pro 3 Review: Still Worth It in 2026?"
 slug: "airpods-pro-3-review"
-description: "Full AirPods Pro 3 review after months of daily use. Sound quality, ANC, battery, and the hearing health features, here's the honest verdict."
+description: "AirPods Pro 3 review after months of daily use: 8h battery, best-ever ANC, IP57 and $249. Worth it new, but a skippable upgrade from Pro 2. Honest verdict."
 publishDate: 2026-01-28
-updatedDate: 2026-04-05
+updatedDate: 2026-06-21
 author: "Mehdi"
 image: "./28-airpods-pro-3-review.webp"
 imageAlt: "AirPods Pro 3 in their charging case on a modern desk"
@@ -24,6 +24,15 @@ faq:
   - question: "Do AirPods Pro 3 work with Android?"
     answer: "Yes, but you lose most smart features. No automatic ear detection, no seamless switching, no Spatial Audio. For Android users, Galaxy Buds or Sony earbuds offer better value."
 ---
+
+## Quick Verdict: Are AirPods Pro 3 Worth It?
+
+After months of daily use, here is the short answer before the full review below.
+
+- **Buy them if** you're upgrading from original AirPods Pro, regular AirPods, or buying your first premium earbuds. The $249 gets you the best ANC Apple has shipped, 8-hour battery, and IP57 sweat and water resistance.
+- **Skip them if** your AirPods Pro 2 still work fine. The gains are real but incremental, not a must-upgrade.
+- **Avoid them on Android.** You lose ear detection, easy pairing, Spatial Audio, and all health features. Galaxy Buds or Sony are better value.
+- **Rating:** 4/5. Best-in-class for the Apple ecosystem; not the value pick if you already own Pro 2.
 
 I got [AirPods Pro 3](https://www.apple.com/airpods-pro/) as a gift last week. After daily use during commutes, work calls, and late-night music sessions, here are my honest first impressions.
 
