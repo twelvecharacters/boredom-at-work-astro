@@ -12,100 +12,109 @@ const { posts } = Astro.props;
 const displayPosts = posts.slice(0, 8); 
 ---
 
-<div class="w-full flex flex-col">
-  
-  <!-- Section Header -->
-  <div class="max-w-[1600px] mx-auto px-4 w-full flex items-end justify-between mb-8">
-    <div>
-      <div class="inline-flex items-center gap-2 bg-primary/5 border border-primary/10 px-3 py-1 rounded-full text-[10px] font-black text-accent shadow-sm uppercase tracking-widest mb-4">
-        <span class="animate-pulse">🧪</span> The Laboratory
-      </div>
-      <h2 class="text-3xl md:text-4xl font-black tracking-tight text-primary">
-        Latest Guides
-      </h2>
-    </div>
+{posts.length > 0 && (
+  <section class="pt-12 md:pt-24 bg-gradient-to-b from-white to-background-alt relative overflow-hidden">
+    <!-- Decorative mesh -->
+    <div class="absolute inset-0 opacity-[0.03] pointer-events-none" style="background-image: radial-gradient(var(--color-primary) 1px, transparent 1px); background-size: 24px 24px;"></div>
     
-    <div class="flex items-center gap-4">
-      <!-- Hidden desktop scroll hint -->
-      <span class="hidden md:inline-flex text-text-light/50 text-xs font-bold uppercase tracking-widest items-center gap-2">
-        Scroll <span class="text-lg">→</span>
-      </span>
-      <a href="/blog/" class="btn-secondary text-xs md:text-sm px-4 py-2">
-        View Archive
-      </a>
-    </div>
-  </div>
+    <div class="relative z-10 pt-8">
+    <div class="w-full flex flex-col">
 
-  <!-- Horizontal Scrolling Container -->
-  <div class="w-full relative group/scroll">
-    <!-- Fade edges -->
-    <div class="absolute left-0 top-0 bottom-0 w-8 md:w-24 bg-gradient-to-r from-background-alt to-transparent z-10 pointer-events-none"></div>
-    <div class="absolute right-0 top-0 bottom-0 w-8 md:w-24 bg-gradient-to-l from-background-alt to-transparent z-10 pointer-events-none"></div>
-
-    <div id="latest-scroll-container" class="flex overflow-x-auto snap-x snap-mandatory hide-scrollbar pb-12 pt-4 px-4 md:px-[calc(50vw-800px+1rem)] gap-6 md:gap-8 scroll-smooth cursor-grab" style="scroll-padding-left: max(1rem, calc(50vw - 800px + 1rem));">
-      {displayPosts.map((post) => (
-        <article class="snap-start shrink-0 w-[280px] md:w-[380px] group relative bg-white rounded-[2rem] overflow-hidden shadow-sm border border-primary/5 hover:shadow-2xl hover:-translate-y-2 transition-all duration-300 flex flex-col">
-          <a href={`/${getPostSlug(post)}/`} class="block overflow-hidden relative aspect-[4/3]">
-            {post.data.image ? (
-              <OptimizedImage
-                src={post.data.image}
-                alt={post.data.title}
-                class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
-                width={600}
-                height={450}
-              />
-            ) : (
-              <div class="w-full h-full bg-primary/5 flex items-center justify-center">
-                <span class="text-4xl opacity-50">📝</span>
-              </div>
-            )}
-            
-            <!-- Date badge on image -->
-            <div class="absolute top-4 left-4 bg-background/90 backdrop-blur-md px-3 py-1.5 rounded-xl border border-white/20 shadow-sm">
-              <span class="text-[10px] font-black text-primary uppercase tracking-widest">
-                {new Date(post.data.publishDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
-              </span>
-            </div>
-          </a>
-          
-          <div class="p-6 md:p-8 flex flex-col flex-grow">
-            <div class="flex items-center gap-2 mb-3">
-              {post.data.tags?.slice(0, 1).map(tag => (
-                <span class="text-[10px] font-black uppercase tracking-widest text-accent bg-accent/5 border border-accent/10 px-2.5 py-1 rounded-md">{tag}</span>
-              ))}
-            </div>
-            
-            <h3 class="text-xl md:text-2xl font-bold mb-3 leading-snug group-hover:text-accent transition-colors line-clamp-2 flex-grow">
-              <a href={`/${getPostSlug(post)}/`}>{post.data.title}</a>
-            </h3>
-            
-            <p class="text-sm text-text-light mb-6 line-clamp-2">
-              {post.data.description}
-            </p>
-            
-            <a href={`/${getPostSlug(post)}/`} class="mt-auto inline-flex items-center gap-2 font-bold text-sm text-accent group-hover:text-primary transition-colors">
-              Read Guide <span class="transition-transform group-hover:translate-x-1">→</span>
-            </a>
-          </div>
-        </article>
-      ))}
-      
-      <!-- View More Card -->
-      <a href="/blog/" class="snap-start shrink-0 w-[280px] md:w-[380px] flex items-center justify-center p-8 bg-white/50 rounded-[2rem] border-2 border-dashed border-primary/10 hover:bg-white hover:border-accent/30 transition-colors group cursor-pointer block">
-        <div class="text-center">
-          <div class="w-16 h-16 bg-accent/10 text-accent rounded-full flex items-center justify-center text-2xl mx-auto mb-4 font-black transition-transform group-hover:translate-x-1">
-            →
-          </div>
-          <h3 class="text-xl font-bold text-primary mb-2">Want more?</h3>
-          <span class="text-sm font-bold text-text-light group-hover:text-accent transition-colors uppercase tracking-widest">
-            Browse Archive
-          </span>
+    <!-- Section Header -->
+    <div class="max-w-[1600px] mx-auto px-4 w-full flex items-end justify-between mb-8">
+      <div>
+        <div class="inline-flex items-center gap-2 bg-primary/5 border border-primary/10 px-3 py-1 rounded-full text-[10px] font-black text-accent shadow-sm uppercase tracking-widest mb-4">
+          <span class="animate-pulse">🧪</span> The Laboratory
         </div>
-      </a>
+        <h2 class="text-3xl md:text-4xl font-black tracking-tight text-primary">
+          Latest Guides
+        </h2>
+      </div>
+      
+      <div class="flex items-center gap-4">
+        <!-- Hidden desktop scroll hint -->
+        <span class="hidden md:inline-flex text-text-light/50 text-xs font-bold uppercase tracking-widest items-center gap-2">
+          Scroll <span class="text-lg">→</span>
+        </span>
+        <a href="/blog/" class="btn-secondary text-xs md:text-sm px-4 py-2">
+          View Archive
+        </a>
+      </div>
     </div>
-  </div>
 
-</div>
+    <!-- Horizontal Scrolling Container -->
+    <div class="w-full relative group/scroll">
+      <!-- Fade edges -->
+      <div class="absolute left-0 top-0 bottom-0 w-8 md:w-24 bg-gradient-to-r from-background-alt to-transparent z-10 pointer-events-none"></div>
+      <div class="absolute right-0 top-0 bottom-0 w-8 md:w-24 bg-gradient-to-l from-background-alt to-transparent z-10 pointer-events-none"></div>
+
+      <div id="latest-scroll-container" class="flex overflow-x-auto snap-x snap-mandatory hide-scrollbar pb-12 pt-4 px-4 md:px-[calc(50vw-800px+1rem)] gap-6 md:gap-8 scroll-smooth cursor-grab" style="scroll-padding-left: max(1rem, calc(50vw - 800px + 1rem));">
+        {displayPosts.map((post) => (
+          <article class="snap-start shrink-0 w-[280px] md:w-[380px] group relative bg-white rounded-[2rem] overflow-hidden shadow-sm border border-primary/5 hover:shadow-2xl hover:-translate-y-2 transition-all duration-300 flex flex-col">
+            <a href={`/${getPostSlug(post)}/`} class="block overflow-hidden relative aspect-[4/3]">
+              {post.data.image ? (
+                <OptimizedImage
+                  src={post.data.image}
+                  alt={post.data.title}
+                  class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                  width={600}
+                  height={450}
+                />
+              ) : (
+                <div class="w-full h-full bg-primary/5 flex items-center justify-center">
+                  <span class="text-4xl opacity-50">📝</span>
+                </div>
+              )}
+              
+              <!-- Date badge on image -->
+              <div class="absolute top-4 left-4 bg-background/90 backdrop-blur-md px-3 py-1.5 rounded-xl border border-white/20 shadow-sm">
+                <span class="text-[10px] font-black text-primary uppercase tracking-widest">
+                  {new Date(post.data.publishDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+                </span>
+              </div>
+            </a>
+            
+            <div class="p-6 md:p-8 flex flex-col flex-grow">
+              <div class="flex items-center gap-2 mb-3">
+                {post.data.tags?.slice(0, 1).map(tag => (
+                  <span class="text-[10px] font-black uppercase tracking-widest text-accent bg-accent/5 border border-accent/10 px-2.5 py-1 rounded-md">{tag}</span>
+                ))}
+              </div>
+              
+              <h3 class="text-xl md:text-2xl font-bold mb-3 leading-snug group-hover:text-accent transition-colors line-clamp-2 flex-grow">
+                <a href={`/${getPostSlug(post)}/`}>{post.data.title}</a>
+              </h3>
+              
+              <p class="text-sm text-text-light mb-6 line-clamp-2">
+                {post.data.description}
+              </p>
+              
+              <a href={`/${getPostSlug(post)}/`} class="mt-auto inline-flex items-center gap-2 font-bold text-sm text-accent group-hover:text-primary transition-colors">
+                Read Guide <span class="transition-transform group-hover:translate-x-1">→</span>
+              </a>
+            </div>
+          </article>
+        ))}
+        
+        <!-- View More Card -->
+        <a href="/blog/" class="snap-start shrink-0 w-[280px] md:w-[380px] flex items-center justify-center p-8 bg-white/50 rounded-[2rem] border-2 border-dashed border-primary/10 hover:bg-white hover:border-accent/30 transition-colors group cursor-pointer block">
+          <div class="text-center">
+            <div class="w-16 h-16 bg-accent/10 text-accent rounded-full flex items-center justify-center text-2xl mx-auto mb-4 font-black transition-transform group-hover:translate-x-1">
+              →
+            </div>
+            <h3 class="text-xl font-bold text-primary mb-2">Want more?</h3>
+            <span class="text-sm font-bold text-text-light group-hover:text-accent transition-colors uppercase tracking-widest">
+              Browse Archive
+            </span>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    </div>
+    </div>
+  </section>
+)}
 
 <style>
   /* Hide scrollbar for Chrome, Safari and Opera */
