@@ -320,3 +320,6 @@ Reddit is a genuinely useful tool for investing education, if you use the right 
 Just remember: the people giving advice on Reddit are anonymous strangers on the internet. Some are financial professionals. Some are 19-year-olds who just opened their first brokerage account. You can't tell the difference from a username, so verify everything independently.
 
 **Next steps:** The [Investing Tools Guide](/investing-tools-guide/) connects all the apps, platforms, and resources you'll need alongside these communities.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

@@ -142,3 +142,6 @@ Plus, watching it do a little "happy dance" on your desk after you've spent a we
 ---
 
 *For more 3D printing projects and guides, visit our [3D Printing Guide](/3d-printing-guide/).*
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

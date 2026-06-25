@@ -324,3 +324,6 @@ Japan's consumer market is incredibly deep. Whatever your hobby or interest, the
 The shipping costs and proxy fees are worth it when you're getting items at 30-50% below Western prices, or finding things that simply don't exist in your local market.
 
 Start exploring during your next slow afternoon at work. You might discover your new favorite thing.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

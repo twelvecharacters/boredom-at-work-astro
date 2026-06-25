@@ -189,3 +189,6 @@ You do not need to spend $2,000 to have a great home office. The $500 tier handl
 Whatever tier you pick, the order of importance stays the same: chair, monitor, desk, everything else. Get those first two right and the rest is just polish.
 
 For the full rundown on every component mentioned here, start with the [desk upgrade guide](/desk-upgrade-guide/), it ties together all the individual product roundups and helps you plan upgrades piece by piece.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

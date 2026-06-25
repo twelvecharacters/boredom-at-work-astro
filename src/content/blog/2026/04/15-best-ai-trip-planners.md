@@ -284,3 +284,6 @@ This hybrid approach gives you AI creativity plus real-world accuracy.
 - [Claude vs ChatGPT for Travel](/claude-vs-chatgpt-travel-planning/), Head-to-head comparison
 - [Free AI Travel Tools](/free-ai-travel-tools/), All free options
 - [Perplexity AI Guide](/perplexity-ai-guide/), Best for research
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

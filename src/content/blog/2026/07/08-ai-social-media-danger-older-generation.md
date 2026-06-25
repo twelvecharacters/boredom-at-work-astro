@@ -116,3 +116,6 @@ The integration of Artificial Intelligence into social media is not merely a tec
 Addressing this crisis requires a multi-pronged approach: intense regulatory pressure on social media platforms to identify and throttle synthetic media, the dismantling of outrage-driven recommendation algorithms, and a massive, compassionate, society-wide effort to update the digital literacy of the elderly. 
 
 The invisible threat of AI is here. If we do not actively protect those who cannot protect themselves against these digital ghosts, the cost will be measured not just in [stolen retirement funds](/blog/ai-portfolio-analysis-chatgpt/), but in the tragic, algorithmic isolation of an entire generation.
+
+
+Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

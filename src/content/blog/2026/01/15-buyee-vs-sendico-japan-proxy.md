@@ -183,3 +183,6 @@ Now that you know how to buy, here are some popular categories (we've compiled a
 - **Watches**, Seiko, Citizen, and vintage pieces at great prices
 
 Ready to start your Japan shopping journey? Pick a service, find something interesting, and give it a try. Your bored work hours are about to become a lot more productive, or at least more entertaining.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

@@ -160,3 +160,6 @@ Every time you don't have to search for a window, every time you don't have to w
 - [The $599 MacBook Neo: One Month Review](/macbook-neo-one-month-review/)
 - [Productive Things to Do When Bored at Work](/productive-things-bored-at-work/)
 - [Best AI Chrome Extensions](/best-ai-chrome-extensions/)
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

@@ -318,3 +318,6 @@ Coursera now uses a "preview mode" that gives free access to the first module of
 - [7 Best Free AI Courses (2026), Take Them at Work](/best-free-ai-courses/), Same "learn at work" approach for AI skills
 - [7 Best Paper Trading Apps (I Tested Them All)](/best-paper-trading-apps/), Practice investing with fake money after you learn the theory
 - [25 Productive Things to Do When Bored at Work (2026)](/productive-things-bored-at-work/), More ways to use your downtime
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

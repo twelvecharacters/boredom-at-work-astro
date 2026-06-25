@@ -404,3 +404,6 @@ Which destination fits me best and why?
   - [AI Trip Planning: Cambodia](/ai-trip-planning-cambodia/)
 - **Build your flight monitor:** [AI Flight Search Agent Tutorial](/build-ai-flight-search-agent/)
 - **Master AI travel:** [AI Travel Planning Hub](/ai-travel-planning/)
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

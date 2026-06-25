@@ -272,3 +272,6 @@ If aesthetics matter and you have a MacBook, the **Twelve South Curve SE (~$40)*
 And if you're building out a complete home office, pair your laptop stand with a [standing desk](/best-standing-desks/), a [good office chair](/best-office-chairs/), and proper [cable management](/cable-management-tips/). Check out the [desk upgrade guide](/desk-upgrade-guide/) for the full picture.
 
 Your neck will thank you.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

@@ -319,3 +319,6 @@ For my potential November 2026 trip:
 - **Similar trip:** [Malaysia with ChatGPT](/chatgpt-malaysia-trip-planning/)
 - **Build your flight agent:** [AI Flight Search Tutorial](/build-ai-flight-search-agent/)
 - **Master AI travel:** [AI Travel Planning Hub](/ai-travel-planning/)
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

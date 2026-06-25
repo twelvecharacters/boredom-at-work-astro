@@ -90,3 +90,6 @@ It will force you to become intimately familiar with how light enters a camera, 
 **Next Steps:**
 - Need help picking your first camera? Read our guide to the [Best Cameras Under $500](/best-cameras-under-500/).
 - Check out the foundational [Photography Guide for Beginners](/photography-guide/) to solidify your understanding of the exposure triangle.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

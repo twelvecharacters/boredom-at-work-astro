@@ -139,3 +139,6 @@ The Kindle is designed to be simple. Don't overcomplicate it with accessories yo
 Want to get more out of your Kindle software-side? Start with our [complete Kindle guide](/kindle-guide/) for setup basics, books, and customization, then level up with our [Kindle modding guide](/kindle-modding-guide/) for custom fonts, KOReader, and more.
 
 Setting up a dedicated reading corner at your desk? Pair your Kindle with the [best desk shelves and organizers](/best-desk-shelves-organizers/) to display your queue, or a [monitor light bar](/best-monitor-light-bars/) so the glare-free e-ink screen works in any room.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

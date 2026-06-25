@@ -1,11 +1,11 @@
 ---
-title: "How to Install the iOS 27 & macOS 27 Developer Betas: A Step-by-Step Guide"
+title: "Install iOS 27 & macOS 27 Developer Betas Guide"
 slug: "ios-27-macos-27-beta-guide"
 description: "Eager to try the new Apple Intelligence? Learn how to safely install the iOS 27 and macOS 27 developer betas and what to expect from the Golden Gate release."
 publishDate: 2026-06-14
 author: "Mehdi"
 image: "./14-ios-27-macos-27-beta-guide.png"
-tags: ["Apple", "Beta", "iOS 27", "macOS 27", "Tutorial", "Technology"]
+tags: ["Apple", "Beta", "iOS", "macOS"]
 draft: false
 faq:
   - question: "Is it safe to install the developer beta on my main device?"
@@ -20,7 +20,7 @@ faq:
 
 The annual release of new Apple operating systems is always a highlight for tech enthusiasts. This year, with the unveiling of iOS 27 and macOS 27 "Golden Gate" at WWDC 2026, the excitement is palpable, largely driven by the promised integration of the new Apple Intelligence and a vastly improved Siri AI.
 
-If you are eager to experience these features before the public release in September, you can join the developer preview. However, navigating the beta landscape requires caution. This guide will walk you through the installation process and manage your expectations for this early-stage software.
+If you are eager to experience these features before the public release in September, you can join the developer preview. However, navigating the beta landscape requires caution. This guide will walk you through the installation process and manage your expectations for this early-stage software. For more details on the features themselves, refer to our [Siri AI & Apple Intelligence Guide](/blog/siri-ai-apple-intelligence-guide/).
 
 ## Important Precautions Before You Begin
 

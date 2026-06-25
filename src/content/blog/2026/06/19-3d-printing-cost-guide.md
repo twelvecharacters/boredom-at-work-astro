@@ -179,3 +179,6 @@ Is that cheap? Compared to other hobbies, photography, woodworking, RC cars, it'
 Just don't buy a printer expecting to save money on Amazon purchases. Buy it because you want to make things that don't exist yet. The savings are a nice bonus.
 
 Ready to get started? Our [3D printing beginners guide](/3d-printing-beginners-guide/) has everything you need to go from zero to first print.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

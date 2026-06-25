@@ -192,3 +192,6 @@ If you're new to AI travel planning, the [ChatGPT travel planning prompts guide]
 Yes. I'd use AI planning the same way: get the structured option list, scout the city, then on the ground I'd ignore at least half of it.
 
 Istanbul gave me what I asked it for: three days that didn't feel like work. I'm already thinking about the next visit, Topkapi, the Asian side, Pierre Loti café, and a Bosphorus ferry that costs 2 EUR. AI can plan that one too. I'll probably ignore most of it again.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

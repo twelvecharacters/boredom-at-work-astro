@@ -300,3 +300,6 @@ Whatever you pick, a good dock transforms your work-from-home experience. One ca
 ---
 
 *Building your home office from scratch? Start with our [desk upgrade guide](/desk-upgrade-guide/), it covers standing desks, monitors, chairs, and everything in between.*
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

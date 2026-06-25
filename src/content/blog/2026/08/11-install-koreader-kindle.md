@@ -107,3 +107,6 @@ The honest risk summary: KOReader itself is stable and well-supported. The jailb
 - [Kindle Tips and Tricks](/kindle-tips-and-tricks/), Get more from the stock software first
 
 *Modding involves third-party software and carries inherent risk to your device and warranty. Always follow current instructions from the community-run [Kindle Modding Wiki](https://kindlemodding.org/) and the [KOReader project](https://github.com/koreader/koreader). This guide is for owners modifying their own devices.*
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

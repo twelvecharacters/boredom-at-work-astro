@@ -189,3 +189,6 @@ There's no single "best" AI in 2026. The gap between them has narrowed significa
 My setup: Claude Pro for writing and coding, ChatGPT free for quick tasks and images, Perplexity Pro for research with real-time data. Total: $40/month and it covers everything.
 
 **Related:** Learn how to get the most out of [ChatGPT](/chatgpt-guide/), compare [AI writing tools](/ai-writing-tools-comparison/), or check the [best AI Chrome extensions](/best-ai-chrome-extensions/) to supercharge your browser.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

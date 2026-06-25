@@ -248,3 +248,6 @@ See AI travel planning in action with real trips, including what worked and what
 - [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/), 19 prompts that work
 - [AI Flight Search Agent](/build-ai-flight-search-agent/), Build something advanced
 - [AI-Planned Istanbul Solo Trip](/ai-planned-istanbul-solo-trip/), Personal recap of a real 3-day trip
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

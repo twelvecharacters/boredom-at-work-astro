@@ -355,3 +355,6 @@ Whatever you pick, the important thing is consolidating your portfolio view into
 - [7 Best Investing Apps for Beginners](/best-investing-apps-beginners/), If you're tracking traditional investments alongside crypto
 - [Best Free Stock Screeners](/best-free-stock-screeners/), Research tools for the stock side of your portfolio
 - [25 Productive Things to Do When Bored at Work](/productive-things-bored-at-work/), For when you've already checked your portfolio three times today
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

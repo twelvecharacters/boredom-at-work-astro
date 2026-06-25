@@ -5,7 +5,7 @@ description: "Get AI certified this weekend. Google, Microsoft, and IBM certific
 publishDate: 2025-12-25
 updatedDate: 2026-04-05
 author: "Mehdi"
-tags: ["AI Certification", "Career Development", "Quick Learning"]
+tags: ["AI Certification", "Career Development", "Quick Learning", "Technology"]
 image: "./25-ai-certifications.webp"
 imageAlt: "Collection of AI certification badges from Google, Microsoft, and IBM"
 draft: false
@@ -341,3 +341,6 @@ Pick a certification. Start this weekend. Be certified by next week.
 ---
 
 *Ready to start? Check out our [full review of Google AI Essentials](/google-ai-essentials-review/) or browse all [free AI courses you can take at work](/best-free-ai-courses/). For a complete learning path beyond certifications, see our [AI learning hub](/ai-learning-hub/).*
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

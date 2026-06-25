@@ -108,3 +108,6 @@ Whichever path you choose, the goal is the same: taking your data back from the 
 - [Beyond the To-Do List: Why Your Best Productivity Hack is a Fantasy Novel](/books-for-productive-procrastination/)
 - [10 Practical Desk Upgrades You Can 3D Print](/10-practical-desk-upgrades-3d-print/)
 - [Best USB-C Docking Stations for your New Mac](/best-usb-c-docking-stations/)
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

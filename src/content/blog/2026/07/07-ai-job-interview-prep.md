@@ -184,3 +184,6 @@ If you want the most streamlined experience, here's the order to run these promp
 Total: roughly 2 hours and 15 minutes. That's it. One evening, and you're more prepared than you've ever been for an interview.
 
 For more ways to use AI tools at work beyond interview prep, check out our roundup of the [best AI tools for office work](/best-ai-tools-office-work/), several of the tools there will also help with resume writing, cover letters, and career planning.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

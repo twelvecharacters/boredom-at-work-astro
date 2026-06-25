@@ -468,3 +468,6 @@ Now go take some photos.
 *This guide is updated regularly as new cameras release. Last updated: March 2026.*
 
 *Have a question not covered here? [Let us know](/contact/).*
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

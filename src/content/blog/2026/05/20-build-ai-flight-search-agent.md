@@ -403,3 +403,6 @@ For now, agents excel at *finding* deals, you still click "book" yourself.
 - **Master ChatGPT for travel**: [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/)
 - **Compare AI tools**: [Best AI Trip Planners 2026](/best-ai-trip-planners/)
 - **Learn more about AI**: [Best Free AI Courses](/best-free-ai-courses/)
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

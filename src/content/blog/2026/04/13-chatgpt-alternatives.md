@@ -389,3 +389,6 @@ Try a few. Most have free tiers. You might find something that fits your workflo
 - [ChatGPT Mastery Guide](/chatgpt-guide/)
 - [AI Tools Guide](/ai-tools-guide/)
 - [VS Code vs Antigravity](/vs-code-vs-antigravity/)
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

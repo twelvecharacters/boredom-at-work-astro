@@ -171,3 +171,6 @@ If we define the "winner" strictly by the volume of plastic successfully extrude
 However, if we define the "winner" by the volume of knowledge gained, the depth of the engineering journey, and the absolute ownership of the hardware, the DIY community remains untouchable. 
 
 Your choice dictates your journey. Will you buy a tool, or will you build a legacy? Whichever path you choose, the golden age of desktop manufacturing is here, and your desk is about to get a lot more interesting.
+
+
+Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

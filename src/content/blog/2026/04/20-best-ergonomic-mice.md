@@ -331,3 +331,6 @@ An ergonomic mouse isn't a miracle cure. If your entire desk setup is working ag
 But if your wrist is telling you something's wrong, listen to it. A $32-100 mouse is a lot cheaper than physical therapy.
 
 Your future wrist will thank you.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

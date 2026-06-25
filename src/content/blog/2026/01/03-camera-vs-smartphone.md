@@ -294,3 +294,6 @@ If you do decide a camera is right for you, the learning journey ahead is reward
 ---
 
 *Ready to buy? See our guide to the [best cameras for beginners](/best-cameras-for-beginners/) or learn about [common beginner photography mistakes to avoid](/beginner-photography-mistakes/). Browse all our photography guides in the [Photography Guide](/photography-guide/) and [Photography Buying Guide](/photography-buying-guide/).*
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

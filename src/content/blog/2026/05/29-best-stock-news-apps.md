@@ -290,3 +290,6 @@ And if reading about markets has inspired you to actually learn the fundamentals
 - [7 Best Investing Apps for Beginners](/best-investing-apps-beginners/), Ready to act on what you've learned? Here's where to start trading
 - [Best Free Investing Courses](/best-free-investing-courses/), Learn the fundamentals before putting real money in
 - [25 Productive Things to Do When Bored at Work](/productive-things-bored-at-work/), More ways to make your downtime count
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

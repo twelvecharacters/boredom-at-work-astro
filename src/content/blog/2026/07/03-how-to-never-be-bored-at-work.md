@@ -151,3 +151,6 @@ Protect your personal time outside of working hours with ruthless aggression. If
 Boredom at work is not a life sentence, nor is it an inevitable reality of adulthood. It is a highly specific, highly actionable signal. It is an alarm bell from your brain, clearly communicating that you are ready for a new challenge, a drastic change in perspective, or a significantly deeper connection to your daily labor. 
 
 By aggressively job crafting your responsibilities, systematically gamifying your mundane tasks, committing relentlessly to continuous hyper-learning, and optimizing your physical and digital environments, you can permanently banish the blinking cursor of doom and reclaim your professional vitality. Remember the most important lesson of all: a deeply engaging, profoundly satisfying career isn't something that passively happens to you while you wait for it; it is something you must actively, intentionally create.
+
+
+Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

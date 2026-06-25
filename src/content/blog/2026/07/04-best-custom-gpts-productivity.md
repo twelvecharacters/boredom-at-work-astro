@@ -200,3 +200,6 @@ My top three if you are short on time:
 These three alone will save you hours every week. The rest of the list is strong too, but start with these and branch out based on what you actually need.
 
 For a broader look at AI tools beyond ChatGPT, check out our [best AI tools for office work](/best-ai-tools-office-work/) roundup. And if you are new to ChatGPT entirely, our [ChatGPT guide](/chatgpt-guide/) covers everything from setup to advanced features.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

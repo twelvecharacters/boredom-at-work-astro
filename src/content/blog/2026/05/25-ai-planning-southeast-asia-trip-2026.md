@@ -270,3 +270,6 @@ I'll update this article as I progress. Bookmark it or check back to see:
   - [AI Trip Planning: Vietnam](/ai-trip-planning-vietnam/)
   - [AI Trip Planning: Cambodia](/ai-trip-planning-cambodia/)
 - **Compare destinations:** [Japan vs Vietnam vs Cambodia](/japan-vietnam-cambodia-comparison/)
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

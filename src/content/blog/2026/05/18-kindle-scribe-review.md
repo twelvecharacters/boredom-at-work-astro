@@ -164,3 +164,6 @@ Here's who should skip it:
 Looking for accessories to go with your Scribe? Browse our [best Kindle accessories](/best-kindle-accessories/) roundup. New to the Kindle ecosystem? Our [complete Kindle guide](/kindle-guide/) covers setup, books, and customization for every model.
 
 For digital-side note-taking that complements handwritten notes, see our [ChatGPT custom instructions templates](/chatgpt-custom-instructions/) for setting up an AI workflow that captures and organizes ideas. For ergonomic upgrades around the Scribe, the [best laptop stands](/best-laptop-stands/) double well as e-reader stands when you're reading at your desk.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

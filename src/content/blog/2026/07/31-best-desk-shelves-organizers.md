@@ -164,3 +164,6 @@ A clean desk isn't about willpower, it's about having a system. A desk shelf, on
 3. [Cable management](/cable-management-tips/) ($30-50), the finishing touch
 
 **Related:** Build your complete setup with our [desk upgrade guide](/desk-upgrade-guide/), find the right [desk mat](/best-desk-mats/), and check our [cable management tips](/cable-management-tips/).
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

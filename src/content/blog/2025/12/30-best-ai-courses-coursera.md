@@ -5,7 +5,7 @@ description: "I took every major Coursera AI course and ranked them. Google AI E
 publishDate: 2025-12-30
 updatedDate: 2026-06-21
 author: "Mehdi"
-tags: ["Coursera", "AI Courses", "Online Learning"]
+tags: ["Coursera", "AI Courses", "Online Learning", "Technology"]
 image: "./30-coursera-courses.webp"
 imageAlt: "Coursera AI course logos from Google, Stanford, and IBM on a minimal background"
 draft: false
@@ -325,3 +325,6 @@ AI skills compound. The sooner you start, the further ahead you'll be. See our g
 ---
 
 *Not sure if Coursera is right for you? Check out our [comparison of free vs paid AI courses](/free-vs-paid-ai-courses/) to find the best option, or see our [complete AI learning path](/ai-learning-hub/) for a structured approach.*
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

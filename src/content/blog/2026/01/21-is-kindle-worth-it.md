@@ -221,3 +221,6 @@ If you do buy a Kindle and want to push it further, our [Kindle modding guide](/
 Studying or in school? See which model fits coursework and PDFs best in [best Kindle for students](/best-kindle-for-students/). And if an older Kindle ever stops responding, our [Kindle won't turn on or charge](/kindle-wont-turn-on-charge/) fixes will likely revive it.
 
 Already have a Kindle and need something to read on it? Our [books for productive procrastination](/books-for-productive-procrastination/) list works perfectly for desk reading. For more ways to stay focused at work, see our guide to [using AI at work safely](/how-to-use-ai-at-work-safely/).
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

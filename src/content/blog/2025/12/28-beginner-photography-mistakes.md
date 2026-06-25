@@ -317,3 +317,6 @@ Now go shoot, make mistakes, and learn from them.
 ---
 
 *Want to continue learning? Check out our guide to the [best cameras for beginners](/best-cameras-for-beginners/) or learn [DSLR vs mirrorless: which should you buy?](/dslr-vs-mirrorless-beginners/). For all our photography content, see the [Photography Guide](/photography-guide/) and [Photography Buying Guide](/photography-buying-guide/).*
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

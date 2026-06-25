@@ -316,3 +316,6 @@ Based on our experience:
 - [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/), All the prompts we used
 - [Best AI Trip Planners](/best-ai-trip-planners/), Compare AI tools
 - [AI Tools Guide](/ai-tools-guide/), All AI tools compared
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

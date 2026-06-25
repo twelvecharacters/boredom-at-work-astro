@@ -167,3 +167,6 @@ If someone tells you "sitting is the new smoking," feel free to point out that t
 Buy a standing desk because it gives you options. Don't buy it expecting miracles. And whatever you do, don't stand in one position for 8 hours thinking you've outsmarted cardiovascular disease. You haven't. You've just traded one form of being sedentary for another, with the added bonus of sore feet.
 
 Get up. Sit down. Walk around. Repeat. That's the entire secret.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

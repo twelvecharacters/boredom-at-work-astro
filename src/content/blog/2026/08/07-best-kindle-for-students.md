@@ -113,3 +113,6 @@ Match the model to how you actually study, not to the spec sheet, and any of the
 - [Kindle Scribe Review](/kindle-scribe-review/): the full breakdown on note-taking and PDFs
 - [Kindle vs Kobo](/kindle-vs-kobo/): how the two ecosystems compare
 - [Is a Kindle Worth It?](/is-kindle-worth-it/): who actually benefits from an e-reader
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

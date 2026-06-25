@@ -298,3 +298,6 @@ The best screener is the one you actually use consistently. Pick one, learn its 
 - [Best Stock News Apps](/best-stock-news-apps/), Stay on top of earnings and developments for stocks you're watching
 - [Best Free Investing Courses](/best-free-investing-courses/), Learn what all those financial metrics actually mean
 - [25 Productive Things to Do When Bored at Work](/productive-things-bored-at-work/), More ways to stay sharp during slow days
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

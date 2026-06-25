@@ -114,3 +114,6 @@ Once your Kindle is back up and running, a few habits keep it that way: charge i
 - [Is a Kindle Worth It?](/is-kindle-worth-it/)
 - [Best E-Readers](/best-e-readers/)
 - [Kindle vs Kobo](/kindle-vs-kobo/)
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

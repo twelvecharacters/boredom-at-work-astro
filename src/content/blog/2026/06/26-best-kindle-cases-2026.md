@@ -178,3 +178,6 @@ For more on getting the most out of your Kindle, see our [Kindle tips and tricks
 - [Kindle Modding Wiki](/kindle-modding-guide/)
 - [Best Desk Shelves and Organizers](/best-desk-shelves-organizers/), where to display your Kindle when you're not using it
 - [Home Office Lighting Guide](/home-office-lighting-guide/), proper light for the e-ink reading corner
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

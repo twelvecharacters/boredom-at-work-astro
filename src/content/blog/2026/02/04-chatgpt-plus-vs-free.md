@@ -408,3 +408,6 @@ But if you're unsure, start with Free. You'll know quickly if you need more.
 - [ChatGPT Custom Instructions](/chatgpt-custom-instructions/), Get better responses automatically
 - [Claude vs ChatGPT](/claude-vs-chatgpt/), Compare the top AI assistants
 - [AI Tools Guide](/ai-tools-guide/), All AI tools for work compared
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

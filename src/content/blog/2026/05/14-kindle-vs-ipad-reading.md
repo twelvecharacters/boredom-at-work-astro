@@ -155,3 +155,6 @@ And if you're torn? Buy the Kindle first. It's cheaper, and you can always use t
 For more e-reader comparisons, check out our [Kindle vs Kobo](/kindle-vs-kobo/) breakdown, Kobo is the main alternative if you want an e-reader but don't love Amazon's ecosystem. If you've decided on a Kindle, our [complete Kindle guide](/kindle-guide/) covers setup, books, and customization.
 
 Sticking with the Apple ecosystem? Our [MacBook Neo one-month review](/macbook-neo-one-month-review/) covers the new $599 Mac that pairs surprisingly well with an iPad for reading-plus-work setups, and [AirPods vs Galaxy Buds vs Sony](/airpods-vs-galaxy-buds-vs-sony/) compares the best earbuds to round out the device.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

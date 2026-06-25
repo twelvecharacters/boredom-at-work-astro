@@ -413,3 +413,6 @@ A good webcam is one of those upgrades that pays for itself in how you come acro
 If you're building out a proper home office, a webcam pairs nicely with a solid [desk setup](/desk-upgrade-guide/) and a quality [monitor](/best-monitors-working-from-home/). And if you want to make the most of all those video calls, [AI meeting assistants](/ai-meeting-assistants/) can handle the note-taking while you focus on actually participating.
 
 Now stop reading webcam reviews and get back to looking busy.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

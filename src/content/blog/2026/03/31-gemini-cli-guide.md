@@ -199,3 +199,6 @@ If you find yourself constantly jumping between your IDE and your browser, give 
 - [How Gemini CLI Changed My Coding Flow Forever](/how-gemini-changed-my-coding-flow/)
 - [VS Code vs Antigravity: The Battle for the Agentic Workspace](/vs-code-vs-antigravity/)
 - [Antigravity 2 + Gemini 3.5: What Just Shipped](/antigravity-2-gemini-35/)
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

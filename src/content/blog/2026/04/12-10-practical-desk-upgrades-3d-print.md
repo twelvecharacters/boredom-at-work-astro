@@ -159,3 +159,6 @@ But the real "return on investment" isn't the money saved; it’s the friction r
 **What’s the most useful thing you’ve printed for your desk?** Let us know or share your setup! Find more free models to print on [Printables](https://www.printables.com), [Thingiverse](https://www.thingiverse.com), and [Thangs](https://thangs.com). And if you want to get the most out of your printer itself, check out our list of [must-have 3D printing accessories](/must-have-3d-printing-accessories/), or our [3D-printed coffee station upgrades](/3d-printing-for-coffee-nerds/) if your desk doubles as a barista station.
 
 *New to the hobby? Check out our [Best 3D Printers Under $300](/best-3d-printers-under-300/) guide to find the machine that will build your next upgrade. Already have a printer and want to level up your whole workspace? See our [Desk Upgrade Guide](/desk-upgrade-guide/) for the full picture.*
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

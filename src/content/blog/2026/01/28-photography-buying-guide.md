@@ -333,3 +333,6 @@ Your first 10,000 photos are your worst, and you need to take them to get to the
 ---
 
 *Ready to start? Check out [Best Cameras Under $500](/best-cameras-under-500/) for our detailed budget recommendations, or [DSLR vs Mirrorless](/dslr-vs-mirrorless-beginners/) if you're still deciding on camera type.*
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

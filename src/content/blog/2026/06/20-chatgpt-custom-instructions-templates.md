@@ -501,3 +501,6 @@ The sweet spot: use custom instructions for your most common role, and build Cus
 ## Bottom Line
 
 Custom instructions are the highest-ROI thing you can do in ChatGPT. Five minutes of setup, permanently better responses. Grab the template closest to your role, paste it in, and start getting answers that actually fit your context.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

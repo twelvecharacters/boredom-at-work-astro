@@ -296,3 +296,6 @@ For more options, see our roundup of [best AI trip planners](/best-ai-trip-plann
 - **Build your flight agent:** [AI Flight Search Tutorial](/build-ai-flight-search-agent/)
 - **Previous trip:** [Malaysia with ChatGPT](/chatgpt-malaysia-trip-planning/)
 - **Master AI travel:** [AI Travel Planning Hub](/ai-travel-planning/)
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

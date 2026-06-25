@@ -1,0 +1,177 @@
+
+════════════════════════════════════════════════════════════
+  [1mDAILY CONTENT OPS — boredom-at-work.com[0m
+  2026-06-25
+════════════════════════════════════════════════════════════
+
+[1m📅 TODAY[0m
+   [32m●[0m Standing Desk vs Sitting Desk: What Science Says  /standing-desk-vs-sitting-desk/
+
+[1m📆 REST OF WEEK[0m
+   2026-06-26  Best Kindle Cases 2026: Tested Picks for Every Model
+   2026-06-27  Ultrawide vs Dual Monitors: Which Setup Wins?
+   2026-06-28  Top AI Courses of 2026: Mastering Agentic Workflows and Local LLMs
+
+[1m📊 STATS[0m
+   Published: 176  |  Scheduled: 37  |  Total: 213
+
+[1m🔗 ORPHANS[0m
+   [31m●[0m /ai-powered-fitness-trackers/
+   [31m●[0m /ipad-vs-android-tablet/
+   [31m●[0m /siri-ai-apple-intelligence-guide/
+   [31m●[0m /ios-27-macos-27-beta-guide/
+   [31m●[0m /chatgpt-for-email-templates/
+   [31m●[0m /android-17-guide-features/
+   [31m●[0m /bambu-lab-a2l-review/
+   [31m●[0m /lens-vs-camera-body/
+
+[1m🔜 NEXT 14 DAYS[0m
+   2026-06-26  Best Kindle Cases 2026: Tested Picks for Every Model  [33m⚠️ no ext links[0m
+   2026-06-27  Ultrawide vs Dual Monitors: Which Setup Wins?
+   2026-06-28  Top AI Courses of 2026: Mastering Agentic Workflows and Local LLMs  [33m⚠️ few links[0m
+   2026-06-29  AI Tools for 3D Printing: Revolutionizing Your Workflow in 2026  [33m⚠️ no ext links[0m
+   2026-06-30  The ROI of AI: Measuring the True Value of Your 2026 AI Workflow  [33m⚠️ no ext links[0m
+   2026-07-01  The Threat of AI for Jobs: Separating Myth from Reality  [33m⚠️ few links · no ext links[0m
+   2026-07-02  How to Use AI in Google Sheets (Practical Guide)
+   2026-07-03  How to Never Be Bored at Work Again  [33m⚠️ few links · no ext links[0m
+   2026-07-04  12 Best Custom GPTs for Productivity at Work (2026)
+   2026-07-05  The Golden Age of $500 3D Printers: Turn-key vs. DIY  [33m⚠️ few links · no ext links[0m
+   2026-07-06  The Return of the Dumb Phone: Reclaiming Deep Work in a Hyper-Connected 2026  [33m⚠️ few links · no ext links[0m
+   2026-07-07  How to Use AI for Job Interview Prep: Full Guide
+   2026-07-08  The Invisible Threat: AI, Social Media, and the Danger to the Older Generation  [33m⚠️ few links · no ext links[0m
+   2026-07-09  The Ultimate Guide: What to Pack in a Traveling Backpack  [33m⚠️ few links · no ext links[0m
+
+[1m📋 REMINDERS[0m
+   • Quora: 1 link post per session
+   • GSC: up to 10 URLs/day
+   • JUSTWAY / HackerNoon: check status
+
+
+[1m🔍 CONTENT LINT[0m — scanning 213 files
+
+   [1msrc/content/blog/2025/12/31-best-cameras-for-beginners.md[0m
+     [33mWRN[0m  line 254: Price mismatch "budget": $50 (line 248) vs $100 (line 254)
+   [1msrc/content/blog/2026/01/01-best-cameras-under-500.md[0m
+     [33mWRN[0m  line 13: `Nikon Z50` without "II" — discontinued
+     [33mWRN[0m  line 18: `Nikon Z50` without "II" — discontinued
+     [33mWRN[0m  line 20: `Nikon Z50` without "II" — discontinued
+     [33mWRN[0m  line 36: `Nikon Z50` without "II" — discontinued
+     [33mWRN[0m  line 85: `Nikon Z50` without "II" — discontinued
+     [33mWRN[0m  line 89: `Nikon Z50` without "II" — discontinued
+     [33mWRN[0m  line 299: `Nikon Z50` without "II" — discontinued
+     [33mWRN[0m  line 339: `Nikon Z50` without "II" — discontinued
+   [1msrc/content/blog/2026/01/04-canon-r100-vs-nikon-z50.md[0m
+     [33mWRN[0m  line 61: `Nikon Z50` without "II" — discontinued
+     [33mWRN[0m  line 254: `Nikon Z50` without "II" — discontinued
+   [1msrc/content/blog/2026/01/06-dslr-vs-mirrorless-beginners.md[0m
+     [33mWRN[0m  line 261: `Nikon Z50` without "II" — discontinued
+   [1msrc/content/blog/2026/01/09-is-3d-printing-worth-it.md[0m
+     [33mWRN[0m  line 137: Price mismatch "running costs": $15/month (line 125) vs $35/month (line 137)
+     [33mWRN[0m  line 150: Price mismatch "savings per print": ~$10 (line 126) vs ~$15 (line 150)
+   [1msrc/content/blog/2026/01/15-buyee-vs-sendico-japan-proxy.md[0m
+     [33mWRN[0m  line 114: Price mismatch "yen": ~$100 (line 108) vs ~$7 (line 114)
+   [1msrc/content/blog/2026/01/28-photography-buying-guide.md[0m
+     [33mWRN[0m  line 112: `Nikon Z50` without "II" — discontinued
+     [33mWRN[0m  line 301: `Nikon Z50` without "II" — discontinued
+   [1msrc/content/blog/2026/02/23-ai-writing-tools-comparison.md[0m
+     [33mWRN[0m  line 477: Price mismatch "cost": $32/month (line 469) vs $20/month (line 477)
+   [1msrc/content/blog/2026/02/26-best-ai-chrome-extensions.md[0m
+     [33mWRN[0m  line 505: Price mismatch "total cost": ~$24/month (line 495) vs ~$36/month (line 505)
+   [1msrc/content/blog/2026/03/29-best-kindle-accessories.md[0m
+     [33mWRN[0m  line 125: Price mismatch "matte screen protector": ~$8 (line 62) vs ~$10 (line 125)
+     [33mWRN[0m  line 126: Price mismatch "popsocket or finger grip": ~$8 (line 79) vs ~$10 (line 126)
+     [33mWRN[0m  line 132: Price mismatch "adjustable stand": ~$10 (line 73) vs ~$12 (line 132)
+   [1msrc/content/blog/2026/03/31-free-books-kindle.md[0m
+     [33mWRN[0m  line 4: Meta description is 169 chars (max 160)
+   [1msrc/content/blog/2026/04/10-cable-management-tips.md[0m
+     [33mWRN[0m  line 67: Price mismatch "desk cable tray": ~$25 (line 36) vs ~$20 (line 67)
+   [1msrc/content/blog/2026/05/27-best-crypto-portfolio-trackers.md[0m
+     [33mWRN[0m  line 193: Price mismatch "pro": ~$100/yr (line 158) vs $279/yr (line 193)
+   [1msrc/content/blog/2026/05/29-best-stock-news-apps.md[0m
+     [33mWRN[0m  line 203: Price mismatch "stock advisor": ~$99 (line 195) vs ~$199/year (line 203)
+   [1msrc/content/blog/2026/06/07-ipad-vs-android-tablet.md[0m
+     [33mWRN[0m  line 4: Meta description is 163 chars (max 160)
+   [1msrc/content/blog/2026/06/08-best-dividend-trackers.md[0m
+     [33mWRN[0m  line 110: Price mismatch "mo": $20/yr (line 110) vs $50/yr (line 110)
+   [1msrc/content/blog/2026/06/12-petg-cf-filament-guide.md[0m
+     [33mWRN[0m  line 4: Meta description is 161 chars (max 160)
+   [1msrc/content/blog/2026/06/13-siri-ai-apple-intelligence-guide.md[0m
+     [33mWRN[0m  line 4: Meta description is 168 chars (max 160)
+   [1msrc/content/blog/2026/06/18-android-17-guide-features.md[0m
+     [33mWRN[0m  line 4: Meta description is 181 chars (max 160)
+   [1msrc/content/blog/2026/06/27-ultrawide-vs-dual-monitors.md[0m
+     [33mWRN[0m  line 198: Price mismatch "total": $240 (line 17) vs ~$920 (line 198)
+   [1msrc/content/blog/2026/06/28-best-ai-courses-2026.md[0m
+     [33mWRN[0m  line 4: Meta description is 170 chars (max 160)
+   [1msrc/content/blog/2026/06/29-ai-3d-printing-tools.md[0m
+     [33mWRN[0m  line 4: Meta description is 200 chars (max 160)
+   [1msrc/content/blog/2026/07/05-best-3d-printers-under-500.md[0m
+     [33mWRN[0m  line 4: Meta description is 189 chars (max 160)
+   [1msrc/content/blog/2026/07/08-ai-social-media-danger-older-generation.md[0m
+     [33mWRN[0m  line 4: Meta description is 218 chars (max 160)
+   [1msrc/content/blog/2026/07/11-computational-photography-vs-real-camera.md[0m
+     [33mWRN[0m  line 4: Meta description is 186 chars (max 160)
+   [1msrc/content/blog/2026/07/12-burnout-vs-boreout.md[0m
+     [33mWRN[0m  line 4: Meta description is 173 chars (max 160)
+   [1msrc/content/blog/2026/07/17-ai-vs-traditional-stock-screeners.md[0m
+     [33mWRN[0m  line 87: Price mismatch "premium": ~$60/month (line 71) vs ~$20/month (line 87)
+   [1msrc/content/blog/2026/07/21-chatgpt-vs-claude-vs-gemini.md[0m
+     [33mWRN[0m  line 50: Price mismatch "pro": $20/month (line 49) vs $200/month (line 50)
+   [1msrc/content/blog/2026/07/31-best-desk-shelves-organizers.md[0m
+     [33mWRN[0m  line 130: Price mismatch "budget": $30 (line 50) vs ~$100 (line 130)
+   [1msrc/content/blog/2026/08/14-ai-trip-planning-cambodia.md[0m
+     [33mWRN[0m  line 169: Price mismatch "day pass": $37 (line 168) vs $62 (line 169)
+   [1msrc/content/blog/2026/08/17-ai-photography-guide.md[0m
+     [33mWRN[0m  line 4: Meta description is 194 chars (max 160)
+   [1msrc/content/blog/2026/08/29-fitbit-air-vs-whoop.md[0m
+     [33mWRN[0m  line 4: Meta description is 173 chars (max 160)
+
+   32 file(s): [31m0 error(s)[0m, [33m44 warning(s)[0m
+
+[1m📈 SEO SCORES[0m — 176 published articles
+
+   [31m 53[0m  src/content/blog/2026/06/18-android-17-guide-features.md
+       [33m~[0mTitle [33m~[0mDesc [32m✓[0mFAQ [31m✗[0mIntLinks [31m✗[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [33m~[0mTags [31m✗[0mIncoming [32m✓[0mLint
+   [31m 61[0m  src/content/blog/2026/06/13-siri-ai-apple-intelligence-guide.md
+       [33m~[0mTitle [33m~[0mDesc [32m✓[0mFAQ [31m✗[0mIntLinks [31m✗[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [33m~[0mTags [31m✗[0mIncoming [32m✓[0mLint
+   [31m 66[0m  src/content/blog/2026/06/06-ai-powered-fitness-trackers.md
+       [33m~[0mTitle [32m✓[0mDesc [32m✓[0mFAQ [31m✗[0mIntLinks [31m✗[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [33m~[0mTags [31m✗[0mIncoming [32m✓[0mLint
+   [31m 67[0m  src/content/blog/2026/06/14-ios-27-macos-27-beta-guide.md
+       [33m~[0mTitle [32m✓[0mDesc [32m✓[0mFAQ [31m✗[0mIntLinks [32m✓[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [33m~[0mTags [31m✗[0mIncoming [32m✓[0mLint
+   [33m 71[0m  src/content/blog/2026/06/07-ipad-vs-android-tablet.md
+       [32m✓[0mTitle [33m~[0mDesc [32m✓[0mFAQ [31m✗[0mIntLinks [31m✗[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [32m✓[0mTags [31m✗[0mIncoming [32m✓[0mLint [32m✓[0mTable
+   [33m 74[0m  src/content/blog/2026/05/31-ai-powered-smart-appliances-guide.md
+       [33m~[0mTitle [32m✓[0mDesc [32m✓[0mFAQ [31m✗[0mIntLinks [31m✗[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [32m✓[0mTags [32m✓[0mIncoming [32m✓[0mLint
+   [33m 77[0m  src/content/blog/2026/05/26-why-you-need-a-vpn.md
+       [33m~[0mTitle [32m✓[0mDesc [32m✓[0mFAQ [31m✗[0mIntLinks [31m✗[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [33m~[0mTags [32m✓[0mIncoming [32m✓[0mLint
+   [33m 78[0m  src/content/blog/2026/05/19-best-motivational-podcasts-2026.md
+       [33m~[0mTitle [33m~[0mDesc [31m✗[0mFAQ [32m✓[0mIntLinks [32m✓[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [33m~[0mTags [32m✓[0mIncoming [32m✓[0mLint
+   [33m 79[0m  src/content/blog/2026/06/24-lens-vs-camera-body.md
+       [33m~[0mTitle [32m✓[0mDesc [32m✓[0mFAQ [32m✓[0mIntLinks [31m✗[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [32m✓[0mTags [31m✗[0mIncoming [32m✓[0mLint
+   [33m 80[0m  src/content/blog/2026/01/01-best-cameras-under-500.md
+       [33m~[0mTitle [33m~[0mDesc [32m✓[0mFAQ [32m✓[0mIntLinks [32m✓[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [32m✓[0mTags [32m✓[0mIncoming [31m✗[0mLint
+   [33m 82[0m  src/content/blog/2026/01/06-dslr-vs-mirrorless-beginners.md
+       [33m~[0mTitle [32m✓[0mDesc [32m✓[0mFAQ [32m✓[0mIntLinks [32m✓[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [32m✓[0mTags [32m✓[0mIncoming [31m✗[0mLint [32m✓[0mTable
+   [33m 83[0m  src/content/blog/2026/04/30-books-for-productive-procrastination.md
+       [33m~[0mTitle [32m✓[0mDesc [32m✓[0mFAQ [32m✓[0mIntLinks [31m✗[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [33m~[0mTags [32m✓[0mIncoming [32m✓[0mLint
+   [33m 83[0m  src/content/blog/2026/05/24-how-to-improve-sports-lifestyle-with-ai.md
+       [33m~[0mTitle [32m✓[0mDesc [32m✓[0mFAQ [32m✓[0mIntLinks [31m✗[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [33m~[0mTags [32m✓[0mIncoming [32m✓[0mLint
+   [33m 83[0m  src/content/blog/2026/05/30-antigravity-2-gemini-35.md
+       [33m~[0mTitle [32m✓[0mDesc [32m✓[0mFAQ [32m✓[0mIntLinks [31m✗[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [33m~[0mTags [32m✓[0mIncoming [32m✓[0mLint
+   [33m 83[0m  src/content/blog/2026/06/15-chatgpt-for-email-templates.md
+       [32m✓[0mTitle [32m✓[0mDesc [32m✓[0mFAQ [32m✓[0mIntLinks [31m✗[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [32m✓[0mTags [31m✗[0mIncoming [32m✓[0mLint
+   [33m 83[0m  src/content/blog/2026/06/22-bambu-lab-a2l-review.md
+       [32m✓[0mTitle [32m✓[0mDesc [32m✓[0mFAQ [32m✓[0mIntLinks [31m✗[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [32m✓[0mTags [31m✗[0mIncoming [32m✓[0mLint
+   [33m 84[0m  src/content/blog/2026/01/28-photography-buying-guide.md
+       [33m~[0mTitle [32m✓[0mDesc [32m✓[0mFAQ [32m✓[0mIntLinks [32m✓[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [32m✓[0mTags [32m✓[0mIncoming [31m✗[0mLint
+   [33m 84[0m  src/content/blog/2026/05/16-convince-wife-3d-printer.md
+       [33m~[0mTitle [32m✓[0mDesc [31m✗[0mFAQ [32m✓[0mIntLinks [32m✓[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [32m✓[0mTags [32m✓[0mIncoming [32m✓[0mLint
+   [33m 85[0m  src/content/blog/2026/04/28-nas-comparison-guide-2026.md
+       [33m~[0mTitle [32m✓[0mDesc [32m✓[0mFAQ [32m✓[0mIntLinks [31m✗[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [33m~[0mTags [32m✓[0mIncoming [32m✓[0mLint [32m✓[0mTable
+   [33m 86[0m  src/content/blog/2026/01/04-canon-r100-vs-nikon-z50.md
+       [33m~[0mTitle [32m✓[0mDesc [32m✓[0mFAQ [32m✓[0mIntLinks [32m✓[0mExtLinks [32m✓[0mWords [32m✓[0mH2 [32m✓[0mImg [32m✓[0mTags [32m✓[0mIncoming [31m✗[0mLint [32m✓[0mTable
+
+   ... and 156 more
+
+   Avg: 94/100  |  [32m90+: 148[0m  |  [33m50-89: 28[0m  |  [31m<50: 0[0m
+

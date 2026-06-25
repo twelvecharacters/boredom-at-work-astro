@@ -140,3 +140,6 @@ The first step to surviving this landscape is rigorous, brutal honesty with your
 Am I exhausted because I am carrying too heavy a burden up the mountain? Or am I exhausted because I have been locked in a small, gray room for three years with absolutely nothing to do?
 
 If you are burning out, you must fight for rest, boundaries, and space. But if you are boring out, you must fight for the exact opposite. You must fight for friction, complexity, and the right to use your mind to its absolute limits. Misdiagnosing the problem is the only way to guarantee that neither cure will work.
+
+
+Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

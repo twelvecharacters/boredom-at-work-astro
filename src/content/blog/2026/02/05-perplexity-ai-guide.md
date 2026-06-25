@@ -315,3 +315,6 @@ Give it a try for your next research task. You might find yourself reaching for 
 - [ChatGPT Alternatives](/chatgpt-alternatives/), 10 options compared including Perplexity
 - [Google Gemini Review](/google-gemini-review/), Another ChatGPT alternative
 - [How to Learn AI in 2026](/learn-ai-guide/), Your complete learning roadmap
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

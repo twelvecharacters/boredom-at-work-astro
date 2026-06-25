@@ -275,3 +275,6 @@ No matter which monitor you choose, the upgrade from a laptop screen to a proper
 ---
 
 *Looking to complete your home office setup? Check out our [desk upgrade guide](/desk-upgrade-guide/) for everything from standing desks to ergonomic chairs, our [best monitor arms](/best-monitor-arms/) roundup to mount your new monitor properly, and a [monitor light bar](/best-monitor-light-bars/) to reduce eye strain without screen glare. Running two screens? See our [dual monitor setup guide](/dual-monitor-setup-guide/).*
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

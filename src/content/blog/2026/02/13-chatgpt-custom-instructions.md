@@ -545,3 +545,6 @@ You can always refine later. The best custom instructions are the ones you actua
 - [Learn Prompt Engineering](/prompt-engineering-afternoon/), Write better prompts
 - [ChatGPT Plus vs Free](/chatgpt-plus-vs-free/), Is the upgrade worth it?
 - [AI Tools Guide](/ai-tools-guide/), All AI tools for work compared
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

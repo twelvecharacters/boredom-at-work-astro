@@ -174,3 +174,6 @@ Choose a path, commit to a course, and most importantly—start building. The be
 ---
 
 *Found a course we missed? Have feedback on one of the programs listed above? Let us know in the comments below. We update our AI learning guides quarterly to keep pace with the fastest-moving industry in history.*
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

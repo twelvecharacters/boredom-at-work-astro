@@ -372,3 +372,6 @@ AI packing lists help avoid:
 - **Get better prompts**: [ChatGPT Travel Prompts](/chatgpt-travel-planning-prompts/)
 - **Compare tools**: [Best AI Trip Planners 2026](/best-ai-trip-planners/)
 - **Avoid mistakes**: [AI Travel Planning Mistakes](/ai-travel-planning-mistakes/)
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

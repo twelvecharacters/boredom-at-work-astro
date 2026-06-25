@@ -124,3 +124,6 @@ In the 20th century, physical goods were the ultimate marker of luxury and statu
 The ability to sit in a quiet room, stare at a complex problem, and focus on it for four uninterrupted hours is a superpower in an economy defined by distraction. It is the defining characteristic that will separate the elite knowledge workers from the easily automated, chronically distracted masses.
 
 The smartphone is a brilliant invention, but it is a terrible master. By taking the radical step of adopting a minimalist "dumb phone," you are not rejecting technology; you are asserting dominance over it. You are drawing a hard, physical boundary around your consciousness. You are choosing the profound, quiet power of Deep Work over the loud, exhausting chaos of the infinite scroll. The transition is brutal, but the clarity on the other side is worth every moment of withdrawal.
+
+
+Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

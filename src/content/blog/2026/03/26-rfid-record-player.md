@@ -138,3 +138,6 @@ Technically no, but it's a key part of the "analog" experience. The code uses a 
 The project is built around the Spotify Web API. Supporting other services would require rewriting the playback integration. However, since the code is open source, community forks for other platforms may appear over time.
 
 **Ready to start?** Download the files and check out the wiring guide on the [RFID Record Player GitHub](https://github.com/fatihak/RFID-Record-Player).
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

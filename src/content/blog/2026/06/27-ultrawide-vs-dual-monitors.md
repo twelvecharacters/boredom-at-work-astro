@@ -204,3 +204,6 @@ That said, when I was in a role with fewer calls and more writing/research, the 
 **Best budget ultrawide:** [LG 34WQ75C-B](https://www.lg.com/us/monitors/ultrawide-monitors) (~$600) on its stock stand. Total: ~$600. USB-C with 90W PD, solid build quality, and good color accuracy for the price.
 
 Whatever you choose, the monitor upgrade itself is what matters most. Going from a single laptop screen to *either* of these setups will transform how you work. The ultrawide-vs-dual question is just about fine-tuning an already massive improvement.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

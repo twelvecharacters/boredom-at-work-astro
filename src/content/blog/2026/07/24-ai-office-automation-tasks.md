@@ -222,3 +222,6 @@ The goal isn't to automate your entire job. It's to eliminate the boring parts s
 Most people get 80% of the value from just ChatGPT Plus at $20/month. Add Zapier or Make.com only when you need app-to-app automations.
 
 **Related:** Check our [AI Chrome extensions](/best-ai-chrome-extensions/) for browser-based automation, learn how to [use AI at work safely](/how-to-use-ai-at-work-safely/), or explore the full [AI tools guide](/ai-tools-guide/).
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

@@ -132,3 +132,6 @@ These are expected for a young project, and the active development pace means ga
 RapidRAW isn’t just another fork of an old tool. It’s a ground-up reimagining of what a photo editor should be in the age of GPUs and AI. While it may not yet have every single feature of Lightroom, its performance and modern architecture make it one of the most exciting projects in the photography space today.
 
 For more photography tips and gear recommendations, see our [photography guide](/photography-guide/) and [camera vs smartphone](/camera-vs-smartphone/) comparison.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

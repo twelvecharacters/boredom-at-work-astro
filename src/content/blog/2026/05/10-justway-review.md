@@ -146,3 +146,6 @@ For pure 3D printing prototypes at the lowest possible price, [check out our gui
 - [PLA vs PETG vs ABS Filament Guide](/pla-vs-petg-vs-abs/)
 - [Best Sites for Free 3D Models](/best-sites-free-3d-models/)
 - [Bambu Lab X2D First Look](/bambu-lab-x2d-first-look/)
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

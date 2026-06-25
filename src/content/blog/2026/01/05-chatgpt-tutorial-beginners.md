@@ -490,3 +490,6 @@ In a week of regular use, you'll wonder how you worked without it.
 - [Best Free AI Courses](/best-free-ai-courses/), Structured learning options
 - [ChatGPT Custom Instructions Guide](/chatgpt-custom-instructions/), Set up once, get better responses forever
 - [AI Tools Guide](/ai-tools-guide/), Explore all AI tools for work
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

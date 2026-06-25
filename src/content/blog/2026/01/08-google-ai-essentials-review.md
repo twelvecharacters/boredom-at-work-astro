@@ -4,7 +4,7 @@ slug: "google-ai-essentials-review"
 description: "An honest review of Google AI Essentials course. Find out if the certificate is worth $49 and whether this course is right for your AI learning journey."
 publishDate: 2026-01-08
 author: "Mehdi"
-tags: ["Google AI", "Course Review", "AI Certification"]
+tags: ["Google AI", "Course Review", "AI Certification", "Technology"]
 image: "./08-google-ai.webp"
 imageAlt: "Google AI Essentials course interface on a laptop screen"
 draft: false
@@ -325,3 +325,6 @@ That's a pretty good return on investment.
 
 *Ready to start? Check out our guide to [completing AI certifications in a week](/ai-certifications-in-a-week/) for a structured approach, or explore the [complete AI learning path](/ai-learning-hub/) for what to learn next.*
 
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

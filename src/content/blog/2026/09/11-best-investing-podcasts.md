@@ -270,3 +270,6 @@ Start with **Planet Money** (economic literacy) and **The Plain Bagel** (investi
 The best investing education is the one you actually consume. And podcasts fit into your day without requiring you to sit down and study.
 
 **More learning resources:** [Best Free Investing Courses](/best-free-investing-courses/) for structured learning, [Best Finance Subreddits](/best-finance-subreddits/) for community discussion, and the [Investing Tools Guide](/investing-tools-guide/) for the complete toolkit.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

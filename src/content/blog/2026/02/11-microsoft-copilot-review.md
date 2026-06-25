@@ -360,3 +360,6 @@ Good enough to use daily, not good enough to be transformative. Microsoft has bu
 - [ChatGPT Mastery Guide](/chatgpt-guide/), The main alternative to Copilot
 - [ChatGPT Alternatives](/chatgpt-alternatives/), 10 options compared
 - [Best AI Tools for Office Work](/best-ai-tools-office-work/), Curated productivity tools
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

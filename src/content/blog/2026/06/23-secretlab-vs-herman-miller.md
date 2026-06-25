@@ -189,3 +189,6 @@ The Titan Evo is the chair I'd recommend to anyone who asks "what's a good chair
 One more option worth considering: buy a refurbished Aeron. Used Aerons in good condition run $400-$600, and because the mesh doesn't degrade like foam, a 5-year-old Aeron often feels identical to a new one. That's Secretlab pricing for Herman Miller ergonomics. Just make sure it's the remastered version (post-2017) with PostureFit SL, the older Classic model has a different, less effective lumbar system.
 
 Whatever you decide, a good chair is the single best investment in your home office. It's the piece of equipment you touch for every second of every workday. Check out our full [office chair roundup](/best-office-chairs/) for more options at every price point.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

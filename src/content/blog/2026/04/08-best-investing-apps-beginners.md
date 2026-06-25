@@ -341,3 +341,6 @@ And if you're not ready for real money yet, start with [paper trading](/best-pap
 - [Best Free Investing Courses](/best-free-investing-courses/), Build a solid knowledge foundation first
 - [Best Free Stock Screeners](/best-free-stock-screeners/), Research tools to find your next investment
 - [25 Productive Things to Do When Bored at Work](/productive-things-bored-at-work/), More ways to use your downtime wisely
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

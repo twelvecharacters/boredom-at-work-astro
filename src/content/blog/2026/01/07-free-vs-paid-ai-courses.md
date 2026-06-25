@@ -4,7 +4,7 @@ slug: "free-vs-paid-ai-courses"
 description: "Should you pay for AI courses or stick with free options? An honest comparison of free and paid AI learning paths to help you decide where to invest."
 publishDate: 2026-01-07
 author: "Mehdi"
-tags: ["AI Courses", "Learning", "Budget"]
+tags: ["AI Courses", "Learning", "Budget", "Technology"]
 image: "./07-free-vs-paid.webp"
 imageAlt: "Illustration comparing free and paid AI course options side by side"
 draft: false
@@ -297,3 +297,6 @@ Start free. Pay when it makes sense. Focus on learning.
 ---
 
 *Ready to start? Check out our guide to the [best free AI courses you can take at work](/best-free-ai-courses/), or follow our [complete AI learning path](/ai-learning-hub/) for a structured approach.*
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

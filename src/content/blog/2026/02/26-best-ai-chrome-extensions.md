@@ -562,3 +562,6 @@ The goal isn't to AI-ify everything. It's to remove friction from tasks that ben
 - [Perplexity AI Guide](/perplexity-ai-guide/), AI-powered research
 - [Best AI Tools for Office Work](/best-ai-tools-office-work/), Curated productivity tools
 - [How to Learn AI in 2026](/learn-ai-guide/), Your complete AI learning roadmap
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

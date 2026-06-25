@@ -254,3 +254,6 @@ Both are excellent devices. You won't regret either choice.
 For a closer model-by-model look, check our [Kindle Paperwhite vs Kobo Clara comparison](/kindle-paperwhite-vs-kobo-clara/). And if you want to see every e-reader on the market side by side, our [best e-readers guide](/best-e-readers/) covers Kindle, Kobo, Boox, and reMarkable. Already decided on Kindle? Our [complete Kindle guide](/kindle-guide/) covers setup, books, and customization.
 
 For more buyer's-guide comparisons in adjacent gear, see [AirPods vs Galaxy Buds vs Sony](/airpods-vs-galaxy-buds-vs-sony/) for your commute soundtrack and the [home office lighting guide](/home-office-lighting-guide/) for setting up a proper reading corner.
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

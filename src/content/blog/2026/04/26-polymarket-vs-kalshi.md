@@ -311,3 +311,6 @@ Yes, prediction market profits are taxable in the US. Kalshi issues 1099 forms f
 - [7 Best Paper Trading Apps (I Tested Them All)](/best-paper-trading-apps/)
 - [Best Free Investing Courses You Can Take at Work](/best-free-investing-courses/)
 - [25 Productive Things to Do When Bored at Work](/productive-things-bored-at-work/)
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

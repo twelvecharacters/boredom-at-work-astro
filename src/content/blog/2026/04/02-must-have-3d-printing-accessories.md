@@ -170,3 +170,6 @@ This sounds like a lot, but most of it takes 5 minutes once it becomes habit. Th
 Now that your workshop is fully equipped, why not test your skills on a complex project like the [Sesame Robot Quadruped](/sesame-robot-quadruped/)? Or, if you're still looking for the perfect machine, check out our [Bambu A1 Mini vs Creality Ender 3 comparison](/bambu-a1-mini-vs-creality-ender-3/) to see which hardware works best with these tools. And if you have a one-off project that doesn't justify buying a printer, our [JUSTWAY on-demand review](/justway-review/) covers the alternative.
 
 **Happy printing!**
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

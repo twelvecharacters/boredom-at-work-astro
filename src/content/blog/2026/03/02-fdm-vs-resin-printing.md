@@ -359,3 +359,6 @@ Now go print something.
 ---
 
 *Ready to start? Check out [3D Printing for Beginners: Complete Guide](/3d-printing-beginners-guide/), learn about [PLA vs PETG vs ABS](/pla-vs-petg-vs-abs/) materials, or get your slicer set up with [Cura Settings for Beginners](/cura-settings-beginners/).*
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

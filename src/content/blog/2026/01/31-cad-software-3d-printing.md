@@ -209,3 +209,6 @@ Happy designing!
 ---
 
 *Want to learn more about 3D printing? Check out our [3D Printing Guide](/3d-printing-guide/) for the complete overview, or read the [3D Printing Beginner Guide](/3d-printing-beginners-guide/) to get started with your first prints.*
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

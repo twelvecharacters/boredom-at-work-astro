@@ -179,3 +179,6 @@ If you're interested in AI-powered travel planning:
 - [I Let Claude Plan Our Dubai Trip](/claude-planned-dubai-trip/), Helicopter tours, Burj Khalifa, and Michelin dining
 - [How I Planned Malaysia with ChatGPT](/chatgpt-malaysia-trip-planning/), Another real trip report
 - [AI Travel Planning Mistakes to Avoid](/ai-travel-planning-mistakes/), What can go wrong
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 

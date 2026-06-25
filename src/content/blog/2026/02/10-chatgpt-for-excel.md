@@ -561,3 +561,6 @@ You'll always copy-paste manually.
 - [AI Tools Guide](/ai-tools-guide/), All AI tools for work compared
 - [AI for Google Sheets](/ai-for-google-sheets/), The same workflow for Google Sheets users
 - [Best AI Tools for Office Work](/best-ai-tools-office-work/), Curated productivity tools
+
+
+For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
