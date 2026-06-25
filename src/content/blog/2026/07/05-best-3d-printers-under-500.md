@@ -65,7 +65,7 @@ If you have decided that the appliance route is for you, the market is incredibl
 ### Bambu Lab P1S vs. Bambu Lab P2S
 
 Bambu Lab single-handedly forced the rest of the industry to catch up when they released the original X1 Carbon and its budget sibling, the P1S. 
-*   **The P1S ($450):** The P1S remains a legendary machine. It offers an enclosed CoreXY system, flawless auto-calibration, and access to Bambu's incredibly polished slicer and AMS (Automatic Material System) ecosystem. Its only downsides are a slightly dim screen, an older 8-bit companion board, and a closed-source ecosystem.
+*   **The P1S ($450):** The P1S remains a legendary machine. It offers an enclosed CoreXY system, flawless auto-calibration, and access to Bambu's incredibly [polished AI-enhanced slicer](/blog/ai-3d-printing-tools/) and AMS (Automatic Material System) ecosystem. Its only downsides are a slightly dim screen, an older 8-bit companion board, and a closed-source ecosystem.
 *   **The P2S ($549):** The 2026 iteration, the P2S, slightly breaches the $500 mark but offers massive quality-of-life improvements. It features next-generation active chamber heating (perfect for ABS and PC), whisper-quiet TMC2240 stepper drivers, a full-color capacitive touchscreen, and a slightly expanded 270x270x270mm build volume. If you can stretch the budget by $50, the P2S is the undisputed king of reliability.
 
 ### Creality K2
@@ -118,7 +118,7 @@ The decision between purchasing a commercial $500 appliance and building a $500 
 ### The Case for the Commercial Appliance ($500)
 
 **You should buy a commercial machine if:**
-*   You want to print functional parts, miniatures, or prototypes immediately.
+*   You want to print [functional parts](/blog/best-functional-3d-prints/), miniatures, or prototypes immediately.
 *   Your primary hobby is CAD design, painting miniatures, or engineering, and the printer is merely a tool to manifest your ideas.
 *   You value your weekend time and have zero desire to spend 40 hours crimping JST connectors and reading wiring diagrams.
 *   You require a large build volume immediately. (A $500 commercial printer gives you a 250mm³ volume, whereas a $500 DIY kit usually limits you to a tiny 120mm³ volume due to part costs).
