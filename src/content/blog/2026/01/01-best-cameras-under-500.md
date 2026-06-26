@@ -5,7 +5,7 @@ description: "Best cameras under $500 from Canon, Nikon, and Sony. Top budget ca
 publishDate: 2026-01-01
 updatedDate: 2026-04-05
 author: "Mehdi"
-image: "./01-cameras-under-500.webp"
+image: "./01-best-cameras-under-500.webp"
 imageAlt: "Collection of budget cameras under 500 dollars on a clean background"
 tags: ["Photography", "Cameras", "Budget", "Buying Guide"]
 draft: false
