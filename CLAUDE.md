@@ -91,11 +91,10 @@ Drafts in `medium-drafts/` (in `.gitignore`).
   - Home Office (3): 4 Monitor-Preise, Bose Gewicht/Preis, Humanscale Preise
   - Finance (7): Seeking Alpha, Bloomberg, Kalshi, Webull, Koinly, Benzinga, Reddit Moon, Rational Reminder
 
-### Blog-Ordnerstruktur (23. Feb 2026)
+### Blog-Ordnerstruktur (Stand: Juni 2026)
 
-- [x] **Flache Struktur:** Alle 123 Artikel direkt in `src/content/blog/*.md`
-- Vorher: Unterordner nach Jahr/Monat (`2025/12/`, `2026/01/`...`2026/06/`)
-- **Keine Unterordner mehr!** Neue Artikel immer direkt in `src/content/blog/` ablegen
+- **Unterordner-Struktur:** Alle Artikel werden nach Jahr/Monat organisiert (z.B. `src/content/blog/2026/07/`).
+- Die Markdown-Datei und das zugehörige Beitragsbild (Hero Image) liegen immer zusammen im selben Ordner (Co-Location).
 
 ### Affiliate Status
 
@@ -198,7 +197,8 @@ title: "Artikel Titel"
 description: "SEO Beschreibung (150-160 Zeichen)"
 publishDate: YYYY-MM-DD
 author: "Mehdi"
-image: "/images/artikel-bild.webp"
+image: "./artikel-bild.webp"
+imageAlt: "Bildbeschreibung für Schema.org/SEO"
 tags: ["Tag1", "Tag2"]
 draft: false
 faq:
@@ -315,7 +315,7 @@ rm temp.png
 ## Wichtige Dateien
 
 ### Content
-- `src/content/blog/*.md` — **Alle 123 Artikel flach** (keine Unterordner!)
+- `src/content/blog/YYYY/MM/*.md` — Artikel sind nach Jahr und Monat in Unterordnern strukturiert.
 
 ### Konfiguration
 - `src/config.ts` — Navigation, Kategorien, Footer
@@ -484,4 +484,4 @@ Täglicher Cron in `.github/workflows/deploy.yml`: `0 5 * * *` (5:00 UTC)
 
 ---
 
-*Letzte Aktualisierung: 23. Februar 2026*
+*Letzte Aktualisierung: 26. Juni 2026*

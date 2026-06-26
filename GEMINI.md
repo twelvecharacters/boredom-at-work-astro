@@ -10,11 +10,12 @@ This document outlines the foundational standards and architectural goals for th
 - **Dependencies:** Use `pnpm install --frozen-lockfile` in CI/CD to ensure consistent environments.
 
 ### Asset Management
-- **Optimization:** Use Astro's native `astro:assets` (`<Image />` and `<Picture />`) for all images.
-- **Paths:** Store content-related images relative to the article in the same folder. This allows for co-location of assets and easier content portability.
+- **Optimization:** Use Astro's native `astro:assets` (`<Image />` and `<Picture />`) for images in `.astro` components.
+- **Markdown Images:** For blog posts, use the `image` and `imageAlt` frontmatter fields to handle the hero image automatically. Store content-related images relative to the article in the same folder (`YYYY/MM/`). This allows for co-location of assets and easier content portability.
 
 ### Content Strategy
 - **Structure:** Blog articles are organized in subdirectories (e.g., `src/content/blog/YYYY/MM/`). Store the markdown file and its associated images together in the same directory.
+- **Frontmatter:** All blog articles must include the `imageAlt` field for their featured image to ensure proper Schema.org JSON-LD generation and accessibility.
 - **Slug Management:** Favor the explicit `slug` field in blog frontmatter over directory-based IDs.
 - **Internal Linking:** The `remarkFilterUnpublishedLinks` plugin in `astro.config.mjs` prevents leaking links to draft or future-dated content.
 - **Language:** Always use **American English** (e.g., "color", "realize", "center").
@@ -49,4 +50,4 @@ This document outlines the foundational standards and architectural goals for th
 
 - **Content Linting:** Run `pnpm run lint:content:fix` before major updates to ensure frontmatter and price consistency.
 - **Build Validation:** Always run a full `pnpm run build` to verify Pagefind indexing and Sitemap generation.
-- **Stats:** Run `pnpm run stats` after adding content to update the `README.md` and repository visibility.
+- **Stats & Export:** Run `pnpm run stats` after adding content to update the `README.md` and repository visibility. You can also run `pnpm run export:articles` to dump all article metadata into a CSV for analysis.
