@@ -16,7 +16,8 @@
     "traffic:gsc": "node scripts/gsc-traffic.js",
     "traffic:bing": "node scripts/bing-traffic.js",
     "traffic:queries": "node scripts/gsc-traffic.js --queries && node scripts/bing-traffic.js --queries",
-    "traffic:cluster": "node scripts/gsc-traffic.js --cluster && node scripts/bing-traffic.js --cluster"
+    "traffic:cluster": "node scripts/gsc-traffic.js --cluster && node scripts/bing-traffic.js --cluster",
+    "export:articles": "node scripts/export-articles.js"
   },
   "dependencies": {
     "@astrojs/partytown": "^2.1.7",
