@@ -8,6 +8,10 @@
 rules, context, and workflows for boredom-at-work.com. Everything below is a short
 summary — `CLAUDE.md` is authoritative whenever the two differ.
 
+**If `.codex-context/HANDOFF.md` exists** (local, gitignored), read it at session start for the
+current project status, where work was left off, and the full operational memory under
+`.codex-context/memory/`. It is not committed (contains sensitive data), so it only exists locally.
+
 ## Quick facts
 
 - **Project:** boredom-at-work.com — Astro 5 blog (Tailwind CSS 4 + SCSS), hosted on GitHub Pages.

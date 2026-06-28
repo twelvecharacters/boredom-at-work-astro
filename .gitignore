@@ -40,3 +40,6 @@ medium-drafts/
 KeePassXC
 .mcp.json
 *.code-workspace
+
+# local AI-agent context (Claude memory copy for Codex handoff) — sensitive, never commit
+.codex-context/
