@@ -10,7 +10,7 @@ import ogDefault from '../assets/images/og-default.webp';
 import { SEO } from 'astro-seo';
 import { SITE } from '../config';
 import { getImage } from 'astro:assets';
-
+import { ClientRouter } from 'astro:transitions';
 const optimizedLogo = await getImage({ src: logo, width: 296, height: 95, format: 'webp' });
 
 interface Props {
@@ -54,6 +54,7 @@ const socialImageURL = new URL(socialImagePath, Astro.site);
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+    <ClientRouter />
     <Analytics />
 
     <!-- Preload self-hosted fonts for fastest rendering -->
@@ -182,38 +183,8 @@ const socialImageURL = new URL(socialImagePath, Astro.site);
     </main>
     <Footer />
 
-    <!-- Table responsiveness helper -->
+    <!-- Scroll reveal helper -->
     <script>
-      function setupResponsiveTables() {
-        const tables = document.querySelectorAll('.prose table');
-        tables.forEach(table => {
-          const headers = Array.from(table.querySelectorAll('thead th')).map(th => th.textContent?.trim());
-          if (headers.length > 0) {
-            table.setAttribute('data-has-labels', 'true');
-            const rows = table.querySelectorAll('tbody tr');
-            rows.forEach(row => {
-              const cells = row.querySelectorAll('td');
-              cells.forEach((cell, index) => {
-                if (headers[index]) {
-                  cell.setAttribute('data-label', headers[index]);
-                }
-              });
-            });
-          }
-        });
-      }
-
-      function setupExternalLinks() {
-        const links = document.querySelectorAll('a[href^="http"]');
-        links.forEach(link => {
-          const href = link.getAttribute('href');
-          if (href && !href.includes(window.location.hostname) && !link.hasAttribute('target')) {
-            link.setAttribute('target', '_blank');
-            link.setAttribute('rel', 'noopener noreferrer');
-          }
-        });
-      }
-
       function setupScrollReveal() {
         const revealElements = document.querySelectorAll('.reveal');
         const observer = new IntersectionObserver((entries) => {
@@ -230,8 +201,6 @@ const socialImageURL = new URL(socialImagePath, Astro.site);
       }
 
       function init() {
-        setupResponsiveTables();
-        setupExternalLinks();
         setupScrollReveal();
       }
 

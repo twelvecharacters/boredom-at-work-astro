@@ -92,6 +92,52 @@ function remarkFilterUnpublishedLinks() {
   };
 }
 
+// Rehype plugin to add data-labels for responsive tables
+function rehypeResponsiveTables() {
+  return (tree) => {
+    visit(tree, 'element', (node) => {
+      if (node.tagName === 'table') {
+        const thead = node.children.find(c => c.type === 'element' && c.tagName === 'thead');
+        if (!thead) return;
+        
+        const tr = thead.children.find(c => c.type === 'element' && c.tagName === 'tr');
+        if (!tr) return;
+
+        const headers = [];
+        tr.children.forEach(th => {
+          if (th.type === 'element' && th.tagName === 'th') {
+            let text = '';
+            visit(th, 'text', (t) => { text += t.value; });
+            headers.push(text.trim());
+          }
+        });
+
+        if (headers.length > 0) {
+          node.properties['data-has-labels'] = 'true';
+          
+          const tbody = node.children.find(c => c.type === 'element' && c.tagName === 'tbody');
+          if (!tbody) return;
+
+          tbody.children.forEach(row => {
+            if (row.type === 'element' && row.tagName === 'tr') {
+              let tdIndex = 0;
+              row.children.forEach(cell => {
+                if (cell.type === 'element' && cell.tagName === 'td') {
+                  if (headers[tdIndex]) {
+                    cell.properties['data-label'] = headers[tdIndex];
+                  }
+                  tdIndex++;
+                }
+              });
+            }
+          });
+        }
+      }
+    });
+  };
+}
+
+
 // Sponsored partner domains. Links to these get rel="sponsored" instead of nofollow
 // per Google guidelines for paid placements. Add new sponsors here.
 const SPONSORED_DOMAINS = [
@@ -114,6 +160,7 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [remarkFilterUnpublishedLinks],
     rehypePlugins: [
+      rehypeResponsiveTables,
       [rehypeExternalLinks, {
         target: '_blank',
         rel: (element) => {
