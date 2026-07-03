@@ -4,8 +4,8 @@ slug: "how-to-never-be-bored-at-work"
 description: "Discover actionable strategies to eliminate boredom at work, boost your productivity, and find renewed purpose in your daily professional life."
 publishDate: 2026-07-03
 author: "Mehdi"
-image: "./03-how-to-never-be-bored-at-work.png"
-imageAlt: "A violet background with white text saying How To Never Be Bored At Work"
+image: "./03-how-to-never-be-bored-at-work-v2.webp"
+imageAlt: "A split office desk scene showing a dull workspace transforming into a bright, organized productivity setup."
 tags: ["Productivity", "Career", "Wellbeing", "Motivation"]
 draft: false
 tldr: "Boredom at work often stems from a lack of challenge or purpose rather than a lack of tasks. By gamifying your workflow, seeking lateral projects, upskilling, and redefining your boundaries, you can transform your workday from mundane to meaningful."
