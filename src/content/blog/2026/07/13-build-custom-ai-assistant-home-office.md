@@ -1,7 +1,7 @@
 ---
 title: "How to Build a Custom AI Assistant for Your Home Office (Without Coding)"
 slug: "build-custom-ai-assistant-home-office"
-description: "Learn how to turn your home office into a productivity powerhouse by building a custom AI assistant using no-code tools like ChatGPT, Claude, and smart displays."
+description: "Turn your home office into a productivity powerhouse: build a custom AI assistant with no-code tools like ChatGPT, Claude, and smart displays."
 publishDate: 2026-07-13
 author: "Mehdi"
 image: "./13-build-custom-ai-assistant-home-office.png"
