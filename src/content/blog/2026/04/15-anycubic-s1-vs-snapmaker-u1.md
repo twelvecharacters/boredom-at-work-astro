@@ -120,4 +120,4 @@ A often-overlooked factor is how easy it is to fix the machine when things go wr
 *Ready to start your 3D printing journey? Check out our [3D Printing Beginners Guide](/3d-printing-beginners-guide/) or browse the [Best 3D Printers Under $300](/best-3d-printers-under-300/) if these flagships are a bit too much for your first machine.*
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

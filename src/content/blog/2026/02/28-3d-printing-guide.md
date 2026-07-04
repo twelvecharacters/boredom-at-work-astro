@@ -427,4 +427,4 @@ The best way to learn 3D printing is to print things. A lot of things. So go mak
 *Have a question not covered here? [Let us know](/contact/).*
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

@@ -343,4 +343,4 @@ Pick a certification. Start this weekend. Be certified by next week.
 *Ready to start? Check out our [full review of Google AI Essentials](/google-ai-essentials-review/) or browse all [free AI courses you can take at work](/best-free-ai-courses/). For a complete learning path beyond certifications, see our [AI learning hub](/ai-learning-hub/).*
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

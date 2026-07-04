@@ -141,4 +141,4 @@ If you're tired of "as-an-AI-language-model" restrictions and want a tool that a
 *Stay tuned for our upcoming deep-dive on how to set up OpenClaw on a Raspberry Pi!*
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

@@ -50,7 +50,7 @@ You have initiated a neurological phenomenon known as "attention residue."
 
 When you switch your focus from Task A (the report) to Task B (the message) and back to Task A, your attention does not immediately follow. A significant portion of your cognitive bandwidth remains "stuck" processing Task B. It can take up to 23 minutes for your brain to fully re-engage and reach the previous depth of focus on Task A. 
 
-If you check your smartphone every [15 minutes](/blog/how-to-never-be-bored-at-work/), you are existing in a perpetual state of cognitive shallowness. You are literally never entering a state of Deep Work. The modern smartphone is an engine of constant context switching. It is an artifact of the Shallow Work economy, fundamentally incompatible with deep cognitive exertion.
+If you check your smartphone every [15 minutes](/how-to-never-be-bored-at-work/), you are existing in a perpetual state of cognitive shallowness. You are literally never entering a state of Deep Work. The modern smartphone is an engine of constant context switching. It is an artifact of the Shallow Work economy, fundamentally incompatible with deep cognitive exertion.
 
 ## The Hardware Intervention: The Philosophy of the Dumb Phone
 

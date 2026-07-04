@@ -183,4 +183,4 @@ If you're looking for specific tools to boost your ROI, check out our guides on:
 **How are you measuring your AI ROI this year?** Let us know in the comments or join our [AI Strategy Newsletter](#) for weekly workflow audits.
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

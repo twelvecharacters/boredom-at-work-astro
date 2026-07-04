@@ -124,4 +124,4 @@ Every minute you don't spend checking an oven, writing a grocery list, or scrubb
 In the battle for your time, the AI kitchen is your most valuable ally. Start small, automate the boring, and reclaim your 5-to-9.
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

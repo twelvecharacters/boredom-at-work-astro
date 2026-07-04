@@ -387,4 +387,4 @@ Tone: [description]
 - [AI Tools Guide](/ai-tools-guide/)
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

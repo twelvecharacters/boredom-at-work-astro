@@ -134,4 +134,4 @@ The "Bored Chap" way isn't about doing less work, it's about doing the work so f
 *What’s your AI workflow? Have you made the jump to the CLI yet? Join the discussion on our [Reddit](https://www.reddit.com/r/boredom_at_work/) or shoot me an email!*
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

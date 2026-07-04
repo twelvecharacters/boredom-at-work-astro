@@ -441,4 +441,4 @@ By tonight, you'll be measurably better at getting value from AI. That's prompt 
 - **[DeepLearning.AI](https://deeplearning.ai)**, Technical deep dives
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

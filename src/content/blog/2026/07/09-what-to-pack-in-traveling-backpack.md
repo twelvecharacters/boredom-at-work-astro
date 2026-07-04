@@ -149,4 +149,4 @@ Packing a traveling backpack is an ongoing learning process. After your first tr
 Traveling light is not about deprivation; it is about liberation. By carefully curating what you pack, prioritizing versatile clothing, minimizing heavy electronics, and utilizing organizational tools like packing cubes, you free yourself to focus on the journey itself. A lighter backpack means less stress, greater mobility, and a deeper connection to the incredible world around you. So, choose your gear wisely, pack smart, and embrace the freedom of the open road.
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

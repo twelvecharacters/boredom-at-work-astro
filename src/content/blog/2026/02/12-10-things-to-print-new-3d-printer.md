@@ -167,4 +167,4 @@ If you're not ready to design your own in CAD yet, check out these three main re
 *New to 3D printing? Start with our [complete beginner's guide](/3d-printing-beginners-guide/). For all our 3D printing content, see the [3D Printing Guide](/3d-printing-guide/).*
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

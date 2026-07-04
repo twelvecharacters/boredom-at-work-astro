@@ -136,7 +136,7 @@ You'll hit the limits of single-nozzle PLA/PETG before you hit the limits of the
 
 ### "I Print PLA Art and Functional Prints" → P1S
 
-Cosplayers, miniature painters, prop makers, and hobby print farms running PLA don't benefit from the X2D's upgrades. Stick with P1S, save the $100, and put it toward better filament or a Wham Bam flex plate.
+Cosplayers, miniature painters, prop makers, and hobby print farms running PLA don't benefit from the X2D's upgrades. Stick with P1S, save the $100, and put it toward better filament or a Wham Bam flex plate. If your main constraint is print size rather than materials — helmets, big props, large functional parts — the large-format [Bambu Lab A2L](/bambu-lab-a2l-review/) gives you a 330mm bed for less than the P1S.
 
 ### "I Print Engineering Parts" → X2D
 
@@ -193,4 +193,4 @@ For the full Bambu lineup including H-series options, see our [Bambu H2 series r
 - [Must-Have 3D Printing Accessories](/must-have-3d-printing-accessories/)
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

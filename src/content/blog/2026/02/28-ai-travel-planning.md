@@ -250,4 +250,4 @@ See AI travel planning in action with real trips, including what worked and what
 - [AI-Planned Istanbul Solo Trip](/ai-planned-istanbul-solo-trip/), Personal recap of a real 3-day trip
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

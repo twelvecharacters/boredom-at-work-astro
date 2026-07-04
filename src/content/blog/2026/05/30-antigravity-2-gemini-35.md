@@ -264,4 +264,4 @@ If you've been burned by AI coding tools that were more trouble than they were w
 *   [How to Build an AI Flight Search Agent](/build-ai-flight-search-agent/)
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

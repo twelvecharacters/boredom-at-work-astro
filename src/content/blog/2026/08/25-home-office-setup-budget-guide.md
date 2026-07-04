@@ -191,4 +191,4 @@ Whatever tier you pick, the order of importance stays the same: chair, monitor, 
 For the full rundown on every component mentioned here, start with the [desk upgrade guide](/desk-upgrade-guide/), it ties together all the individual product roundups and helps you plan upgrades piece by piece.
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

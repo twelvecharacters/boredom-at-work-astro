@@ -300,4 +300,4 @@ The people who start learning now will have months of head start over those who 
 *Ready to pick your first course? Check out our guide to the [best free AI courses you can take at work](/best-free-ai-courses/), or follow the [complete AI learning path](/ai-learning-hub/) for a structured roadmap.*
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

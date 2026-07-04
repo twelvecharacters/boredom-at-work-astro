@@ -181,4 +181,4 @@ Just don't buy a printer expecting to save money on Amazon purchases. Buy it bec
 Ready to get started? Our [3D printing beginners guide](/3d-printing-beginners-guide/) has everything you need to go from zero to first print.
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

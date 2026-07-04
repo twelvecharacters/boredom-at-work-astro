@@ -397,4 +397,4 @@ Both are excellent choices. The "right" answer depends on whether you prioritize
 - [ChatGPT Alternatives](/chatgpt-alternatives/), 10 AI assistants compared
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

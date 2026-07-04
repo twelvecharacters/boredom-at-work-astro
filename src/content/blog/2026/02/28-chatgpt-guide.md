@@ -629,4 +629,4 @@ ChatGPT isn't the only option. Here's how it compares:
 - [Learn AI Guide](/learn-ai-guide/), Your complete AI learning roadmap
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

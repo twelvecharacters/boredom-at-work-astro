@@ -478,7 +478,7 @@ Week 4: Evaluate and adjust
 
 ### Track Your Time Savings
 
-Roughly estimate time saved. When you can say "I save 5 hours/week with these tools," it's easier to justify subscriptions and convince colleagues.
+Roughly estimate time saved. When you can say "I save 5 hours/week with these tools," it's easier to justify subscriptions and convince colleagues. For a full framework on turning those hours into a dollar figure, see our guide to [measuring the ROI of your AI workflow](/ai-workflow-roi/).
 
 ---
 
@@ -538,4 +538,4 @@ The people who learn to work effectively with AI tools will outcompete those who
 - [Desk Upgrade Guide](/desk-upgrade-guide/), Build a productive home office setup
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

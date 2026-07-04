@@ -169,4 +169,4 @@ Buy a standing desk because it gives you options. Don't buy it expecting miracle
 Get up. Sit down. Walk around. Repeat. That's the entire secret.
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

@@ -242,4 +242,4 @@ Start with a simple box. Add a hole. Give your dimensions a variable. By the tim
 *Curious about the broader 3D printing world? Check out our [3D Printing Guide](/3d-printing-guide/) for the full overview, or read our [CAD Software Comparison](/cad-software-3d-printing/) to see how OpenSCAD stacks up against Fusion 360, Tinkercad, and more.*
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

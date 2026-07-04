@@ -391,4 +391,4 @@ Headphones are one piece of a productive setup. If you're leveling up your works
 The right headphones turn a noisy environment into your personal focus zone. Pick the pair that fits your workday, put them on, and watch your productivity spike.
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

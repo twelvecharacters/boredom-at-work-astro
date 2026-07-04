@@ -296,4 +296,4 @@ This five-step approach beats 90% of active traders over the long run. Index inv
 - [Polymarket vs Kalshi](/polymarket-vs-kalshi/)
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

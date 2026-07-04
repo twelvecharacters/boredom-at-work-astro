@@ -94,4 +94,4 @@ The persistent narrative that AI is a monolithic threat coming to indiscriminate
 The future of work is not a zero-sum game of humans versus machines. It is a collaborative future of humans working *with* machines. By focusing on adaptability, continuous education, and the cultivation of our most human traits, we can confidently shape a future where AI does not replace us, but empowers us to do our most meaningful, impactful work.
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

@@ -105,7 +105,7 @@ If you recognize that your exhaustion stems from a lack of meaning rather than a
 
 ### 1. Radical Job Crafting
 
-As discussed in previous articles on combating workplace [boredom](/blog/how-to-never-be-bored-at-work/), job crafting is the essential first line of defense against boreout. You must proactively hijack your own job description.
+As discussed in previous articles on combating workplace [boredom](/how-to-never-be-bored-at-work/), job crafting is the essential first line of defense against boreout. You must proactively hijack your own job description.
 
 If the company is not giving you complex problems to solve, you must find them yourself. Look for the massive inefficiencies that everyone complains about but no one fixes. Learn a new programming language and use it to automate a terrible manual process in your department. Pitch a totally unasked-for, high-risk project to your boss. 
 

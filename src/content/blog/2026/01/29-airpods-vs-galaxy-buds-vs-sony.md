@@ -313,4 +313,4 @@ All three are excellent. The "best" one depends entirely on what phone you carry
 *Want the full deep dive on Apple's latest? Read my [AirPods Pro 3 hands-on review](/airpods-pro-3-review/). Looking for more affordable options? Check out our [best tech gifts under $50](/best-tech-gifts-under-50/) for budget-friendly earbuds and other gadgets.*
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

@@ -469,4 +469,4 @@ The best AI presentation maker is the one you'll actually use. Try the free tier
 - [How to Learn AI in 2026](/learn-ai-guide/), Your complete AI learning roadmap
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

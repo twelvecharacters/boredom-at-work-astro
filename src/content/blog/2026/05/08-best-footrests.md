@@ -197,4 +197,4 @@ A footrest is a $20-130 upgrade that completes your ergonomic setup. It won't ch
 For the full home office setup roadmap, check the [desk upgrade guide](/desk-upgrade-guide/). And if your feet aren't the only thing that hurts after 8 hours, maybe it's time for a better [chair](/best-office-chairs/).
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

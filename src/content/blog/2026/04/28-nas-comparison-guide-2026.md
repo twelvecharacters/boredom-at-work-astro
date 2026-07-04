@@ -110,4 +110,4 @@ Whichever path you choose, the goal is the same: taking your data back from the 
 - [Best USB-C Docking Stations for your New Mac](/best-usb-c-docking-stations/)
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

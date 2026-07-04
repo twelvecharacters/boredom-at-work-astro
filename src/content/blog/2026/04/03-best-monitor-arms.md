@@ -372,4 +372,4 @@ Whatever you choose, even a basic monitor arm dramatically improves your desk se
 *Last updated: March 2026*
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

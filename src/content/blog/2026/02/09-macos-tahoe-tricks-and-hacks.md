@@ -95,7 +95,7 @@ When the full LLM Siri arrives, Apple has promised complex, context-aware reques
 - "What did John say in yesterday's meeting notes?"
 - "Remind me about this email tomorrow morning"
 
-Siri will be able to reference files, emails, and conversations, not just web searches. For now, Siri handles basic requests and integrates with Apple Intelligence for summarization and writing tasks.
+Siri will be able to reference files, emails, and conversations, not just web searches. For now, Siri handles basic requests and integrates with Apple Intelligence for summarization and writing tasks. For a deeper look at how the assistant is evolving across all your devices, see our [Siri and Apple Intelligence guide](/siri-ai-apple-intelligence-guide/).
 
 ### 8. Type to Siri (The Better Way)
 
@@ -342,4 +342,4 @@ Take a weekend to explore. There's a lot here, and the hidden features are worth
 - [Pearcleaner: The Best Free Mac App Uninstaller](/pearcleaner-homebrew-guide/), Keep your Mac clean with this source-available tool
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

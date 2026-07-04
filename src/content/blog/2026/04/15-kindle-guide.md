@@ -273,4 +273,4 @@ That's it. You're now ahead of 90% of Kindle owners who never dig past the defau
 *Setting up a complete workspace? Pair this with our [desk upgrade guide](/desk-upgrade-guide/) for the workstation itself, and our [AI tools guide](/ai-tools-guide/) for the productivity stack you'll actually use during reading breaks.*
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

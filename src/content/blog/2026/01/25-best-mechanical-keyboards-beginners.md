@@ -279,4 +279,4 @@ Welcome to the hobby. Your fingers will thank you.
 - [Best Office Chairs](/best-office-chairs/), Complete your ergonomic setup
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

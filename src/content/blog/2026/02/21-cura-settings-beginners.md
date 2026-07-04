@@ -384,4 +384,4 @@ Now go slice something and hit print.
 *Having issues with prints not sticking? Check out [3D Print Not Sticking: Every Fix You Need](/3d-print-not-sticking-fixes/). Want to understand filament differences? Read [PLA vs PETG vs ABS](/pla-vs-petg-vs-abs/). Just getting started? See [3D Printing for Beginners](/3d-printing-beginners-guide/) or browse the [3D Printing Guide](/3d-printing-guide/). Running Cura on a Mac? Check out [best free macOS software](/best-free-macos-software/) for more creative tools.*
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

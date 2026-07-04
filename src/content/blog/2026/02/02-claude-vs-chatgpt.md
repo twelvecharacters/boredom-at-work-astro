@@ -352,4 +352,4 @@ The good news: you can't go wrong with either. Both are genuinely useful tools t
 - [How to Learn AI in 2026](/learn-ai-guide/), Your complete learning roadmap
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

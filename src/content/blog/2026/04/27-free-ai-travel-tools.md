@@ -336,4 +336,4 @@ For occasional travelers, free tools are more than sufficient.
 - [AI Tools Guide](/ai-tools-guide/), All AI tools compared
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

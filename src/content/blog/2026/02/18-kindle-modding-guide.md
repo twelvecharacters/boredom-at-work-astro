@@ -171,4 +171,4 @@ A modded Kindle is more than just a gadget; it’s a statement that you own your
 *If you enjoy hardware tinkering, you might also like our [10 practical desk upgrades you can 3D print](/10-practical-desk-upgrades-3d-print/) and the [best free macOS software](/best-free-macos-software/) list, which includes Calibre and other tools that pair well with a modded Kindle.*
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

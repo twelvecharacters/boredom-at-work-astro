@@ -551,4 +551,4 @@ Good writing tools make you faster, not lazier. Use them to produce better work 
 - [Best AI Tools for Office Work](/best-ai-tools-office-work/), Curated productivity tools
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

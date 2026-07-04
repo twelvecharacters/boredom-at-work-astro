@@ -134,4 +134,4 @@ Integrating these tools isn't just about speed; it's about reducing the friction
 Start with one or two that address your biggest daily bottlenecks. Once you get used to having a world-class research assistant and a pro editor living in your sidebar, you'll wonder how you ever worked without them.
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

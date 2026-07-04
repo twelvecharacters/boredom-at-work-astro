@@ -76,7 +76,7 @@ Because older users often lack the technical literacy to look for the subtle art
 
 ## The Gamification of Misinformation: AI-Bot Networks
 
-Social media is not just populated by humans; it is heavily populated by AI-driven bots. These are not the rudimentary, easily identifiable bots of the 2010s. Modern AI bots, powered by [Large Language Models (LLMs) like ChatGPT](/blog/chatgpt-vs-claude-vs-gemini/), can maintain context, argue persuasively, express simulated empathy, and mimic human typing patterns flawlessly.
+Social media is not just populated by humans; it is heavily populated by AI-driven bots. These are not the rudimentary, easily identifiable bots of the 2010s. Modern AI bots, powered by [Large Language Models (LLMs) like ChatGPT](/chatgpt-vs-claude-vs-gemini/), can maintain context, argue persuasively, express simulated empathy, and mimic human typing patterns flawlessly.
 
 ### The Illusion of Consensus
 
@@ -111,11 +111,11 @@ The most critical step is a fundamental psychological shift. We must teach the o
 
 ## Conclusion: A Moral Imperative
 
-The integration of Artificial Intelligence into social media is not merely a technological advancement; it is a [profound societal shift](/blog/ai-threat-to-jobs/) that is actively preying upon the vulnerabilities of our most senior citizens. The older generation built the physical infrastructure of the modern world; they should not be left defenseless in the digital infrastructure that has superseded it.
+The integration of Artificial Intelligence into social media is not merely a technological advancement; it is a [profound societal shift](/ai-threat-to-jobs/) that is actively preying upon the vulnerabilities of our most senior citizens. The older generation built the physical infrastructure of the modern world; they should not be left defenseless in the digital infrastructure that has superseded it.
 
 Addressing this crisis requires a multi-pronged approach: intense regulatory pressure on social media platforms to identify and throttle synthetic media, the dismantling of outrage-driven recommendation algorithms, and a massive, compassionate, society-wide effort to update the digital literacy of the elderly. 
 
-The invisible threat of AI is here. If we do not actively protect those who cannot protect themselves against these digital ghosts, the cost will be measured not just in [stolen retirement funds](/blog/ai-portfolio-analysis-chatgpt/), but in the tragic, algorithmic isolation of an entire generation.
+The invisible threat of AI is here. If we do not actively protect those who cannot protect themselves against these digital ghosts, the cost will be measured not just in [stolen retirement funds](/ai-portfolio-analysis-chatgpt/), but in the tragic, algorithmic isolation of an entire generation.
 
 
 Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

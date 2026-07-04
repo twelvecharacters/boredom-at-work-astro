@@ -377,4 +377,4 @@ In 10 hours, you'll go from AI curious to AI capable. That's a career-changing r
 - [Best Free Investing Courses](/best-free-investing-courses/), Same "learn at work" approach, applied to investing and personal finance
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

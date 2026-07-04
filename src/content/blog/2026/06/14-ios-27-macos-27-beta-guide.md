@@ -20,7 +20,7 @@ faq:
 
 The annual release of new Apple operating systems is always a highlight for tech enthusiasts. This year, with the unveiling of iOS 27 and macOS 27 "Golden Gate" at WWDC 2026, the excitement is palpable, largely driven by the promised integration of the new Apple Intelligence and a vastly improved Siri AI.
 
-If you are eager to experience these features before the public release in September, you can join the developer preview. However, navigating the beta landscape requires caution. This guide will walk you through the installation process and manage your expectations for this early-stage software. For more details on the features themselves, refer to our [Siri AI & Apple Intelligence Guide](/blog/siri-ai-apple-intelligence-guide/).
+If you are eager to experience these features before the public release in September, you can join the developer preview. However, navigating the beta landscape requires caution. This guide will walk you through the installation process and manage your expectations for this early-stage software. For more details on the features themselves, refer to our [Siri AI & Apple Intelligence Guide](/siri-ai-apple-intelligence-guide/).
 
 ## Important Precautions Before You Begin
 

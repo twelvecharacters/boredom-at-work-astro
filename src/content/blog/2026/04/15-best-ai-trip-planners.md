@@ -286,4 +286,4 @@ This hybrid approach gives you AI creativity plus real-world accuracy.
 - [Perplexity AI Guide](/perplexity-ai-guide/), Best for research
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

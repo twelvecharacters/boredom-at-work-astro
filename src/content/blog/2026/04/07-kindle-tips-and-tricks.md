@@ -152,4 +152,4 @@ Still deciding which Kindle to get? Check our [best e-readers guide](/best-e-rea
 Enjoyed tweaking your reading setup? The same mindset applies to your AI tools, see our [ChatGPT custom instructions templates](/chatgpt-custom-instructions/) for ChatGPT customizations that change how it works, and our guide to [using AI at work safely](/how-to-use-ai-at-work-safely/) for ground rules.
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

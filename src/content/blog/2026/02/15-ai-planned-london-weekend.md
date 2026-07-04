@@ -181,4 +181,4 @@ If you're interested in AI-powered travel planning:
 - [AI Travel Planning Mistakes to Avoid](/ai-travel-planning-mistakes/), What can go wrong
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

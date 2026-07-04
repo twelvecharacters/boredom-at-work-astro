@@ -299,4 +299,4 @@ Prediction market profits are taxable in the US. The exact treatment is still ev
 **Next steps:** [Polymarket vs Kalshi](/polymarket-vs-kalshi/) for a detailed platform comparison, or head back to the [Investing Tools Guide](/investing-tools-guide/) for the full toolkit.
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

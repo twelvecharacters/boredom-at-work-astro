@@ -51,7 +51,7 @@ This is the one accessory almost everyone should get. Your Kindle's screen is to
 
 **[Amazon's official fabric cover](https://www.amazon.com/dp/B09NMXV5GJ)** (~$40) is solid but overpriced. The **MoKo slim case** (~$15) and **Fintie slimshell** (~$15) do the exact same job, auto sleep/wake, magnetic closure, minimal bulk, at a fraction of the price.
 
-Go for something slim and lightweight. The whole point of a Kindle is that it's light enough to hold for hours. Don't ruin that with a bulky case.
+Go for something slim and lightweight. The whole point of a Kindle is that it's light enough to hold for hours. Don't ruin that with a bulky case. For model-by-model picks — Paperwhite, Colorsoft, Scribe, and the basic Kindle — see our roundup of the [best Kindle cases in 2026](/best-kindle-cases-2026/).
 
 ## 2. Book-Style Leather Cover (~$30–60)
 
@@ -141,4 +141,4 @@ Want to get more out of your Kindle software-side? Start with our [complete Kind
 Setting up a dedicated reading corner at your desk? Pair your Kindle with the [best desk shelves and organizers](/best-desk-shelves-organizers/) to display your queue, or a [monitor light bar](/best-monitor-light-bars/) so the glare-free e-ink screen works in any room.
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

@@ -142,4 +142,4 @@ We lock our doors, we use passwords, and we shred sensitive documents. Using a V
 If you aren't using a VPN yet, the time to start is now. Your digital life is too valuable to leave exposed.
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

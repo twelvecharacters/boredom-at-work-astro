@@ -140,4 +140,4 @@ The project is built around the Spotify Web API. Supporting other services would
 **Ready to start?** Download the files and check out the wiring guide on the [RFID Record Player GitHub](https://github.com/fatihak/RFID-Record-Player).
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

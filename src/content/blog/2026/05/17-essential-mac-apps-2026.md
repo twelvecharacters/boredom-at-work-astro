@@ -155,6 +155,7 @@ Every time you don't have to search for a window, every time you don't have to w
 
 - [Best Free macOS Software (2026)](/best-free-macos-software/)
 - [macOS Tahoe Tricks and Hacks](/macos-tahoe-tricks-and-hacks/)
+- [How to Install the iOS 27 & macOS 27 Developer Betas](/ios-27-macos-27-beta-guide/)
 - [Pearcleaner + Homebrew: Clean Mac Setup](/pearcleaner-homebrew-guide/)
 - [Best AI Tools for Office Work](/best-ai-tools-office-work/)
 - [The $599 MacBook Neo: One Month Review](/macbook-neo-one-month-review/)
@@ -162,4 +163,4 @@ Every time you don't have to search for a window, every time you don't have to w
 - [Best AI Chrome Extensions](/best-ai-chrome-extensions/)
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

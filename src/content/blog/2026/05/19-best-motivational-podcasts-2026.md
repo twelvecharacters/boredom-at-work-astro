@@ -179,4 +179,4 @@ Success in this era isn't about having the most information; it's about having t
 - [How to Improve Your Sports Lifestyle with AI](/how-to-improve-sports-lifestyle-with-ai/)
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

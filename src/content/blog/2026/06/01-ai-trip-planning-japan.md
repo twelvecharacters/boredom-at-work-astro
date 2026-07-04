@@ -298,4 +298,4 @@ For more options, see our roundup of [best AI trip planners](/best-ai-trip-plann
 - **Master AI travel:** [AI Travel Planning Hub](/ai-travel-planning/)
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

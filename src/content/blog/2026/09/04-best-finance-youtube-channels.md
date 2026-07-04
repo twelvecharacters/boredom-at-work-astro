@@ -183,4 +183,4 @@ Pair YouTube learning with actual practice, check our [best paper trading apps](
 *Disclaimer: This article is for informational and educational purposes only. Channel mentions are not endorsements of their investment advice. Always do your own research before making financial decisions.*
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

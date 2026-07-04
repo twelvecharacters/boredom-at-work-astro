@@ -406,6 +406,8 @@ AI use at work is becoming normal. Companies are moving from "should we allow AI
 - Early adopters have advantages
 - Poor AI hygiene has consequences
 
+Worried about where all this is heading for your role? We separate the hype from reality in our look at [the threat of AI for jobs](/ai-threat-to-jobs/).
+
 ---
 
 ## Quick Reference Card
@@ -456,4 +458,4 @@ That's not a high bar. It's just being a responsible professional in 2026.
 - [AI Meeting Assistants](/ai-meeting-assistants/), Privacy-conscious options
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

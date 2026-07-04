@@ -234,4 +234,4 @@ Start with a small, low-risk purchase to learn the ropes. Use a beginner-friendl
 Your bored work hours are about to become a lot more interesting. Happy shopping!
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 

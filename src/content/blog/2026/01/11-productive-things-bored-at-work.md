@@ -308,7 +308,7 @@ Boredom at work is inevitable. What you do with it determines whether that time 
 
 The professionals who get ahead aren't necessarily smarter or harder working, they're better at using their time. Every slow afternoon is a chance to learn something, build something, or improve something.
 
-Start small. Pick one thing from this list and do it today. Then do another tomorrow. In a year, you'll be amazed at how much you've grown.
+Start small. Pick one thing from this list and do it today. Then do another tomorrow. In a year, you'll be amazed at how much you've grown. If the boredom keeps creeping back, our companion piece on [how to never be bored at work again](/how-to-never-be-bored-at-work/) digs into the root causes and longer-term fixes.
 
 **Our top recommendation:** Start learning AI. It's the most valuable skill you can develop, it's immediately applicable to your work, and you can get started in under 10 hours. Check out our guide to the [best free AI courses you can take at work](/best-free-ai-courses/).
 
@@ -317,4 +317,4 @@ Start small. Pick one thing from this list and do it today. Then do another tomo
 *What do you do when you're bored at work? Share your productive strategies.*
 
 
-For more insights, check out our [guide on productivity](/blog/how-to-never-be-bored-at-work/). 
+For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
