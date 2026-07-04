@@ -13,7 +13,7 @@ export const GET: APIRoute = async () => {
     if (!post.data.image) continue;
     const slug = getPostSlug(post);
     const pageUrl = `${SITE.url}/${slug}/`;
-    const imageUrl = `${SITE.url}${post.data.image}`;
+    const imageUrl = new URL(post.data.image.src, SITE.url).toString();
 
     xml += '  <url>\n';
     xml += `    <loc>${pageUrl}</loc>\n`;
