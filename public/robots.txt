@@ -2,10 +2,11 @@
 
 User-agent: *
 Allow: /
-# Disallow redundant/low-value paths
-Disallow: /tags/
-Disallow: /archive/
-Disallow: /blog/*/ # Blocks paginated pages like /blog/2/
+# /tags/ and /archive/ are NOT disallowed — they use on-page noindex, so
+# crawlers must be able to reach them to honor it (blocking crawl hides the
+# noindex, and would also block the intentionally-indexable tag hub pages).
+# Paginated blog pages (/blog/2/ etc.) are noindexed; block to save crawl budget.
+Disallow: /blog/*/
 
 # Block Aggressive Scrapers
 User-agent: CCBot

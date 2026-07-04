@@ -177,9 +177,9 @@ Stop looking at the spec sheets of the new flagship bodies. Stop worrying about 
 
 ### Ready to Upgrade Your Gear?
 Check out our other 2026 photography guides:
-- [The Best Prime Lenses for Travel](/best-prime-lenses-travel/)
-- [Sony vs Canon vs Nikon: The 2026 Ecosystem Battle](/sony-vs-canon-vs-nikon-2026/)
-- [How to Buy Used Lenses Without Getting Scammed](/buying-used-lenses-guide/)
+- [Cheap Manual Lenses for Beginners](/cheap-manual-lenses-beginners/)
+- [DSLR vs Mirrorless for Beginners](/dslr-vs-mirrorless-beginners/)
+- [Photography Buying Guide](/photography-buying-guide/)
 - [Sensor Size Guide: MFT, APS-C, and Full Frame Explained](/sensor-size-guide-mft-apsc-fullframe/)
 
 **What's in your bag?** Let us know in the comments if a lens upgrade changed your photography more than a body upgrade.

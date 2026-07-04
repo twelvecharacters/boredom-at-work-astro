@@ -161,4 +161,4 @@ Make it a habit to audit your assistant every month. Are its responses getting t
 By investing a few hours upfront to build, connect, and mount a custom AI assistant, you are fundamentally changing the geometry of your home office. You are no longer a solo worker staring at a screen; you are the manager of an infinitely patient, highly capable digital employee. Embrace the no-code revolution, and watch your productivity soar. 
 
 ---
-*For more insights on optimizing your home office and mastering the tools of the future, check out our guide on [The Return of the Dumb Phone: Reclaiming Deep Work](/the-return-of-the-dumb-phone/) or explore our deep dive into [VS Code vs. Antigravity: The Battle for the Agentic Workspace](/vs-code-vs-antigravity-agentic-workspace/).*
+*For more insights on optimizing your home office and mastering the tools of the future, check out our guide on [Dumb Phones for Deep Work](/dumb-phones-for-deep-work/) or explore our deep dive into [VS Code vs. Antigravity](/vs-code-vs-antigravity/).*
