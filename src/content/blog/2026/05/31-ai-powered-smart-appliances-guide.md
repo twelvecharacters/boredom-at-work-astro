@@ -1,11 +1,12 @@
 ---
-title: "The AI Kitchen Revolution: How Smart Appliances are Reclaiming Your 5-to-9"
+title: "AI Smart Appliances: How the AI Kitchen Reclaims Your 5-to-9"
 slug: "ai-powered-smart-appliances-guide"
 description: "AI-powered smart appliances are transforming home management. From meal-planning fridges to precision ovens, see the future of the AI kitchen."
 publishDate: 2026-05-31
 author: "Mehdi"
 tags: ["Smart Home", "AI", "Tech Trends", "Home Automation", "Productivity"]
 image: "./31-ai-powered-smart-appliances-guide.png"
+imageAlt: "A modern AI-powered smart kitchen with a connected refrigerator and precision oven displaying meal-planning data on glowing screens"
 draft: false
 isListicle: false
 tldr: "AI is moving beyond chatbots and into our kitchens. Modern smart appliances use computer vision and machine learning to reduce food waste, automate cooking, and manage household chores, giving you more time for your personal growth projects."

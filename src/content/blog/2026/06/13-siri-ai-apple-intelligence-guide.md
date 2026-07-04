@@ -5,6 +5,7 @@ description: "Discover the power of Siri AI and Apple Intelligence. From on-scre
 publishDate: 2026-06-13
 author: "Mehdi"
 image: "./13-siri-ai-apple-intelligence-guide.png"
+imageAlt: "An iPhone showing the Siri and Apple Intelligence interface with a glowing AI animation on screen"
 tags: ["AI", "Apple", "Siri", "iOS"]
 draft: false
 faq:

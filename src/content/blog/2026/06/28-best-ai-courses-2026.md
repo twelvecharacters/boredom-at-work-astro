@@ -1,7 +1,7 @@
 ---
 title: "Advanced AI Courses for 2026: Agentic Workflows & Local LLMs"
 slug: "best-ai-courses-2026"
-description: "A comprehensive guide to the most impactful and interesting AI courses in 2026, focusing on agentic design, local model deployment, and specialized industry applications."
+description: "A comprehensive guide to the most impactful AI courses in 2026, focusing on agentic design, local model deployment, and specialized industry applications."
 publishDate: 2026-06-28
 author: "Mehdi"
 tags: ["AI", "Education", "Learning", "LLMs", "Technology", "Career"]

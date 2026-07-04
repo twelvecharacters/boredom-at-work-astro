@@ -1,5 +1,5 @@
 ---
-title: "The Return of the Dumb Phone: Reclaiming Deep Work in a Hyper-Connected 2026"
+title: "Dumb Phones for Deep Work: Reclaiming Focus in 2026"
 slug: "dumb-phones-for-deep-work"
 description: "Why high-performers are intentionally ditching their flagship smartphones for minimalist 'dumb phones' to reclaim their attention, focus, and productivity."
 publishDate: 2026-07-06

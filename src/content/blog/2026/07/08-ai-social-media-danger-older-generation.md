@@ -1,7 +1,7 @@
 ---
-title: "The Invisible Threat: AI, Social Media, and the Danger to the Older Generation"
+title: "AI, Social Media & the Danger to the Older Generation"
 slug: "ai-social-media-danger-older-generation"
-description: "As artificial intelligence seamlessly integrates into social media algorithms and content generation, the older generation faces an unprecedented, invisible threat of manipulation, deepfakes, and algorithmic isolation."
+description: "As AI integrates into social media algorithms and content, the older generation faces an invisible threat of manipulation, deepfakes, and algorithmic isolation."
 publishDate: 2026-07-08
 author: "Mehdi"
 image: "./08-ai-social-media-danger-older-generation.png"

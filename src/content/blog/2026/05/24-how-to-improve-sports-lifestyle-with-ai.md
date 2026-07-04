@@ -1,5 +1,5 @@
 ---
-title: "The AI Performance Lab: How to Improve Your Sports and Lifestyle with AI"
+title: "How to Improve Your Sports and Lifestyle with AI"
 slug: "how-to-improve-sports-lifestyle-with-ai"
 description: "Master AI form correction and sleep optimization. Learn how to build a high-performance lifestyle using the latest artificial intelligence tools."
 publishDate: 2026-05-24

@@ -1,7 +1,7 @@
 ---
 title: "The Golden Age of $500 3D Printers: Turn-key vs. DIY"
 slug: "best-3d-printers-under-500-vs-diy"
-description: "Is the $500 price point the ultimate sweet spot for 3D printing? We compare modern plug-and-play machines against the legendary DIY kits, featuring the Bambu Lab P2S, Creality K2, and more."
+description: "Is $500 the sweet spot for 3D printing? We compare modern plug-and-play machines against legendary DIY kits, featuring the Bambu Lab P2S and Creality K2."
 publishDate: 2026-07-05
 author: "Mehdi"
 image: "./05-best-3d-printers-under-500.png"

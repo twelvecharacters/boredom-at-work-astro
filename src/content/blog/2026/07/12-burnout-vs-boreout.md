@@ -1,7 +1,7 @@
 ---
-title: "The Silent Killers of Careers: The Danger of Confusing Burnout with Boreout"
+title: "Burnout vs. Boreout: The Silent Killers of Your Career"
 slug: "burnout-vs-boreout"
-description: "While burnout is heavily discussed in corporate culture, its quiet, equally destructive twin—boreout—is frequently misdiagnosed. Here is how to recognize the danger of both."
+description: "Burnout gets all the attention, but its quiet, equally destructive twin, boreout, is frequently misdiagnosed. Here is how to recognize the danger of both."
 publishDate: 2026-07-12
 author: "Mehdi"
 image: "./12-burnout-vs-boreout.png"

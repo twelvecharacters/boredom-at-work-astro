@@ -1,5 +1,5 @@
 ---
-title: "GTA 6: A Brief Excursion into the Most Anticipated Game of the Decade"
+title: "GTA 6: The Most Anticipated Game of the Decade"
 slug: "gta-6-excursion-blog"
 description: "A slight detour from our usual productivity topics. Why Grand Theft Auto VI is not just a video game, but a monumental cultural event worth discussing."
 publishDate: 2026-07-25

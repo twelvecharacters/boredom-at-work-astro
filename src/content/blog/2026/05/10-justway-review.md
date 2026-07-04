@@ -1,5 +1,5 @@
 ---
-title: "Justway Review 2026: Is This On-Demand 3D Printing Service Worth It?"
+title: "Justway Review 2026: Is This 3D Printing Service Worth It?"
 slug: "justway-review"
 description: "Justway review 2026: on-demand 3D printing, CNC, sheet metal, and injection molding. Pricing, lead times, and how it compares to PCBWay, JLCPCB, and Xometry."
 publishDate: 2026-05-10

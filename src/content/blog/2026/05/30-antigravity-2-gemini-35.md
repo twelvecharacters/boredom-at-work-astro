@@ -1,5 +1,5 @@
 ---
-title: "Antigravity 2 Meets Gemini 3.5: The AI Coding Assistant That Actually Gets Your Codebase"
+title: "Antigravity 2 with Gemini 3.5: The AI Coding Assistant"
 slug: "antigravity-2-gemini-35"
 description: "Antigravity 2 with Gemini 3.5 is changing how developers work. Explore the new Planning Mode, Knowledge Items, and multi-file context in this 2026 guide."
 publishDate: 2026-05-30

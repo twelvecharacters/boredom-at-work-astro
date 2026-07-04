@@ -1,7 +1,7 @@
 ---
 title: "The Death of Glass: Computational Photography vs. The Real Camera"
 slug: "computational-photography-vs-real-camera"
-description: "Has the smartphone finally killed the DSLR? We dive deep into computational photography, comparing the Samsung Galaxy, Apple iPhone, and Google Pixel against traditional optical cameras."
+description: "Has the smartphone killed the DSLR? We dive into computational photography, comparing the Samsung Galaxy, iPhone, and Pixel against traditional optical cameras."
 publishDate: 2026-07-11
 author: "Mehdi"
 image: "./11-computational-photography-vs-real-camera.png"

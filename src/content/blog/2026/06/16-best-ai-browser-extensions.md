@@ -7,6 +7,7 @@ author: "Mehdi"
 tags: ["AI", "Productivity", "Browser Extensions", "Tech Tools", "Stealth Learning"]
 draft: false
 image: "./16-best-ai-browser-extensions.png"
+imageAlt: "A web browser toolbar showing AI extension icons for writing, research, and meeting summaries"
 isListicle: true
 tldr: "Integrate AI directly into your browser to eliminate the context-switching tax. Use Perplexity for research, Claude for analysis, and Otter for meeting automation to reclaim hours of your workday."
 faq:

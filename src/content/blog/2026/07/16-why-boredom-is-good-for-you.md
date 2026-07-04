@@ -5,6 +5,7 @@ description: "Discover why boredom isn't something to avoid, but a vital state f
 publishDate: 2026-07-16
 author: "Mehdi"
 image: "./16-why-boredom-is-good-for-you.png"
+imageAlt: "A person relaxing by a window doing nothing, staring thoughtfully into the distance in a calm, quiet room"
 tags: ["Mental Health", "Productivity", "Creativity", "Wellness"]
 draft: false
 faq:

@@ -1,5 +1,5 @@
 ---
-title: "Beyond the To-Do List: Why Your Best Productivity Hack is a Fantasy Novel"
+title: "Why Your Best Productivity Hack Is a Fantasy Novel"
 description: "Is your reading list making you more productive or just stressed? Why a mix of non-fiction and epic fantasy is the secret sauce for the modern professional."
 publishDate: 2026-04-30
 author: "Mehdi"

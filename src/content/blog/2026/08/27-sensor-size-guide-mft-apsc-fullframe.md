@@ -1,11 +1,12 @@
 ---
-title: "The Ultimate Sensor Size Guide: Full Frame vs. APS-C vs. Micro Four Thirds"
+title: "Sensor Sizes: Full Frame vs. APS-C vs. Micro Four Thirds"
 slug: "sensor-size-guide-mft-apsc-fullframe"
 description: "Choosing the right camera sensor size is the most important decision for your photography workflow. Compare Full Frame, APS-C, and MFT to find your perfect fit."
 publishDate: 2026-08-27
 author: "Mehdi"
 tags: ["Photography", "Camera Gear", "Tech Guide", "Photography Workflow"]
 image: "./27-sensor-size-guide-mft-apsc-fullframe.png"
+imageAlt: "Three camera sensors of different sizes, full frame, APS-C, and Micro Four Thirds, shown side by side for comparison"
 draft: false
 isListicle: false
 tldr: "Sensor size determines low light performance, depth of field, and system weight. Full frame is the professional standard, APS-C offers the best value, and MFT is the king of portability."

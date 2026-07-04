@@ -1,5 +1,5 @@
 ---
-title: "The Power of Glass: Why a Great Lens Beats a Pro Camera Body in 2026"
+title: "Why a Great Lens Beats a Pro Camera Body in 2026"
 slug: "lens-vs-camera-body"
 description: "Is your camera holding you back, or is it your lens? Learn how a high-quality lens can save a mediocre camera body and why glass is the best investment."
 publishDate: 2026-06-24
