@@ -1,7 +1,7 @@
 ---
 title: "Bambu Lab X2D Review: $649 Dual-Nozzle Printer With Heated Chamber"
 slug: "bambu-lab-x2d-first-look"
-description: "Hands-on Bambu Lab X2D review: $649 base / $899 AMS Combo. Dual-nozzle mechanical switching, 65°C heated chamber, 256mm build, 31 sensors. Worth it?"
+description: "Bambu Lab X2D review: $649 base / $899 AMS Combo. Dual-nozzle mechanical switching, 65°C heated chamber, 256mm build, and 31 sensors. Is it worth it?"
 publishDate: 2026-04-14
 updatedDate: 2026-05-17
 author: "Mehdi"
