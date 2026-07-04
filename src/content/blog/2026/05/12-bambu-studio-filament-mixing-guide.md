@@ -1,5 +1,5 @@
 ---
-title: "Beyond the AMS: Mastering Bambu Studio's New Optical Filament Mixing"
+title: "Bambu Studio Filament Mixing: Full-Color Prints, No AMS"
 description: "Master Bambu Studio 2.6.0's experimental 'Mixed Filament' feature. Learn how optical layer alternation creates full-color prints on the H2C and X2D."
 publishDate: 2026-05-12
 author: "Mehdi"
