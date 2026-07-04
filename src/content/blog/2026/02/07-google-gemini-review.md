@@ -15,13 +15,6 @@ review:
   productBrand: "Google"
   priceRange: "Free–$20/month"
   reviewBody: "Google Gemini excels at real-time information, Google Workspace integration, and its massive 1M-token context window, making it the best AI assistant for Google power users. It still lags behind ChatGPT and Claude in creative writing quality and complex reasoning, so it works best as a complementary tool rather than a full ChatGPT replacement."
-softwareApp:
-  name: "Google Gemini"
-  operatingSystem: "Web, Android, iOS"
-  category: "BusinessApplication"
-  rating: 4
-  priceRange: "Free–$20/month"
-  url: "https://gemini.google.com"
 tldr: "Gemini excels at real-time info, Google Workspace integration, and multimodal tasks. Falls short on creative writing and complex reasoning. Free tier is generous. Worth trying alongside ChatGPT, not as a replacement."
 faq:
   - question: "Is Google Gemini better than ChatGPT?"
