@@ -7,7 +7,7 @@ updatedDate: 2026-05-04
 author: "Mehdi"
 image: "./13-first-3d-prints.webp"
 imageAlt: "Collection of beginner 3D print projects arranged on a clean background"
-tags: ["3D Printing", "Beginners", "Projects", "Ideas", "Printables"]
+tags: ["3D Printing", "Beginners", "DIY"]
 draft: false
 isListicle: true
 faq:

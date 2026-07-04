@@ -6,7 +6,7 @@ publishDate: 2026-06-08
 author: "Mehdi"
 image: "./08-best-dividend-trackers.webp"
 imageAlt: "Collection of dividend tracker app interfaces showing income dashboards"
-tags: ["Investing", "Dividends", "Finance Apps", "Portfolio Tracking", "Tools"]
+tags: ["Investing", "Finance"]
 draft: false
 isListicle: true
 faq:

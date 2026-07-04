@@ -6,7 +6,7 @@ publishDate: 2026-07-06
 author: "Mehdi"
 image: "./06-dumb-phones-for-deep-work.png"
 imageAlt: "A sleek, modern minimalist 'dumb phone' resting on a clean, wooden productivity desk next to an open paper notebook."
-tags: ["Productivity", "Deep Work", "Technology", "Minimalism", "Focus"]
+tags: ["Productivity", "Tech & Gadgets", "Lifestyle"]
 draft: false
 tldr: "The modern smartphone is fundamentally incompatible with the psychological state required for 'Deep Work.' To combat severe algorithmic distraction, a growing movement of professionals is adopting minimalist 'dumb phones'—devices that only call, text, and provide essential utilities—as a radical hardware intervention to reclaim their fractured attention spans."
 faq:

@@ -6,7 +6,7 @@ publishDate: 2026-05-30
 author: "Mehdi"
 image: "./30-antigravity-2-gemini-35.png"
 imageAlt: "A holographic brain surrounded by floating code panels and AI data streams in purple and blue tones"
-tags: ["AI", "Gemini", "Google", "Productivity", "Tech", "Software", "Coding"]
+tags: ["AI", "Gemini", "Productivity", "Tech & Gadgets", "Software", "Coding"]
 draft: false
 tldr: "Antigravity 2 is the major update to Google DeepMind's agentic AI coding assistant, now powered by Gemini 3.5. Key upgrades include multi-file context awareness, a new Planning Mode, persistent Knowledge Items, and dramatically improved code execution. If you're a developer looking to reclaim hours of your workday, this is the release to pay attention to."
 isListicle: true

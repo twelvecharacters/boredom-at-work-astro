@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./02-fdm-vs-resin-printing.webp"
 imageAlt: "Side-by-side comparison of FDM and resin 3D printed objects"
-tags: ["3D Printing", "FDM", "Resin", "SLA", "Comparison", "Buying Guide"]
+tags: ["3D Printing", "Comparison", "Buying Guide"]
 draft: false
 faq:
   - question: "Which is better for beginners, FDM or resin?"

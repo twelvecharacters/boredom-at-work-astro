@@ -6,7 +6,7 @@ publishDate: 2026-04-13
 author: "Mehdi"
 image: "./13-chatgpt-alternatives.webp"
 imageAlt: "Collection of ChatGPT alternative AI tools displayed on screens"
-tags: ["AI", "ChatGPT", "Claude", "Gemini", "Perplexity", "Tools"]
+tags: ["AI", "ChatGPT", "Claude", "Gemini", "Perplexity"]
 draft: false
 faq:
   - question: "What is the best free alternative to ChatGPT?"

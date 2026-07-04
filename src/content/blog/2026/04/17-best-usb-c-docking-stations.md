@@ -6,7 +6,7 @@ publishDate: 2026-04-17
 author: "Mehdi"
 image: "./17-best-usb-c-docking-stations.webp"
 imageAlt: "Collection of USB-C docking stations with connected peripherals"
-tags: ["Office Setup", "Docking Stations", "USB-C", "Work From Home", "Productivity"]
+tags: ["Home Office", "Productivity"]
 draft: false
 isListicle: true
 faq:

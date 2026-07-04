@@ -6,7 +6,7 @@ publishDate: 2026-05-21
 author: "Mehdi"
 image: "./21-sideload-books-kindle.webp"
 imageAlt: "Step-by-step visual guide for sideloading books onto a Kindle"
-tags: ["Kindle", "E-Reader", "Tutorial", "Books", "How-To"]
+tags: ["Kindle", "E-Reader", "Tutorial", "Books"]
 draft: false
 howTo:
   totalTime: "PT10M"

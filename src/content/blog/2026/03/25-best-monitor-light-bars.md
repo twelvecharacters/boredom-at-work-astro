@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./25-best-monitor-light-bars.webp"
 imageAlt: "Collection of monitor light bars mounted on screens in a home office"
-tags: ["Office Setup", "Monitor Accessories", "Work From Home", "Desk Accessories", "Buying Guide"]
+tags: ["Home Office", "Buying Guide"]
 draft: false
 isListicle: true
 faq:

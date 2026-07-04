@@ -6,7 +6,7 @@ publishDate: 2026-03-30
 author: "Mehdi"
 image: "./30-best-paper-trading-apps.webp"
 imageAlt: "Collection of paper trading app interfaces on a phone and laptop"
-tags: ["Investing", "Paper Trading", "Finance Apps", "Beginners", "Tools"]
+tags: ["Investing", "Finance", "Beginners"]
 draft: false
 isListicle: true
 faq:

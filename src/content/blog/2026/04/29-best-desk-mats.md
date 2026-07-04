@@ -6,7 +6,7 @@ publishDate: 2026-04-29
 author: "Mehdi"
 image: "./29-best-desk-mats.webp"
 imageAlt: "Collection of desk mats and pads in different materials on a desk"
-tags: ["Office Setup", "Desk Accessories", "Work From Home", "Home Office", "Buying Guide"]
+tags: ["Home Office", "Buying Guide"]
 draft: false
 isListicle: true
 faq:

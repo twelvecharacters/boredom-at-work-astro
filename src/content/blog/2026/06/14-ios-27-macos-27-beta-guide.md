@@ -6,7 +6,7 @@ publishDate: 2026-06-14
 author: "Mehdi"
 image: "./14-ios-27-macos-27-beta-guide.png"
 imageAlt: "An iPhone and MacBook running the iOS 27 and macOS 27 developer beta home screens"
-tags: ["Apple", "Beta", "iOS", "macOS"]
+tags: ["Apple"]
 draft: false
 faq:
   - question: "Is it safe to install the developer beta on my main device?"

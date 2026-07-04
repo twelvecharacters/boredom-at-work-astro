@@ -6,7 +6,7 @@ publishDate: 2026-06-15
 author: "Mehdi"
 image: "./15-chatgpt-for-email-templates.webp"
 imageAlt: "ChatGPT interface drafting a professional email with a template structure"
-tags: ["AI", "ChatGPT", "Email", "Productivity", "Templates"]
+tags: ["AI", "ChatGPT", "Writing", "Productivity"]
 draft: false
 faq:
   - question: "Is using ChatGPT for emails considered unprofessional?"

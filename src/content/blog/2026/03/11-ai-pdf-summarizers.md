@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./11-ai-pdf-summarizers.webp"
 imageAlt: "Collection of AI PDF summarizer tools processing a long document"
-tags: ["AI", "PDF", "Productivity", "Tools", "Research"]
+tags: ["AI", "AI Tools", "Productivity"]
 draft: false
 faq:
   - question: "Can ChatGPT summarize PDFs?"

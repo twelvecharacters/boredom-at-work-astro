@@ -6,7 +6,7 @@ publishDate: 2026-04-12
 author: "Mehdi"
 image: "./12-10-practical-desk-upgrades.webp"
 imageAlt: "Ten 3D printed desk upgrade accessories arranged on a workspace"
-tags: ["3D Printing", "Desk Setup", "Productivity", "DIY", "Organization"]
+tags: ["3D Printing", "Home Office", "Productivity", "DIY"]
 draft: false
 isListicle: true
 tldr: "You don't need expensive 'pro' desk accessories. With a 3D printer and a few cents of filament, you can build a custom cable management system, ergonomic stands, and modular organizers like Gridfinity."

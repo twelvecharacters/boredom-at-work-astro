@@ -5,7 +5,7 @@ publishDate: 2026-04-28
 author: "Mehdi"
 image: "./28-nas-comparison-guide-2026.png"
 imageAlt: "Synology, QNAP, and Ugreen NAS units lined up beside DIY server hardware in a home office"
-tags: ["NAS", "Self-Hosting", "Synology", "QNAP", "Ugreen", "TrueNAS", "Unraid"]
+tags: ["Hardware"]
 slug: "nas-comparison-guide-2026"
 draft: false
 isListicle: true

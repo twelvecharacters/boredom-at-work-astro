@@ -6,7 +6,7 @@ publishDate: 2026-07-10
 author: "Mehdi"
 image: "./10-ai-portfolio-analysis-chatgpt.webp"
 imageAlt: "ChatGPT analyzing an investment portfolio from a CSV upload"
-tags: ["AI Tools", "Investing", "ChatGPT", "Portfolio Analysis", "Finance"]
+tags: ["AI Tools", "Investing", "ChatGPT", "Finance"]
 draft: false
 faq:
   - question: "Is it safe to upload my portfolio data to ChatGPT or Claude?"

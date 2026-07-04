@@ -6,7 +6,7 @@ publishDate: 2025-12-23
 author: "Mehdi"
 image: "./23-3d-printing-mistakes.webp"
 imageAlt: "Common 3D printing mistakes illustrated with failed prints on a build plate"
-tags: ["3D Printing", "Beginners", "Tips", "Troubleshooting", "Mistakes"]
+tags: ["3D Printing", "Beginners", "Tutorial"]
 draft: false
 isListicle: true
 faq:

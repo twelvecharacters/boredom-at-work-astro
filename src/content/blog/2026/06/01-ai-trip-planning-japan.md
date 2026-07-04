@@ -6,7 +6,7 @@ publishDate: 2026-06-01
 author: "Mehdi"
 image: "./01-ai-trip-planning-japan.webp"
 imageAlt: "Japan travel scene with temples and cherry blossoms from an AI-planned trip"
-tags: ["AI", "Travel", "Japan", "Asia", "AI Travel"]
+tags: ["AI", "Travel", "Japan Shopping", "AI Travel"]
 draft: false
 faq:
   - question: "What's the best time to visit Japan?"

@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./31-cad-software-3d-printing.webp"
 imageAlt: "Collection of CAD software interfaces for 3D printing design"
-tags: ["3D Printing", "CAD", "Software", "Tutorial", "Skills"]
+tags: ["3D Printing", "Software", "Tutorial", "Career"]
 draft: false
 isListicle: true
 faq:

@@ -6,7 +6,7 @@ publishDate: 2026-04-10
 author: "Mehdi"
 image: "./10-cable-management-tips.webp"
 imageAlt: "Step-by-step visual guide for organizing desk cables neatly"
-tags: ["Office Setup", "Cable Management", "Work From Home", "Desk Organization", "Guide"]
+tags: ["Home Office", "Tutorial"]
 draft: false
 howTo:
   totalTime: "PT30M"

@@ -6,7 +6,7 @@ publishDate: 2026-04-15
 author: "Mehdi"
 image: "./15-best-ai-trip-planners.webp"
 imageAlt: "Collection of AI trip planner app interfaces on a laptop screen"
-tags: ["AI", "Travel", "Tools", "Reviews", "AI Travel"]
+tags: ["AI", "Travel", "Review", "AI Travel"]
 draft: false
 isListicle: true
 faq:

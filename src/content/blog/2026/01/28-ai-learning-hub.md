@@ -6,7 +6,7 @@ publishDate: 2026-01-28
 author: "Mehdi"
 image: "./28-ai-learning-hub.webp"
 imageAlt: "Illustration showing AI learning paths and skill development tools"
-tags: ["AI", "Learning", "Career Development", "Productivity", "Hub Page"]
+tags: ["AI", "Learning", "Career", "Productivity", "Hub Page"]
 draft: false
 tldr: "Start with ChatGPT basics, take a free Google or IBM course for credibility, then focus on AI tools that solve your actual work problems. 10-20 hours total to become genuinely useful with AI."
 faq:

@@ -6,7 +6,7 @@ publishDate: 2026-01-04
 author: "Mehdi"
 image: "./04-canon-r100-vs-nikon-z50.webp"
 imageAlt: "Side-by-side comparison of Canon EOS R100 and Nikon Z50 II cameras"
-tags: ["Photography", "Cameras", "Canon", "Nikon", "Comparison"]
+tags: ["Photography", "Cameras", "Comparison"]
 draft: false
 review:
   rating: 4

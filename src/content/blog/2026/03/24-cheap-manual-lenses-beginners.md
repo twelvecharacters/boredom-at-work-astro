@@ -6,7 +6,7 @@ publishDate: 2026-03-24
 author: "Mehdi"
 image: "./24-cheap-manual-lenses.webp"
 imageAlt: "Collection of affordable manual lenses from 7Artisans and TTArtisan"
-tags: ["Photography", "Lenses", "Beginners", "Gear"]
+tags: ["Photography", "Cameras", "Beginners"]
 draft: false
 faq:
   - question: "Are cheap manual lenses like TTArtisan and 7Artisans any good?"

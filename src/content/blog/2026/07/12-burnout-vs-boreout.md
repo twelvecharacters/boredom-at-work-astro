@@ -6,7 +6,7 @@ publishDate: 2026-07-12
 author: "Mehdi"
 image: "./12-burnout-vs-boreout.png"
 imageAlt: "A conceptual split-screen image showing a stressed office worker; the left side is consumed in fiery chaos representing burnout, while the right side is a dull, fading gray representing boreout."
-tags: ["Career", "Mental Health", "Productivity", "Work Culture", "Psychology"]
+tags: ["Career", "Health", "Productivity", "Culture", "Lifestyle"]
 draft: false
 tldr: "Burnout and boreout manifest with terrifyingly similar symptoms: chronic exhaustion, deep cynicism, and a profound inability to focus. However, their root causes are diametrically opposed. Burnout is the result of prolonged, inescapable stress and overwork, while boreout is the psychological decay caused by severe under-stimulation and a complete lack of purpose. Misdiagnosing one for the other can lead to disastrous career decisions."
 faq:

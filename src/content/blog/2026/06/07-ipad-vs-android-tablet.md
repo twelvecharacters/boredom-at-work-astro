@@ -4,7 +4,7 @@ slug: "ipad-vs-android-tablet"
 description: "A comprehensive 2026 comparison between iPads and Android tablets to help you decide which platform best suits your creative and professional needs."
 publishDate: 2026-06-07
 author: "Mehdi"
-tags: ["Tablets", "iPad", "Android", "Technology", "Buying Guide"]
+tags: ["Tech & Gadgets", "Apple", "Android", "Buying Guide"]
 image: "./07-ipad-vs-android-tablet.png"
 imageAlt: "An Apple iPad and an Android tablet displayed side by side on a desk for comparison"
 draft: false

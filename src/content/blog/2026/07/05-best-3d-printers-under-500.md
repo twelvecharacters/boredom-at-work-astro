@@ -6,7 +6,7 @@ publishDate: 2026-07-05
 author: "Mehdi"
 image: "./05-best-3d-printers-under-500.png"
 imageAlt: "A modern, sleek, high-quality CoreXY 3D printer sitting on a clean workshop desk."
-tags: ["3D Printing", "Hardware", "DIY", "Review", "Technology", "Bambu Lab", "Creality"]
+tags: ["3D Printing", "Hardware", "DIY", "Review", "Tech & Gadgets", "Bambu Lab"]
 draft: false
 tldr: "The $500 3D printer market has fundamentally shifted from tinkerer's toys to reliable appliances. We break down the top commercial contenders—including the Bambu Lab P2S, Creality K2, Qidi Q2, Snapmaker U1, and Anycubic Cobra—and weigh them against the ultimate learning experience of building a DIY Voron kit."
 faq:

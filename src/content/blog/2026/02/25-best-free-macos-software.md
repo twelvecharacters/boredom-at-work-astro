@@ -6,7 +6,7 @@ publishDate: 2026-02-25
 author: "Mehdi"
 image: "./25-free-macos-software.webp"
 imageAlt: "Collection of free macOS app icons arranged on a Mac desktop"
-tags: ["Tech & Gadgets", "macOS", "Free Software", "Homebrew", "Productivity"]
+tags: ["Tech & Gadgets", "Apple", "Software", "Productivity"]
 draft: false
 isListicle: true
 faq:

@@ -6,7 +6,7 @@ publishDate: 2026-01-27
 author: "Mehdi"
 image: "./27-best-tech-gifts-under-50.webp"
 imageAlt: "Collection of affordable tech gifts under 50 dollars on a clean background"
-tags: ["Tech & Gadgets", "Gift Guide", "Budget Tech", "Gift Ideas"]
+tags: ["Tech & Gadgets", "Gift Ideas"]
 draft: false
 isListicle: true
 faq:

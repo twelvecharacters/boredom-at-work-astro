@@ -6,7 +6,7 @@ publishDate: 2026-05-13
 author: "Mehdi"
 image: "./13-perplexity-travel-research.webp"
 imageAlt: "Perplexity AI travel research interface with sourced recommendations"
-tags: ["AI", "Travel", "Perplexity", "Research", "AI Travel"]
+tags: ["AI", "Travel", "Perplexity", "AI Travel"]
 draft: false
 faq:
   - question: "Is Perplexity good for travel planning?"

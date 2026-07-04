@@ -6,7 +6,7 @@ publishDate: 2026-03-13
 author: "Mehdi"
 image: "./13-chatgpt-malaysia-trip.webp"
 imageAlt: "Malaysia travel scene from a ChatGPT-planned trip itinerary"
-tags: ["AI", "Travel", "ChatGPT", "Malaysia", "AI Travel"]
+tags: ["AI", "Travel", "ChatGPT", "AI Travel"]
 draft: false
 faq:
   - question: "Can ChatGPT plan a good Malaysia trip?"

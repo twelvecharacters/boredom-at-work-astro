@@ -6,7 +6,7 @@ publishDate: 2026-02-15
 author: "Mehdi"
 image: "./15-ai-london-trip-chinatown.webp"
 imageAlt: "AI-planned London trip scene with Chinatown and city landmarks"
-tags: ["AI", "Travel", "London", "Gluten-Free", "Trip Planning"]
+tags: ["AI", "Travel"]
 draft: false
 faq:
   - question: "Can AI really plan a trip for someone with dietary restrictions?"

@@ -6,7 +6,7 @@ publishDate: 2026-03-01
 author: "Mehdi"
 image: "./01-photography-guide.webp"
 imageAlt: "Illustration showing photography fundamentals and camera gear for beginners"
-tags: ["Photography", "Cameras", "Beginners", "Guide", "Hub Page"]
+tags: ["Photography", "Cameras", "Beginners", "Tutorial", "Hub Page"]
 draft: false
 faq:
   - question: "What's the best camera for beginners in 2026?"

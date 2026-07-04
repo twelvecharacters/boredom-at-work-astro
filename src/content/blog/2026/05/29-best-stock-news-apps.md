@@ -6,7 +6,7 @@ publishDate: 2026-05-29
 author: "Mehdi"
 image: "./29-best-stock-news-apps.webp"
 imageAlt: "Collection of stock news app interfaces on a smartphone screen"
-tags: ["Investing", "Stock Market", "Finance Apps", "News Apps", "Market Research"]
+tags: ["Investing", "Finance"]
 draft: false
 isListicle: true
 faq:

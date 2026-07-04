@@ -6,7 +6,7 @@ publishDate: 2026-07-28
 author: "Mehdi"
 image: "./28-home-office-lighting-guide.webp"
 imageAlt: "Home office lighting setup with monitor light bar and desk lamp"
-tags: ["Home Office", "Office Setup", "Lighting", "Eye Strain", "Video Calls"]
+tags: ["Home Office", "Productivity"]
 draft: false
 faq:
   - question: "Is a monitor light bar worth it?"

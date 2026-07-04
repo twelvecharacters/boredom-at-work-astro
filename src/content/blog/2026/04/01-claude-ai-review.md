@@ -6,7 +6,7 @@ publishDate: 2026-04-01
 author: "Mehdi"
 image: "./01-claude-ai-review.webp"
 imageAlt: "Claude AI interface on a laptop in a modern workspace"
-tags: ["Claude", "AI", "Review", "Anthropic", "ChatGPT"]
+tags: ["Claude", "AI", "Review", "ChatGPT"]
 draft: false
 review:
   rating: 4.5

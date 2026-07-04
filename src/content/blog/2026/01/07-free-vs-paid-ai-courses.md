@@ -4,7 +4,7 @@ slug: "free-vs-paid-ai-courses"
 description: "Should you pay for AI courses or stick with free options? An honest comparison of free and paid AI learning paths to help you decide where to invest."
 publishDate: 2026-01-07
 author: "Mehdi"
-tags: ["AI Courses", "Learning", "Budget", "Technology"]
+tags: ["Learning", "Buying Guide", "Tech & Gadgets"]
 image: "./07-free-vs-paid.webp"
 imageAlt: "Illustration comparing free and paid AI course options side by side"
 draft: false

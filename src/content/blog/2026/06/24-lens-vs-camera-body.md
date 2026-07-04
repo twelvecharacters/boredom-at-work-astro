@@ -6,7 +6,7 @@ publishDate: 2026-06-24
 author: "Mehdi"
 image: "./24-lens-vs-camera-body.png"
 imageAlt: "A side-by-side comparison of a small entry-level camera with a large high-quality lens vs. a professional camera with a cheap kit lens"
-tags: ["Photography", "Buying Guide", "Lenses", "Camera Gear", "Tech Review"]
+tags: ["Photography", "Buying Guide", "Cameras", "Review"]
 draft: false
 faq:
   - question: "Should I buy a new camera body or a new lens first?"

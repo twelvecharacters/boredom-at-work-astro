@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./09-best-monitors-working-from-home.webp"
 imageAlt: "Collection of WFH monitors arranged on desks in a home office"
-tags: ["Office Setup", "Monitors", "Work From Home", "Productivity", "Guide"]
+tags: ["Home Office", "Monitors", "Productivity", "Tutorial"]
 draft: false
 isListicle: true
 faq:

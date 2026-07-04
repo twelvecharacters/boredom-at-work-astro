@@ -6,7 +6,7 @@ publishDate: 2026-02-24
 author: "Mehdi"
 image: "./24-3d-print-not-sticking-fixes.webp"
 imageAlt: "Step-by-step visual guide for fixing 3D print bed adhesion problems"
-tags: ["3D Printing", "Troubleshooting", "First Layer", "Bed Adhesion", "Tutorial"]
+tags: ["3D Printing", "Tutorial"]
 draft: false
 faq:
   - question: "Why does my first layer keep peeling up?"

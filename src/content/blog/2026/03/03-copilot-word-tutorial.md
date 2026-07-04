@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./03-copilot-word-tutorial.webp"
 imageAlt: "Microsoft Copilot in Word showing AI writing assistance features"
-tags: ["Copilot", "Microsoft", "Word", "AI", "Productivity"]
+tags: ["AI", "Productivity"]
 draft: false
 faq:
   - question: "Is Copilot in Word free?"

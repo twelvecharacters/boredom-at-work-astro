@@ -6,7 +6,7 @@ publishDate: 2026-07-15
 author: "Mehdi"
 image: "./15-skins-vs-cases.png"
 imageAlt: "Side by side comparison of a smartphone with a carbon fiber skin and another with a heavy-duty rugged case"
-tags: ["Tech", "Accessories", "Smartphones", "Review"]
+tags: ["Tech & Gadgets", "Smartphones", "Review"]
 draft: false
 faq:
   - question: "Do phone skins offer any drop protection?"

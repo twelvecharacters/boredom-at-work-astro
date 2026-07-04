@@ -6,7 +6,7 @@ publishDate: 2026-05-22
 author: "Mehdi"
 image: "./22-best-free-stock-screeners.webp"
 imageAlt: "Collection of free stock screener interfaces showing filter options"
-tags: ["Investing", "Stock Screeners", "Finance Tools", "Stock Market", "Beginners"]
+tags: ["Investing", "Finance", "Beginners"]
 draft: false
 isListicle: true
 faq:

@@ -6,7 +6,7 @@ publishDate: 2026-05-15
 author: "Mehdi"
 image: "./15-investing-tools-guide.webp"
 imageAlt: "Illustration showing investing tools organized by category for beginners"
-tags: ["Investing", "Finance Tools", "Personal Finance", "Beginners", "Hub Page"]
+tags: ["Investing", "Finance", "Beginners", "Hub Page"]
 draft: false
 isListicle: false
 faq:

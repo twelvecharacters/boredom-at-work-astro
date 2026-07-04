@@ -6,7 +6,7 @@ author: "Mehdi"
 image: "./07-best-kindle-for-students.webp"
 imageAlt: "Kindle e-reader on a desk next to textbooks, notebooks, and a coffee cup in a student study setup"
 slug: "best-kindle-for-students"
-tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Students", "Buying Guide"]
+tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Learning", "Buying Guide"]
 draft: false
 isListicle: true
 faq:

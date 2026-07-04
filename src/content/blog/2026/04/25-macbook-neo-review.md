@@ -5,7 +5,7 @@ publishDate: 2026-04-25
 author: "Mehdi"
 image: "./25-macbook-neo-review.webp"
 imageAlt: "A sleek Indigo MacBook Neo on a wooden desk with coffee and 3D printed accessories."
-tags: ["Apple", "MacBook Neo", "Tech Review", "Productivity", "A18 Pro", "macOS Tahoe"]
+tags: ["Apple", "Review", "Productivity"]
 slug: "macbook-neo-one-month-review"
 draft: false
 tldr: "The MacBook Neo is the most surprising Mac in years. Despite its iPhone-sourced A18 Pro chip and 8GB RAM, it handles 2026's agentic workflows with surprising grace, making it the perfect focused machine for developers and writers alike."

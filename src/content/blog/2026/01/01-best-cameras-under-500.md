@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./01-best-cameras-under-500.webp"
 imageAlt: "Collection of budget cameras under 500 dollars on a clean background"
-tags: ["Photography", "Cameras", "Budget", "Buying Guide"]
+tags: ["Photography", "Cameras", "Buying Guide"]
 draft: false
 isListicle: true
 tldr: "Canon EOS R100 (~$480) is the best all-rounder. Used buyers should grab a Nikon Z50 (~$450), its successor, the Z50 II (~$860), is excellent but above this budget. Both easily beat any smartphone."

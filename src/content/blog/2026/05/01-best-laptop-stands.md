@@ -6,7 +6,7 @@ publishDate: 2026-05-01
 author: "Mehdi"
 image: "./01-best-laptop-stands.webp"
 imageAlt: "Collection of laptop stands at different heights on a desk"
-tags: ["Office Setup", "Laptop Stands", "Work From Home", "Desk Accessories", "Buying Guide"]
+tags: ["Home Office", "Buying Guide"]
 draft: false
 isListicle: true
 faq:

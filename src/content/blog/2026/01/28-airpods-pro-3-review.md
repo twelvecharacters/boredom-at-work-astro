@@ -7,7 +7,7 @@ updatedDate: 2026-06-21
 author: "Mehdi"
 image: "./28-airpods-pro-3-review.webp"
 imageAlt: "AirPods Pro 3 in their charging case on a modern desk"
-tags: ["Tech & Gadgets", "AirPods", "Apple", "Earbuds", "Review"]
+tags: ["Tech & Gadgets", "Apple", "Review"]
 draft: false
 tldr: "Better ANC, longer battery (8h vs 6h), more water resistant, but $249 isn't a must-upgrade from Pro 2. Worth it if you're buying new or your old AirPods are dying."
 review:

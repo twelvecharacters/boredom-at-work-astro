@@ -6,7 +6,7 @@ publishDate: 2026-02-28
 author: "Mehdi"
 image: "./28-3d-printing-guide.webp"
 imageAlt: "Illustration showing 3D printing concepts from printer to finished objects"
-tags: ["3D Printing", "Beginners", "Guide", "Hub Page"]
+tags: ["3D Printing", "Beginners", "Tutorial", "Hub Page"]
 draft: false
 faq:
   - question: "Is 3D printing worth it for beginners in 2026?"

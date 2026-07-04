@@ -6,7 +6,7 @@ publishDate: 2026-02-12
 author: "Mehdi"
 image: "./12-rapidraw.webp"
 imageAlt: "RapidRAW photo editing interface showing RAW image processing"
-tags: ["Photography", "Open Source", "RAW Editing", "RapidRAW", "Rust", "GPU Acceleration"]
+tags: ["Photography", "Software", "Coding", "Hardware"]
 draft: false
 faq:
   - question: "Is RapidRAW completely free?"

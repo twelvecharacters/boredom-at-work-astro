@@ -6,7 +6,7 @@ publishDate: 2026-07-08
 author: "Mehdi"
 image: "./08-ai-social-media-danger-older-generation.png"
 imageAlt: "An older couple looking confused and slightly frustrated while staring at a glowing smartphone screen."
-tags: ["AI", "Social Media", "Society", "Cybersecurity", "Technology"]
+tags: ["AI", "Culture", "Privacy", "Tech & Gadgets"]
 draft: false
 tldr: "The rapid integration of AI into social media has created an environment where hyper-realistic deepfakes, emotionally manipulative algorithms, and AI-generated misinformation are weaponized. The older generation, lacking the innate digital literacy of digital natives, is uniquely vulnerable to these invisible threats, leading to financial scams, radicalization, and profound social isolation."
 faq:

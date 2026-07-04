@@ -6,7 +6,7 @@ publishDate: 2026-03-31
 author: "Mehdi"
 image: "./31-gemini-cli-guide.webp"
 imageAlt: "A terminal window showing the Gemini CLI interface with AI-powered code assistance."
-tags: ["AI", "Gemini", "CLI", "Developer Tools", "Productivity"]
+tags: ["AI", "Gemini", "Coding", "Productivity"]
 draft: false
 faq:
   - question: "What is Gemini CLI?"

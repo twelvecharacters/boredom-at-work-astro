@@ -6,7 +6,7 @@ publishDate: 2026-05-14
 author: "Mehdi"
 image: "./14-kindle-vs-ipad-reading.webp"
 imageAlt: "Side-by-side comparison of Kindle and iPad for reading books"
-tags: ["Kindle", "E-Reader", "iPad", "Comparison", "Reading"]
+tags: ["Kindle", "E-Reader", "Apple", "Comparison", "Books"]
 draft: false
 faq:
   - question: "Is an iPad good enough for reading books?"

@@ -6,7 +6,7 @@ publishDate: 2026-02-06
 author: "Mehdi"
 image: "./06-samsung-s26-rumors.webp"
 imageAlt: "Samsung Galaxy S26 concept render showing the leaked design"
-tags: ["Tech & Gadgets", "Samsung", "Galaxy S26", "Android", "Rumors"]
+tags: ["Tech & Gadgets", "Android"]
 draft: false
 faq:
   - question: "When is the Samsung Galaxy S26 release date?"

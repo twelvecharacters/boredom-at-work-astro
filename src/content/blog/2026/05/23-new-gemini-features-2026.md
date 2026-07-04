@@ -6,7 +6,7 @@ publishDate: 2026-05-23
 author: "Mehdi"
 image: "./23-new-gemini-features-2026.png"
 imageAlt: "A clean modern interface showcasing Google Gemini's multimodal and coding features"
-tags: ["AI", "Gemini", "Google", "Productivity", "Tech", "Software"]
+tags: ["AI", "Gemini", "Productivity", "Tech & Gadgets", "Software"]
 draft: false
 tldr: "Google Gemini's 2026 updates bring a massive 2 million token context window, custom 'Gems' assistants, deep Workspace sidebar integration, and live multimodal voice/video. Here is how to unlock these features to automate your workday."
 isListicle: true

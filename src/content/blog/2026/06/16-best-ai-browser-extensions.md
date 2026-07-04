@@ -4,7 +4,7 @@ slug: "best-ai-browser-extensions"
 description: "Stop tab-switching. These 5 AI browser extensions automate research, writing, and meeting summaries directly within your professional workflow."
 publishDate: 2026-06-16
 author: "Mehdi"
-tags: ["AI", "Productivity", "Browser Extensions", "Tech Tools", "Stealth Learning"]
+tags: ["AI", "Productivity", "Software", "Tech & Gadgets", "Learning"]
 draft: false
 image: "./16-best-ai-browser-extensions.png"
 imageAlt: "A web browser toolbar showing AI extension icons for writing, research, and meeting summaries"

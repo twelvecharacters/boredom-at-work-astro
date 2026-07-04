@@ -6,7 +6,7 @@ publishDate: 2026-03-11
 author: "Mehdi"
 image: "./11-claude-malaga-marbella-trip.webp"
 imageAlt: "Malaga and Marbella travel scene from a Claude AI-planned trip"
-tags: ["AI", "Travel", "Claude", "Trip Planning", "Spain", "AI Travel"]
+tags: ["AI", "Travel", "Claude", "AI Travel"]
 draft: false
 video:
   youtubeId: "wAfBMUGDPmg"

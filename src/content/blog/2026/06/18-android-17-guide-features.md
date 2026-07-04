@@ -6,7 +6,7 @@ publishDate: 2026-06-18
 author: "Mehdi"
 image: "./18-android-17-guide-features.jpg"
 imageAlt: "A futuristic smartphone interface displaying Android 17's new AI-powered features, including real-time translation and predictive suggestions."
-tags: ["Android", "Technology", "AI", "Technology"]
+tags: ["Android", "Tech & Gadgets", "AI"]
 draft: false
 isListicle: false
 tldr: "Android 17 represents the most significant shift in Google's mobile strategy, moving from an 'app-centric' to an 'AI-centric' experience. Officially released on June 16, 2026, it brings deeper Gemini integration, predictive system behaviors, and advanced satellite connectivity to the mainstream."

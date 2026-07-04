@@ -4,7 +4,7 @@ slug: "sensor-size-guide-mft-apsc-fullframe"
 description: "Choosing the right camera sensor size is the most important decision for your photography workflow. Compare Full Frame, APS-C, and MFT to find your perfect fit."
 publishDate: 2026-08-27
 author: "Mehdi"
-tags: ["Photography", "Camera Gear", "Tech Guide", "Photography Workflow"]
+tags: ["Photography", "Cameras", "Tech & Gadgets"]
 image: "./27-sensor-size-guide-mft-apsc-fullframe.png"
 imageAlt: "Three camera sensors of different sizes, full frame, APS-C, and Micro Four Thirds, shown side by side for comparison"
 draft: false

@@ -6,7 +6,7 @@ publishDate: 2025-12-28
 author: "Mehdi"
 image: "./28-photography-mistakes.webp"
 imageAlt: "Camera with common photography mistake examples on a light background"
-tags: ["Photography", "Beginners", "Tips", "Mistakes", "Tutorial"]
+tags: ["Photography", "Beginners", "Tutorial"]
 draft: false
 isListicle: true
 faq:

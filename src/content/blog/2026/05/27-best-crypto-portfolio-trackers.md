@@ -6,7 +6,7 @@ publishDate: 2026-05-27
 author: "Mehdi"
 image: "./27-best-crypto-portfolio-trackers.webp"
 imageAlt: "Collection of crypto portfolio tracker apps showing holdings dashboards"
-tags: ["Cryptocurrency", "Portfolio Tracking", "Finance Apps", "DeFi", "Crypto Tax"]
+tags: ["Cryptocurrency", "Investing", "Finance"]
 draft: false
 isListicle: true
 faq:

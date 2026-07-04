@@ -6,7 +6,7 @@ publishDate: 2026-06-13
 author: "Mehdi"
 image: "./13-siri-ai-apple-intelligence-guide.png"
 imageAlt: "An iPhone showing the Siri and Apple Intelligence interface with a glowing AI animation on screen"
-tags: ["AI", "Apple", "Siri", "iOS"]
+tags: ["AI", "Apple"]
 draft: false
 faq:
   - question: "What is Apple Intelligence?"

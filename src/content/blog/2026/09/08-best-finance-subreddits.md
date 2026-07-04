@@ -6,7 +6,7 @@ publishDate: 2026-09-08
 author: "Mehdi"
 image: "./08-best-finance-subreddits.webp"
 imageAlt: "Collection of finance subreddit community pages on a screen"
-tags: ["Investing", "Reddit", "Personal Finance", "Community", "Learning"]
+tags: ["Investing", "Culture", "Finance", "Learning"]
 draft: false
 isListicle: true
 faq:

@@ -4,7 +4,7 @@ slug: "prompt-engineering-afternoon"
 description: "Master prompt engineering in one afternoon. Core principles, advanced techniques, and templates for better results from ChatGPT and AI tools."
 publishDate: 2026-01-12
 author: "Mehdi"
-tags: ["Prompt Engineering", "ChatGPT", "AI Skills", "Tutorial"]
+tags: ["Prompt Engineering", "ChatGPT", "AI", "Tutorial"]
 image: "./12-prompt-engineering.webp"
 imageAlt: "Illustration showing prompt engineering concepts and AI chat interface"
 draft: false

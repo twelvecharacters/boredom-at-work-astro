@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./27-ai-tools-guide.webp"
 imageAlt: "Illustration showing AI productivity tools organized by work category"
-tags: ["AI", "Productivity", "Tools", "ChatGPT", "Claude", "Gemini", "Hub Page"]
+tags: ["AI", "Productivity", "ChatGPT", "Claude", "Gemini", "Hub Page"]
 draft: false
 video:
   youtubeId: "IoGF-x_prXQ"

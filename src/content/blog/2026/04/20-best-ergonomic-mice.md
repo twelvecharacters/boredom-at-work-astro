@@ -7,7 +7,7 @@ updatedDate: 2026-06-21
 author: "Mehdi"
 image: "./20-best-ergonomic-mice.webp"
 imageAlt: "Collection of ergonomic mice including vertical and trackball options"
-tags: ["Tech & Gadgets", "Ergonomics", "Office Setup", "Peripherals", "Home Office"]
+tags: ["Tech & Gadgets", "Ergonomics", "Home Office"]
 draft: false
 isListicle: true
 faq:

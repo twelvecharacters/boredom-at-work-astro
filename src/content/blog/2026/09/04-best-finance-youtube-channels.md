@@ -6,7 +6,7 @@ publishDate: 2026-09-04
 author: "Mehdi"
 image: "./04-best-finance-youtube-channels.webp"
 imageAlt: "Collection of finance YouTube channel thumbnails on a screen"
-tags: ["Investing", "Finance", "YouTube", "Learning", "Beginners Guide"]
+tags: ["Investing", "Finance", "Culture", "Learning", "Beginners"]
 draft: false
 isListicle: false
 faq:

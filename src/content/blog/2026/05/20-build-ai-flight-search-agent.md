@@ -6,7 +6,7 @@ publishDate: 2026-05-20
 author: "Mehdi"
 image: "./20-ai-flight-search-agent.webp"
 imageAlt: "Step-by-step visual guide for building an AI flight search agent"
-tags: ["AI", "Travel", "Agents", "Automation", "Tutorial", "AI Travel"]
+tags: ["AI", "Travel", "Automation", "Tutorial", "AI Travel"]
 draft: false
 howTo:
   totalTime: "PT30M"

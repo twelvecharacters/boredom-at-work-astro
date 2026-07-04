@@ -6,7 +6,7 @@ publishDate: 2026-02-19
 author: "Mehdi"
 image: "./19-pla-vs-petg-vs-abs.webp"
 imageAlt: "Side-by-side comparison of PLA, PETG, and ABS 3D printing filaments"
-tags: ["3D Printing", "Filament", "PLA", "PETG", "Comparison"]
+tags: ["3D Printing", "Comparison"]
 draft: false
 faq:
   - question: "Which filament is best for beginners?"

@@ -6,7 +6,7 @@ publishDate: 2026-06-22
 author: "Mehdi"
 image: "./22-bambu-lab-a2l-review.png"
 imageAlt: "The Bambu Lab A2L 3D printer showing its large 330mm build plate."
-tags: ["3D Printing", "Bambu Lab", "Review", "Hardware", "Large Format"]
+tags: ["3D Printing", "Bambu Lab", "Review", "Hardware"]
 draft: false
 tldr: "The Bambu Lab A2L is a large-format bed-slinger with a 330 x 320 x 325 mm build volume, starting at $469 ($569 with an AMS Lite for multicolor). It targets makers who print big — helmets, cosplay props, and large functional parts — using a closed-loop servo extruder and adaptive vibration compensation to keep quality high on a heavy bed. It's open-frame, so it's best for PLA and PETG, not ABS or nylon."
 faq:

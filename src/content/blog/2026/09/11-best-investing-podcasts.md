@@ -6,7 +6,7 @@ publishDate: 2026-09-11
 author: "Mehdi"
 image: "./11-best-investing-podcasts.webp"
 imageAlt: "Collection of investing podcast cover art arranged on a clean background"
-tags: ["Investing", "Podcasts", "Personal Finance", "Learning", "Finance"]
+tags: ["Investing", "Podcasts", "Finance", "Learning"]
 draft: false
 isListicle: true
 faq:

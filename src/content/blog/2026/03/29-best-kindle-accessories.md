@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./29-best-kindle-accessories.webp"
 imageAlt: "Collection of Kindle accessories including cases, stands, and chargers"
-tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Accessories", "Amazon"]
+tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Amazon"]
 draft: false
 faq:
   - question: "Do I really need a case for my Kindle?"

@@ -4,7 +4,7 @@ slug: "ai-threat-to-jobs"
 description: "Is artificial intelligence coming for your job? We explore the real threats, the overblown myths, and how to adapt in an AI-driven economy."
 publishDate: 2026-07-01
 author: "bored chap"
-tags: ["Artificial Intelligence", "Career", "Future of Work", "Technology"]
+tags: ["AI", "Career", "Tech & Gadgets"]
 draft: false
 image: "./01-ai-threat-to-jobs.png"
 imageAlt: "A futuristic cityscape with robots and humans coexisting, symbolizing the integration of AI in the workplace."

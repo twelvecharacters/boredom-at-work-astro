@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./28-chatgpt-guide.webp"
 imageAlt: "Illustration showing advanced ChatGPT features and workflows"
-tags: ["ChatGPT", "AI", "Productivity", "OpenAI", "Hub Page"]
+tags: ["ChatGPT", "AI", "Productivity", "Hub Page"]
 draft: false
 video:
   youtubeId: "0YHgavdF_3E"

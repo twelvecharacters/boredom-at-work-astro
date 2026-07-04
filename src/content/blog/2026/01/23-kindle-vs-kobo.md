@@ -7,7 +7,7 @@ updatedDate: 2026-05-17
 author: "Mehdi"
 image: "./23-kindle-vs-kobo.webp"
 imageAlt: "Side-by-side comparison of Kindle and Kobo e-readers"
-tags: ["Tech & Gadgets", "Kindle", "Kobo", "E-Reader", "Comparison"]
+tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Comparison"]
 draft: false
 review:
   rating: 4

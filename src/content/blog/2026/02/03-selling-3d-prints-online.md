@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./03-selling-3d-prints-online.webp"
 imageAlt: "Step-by-step visual guide for selling 3D prints on online marketplaces"
-tags: ["3D Printing", "Side Hustle", "Business", "Etsy", "Selling"]
+tags: ["3D Printing", "Business"]
 draft: false
 howTo:
   steps:

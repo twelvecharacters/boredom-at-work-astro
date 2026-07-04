@@ -6,7 +6,7 @@ publishDate: 2026-06-23
 author: "Mehdi"
 image: "./23-secretlab-vs-herman-miller.webp"
 imageAlt: "Side-by-side comparison of Secretlab Titan Evo and Herman Miller Aeron chairs"
-tags: ["Office Chairs", "Work From Home", "Ergonomics", "Office Setup"]
+tags: ["Home Office", "Ergonomics"]
 draft: false
 faq:
   - question: "Is the Herman Miller Aeron worth 3x the price of a Secretlab?"

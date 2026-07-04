@@ -6,7 +6,7 @@ publishDate: 2026-06-03
 author: "Mehdi"
 image: "./03-prediction-markets-guide.webp"
 imageAlt: "Illustration showing how prediction markets and event contracts work"
-tags: ["Prediction Markets", "Investing", "Finance", "Kalshi", "Polymarket"]
+tags: ["Prediction Markets", "Investing", "Finance"]
 draft: false
 isListicle: false
 faq:

@@ -6,7 +6,7 @@ publishDate: 2026-06-27
 author: "Mehdi"
 image: "./27-ultrawide-vs-dual-monitors.webp"
 imageAlt: "Side-by-side comparison of ultrawide and dual monitor desk setups"
-tags: ["Office Setup", "Monitors", "Work From Home", "Productivity"]
+tags: ["Home Office", "Monitors", "Productivity"]
 draft: false
 faq:
   - question: "Is an ultrawide monitor better than dual monitors for productivity?"

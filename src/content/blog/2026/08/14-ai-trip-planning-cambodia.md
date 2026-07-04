@@ -6,7 +6,7 @@ publishDate: 2026-08-14
 author: "Mehdi"
 image: "./14-ai-trip-planning-cambodia.webp"
 imageAlt: "Cambodia travel scene with Angkor Wat and AI trip planning elements"
-tags: ["AI", "Travel", "Cambodia", "Asia", "AI Travel"]
+tags: ["AI", "Travel", "AI Travel"]
 draft: false
 faq:
   - question: "How many days do you need for Angkor Wat?"

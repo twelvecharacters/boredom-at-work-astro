@@ -6,7 +6,7 @@ publishDate: 2026-05-11
 author: "Mehdi"
 image: "./11-gemini-travel-planning.webp"
 imageAlt: "Google Gemini travel planning interface with real-time search results"
-tags: ["AI", "Travel", "Gemini", "Google", "AI Travel"]
+tags: ["AI", "Travel", "Gemini", "AI Travel"]
 draft: false
 faq:
   - question: "Is Google Gemini good for travel planning?"

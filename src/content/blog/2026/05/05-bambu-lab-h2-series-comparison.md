@@ -5,7 +5,7 @@ publishDate: 2026-05-05
 author: "Mehdi"
 image: "./05-bambu-lab-h2-series-comparison.png"
 imageAlt: "A lineup of Bambu Lab H2 Series 3D printers."
-tags: ["3D Printing", "Bambu Lab", "H2S", "H2D", "H2C", "X2D", "Vortek", "Tech Review"]
+tags: ["3D Printing", "Bambu Lab", "Review"]
 slug: "bambu-lab-h2-series-revisited-2026"
 draft: false
 isListicle: true

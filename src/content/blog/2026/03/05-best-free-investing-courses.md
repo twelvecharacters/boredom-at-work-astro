@@ -6,7 +6,7 @@ publishDate: 2026-03-05
 author: "Mehdi"
 image: "./05-best-free-investing-courses.webp"
 imageAlt: "Collection of free investing course platforms on a laptop screen"
-tags: ["Investing", "Free Courses", "Finance", "Learning", "Beginners"]
+tags: ["Investing", "Learning", "Finance", "Beginners"]
 draft: false
 isListicle: true
 faq:

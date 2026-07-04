@@ -6,7 +6,7 @@ publishDate: 2026-06-21
 author: "Mehdi"
 image: "./21-best-functional-3d-prints.webp"
 imageAlt: "Collection of functional 3D printed objects for desk and home use"
-tags: ["3D Printing", "Home Office", "Desk Accessories", "Productivity", "Projects"]
+tags: ["3D Printing", "Home Office", "Productivity", "DIY"]
 draft: false
 isListicle: true
 faq:

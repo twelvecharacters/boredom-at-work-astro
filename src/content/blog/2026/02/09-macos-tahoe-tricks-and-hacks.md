@@ -6,7 +6,7 @@ publishDate: 2026-02-09
 author: "Mehdi"
 image: "./09-macos-tahoe.webp"
 imageAlt: "macOS Tahoe desktop showing Liquid Glass interface and hidden features"
-tags: ["Tech & Gadgets", "macOS", "Apple", "Tahoe", "Productivity"]
+tags: ["Tech & Gadgets", "Apple", "Productivity"]
 draft: false
 isListicle: true
 faq:

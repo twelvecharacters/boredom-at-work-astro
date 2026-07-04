@@ -6,7 +6,7 @@ publishDate: 2026-08-24
 author: "Mehdi"
 image: "./24-japan-vietnam-cambodia-comparison.webp"
 imageAlt: "Side-by-side comparison of Japan, Vietnam, and Cambodia travel destinations"
-tags: ["AI", "Travel", "Japan", "Vietnam", "Cambodia", "Asia", "AI Travel"]
+tags: ["AI", "Travel", "Japan Shopping", "AI Travel"]
 draft: false
 faq:
   - question: "Which is cheapest: Japan, Vietnam, or Cambodia?"

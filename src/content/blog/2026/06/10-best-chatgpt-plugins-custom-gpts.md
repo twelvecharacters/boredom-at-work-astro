@@ -6,7 +6,7 @@ publishDate: 2026-06-10
 author: "Mehdi"
 image: "./10-best-chatgpt-plugins-custom-gpts.webp"
 imageAlt: "ChatGPT interface showing a Custom GPT store with productivity, research, and coding tools"
-tags: ["AI", "ChatGPT", "Custom GPTs", "Productivity", "Tools"]
+tags: ["AI", "ChatGPT", "Productivity"]
 draft: false
 faq:
   - question: "Are ChatGPT Plugins still available in 2026?"

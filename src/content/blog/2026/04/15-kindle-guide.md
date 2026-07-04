@@ -7,7 +7,7 @@ updatedDate: 2026-06-17
 author: "Mehdi"
 image: "./15-kindle-guide.webp"
 imageAlt: "Kindle e-reader on a desk with a book and a cup of coffee"
-tags: ["Kindle", "E-Reader", "Reading", "Guide", "Hub Page"]
+tags: ["Kindle", "E-Reader", "Books", "Tutorial", "Hub Page"]
 draft: false
 faq:
   - question: "Is a Kindle worth buying in 2026?"

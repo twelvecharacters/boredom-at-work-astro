@@ -4,7 +4,7 @@ slug: "how-gemini-changed-my-coding-flow"
 description: "Stop wasting time copy-pasting code into browser windows. Discover how a CLI-based AI agent transformed my development speed and reclaimed my work-life balance."
 publishDate: 2026-04-05
 author: "Mehdi"
-tags: ["AI Tools", "Coding Productivity", "Gemini", "Workflow"]
+tags: ["AI Tools", "Coding", "Gemini", "Productivity"]
 image: "./05-gemini-coding-flow.webp"
 imageAlt: "A clean terminal window showing an AI agent executing shell commands and editing code."
 tldr: "Switching from web-based AI chats to a CLI agent reduced my context switching by 80%. By giving the AI direct access to my file system and terminal, I stopped being a 'copy-paste monkey' and started being a technical architect."

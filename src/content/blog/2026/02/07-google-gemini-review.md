@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./07-google-gemini-review.webp"
 imageAlt: "Google Gemini AI interface on a laptop in a modern workspace"
-tags: ["AI", "Google Gemini", "Productivity", "Review"]
+tags: ["AI", "Gemini", "Productivity", "Review"]
 draft: false
 review:
   rating: 4

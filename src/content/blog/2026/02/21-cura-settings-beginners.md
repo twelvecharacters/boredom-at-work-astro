@@ -6,7 +6,7 @@ publishDate: 2026-02-21
 author: "Mehdi"
 image: "./21-cura-settings-beginners.webp"
 imageAlt: "Step-by-step visual guide for essential Cura slicer settings"
-tags: ["3D Printing", "Cura", "Slicer", "Tutorial", "Settings"]
+tags: ["3D Printing", "Tutorial"]
 draft: false
 howTo:
   totalTime: "PT20M"

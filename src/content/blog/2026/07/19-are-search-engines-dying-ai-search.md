@@ -7,7 +7,7 @@ updatedDate: 2026-07-19
 author: "Mehdi"
 image: "./19-are-search-engines-dying.png"
 imageAlt: "A glowing magnifying glass dissolving into digital data particles, representing the transition from traditional search to AI"
-tags: ["AI", "Search", "Technology", "Future", "Google"]
+tags: ["AI", "Tech & Gadgets"]
 draft: false
 isListicle: false
 tldr: "Traditional search engines are not completely dead, but their role is rapidly shrinking. Conversational AI tools like Perplexity and ChatGPT have transitioned us from 'searching for links' to 'receiving synthesized answers.' While Google is adapting with AI overviews, the open web and traditional SEO face an existential crisis."

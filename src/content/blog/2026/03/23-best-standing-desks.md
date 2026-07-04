@@ -6,7 +6,7 @@ publishDate: 2026-03-23
 author: "Mehdi"
 image: "./23-best-standing-desks.webp"
 imageAlt: "Collection of standing desks at different heights in a home office"
-tags: ["Office Setup", "Standing Desks", "Work From Home", "Productivity", "Buying Guide"]
+tags: ["Home Office", "Standing Desks", "Productivity", "Buying Guide"]
 draft: false
 faq:
   - question: "Are standing desks actually worth it?"

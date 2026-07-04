@@ -6,7 +6,7 @@ publishDate: 2026-03-22
 author: "Mehdi"
 image: "./22-sesame-robot.webp"
 imageAlt: "Sesame Robot 3D printed quadruped with OLED eyes on a desk"
-tags: ["3D Printing", "Robotics", "DIY", "ESP32", "Open Source"]
+tags: ["3D Printing", "DIY", "Software"]
 draft: false
 faq:
   - question: "How much does it cost to build a Sesame Robot?"

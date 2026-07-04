@@ -6,7 +6,7 @@ publishDate: 2026-05-04
 author: "Mehdi"
 image: "./04-ai-packing-list.webp"
 imageAlt: "AI-generated packing list with travel checklist items on a screen"
-tags: ["AI", "Travel", "Packing", "Productivity", "AI Travel"]
+tags: ["AI", "Travel", "Productivity", "AI Travel"]
 draft: false
 faq:
   - question: "Can AI create a good packing list?"

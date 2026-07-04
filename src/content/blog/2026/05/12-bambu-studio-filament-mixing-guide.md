@@ -5,7 +5,7 @@ publishDate: 2026-05-12
 author: "Mehdi"
 image: "./12-bambu-studio-filament-mixing.png"
 imageAlt: "A 3D printed object showing smooth color gradients created using Bambu Studio's mixing feature."
-tags: ["3D Printing", "Bambu Lab", "Bambu Studio", "Filament Mixing", "FullSpectrum", "Tutorial", "H2C", "X2D"]
+tags: ["3D Printing", "Bambu Lab", "Tutorial"]
 slug: "bambu-studio-filament-mixing-guide"
 draft: false
 tldr: "Bambu Studio 2.6.0 introduces an experimental 'Mixed Filament' feature that uses optical layer alternation to create the illusion of thousands of colors. While it's heavy on purge waste for single-nozzle machines, it shines on the new H2C and X2D hardware."

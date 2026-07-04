@@ -4,7 +4,7 @@ slug: "ai-powered-smart-appliances-guide"
 description: "AI-powered smart appliances are transforming home management. From meal-planning fridges to precision ovens, see the future of the AI kitchen."
 publishDate: 2026-05-31
 author: "Mehdi"
-tags: ["Smart Home", "AI", "Tech Trends", "Home Automation", "Productivity"]
+tags: ["Smart Home", "AI", "Tech & Gadgets", "Productivity"]
 image: "./31-ai-powered-smart-appliances-guide.png"
 imageAlt: "A modern AI-powered smart kitchen with a connected refrigerator and precision oven displaying meal-planning data on glowing screens"
 draft: false

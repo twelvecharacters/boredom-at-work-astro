@@ -6,7 +6,7 @@ publishDate: 2026-05-25
 author: "Mehdi"
 image: "./25-ai-southeast-asia-trip-2026.webp"
 imageAlt: "Southeast Asia travel map with AI planning tools and destinations"
-tags: ["AI", "Travel", "Japan", "Vietnam", "Cambodia", "Case Study", "AI Travel"]
+tags: ["AI", "Travel", "Japan Shopping", "AI Travel"]
 draft: false
 faq:
   - question: "Can AI help choose between multiple destinations?"

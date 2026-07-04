@@ -6,7 +6,7 @@ publishDate: 2026-02-12
 author: "Mehdi"
 image: "./12-10-things-to-3d-print-first.webp"
 imageAlt: "Ten functional 3D printed desk accessories arranged on a clean surface"
-tags: ["3D Printing", "Beginner", "Productivity", "Desk Setup", "Organization"]
+tags: ["3D Printing", "Beginners", "Productivity", "Home Office"]
 draft: false
 isListicle: true
 faq:

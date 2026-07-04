@@ -5,7 +5,7 @@ description: "I took every major Coursera AI course and ranked them. Google AI E
 publishDate: 2025-12-30
 updatedDate: 2026-06-21
 author: "Mehdi"
-tags: ["Coursera", "AI Courses", "Online Learning", "Technology"]
+tags: ["Learning", "Tech & Gadgets"]
 image: "./30-coursera-courses.webp"
 imageAlt: "Coursera AI course logos from Google, Stanford, and IBM on a minimal background"
 draft: false

@@ -6,7 +6,7 @@ publishDate: 2026-05-09
 author: "Mehdi"
 image: "./09-ai-planned-istanbul-solo-trip.webp"
 imageAlt: "Interior view of the Blue Mosque (Sultan Ahmed Camii) in Istanbul with its iconic blue Iznik tiles and central dome"
-tags: ["AI Travel", "Istanbul", "Solo Travel", "ChatGPT", "Travel"]
+tags: ["AI Travel", "Travel", "ChatGPT"]
 draft: false
 faq:
   - question: "Is Istanbul safe for solo travel?"

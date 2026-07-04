@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./29-3d-printers-under-300.webp"
 imageAlt: "Collection of budget 3D printers under 300 dollars arranged on a clean background"
-tags: ["3D Printing", "Buying Guide", "3D Printers", "Comparison", "Budget"]
+tags: ["3D Printing", "Buying Guide", "Comparison"]
 draft: false
 isListicle: true
 faq:

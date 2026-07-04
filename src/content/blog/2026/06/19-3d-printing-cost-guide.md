@@ -6,7 +6,7 @@ publishDate: 2026-06-19
 author: "Mehdi"
 image: "./19-3d-printing-cost-guide.webp"
 imageAlt: "Illustration showing 3D printing cost breakdown with printer and filament"
-tags: ["3D Printing", "Buying Guide", "Beginners", "Budget"]
+tags: ["3D Printing", "Buying Guide", "Beginners"]
 draft: false
 faq:
   - question: "How much does it cost to 3D print something?"

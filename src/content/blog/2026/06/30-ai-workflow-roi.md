@@ -6,7 +6,7 @@ publishDate: 2026-06-30
 author: "Mehdi"
 image: "./30-ai-workflow-roi.png"
 imageAlt: "A conceptual illustration of a balance scale with a robot arm on one side and a stack of coins/clocks on the other"
-tags: ["AI", "Productivity", "Workflow", "ROI", "Business"]
+tags: ["AI", "Productivity", "Business"]
 draft: false
 tldr: "AI ROI in 2026 is no longer about novelty; it's about rigorous cost-benefit analysis. While direct costs like subscriptions and hardware are easy to track, the true value lies in task compression and cognitive offloading—offset by the hidden costs of verification and 'prompt fatigue'. To stay profitable, you must avoid the efficiency trap where AI merely generates more low-value work."
 faq:

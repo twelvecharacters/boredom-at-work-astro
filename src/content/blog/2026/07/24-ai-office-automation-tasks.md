@@ -6,7 +6,7 @@ publishDate: 2026-07-24
 author: "Mehdi"
 image: "./24-ai-office-automation-tasks.webp"
 imageAlt: "Illustration showing repetitive office tasks being automated with AI"
-tags: ["AI Tools", "Productivity", "Office Automation", "ChatGPT", "Work Smarter", "Career Development"]
+tags: ["AI Tools", "Productivity", "Automation", "ChatGPT", "Career"]
 draft: false
 isListicle: true
 faq:

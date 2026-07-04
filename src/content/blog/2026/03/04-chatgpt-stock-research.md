@@ -6,7 +6,7 @@ publishDate: 2026-03-04
 author: "Mehdi"
 image: "./04-chatgpt-stock-research.webp"
 imageAlt: "ChatGPT interface showing stock research prompts and analysis"
-tags: ["ChatGPT", "Investing", "Stock Market", "AI", "Finance Tools"]
+tags: ["ChatGPT", "Investing", "AI", "Finance"]
 draft: false
 isListicle: false
 faq:

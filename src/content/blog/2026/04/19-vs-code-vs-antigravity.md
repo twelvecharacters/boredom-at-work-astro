@@ -6,7 +6,7 @@ publishDate: 2026-04-19
 author: "Mehdi"
 image: "./19-vs-code-vs-antigravity.png"
 imageAlt: "A side-by-side comparison of the VS Code interface and the Antigravity agentic workspace"
-tags: ["AI", "Coding", "VS Code", "Antigravity", "Agentic AI", "Software Development"]
+tags: ["AI", "Coding"]
 draft: false
 faq:
   - question: "What is an 'Agentic' coding environment?"

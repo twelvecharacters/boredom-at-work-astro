@@ -6,7 +6,7 @@ publishDate: 2026-06-05
 author: "Mehdi"
 image: "./05-ai-trip-planning-vietnam.webp"
 imageAlt: "Vietnam travel scene with lanterns and landscapes from an AI-planned trip"
-tags: ["AI", "Travel", "Vietnam", "Asia", "AI Travel"]
+tags: ["AI", "Travel", "AI Travel"]
 draft: false
 faq:
   - question: "How many days do you need in Vietnam?"

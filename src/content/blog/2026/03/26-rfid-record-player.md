@@ -6,7 +6,7 @@ publishDate: 2026-03-26
 author: "Mehdi"
 image: "./26-rfid-record-player.webp"
 imageAlt: "RFID record player project with Raspberry Pi and NFC vinyl cards"
-tags: ["3D Printing", "Raspberry Pi", "DIY", "Spotify", "Open Source"]
+tags: ["3D Printing", "DIY", "Software"]
 draft: false
 faq:
   - question: "Do I need a Spotify Premium account for this project?"

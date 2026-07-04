@@ -6,7 +6,7 @@ publishDate: 2026-02-10
 author: "Mehdi"
 image: "./10-chatgpt-for-excel.webp"
 imageAlt: "ChatGPT generating Excel formulas on a laptop next to a spreadsheet"
-tags: ["AI", "ChatGPT", "Excel", "Productivity"]
+tags: ["AI", "ChatGPT", "Productivity"]
 draft: false
 tldr: "ChatGPT can write Excel formulas, explain complex functions, analyze data, and even create VBA macros. Upload your spreadsheet to ChatGPT or describe what you need. Works best for formula help, data cleaning, and learning, not for live Excel integration (use Copilot for that)."
 faq:

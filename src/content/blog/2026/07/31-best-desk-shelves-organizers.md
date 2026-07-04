@@ -6,7 +6,7 @@ publishDate: 2026-07-31
 author: "Mehdi"
 image: "./31-best-desk-shelves-organizers.webp"
 imageAlt: "Collection of desk shelves and organizers in a clean home office"
-tags: ["Home Office", "Office Setup", "Desk Accessories", "Organization", "Buying Guide"]
+tags: ["Home Office", "Buying Guide"]
 draft: false
 isListicle: true
 faq:

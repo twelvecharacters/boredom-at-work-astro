@@ -6,7 +6,7 @@ publishDate: 2026-05-10
 author: "Mehdi"
 image: "./10-justway-review.webp"
 imageAlt: "3D-printed PLA parts arranged on a wooden desk next to a digital caliper, technical drawing with print specs, and a desktop FDM 3D printer"
-tags: ["3D Printing", "Manufacturing", "Review", "CNC", "Sponsored"]
+tags: ["3D Printing", "Business", "Review", "DIY"]
 draft: false
 faq:
   - question: "Is Justway legit?"

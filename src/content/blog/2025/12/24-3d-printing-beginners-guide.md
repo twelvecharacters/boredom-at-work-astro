@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./24-3d-printing-beginners.webp"
 imageAlt: "Beginner-friendly 3D printer on a desk with a freshly printed object"
-tags: ["3D Printing", "Beginners", "Guide", "FDM", "Tutorial"]
+tags: ["3D Printing", "Beginners", "Tutorial"]
 draft: false
 faq:
   - question: "How much does a good beginner 3D printer cost?"

@@ -6,7 +6,7 @@ publishDate: 2026-03-06
 author: "Mehdi"
 image: "./06-ai-email-writing.webp"
 imageAlt: "Illustration showing AI email writing tools and prompt templates"
-tags: ["AI", "Email", "Productivity", "Writing", "ChatGPT"]
+tags: ["AI", "Writing", "Productivity", "ChatGPT"]
 draft: false
 faq:
   - question: "Is it okay to use AI to write emails?"

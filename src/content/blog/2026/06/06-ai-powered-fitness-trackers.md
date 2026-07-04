@@ -4,7 +4,7 @@ slug: "ai-powered-fitness-trackers"
 description: "Discover how AI-driven fitness trackers in 2026 revolutionize personal health with predictive insights, personalized coaching, and deep biometric analysis."
 publishDate: 2026-06-06
 author: "Mehdi"
-tags: ["AI", "Fitness", "Health", "Wearables"]
+tags: ["AI", "Health", "Tech & Gadgets"]
 image: "./06-ai-powered-fitness-trackers.png"
 imageAlt: "A smartwatch fitness tracker on a wrist displaying AI-driven health metrics and heart rate data"
 draft: false

@@ -6,7 +6,7 @@ publishDate: 2026-04-23
 author: "Mehdi"
 image: "./23-3d-printed-coffee-accessories.png"
 imageAlt: "A high-end coffee station featuring 3D-printed WDT tools, puck screen holders, and bean cellars."
-tags: ["3D Printing", "Coffee", "Espresso", "Organization", "Gridfinity", "MakerWorld"]
+tags: ["3D Printing", "Home Office"]
 draft: false
 tldr: "3D printing is the perfect companion for the home barista. You can create high-end accessories like WDT tools, bean cellars, and portafilter stands for a fraction of the retail cost while achieving a custom, aesthetic look."
 howTo:

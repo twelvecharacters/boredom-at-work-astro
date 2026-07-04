@@ -6,7 +6,7 @@ publishDate: 2026-01-09
 author: "Mehdi"
 image: "./09-is-3d-printing-worth-it.webp"
 imageAlt: "3D printer with cost breakdown elements on a modern desk"
-tags: ["3D Printing", "Buying Guide", "Costs", "Beginners"]
+tags: ["3D Printing", "Buying Guide", "Beginners"]
 draft: false
 faq:
   - question: "How much do I need to spend on a good beginner 3D printer?"

@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./11-microsoft-copilot-review.webp"
 imageAlt: "Microsoft Copilot interface in a Word document on a laptop screen"
-tags: ["AI", "Microsoft", "Copilot", "Productivity", "Review"]
+tags: ["AI", "Productivity", "Review"]
 draft: false
 review:
   rating: 3.5

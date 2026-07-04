@@ -6,7 +6,7 @@ publishDate: 2026-07-16
 author: "Mehdi"
 image: "./16-why-boredom-is-good-for-you.png"
 imageAlt: "A person relaxing by a window doing nothing, staring thoughtfully into the distance in a calm, quiet room"
-tags: ["Mental Health", "Productivity", "Creativity", "Wellness"]
+tags: ["Health", "Productivity", "Lifestyle"]
 draft: false
 faq:
   - question: "Why is boredom good for your brain?"

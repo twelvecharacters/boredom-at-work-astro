@@ -5,7 +5,7 @@ description: "Get AI certified this weekend. Google, Microsoft, and IBM certific
 publishDate: 2025-12-25
 updatedDate: 2026-04-05
 author: "Mehdi"
-tags: ["AI Certification", "Career Development", "Quick Learning", "Technology"]
+tags: ["Learning", "Career", "Tech & Gadgets"]
 image: "./25-ai-certifications.webp"
 imageAlt: "Collection of AI certification badges from Google, Microsoft, and IBM"
 draft: false

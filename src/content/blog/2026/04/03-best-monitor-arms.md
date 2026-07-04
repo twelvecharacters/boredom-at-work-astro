@@ -6,7 +6,7 @@ publishDate: 2026-04-03
 author: "Mehdi"
 image: "./03-best-monitor-arms.webp"
 imageAlt: "Collection of monitor arms mounted on desks in a home office"
-tags: ["Office Setup", "Monitor Arms", "Work From Home", "Desk Accessories", "Buying Guide"]
+tags: ["Home Office", "Buying Guide"]
 draft: false
 faq:
   - question: "Are monitor arms worth it?"

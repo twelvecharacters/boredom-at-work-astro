@@ -6,7 +6,7 @@ publishDate: 2026-07-14
 author: "Mehdi"
 image: "./14-ai-earnings-call-analysis.webp"
 imageAlt: "Step-by-step visual guide for analyzing earnings calls with AI tools"
-tags: ["AI Tools", "Investing", "Earnings Calls", "ChatGPT", "Finance"]
+tags: ["AI Tools", "Investing", "ChatGPT", "Finance"]
 draft: false
 faq:
   - question: "Where can I find free earnings call transcripts?"

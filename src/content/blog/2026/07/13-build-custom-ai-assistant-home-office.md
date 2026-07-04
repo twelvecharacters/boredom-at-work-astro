@@ -6,7 +6,7 @@ publishDate: 2026-07-13
 author: "Mehdi"
 image: "./13-build-custom-ai-assistant-home-office.png"
 imageAlt: "A modern home office setup featuring a custom AI assistant on a smart display"
-tags: ["AI", "Home Office", "Custom GPTs", "Automation", "Productivity"]
+tags: ["AI", "Home Office", "ChatGPT", "Automation", "Productivity"]
 draft: false
 faq:
   - question: "Do I need to know how to code to build a custom AI assistant?"

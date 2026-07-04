@@ -6,7 +6,7 @@ publishDate: 2026-01-19
 author: "Mehdi"
 image: "./19-japanese-products-import.webp"
 imageAlt: "Collection of Japanese products including stationery, snacks, and electronics"
-tags: ["Japan Shopping", "Import Guide", "Japanese Products", "Gift Ideas"]
+tags: ["Japan Shopping", "Gift Ideas"]
 draft: false
 isListicle: true
 faq:

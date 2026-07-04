@@ -6,7 +6,7 @@ publishDate: 2026-02-28
 author: "Mehdi"
 image: "./28-ai-travel-planning.webp"
 imageAlt: "Illustration showing AI travel planning with map and itinerary elements"
-tags: ["AI", "Travel", "ChatGPT", "Trip Planning", "Hub Page"]
+tags: ["AI", "Travel", "ChatGPT", "Hub Page"]
 draft: false
 faq:
   - question: "Can AI really plan a good trip?"

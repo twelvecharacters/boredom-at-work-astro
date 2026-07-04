@@ -6,7 +6,7 @@ publishDate: 2026-05-24
 author: "Mehdi"
 image: "./24-how-to-improve-sports-lifestyle-with-ai.png"
 imageAlt: "Futuristic runner with holographic performance data overlays"
-tags: ["AI", "Sports", "Lifestyle", "Productivity", "Biohacking", "Health"]
+tags: ["AI", "Health", "Lifestyle", "Productivity"]
 draft: false
 isListicle: false
 tldr: "AI is no longer just for elite athletes. By leveraging computer vision for workouts, predictive modeling for sleep, and LLMs for nutritional guidance, anyone can optimize their physical and mental performance. The key is building a 'data-driven feedback loop' that informs rather than dictates your habits."

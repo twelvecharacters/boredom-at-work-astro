@@ -7,7 +7,7 @@ updatedDate: 2026-06-17
 author: "Mehdi"
 image: "./18-kindle-modding-guide.webp"
 imageAlt: "Step-by-step visual guide for Kindle jailbreak and KOReader setup"
-tags: ["Tech & Gadgets", "Kindle", "Modding", "Jailbreak", "E-Reader"]
+tags: ["Tech & Gadgets", "Kindle", "E-Reader"]
 draft: false
 howTo:
   totalTime: "PT60M"

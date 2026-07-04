@@ -6,7 +6,7 @@ publishDate: 2026-06-29
 author: "Mehdi"
 image: "./29-ai-3d-printing-tools.png"
 imageAlt: "Digital illustration showing an AI-powered 3D printer with glowing neural network overlays"
-tags: ["3D Printing", "AI", "Technology", "Guide", "Productivity"]
+tags: ["3D Printing", "AI", "Tech & Gadgets", "Tutorial", "Productivity"]
 draft: false
 faq:
   - question: "Can AI actually design 3D models for me?"

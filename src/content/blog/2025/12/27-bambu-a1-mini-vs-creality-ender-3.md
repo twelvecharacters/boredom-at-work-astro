@@ -6,7 +6,7 @@ publishDate: 2025-12-27
 author: "Mehdi"
 image: "./27-bambu-a1-mini-vs-creality-ender-3.webp"
 imageAlt: "Side-by-side comparison of Bambu A1 Mini and Creality Ender 3 printers"
-tags: ["3D Printing", "Comparison", "Bambu Lab", "Creality", "Buying Guide"]
+tags: ["3D Printing", "Comparison", "Bambu Lab", "Buying Guide"]
 draft: false
 review:
   rating: 4.5

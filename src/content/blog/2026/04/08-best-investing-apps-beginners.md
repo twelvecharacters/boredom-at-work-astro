@@ -6,7 +6,7 @@ publishDate: 2026-04-08
 author: "Mehdi"
 image: "./08-best-investing-apps-beginners.webp"
 imageAlt: "Collection of beginner investing app interfaces on a smartphone"
-tags: ["Investing", "Finance Apps", "Beginners", "Personal Finance", "Tools"]
+tags: ["Investing", "Finance", "Beginners"]
 draft: false
 isListicle: true
 faq:

@@ -6,7 +6,7 @@ publishDate: 2026-02-14
 author: "Mehdi"
 image: "./14-ray-ban-meta-review.webp"
 imageAlt: "Ray-Ban Meta smart glasses on a desk in a modern setting"
-tags: ["Tech & Gadgets", "Smart Glasses", "Meta", "Ray-Ban", "Review"]
+tags: ["Tech & Gadgets", "Review"]
 draft: false
 video:
   youtubeId: "npcqic4geOA"

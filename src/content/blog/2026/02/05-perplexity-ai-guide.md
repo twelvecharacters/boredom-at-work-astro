@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./05-perplexity-ai-guide.webp"
 imageAlt: "Perplexity AI search interface showing sourced answers on a screen"
-tags: ["AI", "Perplexity", "Productivity", "Research", "Search"]
+tags: ["AI", "Perplexity", "Productivity", "Tech & Gadgets"]
 draft: false
 softwareApp:
   name: "Perplexity AI"

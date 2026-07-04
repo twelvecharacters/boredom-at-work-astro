@@ -7,7 +7,7 @@ updatedDate: 2026-08-11
 author: "Mehdi"
 image: "./11-install-koreader-kindle.webp"
 imageAlt: "A Kindle running KOReader showing the document library menu"
-tags: ["Tech & Gadgets", "Kindle", "Modding", "KOReader", "Tutorial"]
+tags: ["Tech & Gadgets", "Kindle", "Tutorial"]
 draft: false
 tldr: "KOReader is a free, open-source reader that adds proper EPUB and PDF support to a Kindle. It requires a jailbroken device, so the golden rule is: never update your firmware if you plan to install it. Once jailbroken, the install takes about ten minutes."
 faq:

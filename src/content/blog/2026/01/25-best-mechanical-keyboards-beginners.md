@@ -6,7 +6,7 @@ publishDate: 2026-01-25
 author: "Mehdi"
 image: "./25-mechanical-keyboards-beginners.webp"
 imageAlt: "Collection of mechanical keyboards with colorful keycaps on a desk"
-tags: ["Tech & Gadgets", "Mechanical Keyboards", "Peripherals", "Office Setup", "Beginners"]
+tags: ["Tech & Gadgets", "Home Office", "Beginners"]
 draft: false
 isListicle: true
 faq:

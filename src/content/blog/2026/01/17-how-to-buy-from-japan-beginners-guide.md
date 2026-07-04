@@ -6,7 +6,7 @@ publishDate: 2026-01-17
 author: "Mehdi"
 image: "./17-how-to-buy-from-japan-beginners-guide.webp"
 imageAlt: "Step-by-step visual guide for buying products from Japanese websites"
-tags: ["Japan Shopping", "Import Guide", "Yahoo Auctions", "Mercari Japan", "Beginners"]
+tags: ["Japan Shopping", "Beginners"]
 draft: false
 faq:
   - question: "Can I buy directly from Japanese websites?"

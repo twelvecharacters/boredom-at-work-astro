@@ -6,7 +6,7 @@ publishDate: 2026-06-26
 author: "Mehdi"
 image: "./26-best-kindle-cases-2026.webp"
 imageAlt: "Selection of Kindle cases in different styles: origami stand, slim cover, leather wallet, and sleeve"
-tags: ["Kindle", "E-Reader", "Accessories", "Buying Guide", "Amazon"]
+tags: ["Kindle", "E-Reader", "Buying Guide", "Amazon"]
 draft: false
 faq:
   - question: "Do I really need a Kindle case?"

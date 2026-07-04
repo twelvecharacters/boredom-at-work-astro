@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./02-kindle-paperwhite-vs-kobo-clara.webp"
 imageAlt: "Side-by-side comparison of Kindle Paperwhite and Kobo Clara BW"
-tags: ["Tech & Gadgets", "Kindle", "Kobo", "E-Reader", "Comparison"]
+tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Comparison"]
 draft: false
 review:
   rating: 4.5

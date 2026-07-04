@@ -7,7 +7,7 @@ updatedDate: 2026-06-21
 author: "Mehdi"
 image: "./31-free-books-kindle.webp"
 imageAlt: "Kindle e-reader displaying free ebook sources and library apps"
-tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Books", "Free"]
+tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Books"]
 draft: false
 faq:
   - question: "Can I borrow library books on a Kindle?"

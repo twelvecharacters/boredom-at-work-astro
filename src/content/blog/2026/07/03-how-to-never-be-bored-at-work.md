@@ -6,7 +6,7 @@ publishDate: 2026-07-03
 author: "Mehdi"
 image: "./03-how-to-never-be-bored-at-work-v2.webp"
 imageAlt: "A split office desk scene showing a dull workspace transforming into a bright, organized productivity setup."
-tags: ["Productivity", "Career", "Wellbeing", "Motivation"]
+tags: ["Productivity", "Career", "Health", "Lifestyle"]
 draft: false
 tldr: "Boredom at work often stems from a lack of challenge or purpose rather than a lack of tasks. By gamifying your workflow, seeking lateral projects, upskilling, and redefining your boundaries, you can transform your workday from mundane to meaningful."
 faq:

@@ -6,7 +6,7 @@ publishDate: 2026-08-20
 author: "Mehdi"
 image: "./20-kindle-wont-turn-on-charge.webp"
 imageAlt: "A black Kindle e-reader lying face up with a blank, unresponsive screen next to a USB-C charging cable"
-tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Troubleshooting", "How-To"]
+tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Tutorial"]
 draft: false
 faq:
   - question: "Why won't my Kindle turn on?"

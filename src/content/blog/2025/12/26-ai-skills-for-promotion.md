@@ -4,7 +4,7 @@ slug: "ai-skills-for-promotion"
 description: "The specific AI skills that lead to promotions. What to focus on, how to demonstrate value, and a 30-day plan to build promotable AI skills."
 publishDate: 2025-12-26
 author: "Mehdi"
-tags: ["Career Development", "AI Skills", "Promotion", "Technology"]
+tags: ["Career", "AI", "Tech & Gadgets"]
 image: "./26-ai-skills-promotion.webp"
 imageAlt: "Professional using AI tools at a modern office desk"
 draft: false

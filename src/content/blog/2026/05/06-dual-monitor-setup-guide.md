@@ -6,7 +6,7 @@ publishDate: 2026-05-06
 author: "Mehdi"
 image: "./06-dual-monitor-setup-guide.webp"
 imageAlt: "Step-by-step dual monitor setup on a home office desk"
-tags: ["Office Setup", "Monitors", "Work From Home", "Productivity", "Guide"]
+tags: ["Home Office", "Monitors", "Productivity", "Tutorial"]
 draft: false
 isListicle: false
 howToSchema:

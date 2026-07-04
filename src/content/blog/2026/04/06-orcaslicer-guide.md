@@ -6,7 +6,7 @@ publishDate: 2026-04-06
 author: "Mehdi"
 image: "./06-orcaslicer.webp"
 imageAlt: "OrcaSlicer interface showing 3D print settings and model preview"
-tags: ["3D Printing", "OrcaSlicer", "Slicer", "Tutorial", "Skills"]
+tags: ["3D Printing", "Tutorial", "Career"]
 draft: false
 faq:
   - question: "What is OrcaSlicer?"

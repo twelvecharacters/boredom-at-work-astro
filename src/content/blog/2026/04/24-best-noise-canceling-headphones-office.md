@@ -6,7 +6,7 @@ publishDate: 2026-04-24
 author: "Mehdi"
 image: "./24-best-noise-canceling-headphones-office.webp"
 imageAlt: "Collection of noise-canceling headphones for office use on a desk"
-tags: ["Tech & Gadgets", "Headphones", "Office Setup", "Work From Home", "Noise Canceling"]
+tags: ["Tech & Gadgets", "Home Office"]
 draft: false
 isListicle: true
 faq:

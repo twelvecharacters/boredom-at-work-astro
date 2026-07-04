@@ -7,7 +7,7 @@ updatedDate: 2026-07-25
 author: "Mehdi"
 image: "./25-gta-6-excursion.png"
 imageAlt: "A vibrant, neon-drenched view of Vice City at sunset"
-tags: ["Gaming", "Culture", "Entertainment", "GTA 6"]
+tags: ["Culture"]
 draft: false
 isListicle: false
 tldr: "While this blog usually focuses on productivity and technology, the upcoming release of Grand Theft Auto VI is a cultural milestone too massive to ignore. We explore why this game is breaking the internet, the technological leaps it represents, and why even non-gamers are paying attention to a return to Vice City."

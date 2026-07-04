@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./14-ai-meeting-assistants.webp"
 imageAlt: "Collection of AI meeting assistant app interfaces on a laptop screen"
-tags: ["AI", "Meetings", "Productivity", "Otter.ai", "Comparison"]
+tags: ["AI", "Productivity", "AI Tools", "Comparison"]
 draft: false
 isListicle: true
 faq:

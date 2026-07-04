@@ -5,7 +5,7 @@ publishDate: 2026-05-26
 author: "Mehdi"
 image: "./26-why-you-need-a-vpn.png"
 imageAlt: "Conceptual visualization of a VPN protecting a laptop and smartphone."
-tags: ["Privacy", "Security", "VPN", "Tech Guide", "Cybersecurity", "Remote Work"]
+tags: ["Privacy", "Tech & Gadgets", "Home Office"]
 slug: "why-you-need-vpn-2026"
 draft: false
 isListicle: false

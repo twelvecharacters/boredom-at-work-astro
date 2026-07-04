@@ -6,7 +6,7 @@ publishDate: 2026-04-27
 author: "Mehdi"
 image: "./27-free-ai-travel-tools.webp"
 imageAlt: "Collection of free AI travel planning tools on a laptop screen"
-tags: ["AI", "Travel", "Budget", "Free Tools", "AI Travel"]
+tags: ["AI", "Travel", "Buying Guide", "AI Tools", "AI Travel"]
 draft: false
 isListicle: true
 faq:

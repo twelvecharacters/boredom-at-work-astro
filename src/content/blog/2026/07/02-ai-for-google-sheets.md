@@ -6,7 +6,7 @@ publishDate: 2026-07-02
 author: "Mehdi"
 image: "./02-ai-for-google-sheets.webp"
 imageAlt: "AI assistant generating formulas in a Google Sheets spreadsheet"
-tags: ["AI Tools", "Productivity", "Google Sheets", "Gemini"]
+tags: ["AI Tools", "Productivity", "Gemini"]
 draft: false
 faq:
   - question: "Is Gemini in Google Sheets free?"

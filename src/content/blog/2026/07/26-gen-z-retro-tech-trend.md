@@ -5,7 +5,7 @@ description: "Explore the growing trend of Gen Z embracing vintage digital camer
 publishDate: "2026-07-26"
 image: "./26-gen-z-retro-tech-trend.png"
 imageAlt: "A vintage 2000s compact digital camera and wired Apple EarPods on a denim background, representing the Gen Z retro tech trend"
-tags: ["tech", "culture", "photography"]
+tags: ["Tech & Gadgets", "Culture", "Photography"]
 tldr: "Gen Z is rebelling against the hyper-optimized, algorithmically perfected technology of today by embracing the nostalgic imperfection of vintage 2000s digital cameras and the physical connection of wired earphones. This trend represents a desire for authenticity and a break from the constant pressure of modern social media aesthetics."
 faq:
   - question: "Why is Gen Z using old digital cameras?"

@@ -6,7 +6,7 @@ publishDate: 2026-03-27
 author: "Mehdi"
 image: "./27-best-office-chairs.webp"
 imageAlt: "Collection of ergonomic office chairs in a modern home office"
-tags: ["Office Setup", "Office Chairs", "Work From Home", "Ergonomics", "Buying Guide"]
+tags: ["Home Office", "Ergonomics", "Buying Guide"]
 draft: false
 faq:
   - question: "How much should I spend on an office chair?"

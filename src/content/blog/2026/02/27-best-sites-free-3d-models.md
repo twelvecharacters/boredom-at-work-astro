@@ -6,7 +6,7 @@ publishDate: 2026-02-27
 author: "Mehdi"
 image: "./27-best-sites-free-3d-models.webp"
 imageAlt: "Collection of free 3D model websites showing STL file previews"
-tags: ["3D Printing", "STL Files", "Free Models", "Resources", "Downloads"]
+tags: ["3D Printing"]
 draft: false
 isListicle: true
 faq:

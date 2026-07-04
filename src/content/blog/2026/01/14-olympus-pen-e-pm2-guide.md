@@ -6,7 +6,7 @@ publishDate: 2026-01-14
 author: "Mehdi"
 image: "./14-olympus-e-pm2.webp"
 imageAlt: "Olympus PEN E-PM2 camera on a desk in a modern workspace"
-tags: ["Photography", "Cameras", "Buying Guide", "Retro Tech"]
+tags: ["Photography", "Cameras", "Buying Guide", "Culture"]
 draft: false
 faq:
   - question: "Is the Olympus E-PM2 still good in 2026?"

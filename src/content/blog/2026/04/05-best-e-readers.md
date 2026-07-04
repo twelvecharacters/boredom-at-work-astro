@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./05-best-e-readers.webp"
 imageAlt: "Collection of e-readers from Kindle, Kobo, and Boox on a clean surface"
-tags: ["Tech & Gadgets", "Kindle", "Kobo", "E-Reader", "Buying Guide"]
+tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Buying Guide"]
 draft: false
 faq:
   - question: "What's the best e-reader for most people?"

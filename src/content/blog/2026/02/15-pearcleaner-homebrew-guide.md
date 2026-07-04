@@ -6,7 +6,7 @@ publishDate: 2026-02-15
 author: "Mehdi"
 image: "./15-pearcleaner.webp"
 imageAlt: "Pearcleaner app interface showing Homebrew management on macOS"
-tags: ["Tech & Gadgets", "macOS", "Pearcleaner", "Homebrew", "Source-Available"]
+tags: ["Tech & Gadgets", "Apple", "Software"]
 draft: false
 howTo:
   totalTime: "PT10M"

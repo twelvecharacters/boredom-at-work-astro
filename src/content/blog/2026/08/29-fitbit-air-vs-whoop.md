@@ -6,7 +6,7 @@ publishDate: 2026-08-29
 author: "Mehdi"
 image: "./29-fitbit-air-vs-whoop.png"
 imageAlt: "Comparison photo showing the slim Fitbit Air next to a WHOOP 4.0 strap on a wooden table"
-tags: ["Health", "Fitness", "Wearables", "Fitbit", "WHOOP", "Biohacking"]
+tags: ["Health", "Tech & Gadgets"]
 draft: false
 faq:
   - question: "Does the Fitbit Air have a screen?"

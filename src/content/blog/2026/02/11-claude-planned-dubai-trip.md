@@ -6,7 +6,7 @@ publishDate: 2026-02-11
 author: "Mehdi"
 image: "./11-claude-dubai-trip.webp"
 imageAlt: "Dubai skyline with Burj Khalifa from an AI-planned trip itinerary"
-tags: ["AI", "Travel", "Dubai", "Claude", "Trip Planning", "AI Travel"]
+tags: ["AI", "Travel", "Claude", "AI Travel"]
 draft: false
 video:
   youtubeId: "npcqic4geOA"

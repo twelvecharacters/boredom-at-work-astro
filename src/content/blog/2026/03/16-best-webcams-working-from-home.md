@@ -6,7 +6,7 @@ publishDate: 2026-03-16
 author: "Mehdi"
 image: "./16-best-webcams-working-from-home.webp"
 imageAlt: "Collection of webcams for working from home mounted on monitors"
-tags: ["Work From Home", "Office Setup", "Video Calls", "Webcams", "Buying Guide"]
+tags: ["Home Office", "Productivity", "Buying Guide"]
 draft: false
 isListicle: true
 faq:

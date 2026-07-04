@@ -6,7 +6,7 @@ publishDate: 2026-05-07
 author: "Mehdi"
 image: "./07-kindle-unlimited-worth-it.webp"
 imageAlt: "Kindle with Unlimited catalog and cost breakdown illustration"
-tags: ["Kindle", "E-Reader", "Amazon", "Books", "Subscription"]
+tags: ["Kindle", "E-Reader", "Amazon", "Books"]
 draft: false
 faq:
   - question: "How many books do you need to read for Kindle Unlimited to be worth it?"

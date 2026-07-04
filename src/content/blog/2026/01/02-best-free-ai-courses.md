@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./02-best-ai-free-courses.webp"
 imageAlt: "Collection of free AI course logos from Google, IBM, and OpenAI"
-tags: ["AI Courses", "Free Learning", "Career Development", "Technology"]
+tags: ["Learning", "Career", "Tech & Gadgets"]
 draft: false
 isListicle: true
 tldr: "All courses are genuinely free (some certificates cost extra). Google AI Essentials has the best prestige, Elements of AI offers a free certificate. Time investment: 5-10 hours."

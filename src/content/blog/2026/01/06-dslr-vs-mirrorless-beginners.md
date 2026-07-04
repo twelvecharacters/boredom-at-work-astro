@@ -6,7 +6,7 @@ publishDate: 2026-01-06
 author: "Mehdi"
 image: "./06-dslr-vs-mirrorless.webp"
 imageAlt: "Side-by-side comparison of a DSLR and mirrorless camera"
-tags: ["Photography", "Cameras", "DSLR", "Mirrorless", "Beginners"]
+tags: ["Photography", "Cameras", "Beginners"]
 draft: false
 faq:
   - question: "Is mirrorless better than DSLR for beginners?"

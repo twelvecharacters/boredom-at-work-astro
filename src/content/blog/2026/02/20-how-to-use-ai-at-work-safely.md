@@ -6,7 +6,7 @@ publishDate: 2026-02-20
 author: "Mehdi"
 image: "./20-how-to-use-ai-at-work-safely.webp"
 imageAlt: "Illustration showing safe AI usage practices in an office setting"
-tags: ["AI", "Productivity", "Work", "Privacy", "Career"]
+tags: ["AI", "Productivity", "Privacy", "Career"]
 draft: false
 faq:
   - question: "Can I get fired for using AI at work?"

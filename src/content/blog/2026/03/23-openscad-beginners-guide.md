@@ -6,7 +6,7 @@ publishDate: 2026-03-23
 author: "Mehdi"
 image: "./23-openscad-beginners-guide.webp"
 imageAlt: "OpenSCAD code editor with a 3D model preview for beginners"
-tags: ["3D Printing", "CAD", "Software", "Tutorial", "OpenSCAD"]
+tags: ["3D Printing", "Software", "Tutorial"]
 draft: false
 faq:
   - question: "Is OpenSCAD difficult to learn for someone who has never coded?"

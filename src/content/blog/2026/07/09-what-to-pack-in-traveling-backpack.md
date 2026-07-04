@@ -6,7 +6,7 @@ publishDate: 2026-07-09
 author: "Mehdi"
 image: "./09-what-to-pack-in-traveling-backpack.jpg"
 imageAlt: "An open backpack with packing cubes and travel gear laid out on a bed"
-tags: ["Travel", "Backpacking", "Packing List", "Digital Nomad", "Gear Guide"]
+tags: ["Travel", "Buying Guide"]
 draft: false
 faq:
   - question: "How large should my traveling backpack be?"

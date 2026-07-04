@@ -6,7 +6,7 @@ publishDate: 2026-09-01
 author: "Mehdi"
 image: "./01-how-to-read-stock-charts-beginners.webp"
 imageAlt: "Step-by-step visual guide for reading stock charts with candlesticks"
-tags: ["Investing", "Stock Charts", "Technical Analysis", "Beginners Guide", "Finance"]
+tags: ["Investing", "Beginners", "Finance"]
 draft: false
 faq:
   - question: "What's the best free stock charting tool for beginners?"

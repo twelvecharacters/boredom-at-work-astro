@@ -6,7 +6,7 @@ publishDate: 2026-03-18
 author: "Mehdi"
 image: "./18-chatgpt-travel-prompts.webp"
 imageAlt: "ChatGPT travel planning prompts displayed on a laptop screen"
-tags: ["AI", "Travel", "ChatGPT", "Prompts", "AI Travel"]
+tags: ["AI", "Travel", "ChatGPT", "Prompt Engineering", "AI Travel"]
 draft: false
 faq:
   - question: "What's the best ChatGPT prompt for travel planning?"

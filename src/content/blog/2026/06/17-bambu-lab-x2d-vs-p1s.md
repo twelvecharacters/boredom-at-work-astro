@@ -6,7 +6,7 @@ publishDate: 2026-06-17
 author: "Mehdi"
 image: "./17-bambu-lab-x2d-vs-p1s.webp"
 imageAlt: "Bambu Lab X2D and P1S 3D printers side by side for comparison"
-tags: ["3D Printing", "Bambu Lab", "X2D", "P1S", "Comparison", "Buying Guide"]
+tags: ["3D Printing", "Bambu Lab", "Comparison", "Buying Guide"]
 draft: false
 faq:
   - question: "Is the X2D worth the extra $100 over the P1S?"

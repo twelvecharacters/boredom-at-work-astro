@@ -6,7 +6,7 @@ publishDate: 2026-06-12
 author: "Mehdi"
 image: "./12-petg-cf-filament-guide.webp"
 imageAlt: "Spool of black PETG-CF carbon fiber filament next to a 3D printed mechanical bracket"
-tags: ["3D Printing", "Filament", "PETG", "Carbon Fiber", "Materials"]
+tags: ["3D Printing"]
 draft: false
 faq:
   - question: "Is PETG-CF stronger than regular PETG?"

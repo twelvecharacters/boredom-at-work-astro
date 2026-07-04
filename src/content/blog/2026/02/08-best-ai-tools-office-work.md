@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./08-best-ai-tools-office-work.webp"
 imageAlt: "Collection of AI tools for office work displayed on a laptop screen"
-tags: ["AI", "Productivity", "Office", "Tools", "Work"]
+tags: ["AI", "Productivity", "Home Office"]
 draft: false
 video:
   youtubeId: "IoGF-x_prXQ"

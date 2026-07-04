@@ -6,7 +6,7 @@ publishDate: 2026-08-17
 author: "Mehdi"
 image: "./17-ai-photography-guide.webp"
 imageAlt: "Digital illustration showing a camera lens with AI-powered overlays and holographic editing sliders"
-tags: ["Photography", "AI", "Lightroom", "Photoshop", "Editing", "Guide"]
+tags: ["Photography", "AI", "Tutorial"]
 draft: false
 faq:
   - question: "Is using AI in photography considered 'cheating'?"

@@ -6,7 +6,7 @@ publishDate: 2026-02-27
 author: "Mehdi"
 image: "./27-learn-ai-guide.webp"
 imageAlt: "Illustration showing the complete AI learning roadmap with milestones"
-tags: ["AI", "Learning", "Career", "Courses", "Hub Page"]
+tags: ["AI", "Learning", "Career", "Hub Page"]
 draft: false
 video:
   youtubeId: "h-V_Lu_J_hw"

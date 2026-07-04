@@ -6,7 +6,7 @@ publishDate: 2026-01-15
 author: "Mehdi"
 image: "./15-buyee-vs-sendico.webp"
 imageAlt: "Side-by-side comparison of Buyee and Sendico proxy service interfaces"
-tags: ["Japan Shopping", "Proxy Services", "Buyee", "Sendico", "Import Guide"]
+tags: ["Japan Shopping"]
 draft: false
 faq:
   - question: "Is Buyee or Sendico cheaper?"

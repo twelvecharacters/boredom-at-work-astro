@@ -6,7 +6,7 @@ publishDate: 2026-02-07
 author: "Mehdi"
 image: "./07-openclaw.webp"
 imageAlt: "OpenClaw self-hosted AI assistant interface on a computer screen"
-tags: ["AI", "Open Source", "Self-Hosted", "ClawDBot", "OpenClaw", "Personal Assistant"]
+tags: ["AI", "Software", "Hardware", "DIY"]
 draft: false
 faq:
   - question: "What is ClawDBot?"

@@ -6,7 +6,7 @@ publishDate: 2026-02-05
 author: "Mehdi"
 image: "./05-pixel-10a.webp"
 imageAlt: "Side-by-side comparison of Google Pixel 10a and Pixel 9a smartphones"
-tags: ["Google", "Pixel", "Smartphone", "Rumors", "Comparison"]
+tags: ["AI", "Android", "Smartphones", "Comparison"]
 draft: false
 faq:
   - question: "When is the Pixel 10a release date?"

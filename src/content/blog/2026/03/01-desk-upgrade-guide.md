@@ -6,7 +6,7 @@ publishDate: 2026-03-01
 author: "Mehdi"
 image: "./01-desk-upgrade-guide.webp"
 imageAlt: "Illustration showing a complete home office desk upgrade setup"
-tags: ["Office Setup", "Home Office", "Standing Desks", "Ergonomics", "Hub Page"]
+tags: ["Home Office", "Standing Desks", "Ergonomics", "Hub Page"]
 draft: false
 faq:
   - question: "How much does a complete home office setup cost?"

@@ -6,7 +6,7 @@ publishDate: 2026-06-25
 author: "Mehdi"
 image: "./25-standing-desk-vs-sitting-desk.webp"
 imageAlt: "Side-by-side comparison of standing desk and sitting desk workstations"
-tags: ["Office Setup", "Standing Desks", "Ergonomics", "Work From Home"]
+tags: ["Home Office", "Standing Desks", "Ergonomics"]
 draft: false
 faq:
   - question: "Do standing desks actually help you lose weight?"

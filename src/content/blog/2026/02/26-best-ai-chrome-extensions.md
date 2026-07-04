@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./26-best-ai-chrome-extensions.webp"
 imageAlt: "Collection of AI Chrome extension icons in a browser toolbar"
-tags: ["AI", "Chrome Extensions", "Productivity", "Browser", "Tools"]
+tags: ["AI", "AI Tools", "Productivity", "Software"]
 draft: false
 isListicle: true
 faq:

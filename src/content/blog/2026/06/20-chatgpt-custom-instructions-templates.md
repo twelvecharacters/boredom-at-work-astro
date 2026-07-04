@@ -6,7 +6,7 @@ publishDate: 2026-06-20
 author: "Mehdi"
 image: "./20-chatgpt-custom-instructions-templates.webp"
 imageAlt: "ChatGPT custom instructions template examples on a screen"
-tags: ["AI", "ChatGPT", "Productivity", "Templates", "Tutorial"]
+tags: ["AI", "ChatGPT", "Productivity", "Tutorial"]
 draft: false
 isListicle: true
 faq:

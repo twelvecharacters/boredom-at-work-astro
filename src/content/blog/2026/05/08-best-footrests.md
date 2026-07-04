@@ -6,7 +6,7 @@ publishDate: 2026-05-08
 author: "Mehdi"
 image: "./08-best-footrests.webp"
 imageAlt: "Collection of under-desk footrests in different styles on a floor"
-tags: ["Office Setup", "Desk Accessories", "Ergonomics", "Home Office", "Buying Guide"]
+tags: ["Home Office", "Ergonomics", "Buying Guide"]
 draft: false
 isListicle: true
 faq:

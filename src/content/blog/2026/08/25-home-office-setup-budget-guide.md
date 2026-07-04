@@ -6,7 +6,7 @@ publishDate: 2026-08-25
 author: "Mehdi"
 image: "./25-home-office-setup-budget-guide.webp"
 imageAlt: "Three home office setups at different budget levels side by side"
-tags: ["Home Office", "Work From Home", "Office Setup", "Desk Setup", "Guide"]
+tags: ["Home Office", "Tutorial"]
 draft: false
 faq:
   - question: "What is the minimum budget for a good home office setup?"

@@ -4,7 +4,7 @@ slug: "productive-things-bored-at-work"
 description: "Bored at work? These 25 productive activities turn downtime into career growth, learn AI, build skills, and get ahead without anyone noticing."
 publishDate: 2026-01-11
 author: "Mehdi"
-tags: ["Productivity", "Career Growth", "Work Tips", "Technology"]
+tags: ["Productivity", "Career", "Tech & Gadgets"]
 image: "./11-productive-work.webp"
 imageAlt: "Illustration showing productive activities at an office desk"
 draft: false
