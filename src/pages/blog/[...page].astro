@@ -76,7 +76,11 @@ const breadcrumbItems = [
                       </p>
                       <div class="flex items-center justify-between">
                         <span class="text-text-light text-sm">
-                          {post.data.publishDate.toLocaleDateString('en-US', {
+                          {post.data.updatedDate ? `Updated: ${post.data.updatedDate.toLocaleDateString('en-US', {
+                            year: 'numeric',
+                            month: 'short',
+                            day: 'numeric'
+                          })}` : post.data.publishDate.toLocaleDateString('en-US', {
                             year: 'numeric',
                             month: 'short',
                             day: 'numeric'

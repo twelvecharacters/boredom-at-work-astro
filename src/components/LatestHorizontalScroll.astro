@@ -69,7 +69,7 @@ const displayPosts = posts.slice(0, 8);
               <!-- Date badge on image -->
               <div class="absolute top-4 left-4 bg-background/90 backdrop-blur-md px-3 py-1.5 rounded-xl border border-white/20 shadow-sm">
                 <span class="text-[10px] font-black text-primary uppercase tracking-widest">
-                  {new Date(post.data.publishDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+                  {post.data.updatedDate ? `Upd: ${new Date(post.data.updatedDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}` : new Date(post.data.publishDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
                 </span>
               </div>
             </a>
