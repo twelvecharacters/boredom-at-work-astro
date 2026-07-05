@@ -5,24 +5,33 @@ Allow: /
 # /tags/ and /archive/ are NOT disallowed — they use on-page noindex, so
 # crawlers must be able to reach them to honor it (blocking crawl hides the
 # noindex, and would also block the intentionally-indexable tag hub pages).
-# Paginated blog pages (/blog/2/ etc.) are noindexed; block to save crawl budget.
-Disallow: /blog/*/
+# Paginated blog pages (/blog/2/ etc.) are noindexed via meta tags.
+# They MUST NOT be blocked in robots.txt, otherwise crawlers cannot follow
+# the links to older articles (leading to orphan pages and traffic drops).
 
 # Block Aggressive Scrapers
+# IMPORTANT: The empty lines between individual User-agent blocks are
+# strictly necessary. Otherwise, strict parsers may merge the rules,
+# leading to incorrect crawling behavior.
 User-agent: CCBot
 Disallow: /
+
 User-agent: ByteSpyder
 Disallow: /
+
 User-agent: PetalBot
 Disallow: /
 
 # AI Crawlers - Explicitly allowed for citations and research
 User-agent: GPTBot
 Allow: /
+
 User-agent: ClaudeBot
 Allow: /
+
 User-agent: PerplexityBot
 Allow: /
+
 User-agent: Applebot-Extended
 Allow: /
 
@@ -30,9 +39,6 @@ Allow: /
 Sitemap: https://boredom-at-work.com/sitemap-index.xml
 Sitemap: https://boredom-at-work.com/sitemap-images.xml
 Sitemap: https://boredom-at-work.com/sitemap-videos.xml
-
-# IndexNow
-# Key: https://boredom-at-work.com/33eb690ddefc36d78165765c86948671.txt
 
 # LLM Context (https://llmstxt.org)
 # LLMs.txt: https://boredom-at-work.com/llms.txt
