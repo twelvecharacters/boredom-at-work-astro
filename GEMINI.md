@@ -17,9 +17,9 @@ This document outlines the foundational standards and architectural goals for th
 - **Structure:** Blog articles are organized in subdirectories (e.g., `src/content/blog/YYYY/MM/`). Store the markdown file and its associated images together in the same directory.
 - **Frontmatter:** All blog articles must include the `imageAlt` field for their featured image to ensure proper Schema.org JSON-LD generation and accessibility. Titles should be <= 60 characters (primary keyword at the front) and meta descriptions 150-160 characters to avoid SERP truncation.
 - **Slug Management:** Favor the explicit `slug` field in blog frontmatter over directory-based IDs.
-- **Internal Linking:** Ensure all internal links point to existing/published articles (no dead links). The `remarkFilterUnpublishedLinks` plugin in `astro.config.mjs` prevents leaking links to draft or future-dated content. Structure clusters with clear intent to avoid keyword cannibalization.
+- **Internal Linking:** Actively generate internal links, but ONLY point to preceding/previously published articles (never to future-dated ones) to avoid dead ends. Ensure no dead links. The `remarkFilterUnpublishedLinks` plugin in `astro.config.mjs` prevents leaking links to draft or future-dated content. Structure clusters with clear intent to avoid keyword cannibalization.
 - **Language & Formatting:** Always use **American English** (e.g., "color", "realize", "center"). Strictly avoid em-dashes (—); use commas or parentheses instead per the repo's em-dash-free rule.
-- **Quality Standard:** Pillar posts target **1600+ words** to avoid "thin content" flags. Standard posts should be 1000+ words.
+- **Quality Standard:** NO "thin content" is allowed. ALL posts MUST be at least **1600+ words**.
 
 ### Styling & CSS
 - **Tailwind 4:** Use Tailwind CSS 4 features and modern CSS variables.
@@ -32,7 +32,7 @@ This document outlines the foundational standards and architectural goals for th
 - Use optimized asset paths for logos and featured images in JSON-LD.
 
 ### External Links & Sponsorship
-- **Official Links:** Always provide direct links to the official websites or app stores for tools mentioned.
+- **Official Links:** Actively generate external links whenever possible. Always provide direct links to the official websites or app stores for tools, products, or platforms mentioned in the article.
 - **Sponsored Content:** Add sponsored partner domains to `SPONSORED_DOMAINS` in `astro.config.mjs` to automatically apply `rel="sponsored"`.
 - **Default SEO:** All other external links default to `rel="noopener nofollow"`.
 
