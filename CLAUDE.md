@@ -193,7 +193,7 @@ Drafts in `medium-drafts/` (in `.gitignore`).
 2. **Artikel-Template verwenden:**
 ```markdown
 ---
-title: "Artikel Titel"
+title: "Artikel Titel (max. 60 Zeichen, Keyword vorne)"
 description: "SEO Beschreibung (150-160 Zeichen)"
 publishDate: YYYY-MM-DD
 author: "Mehdi"
@@ -222,6 +222,7 @@ faq:
    | judgement | judgment |
 
    **Ausnahmen:** `e-reader` und `e-book` mit Bindestrich OK.
+   **WICHTIG:** Em-Dashes (—) sind streng verboten (Repo-Regel: stattdessen Kommas oder Klammern verwenden).
 
 5. **FAQ Schema mit echter Suchintention** (Pillar: 4-6 FAQs, Normal: 2-4)
 
@@ -233,6 +234,8 @@ faq:
    - Bei Errors: sofort fixen bevor committed wird
 
 8. **Interne Verlinkung:** Verlinke primär auf Artikel, die bereits veröffentlicht sind.
+   - Keine toten Links! Alle internen Links müssen zu existierenden Inhalten führen.
+   - Vermeide Keyword Cannibalization: Achte auf eine klare Keyword-Abgrenzung innerhalb von Clustern.
    - Das Remark-Plugin in `astro.config.mjs` deaktiviert Links zu unveröffentlichten Artikeln (Drafts/Zukunft) im Build automatisch (sie werden als Text gerendert).
    - Vermeide es dennoch aktiv, auf weit in der Zukunft liegende Artikel zu verlinken, um Sackgassen für den Leser zu vermeiden.
 

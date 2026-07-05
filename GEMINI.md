@@ -15,10 +15,10 @@ This document outlines the foundational standards and architectural goals for th
 
 ### Content Strategy
 - **Structure:** Blog articles are organized in subdirectories (e.g., `src/content/blog/YYYY/MM/`). Store the markdown file and its associated images together in the same directory.
-- **Frontmatter:** All blog articles must include the `imageAlt` field for their featured image to ensure proper Schema.org JSON-LD generation and accessibility.
+- **Frontmatter:** All blog articles must include the `imageAlt` field for their featured image to ensure proper Schema.org JSON-LD generation and accessibility. Titles should be <= 60 characters (primary keyword at the front) and meta descriptions 150-160 characters to avoid SERP truncation.
 - **Slug Management:** Favor the explicit `slug` field in blog frontmatter over directory-based IDs.
-- **Internal Linking:** The `remarkFilterUnpublishedLinks` plugin in `astro.config.mjs` prevents leaking links to draft or future-dated content.
-- **Language:** Always use **American English** (e.g., "color", "realize", "center").
+- **Internal Linking:** Ensure all internal links point to existing/published articles (no dead links). The `remarkFilterUnpublishedLinks` plugin in `astro.config.mjs` prevents leaking links to draft or future-dated content. Structure clusters with clear intent to avoid keyword cannibalization.
+- **Language & Formatting:** Always use **American English** (e.g., "color", "realize", "center"). Strictly avoid em-dashes (—); use commas or parentheses instead per the repo's em-dash-free rule.
 - **Quality Standard:** Pillar posts target **1600+ words** to avoid "thin content" flags. Standard posts should be 1000+ words.
 
 ### Styling & CSS
