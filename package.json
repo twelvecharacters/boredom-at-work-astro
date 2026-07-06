@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && pagefind --site dist",
+    "build": "astro build && pagefind --site dist --root-selector body",
     "indexnow": "node scripts/indexnow.js --changed",
     "preview": "astro preview",
     "astro": "astro",
