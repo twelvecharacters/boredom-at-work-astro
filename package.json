@@ -20,6 +20,7 @@
     "export:articles": "node scripts/export-articles.js"
   },
   "dependencies": {
+    "@astrojs/markdown-remark": "^7.2.1",
     "@astrojs/partytown": "^2.1.7",
     "@astrojs/rss": "^4.0.19",
     "@astrojs/sitemap": "^3.7.3",
