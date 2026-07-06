@@ -1,10 +1,10 @@
 ---
-title: "Withings Smartwatches in 2026: Current Lineup and Future Rumors"
+title: "Withings Smartwatches in 2026: Lineup & Rumors"
 slug: "withings-smartwatches-2026-guide"
 description: "A comprehensive guide to Withings hybrid smartwatches in 2026. We review the ScanWatch 2 and Nova, and explore when to expect the next release."
 publishDate: 2026-07-30
-author: "bored chap"
-tags: ["Tech Guide", "Health", "Smartwatches"]
+author: "Mehdi"
+tags: ["Tech & Gadgets", "Health", "Review"]
 draft: false
 image: "./30-withings-smartwatches-2026.png"
 imageAlt: "A sleek Withings hybrid smartwatch resting on a wooden desk"
@@ -31,7 +31,7 @@ The first and most obvious answer is battery life. Traditional smartwatches requ
 
 The second reason is aesthetic appeal. A classic analog watch is a piece of jewelry. It has a timeless quality that a digital screen simply cannot replicate. Withings has mastered the art of hiding technology in plain sight. From a distance, nobody knows you are wearing a piece of advanced health technology. It just looks like you have excellent taste in traditional timepieces.
 
-Finally, there is the concept of digital minimalism. We already spend countless hours staring at our phones, our computer monitors, and our televisions. Do we really need another screen constantly vying for our attention? Withings watches provide the essential data you need without the overwhelming flood of apps and alerts. They track your health silently in the background, allowing you to focus on your actual life instead of your wrist.
+Finally, there is the concept of digital minimalism. We already spend countless hours staring at our phones, our computer monitors, and our televisions. Do we really need another screen constantly vying for our attention? Withings watches provide the essential data you need without the overwhelming flood of apps and alerts. They track your health silently in the background, allowing you to focus on your actual life instead of your wrist. If you prefer the opposite approach, screen-based and AI-heavy, our guide to [AI-powered fitness trackers](/ai-powered-fitness-trackers/) covers that end of the spectrum, and [how to improve your sports and lifestyle with AI](/how-to-improve-sports-lifestyle-with-ai/) digs into turning that data into results.
 
 ## The Flagship: Withings ScanWatch 2
 
@@ -99,7 +99,7 @@ To predict the future, we must look at the past. Withings does not follow the fr
 
 The original Withings ScanWatch was announced in early 2020 (though regulatory approvals delayed its release in certain regions like the United States). The successor, the ScanWatch 2, was officially unveiled in September 2023. This gives us a historical release cadence of roughly three years for major flagship models.
 
-Following this mathematical logic, the next major leap in the ScanWatch lineage—the hypothetical ScanWatch 3—would be due in late 2026. September has traditionally been a popular month for consumer electronics announcements (coinciding with the IFA trade show in Berlin), making September 2026 a prime candidate for a potential Withings hardware reveal.
+Following this mathematical logic, the next major leap in the ScanWatch lineage (the hypothetical ScanWatch 3) would be due in late 2026. September has traditionally been a popular month for consumer electronics announcements (coinciding with the IFA trade show in Berlin), making September 2026 a prime candidate for a potential Withings hardware reveal.
 
 ### What Fans Are Hoping For
 
