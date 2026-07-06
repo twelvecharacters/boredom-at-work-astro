@@ -458,4 +458,3 @@ That's not a high bar. It's just being a responsible professional in 2026.
 - [AI Meeting Assistants](/ai-meeting-assistants/), Privacy-conscious options
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

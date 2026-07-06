@@ -154,4 +154,4 @@ The Kindle pays for itself within a few months. If you're still on the fence, he
 For a curated list of titles worth your reading time, see our [books for productive procrastination](/books-for-productive-procrastination/) roundup. And if saving money on hobbies is a theme for you, our [best finance YouTube channels](/best-finance-youtube-channels/) is a good follow-up.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

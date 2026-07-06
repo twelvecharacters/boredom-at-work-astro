@@ -201,4 +201,4 @@ If you find yourself constantly jumping between your IDE and your browser, give 
 - [Antigravity 2 + Gemini 3.5: What Just Shipped](/antigravity-2-gemini-35/)
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

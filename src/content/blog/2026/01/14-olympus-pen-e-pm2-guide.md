@@ -138,4 +138,3 @@ Yes! Don't let the "megapixels" trap fool you. A 16MP sensor in the E-PM2 is muc
 *Looking for more photography gear? Check out our [best cameras for beginners](/best-cameras-for-beginners/) for modern alternatives, or browse all our photography content in the [Photography Guide](/photography-guide/) and [Photography Buying Guide](/photography-buying-guide/).*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

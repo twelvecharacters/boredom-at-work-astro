@@ -317,4 +317,4 @@ Start small. Pick one thing from this list and do it today. Then do another tomo
 *What do you do when you're bored at work? Share your productive strategies.*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

@@ -413,4 +413,3 @@ A monitor light bar is just one piece of a comfortable workspace. If you're upgr
 Your eyes will thank you.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

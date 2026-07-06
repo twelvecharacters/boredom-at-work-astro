@@ -320,4 +320,3 @@ Whatever you choose, remember: the best camera is the one you use. Start shootin
 *Ready to dive deeper? Learn about [DSLR vs Mirrorless](/dslr-vs-mirrorless-beginners/) or check out our guide to [beginner photography mistakes to avoid](/beginner-photography-mistakes/). For a complete overview of all our photography content, see the [Photography Guide](/photography-guide/) or our [Photography Buying Guide](/photography-buying-guide/).*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

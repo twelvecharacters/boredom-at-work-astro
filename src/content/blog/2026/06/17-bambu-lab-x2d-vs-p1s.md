@@ -193,4 +193,3 @@ For the full Bambu lineup including H-series options, see our [Bambu H2 series r
 - [Must-Have 3D Printing Accessories](/must-have-3d-printing-accessories/)
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

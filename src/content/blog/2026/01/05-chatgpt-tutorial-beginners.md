@@ -492,4 +492,4 @@ In a week of regular use, you'll wonder how you worked without it.
 - [AI Tools Guide](/ai-tools-guide/), Explore all AI tools for work
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

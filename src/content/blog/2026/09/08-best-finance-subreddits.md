@@ -322,4 +322,4 @@ Just remember: the people giving advice on Reddit are anonymous strangers on the
 **Next steps:** The [Investing Tools Guide](/investing-tools-guide/) connects all the apps, platforms, and resources you'll need alongside these communities.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

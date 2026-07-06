@@ -298,4 +298,3 @@ That's 90% of the value. Everything else is refinement.
 Have questions about learning AI? [Contact us](/contact/), happy to point you in the right direction.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

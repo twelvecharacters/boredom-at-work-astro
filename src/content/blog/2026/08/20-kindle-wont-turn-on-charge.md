@@ -116,4 +116,4 @@ Once your Kindle is back up and running, a few habits keep it that way: charge i
 - [Kindle vs Kobo](/kindle-vs-kobo/)
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

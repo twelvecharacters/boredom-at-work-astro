@@ -155,4 +155,4 @@ Sometimes the best tech is the kind that disappears into something you'd wear an
 *Looking for more hands-free tech? Check out my [AirPods Pro 3 review](/airpods-pro-3-review/) for the best wireless earbuds. Planning a trip and want AI to help? See our guide on the [best AI trip planners](/best-ai-trip-planners/).*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

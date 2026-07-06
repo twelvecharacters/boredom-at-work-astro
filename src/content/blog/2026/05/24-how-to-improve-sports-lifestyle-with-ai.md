@@ -146,4 +146,3 @@ The future of lifestyle isn't just "working harder"—it's working *smarter* wit
 *For more guides on using technology to optimize your life, check out our [AI tools guide](/ai-tools-guide/) and our breakdown of [how to use AI at work safely](/how-to-use-ai-at-work-safely/).*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

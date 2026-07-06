@@ -191,4 +191,4 @@ My setup: Claude Pro for writing and coding, ChatGPT free for quick tasks and im
 **Related:** Learn how to get the most out of [ChatGPT](/chatgpt-guide/), compare [AI writing tools](/ai-writing-tools-comparison/), or check the [best AI Chrome extensions](/best-ai-chrome-extensions/) to supercharge your browser.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

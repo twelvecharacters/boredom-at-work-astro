@@ -134,4 +134,4 @@ RapidRAW isn’t just another fork of an old tool. It’s a ground-up reimaginin
 For more photography tips and gear recommendations, see our [photography guide](/photography-guide/) and [camera vs smartphone](/camera-vs-smartphone/) comparison.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

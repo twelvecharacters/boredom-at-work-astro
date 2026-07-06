@@ -242,4 +242,4 @@ Go get 'em, CEO.
 *New to 3D printing? Start with our [3D Printing Guide](/3d-printing-guide/) for the complete overview, or read about [common beginner mistakes](/3d-printing-beginner-mistakes/) to avoid.*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

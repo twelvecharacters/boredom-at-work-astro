@@ -138,4 +138,4 @@ If you've ever abandoned a print because the supports were impossible to remove,
 *New to 3D printing? Start with our [3D Printing Beginner Guide](/3d-printing-beginners-guide/) for the full overview. Already printing and want to level up your designs? Check out our [CAD software comparison](/cad-software-3d-printing/) or learn to [code your own models with OpenSCAD](/openscad-beginners-guide/). Having trouble with prints sticking? See our [3D print adhesion troubleshooting guide](/3d-print-not-sticking-fixes/). Want multi-color prints without buying an AMS? Try our [Bambu Studio filament mixing guide](/bambu-studio-filament-mixing-guide/). And if you need a part printed but don't want to own a printer, our [JUSTWAY on-demand review](/justway-review/) breaks down the service.*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

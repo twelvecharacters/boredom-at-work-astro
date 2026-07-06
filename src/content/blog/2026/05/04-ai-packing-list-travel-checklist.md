@@ -374,4 +374,4 @@ AI packing lists help avoid:
 - **Avoid mistakes**: [AI Travel Planning Mistakes](/ai-travel-planning-mistakes/)
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

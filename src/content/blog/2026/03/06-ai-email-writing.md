@@ -389,4 +389,3 @@ What used to take 10 minutes now takes 1. Multiply by dozens of emails weekly.
 - [How to Use AI at Work Safely](/how-to-use-ai-at-work-safely/)
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

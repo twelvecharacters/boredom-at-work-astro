@@ -157,4 +157,4 @@ For more e-reader comparisons, check out our [Kindle vs Kobo](/kindle-vs-kobo/) 
 Sticking with the Apple ecosystem? Our [MacBook Neo one-month review](/macbook-neo-one-month-review/) covers the new $599 Mac that pairs surprisingly well with an iPad for reading-plus-work setups, and [AirPods vs Galaxy Buds vs Sony](/airpods-vs-galaxy-buds-vs-sony/) compares the best earbuds to round out the device.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

@@ -418,4 +418,3 @@ The people who get promoted aren't waiting for AI to be figured out. They're fig
 *Ready to start? Check out our guide to the [best free AI courses you can take at work](/best-free-ai-courses/), or follow the [complete AI learning path](/ai-learning-hub/) to build skills step by step.*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

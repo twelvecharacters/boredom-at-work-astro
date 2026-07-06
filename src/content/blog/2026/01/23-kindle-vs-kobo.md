@@ -256,4 +256,4 @@ For a closer model-by-model look, check our [Kindle Paperwhite vs Kobo Clara com
 For more buyer's-guide comparisons in adjacent gear, see [AirPods vs Galaxy Buds vs Sony](/airpods-vs-galaxy-buds-vs-sony/) for your commute soundtrack and the [home office lighting guide](/home-office-lighting-guide/) for setting up a proper reading corner.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

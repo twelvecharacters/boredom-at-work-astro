@@ -354,4 +354,4 @@ Gemini isn't the best at everything, but its real-time capabilities fill a cruci
 - [ChatGPT Mastery Guide](/chatgpt-guide/), The main alternative
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

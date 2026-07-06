@@ -272,4 +272,4 @@ I'll update this article as I progress. Bookmark it or check back to see:
 - **Compare destinations:** [Japan vs Vietnam vs Cambodia](/japan-vietnam-cambodia-comparison/)
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

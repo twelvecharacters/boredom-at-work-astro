@@ -274,4 +274,4 @@ And if you're building out a complete home office, pair your laptop stand with a
 Your neck will thank you.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

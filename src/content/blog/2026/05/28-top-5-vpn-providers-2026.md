@@ -117,4 +117,3 @@ If you view giving your email address to a VPN company as a privacy violation in
 Choosing the "best" VPN ultimately depends on your specific needs. If you want to watch foreign streaming catalogs, stick with NordVPN or ExpressVPN. If you have a massive family, grab Surfshark. And if you're a journalist handling sensitive data, ProtonVPN or Mullvad will serve you best.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

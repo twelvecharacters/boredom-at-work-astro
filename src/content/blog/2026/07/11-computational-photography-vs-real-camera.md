@@ -118,4 +118,3 @@ However, the dedicated Mirrorless or DSLR camera is no longer a consumer device;
 We live in the golden age of imagery. Whether you are letting a trillion-operation neural network calculate your sunset, or you are manually dialing in your aperture to paint with light through a pound of optical glass, the power to freeze time has never been more accessible or more powerful.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

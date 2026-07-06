@@ -223,4 +223,4 @@ Studying or in school? See which model fits coursework and PDFs best in [best Ki
 Already have a Kindle and need something to read on it? Our [books for productive procrastination](/books-for-productive-procrastination/) list works perfectly for desk reading. For more ways to stay focused at work, see our guide to [using AI at work safely](/how-to-use-ai-at-work-safely/).
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

@@ -193,4 +193,4 @@ Good lighting is the cheapest high-impact upgrade for a home office. A $30-70 mo
 **Related:** Complete your setup with our [desk upgrade guide](/desk-upgrade-guide/), find the right [monitor for working from home](/best-monitors-working-from-home/), and check our [monitor light bar picks](/best-monitor-light-bars/).
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

@@ -152,4 +152,4 @@ Whichever you pick, check our [best Kindle accessories guide](/best-kindle-acces
 Shopping for the reader in your life? An e-reader pairs nicely with picks from our [best tech gifts under $50](/best-tech-gifts-under-50/) list, or step up to the [AirPods Pro 3](/airpods-pro-3-review/) for audiobook listening alongside the Kindle.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

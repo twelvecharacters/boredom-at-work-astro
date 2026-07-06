@@ -279,4 +279,4 @@ And once your desk surface is sorted, don't forget about what's *under* the desk
 *Prices checked as of early 2026 and may vary by retailer and size. When in doubt, check the manufacturer's website for current pricing.*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

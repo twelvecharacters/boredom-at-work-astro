@@ -197,4 +197,3 @@ Whichever you choose, remember: the tracker only provides the map. You still hav
 *Have you tried the Fitbit Air yet? [Send us your thoughts](/contact/) and we might feature your review in our next update.*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

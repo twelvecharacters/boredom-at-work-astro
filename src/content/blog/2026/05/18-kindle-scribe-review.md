@@ -166,4 +166,4 @@ Looking for accessories to go with your Scribe? Browse our [best Kindle accessor
 For digital-side note-taking that complements handwritten notes, see our [ChatGPT custom instructions templates](/chatgpt-custom-instructions/) for setting up an AI workflow that captures and organizes ideas. For ergonomic upgrades around the Scribe, the [best laptop stands](/best-laptop-stands/) double well as e-reader stands when you're reading at your desk.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

@@ -538,4 +538,3 @@ The people who learn to work effectively with AI tools will outcompete those who
 - [Desk Upgrade Guide](/desk-upgrade-guide/), Build a productive home office setup
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

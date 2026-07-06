@@ -164,4 +164,3 @@ And for those of us who live for "productive procrastination," spending a weeken
 - [The $599 Miracle: One Month with the MacBook Neo](/macbook-neo-one-month-review/)
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

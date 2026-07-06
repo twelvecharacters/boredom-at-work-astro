@@ -187,4 +187,3 @@ The biggest mistake people make: copying ChatGPT output directly. Edit. Even 30 
 - [How to Use AI at Work Safely](/how-to-use-ai-at-work-safely/)
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

@@ -134,4 +134,4 @@ The future of slicing is community-driven, and right now, the community is build
 *Ready to design your own parts for OrcaSlicer? Check out our [Best CAD Software for 3D Printing guide](/cad-software-3d-printing/). Need help with prints not sticking? See [Every Fix for Bed Adhesion](/3d-print-not-sticking-fixes/). Want to print with mixed filaments? Our [Bambu Studio filament mixing guide](/bambu-studio-filament-mixing-guide/) walks through the OrcaSlicer-equivalent workflow.*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

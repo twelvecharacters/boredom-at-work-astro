@@ -132,4 +132,3 @@ The "Full Frame is better" argument is a technical truth that often leads to a p
 Photography is about the moment, the light, and the composition. Your sensor size is simply the tool you use to capture that vision. Pick the one that fits your hand, fits your bag, and—most importantly—gets you excited to go out and shoot.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

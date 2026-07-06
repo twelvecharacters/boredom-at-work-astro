@@ -284,4 +284,3 @@ If you're mainly interested because of cost savings and otherwise have no intere
 *Ready to get started? Read our [3D Printing Beginner Guide](/3d-printing-beginners-guide/), check the [real costs of 3D printing](/3d-printing-cost-guide/), or compare the [best 3D printers under $300](/best-3d-printers-under-300/). For all our 3D printing content, see the [3D Printing Guide](/3d-printing-guide/). Need help convincing a partner the printer is worth the space? See our [convince your wife you need a 3D printer](/convince-wife-3d-printer/) guide.*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

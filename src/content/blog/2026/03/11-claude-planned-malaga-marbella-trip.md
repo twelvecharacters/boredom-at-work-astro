@@ -213,4 +213,4 @@ Five days, two cities, one AI assistant, and one local guide. I'd do it again in
 *Planning your own AI-powered trip to Spain? Check out our [AI travel planning guide](/ai-travel-planning/), learn from common [AI travel planning mistakes](/ai-travel-planning-mistakes/), or see how Claude performed in [Dubai](/claude-planned-dubai-trip/) and [London](/ai-planned-london-weekend/). For the best prompts to use, read our [ChatGPT travel planning prompts guide](/chatgpt-travel-planning-prompts/).*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

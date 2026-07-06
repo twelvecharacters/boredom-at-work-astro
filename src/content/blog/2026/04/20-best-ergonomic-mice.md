@@ -333,4 +333,4 @@ But if your wrist is telling you something's wrong, listen to it. A $32-100 mous
 Your future wrist will thank you.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

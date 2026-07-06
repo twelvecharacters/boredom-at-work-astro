@@ -191,4 +191,4 @@ One more option worth considering: buy a refurbished Aeron. Used Aerons in good 
 Whatever you decide, a good chair is the single best investment in your home office. It's the piece of equipment you touch for every second of every workday. Check out our full [office chair roundup](/best-office-chairs/) for more options at every price point.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

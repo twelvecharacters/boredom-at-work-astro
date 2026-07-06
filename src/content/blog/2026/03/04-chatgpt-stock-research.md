@@ -378,4 +378,3 @@ If you're building a stock research workflow, these guides will round out your t
 - **[25 Productive Things to Do When Bored at Work](/productive-things-bored-at-work/)**, More ways to turn dead time into career growth
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

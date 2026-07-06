@@ -320,4 +320,3 @@ Coursera now uses a "preview mode" that gives free access to the first module of
 - [25 Productive Things to Do When Bored at Work (2026)](/productive-things-bored-at-work/), More ways to use your downtime
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

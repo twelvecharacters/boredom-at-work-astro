@@ -406,4 +406,4 @@ Which destination fits me best and why?
 - **Master AI travel:** [AI Travel Planning Hub](/ai-travel-planning/)
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

@@ -186,4 +186,4 @@ Total: roughly 2 hours and 15 minutes. That's it. One evening, and you're more p
 For more ways to use AI tools at work beyond interview prep, check out our roundup of the [best AI tools for office work](/best-ai-tools-office-work/), several of the tools there will also help with resume writing, cover letters, and career planning.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

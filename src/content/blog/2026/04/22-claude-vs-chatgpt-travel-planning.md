@@ -244,4 +244,4 @@ For celiac disease or serious allergies, Claude's cautious approach ("verify thi
 - [AI-Planned Istanbul Solo Trip](/ai-planned-istanbul-solo-trip/), See an AI-assisted trip in practice
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

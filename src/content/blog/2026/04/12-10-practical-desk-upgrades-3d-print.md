@@ -161,4 +161,4 @@ But the real "return on investment" isn't the money saved; it’s the friction r
 *New to the hobby? Check out our [Best 3D Printers Under $300](/best-3d-printers-under-300/) guide to find the machine that will build your next upgrade. Already have a printer and want to level up your whole workspace? See our [Desk Upgrade Guide](/desk-upgrade-guide/) for the full picture.*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

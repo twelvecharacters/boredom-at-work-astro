@@ -247,4 +247,3 @@ Use AI for the **creative and structural work**. Handle the **verification and l
 - [AI-Planned Istanbul Solo Trip](/ai-planned-istanbul-solo-trip/), Real-world example of which advice held up
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

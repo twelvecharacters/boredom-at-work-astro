@@ -339,4 +339,4 @@ Whatever you choose, get a dual-motor desk with at least a 5-year warranty. Your
 *Last updated: March 2026*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

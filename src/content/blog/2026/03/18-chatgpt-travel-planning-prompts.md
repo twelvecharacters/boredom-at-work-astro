@@ -375,4 +375,3 @@ When a prompt works well, save it. Create a travel planning template you can reu
 - [AI Tools Guide](/ai-tools-guide/), All AI tools compared
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

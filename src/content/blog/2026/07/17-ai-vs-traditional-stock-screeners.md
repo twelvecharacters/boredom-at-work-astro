@@ -252,4 +252,4 @@ Not sure which tools to pick? Use the calculator below to select the tools you'r
 *Disclaimer: This article is for informational and educational purposes only. Nothing here constitutes financial advice. Mentions of specific tools or stocks are not endorsements. Always do your own research before making investment decisions.*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

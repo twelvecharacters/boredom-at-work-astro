@@ -326,4 +326,4 @@ The shipping costs and proxy fees are worth it when you're getting items at 30-5
 Start exploring during your next slow afternoon at work. You might discover your new favorite thing.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

@@ -342,4 +342,3 @@ Take a weekend to explore. There's a lot here, and the hidden features are worth
 - [Pearcleaner: The Best Free Mac App Uninstaller](/pearcleaner-homebrew-guide/), Keep your Mac clean with this source-available tool
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

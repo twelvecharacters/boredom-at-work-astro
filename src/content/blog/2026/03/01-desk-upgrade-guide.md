@@ -371,4 +371,3 @@ Total: ~$1,100-1,400 for a setup that supports your health, looks professional, 
 *Questions not covered here? [Let us know](/contact/).*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

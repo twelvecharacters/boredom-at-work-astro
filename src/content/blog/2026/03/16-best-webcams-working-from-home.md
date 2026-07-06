@@ -415,4 +415,3 @@ If you're building out a proper home office, a webcam pairs nicely with a solid 
 Now stop reading webcam reviews and get back to looking busy.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

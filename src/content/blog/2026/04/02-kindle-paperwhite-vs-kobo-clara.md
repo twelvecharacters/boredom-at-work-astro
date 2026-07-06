@@ -160,4 +160,4 @@ Looking for accessories for either device? Check our guide to the [best Kindle a
 If you make a lot of these head-to-head buying decisions, our [AirPods vs Galaxy Buds vs Sony](/airpods-vs-galaxy-buds-vs-sony/) earbud comparison uses the same approach. Looking to round out your gear list on a budget? See the [best tech gifts under $50](/best-tech-gifts-under-50/).
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

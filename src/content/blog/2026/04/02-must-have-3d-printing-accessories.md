@@ -172,4 +172,4 @@ Now that your workshop is fully equipped, why not test your skills on a complex 
 **Happy printing!**
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

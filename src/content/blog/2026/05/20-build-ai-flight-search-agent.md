@@ -405,4 +405,4 @@ For now, agents excel at *finding* deals, you still click "book" yourself.
 - **Learn more about AI**: [Best Free AI Courses](/best-free-ai-courses/)
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

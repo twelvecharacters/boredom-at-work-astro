@@ -185,4 +185,3 @@ Check out our other 2026 photography guides:
 **What's in your bag?** Let us know in the comments if a lens upgrade changed your photography more than a body upgrade.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

@@ -190,4 +190,3 @@ For more on which filaments to use when, see our [PLA vs PETG vs ABS guide](/pla
 - [Best 3D Printers Under $300](/best-3d-printers-under-300/)
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).

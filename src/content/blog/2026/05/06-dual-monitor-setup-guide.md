@@ -336,4 +336,4 @@ Not sure if you should go dual or ultrawide? Read our [ultrawide vs dual monitor
 **More desk upgrades:** Check the [complete desk upgrade guide](/desk-upgrade-guide/) for the full home office roadmap, chairs, desks, monitor arms, [cable management](/cable-management-tips/), and everything else.
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

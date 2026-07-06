@@ -163,4 +163,4 @@ Every time you don't have to search for a window, every time you don't have to w
 - [Best AI Chrome Extensions](/best-ai-chrome-extensions/)
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). 
+ 

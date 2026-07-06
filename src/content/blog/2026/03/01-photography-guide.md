@@ -470,4 +470,3 @@ Now go take some photos.
 *Have a question not covered here? [Let us know](/contact/).*
 
 
-For more insights, check out our [guide on productivity](/how-to-never-be-bored-at-work/). Also, learn more at the [official Wikipedia page](https://en.wikipedia.org/).
