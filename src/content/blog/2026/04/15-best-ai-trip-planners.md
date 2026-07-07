@@ -1,5 +1,5 @@
 ---
-title: "Best AI Trip Planners 2026: 8 Tools Compared"
+title: "Best AI Trip Planners 2026: 9 Tools Compared"
 slug: "best-ai-trip-planners"
 description: "We tested the top AI trip planners to find the best one for your travel style. Mindtrip, Wanderlog, Layla, and more, here's our honest ranking."
 publishDate: 2026-04-15
@@ -20,7 +20,7 @@ faq:
 
 AI trip planners have exploded in 2026, promising to turn your vacation dreams into ready-to-book itineraries. But which ones actually deliver?
 
-We tested 8 popular AI trip planners by creating the same itinerary on each: a 10-day Japan trip covering Tokyo, Kyoto, and Osaka. Here's what we found.
+We tested 8 popular AI trip planners by creating the same itinerary on each: a 10-day Japan trip covering Tokyo, Kyoto, and Osaka. We've since added a 9th, G8Trip, assessed on its live feature set and a sample itinerary. Here's what we found.
 
 ## Quick Comparison
 
@@ -34,6 +34,7 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 | **Roam Around** | Fast itineraries | Free | ⭐⭐⭐ |
 | **Wonderplan** | Budget trips | Free | ⭐⭐⭐ |
 | **iPlan.ai** | Simple trips | Free/Premium | ⭐⭐⭐ |
+| **G8Trip** | Group trips & booking | Free | ⭐⭐⭐⭐ |
 
 ---
 
@@ -222,6 +223,31 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 
 ---
 
+## 9. [G8Trip](https://g8trip.com) - Best for Group Trips & All-in-One Booking
+
+**What it is**: An AI assistant (Vani) that builds a day-by-day itinerary and then keeps going, into live flight search, hotels, visas, eSIM, and insurance, all in one conversation. It's powered by Cleartrip's booking inventory.
+
+**What we loved**:
+- Genuinely closes the loop: itinerary to flights, hotels, visa, eSIM, and insurance in one place
+- Native group planning, invite others to a shared trip and merge everyone's preferences
+- Clean day-by-day view with time-blocked activities, photos, and a map
+- Context built in: currency, language, and seasonal packing notes
+- Conversational refinement ("Ask Vani anything about your trip")
+
+**What could be better**:
+- Booking and flight pricing are India-centric (Cleartrip), so live prices are most useful for travel from India and Asia, less so from North America
+- Requires a phone number or Google sign-in before it reveals your finished plan
+- Activity descriptions are brief compared to Mindtrip
+- Newer and less proven than the established players
+
+**Best for**: Group trips, and travelers in India or Asia who want to go from idea to booking without switching tabs.
+
+**Price**: Free.
+
+**Our take**: G8Trip is the only tool here that tries to replace the whole tab-juggling workflow, plan the trip, book flights and hotels, and sort a visa and an eSIM, all in a single chat. The group planning is genuinely useful. Just know the booking engine is built around Indian and Asian travel, so its live-pricing edge fades if you're flying from the US or Canada.
+
+---
+
 ## Which Should You Choose?
 
 **For most trips**: Start with **Mindtrip**. It offers the best balance of AI intelligence and practical features.
@@ -233,6 +259,8 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 **For budget trips**: **Wonderplan** or **Google Gemini** (free and budget-focused).
 
 **For quick inspiration**: **Roam Around** generates instant ideas.
+
+**For group trips or all-in-one booking**: **G8Trip** plans and books flights, hotels, and visas in one chat (best for travel within India and Asia).
 
 ---
 
