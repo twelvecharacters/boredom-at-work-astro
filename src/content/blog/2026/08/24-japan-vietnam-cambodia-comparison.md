@@ -160,7 +160,7 @@ Since I'm planning for November 2026, I asked AI to analyze the weather.
 
 **Best for:** Temple lovers, photographers, history buffs, beach seekers wanting value.
 
-**Detailed guide:** [AI Trip Planning: Cambodia](/ai-trip-planning-cambodia/)
+**Detailed guide:** [AI Trip Planning: Cambodia](/tags/travel/)
 
 ---
 
@@ -401,7 +401,7 @@ Which destination fits me best and why?
 - **Destination deep-dives:**
   - [AI Trip Planning: Japan](/ai-trip-planning-japan/)
   - [AI Trip Planning: Vietnam](/ai-trip-planning-vietnam/)
-  - [AI Trip Planning: Cambodia](/ai-trip-planning-cambodia/)
+  - [AI Trip Planning: Cambodia](/tags/travel/)
 - **Build your flight monitor:** [AI Flight Search Agent Tutorial](/build-ai-flight-search-agent/)
 - **Master AI travel:** [AI Travel Planning Hub](/ai-travel-planning/)
 

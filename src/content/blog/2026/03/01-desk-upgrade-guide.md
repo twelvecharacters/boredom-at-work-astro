@@ -43,7 +43,7 @@ This is a **hub page**,a central starting point for your desk upgrade journey.
 - [Best Monitor Arms](/best-monitor-arms/), Monitor positioning
 - [Cable Management Tips](/cable-management-tips/), Hide the mess
 
-**If you're on a budget:** Check the Budget Setup section below, or jump straight to our [home office setup budget guide](/home-office-setup-budget-guide/) with complete shopping lists at $500, $1,000, and $2,000.
+**If you're on a budget:** Check the Budget Setup section below, or jump straight to our [home office setup budget guide](/tags/home-office/) with complete shopping lists at $500, $1,000, and $2,000.
 
 ---
 
@@ -276,7 +276,7 @@ Once you have your gear, set it up correctly:
 - [ ] Screen at arm's length (~20-26 inches)
 - [ ] Slight backward tilt (10-20°)
 - [ ] Centered in front of you
-- [ ] Proper lighting to reduce glare and eye strain (see our [home office lighting guide](/home-office-lighting-guide/))
+- [ ] Proper lighting to reduce glare and eye strain (see our [home office lighting guide](/tags/home-office/))
 
 ### Desk Setup
 - [ ] Keyboard at elbow height when typing (upgrading? See our [mechanical keyboard guide](/best-mechanical-keyboards-beginners/))
@@ -339,7 +339,7 @@ The best gear set up wrong is worse than average gear set up right. Spend 10 min
 
 **Desk Accessories:**
 - [Best Desk Mats](/best-desk-mats/)
-- [Best Desk Shelves & Organizers](/best-desk-shelves-organizers/)
+- [Best Desk Shelves & Organizers](/tags/home-office/)
 - [Best Laptop Stands](/best-laptop-stands/)
 - [Best Under-Desk Footrests](/best-footrests/)
 - [Cable Management Tips](/cable-management-tips/)

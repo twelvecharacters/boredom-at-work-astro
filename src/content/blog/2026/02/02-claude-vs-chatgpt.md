@@ -339,7 +339,7 @@ Both cost $20/month for Pro/Plus. Both have useful free tiers.
 
 **Get both** if you use AI heavily for work. They complement each other well, Claude for quality, ChatGPT for visual content and features.
 
-The good news: you can't go wrong with either. Both are genuinely useful tools that can improve your productivity. Try the free tiers of each and see which fits your workflow better. For a broader comparison that includes Google Gemini, check out our [ChatGPT vs Claude vs Gemini](/chatgpt-vs-claude-vs-gemini/) breakdown.
+The good news: you can't go wrong with either. Both are genuinely useful tools that can improve your productivity. Try the free tiers of each and see which fits your workflow better. For a broader comparison that includes Google Gemini, check out our [ChatGPT vs Claude vs Gemini](/tags/ai/) breakdown.
 
 ---
 

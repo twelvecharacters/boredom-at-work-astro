@@ -199,7 +199,7 @@ The best part: you can do this during your lunch break, which is exactly the kin
 
 Paste any earnings call transcript into the tool below and get 5 ready-to-use analysis prompts, pre-filled with the company name, quarter, detected metrics, and key topics. Everything runs in your browser, nothing is sent to any server.
 
-**Related:** Learn how to use AI for [portfolio analysis](/ai-portfolio-analysis-chatgpt/) and see our comparison of [AI vs. traditional stock screeners](/ai-vs-traditional-stock-screeners/). For more AI finance tools, check the [investing tools guide](/investing-tools-guide/).
+**Related:** Learn how to use AI for [portfolio analysis](/tags/investing/) and see our comparison of [AI vs. traditional stock screeners](/tags/investing/). For more AI finance tools, check the [investing tools guide](/investing-tools-guide/).
 
 ---
 

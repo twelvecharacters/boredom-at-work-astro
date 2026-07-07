@@ -85,13 +85,13 @@ Before you put real money anywhere, learn what you're doing. These resources are
 
 Podcasts are the stealth learning tool. Earbuds in, [noise-canceling headphones](/best-noise-canceling-headphones-office/) on, and you're "in a meeting" while learning about index fund allocation.
 
-**Deep dive:** [Best Investing Podcasts](/best-investing-podcasts/), 8 podcasts ranked by level, from total beginner to advanced.
+**Deep dive:** [Best Investing Podcasts](/tags/podcasts/), 8 podcasts ranked by level, from total beginner to advanced.
 
 ### Reddit Communities
 
 Some of the best investing education happens on Reddit, if you know where to look. r/Bogleheads for index investing philosophy, r/personalfinance for the basics, r/ValueInvesting for analysis.
 
-**Deep dive:** [Best Finance Subreddits](/best-finance-subreddits/), 12 subreddits ranked by quality and helpfulness.
+**Deep dive:** [Best Finance Subreddits](/tags/finance/), 12 subreddits ranked by quality and helpfulness.
 
 ---
 
@@ -140,7 +140,7 @@ Once you're comfortable buying index funds and ETFs, you might want to research 
 
 ### Stock Screeners
 
-Stock screeners filter thousands of stocks by criteria you set, P/E ratio, market cap, dividend yield, sector, growth rate. They're how you go from "I want to invest in tech" to "here are 12 specific companies worth researching." New to charts and technical indicators? Start with our [beginner's guide to reading stock charts](/how-to-read-stock-charts-beginners/) before diving into screeners.
+Stock screeners filter thousands of stocks by criteria you set, P/E ratio, market cap, dividend yield, sector, growth rate. They're how you go from "I want to invest in tech" to "here are 12 specific companies worth researching." New to charts and technical indicators? Start with our [beginner's guide to reading stock charts](/tags/investing/) before diving into screeners.
 
 | Screener | Price | Best For |
 |----------|-------|----------|
@@ -272,11 +272,11 @@ This five-step approach beats 90% of active traders over the long run. Index inv
 
 **Learning & Research:**
 - [8 Best Free Investing Courses](/best-free-investing-courses/)
-- [Best Investing Podcasts](/best-investing-podcasts/)
-- [Best Finance Subreddits](/best-finance-subreddits/)
+- [Best Investing Podcasts](/tags/podcasts/)
+- [Best Finance Subreddits](/tags/finance/)
 - [Best Stock News Apps](/best-stock-news-apps/)
-- [Best Finance YouTube Channels](/best-finance-youtube-channels/)
-- [How to Read Stock Charts (Beginners)](/how-to-read-stock-charts-beginners/)
+- [Best Finance YouTube Channels](/tags/finance/)
+- [How to Read Stock Charts (Beginners)](/tags/investing/)
 
 **Tools & Apps:**
 - [7 Best Paper Trading Apps](/best-paper-trading-apps/)
@@ -287,9 +287,9 @@ This five-step approach beats 90% of active traders over the long run. Index inv
 
 **AI-Powered Investing:**
 - [ChatGPT for Stock Research](/chatgpt-stock-research/)
-- [How to Analyze Your Portfolio With ChatGPT](/ai-portfolio-analysis-chatgpt/)
-- [AI Earnings Call Analysis](/ai-earnings-call-analysis/)
-- [AI vs Traditional Stock Screeners](/ai-vs-traditional-stock-screeners/)
+- [How to Analyze Your Portfolio With ChatGPT](/tags/investing/)
+- [AI Earnings Call Analysis](/tags/investing/)
+- [AI vs Traditional Stock Screeners](/tags/investing/)
 
 **Advanced:**
 - [How Prediction Markets Work](/prediction-markets-guide/)

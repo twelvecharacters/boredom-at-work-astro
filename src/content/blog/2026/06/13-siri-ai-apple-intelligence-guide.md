@@ -113,8 +113,8 @@ The future of personal computing is here, and it is intelligent, context-aware, 
 
 ## Related Articles
 
-- [Best ChatGPT Plugins in 2026? They're Now Custom GPTs](/blog/best-chatgpt-plugins-custom-gpts)
-- [AI-Powered Fitness Trackers: The Future of Personal Health in 2026](/blog/ai-powered-fitness-trackers)
+- [Best ChatGPT Plugins in 2026? They're Now Custom GPTs](/best-chatgpt-plugins-custom-gpts/)
+- [AI-Powered Fitness Trackers: The Future of Personal Health in 2026](/ai-powered-fitness-trackers/)
 
 ---
 *Additional Note: This article provides a comprehensive overview of the current state of Apple Intelligence as of June 2026. As the ecosystem matures and more developer tools are released, we expect to see even deeper integration into third-party applications, further enhancing the capabilities of Siri AI and its agentic functions.*

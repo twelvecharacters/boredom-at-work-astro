@@ -315,7 +315,7 @@ For my potential November 2026 trip:
 ## Related Guides
 
 - **Currently planning:** [My Southeast Asia Trip 2026](/ai-planning-southeast-asia-trip-2026/)
-- **Compare options:** [Japan vs Vietnam vs Cambodia](/japan-vietnam-cambodia-comparison/)
+- **Compare options:** [Japan vs Vietnam vs Cambodia](/tags/travel/)
 - **Similar trip:** [Malaysia with ChatGPT](/chatgpt-malaysia-trip-planning/)
 - **Build your flight agent:** [AI Flight Search Tutorial](/build-ai-flight-search-agent/)
 - **Master AI travel:** [AI Travel Planning Hub](/ai-travel-planning/)

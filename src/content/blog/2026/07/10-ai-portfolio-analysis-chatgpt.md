@@ -193,7 +193,7 @@ Twenty minutes for a comprehensive portfolio checkup. Not bad for free (well, $2
 
 Before uploading to ChatGPT or Claude, get an instant preview with our free browser-based tool below. It analyzes your CSV locally, your data never leaves your device, and generates pre-filled AI prompts you can copy straight into your chatbot of choice.
 
-**Related:** If you're using AI for [stock research](/chatgpt-stock-research/), check out our guide on [AI vs. traditional stock screeners](/ai-vs-traditional-stock-screeners/) and how to use [AI for earnings call analysis](/ai-earnings-call-analysis/).
+**Related:** If you're using AI for [stock research](/chatgpt-stock-research/), check out our guide on [AI vs. traditional stock screeners](/tags/investing/) and how to use [AI for earnings call analysis](/tags/investing/).
 
 ---
 

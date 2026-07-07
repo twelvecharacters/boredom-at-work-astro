@@ -91,7 +91,7 @@ Your Kindle's battery lasts weeks. But if you want to stretch it even further, t
 
 With airplane mode on, expect 8–10+ weeks on a single charge with daily reading. Useful for long trips where you won't have a charger. Just toggle Wi-Fi back on when you need to download new books.
 
-If your Kindle stops holding a charge or won't power on at all, that's usually fixable. Our [Kindle won't turn on or charge](/kindle-wont-turn-on-charge/) guide covers the hard reset and charging fixes that revive most devices.
+If your Kindle stops holding a charge or won't power on at all, that's usually fixable. Our [Kindle won't turn on or charge](/tags/kindle/) guide covers the hard reset and charging fixes that revive most devices.
 
 ---
 

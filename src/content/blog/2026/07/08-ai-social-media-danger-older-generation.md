@@ -76,7 +76,7 @@ Because older users often lack the technical literacy to look for the subtle art
 
 ## The Gamification of Misinformation: AI-Bot Networks
 
-Social media is not just populated by humans; it is heavily populated by AI-driven bots. These are not the rudimentary, easily identifiable bots of the 2010s. Modern AI bots, powered by [Large Language Models (LLMs) like ChatGPT](/chatgpt-vs-claude-vs-gemini/), can maintain context, argue persuasively, express simulated empathy, and mimic human typing patterns flawlessly.
+Social media is not just populated by humans; it is heavily populated by AI-driven bots. These are not the rudimentary, easily identifiable bots of the 2010s. Modern AI bots, powered by [Large Language Models (LLMs) like ChatGPT](/tags/ai/), can maintain context, argue persuasively, express simulated empathy, and mimic human typing patterns flawlessly.
 
 ### The Illusion of Consensus
 
@@ -115,6 +115,6 @@ The integration of Artificial Intelligence into social media is not merely a tec
 
 Addressing this crisis requires a multi-pronged approach: intense regulatory pressure on social media platforms to identify and throttle synthetic media, the dismantling of outrage-driven recommendation algorithms, and a massive, compassionate, society-wide effort to update the digital literacy of the elderly. 
 
-The invisible threat of AI is here. If we do not actively protect those who cannot protect themselves against these digital ghosts, the cost will be measured not just in [stolen retirement funds](/ai-portfolio-analysis-chatgpt/), but in the tragic, algorithmic isolation of an entire generation.
+The invisible threat of AI is here. If we do not actively protect those who cannot protect themselves against these digital ghosts, the cost will be measured not just in [stolen retirement funds](/tags/investing/), but in the tragic, algorithmic isolation of an entire generation.
 
 

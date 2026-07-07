@@ -401,7 +401,7 @@ You now have everything you need to plan your first AI-assisted trip. Here's whe
 **Planning a specific destination?** Check the destination guides:
 - [AI Trip Planning: Japan](/ai-trip-planning-japan/)
 - [AI Trip Planning: Vietnam](/ai-trip-planning-vietnam/)
-- [AI Trip Planning: Cambodia](/ai-trip-planning-cambodia/)
+- [AI Trip Planning: Cambodia](/tags/travel/)
 
 ---
 

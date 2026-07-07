@@ -180,7 +180,7 @@ Check out our other 2026 photography guides:
 - [Cheap Manual Lenses for Beginners](/cheap-manual-lenses-beginners/)
 - [DSLR vs Mirrorless for Beginners](/dslr-vs-mirrorless-beginners/)
 - [Photography Buying Guide](/photography-buying-guide/)
-- [Sensor Size Guide: MFT, APS-C, and Full Frame Explained](/sensor-size-guide-mft-apsc-fullframe/)
+- [Sensor Size Guide: MFT, APS-C, and Full Frame Explained](/tags/photography/)
 
 **What's in your bag?** Let us know in the comments if a lens upgrade changed your photography more than a body upgrade.
 

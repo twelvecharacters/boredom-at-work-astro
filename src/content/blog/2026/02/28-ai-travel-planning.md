@@ -192,9 +192,9 @@ AI-powered planning guides for specific countries, including dietary considerati
 
 - **[AI Trip Planning: Vietnam](/ai-trip-planning-vietnam/)**, From Hanoi to Ho Chi Minh City. AI prompts for motorbike routes, street food tours, visa logistics, and navigating the language barrier.
 
-- **[AI Trip Planning: Cambodia](/ai-trip-planning-cambodia/)**, Angkor Wat and beyond. AI-assisted planning for temple circuits, ethical tourism, and combining with Vietnam or Thailand.
+- **[AI Trip Planning: Cambodia](/tags/travel/)**, Angkor Wat and beyond. AI-assisted planning for temple circuits, ethical tourism, and combining with Vietnam or Thailand.
 
-- **[Japan vs Vietnam vs Cambodia: Which Should You Visit?](/japan-vietnam-cambodia-comparison/)**, Can't decide? AI-powered comparison based on budget, travel style, interests, and time of year.
+- **[Japan vs Vietnam vs Cambodia: Which Should You Visit?](/tags/travel/)**, Can't decide? AI-powered comparison based on budget, travel style, interests, and time of year.
 
 ---
 

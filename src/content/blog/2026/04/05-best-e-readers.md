@@ -85,7 +85,7 @@ The 7-inch screen, physical page-turn buttons, and ergonomic asymmetric design m
 
 For manga, comics, or illustrated non-fiction, this is the best e-reader under $250.
 
-**Also worth considering:** The [Kindle Colorsoft Signature Edition](https://www.amazon.com/Kindle-Colorsoft-Signature-Edition/dp/B0CN1P7RSK) (~$280) is Amazon's first color Kindle. It uses a custom oxide-based color E Ink panel with 7-inch screen, IPX8 waterproofing, 32 GB storage, and wireless charging. Colors are slightly more vivid than Kaleido 3, but you lose Kobo's library integration and EPUB support. If you're already in the Kindle ecosystem and want color, it's the easier pick. We compare it head-to-head with the monochrome model in [Kindle Colorsoft vs Paperwhite](/kindle-colorsoft-vs-paperwhite/).
+**Also worth considering:** The [Kindle Colorsoft Signature Edition](https://www.amazon.com/Kindle-Colorsoft-Signature-Edition/dp/B0CN1P7RSK) (~$280) is Amazon's first color Kindle. It uses a custom oxide-based color E Ink panel with 7-inch screen, IPX8 waterproofing, 32 GB storage, and wireless charging. Colors are slightly more vivid than Kaleido 3, but you lose Kobo's library integration and EPUB support. If you're already in the Kindle ecosystem and want color, it's the easier pick. We compare it head-to-head with the monochrome model in [Kindle Colorsoft vs Paperwhite](/tags/kindle/).
 
 ## Best for Note-Taking: [Kindle Scribe](/kindle-scribe-review/)
 

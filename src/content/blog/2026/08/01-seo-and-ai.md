@@ -28,7 +28,7 @@ AI algorithms can discern whether you're looking for a list of recommendations, 
 
 ### Semantic Search is King in the AI Era
 
-Semantic search refers to a search engine's ability to understand the contextual meaning of search terms. AI models like [Google's Gemini](https://gemini.google.com/), [OpenAI's ChatGPT](https://chatgpt.com/), and [Anthropic's Claude](https://claude.ai/) have set a new standard for this. They analyze the relationships between words, the overall topic of a page, and even the underlying sentiment of the text. (If you're unsure which tool is right for you, check out our [comparison of ChatGPT, Claude, and Gemini](/chatgpt-vs-claude-vs-gemini/)). 
+Semantic search refers to a search engine's ability to understand the contextual meaning of search terms. AI models like [Google's Gemini](https://gemini.google.com/), [OpenAI's ChatGPT](https://chatgpt.com/), and [Anthropic's Claude](https://claude.ai/) have set a new standard for this. They analyze the relationships between words, the overall topic of a page, and even the underlying sentiment of the text. (If you're unsure which tool is right for you, check out our [comparison of ChatGPT, Claude, and Gemini](/tags/ai/)). 
 
 To optimize for semantic search, you need to create content that covers a topic exhaustively. Instead of creating ten different articles for ten long-tail keywords, you must create one authoritative, comprehensive pillar page that addresses all related queries. This signals to the AI that your page is a complete resource on the subject, establishing topical authority.
 

@@ -176,7 +176,7 @@ Converging trendlines that squeeze price into a tighter range until it breaks ou
 
 Start with TradingView. The free tier gives you everything you need to learn.
 
-For AI-powered analysis on top of traditional charting, see our [AI vs. traditional stock screeners](/ai-vs-traditional-stock-screeners/) comparison.
+For AI-powered analysis on top of traditional charting, see our [AI vs. traditional stock screeners](/tags/investing/) comparison.
 
 ---
 
@@ -214,7 +214,7 @@ You don't need to master technical analysis to be a better investor. Understandi
 
 **Start simple:** candlestick charts, volume, and the 200-day moving average. That alone puts you ahead of most retail investors.
 
-**Related:** Put your chart reading to work with our [best free stock screeners](/best-free-stock-screeners/) guide, practice risk-free with [paper trading apps](/best-paper-trading-apps/), or learn how [AI compares to traditional screeners](/ai-vs-traditional-stock-screeners/).
+**Related:** Put your chart reading to work with our [best free stock screeners](/best-free-stock-screeners/) guide, practice risk-free with [paper trading apps](/best-paper-trading-apps/), or learn how [AI compares to traditional screeners](/tags/investing/).
 
 ---
 

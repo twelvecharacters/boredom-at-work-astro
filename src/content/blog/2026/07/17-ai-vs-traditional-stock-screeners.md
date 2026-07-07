@@ -120,7 +120,7 @@ That last sentence is key, it forces ChatGPT to self-assess.
 
 Similar capabilities to ChatGPT for screening, with two advantages:
 
-- **200K token context:** Upload an entire [earnings call transcript](/ai-earnings-call-analysis/) alongside your screening request
+- **200K token context:** Upload an entire [earnings call transcript](/tags/investing/) alongside your screening request
 - **More cautious:** Claude tends to add more disclaimers and flag uncertainty, which is actually good for financial analysis
 
 **Limitation:** CSV parsing isn't as smooth as ChatGPT's built-in Python sandbox.
@@ -208,7 +208,7 @@ After testing various combinations, here's what I'd recommend:
 |------|---------|
 | Perplexity Pro ($20) | Daily discovery, AI screening |
 | Finviz Elite (~$25) | Precise screening, real-time data |
-| Claude/ChatGPT Pro ($20) | Deep analysis, [earnings calls](/ai-earnings-call-analysis/) |
+| Claude/ChatGPT Pro ($20) | Deep analysis, [earnings calls](/tags/investing/) |
 
 You don't need all three AI subscriptions. Pick one based on whether you value real-time data (Perplexity), deep analysis (Claude), or versatility (ChatGPT).
 
@@ -245,7 +245,7 @@ The best investors in 2026 use both. Start with AI for discovery and thesis-buil
 
 Not sure which tools to pick? Use the calculator below to select the tools you're considering and see your total monthly cost, feature coverage, and gaps. You can also compare against our recommended stacks.
 
-**Related:** Learn how to use AI for [portfolio analysis](/ai-portfolio-analysis-chatgpt/) and [earnings call analysis](/ai-earnings-call-analysis/). For a broader overview of investing tools, check the [investing tools guide](/investing-tools-guide/). Looking for free screeners specifically? See our [best free stock screeners](/best-free-stock-screeners/) roundup.
+**Related:** Learn how to use AI for [portfolio analysis](/tags/investing/) and [earnings call analysis](/tags/investing/). For a broader overview of investing tools, check the [investing tools guide](/investing-tools-guide/). Looking for free screeners specifically? See our [best free stock screeners](/best-free-stock-screeners/) roundup.
 
 ---
 

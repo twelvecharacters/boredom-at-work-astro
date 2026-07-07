@@ -162,7 +162,7 @@ To understand where Gemini fits into your toolkit, it’s helpful to look at how
 | **Technical Math/Coding** | **Very High** (Sandboxed Python) | High (Advanced Data Analysis) | **Exceptional** (Raw reasoning) |
 | **Best Used For** | Large files, Google ecosystem, Live | Fast tasks, custom tools | Long-form writing, deep coding |
 
-If you are torn between these platforms, read our comprehensive [ChatGPT vs Claude vs Gemini 2026 Comparison](/chatgpt-vs-claude-vs-gemini/) to find the perfect fit for your specific job role.
+If you are torn between these platforms, read our comprehensive [ChatGPT vs Claude vs Gemini 2026 Comparison](/tags/ai/) to find the perfect fit for your specific job role.
 
 ---
 
@@ -178,8 +178,8 @@ The next time you find yourself with some downtime at your desk, don't just scro
 
 ## Related Articles
 *   [Mastering Prompt Engineering in One Afternoon](/prompt-engineering-afternoon/)
-*   [ChatGPT vs Claude vs Gemini: The 2026 Showdown](/chatgpt-vs-claude-vs-gemini/)
+*   [ChatGPT vs Claude vs Gemini: The 2026 Showdown](/tags/ai/)
 *   [Google Gemini for Travel: Tips and Prompts](/gemini-travel-planning/)
-*   [Top 7 Repetitive Office Tasks You Can Automate with AI](/ai-office-automation-tasks/)
+*   [Top 7 Repetitive Office Tasks You Can Automate with AI](/tags/automation/)
 
 

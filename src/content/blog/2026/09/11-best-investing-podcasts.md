@@ -131,7 +131,7 @@ ChooseFI is the podcast arm of the financial independence / retire early (FIRE) 
 
 **Why it's great:** ChooseFI makes FIRE feel achievable rather than extreme. The hosts are relatable, the strategies are practical, and the community episodes prove that regular people (not just tech millionaires) are reaching financial independence. It's motivating without being preachy.
 
-**Pairs well with:** The r/financialindependence and r/Bogleheads communities on Reddit (see our [finance subreddits guide](/best-finance-subreddits/)).
+**Pairs well with:** The r/financialindependence and r/Bogleheads communities on Reddit (see our [finance subreddits guide](/tags/finance/)).
 
 **Work-friendliness:** ★★★★, Longer episodes, but content-dense. Good for commutes or extended focus blocks.
 
@@ -269,7 +269,7 @@ Start with **Planet Money** (economic literacy) and **The Plain Bagel** (investi
 
 The best investing education is the one you actually consume. And podcasts fit into your day without requiring you to sit down and study.
 
-**More learning resources:** [Best Free Investing Courses](/best-free-investing-courses/) for structured learning, [Best Finance Subreddits](/best-finance-subreddits/) for community discussion, and the [Investing Tools Guide](/investing-tools-guide/) for the complete toolkit.
+**More learning resources:** [Best Free Investing Courses](/best-free-investing-courses/) for structured learning, [Best Finance Subreddits](/tags/finance/) for community discussion, and the [Investing Tools Guide](/investing-tools-guide/) for the complete toolkit.
 
 
  

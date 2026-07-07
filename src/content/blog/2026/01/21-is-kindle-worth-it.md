@@ -218,7 +218,7 @@ The best e-reader is the one you'll actually use. For many people, that's a Kind
 
 If you do buy a Kindle and want to push it further, our [Kindle modding guide](/kindle-modding-guide/) covers jailbreaking, KOReader, and getting native EPUB support without Calibre conversions.
 
-Studying or in school? See which model fits coursework and PDFs best in [best Kindle for students](/best-kindle-for-students/). And if an older Kindle ever stops responding, our [Kindle won't turn on or charge](/kindle-wont-turn-on-charge/) fixes will likely revive it.
+Studying or in school? See which model fits coursework and PDFs best in [best Kindle for students](/tags/kindle/). And if an older Kindle ever stops responding, our [Kindle won't turn on or charge](/tags/kindle/) fixes will likely revive it.
 
 Already have a Kindle and need something to read on it? Our [books for productive procrastination](/books-for-productive-procrastination/) list works perfectly for desk reading. For more ways to stay focused at work, see our guide to [using AI at work safely](/how-to-use-ai-at-work-safely/).
 

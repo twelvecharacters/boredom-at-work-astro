@@ -58,7 +58,7 @@ TRMNL isn't just a piece of hardware; it’s backed by a sophisticated cloud (or
 
 While the pre-built plugins are great, the real power of TRMNL for the *Boredom at Work* crowd is its **open-source friendliness**. This is a device built for people who like to tinker.
 
-If you’ve been following my [Gemini-enhanced coding workflow](/blog/archive/2026/04/how-gemini-changed-my-coding-flow/), you’ll realize how easy it is to create custom integrations for TRMNL. The device uses **[Liquid](https://shopify.github.io/liquid/)**, the same templating engine used by Shopify, to render its screens.
+If you’ve been following my [Gemini-enhanced coding workflow](/how-gemini-changed-my-coding-flow/), you’ll realize how easy it is to create custom integrations for TRMNL. The device uses **[Liquid](https://shopify.github.io/liquid/)**, the same templating engine used by Shopify, to render its screens.
 
 ### How to Build a Custom Screen:
 1. **The Data:** You provide a JSON endpoint. This could be a simple serverless function or a Python script running on your local machine.

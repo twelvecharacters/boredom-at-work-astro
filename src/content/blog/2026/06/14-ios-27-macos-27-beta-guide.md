@@ -100,6 +100,6 @@ Just remember: enjoy the features, but respect the beta. Protect your data with 
 
 ## Related Articles
 
-- [The New Siri AI: A Comprehensive Guide to Apple Intelligence in 2026](/blog/siri-ai-apple-intelligence-guide)
-- [Best ChatGPT Plugins in 2026? They're Now Custom GPTs](/blog/best-chatgpt-plugins-custom-gpts)
-- [AI-Powered Fitness Trackers: The Future of Personal Health in 2026](/blog/ai-powered-fitness-trackers)
+- [The New Siri AI: A Comprehensive Guide to Apple Intelligence in 2026](/siri-ai-apple-intelligence-guide/)
+- [Best ChatGPT Plugins in 2026? They're Now Custom GPTs](/best-chatgpt-plugins-custom-gpts/)
+- [AI-Powered Fitness Trackers: The Future of Personal Health in 2026](/ai-powered-fitness-trackers/)

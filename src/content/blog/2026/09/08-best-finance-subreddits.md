@@ -298,7 +298,7 @@ If you hold any cryptocurrency, this is the subreddit that covers it all, Bitcoi
 3. **Look for quality, not upvotes.** The most upvoted content isn't always the best. Memes get more upvotes than thoughtful analysis.
 4. **Read the wikis and sidebars.** r/personalfinance and r/Bogleheads have excellent wiki resources that took years to develop.
 5. **Lurk before posting.** Spend a week reading each subreddit before asking questions. Your question has probably been answered.
-6. **Diversify your sources.** Don't get all your investing education from Reddit. Combine with [courses](/best-free-investing-courses/), [podcasts](/best-investing-podcasts/), and books.
+6. **Diversify your sources.** Don't get all your investing education from Reddit. Combine with [courses](/best-free-investing-courses/), [podcasts](/tags/podcasts/), and books.
 
 ### My Daily Reddit Finance Routine
 

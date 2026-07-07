@@ -67,7 +67,7 @@ Job crafting is the proactive, employee-driven process of redefining and shaping
 
 Task crafting involves deliberately altering the type, scope, complexity, or number of tasks you perform on a daily basis. This does not necessarily mean doing less work; it often means doing different work, or approaching your existing work from an entirely new angle.
 
-*   **Conduct an Energy Audit:** Take one full week to ruthlessly audit your tasks. Write down everything you do and categorize it. Which activities leave you feeling completely depleted, irritable, and bored? These are your "Energy Drains." Can these drains be [automated using AI office tools](/ai-office-automation-tasks/)? Can they be delegated to someone who might actually enjoy them? Can they be batched together into one focused hour on Friday afternoon to minimize their impact on your week?
+*   **Conduct an Energy Audit:** Take one full week to ruthlessly audit your tasks. Write down everything you do and categorize it. Which activities leave you feeling completely depleted, irritable, and bored? These are your "Energy Drains." Can these drains be [automated using AI office tools](/tags/automation/)? Can they be delegated to someone who might actually enjoy them? Can they be batched together into one focused hour on Friday afternoon to minimize their impact on your week?
 *   **Double Down on "Energy Gains":** Conversely, which tasks make you lose track of time? When do you feel most alive at work? How can you strategically incorporate more of these specific activities into your weekly routine?
 *   **Pitch "Intrapreneurial" Projects:** Do not passively wait for interesting assignments to be handed down to you by your manager. Actively identify inefficiencies in your department, bottlenecks in workflows, or potential areas for revenue growth. Once you identify a problem, develop a solution, and pitch a new project to your boss. This demonstrates massive initiative and allows you to create highly engaging work out of thin air.
 
@@ -120,7 +120,7 @@ Close the fifty open browser tabs. They are draining your computer's RAM and you
 
 ### Physical Optimization and Ergonomics
 
-Change your physical environment whenever possible. If you work on a laptop, do not sit at the exact same desk every single day. Move to a different floor, utilize a quiet pod, or work from a local coffee shop for an afternoon. A simple change of scenery can act as a powerful reset button for your brain's spatial awareness, instantly breaking the cycle of visual and mental monotony. Furthermore, [invest in your home office lighting](/home-office-lighting-guide/) and ergonomics. If you are physically uncomfortable, your brain will interpret that discomfort as a desire to escape the task, manifesting as severe boredom.
+Change your physical environment whenever possible. If you work on a laptop, do not sit at the exact same desk every single day. Move to a different floor, utilize a quiet pod, or work from a local coffee shop for an afternoon. A simple change of scenery can act as a powerful reset button for your brain's spatial awareness, instantly breaking the cycle of visual and mental monotony. Furthermore, [invest in your home office lighting](/tags/home-office/) and ergonomics. If you are physically uncomfortable, your brain will interpret that discomfort as a desire to escape the task, manifesting as severe boredom.
 
 ## Strategy 5: Lateral Movement and Internal Mobility
 

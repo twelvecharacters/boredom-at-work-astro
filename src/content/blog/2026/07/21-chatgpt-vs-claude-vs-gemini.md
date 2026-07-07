@@ -64,7 +64,7 @@ All three have usable free tiers. The $20 tier is where the real value lives.
 | **Context window** | 256K tokens | 200K (Opus), 1M (Sonnet) | 1M tokens |
 | **Reasoning model** | o3 | Built into Opus | Built into 3.1 Pro |
 
-**Context window matters for:** analyzing long documents, entire codebases, [earnings call transcripts](/ai-earnings-call-analysis/), or uploading multiple files at once.
+**Context window matters for:** analyzing long documents, entire codebases, [earnings call transcripts](/tags/investing/), or uploading multiple files at once.
 
 ---
 
@@ -73,7 +73,7 @@ All three have usable free tiers. The $20 tier is where the real value lives.
 ### ChatGPT: The Ecosystem King
 
 **Best at:**
-- **Data analysis.** Upload a CSV and get charts, calculations, and Python-powered analysis instantly. The built-in code sandbox is unmatched, perfect for [portfolio analysis](/ai-portfolio-analysis-chatgpt/)
+- **Data analysis.** Upload a CSV and get charts, calculations, and Python-powered analysis instantly. The built-in code sandbox is unmatched, perfect for [portfolio analysis](/tags/investing/)
 - **Image generation.** DALL-E is built in. Claude and Gemini can't generate images natively
 - **Plugin ecosystem.** Custom GPTs, browsing, third-party integrations. The GPT Store has thousands of specialized tools
 - **Speed.** Fastest initial response latency of the three
@@ -104,7 +104,7 @@ You can learn more about each platform's capabilities at [openai.com](https://op
 ### Gemini: The Google Native
 
 **Best at:**
-- **Massive context.** 1M tokens means you can upload entire books, codebases, or [multiple earnings reports](/ai-earnings-call-analysis/) at once
+- **Massive context.** 1M tokens means you can upload entire books, codebases, or [multiple earnings reports](/tags/investing/) at once
 - **Google integration.** Works natively with Gmail, Docs, Drive, Sheets, Calendar. If you live in Google Workspace, nothing else comes close
 - **Real-time information.** Built-in Google Search gives it current data, no knowledge cutoff issues
 - **Multimodal.** Strong at analyzing images, videos, and audio files
@@ -159,7 +159,7 @@ ChatGPT gives you the most messages. Claude's limits are tighter but the quality
 **Gemini**, 1M token context for research papers, real-time web access for current sources, free tier is generous. Google Scholar integration is a nice bonus.
 
 ### For Investors
-**ChatGPT** for [portfolio analysis](/ai-portfolio-analysis-chatgpt/) (CSV upload + charts). **Claude** for [earnings call analysis](/ai-earnings-call-analysis/) (context window). **Perplexity** for real-time market data and [stock screening](/ai-vs-traditional-stock-screeners/).
+**ChatGPT** for [portfolio analysis](/tags/investing/) (CSV upload + charts). **Claude** for [earnings call analysis](/tags/investing/) (context window). **Perplexity** for real-time market data and [stock screening](/tags/investing/).
 
 ### For Content Creators
 **Claude** for writing quality. **ChatGPT** for image generation and versatility. **Gemini** for video scripts and YouTube integration.
