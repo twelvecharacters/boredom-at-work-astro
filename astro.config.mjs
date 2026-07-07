@@ -144,6 +144,12 @@ const SPONSORED_DOMAINS = [
   'justway.com',
 ];
 
+// Reciprocal link-exchange partners. Links to these are do-follow (no nofollow,
+// no sponsored) - editorial links where the destination genuinely fits the content.
+const DOFOLLOW_DOMAINS = [
+  'g8trip.com',
+];
+
 // Find most recent publishDate for homepage/blog lastmod
 const mostRecentDate = [...blogDates.values()].sort().pop() || new Date().toISOString();
 blogDates.set('https://boredom-at-work.com/', mostRecentDate);
@@ -166,6 +172,9 @@ export default defineConfig({
         rel: (element) => {
           const href = element.properties?.href;
           if (typeof href === 'string') {
+            for (const domain of DOFOLLOW_DOMAINS) {
+              if (href.includes(domain)) return ['noopener'];
+            }
             for (const domain of SPONSORED_DOMAINS) {
               if (href.includes(domain)) return ['sponsored', 'noopener'];
             }
