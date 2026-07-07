@@ -9,6 +9,8 @@ import { join, basename } from 'node:path';
 
 import { visit } from 'unist-util-visit';
 
+import mdx from '@astrojs/mdx';
+
 // Build slug → lastmod map from blog frontmatter for sitemap
 // Only includes published articles (not drafts, not future-dated)
 function getBlogDates(dir = 'src/content/blog') {
@@ -22,12 +24,12 @@ function getBlogDates(dir = 'src/content/blog') {
     for (const entry of readdirSync(d, { withFileTypes: true })) {
       const full = join(d, entry.name);
       if (entry.isDirectory()) { walk(full); continue; }
-      if (!entry.name.endsWith('.md')) continue;
+      if (!entry.name.endsWith('.md') && !entry.name.endsWith('.mdx')) continue;
       const content = readFileSync(full, 'utf-8');
       if (/^draft:\s*true/m.test(content)) continue;
       const publishDate = content.match(/^publishDate:\s*(\d{4}-\d{2}-\d{2})/m)?.[1];
       if (!publishDate || new Date(publishDate) > now) continue;
-      const slug = content.match(/^slug:\s*["']?(.+?)["']?\s*$/m)?.[1] || basename(entry.name, '.md');
+      const slug = content.match(/^slug:\s*["']?(.+?)["']?\s*$/m)?.[1] || basename(entry.name, entry.name.endsWith('.mdx') ? '.mdx' : '.md');
       const date = content.match(/^updatedDate:\s*(\d{4}-\d{2}-\d{2})/m)?.[1] || publishDate;
       dateMap.set(`https://boredom-at-work.com/${slug}/`, new Date(date).toISOString());
     }
@@ -185,27 +187,24 @@ export default defineConfig({
     ],
   },
 
-  integrations: [
-    partytown({
-      config: {
-        forward: ['dataLayer.push'],
-      },
-    }),
-    sitemap({
-      filter: (page) =>
-        // Exclude tag pages
-        !page.includes('/tags/') &&
-        // Exclude archive pages (noindexed)
-        !page.includes('/archive/') &&
-        // Exclude paginated blog pages (keep /blog/ but not /blog/2/, /blog/3/, etc.)
-        !/\/blog\/\d+\/?$/.test(page),
-      serialize(item) {
-        const lastmod = blogDates.get(item.url);
-        if (lastmod) item.lastmod = lastmod;
-        return item;
-      }
-    })
-  ],
+  integrations: [partytown({
+    config: {
+      forward: ['dataLayer.push'],
+    },
+  }), sitemap({
+    filter: (page) =>
+      // Exclude tag pages
+      !page.includes('/tags/') &&
+      // Exclude archive pages (noindexed)
+      !page.includes('/archive/') &&
+      // Exclude paginated blog pages (keep /blog/ but not /blog/2/, /blog/3/, etc.)
+      !/\/blog\/\d+\/?$/.test(page),
+    serialize(item) {
+      const lastmod = blogDates.get(item.url);
+      if (lastmod) item.lastmod = lastmod;
+      return item;
+    }
+  }), mdx()],
   redirects: {
     '/learning-paths': '/ai-learning-hub/',
     '/learning-paths/ai-mastery': '/ai-learning-hub/',
