@@ -22,6 +22,8 @@ AI trip planners have exploded in 2026, promising to turn your vacation dreams i
 
 We tested 8 popular AI trip planners by creating the same itinerary on each: a 10-day Japan trip covering Tokyo, Kyoto, and Osaka. We've since added a 9th, G8Trip, assessed on its live feature set and a sample itinerary. Here's what we found.
 
+> **🆕 New & Notable: [G8Trip](https://g8trip.com).** Most tools here stop at the itinerary. G8Trip is the one newcomer that plans *and books* the whole trip (flights, hotels, visas, and an eSIM) in a single chat, with group planning built in from the ground up. It's the standout pick for group trips and all-in-one booking, especially for travel within India and Asia. See the full breakdown in entry #9 below.
+
 ## Quick Comparison
 
 | Tool | Best For | Price | Our Rating |
