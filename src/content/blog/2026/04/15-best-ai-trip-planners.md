@@ -3,6 +3,7 @@ title: "Best AI Trip Planners 2026: 9 Tools Compared"
 slug: "best-ai-trip-planners"
 description: "We tested the top AI trip planners to find the best one for your travel style. Mindtrip, Wanderlog, Layla, and more, here's our honest ranking."
 publishDate: 2026-04-15
+updatedDate: 2026-07-07
 author: "Mehdi"
 image: "./15-best-ai-trip-planners.webp"
 imageAlt: "Collection of AI trip planner app interfaces on a laptop screen"
