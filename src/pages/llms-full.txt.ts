@@ -53,7 +53,6 @@ export const GET: APIRoute = async () => {
     title: string;
     slug: string;
     description: string;
-    isHub: boolean;
     readingTime: number;
     faq?: { question: string; answer: string }[];
     tldr?: string;
@@ -63,12 +62,10 @@ export const GET: APIRoute = async () => {
   for (const post of posts) {
     const category = categorize(post.data.tags);
     if (!grouped[category]) grouped[category] = [];
-    const isHub = post.data.tags.some((t: string) => t.toLowerCase().includes('hub page'));
     grouped[category].push({
       title: post.data.title,
       slug: getPostSlug(post),
       description: post.data.description,
-      isHub,
       readingTime: estimateReadingTime(post.body || ''),
       faq: post.data.faq,
       tldr: post.data.tldr,
@@ -76,11 +73,9 @@ export const GET: APIRoute = async () => {
     });
   }
 
-  // Sort: hubs first, then alphabetically
+  // Sort alphabetically
   for (const cat of Object.keys(grouped)) {
     grouped[cat].sort((a, b) => {
-      if (a.isHub && !b.isHub) return -1;
-      if (!a.isHub && b.isHub) return 1;
       return a.title.localeCompare(b.title);
     });
   }
@@ -114,9 +109,7 @@ export const GET: APIRoute = async () => {
     output += `${CATEGORY_DESCRIPTIONS[category]}\n\n`;
 
     for (const article of articles) {
-      const hubLabel = article.isHub ? '⭐ ' : '';
-      const hubSuffix = article.isHub ? ' (Hub Page)' : '';
-      output += `### ${hubLabel}${article.title}${hubSuffix}\n`;
+      output += `### ${article.title}\n`;
       output += `**URL:** ${SITE.url}/${article.slug}/\n`;
       output += `**Reading Time:** ${article.readingTime} minutes\n\n`;
       output += `${article.description}\n\n`;

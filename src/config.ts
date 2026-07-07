@@ -96,17 +96,7 @@ export const CATEGORIES = [
     ],
     viewAllHref: '/tags/tutorial/',
   },
-  {
-    title: 'The Promotion Fast-Track',
-    id: 'career',
-    icon: '🚀',
-    description: "Turn your 'productive procrastination' into real-world raises and promotions.",
-    links: [
-      { text: 'AI Certifications You Can Earn in a Week', href: '/ai-certifications-in-a-week/' },
-      { text: 'AI Skills That Will Get You Promoted', href: '/ai-skills-for-promotion/' },
-    ],
-    viewAllHref: '/tags/career-development/',
-  },
+
   {
     title: 'Tech & Gadgets Worth Your Money',
     id: 'tech-gadgets',

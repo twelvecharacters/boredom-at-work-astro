@@ -44,25 +44,21 @@ function categorize(tags: string[]): string {
 export const GET: APIRoute = async () => {
   const posts = await getPublishedPosts();
 
-  const grouped: Record<string, { title: string; slug: string; description: string; isHub: boolean }[]> = {};
+  const grouped: Record<string, { title: string; slug: string; description: string }[]> = {};
 
   for (const post of posts) {
     const category = categorize(post.data.tags);
     if (!grouped[category]) grouped[category] = [];
-    const isHub = post.data.tags.some((t: string) => t.toLowerCase().includes('hub page'));
     grouped[category].push({
       title: post.data.title,
       slug: getPostSlug(post),
       description: post.data.description,
-      isHub,
     });
   }
 
-  // Sort: hubs first, then alphabetically
+  // Sort alphabetically
   for (const cat of Object.keys(grouped)) {
     grouped[cat].sort((a, b) => {
-      if (a.isHub && !b.isHub) return -1;
-      if (!a.isHub && b.isHub) return 1;
       return a.title.localeCompare(b.title);
     });
   }
@@ -82,9 +78,7 @@ export const GET: APIRoute = async () => {
     output += `${CATEGORY_DESCRIPTIONS[category]}\n\n`;
 
     for (const article of articles) {
-      const prefix = article.isHub ? '**' : '';
-      const suffix = article.isHub ? ' (Hub)**' : '';
-      output += `- [${prefix}${article.title}${suffix}](${SITE.url}/${article.slug}/): ${article.description}\n`;
+      output += `- [${article.title}](${SITE.url}/${article.slug}/): ${article.description}\n`;
     }
     output += '\n';
   }
