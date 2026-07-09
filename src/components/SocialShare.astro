@@ -93,9 +93,9 @@ const shareLinks = [
     });
   }
 
-  // Support Astro page transitions
+  // astro:page-load fires on the initial load and after every View Transition,
+  // so it alone covers first render without double-binding the copy listener.
   document.addEventListener('astro:page-load', setupSocialShare);
-  setupSocialShare();
 </script>
 
 <style>

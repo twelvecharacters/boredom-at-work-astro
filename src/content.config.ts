@@ -58,7 +58,7 @@ const blog = defineCollection({
     description: z.string(),
     publishDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
-    author: z.string().default('bored chap'),
+    author: z.string().default('Mehdi'),
     image: image().optional(),
     imageAlt: z.string().optional(),
     tags: z.array(z.string()).default([]),

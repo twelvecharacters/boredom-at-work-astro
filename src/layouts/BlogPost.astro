@@ -83,8 +83,6 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
   updatedDate={updatedDate}
   tags={tags}
 >
-  <!-- Reading Progress Bar -->
-  <div id="reading-progress" class="fixed top-0 left-0 h-1.5 bg-gradient-to-r from-accent via-purple-500 to-pink-500 z-[100] transition-all duration-75 ease-out w-0 shadow-[0_0_10px_rgba(124,58,237,0.5)]"></div>
 
   <div class="relative max-w-[1600px] mx-auto">
     {activeBanner && (
@@ -471,19 +469,9 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
         observer.observe(heading);
       });
 
-      // 2.5 Reading Progress Bar
-      const progressBar = document.getElementById('reading-progress');
-      if (progressBar) {
-        const updateProgress = () => {
-          const scrollPosition = window.scrollY;
-          const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-          const scrollPercentage = (scrollPosition / height) * 100;
-          progressBar.style.width = scrollPercentage + '%';
-        };
-        window.addEventListener('scroll', updateProgress, { passive: true });
-        // Initial call
-        updateProgress();
-      }
+      // Reading progress is handled by the <ReadingProgressBar /> component
+      // (rendered from BaseLayout); the previous inline bar here was a duplicate
+      // and leaked a scroll listener on every View Transition.
 
       // 3. Focus Mode Toggle
       const focusToggle = document.getElementById('focus-mode-toggle');
@@ -497,20 +485,8 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
         });
       }
 
-      // 4. Cmd+K Search Shortcut
-      document.addEventListener('keydown', (e) => {
-        if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
-          e.preventDefault();
-          const searchInput = document.querySelector('.pagefind-ui__search-input') as HTMLInputElement | null;
-          if (searchInput) {
-            searchInput.focus();
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-          } else {
-            const searchLink = document.querySelector('a[href*="search"]') as HTMLAnchorElement | null;
-            if (searchLink) searchLink.click();
-          }
-        }
-      });
+      // (Cmd+K and Escape are global document listeners, bound once at the end
+      //  of this function to avoid stacking on every View Transition.)
 
       // 5. Code Block Copy Button
       article.querySelectorAll('pre').forEach((block) => {
@@ -583,9 +559,34 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
       lightbox.addEventListener('click', (e) => {
         if (e.target === lightbox) closeLightbox();
       });
-      document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape') closeLightbox();
-      });
+      // Global keyboard shortcuts: bind ONCE. `document` is not swapped by
+      // ClientRouter, so binding these inside the per-navigation setup would
+      // stack a new listener on every page view. Both handlers query the DOM
+      // at event time, so a single binding works across all navigations.
+      if (!(window as any).__articleKeysBound) {
+        (window as any).__articleKeysBound = true;
+        document.addEventListener('keydown', (e) => {
+          // Cmd/Ctrl+K -> focus search
+          if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+            e.preventDefault();
+            const searchInput = document.querySelector('.pagefind-ui__search-input') as HTMLInputElement | null;
+            if (searchInput) {
+              searchInput.focus();
+              window.scrollTo({ top: 0, behavior: 'smooth' });
+            } else {
+              (document.querySelector('a[href*="search"]') as HTMLAnchorElement | null)?.click();
+            }
+          }
+          // Escape -> close the lightbox (queried live; it is recreated per page)
+          if (e.key === 'Escape') {
+            const lb = document.getElementById('lightbox');
+            if (lb) {
+              lb.classList.add('opacity-0', 'pointer-events-none');
+              document.body.style.overflow = '';
+            }
+          }
+        });
+      }
     }
 
     // Reset initialization on page swap if using View Transitions
