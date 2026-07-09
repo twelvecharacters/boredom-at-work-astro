@@ -35,6 +35,11 @@ __pycache__/
 # medium cross-post drafts (not part of site)
 medium-drafts/
 
+# generated data artifacts (script outputs — regenerate, don't commit)
+dead_links.json
+dead_links_clean.json
+scripts/articles.csv
+
 # local secrets / tooling — never commit
 *.kdbx
 KeePassXC
