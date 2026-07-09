@@ -60,3 +60,30 @@
     gtag('event', 'engagement_heartbeat', { duration_seconds: 30 });
   }, 30000);
 </script>
+
+<!--
+  Page views for Astro View Transitions (ClientRouter, enabled 2026-07-01).
+  The partytown gtag config above only sends a page_view on the initial hard
+  load. In-site navigations are client-side and re-run neither the config nor
+  gtag, so they went untracked in GA4 (looked like a traffic drop, wasn't one).
+  This main-thread listener forwards a page_view on each transition via
+  dataLayer.push, which astro.config.mjs forwards to the partytown GA worker.
+  astro:after-swap fires on navigations only (not the first load), so the
+  initial config's page_view is not double-counted.
+-->
+<script is:inline>
+  if (!window.__ga4PageViewBound) {
+    window.__ga4PageViewBound = true;
+    document.addEventListener('astro:after-swap', function () {
+      (window.dataLayer = window.dataLayer || []).push([
+        'event',
+        'page_view',
+        {
+          page_path: location.pathname + location.search,
+          page_location: location.href,
+          page_title: document.title,
+        },
+      ]);
+    });
+  }
+</script>
