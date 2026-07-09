@@ -1,5 +1,22 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 
+/** Articles per page for all paginated listings (blog, tags, archive). */
+export const POSTS_PER_PAGE = 12;
+
+/**
+ * Human-readable post date for listing cards: shows the updated date
+ * (prefixed "Updated:") when present, otherwise the publish date.
+ */
+export function formatPostDate(post: CollectionEntry<'blog'>): string {
+  const date = post.data.updatedDate ?? post.data.publishDate;
+  const formatted = date.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric',
+  });
+  return post.data.updatedDate ? `Updated: ${formatted}` : formatted;
+}
+
 /**
  * Fetches all blog posts that are not drafts and have a publishDate in the past or present.
  * Posts are sorted by publishDate descending (newest first) by default.
