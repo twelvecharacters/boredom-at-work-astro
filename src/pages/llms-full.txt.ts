@@ -1,17 +1,7 @@
 import type { APIRoute } from 'astro';
 import { getPublishedPosts, getPostSlug } from '../utils/blog';
 import { SITE } from '../config';
-
-const CATEGORY_ORDER = [
-  'AI & Learning',
-  '3D Printing',
-  'Photography',
-  'Japan Shopping',
-  'AI Travel Planning',
-  'Home Office / Desk Setup',
-  'Finance / Investing',
-  'Tech & Gadgets',
-];
+import { CATEGORY_ORDER, categorize } from '../utils/taxonomy';
 
 const CATEGORY_DESCRIPTIONS: Record<string, string> = {
   'AI & Learning': 'Guides for learning AI skills and earning certifications during work hours. AI literacy is the most in-demand professional skill of 2026.',
@@ -23,23 +13,6 @@ const CATEGORY_DESCRIPTIONS: Record<string, string> = {
   'Finance / Investing': 'Tools and learning resources for beginner investors. Educational content, not financial advice.',
   'Tech & Gadgets': 'Reviews and comparisons of consumer technology, e-readers, earbuds, keyboards, smartphones, and software.',
 };
-
-function categorize(tags: string[]): string {
-  const tagSet = new Set(tags.map(t => t.toLowerCase()));
-  const has = (t: string) => tagSet.has(t.toLowerCase());
-  const hasAny = (...ts: string[]) => ts.some(t => has(t));
-
-  // "Tech & Gadgets" explicit tag takes priority over generic tags like "Productivity"
-  if (has('tech & gadgets')) return 'Tech & Gadgets';
-  if (has('travel')) return 'AI Travel Planning';
-  if (has('3d printing')) return '3D Printing';
-  if (has('photography')) return 'Photography';
-  if (hasAny('japan', 'japan shopping', 'import', 'proxy')) return 'Japan Shopping';
-  if (hasAny('finance', 'investing', 'prediction markets', 'stocks', 'crypto', 'dividend')) return 'Finance / Investing';
-  if (hasAny('office setup', 'home office', 'desk setup', 'work from home', 'ergonomics', 'wfh', 'monitors', 'webcams', 'headphones', 'noise canceling')) return 'Home Office / Desk Setup';
-  if (hasAny('ai', 'chatgpt', 'claude', 'ai courses', 'ai certification', 'ai learning', 'prompt engineering', 'productivity')) return 'AI & Learning';
-  return 'Tech & Gadgets';
-}
 
 function estimateReadingTime(body: string): number {
   const words = body.split(/\s+/).length;

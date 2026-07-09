@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { getPublishedPosts, getPostSlug } from '../utils/blog';
 import { SITE } from '../config';
+import { escapeXml } from '../utils/xml';
 
 export const GET: APIRoute = async () => {
   const posts = await getPublishedPosts();
@@ -38,15 +39,6 @@ export const GET: APIRoute = async () => {
     headers: { 'Content-Type': 'application/xml; charset=utf-8' },
   });
 };
-
-function escapeXml(str: string): string {
-  return str
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&apos;');
-}
 
 function isoDurationToSeconds(iso: string): number {
   const match = iso.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
