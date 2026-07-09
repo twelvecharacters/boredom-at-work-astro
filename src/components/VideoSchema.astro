@@ -1,4 +1,6 @@
 ---
+import JsonLd from './JsonLd.astro';
+
 interface Props {
   video: {
     youtubeId: string;
@@ -24,4 +26,4 @@ const schemaData = {
 };
 ---
 
-<script type="application/ld+json" set:html={JSON.stringify(schemaData)} />
+<JsonLd data={schemaData} />

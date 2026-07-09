@@ -1,5 +1,6 @@
 ---
 import { parseOffers } from '../utils/schema';
+import JsonLd from './JsonLd.astro';
 
 interface Props {
   softwareApp: {
@@ -48,4 +49,4 @@ const schemaData = {
 };
 ---
 
-<script type="application/ld+json" set:html={JSON.stringify(schemaData)} />
+<JsonLd data={schemaData} />

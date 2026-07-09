@@ -1,4 +1,6 @@
 ---
+import JsonLd from './JsonLd.astro';
+
 interface Props {
   faqs: { question: string; answer: string }[];
 }
@@ -19,4 +21,4 @@ const schema = {
 };
 ---
 
-<script type="application/ld+json" set:html={JSON.stringify(schema)} />
+<JsonLd data={schema} />

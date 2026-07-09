@@ -1,5 +1,6 @@
 ---
 import { SITE } from '../config';
+import JsonLd from './JsonLd.astro';
 
 interface Props {
   title: string;
@@ -47,4 +48,4 @@ const schemaData = {
 };
 ---
 
-<script type="application/ld+json" set:html={JSON.stringify(schemaData)} />
+<JsonLd data={schemaData} />

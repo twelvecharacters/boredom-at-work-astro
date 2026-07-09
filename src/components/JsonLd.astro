@@ -1,0 +1,11 @@
+---
+// Single emission point for all JSON-LD structured data. Guarantees consistent
+// serialization/escaping across every schema component.
+interface Props {
+  data: unknown;
+}
+
+const { data } = Astro.props;
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(data)} />

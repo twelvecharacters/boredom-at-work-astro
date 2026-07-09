@@ -1,5 +1,6 @@
 ---
 import { SITE } from '../config';
+import JsonLd from './JsonLd.astro';
 
 interface Props {
   course: {
@@ -47,4 +48,4 @@ const schemaData = {
 const cleanSchema = JSON.parse(JSON.stringify(schemaData));
 ---
 
-<script type="application/ld+json" set:html={JSON.stringify(cleanSchema)} />
+<JsonLd data={cleanSchema} />
