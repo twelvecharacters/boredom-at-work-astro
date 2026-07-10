@@ -108,6 +108,24 @@ Spend up to the **Kindle Scribe** only if you genuinely annotate PDFs and textbo
 
 Match the model to how you actually study, not to the spec sheet, and any of these will outlast your degree.
 
+## Frequently Asked Questions
+
+### What is the best Kindle for students in 2026?
+
+For most students, the Kindle Paperwhite (starting at ~$159.99 as of June 2026) is the best all-around pick: a 7-inch glare-free screen, weeks of battery, and a price that survives a dorm desk. If you annotate textbooks and PDFs heavily, the Kindle Scribe (starting at ~$399.99) is worth the jump for its 10.2-inch screen and stylus.
+
+### Can you read PDFs and textbooks on a Kindle?
+
+Yes, but the experience depends on the model. Small-screen Kindles (6 to 7 inches) shrink textbook PDFs to the point of constant zooming. The Kindle Scribe's 10.2-inch display shows full PDF pages at a readable size and lets you write directly on them, which is why it is the best Kindle for PDF-heavy and STEM students.
+
+### Is the Kindle Scribe worth it for students?
+
+It is worth it if you regularly annotate textbooks, mark up lecture PDFs, or take handwritten notes. The large 10.2-inch screen and included stylus replace a stack of printouts. If you mostly read novels or assigned e-books, a Paperwhite costs less than half as much and is the smarter buy.
+
+### Do students get a discount on Kindles?
+
+Amazon does not offer a permanent student-specific Kindle discount, but Prime Student members get the same Prime Day and seasonal deals as full Prime members, where Kindles routinely drop in price. Back-to-school sales in August and Prime Day events are the best windows to buy.
+
 ## Related Guides
 
 - [Kindle Scribe Review](/kindle-scribe-review/): the full breakdown on note-taking and PDFs

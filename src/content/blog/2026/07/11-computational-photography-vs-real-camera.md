@@ -81,7 +81,7 @@ Samsung refuses to rely entirely on software. They aggressively push the absolut
 
 ## The True Camera: Where Glass Remains Undefeated
 
-If smartphones are utilizing artificial intelligence and trillion-operation-per-second processors to literally bend the rules of light, why do professional photographers still carry around five-pound DSLR and Mirrorless cameras? Why does a $3,000 Sony A7RV or a Canon R5 still exist?
+If smartphones are utilizing artificial intelligence and trillion-operation-per-second processors to literally bend the rules of light, why do professional photographers still carry around five-pound DSLR and Mirrorless cameras? Why does a $3,000 Sony A7R VI or a Canon EOS R5 II still exist?
 
 Because eventually, you cannot cheat physics. Computational photography hits a wall in several critical edge cases where pure optical superiority is the only answer.
 

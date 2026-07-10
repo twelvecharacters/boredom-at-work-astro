@@ -7,6 +7,13 @@ image: "./08-stop-buying-tech.png"
 imageAlt: "A person contemplating whether to buy a new pair of headphones surrounded by old tech"
 category: "Tech & Gadgets"
 tags: ["Tech & Gadgets", "Personal Finance", "Productivity"]
+faq:
+  - question: "What is the 48-Hour Rule for buying tech?"
+    answer: "The 48-Hour Rule is a strategy to curb impulse spending. When you want to buy a new gadget, you force yourself to wait at least 48 hours before making the purchase. For larger items, waiting 30 days is recommended. This cooling-off period allows the initial emotional urge to subside, helping you make a more rational decision."
+  - question: "How do I calculate cost-per-use for a gadget?"
+    answer: "To calculate cost-per-use, estimate how many times you will realistically use an item over its entire lifespan, then divide the purchase price by that number. For example, a $1000 laptop used daily for four years has a very low cost-per-use, while a $500 drone used twice a year has a very high cost-per-use."
+  - question: "What is Gear Acquisition Syndrome (GAS)?"
+    answer: "Gear Acquisition Syndrome (GAS) is a common phenomenon among hobbyists, particularly photographers and musicians, where they obsessively buy new equipment believing it will improve their skills or output. It often distracts from actual practice and skill development."
 ---
 
 Have you ever found yourself browsing Amazon at 2:00 AM, desperately convinced that a new pair of noise-canceling headphones is the missing key to unlocking your ultimate productivity? You might already own three perfectly good pairs: the daily drivers, the workout earbuds, and the old over-ear ones that are technically fine but slightly scuffed. Yet, your brain insists that this *new* pair, with its 15 percent better battery life and slightly sleeker profile, will revolutionize your work life. 
@@ -139,29 +146,14 @@ Stop searching for the magic bullet in an Amazon box. The tools you already have
 
 ## Frequently Asked Questions
 
-<div itemscope itemtype="https://schema.org/FAQPage">
-  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-    <h3 itemprop="name">What is the 48-Hour Rule for buying tech?</h3>
-    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-      <div itemprop="text">
-        The 48-Hour Rule is a strategy to curb impulse spending. When you want to buy a new gadget, you force yourself to wait at least 48 hours before making the purchase. For larger items, waiting 30 days is recommended. This cooling-off period allows the initial emotional urge to subside, helping you make a more rational decision.
-      </div>
-    </div>
-  </div>
-  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-    <h3 itemprop="name">How do I calculate cost-per-use for a gadget?</h3>
-    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-      <div itemprop="text">
-        To calculate cost-per-use, estimate how many times you will realistically use an item over its entire lifespan, then divide the purchase price by that number. For example, a $1000 laptop used daily for four years has a very low cost-per-use, while a $500 drone used twice a year has a very high cost-per-use.
-      </div>
-    </div>
-  </div>
-  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-    <h3 itemprop="name">What is Gear Acquisition Syndrome (GAS)?</h3>
-    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-      <div itemprop="text">
-        Gear Acquisition Syndrome (GAS) is a common phenomenon among hobbyists, particularly photographers and musicians, where they obsessively buy new equipment believing it will improve their skills or output. It often distracts from actual practice and skill development.
-      </div>
-    </div>
-  </div>
-</div>
+### What is the 48-Hour Rule for buying tech?
+
+The 48-Hour Rule is a strategy to curb impulse spending. When you want to buy a new gadget, you force yourself to wait at least 48 hours before making the purchase. For larger items, waiting 30 days is recommended. This cooling-off period allows the initial emotional urge to subside, helping you make a more rational decision.
+
+### How do I calculate cost-per-use for a gadget?
+
+To calculate cost-per-use, estimate how many times you will realistically use an item over its entire lifespan, then divide the purchase price by that number. For example, a $1000 laptop used daily for four years has a very low cost-per-use, while a $500 drone used twice a year has a very high cost-per-use.
+
+### What is Gear Acquisition Syndrome (GAS)?
+
+Gear Acquisition Syndrome (GAS) is a common phenomenon among hobbyists, particularly photographers and musicians, where they obsessively buy new equipment believing it will improve their skills or output. It often distracts from actual practice and skill development.
