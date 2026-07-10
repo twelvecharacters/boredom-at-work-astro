@@ -10,6 +10,7 @@
 - **Stealth Learning Paths**: Documentation-style guides designed for discreet learning at work.
 - **Full-Text Search**: Powered by [Pagefind](https://pagefind.app/) for fast, client-side searching.
 - **Optimized Images**: Automatic thumbnail generation and WebP conversion for performance.
+- **SEO & Content Optimization**: Automated linting, SEO scoring, and traffic reporting to ensure high quality.
 - **Modern Tech Stack**: Built with Astro 5 and Tailwind CSS 4.
 
 ## 🛠 Tech Stack
@@ -42,16 +43,16 @@
 | Year | Month | Articles |
 | :--- | :--- | :--- |
 | 2026 | 09 - Sep | 4 |
-| 2026 | 08 - Aug | 11 |
+| 2026 | 08 - Aug | 17 |
 | 2026 | 07 - Jul | 31 |
 | 2026 | 06 - Jun | 26 |
 | 2026 | 05 - May | 29 |
 | 2026 | 04 - Apr | 29 |
-| 2026 | 03 - Mar | 26 |
+| 2026 | 03 - Mar | 25 |
 | 2026 | 02 - Feb | 36 |
 | 2026 | 01 - Jan | 26 |
 | 2025 | 12 - Dec | 9 |
-| **Total** | | **227** |
+| **Total** | | **232** |
 
 
 ## 🧞 Commands
@@ -64,8 +65,13 @@ All commands are run from the root of the project:
 | `pnpm run dev` | Starts local dev server at `localhost:4321` |
 | `pnpm run build` | Builds for production (includes Pagefind indexing) |
 | `pnpm run preview` | Preview production build locally |
-| `pnpm run thumbnails` | Generate missing blog thumbnails |
+| `pnpm run optimize` | Run the Unified Content Optimization Tool (Daily Dashboard, SEO Scores, Linting) |
+| `pnpm run lint:content` | Run content linting (frontmatter, outdated patterns, prices) |
+| `pnpm run lint:content:fix` | Fix content linting issues |
+| `pnpm run traffic` | Fetch traffic reports from Google Search Console and Bing |
+| `pnpm run indexnow` | Submit changed URLs to IndexNow |
 | `pnpm run stats` | Update article statistics in README.md |
+| `pnpm run export:articles` | Export all article metadata to a CSV for analysis |
 
 ## 📬 Contact
 
