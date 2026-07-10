@@ -4,8 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
 import partytown from '@astrojs/partytown';
 import rehypeExternalLinks from 'rehype-external-links';
-import { readdirSync, readFileSync } from 'node:fs';
-import { join, basename } from 'node:path';
+import { readAllPosts, isPublished, endOfTodayUTC } from './scripts/lib/read-posts.mjs';
 
 import { visit } from 'unist-util-visit';
 
@@ -13,28 +12,14 @@ import mdx from '@astrojs/mdx';
 
 // Build slug → lastmod map from blog frontmatter for sitemap
 // Only includes published articles (not drafts, not future-dated)
-function getBlogDates(dir = 'src/content/blog') {
+function getBlogDates() {
   const dateMap = new Map();
-  const now = new Date();
-  // Set now to end of today UTC for consistent comparison with build script
-  now.setUTCHours(23, 59, 59, 999);
-
-  /** @param {string} d */
-  function walk(d) {
-    for (const entry of readdirSync(d, { withFileTypes: true })) {
-      const full = join(d, entry.name);
-      if (entry.isDirectory()) { walk(full); continue; }
-      if (!entry.name.endsWith('.md') && !entry.name.endsWith('.mdx')) continue;
-      const content = readFileSync(full, 'utf-8');
-      if (/^draft:\s*true/m.test(content)) continue;
-      const publishDate = content.match(/^publishDate:\s*(\d{4}-\d{2}-\d{2})/m)?.[1];
-      if (!publishDate || new Date(publishDate) > now) continue;
-      const slug = content.match(/^slug:\s*["']?(.+?)["']?\s*$/m)?.[1] || basename(entry.name, entry.name.endsWith('.mdx') ? '.mdx' : '.md');
-      const date = content.match(/^updatedDate:\s*(\d{4}-\d{2}-\d{2})/m)?.[1] || publishDate;
-      dateMap.set(`https://boredom-at-work.com/${slug}/`, new Date(date).toISOString());
-    }
+  const now = endOfTodayUTC();
+  for (const post of readAllPosts()) {
+    if (!isPublished(post, now)) continue;
+    const date = post.updatedDate || post.publishDate;
+    dateMap.set(`https://boredom-at-work.com/${post.slug}/`, new Date(date).toISOString());
   }
-  walk(dir);
   return dateMap;
 }
 
