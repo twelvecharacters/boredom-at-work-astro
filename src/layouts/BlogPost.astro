@@ -1,6 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
+import FocusMode from '../components/FocusMode.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
 import OptimizedImage from '../components/OptimizedImage.astro';
 import FaqSchema from '../components/FaqSchema.astro';
@@ -98,78 +99,10 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
     <div class="flex justify-between items-center mb-4">
       <Breadcrumbs items={breadcrumbItems} />
       
-      <button 
-        id="focus-mode-toggle" 
-        class="flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-text-light hover:text-accent transition-colors bg-background-alt px-3 py-1.5 rounded-lg border border-primary/10"
-        title="Toggle Stealth Focus Mode"
-      >
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
-        </svg>
-        <span class="hidden sm:inline">Focus Mode</span>
-      </button>
+      <FocusMode />
     </div>
 
-    <!-- Focus Mode CSS -->
-    <!-- Focus Mode CSS -->
     <style is:global>
-      /* Global Focus Mode Styles */
-      body.focus-mode {
-        background: white !important;
-      }
-      .focus-mode article {
-        max-width: 850px !important;
-        margin: 0 auto !important;
-        box-shadow: none !important;
-      }
-      .focus-mode header:not(.doc-header), 
-      .focus-mode .tldr-box,
-      .focus-mode aside,
-      .focus-mode footer,
-      .focus-mode .related-posts,
-      .focus-mode .author-bio,
-      .focus-mode .social-share,
-      .focus-mode nav:not(.toc),
-      .focus-mode .breadcrumb-nav {
-        display: none !important;
-      }
-      /* Hide standard site header/footer when in focus mode */
-      .focus-mode > header, 
-      .focus-mode > footer {
-        display: none !important;
-      }
-      .focus-mode .prose {
-        font-family: "Georgia", "Times New Roman", serif !important;
-        font-size: 1.15rem !important;
-        line-height: 1.8 !important;
-        color: #111 !important;
-      }
-      .focus-mode h1, .focus-mode h2, .focus-mode h3 {
-        color: #000 !important;
-        font-family: "Arial", sans-serif !important;
-        border-bottom: 1px solid #eee;
-        padding-bottom: 0.5rem;
-      }
-      .focus-mode .lg\:grid {
-        display: block !important;
-      }
-      .focus-mode #lightbox {
-        background: white !important;
-      }
-      .focus-mode #lightbox button {
-        color: black !important;
-      }
-      /* Simplified code blocks for Focus Mode */
-      .focus-mode .prose pre {
-        background-color: #fcfcfc !important;
-        border: 1px solid #e5e7eb !important;
-        box-shadow: none !important;
-      }
-      .focus-mode .prose code {
-        background-color: #f3f4f6 !important;
-      }
-
       /* Custom Scrollbar for ToC Sidebar */
       .custom-scrollbar::-webkit-scrollbar {
         width: 4px;
@@ -477,17 +410,7 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
       // (rendered from BaseLayout); the previous inline bar here was a duplicate
       // and leaked a scroll listener on every View Transition.
 
-      // 3. Focus Mode Toggle
-      const focusToggle = document.getElementById('focus-mode-toggle');
-      if (focusToggle) {
-        focusToggle.addEventListener('click', () => {
-          document.body.classList.toggle('focus-mode');
-          const isFocus = document.body.classList.contains('focus-mode');
-          focusToggle.innerHTML = isFocus 
-            ? `<svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858.908a3 3 0 114.243 4.243M9.878 9.878l4.242 4.242M9.88 9.88l-3.29-3.29m7.532 7.532l3.29 3.29M3 3l18 18" /></svg> <span class="hidden sm:inline">Exit Focus</span>`
-            : `<svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" /></svg> <span class="hidden sm:inline">Focus Mode</span>`;
-        });
-      }
+      // Focus mode toggle now lives in <FocusMode /> (binds on astro:page-load).
 
       // (Cmd+K and Escape are global document listeners, bound once at the end
       //  of this function to avoid stacking on every View Transition.)
