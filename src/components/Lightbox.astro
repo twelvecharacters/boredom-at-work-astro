@@ -1,0 +1,49 @@
+---
+// Full-screen image lightbox for article body images. Opens on image click,
+// closes on the X, backdrop click, or Escape (Escape is handled by the shared
+// keydown listener in BlogPost.astro, which queries #lightbox live).
+---
+
+<div
+  id="lightbox"
+  class="fixed inset-0 bg-black/90 z-[100] flex items-center justify-center opacity-0 pointer-events-none transition-opacity duration-300 p-4 drop-shadow-2xl"
+>
+  <button class="absolute top-6 right-6 text-white hover:text-accent transition-colors" aria-label="Close image">
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+    </svg>
+  </button>
+  <img class="max-w-full max-h-full object-contain rounded-lg shadow-2xl" src="" alt="" />
+</div>
+
+<script>
+  // Rebind on every ClientRouter navigation: the article images and the
+  // lightbox markup are swapped fresh each time, so new nodes get one listener.
+  function bindLightbox() {
+    const lightbox = document.getElementById('lightbox');
+    const article = document.querySelector('.prose');
+    if (!lightbox || !article) return;
+    const img = lightbox.querySelector('img');
+    const closeBtn = lightbox.querySelector('button');
+
+    const open = (src: string, alt: string) => {
+      if (img) { img.src = src; img.alt = alt; }
+      lightbox.classList.remove('opacity-0', 'pointer-events-none');
+      document.body.style.overflow = 'hidden';
+    };
+    const close = () => {
+      lightbox.classList.add('opacity-0', 'pointer-events-none');
+      document.body.style.overflow = '';
+    };
+
+    article.querySelectorAll('img').forEach((el) => {
+      el.classList.add('cursor-zoom-in');
+      el.addEventListener('click', () => open(el.src, el.alt));
+    });
+    closeBtn?.addEventListener('click', close);
+    lightbox.addEventListener('click', (e) => {
+      if (e.target === lightbox) close();
+    });
+  }
+  document.addEventListener('astro:page-load', bindLightbox);
+</script>

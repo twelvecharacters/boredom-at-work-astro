@@ -2,6 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import FocusMode from '../components/FocusMode.astro';
+import Lightbox from '../components/Lightbox.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
 import OptimizedImage from '../components/OptimizedImage.astro';
 import FaqSchema from '../components/FaqSchema.astro';
@@ -101,6 +102,8 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
       
       <FocusMode />
     </div>
+
+    <Lightbox />
 
     <style is:global>
       /* Custom Scrollbar for ToC Sidebar */
@@ -450,42 +453,8 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
         });
       });
 
-      // 6. Image Lightbox
-      const lightbox = document.createElement('div');
-      lightbox.id = 'lightbox';
-      lightbox.className = 'fixed inset-0 bg-black/90 z-[100] flex items-center justify-center opacity-0 pointer-events-none transition-opacity duration-300 p-4 drop-shadow-2xl';
-      lightbox.innerHTML = `
-        <button class="absolute top-6 right-6 text-white hover:text-accent transition-colors">
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-          </svg>
-        </button>
-        <img class="max-w-full max-h-full object-contain rounded-lg shadow-2xl" src="" alt="" />
-      `;
-      document.body.appendChild(lightbox);
+      // Image lightbox now lives in <Lightbox /> (binds on astro:page-load).
 
-      const lightboxImg = lightbox.querySelector('img') as HTMLImageElement;
-      const lightboxClose = lightbox.querySelector('button') as HTMLButtonElement;
-
-      article.querySelectorAll('img').forEach((img) => {
-        img.classList.add('cursor-zoom-in');
-        img.addEventListener('click', () => {
-          lightboxImg.src = (img as HTMLImageElement).src;
-          lightboxImg.alt = (img as HTMLImageElement).alt;
-          lightbox.classList.remove('opacity-0', 'pointer-events-none');
-          document.body.style.overflow = 'hidden';
-        });
-      });
-
-      const closeLightbox = () => {
-        lightbox.classList.add('opacity-0', 'pointer-events-none');
-        document.body.style.overflow = '';
-      };
-
-      lightboxClose.addEventListener('click', closeLightbox);
-      lightbox.addEventListener('click', (e) => {
-        if (e.target === lightbox) closeLightbox();
-      });
       // Global keyboard shortcuts: bind ONCE. `document` is not swapped by
       // ClientRouter, so binding these inside the per-navigation setup would
       // stack a new listener on every page view. Both handlers query the DOM
