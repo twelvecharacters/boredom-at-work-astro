@@ -1,9 +1,9 @@
 ---
-title: "Kindle vs Kobo (2026): I Own Both, Here's Which to Buy"
+title: "Kindle vs Kobo (2026): Which E-Reader Should You Buy?"
 slug: "kindle-vs-kobo"
-description: "After using both Kindle and Kobo daily, here's the honest truth. Features, prices, and ecosystem compared, with a clear winner."
+description: "Kindle vs Kobo compared for 2026: features, prices, library borrowing, and ecosystem, with a clear pick for each kind of reader."
 publishDate: 2026-01-23
-updatedDate: 2026-05-17
+updatedDate: 2026-07-12
 author: "Mehdi"
 image: "./23-kindle-vs-kobo.webp"
 imageAlt: "Side-by-side comparison of Kindle and Kobo e-readers"
@@ -46,7 +46,7 @@ Let's break down the real differences.
 
 ## Kindle vs Kobo: Head-to-Head Comparison
 
-| Feature | Kindle Paperwhite | Kobo Clara 2E |
+| Feature | Kindle Paperwhite | Kobo Clara BW |
 |---------|-------------------|---------------|
 | Price | $160 | $140 |
 | Screen Size | 7" | 6" |
@@ -146,8 +146,8 @@ You can [sideload EPUBs on Kindle](/sideload-books-kindle/) using Calibre or Sen
 
 | Model | Price | Screen | Key Features |
 |-------|-------|--------|--------------|
-| Kobo Clara BW | $129 | 6" | Budget option |
-| Kobo Clara Colour | $150 | 6" | Color screen, recycled plastic |
+| Kobo Clara BW | $140 | 6" | Budget option |
+| Kobo Clara Colour | $160 | 6" | Color screen, recycled plastic |
 | Kobo Libra 2 | $189 | 7" | Physical buttons, waterproof (now succeeded by Libra Colour, ~$220) |
 | Kobo Sage | $259 | 8" | Stylus support, Dropbox |
 | Kobo Elipsa 2E | $399 | 10.3" | Large screen, note-taking |
@@ -172,7 +172,7 @@ Both use E Ink, so both have slight refresh delays. Modern models from both are 
 
 ### Warm Light
 
-Both Paperwhite and Clara 2E have adjustable warm lights for nighttime reading. Both work well. Tie.
+Both the Paperwhite and the Clara BW have adjustable warm lights for nighttime reading. Both work well. Tie.
 
 ## Store and Pricing
 
