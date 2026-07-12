@@ -32,15 +32,24 @@ function getChangedUrls() {
   try {
     // Get blog files changed in the last commit
     const diff = execSync('git diff --name-only HEAD~1 HEAD -- src/content/blog/', { encoding: 'utf-8' });
-    const files = diff.trim().split('\n').filter(Boolean);
+    const files = diff.trim().split('\n').filter(f => f && /\.mdx?$/.test(f));
 
     return files.map(file => {
-      // Extract slug from file path: src/content/blog/2026/02/article-name.md -> article-name
-      const match = file.match(/([^/]+)\.md$/);
-      if (match) {
-        return `${SITE_URL}/${match[1]}/`;
+      // The URL is the `slug` frontmatter field, NOT the filename. Files carry a
+      // day-number prefix (e.g. 23-kindle-vs-kobo.md) but the URL is /kindle-vs-kobo/.
+      let slug;
+      try {
+        const content = readFileSync(file, 'utf-8');
+        slug = content.match(/^slug:\s*["']?(.+?)["']?\s*$/m)?.[1];
+      } catch {
+        // File was deleted in this commit; fall through to the filename fallback.
       }
-      return null;
+      if (!slug) {
+        // Fallback: filename without extension and without the day-number prefix.
+        const base = file.match(/([^/]+)\.mdx?$/)?.[1];
+        slug = base ? base.replace(/^\d+-/, '') : null;
+      }
+      return slug ? `${SITE_URL}/${slug}/` : null;
     }).filter(Boolean);
   } catch {
     console.log('Could not determine changed files, submitting all URLs.');
