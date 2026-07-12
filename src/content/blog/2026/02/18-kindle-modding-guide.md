@@ -3,7 +3,7 @@ title: "Kindle Modding Wiki: Every Jailbreak, Mod & KOReader Setup (2026)"
 slug: "kindle-modding-guide"
 description: "The complete Kindle modding wiki: jailbreak, KOReader, custom fonts, screensavers, and EPUB sideloading. Works on Paperwhite, basic Kindle, and Scribe."
 publishDate: 2026-02-18
-updatedDate: 2026-06-17
+updatedDate: 2026-07-12
 author: "Mehdi"
 image: "./18-kindle-modding-guide.webp"
 imageAlt: "Step-by-step visual guide for Kindle jailbreak and KOReader setup"
@@ -127,15 +127,18 @@ Did you know you can just plug your Kindle into a computer and drag-and-drop `.t
 
 ---
 
-## 7. The June 2026 Crisis: Why Modding Matters Now
+## 7. Why Modding Matters More Than Ever in 2026
 
-Two major events in mid-2026 have made Kindle modding more than just a hobby—it’s now a necessity for many.
+Through mid-2026, a run of Amazon moves turned Kindle modding from a hobby into a necessity for many owners.
 
-### **The Legacy EOL (End of Life)**
-On **May 20, 2026**, Amazon officially pulled the plug on technical support for all "legacy" Kindles (1st through 5th Gen, plus the early Paperwhites). These devices can no longer access the Kindle Store or sync with the cloud. If you have an old Kindle Keyboard or a Touch gathering dust, **jailbreaking is the only way to keep it useful.** By installing KOReader and using Calibre for sideloading, you can bypass the dead Amazon services and continue using the hardware for years.
+### **The Legacy End-of-Support (May 2026)**
+On **May 20, 2026**, Amazon ended Kindle Store access on "legacy" devices, everything from 2012 and earlier (the Kindle Keyboard, Kindle Touch, the original Paperwhite, and the older Fires). These devices can no longer buy, borrow, or download books on-device, and once you deregister or factory-reset one, you cannot re-register it to an Amazon account at all. If you have one gathering dust, jailbreaking it and using KOReader with Calibre sideloading is the only way to keep it useful.
 
-### **KFX-ZIP DRM Hardening**
-Amazon has recently introduced a new "KFX-ZIP" format for books downloaded on firmware 5.18.5 and higher. This format is designed to be much harder for standard tools (like the ones used with Calibre) to decrypt. For power users who want to back up their purchased library, a jailbroken device is now one of the only reliable ways to maintain digital ownership of your books.
+### **Kindle for PC (Win32) Retired (June 2026)**
+On **June 30, 2026**, Amazon retired the classic 32-bit Kindle for PC app, the tool many readers leaned on to download and back up their purchases. Its older architecture could not handle Amazon's newer KFX encryption. With it gone, a jailbroken device running KOReader has become one of the few dependable ways to keep working with a library you actually own.
+
+### **KFX DRM Hardening**
+Amazon's newer KFX book format is deliberately harder for standard tools (like the ones used with Calibre) to decrypt. For power users who want to back up a purchased library, a jailbroken device is now one of the last reliable ways to maintain genuine digital ownership.
 
 ---
 
