@@ -111,7 +111,31 @@ const { initialOpen = true, title = "Table of Contents" } = Astro.props;
     });
   }
 
+  // Scroll-spy: highlight the TOC link for the heading currently in view.
+  // Runs after generateTOC (which assigns heading ids and builds the links).
+  let spyObserver: IntersectionObserver | undefined;
+  function setupScrollSpy() {
+    const article = document.querySelector('.prose');
+    if (!article) return;
+    spyObserver?.disconnect();
+    spyObserver = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (!entry.isIntersecting) return;
+        const id = entry.target.getAttribute('id');
+        document.querySelectorAll('.toc-list a').forEach((link) => {
+          link.classList.toggle('active-link', link.getAttribute('href') === `#${id}`);
+        });
+      });
+    }, { rootMargin: '-100px 0px -70% 0px' });
+    article.querySelectorAll('h2, h3').forEach((h) => spyObserver!.observe(h));
+  }
+
+  function initToc() {
+    generateTOC();
+    setupScrollSpy();
+  }
+
   // Run on page load and after swaps
-  document.addEventListener('DOMContentLoaded', generateTOC);
-  document.addEventListener('astro:page-load', generateTOC);
+  document.addEventListener('DOMContentLoaded', initToc);
+  document.addEventListener('astro:page-load', initToc);
 </script>

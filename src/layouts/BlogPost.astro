@@ -392,24 +392,7 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
         }
       });
 
-      // 2. Scroll-spy for TOC
-      const observer = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-          const id = entry.target.getAttribute('id');
-          if (entry.isIntersecting) {
-            document.querySelectorAll('.toc-list a').forEach(link => {
-              link.classList.remove('active-link');
-              if (link.getAttribute('href') === `#${id}`) {
-                link.classList.add('active-link');
-              }
-            });
-          }
-        });
-      }, { rootMargin: '-100px 0px -70% 0px' });
-
-      article.querySelectorAll('h2, h3').forEach((heading) => {
-        observer.observe(heading);
-      });
+      // TOC scroll-spy now lives in <TableOfContents /> (runs after it builds the list).
 
       // Reading progress is handled by the <ReadingProgressBar /> component
       // (rendered from BaseLayout); the previous inline bar here was a duplicate
