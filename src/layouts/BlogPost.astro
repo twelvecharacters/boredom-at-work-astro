@@ -434,7 +434,11 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
   <script>
     function setupArticleScripts() {
       // Avoid duplicate initialization
-      if (window.hasOwnProperty('articleScriptsInitialized')) return;
+      // Truthy check, NOT hasOwnProperty: astro:after-swap resets this to false
+      // on ClientRouter navigation so the per-page setup re-runs. Checking mere
+      // property existence made the reset a no-op, so focus mode, code-copy,
+      // lightbox and scroll-spy stopped working after any in-site navigation.
+      if ((window as any).articleScriptsInitialized) return;
       (window as any).articleScriptsInitialized = true;
 
       const article = document.querySelector('.prose');
