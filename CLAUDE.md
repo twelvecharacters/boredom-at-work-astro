@@ -128,7 +128,7 @@ Drafts in `medium-drafts/` (in `.gitignore`).
 
 | Detail | Wert |
 |--------|------|
-| Key | `33eb690ddefc36d78165765c86948671` |
+| Key | `20787ddab7914ca793ba6fbf81defbfb` |
 | Script | `scripts/indexnow.js` (`pnpm run indexnow`) |
 | CI | `.github/workflows/deploy.yml` — auto nach Build |
 

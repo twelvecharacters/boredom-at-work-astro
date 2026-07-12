@@ -13,7 +13,7 @@ import { readFileSync } from 'fs';
 import { execSync } from 'child_process';
 
 const SITE_URL = 'https://boredom-at-work.com';
-const INDEX_NOW_KEY = '33eb690ddefc36d78165765c86948671';
+const INDEX_NOW_KEY = '20787ddab7914ca793ba6fbf81defbfb';
 const INDEX_NOW_ENDPOINT = 'https://api.indexnow.org/indexnow';
 
 async function getUrlsFromSitemap() {
