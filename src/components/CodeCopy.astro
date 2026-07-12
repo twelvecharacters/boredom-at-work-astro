@@ -1,0 +1,45 @@
+---
+// Injects a "Copy" button into every code block in the article body.
+// Idempotent (skips blocks already wired) and rebinds on ClientRouter nav.
+---
+
+<script>
+  function bindCodeCopy() {
+    const article = document.querySelector('.prose');
+    if (!article) return;
+    article.querySelectorAll('pre').forEach((block) => {
+      if (block.querySelector('.copy-button')) return;
+
+      const button = document.createElement('button');
+      button.className = 'copy-button absolute top-3 right-3 flex items-center gap-1.5 px-3 py-1.5 bg-white/80 hover:bg-white border border-primary/20 hover:border-accent text-primary/60 hover:text-accent rounded-md transition-all duration-200 shadow-sm backdrop-blur-sm z-10 font-sans text-xs font-semibold';
+      button.innerHTML = `
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+        </svg>
+        <span>Copy</span>
+      `;
+
+      block.classList.add('relative', 'group');
+      block.appendChild(button);
+
+      button.addEventListener('click', () => {
+        const code = block.querySelector('code')?.innerText || '';
+        navigator.clipboard.writeText(code).then(() => {
+          const span = button.querySelector('span');
+          const svg = button.querySelector('svg');
+          if (span) span.innerText = 'Copied!';
+          if (svg) svg.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />';
+
+          button.classList.add('bg-green-50', 'border-green-500', 'text-green-600');
+
+          setTimeout(() => {
+            if (span) span.innerText = 'Copy';
+            if (svg) svg.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />';
+            button.classList.remove('bg-green-50', 'border-green-500', 'text-green-600');
+          }, 2000);
+        });
+      });
+    });
+  }
+  document.addEventListener('astro:page-load', bindCodeCopy);
+</script>
