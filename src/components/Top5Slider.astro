@@ -178,6 +178,31 @@ const categories = [
 ];
 ---
 
+<script type="application/ld+json" set:html={JSON.stringify(categories.map(cat => ({
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": cat.title,
+  "description": cat.description,
+  "itemListElement": cat.items.map((item, index) => ({
+    "@type": "ListItem",
+    "position": item.rank,
+    "item": {
+      "@type": "Product",
+      "name": item.name,
+      "brand": {
+        "@type": "Brand",
+        "name": item.company
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": item.price.replace(/[^0-9.]/g, '') || "0",
+        "priceCurrency": "USD",
+        "url": item.url
+      }
+    }
+  }))
+})))} />
+
 <section class="py-12 md:py-24 bg-background-alt relative overflow-hidden top5-slider-container">
   <div class="max-w-4xl mx-auto px-4 relative z-10">
     
@@ -218,7 +243,7 @@ const categories = [
 
           <div class="flex flex-col gap-4">
             {cat.items.map((item, itemIndex) => (
-              <a href={item.url} data-track-click="slider-item" data-item-name={item.name} data-item-category={cat.id} target="_blank" rel="noopener nofollow" class="group block bg-white rounded-3xl p-6 md:p-8 flex flex-col md:grid md:grid-cols-[4rem_16rem_1fr_100px] md:items-center gap-6 border border-primary/5 shadow-sm hover:shadow-xl hover:-translate-y-1 hover:border-primary/20 transition-all duration-300">
+              <a href={item.url} data-track-click="slider-item" data-item-name={item.name} data-item-category={cat.id} target="_blank" rel={item.sponsored ? "sponsored" : "noopener nofollow"} class="group block bg-white rounded-3xl p-6 md:p-8 flex flex-col md:grid md:grid-cols-[4rem_16rem_1fr_100px] md:items-center gap-6 border border-primary/5 shadow-sm hover:shadow-xl hover:-translate-y-1 hover:border-primary/20 transition-all duration-300">
                 
                 <!-- Rank Badge -->
                 <div class="hidden md:flex flex-col shrink-0 w-16 h-16 rounded-2xl bg-background-alt items-center justify-center border border-primary/5 group-hover:scale-110 group-hover:bg-primary/5 group-hover:text-primary transition-all">
@@ -275,7 +300,12 @@ const categories = [
             ))}
           </div>
 
-          <!-- External category links removed -->
+          <div class="mt-8 text-center">
+            <a href={cat.link} class="inline-flex items-center justify-center gap-2 px-6 py-3 bg-white text-primary font-bold rounded-full border border-primary/10 hover:border-primary/30 hover:bg-primary/5 transition-all shadow-sm hover:shadow-md group">
+              {cat.linkText}
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="group-hover:translate-x-1 transition-transform"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+            </a>
+          </div>
 
         </div>
       ))}
