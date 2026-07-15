@@ -2,9 +2,9 @@
 title: "Why Boredom Is Good For You: The Hidden Power of Doing Nothing"
 slug: "why-boredom-is-good-for-you"
 description: "Discover why boredom isn't something to avoid, but a vital state for creativity, mental health, and productivity. Learn how to embrace doing nothing."
-publishDate: 2026-07-16
+publishDate: 2026-07-31
 author: "Mehdi"
-image: "./16-why-boredom-is-good-for-you.png"
+image: "./31-why-boredom-is-good-for-you.png"
 imageAlt: "A person relaxing by a window doing nothing, staring thoughtfully into the distance in a calm, quiet room"
 tags: ["Health", "Productivity", "Lifestyle"]
 draft: false
