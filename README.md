@@ -11,11 +11,11 @@
 - **Full-Text Search**: Powered by [Pagefind](https://pagefind.app/) for fast, client-side searching.
 - **Optimized Images**: Automatic thumbnail generation and WebP conversion for performance.
 - **SEO & Content Optimization**: Automated linting, SEO scoring, and traffic reporting to ensure high quality.
-- **Modern Tech Stack**: Built with Astro 5 and Tailwind CSS 4.
+- **Modern Tech Stack**: Built with Astro 7 and Tailwind CSS 4.
 
 ## 🛠 Tech Stack
 
-- **Framework**: [Astro 5](https://astro.build/)
+- **Framework**: [Astro 7](https://astro.build/)
 - **Styling**: [Tailwind CSS 4](https://tailwindcss.com/)
 - **Search**: [Pagefind](https://pagefind.app/)
 - **Processing**: [Sharp](https://sharp.pixelplumbing.com/) (for image optimization)
@@ -43,7 +43,7 @@
 | Year | Month | Articles |
 | :--- | :--- | :--- |
 | 2026 | 09 - Sep | 4 |
-| 2026 | 08 - Aug | 23 |
+| 2026 | 08 - Aug | 29 |
 | 2026 | 07 - Jul | 31 |
 | 2026 | 06 - Jun | 26 |
 | 2026 | 05 - May | 29 |
@@ -52,7 +52,7 @@
 | 2026 | 02 - Feb | 36 |
 | 2026 | 01 - Jan | 26 |
 | 2025 | 12 - Dec | 9 |
-| **Total** | | **238** |
+| **Total** | | **244** |
 
 
 ## 🧞 Commands
