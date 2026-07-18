@@ -54,7 +54,15 @@ const socialImageURL = new URL(socialImagePath, Astro.site);
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <ClientRouter />
+    <ClientRouter fallback="swap" />
+    <script is:inline>
+      // Fix for iOS Safari back button / bfcache issues with View Transitions
+      window.addEventListener('pageshow', (event) => {
+        if (event.persisted) {
+          window.location.reload();
+        }
+      });
+    </script>
     <Analytics />
 
     <!-- Preload self-hosted fonts for fastest rendering -->
