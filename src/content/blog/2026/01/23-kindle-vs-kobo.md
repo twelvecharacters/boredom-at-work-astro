@@ -9,12 +9,6 @@ image: "./23-kindle-vs-kobo.webp"
 imageAlt: "Side-by-side comparison of Kindle and Kobo e-readers"
 tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Comparison"]
 draft: false
-review:
-  rating: 4
-  productName: "Kindle Paperwhite"
-  productBrand: "Amazon"
-  priceRange: "$160"
-  reviewBody: "The Kindle Paperwhite remains the safe default choice for most e-reader buyers, with the largest ebook store, excellent Kindle Unlimited integration, and strong resale value. Kobo wins on library support and EPUB flexibility, but for readers already in the Amazon ecosystem the Paperwhite's 7-inch screen and weeks-long battery life are hard to beat at $160."
 faq:
   - question: "Can I read Kindle books on a Kobo?"
     answer: "Not directly. Kindle books use Amazon's DRM protection. However, you can use software like Calibre to convert formats, though this exists in a legal gray area depending on your country."
