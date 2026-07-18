@@ -3,7 +3,7 @@ title: "Alcohol, Drugs, and the Corporate Ladder: The Hidden Costs"
 slug: "alcohol-drugs-corporate-ladder"
 description: "Explore the relationship between substance use and corporate ambition. Learn to recognize unhealthy coping mechanisms and protect your mental health."
 publishDate: 2026-08-16
-author: "Boredom at Work"
+author: "Mehdi"
 image: "./16-alcohol-and-drugs-corporate-ladder.png"
 imageAlt: "A minimalist, conceptual illustration of a corporate ladder with a broken rung shaped like a cocktail glass or pill, contrasting professional ambition with substance use."
 category: "Mental Health"
@@ -36,7 +36,7 @@ However, this creates a subtle but profound pressure. If you do not drink, or if
 
 ### The "Work Hard, Play Hard" Trap
 
-The "work hard, play hard" ethos is deeply problematic because it frames heavy drinking not as a vice, but as a reward for extreme dedication. It romanticizes [burnout](/2026/07/12-burnout-vs-boreout). The narrative suggests that if you are grinding through 80-hour workweeks, you have earned the right to completely disconnect on the weekends, often through binge drinking. 
+The "work hard, play hard" ethos is deeply problematic because it frames heavy drinking not as a vice, but as a reward for extreme dedication. It romanticizes [burnout](/burnout-vs-boreout/). The narrative suggests that if you are grinding through 80-hour workweeks, you have earned the right to completely disconnect on the weekends, often through binge drinking. 
 
 This cycle creates a volatile pendulum swing. During the week, professionals operate in a state of high anxiety, hyper-focus, and immense pressure. When the weekend arrives, alcohol becomes the blunt instrument used to forcibly shut down the stress response. This is not genuine relaxation; it is chemical sedation. And when Monday morning arrives, the resulting physical and emotional hangover only exacerbates the stress of the new workweek, creating a self-perpetuating cycle of exhaustion and self-medication.
 
@@ -108,7 +108,7 @@ Better yet, take the initiative to organize networking events that do not revolv
 
 ### 3. Redefine Productivity
 
-We need to reject the narrative that extreme, chemical-fueled hours equate to valuable work. True productivity is sustainable. Focus on ruthless prioritization, deep work techniques, and protecting your energy. If you are consistently unable to complete your workload within reasonable hours without chemical assistance, the problem is not your focus; the problem is the workload or the system itself. You must learn to set boundaries, [improve your work life balance](/2026/08/13-how-to-work-life-balance), and push back against unreasonable demands, rather than medicating yourself to meet them.
+We need to reject the narrative that extreme, chemical-fueled hours equate to valuable work. True productivity is sustainable. Focus on ruthless prioritization, deep work techniques, and protecting your energy. If you are consistently unable to complete your workload within reasonable hours without chemical assistance, the problem is not your focus; the problem is the workload or the system itself. You must learn to set boundaries, [improve your work life balance](/how-to-work-life-balance/), and push back against unreasonable demands, rather than medicating yourself to meet them.
 
 ### 4. Develop Healthy Coping Mechanisms
 

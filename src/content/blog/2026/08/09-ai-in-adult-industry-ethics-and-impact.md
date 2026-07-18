@@ -7,6 +7,7 @@ image: "./09-ai-in-adult-industry.png"
 imageAlt: "A conceptual illustration of AI ethics, featuring a glowing padlock and a courtroom gavel"
 category: "Tech & Culture"
 tags: ["AI", "Tech & Culture", "Ethics", "Deepfakes"]
+draft: true
 nsfw: true
 faq:
   - question: "What is a deepfake in the context of the adult industry?"
