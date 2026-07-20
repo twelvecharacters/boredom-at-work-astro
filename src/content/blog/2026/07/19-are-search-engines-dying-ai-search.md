@@ -12,21 +12,21 @@ draft: false
 isListicle: false
 tldr: "Traditional search engines are not completely dead, but their role is rapidly shrinking. Conversational AI tools like Perplexity and ChatGPT have transitioned us from 'searching for links' to 'receiving synthesized answers.' While Google is adapting with AI overviews, the open web and traditional SEO face an existential crisis."
 faq:
-  - question: "Is Google Search dying because of AI?"
-    answer: "Google Search isn't dying, but it is fundamentally transforming. People are increasingly turning to AI tools for complex queries, forcing Google to integrate its own AI Overviews to provide direct answers rather than just a list of blue links."
-  - question: "Why do people prefer AI over traditional search engines?"
-    answer: "AI models synthesize information from multiple sources and provide a direct, conversational answer. This saves users the time of clicking through multiple websites, scrolling past ads, and hunting for the specific piece of information they need."
-  - question: "What is Perplexity AI and why is it popular?"
-    answer: "Perplexity AI is a conversational search engine that uses advanced language models to scour the web in real-time. It reads multiple websites, synthesizes the information into a cohesive answer, and provides inline citations to the original sources, offering the best of both AI and traditional search."
-  - question: "How will AI search affect websites and bloggers?"
-    answer: "AI search accelerates the 'zero-click' phenomenon, where users get their answers without ever visiting the source website. This threatens the traditional ad-supported web model, forcing publishers to focus on deeply original content, unique data, and brand loyalty rather than generic informational articles."
-  - question: "Can AI search engines be trusted?"
-    answer: "Trust remains a significant issue. AI models can 'hallucinate' or confidently present incorrect information. Search-augmented AI (like Perplexity or Bing Copilot) mitigates this by citing live sources, but users must still verify critical information rather than accepting AI output blindly."
+ - question: "Is Google Search dying because of AI?"
+ answer: "Google Search isn't dying, but it is fundamentally transforming. People are increasingly turning to AI tools for complex queries, forcing Google to integrate its own AI Overviews to provide direct answers rather than just a list of blue links."
+ - question: "Why do people prefer AI over traditional search engines?"
+ answer: "AI models synthesize information from multiple sources and provide a direct, conversational answer. This saves users the time of clicking through multiple websites, scrolling past ads, and hunting for the specific piece of information they need."
+ - question: "What is Perplexity AI and why is it popular?"
+ answer: "Perplexity AI is a conversational search engine that uses advanced language models to scour the web in real-time. It reads multiple websites, synthesizes the information into a cohesive answer, and provides inline citations to the original sources, offering the best of both AI and traditional search."
+ - question: "How will AI search affect websites and bloggers?"
+ answer: "AI search accelerates the 'zero-click' phenomenon, where users get their answers without ever visiting the source website. This threatens the traditional ad-supported web model, forcing publishers to focus on deeply original content, unique data, and brand loyalty rather than generic informational articles."
+ - question: "Can AI search engines be trusted?"
+ answer: "Trust remains a significant issue. AI models can 'hallucinate' or confidently present incorrect information. Search-augmented AI (like Perplexity or Bing Copilot) mitigates this by citing live sources, but users must still verify critical information rather than accepting AI output blindly."
 ---
 
 For over two decades, the process of finding information online remained remarkably static. You typed a few keywords into a search bar, pressed enter, and were presented with a list of blue links. You clicked the most promising link, skimmed the page, and if you didn't find what you were looking for, you hit the back button and tried the next one. This was the undisputed ritual of the internet, dominated almost entirely by one company: Google. 
 
-But as we navigate through 2026, a seismic shift has occurred. The question isn't just whether Google is losing its edge; it is whether the entire concept of the traditional "search engine" is fundamentally dying. Artificial Intelligence—specifically conversational Large Language Models (LLMs)—has fundamentally rewired our expectations. We no longer want to search for *links*; we want to search for *answers*.
+But as we navigate through 2026, a seismic shift has occurred. The question isn't just whether Google is losing its edge; it is whether the entire concept of the traditional "search engine" is fundamentally dying. Artificial Intelligence, specifically conversational Large Language Models (LLMs), has fundamentally rewired our expectations. We no longer want to search for *links*; we want to search for *answers*.
 
 This transition from traditional search to AI-synthesized knowledge retrieval is one of the most profound changes in the history of the web. It impacts not only how billions of people find information but also threatens the trillion-dollar ecosystem of digital advertising, Search Engine Optimization (SEO), and web publishing. Let's explore exactly how AI is replacing traditional search, whether the classic search engine is truly dead, and what the future holds for the open web.
 
@@ -34,7 +34,7 @@ This transition from traditional search to AI-synthesized knowledge retrieval is
 
 To understand why AI search has taken off so rapidly, we have to look at the state of traditional search leading up to the AI boom. By the early 2020s, user frustration with standard search engines had reached an all-time high. 
 
-The traditional search results page had become increasingly cluttered. The top half of the screen on mobile devices was entirely dominated by sponsored ads and Google's own ecosystem products. Below the ads were SEO-optimized articles—often thousands of words long, filled with filler content designed solely to satisfy search algorithms rather than human readers (a practice ironically required just to rank). If you wanted a simple recipe, you had to scroll past a blogger's life story. If you wanted a quick product recommendation, you were met with affiliate spam disguised as genuine reviews.
+The traditional search results page had become increasingly cluttered. The top half of the screen on mobile devices was entirely dominated by sponsored ads and Google's own ecosystem products. Below the ads were SEO-optimized articles, often thousands of words long, filled with filler content designed solely to satisfy search algorithms rather than human readers (a practice ironically required just to rank). If you wanted a simple recipe, you had to scroll past a blogger's life story. If you wanted a quick product recommendation, you were met with affiliate spam disguised as genuine reviews.
 
 Users began noticing this degradation in quality. There was a growing trend of appending "Reddit" to the end of every search query, a desperate attempt by users to bypass SEO spam and find authentic, human-written answers in forum threads. The traditional search engine was no longer a reliable curator of the web; it had become a heavily commercialized obstacle course. The door was left wide open for disruption.
 
@@ -98,7 +98,7 @@ There are still specific scenarios where traditional search engines outshine AI:
 
 ## The Reliability Problem: Hallucinations and Truth
 
-The biggest hurdle preventing the total dominance of AI search is the ongoing issue of reliability. LLMs are, fundamentally, prediction engines. They do not "know" facts; they predict the most likely next word based on their training data. This leads to the infamous phenomenon of **hallucinations**—where the AI confidently presents entirely fabricated information as absolute truth.
+The biggest hurdle preventing the total dominance of AI search is the ongoing issue of reliability. LLMs are, fundamentally, prediction engines. They do not "know" facts; they predict the most likely next word based on their training data. This leads to the infamous phenomenon of **hallucinations**, where the AI confidently presents entirely fabricated information as absolute truth.
 
 Search-augmented models mitigate this by forcing the AI to ground its answers in live web text, but they are not perfect. If the AI reads a satirical article, a heavily biased political blog, or simply misunderstands the context of a complex scientific paper, it will relay that misinformation directly to the user. 
 

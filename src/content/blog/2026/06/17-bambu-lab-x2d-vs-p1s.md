@@ -9,14 +9,14 @@ imageAlt: "Bambu Lab X2D and P1S 3D printers side by side for comparison"
 tags: ["3D Printing", "Bambu Lab", "Comparison", "Buying Guide"]
 draft: false
 faq:
-  - question: "Is the X2D worth the extra $100 over the P1S?"
-    answer: "For most makers who print engineering materials or multi-material projects, yes. The $100 jump gets you a heated chamber (up to 65°C), true dual-nozzle printing, 31 AI sensors, and a dedicated TPU feeder. If you only print PLA and PETG single-material, the P1S is the smarter buy."
-  - question: "Can the P1S print engineering materials like ABS and ASA?"
-    answer: "Yes, with caveats. The P1S has a passive enclosure that traps heat from the bed and hot end, which is enough for ABS and ASA in most cases. The X2D's active chamber heat (up to 65°C) makes high-temp materials more reliable, especially in colder rooms or with larger parts that lose heat to ambient air."
-  - question: "Are X2D and P1S build volumes the same?"
-    answer: "Almost. The P1S is 256x256x256 mm. The X2D is 256x256x260 mm in single-nozzle mode and 235.5x256x256 mm in dual-nozzle mode. The X2D loses some width when both nozzles are active. For single-material prints, they're effectively identical in volume."
-  - question: "Which printer is better for beginners, X2D or P1S?"
-    answer: "P1S is the better beginner printer. It has fewer settings to manage, single-nozzle simplicity, and a more forgiving learning curve. The X2D's extra features (heated chamber, dual nozzles, advanced sensors) are wasted on beginners who haven't yet hit the limits of a simpler machine. Start with P1S, upgrade later if you outgrow it."
+ - question: "Is the X2D worth the extra $100 over the P1S?"
+ answer: "For most makers who print engineering materials or multi-material projects, yes. The $100 jump gets you a heated chamber (up to 65°C), true dual-nozzle printing, 31 AI sensors, and a dedicated TPU feeder. If you only print PLA and PETG single-material, the P1S is the smarter buy."
+ - question: "Can the P1S print engineering materials like ABS and ASA?"
+ answer: "Yes, with caveats. The P1S has a passive enclosure that traps heat from the bed and hot end, which is enough for ABS and ASA in most cases. The X2D's active chamber heat (up to 65°C) makes high-temp materials more reliable, especially in colder rooms or with larger parts that lose heat to ambient air."
+ - question: "Are X2D and P1S build volumes the same?"
+ answer: "Almost. The P1S is 256x256x256 mm. The X2D is 256x256x260 mm in single-nozzle mode and 235.5x256x256 mm in dual-nozzle mode. The X2D loses some width when both nozzles are active. For single-material prints, they're effectively identical in volume."
+ - question: "Which printer is better for beginners, X2D or P1S?"
+ answer: "P1S is the better beginner printer. It has fewer settings to manage, single-nozzle simplicity, and a more forgiving learning curve. The X2D's extra features (heated chamber, dual nozzles, advanced sensors) are wasted on beginners who haven't yet hit the limits of a simpler machine. Start with P1S, upgrade later if you outgrow it."
 ---
 
 Bambu Lab launched the X2D in April 2026 as the new mid-range flagship. The P1S, launched in 2023 and price-dropped after the X2D arrived, is still the volume-seller for enthusiasts.
@@ -63,7 +63,7 @@ The headline upgrades from P1S to X2D are real, but their importance depends on 
 
 ### 1. Dual-Nozzle Printing (Big Deal If You Use It)
 
-The P1S has one nozzle. To switch colors or materials, the AMS purges the old filament — wasting 30-100g per swap on complex prints.
+The P1S has one nozzle. To switch colors or materials, the AMS purges the old filament, wasting 30-100g per swap on complex prints.
 
 The X2D has two physical nozzles with mechanical switching (a PMSM servo motor swaps them). Zero purge required. Print PLA + PVA supports, or rigid + flexible in one job.
 
@@ -111,7 +111,7 @@ This matters more than people realize for ABS, ASA, and resin-adjacent materials
 
 ### 6. Faster Theoretical Print Speed
 
-X2D goes up to 1000 mm/s, P1S up to 500 mm/s. In practice, you won't print at these speeds — quality degrades sharply. Most users settle around 200-300 mm/s on both printers for normal prints.
+X2D goes up to 1000 mm/s, P1S up to 500 mm/s. In practice, you won't print at these speeds, quality degrades sharply. Most users settle around 200-300 mm/s on both printers for normal prints.
 
 The X2D's higher ceiling matters more for repetitive simple parts (drafts, jigs, brackets) where speed wins over surface quality.
 
@@ -136,7 +136,7 @@ You'll hit the limits of single-nozzle PLA/PETG before you hit the limits of the
 
 ### "I Print PLA Art and Functional Prints" → P1S
 
-Cosplayers, miniature painters, prop makers, and hobby print farms running PLA don't benefit from the X2D's upgrades. Stick with P1S, save the $100, and put it toward better filament or a Wham Bam flex plate. If your main constraint is print size rather than materials — helmets, big props, large functional parts — the large-format [Bambu Lab A2L](/bambu-lab-a2l-review/) gives you a 330mm bed for less than the P1S.
+Cosplayers, miniature painters, prop makers, and hobby print farms running PLA don't benefit from the X2D's upgrades. Stick with P1S, save the $100, and put it toward better filament or a Wham Bam flex plate. If your main constraint is print size rather than materials, helmets, big props, large functional parts, the large-format [Bambu Lab A2L](/bambu-lab-a2l-review/) gives you a 330mm bed for less than the P1S.
 
 ### "I Print Engineering Parts" → X2D
 
@@ -144,7 +144,7 @@ If you print ABS for car interior parts, ASA for outdoor brackets, PC for tools,
 
 ### "I Want Multi-Material" → X2D
 
-Dissolvable supports (PLA + PVA), rigid + flexible combos, color-heavy prints — these all benefit from the X2D's dual-nozzle approach. The P1S can do some of this with AMS, but with purge waste and color-mixing limitations.
+Dissolvable supports (PLA + PVA), rigid + flexible combos, color-heavy prints, these all benefit from the X2D's dual-nozzle approach. The P1S can do some of this with AMS, but with purge waste and color-mixing limitations.
 
 ### "I'm Upgrading from X1C" → Probably Skip Both
 

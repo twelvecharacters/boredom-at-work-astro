@@ -9,18 +9,18 @@ imageAlt: "Illustration showing photography fundamentals and camera gear for beg
 tags: ["Photography", "Cameras", "Beginners", "Tutorial", "Hub Page"]
 draft: false
 faq:
-  - question: "What's the best camera for beginners in 2026?"
-    answer: "For most beginners, the Sony a6400 (~$900 with kit lens) offers the best balance of features, image quality, and ease of use. On a budget, the Canon EOS R100 (~$480) is an excellent choice. If you want something compact, consider the Fujifilm X-T30 II (~$900). The Nikon Z50 II (~$860) is another strong option. Avoid spending over $1200 on your first camera, you'll learn faster by actually shooting than by having fancy features."
-  - question: "Should I buy a camera or just use my smartphone?"
-    answer: "For casual photos and social media, your smartphone is probably enough. Buy a dedicated camera if you want: better low-light performance, more creative control (manual settings, interchangeable lenses), superior zoom range, or you're serious about learning photography as a skill. If you're not sure, try renting a camera first."
-  - question: "DSLR or mirrorless, which is better for beginners?"
-    answer: "Mirrorless is better for beginners in 2026. They're smaller, lighter, have better autofocus, and show real-time exposure preview. DSLRs have longer battery life and more used lenses available, but manufacturers have shifted to mirrorless. Buy mirrorless unless you find a great deal on a DSLR kit."
-  - question: "How much should I spend on my first camera?"
-    answer: "Budget $400-800 for a camera body with kit lens. Under $400 you're making serious compromises. Over $1000 is overkill for learning. Remember to budget $100-200 for accessories: SD card, extra battery, camera bag. Don't spend all your money on the body, lenses matter more for image quality."
-  - question: "What camera settings should beginners use?"
-    answer: "Start with Aperture Priority mode (A or Av). Set your aperture, let the camera handle shutter speed. Use Auto ISO (100-6400 range). This gives you creative control over depth of field while the camera handles exposure. Once comfortable, learn Manual mode for full control."
-  - question: "How long does it take to get good at photography?"
-    answer: "You'll take noticeably better photos within 2-4 weeks of daily practice. Understanding exposure, composition, and your camera's controls takes 2-3 months. Developing your own style takes 1-2 years. The fastest way to improve: shoot every day, study photos you admire, and learn from your mistakes."
+ - question: "What's the best camera for beginners in 2026?"
+ answer: "For most beginners, the Sony a6400 (~$900 with kit lens) offers the best balance of features, image quality, and ease of use. On a budget, the Canon EOS R100 (~$480) is an excellent choice. If you want something compact, consider the Fujifilm X-T30 II (~$900). The Nikon Z50 II (~$860) is another strong option. Avoid spending over $1200 on your first camera, you'll learn faster by actually shooting than by having fancy features."
+ - question: "Should I buy a camera or just use my smartphone?"
+ answer: "For casual photos and social media, your smartphone is probably enough. Buy a dedicated camera if you want: better low-light performance, more creative control (manual settings, interchangeable lenses), superior zoom range, or you're serious about learning photography as a skill. If you're not sure, try renting a camera first."
+ - question: "DSLR or mirrorless, which is better for beginners?"
+ answer: "Mirrorless is better for beginners in 2026. They're smaller, lighter, have better autofocus, and show real-time exposure preview. DSLRs have longer battery life and more used lenses available, but manufacturers have shifted to mirrorless. Buy mirrorless unless you find a great deal on a DSLR kit."
+ - question: "How much should I spend on my first camera?"
+ answer: "Budget $400-800 for a camera body with kit lens. Under $400 you're making serious compromises. Over $1000 is overkill for learning. Remember to budget $100-200 for accessories: SD card, extra battery, camera bag. Don't spend all your money on the body, lenses matter more for image quality."
+ - question: "What camera settings should beginners use?"
+ answer: "Start with Aperture Priority mode (A or Av). Set your aperture, let the camera handle shutter speed. Use Auto ISO (100-6400 range). This gives you creative control over depth of field while the camera handles exposure. Once comfortable, learn Manual mode for full control."
+ - question: "How long does it take to get good at photography?"
+ answer: "You'll take noticeably better photos within 2-4 weeks of daily practice. Understanding exposure, composition, and your camera's controls takes 2-3 months. Developing your own style takes 1-2 years. The fastest way to improve: shoot every day, study photos you admire, and learn from your mistakes."
 tldr: "Start with a mirrorless camera ($500-800 with kit lens). Learn Aperture Priority mode first. Practice daily, even 10 minutes helps. Don't obsess over gear; the best camera is the one you have with you."
 isListicle: false
 ---
@@ -158,7 +158,7 @@ You need more than just a camera body. Here's what actually matters.
 | **External flash** | Indoor/event photography | $80-200 |
 | **Filters (ND, CPL)** | Landscape photography | $30-100 |
 
-**Pro tip:** Master your kit lens before buying more glass. Most beginners blame gear for technique problems. When you are ready to upgrade, though, put your money into glass first — here's [why a great lens beats a pricier camera body](/lens-vs-camera-body/).
+**Pro tip:** Master your kit lens before buying more glass. Most beginners blame gear for technique problems. When you are ready to upgrade, though, put your money into glass first, here's [why a great lens beats a pricier camera body](/lens-vs-camera-body/).
 
 ---
 
@@ -171,18 +171,18 @@ Time to learn what all those buttons do.
 Every photo is a balance of three settings:
 
 ```
-                    EXPOSURE
-                        △
-                       / \
-                      /   \
-                     /     \
-                    /       \
-            APERTURE ,,,, ISO
-                     \     /
-                      \   /
-                       \ /
-                    SHUTTER
-                     SPEED
+ EXPOSURE
+ △
+ / \
+ / \
+ / \
+ / \
+ APERTURE ---- ISO
+ \ /
+ \ /
+ \ /
+ SHUTTER
+ SPEED
 ```
 
 | Setting | What It Controls | Side Effect |
@@ -238,19 +238,19 @@ Divide your frame into a 3x3 grid. Place interesting elements along the lines or
 
 ```
 ┌─────────┬─────────┬─────────┐
-│         │         │         │
-│    ●────┼─────────┼────●    │
-│         │         │         │
+│ │ │ │
+│ ●────┼─────────┼────● │
+│ │ │ │
 ├─────────┼─────────┼─────────┤
-│         │         │         │
-│         │         │         │
-│         │         │         │
+│ │ │ │
+│ │ │ │
+│ │ │ │
 ├─────────┼─────────┼─────────┤
-│         │         │         │
-│    ●────┼─────────┼────●    │
-│         │         │         │
+│ │ │ │
+│ ●────┼─────────┼────● │
+│ │ │ │
 └─────────┴─────────┴─────────┘
-       ● = Power points
+ ● = Power points
 ```
 
 Don't center everything. Place your subject on a third line.

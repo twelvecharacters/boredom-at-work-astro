@@ -9,14 +9,14 @@ imageAlt: "Side-by-side comparison of Google Pixel 10a and Pixel 9a smartphones"
 tags: ["AI", "Android", "Smartphones", "Comparison"]
 draft: false
 faq:
-  - question: "When is the Pixel 10a release date?"
-    answer: "Google has confirmed that pre-orders for the Pixel 10a will begin on February 18, 2026. The official launch is expected shortly after, likely in early March."
-  - question: "How much will the Pixel 10a cost?"
-    answer: "While official pricing isn't out, rumors suggest a starting price of around $499 to $549, keeping it in line with the Pixel 'a' series tradition of being a budget-friendly flagship alternative."
-  - question: "Does the Pixel 10a have a new processor?"
-    answer: "Surprisingly, rumors indicate the Pixel 10a will use an optimized or 'boosted' version of the Tensor G4 chip found in the Pixel 9a, rather than the newer Tensor G5. This is likely a strategic move to keep costs down."
-  - question: "What is the biggest design difference?"
-    answer: "The Pixel 10a is expected to feature a flush rear camera design, removing the elevated plastic ring found around the Pixel 9a's camera module, resulting in a sleeker, flatter back."
+ - question: "When is the Pixel 10a release date?"
+ answer: "Google has confirmed that pre-orders for the Pixel 10a will begin on February 18, 2026. The official launch is expected shortly after, likely in early March."
+ - question: "How much will the Pixel 10a cost?"
+ answer: "While official pricing isn't out, rumors suggest a starting price of around $499 to $549, keeping it in line with the Pixel 'a' series tradition of being a budget-friendly flagship alternative."
+ - question: "Does the Pixel 10a have a new processor?"
+ answer: "Surprisingly, rumors indicate the Pixel 10a will use an optimized or 'boosted' version of the Tensor G4 chip found in the Pixel 9a, rather than the newer Tensor G5. This is likely a strategic move to keep costs down."
+ - question: "What is the biggest design difference?"
+ answer: "The Pixel 10a is expected to feature a flush rear camera design, removing the elevated plastic ring found around the Pixel 9a's camera module, resulting in a sleeker, flatter back."
 tldr: "Google's Pixel 10a lands in mid-February 2026. It features a sleeker flush camera design and an optimized Tensor G4. If you need a phone today, the Pixel 9a remains a power-house, but waiting two weeks might get you thinner bezels and Android 16 out of the box."
 isListicle: false
 ---
@@ -99,7 +99,7 @@ The key difference: the 10a ships with **Android 16** out of the box, which incl
 - **Theft Detection Lock** using AI-powered motion sensing
 - **Private Space** for hiding sensitive apps behind biometric authentication
 
-The 9a will get Android 16 via update, but some Pixel-exclusive features may arrive on the 10a first. Thanks to that 7-year promise, both phones are also in line for the next big release — see what's coming in our [Android 17 features and release guide](/android-17-guide-features/).
+The 9a will get Android 16 via update, but some Pixel-exclusive features may arrive on the 10a first. Thanks to that 7-year promise, both phones are also in line for the next big release, see what's coming in our [Android 17 features and release guide](/android-17-guide-features/).
 
 ---
 

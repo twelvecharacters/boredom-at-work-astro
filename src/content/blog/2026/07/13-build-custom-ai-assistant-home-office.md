@@ -9,12 +9,12 @@ imageAlt: "A modern home office setup featuring a custom AI assistant on a smart
 tags: ["AI", "Home Office", "ChatGPT", "Automation", "Productivity"]
 draft: false
 faq:
-  - question: "Do I need to know how to code to build a custom AI assistant?"
-    answer: "No, you do not need any coding experience. With platforms like OpenAI's Custom GPT builder, Claude's Projects, and no-code automation tools like Zapier or Make, you can build a highly capable AI assistant using natural language."
-  - question: "What is the best hardware to run a home office AI assistant?"
-    answer: "An old iPad or Android tablet mounted on a stand makes an excellent, dedicated interface. You can also use dedicated smart displays like the Echo Show or Google Nest Hub if you are integrating with a voice-first ecosystem like Alexa or Google Assistant."
-  - question: "How secure is a custom AI assistant?"
-    answer: "Security depends on the platform you choose. If dealing with sensitive work data, ensure you use enterprise or team tiers of tools like ChatGPT or Claude, which guarantee your data will not be used to train their public models."
+ - question: "Do I need to know how to code to build a custom AI assistant?"
+ answer: "No, you do not need any coding experience. With platforms like OpenAI's Custom GPT builder, Claude's Projects, and no-code automation tools like Zapier or Make, you can build a highly capable AI assistant using natural language."
+ - question: "What is the best hardware to run a home office AI assistant?"
+ answer: "An old iPad or Android tablet mounted on a stand makes an excellent, dedicated interface. You can also use dedicated smart displays like the Echo Show or Google Nest Hub if you are integrating with a voice-first ecosystem like Alexa or Google Assistant."
+ - question: "How secure is a custom AI assistant?"
+ answer: "Security depends on the platform you choose. If dealing with sensitive work data, ensure you use enterprise or team tiers of tools like ChatGPT or Claude, which guarantee your data will not be used to train their public models."
 ---
 
 # How to Build a Custom AI Assistant for Your Home Office (Without Coding)
@@ -23,7 +23,7 @@ In the past few years, the concept of a "smart home" has largely been defined by
 
 Welcome to the era of the custom AI assistant. 
 
-Building a personalized AI assistant used to be the domain of software engineers and machine learning experts. Today, thanks to the explosion of no-code AI platforms, anyone can build a tailored, highly capable digital assistant. In this comprehensive guide, we will walk you through exactly how to build a custom AI assistant for your home office in 2026—without writing a single line of code.
+Building a personalized AI assistant used to be the domain of software engineers and machine learning experts. Today, thanks to the explosion of no-code AI platforms, anyone can build a tailored, highly capable digital assistant. In this comprehensive guide, we will walk you through exactly how to build a custom AI assistant for your home office in 2026, without writing a single line of code.
 
 ## Why You Need a Dedicated AI Assistant
 
@@ -37,7 +37,7 @@ A custom AI assistant, on the other hand, is like a seasoned chief of staff. It 
 - Your typical daily schedule.
 - The specific files, PDFs, and documentation relevant to your current projects.
 
-By customizing an AI, you eliminate the friction of repetitive prompting. You stop spending five minutes explaining the context to the AI before asking it to do a two-minute task. Furthermore, by giving this assistant a dedicated physical presence in your home office—such as a mounted tablet or smart display—you create a tangible separation between your main workstation and your "co-worker," allowing for seamless, distraction-free interaction.
+By customizing an AI, you eliminate the friction of repetitive prompting. You stop spending five minutes explaining the context to the AI before asking it to do a two-minute task. Furthermore, by giving this assistant a dedicated physical presence in your home office, such as a mounted tablet or smart display, you create a tangible separation between your main workstation and your "co-worker," allowing for seamless, distraction-free interaction.
 
 ## Step 1: Choosing Your AI Brain
 
@@ -67,13 +67,13 @@ Think of this as writing a job description. You need to be explicit about what t
 Use the following framework to draft your assistant's core instructions:
 
 1. **Role and Identity:** Who is the assistant? 
-   *Example: "You are Atlas, my executive assistant and strategic sounding board. You are highly analytical, concise, and proactive."*
+ *Example: "You are Atlas, my executive assistant and strategic sounding board. You are highly analytical, concise, and proactive."*
 2. **Primary Objectives:** What are the main tasks?
-   *Example: "Your primary goals are to draft client emails in my specific tone, summarize long research reports into bullet points, and help me brainstorm marketing strategies."*
+ *Example: "Your primary goals are to draft client emails in my specific tone, summarize long research reports into bullet points, and help me brainstorm marketing strategies."*
 3. **Tone and Formatting Constraints:** How should it speak?
-   *Example: "Never use corporate jargon. Write in a conversational but professional American English tone. Always format lists using bolded headers. Never apologize if you make a mistake, simply correct it."*
+ *Example: "Never use corporate jargon. Write in a conversational but professional American English tone. Always format lists using bolded headers. Never apologize if you make a mistake, simply correct it."*
 4. **Knowledge Base Usage:** How should it use uploaded files?
-   *Example: "When asked about our product features, exclusively reference the uploaded 'Product_Specs_2026.pdf' file. Do not invent features."*
+ *Example: "When asked about our product features, exclusively reference the uploaded 'Product_Specs_2026.pdf' file. Do not invent features."*
 
 ### Uploading the "Brain"
 An AI is only as good as the context you give it. To make your assistant truly yours, upload relevant knowledge files. This could include:
@@ -84,7 +84,7 @@ An AI is only as good as the context you give it. To make your assistant truly y
 
 ## Step 3: Giving Your Assistant a Physical Home
 
-Having a custom GPT sitting in a browser tab behind 40 other tabs is not an "assistant"—it's a tool. To make it feel like a true co-worker in your home office, it needs a dedicated physical interface.
+Having a custom GPT sitting in a browser tab behind 40 other tabs is not an "assistant", it's a tool. To make it feel like a true co-worker in your home office, it needs a dedicated physical interface.
 
 ### The Dedicated Tablet Setup (Highly Recommended)
 The most effective way to interact with your AI assistant is by repurposing an old iPad, Android tablet, or purchasing a cheap dedicated tablet. 
