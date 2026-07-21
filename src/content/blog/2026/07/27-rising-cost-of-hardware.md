@@ -8,12 +8,12 @@ image: "./27-rising-cost-of-hardware.png"
 imageAlt: "Stylized illustration showing expensive computer hardware components like GPUs and motherboards with upward trending price charts"
 tags: ["AI", "Tech & Gadgets", "Hardware"]
 faq:
- - question: "Why is computer hardware getting more expensive in 2026?"
- answer: "The biggest driver is competition for chip-manufacturing capacity. AI data centers order millions of high-margin accelerators from foundries like TSMC, so consumer chips must now outbid multi-trillion-dollar companies for the same production lines. That higher baseline cost of securing silicon gets passed on to buyers of PCs, GPUs, consoles, and phones."
- - question: "Does the AI boom affect smartphone and console prices too?"
- answer: "Yes. On-device AI pushes smartphones toward 12-16GB of RAM, and the surge in memory demand has spiked global RAM prices. Consoles face the same squeeze: their AMD-designed chips need the same cutting-edge 3nm and 2nm nodes that AI enterprise chips demand, making it likely the next generation breaks the traditional $499 price point."
- - question: "How can I avoid paying the AI hardware tax?"
- answer: "Don't pay a premium for 'AI-branded' hardware unless you actually run local AI models, cloud tools like ChatGPT or Claude offload the work to servers. Consider cloud gaming or cloud workstations instead of buying inflated hardware, and hold onto capable devices longer rather than upgrading every cycle."
+  - question: "Why is computer hardware getting more expensive in 2026?"
+    answer: "The biggest driver is competition for chip-manufacturing capacity. AI data centers order millions of high-margin accelerators from foundries like TSMC, so consumer chips must now outbid multi-trillion-dollar companies for the same production lines. That higher baseline cost of securing silicon gets passed on to buyers of PCs, GPUs, consoles, and phones."
+  - question: "Does the AI boom affect smartphone and console prices too?"
+    answer: "Yes. On-device AI pushes smartphones toward 12-16GB of RAM, and the surge in memory demand has spiked global RAM prices. Consoles face the same squeeze: their AMD-designed chips need the same cutting-edge 3nm and 2nm nodes that AI enterprise chips demand, making it likely the next generation breaks the traditional $499 price point."
+  - question: "How can I avoid paying the AI hardware tax?"
+    answer: "Don't pay a premium for 'AI-branded' hardware unless you actually run local AI models — cloud tools like ChatGPT or Claude offload the work to servers. Consider cloud gaming or cloud workstations instead of buying inflated hardware, and hold onto capable devices longer rather than upgrading every cycle."
 ---
 
 If you’ve been shopping for a new laptop, a graphics card, or even a smartphone recently, you have likely noticed a painful reality: hardware has become significantly more expensive. While inflation and supply chain issues are often blamed, there is a much more powerful, systemic force currently reshaping the entire technology ecosystem: Artificial Intelligence.
@@ -22,12 +22,12 @@ The explosion of generative AI, large language models (LLMs), and on-device mach
 
 ## The Silicon Squeeze: TSMC and the Fab Capacity Crisis
 
-To understand why a new gaming console or PC costs more today, we have to look at where these devices are born: semiconductor foundries. The vast majority of the world's high-performance chips, whether they are designed by Apple, Nvidia, AMD, or Qualcomm, are manufactured by a single company: Taiwan Semiconductor Manufacturing Company (TSMC).
+To understand why a new gaming console or PC costs more today, we have to look at where these devices are born: semiconductor foundries. The vast majority of the world's high-performance chips—whether they are designed by Apple, Nvidia, AMD, or Qualcomm—are manufactured by a single company: Taiwan Semiconductor Manufacturing Company (TSMC).
 
 ### The Math of Silicon Allocation
 Foundries like TSMC have a finite amount of manufacturing capacity. Building a new cutting-edge fabrication plant (a "fab") costs upward of $20 billion and takes years to complete. Because capacity is strictly limited, companies must compete to secure space on TSMC's production lines. 
 
-Before the current AI boom, consumer chips, like the processors for iPhones, PlayStations, and gaming PCs, were the most lucrative and high-volume products for these foundries. However, the rise of AI data centers has completely upended this dynamic. Today, tech giants are ordering millions of specialized AI accelerators (like Nvidia's Hopper and Blackwell enterprise GPUs) to train and run massive models. 
+Before the current AI boom, consumer chips—like the processors for iPhones, PlayStations, and gaming PCs—were the most lucrative and high-volume products for these foundries. However, the rise of AI data centers has completely upended this dynamic. Today, tech giants are ordering millions of specialized AI accelerators (like Nvidia's Hopper and Blackwell enterprise GPUs) to train and run massive models. 
 
 ### The Enterprise Premium
 When a company like Nvidia can sell an enterprise AI chip for $30,000 to $40,000 to a data center, the economic incentive to use that same silicon wafer to print a $1,000 consumer graphics card disappears. Enterprise customers are willing to pay astronomical premiums to secure AI compute, effectively pricing consumer products out of the most advanced manufacturing nodes. 
@@ -41,12 +41,12 @@ Nowhere is the AI hardware tax more evident than in the PC component market, spe
 ### GPUs Are Now AI Accelerators First
 For decades, GPUs were designed and marketed primarily for rendering high-fidelity graphics in video games. Today, the underlying architecture of modern GPUs is increasingly optimized for tensor operations and machine learning workloads. Gaming has become a secondary priority for companies like Nvidia and AMD. 
 
-Because top-tier consumer GPUs are highly effective for running local AI models, they are frequently bought in bulk by AI researchers and small businesses who cannot afford enterprise-grade chips. This localized demand constraint ensures that high-end consumer GPUs remain artificially scarce and absurdly expensive. Flagship consumer GPUs now routinely launch well above $1,500, far beyond the flagship GPU prices of a decade ago.
+Because top-tier consumer GPUs are highly effective for running local AI models, they are frequently bought in bulk by AI researchers and small businesses who cannot afford enterprise-grade chips. This localized demand constraint ensures that high-end consumer GPUs remain artificially scarce and absurdly expensive. Flagship consumer GPUs now routinely launch well above $1,500 — far beyond the flagship GPU prices of a decade ago.
 
 ### The "AI PC" and the NPU Tax
 Beyond GPUs, the entire PC laptop and desktop market is being rebranded around the "AI PC." Modern processors from Intel, AMD, and Qualcomm now feature dedicated Neural Processing Units (NPUs) designed specifically to run AI workloads efficiently. 
 
-While NPUs enable useful features, like background blur in video calls or localized AI assistants, adding this physical silicon to a processor increases the die size. A larger chip is more expensive to produce and yields fewer usable chips per silicon wafer. Consequently, the baseline cost of an entry-level laptop has risen. Consumers are essentially forced to pay for NPU silicon whether they actively use AI features or not. (To see how these AI features actually impact daily work, check out our [AI workflow ROI guide](/ai-workflow-roi/)).
+While NPUs enable useful features—like background blur in video calls or localized AI assistants—adding this physical silicon to a processor increases the die size. A larger chip is more expensive to produce and yields fewer usable chips per silicon wafer. Consequently, the baseline cost of an entry-level laptop has risen. Consumers are essentially forced to pay for NPU silicon whether they actively use AI features or not. (To see how these AI features actually impact daily work, check out our [AI workflow ROI guide](/ai-workflow-roi/)).
 
 ## The Console Conundrum: Why Next-Gen Will Hurt Your Wallet
 

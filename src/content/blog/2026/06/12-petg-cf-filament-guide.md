@@ -9,14 +9,14 @@ imageAlt: "Spool of black PETG-CF carbon fiber filament next to a 3D printed mec
 tags: ["3D Printing"]
 draft: false
 faq:
- - question: "Is PETG-CF stronger than regular PETG?"
- answer: "Yes, but in specific ways. PETG-CF has roughly 2-3x the stiffness (Young's modulus) of regular PETG, and slightly better tensile strength. The carbon fibers act as reinforcement. However, it's also more brittle, so it's better for rigid structural parts than parts that need to flex or absorb impact."
- - question: "Do I need a hardened nozzle for PETG-CF?"
- answer: "Yes, absolutely. Carbon fiber particles are abrasive and will destroy a standard brass nozzle within 200-500g of printing. A hardened steel nozzle (or ruby/diamond-coated for extreme use) is mandatory. Hardened steel nozzles cost $15-30 each and last for years with carbon-fiber filaments."
- - question: "What are the best print settings for PETG-CF?"
- answer: "Nozzle 240-260°C, bed 70-90°C, print speed 30-50 mm/s for quality (faster works but with quality loss), part cooling 20-40% (less than regular PETG), and 4+ walls for structural parts. Dry the filament before printing, PETG-CF is hygroscopic and absorbs moisture quickly."
- - question: "Can I use PETG-CF on a Bambu A1 Mini or similar entry printer?"
- answer: "Yes, but with a hardened steel nozzle upgrade. The Bambu A1 Mini, A1, and P1 series can all print PETG-CF after the nozzle swap. The X-series (X1C, P1S, X2D) ship with hardened nozzles already and can print PETG-CF out of the box."
+  - question: "Is PETG-CF stronger than regular PETG?"
+    answer: "Yes, but in specific ways. PETG-CF has roughly 2-3x the stiffness (Young's modulus) of regular PETG, and slightly better tensile strength. The carbon fibers act as reinforcement. However, it's also more brittle, so it's better for rigid structural parts than parts that need to flex or absorb impact."
+  - question: "Do I need a hardened nozzle for PETG-CF?"
+    answer: "Yes, absolutely. Carbon fiber particles are abrasive and will destroy a standard brass nozzle within 200-500g of printing. A hardened steel nozzle (or ruby/diamond-coated for extreme use) is mandatory. Hardened steel nozzles cost $15-30 each and last for years with carbon-fiber filaments."
+  - question: "What are the best print settings for PETG-CF?"
+    answer: "Nozzle 240-260°C, bed 70-90°C, print speed 30-50 mm/s for quality (faster works but with quality loss), part cooling 20-40% (less than regular PETG), and 4+ walls for structural parts. Dry the filament before printing — PETG-CF is hygroscopic and absorbs moisture quickly."
+  - question: "Can I use PETG-CF on a Bambu A1 Mini or similar entry printer?"
+    answer: "Yes, but with a hardened steel nozzle upgrade. The Bambu A1 Mini, A1, and P1 series can all print PETG-CF after the nozzle swap. The X-series (X1C, P1S, X2D) ship with hardened nozzles already and can print PETG-CF out of the box."
 ---
 
 PETG-CF is one of those materials that gets oversold by manufacturers and undersold by 3D printing forums. The reality is somewhere in between: it's a useful filament for a specific category of prints, but it's not a magic upgrade over regular PETG for everything.
@@ -25,7 +25,7 @@ Here's what PETG-CF actually is, when it's worth the cost, and how to print it w
 
 ## What Is PETG-CF?
 
-PETG-CF is PETG (Polyethylene Terephthalate Glycol) with chopped carbon fiber added to the polymer. The carbon fibers are short, typically 100-300 microns, and they act as reinforcement that increases stiffness and dimensional stability.
+PETG-CF is PETG (Polyethylene Terephthalate Glycol) with chopped carbon fiber added to the polymer. The carbon fibers are short — typically 100-300 microns — and they act as reinforcement that increases stiffness and dimensional stability.
 
 Most PETG-CF blends contain 10-20% carbon fiber by weight. Higher percentages exist but get harder to print and offer diminishing returns.
 
@@ -64,7 +64,7 @@ If you're printing a tool holder, a bracket, or a structural mount, PETG-CF is b
 - **Snap-fit enclosures** (PETG-CF cracks at thin walls under repeated flex)
 - **Living hinges** (the carbon fibers create stress concentration points)
 - **Living-strain components** (PETG-CF tolerates static load well but fails under repeated dynamic load)
-- **Parts that need to absorb impact** (drops, vibration cycling, TPU or regular PETG are better)
+- **Parts that need to absorb impact** (drops, vibration cycling — TPU or regular PETG are better)
 - **Cosmetic prints** where the matte finish doesn't fit the design
 
 For a refresher on choosing materials in general, see our [PLA vs PETG vs ABS comparison](/pla-vs-petg-vs-abs/).
@@ -136,16 +136,16 @@ For occasional PETG-CF prints (under 1 kg per year), don't worry about anything 
 Based on community reviews and personal testing:
 
 **Premium tier ($45-60/kg):**
-- **Polymaker PolyMax PETG-CF**, Most consistent quality, excellent dimensional accuracy
-- **Prusament PETG Carbon**, Top European brand, slightly stiffer than Polymaker
+- **Polymaker PolyMax PETG-CF** — Most consistent quality, excellent dimensional accuracy
+- **Prusament PETG Carbon** — Top European brand, slightly stiffer than Polymaker
 
 **Mid tier ($30-45/kg):**
-- **Bambu Lab PETG-CF**, Excellent integration with Bambu printers, RFID-tagged
-- **eSun ePA-CF** (technically Nylon-CF, often grouped), Different polymer but similar use case
+- **Bambu Lab PETG-CF** — Excellent integration with Bambu printers, RFID-tagged
+- **eSun ePA-CF** (technically Nylon-CF, often grouped) — Different polymer but similar use case
 
 **Budget tier ($25-35/kg):**
-- **Sunlu PETG-CF**, Acceptable for non-critical prints, more variable quality
-- **Various AliExpress**, Lottery; some are great, some are awful. Test before committing to a project.
+- **Sunlu PETG-CF** — Acceptable for non-critical prints, more variable quality
+- **Various AliExpress** — Lottery; some are great, some are awful. Test before committing to a project.
 
 ## Cost Analysis: When PETG-CF Is Worth It
 
@@ -175,7 +175,7 @@ A useful rule of thumb: if the part is going to be visible and load-bearing, PET
 
 ## Verdict
 
-PETG-CF is a real upgrade over regular PETG for specific structural applications. It's not magic, it costs more, requires hardware upgrades, and behaves differently. Most hobbyists don't actually need it for the prints they're doing.
+PETG-CF is a real upgrade over regular PETG for specific structural applications. It's not magic — it costs more, requires hardware upgrades, and behaves differently. Most hobbyists don't actually need it for the prints they're doing.
 
 But if you're making something that holds a load, needs to keep its shape, or has to look professional, PETG-CF earns the cost. Pair it with a hardened nozzle and a dry filament habit and it'll print as reliably as regular PETG, just with better mechanical properties.
 

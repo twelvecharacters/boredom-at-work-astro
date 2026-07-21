@@ -9,19 +9,19 @@ imageAlt: "A programmer using the Antigravity CLI in a futuristic terminal inter
 tags: ["AI", "Gemini", "Coding", "Productivity", "Software"]
 draft: false
 faq:
- - question: "What happened to Gemini CLI?"
- answer: "In August 2026, Google officially deprecated the standalone Gemini CLI and merged its capabilities into Antigravity CLI. Antigravity CLI is now the flagship terminal agent for interacting with Gemini models, offering deeper file system integration and more robust agentic capabilities."
- - question: "Is Antigravity CLI backward compatible?"
- answer: "Yes, mostly. Your old `.geminiignore` files are automatically respected, though it is recommended to rename them to `.antigravityignore`. Most of the basic commands operate similarly, but Antigravity CLI requires a newer Node.js runtime and an updated API key format."
- - question: "How does Antigravity CLI differ from VS Code integration?"
- answer: "Antigravity CLI is environment-agnostic. While VS Code has the Antigravity extension, the CLI allows you to run agentic workflows in any terminal, integrate AI into your CI/CD bash scripts, and interact with your server logs natively."
+  - question: "What happened to Gemini CLI?"
+    answer: "In August 2026, Google officially deprecated the standalone Gemini CLI and merged its capabilities into Antigravity CLI. Antigravity CLI is now the flagship terminal agent for interacting with Gemini models, offering deeper file system integration and more robust agentic capabilities."
+  - question: "Is Antigravity CLI backward compatible?"
+    answer: "Yes, mostly. Your old `.geminiignore` files are automatically respected, though it is recommended to rename them to `.antigravityignore`. Most of the basic commands operate similarly, but Antigravity CLI requires a newer Node.js runtime and an updated API key format."
+  - question: "How does Antigravity CLI differ from VS Code integration?"
+    answer: "Antigravity CLI is environment-agnostic. While VS Code has the Antigravity extension, the CLI allows you to run agentic workflows in any terminal, integrate AI into your CI/CD bash scripts, and interact with your server logs natively."
 ---
 
 For the last year, the [Gemini CLI](/gemini-cli-guide/) has been a staple in my daily workflow. Pumping server logs into the command line and having an AI instantly diagnose the failure felt like magic. However, as AI models transitioned from simple conversational chatbots into autonomous agents, the original architecture of the Gemini CLI began to show its age. It was great at answering questions, but it struggled to execute complex, multi-step actions across a massive codebase.
 
 Enter **Antigravity CLI**. 
 
-As of August 2026, Google has deprecated the Gemini CLI in favor of the much more robust Antigravity CLI. This isn't just a rebrand; it is a fundamental shift in how the AI interacts with your local environment. Rather than just reading your files, Antigravity acts as a true agent, it can read, plan, execute, run tests, and iterate without constant hand-holding.
+As of August 2026, Google has deprecated the Gemini CLI in favor of the much more robust Antigravity CLI. This isn't just a rebrand; it is a fundamental shift in how the AI interacts with your local environment. Rather than just reading your files, Antigravity acts as a true agent—it can read, plan, execute, run tests, and iterate without constant hand-holding.
 
 If you are transitioning from the old tool, or if you are completely new to terminal-based AI, this comprehensive guide will walk you through everything you need to know to master the Antigravity CLI.
 
@@ -31,7 +31,7 @@ The biggest difference you will notice with Antigravity CLI is its autonomy.
 
 With the old Gemini CLI, the workflow was strictly request-and-response. You asked a question, it gave you a snippet of code, and you manually pasted that code into your editor. 
 
-Antigravity CLI introduces **Agentic Mode**. When you give it a complex prompt, for example, *"Refactor the authentication middleware to use JWT instead of sessions, and update all the tests to match"*, it doesn't just print a wall of code. 
+Antigravity CLI introduces **Agentic Mode**. When you give it a complex prompt—for example, *"Refactor the authentication middleware to use JWT instead of sessions, and update all the tests to match"*—it doesn't just print a wall of code. 
 
 Instead, it:
 1. **Scans** your project to map out dependencies.

@@ -9,14 +9,14 @@ imageAlt: "ChatGPT interface drafting a professional email with a template struc
 tags: ["AI", "ChatGPT", "Writing", "Productivity"]
 draft: false
 faq:
- - question: "Is using ChatGPT for emails considered unprofessional?"
- answer: "Not at all in 2026. Most professional knowledge workers use AI to draft emails. The unprofessional move is sending AI-generated emails without editing them. Use ChatGPT for structure and first drafts, then add your voice, specific details, and context before sending."
- - question: "Will the recipient know I used ChatGPT?"
- answer: "Only if you don't edit. Default ChatGPT writing has tells: 'I hope this email finds you well', 'I wanted to reach out regarding', em dashes everywhere, three-paragraph structures with perfect grammar. Edit those out, add personality, and your email reads as human."
- - question: "Can I use ChatGPT for sensitive work emails?"
- answer: "Use a corporate ChatGPT account or ChatGPT Enterprise if your company has one. Standard ChatGPT may use your prompts for training. For HR matters, legal communications, or confidential business info, stick to your company's approved AI tools or write it yourself."
- - question: "What's the best ChatGPT model for email drafting?"
- answer: "GPT-5 (current default in 2026) is overkill for most emails. GPT-4o is faster and equally good for standard professional emails. For tricky negotiations or sensitive replies, GPT-5 with extended thinking can produce noticeably better drafts. Try both and see what fits your workflow."
+  - question: "Is using ChatGPT for emails considered unprofessional?"
+    answer: "Not at all in 2026. Most professional knowledge workers use AI to draft emails. The unprofessional move is sending AI-generated emails without editing them. Use ChatGPT for structure and first drafts, then add your voice, specific details, and context before sending."
+  - question: "Will the recipient know I used ChatGPT?"
+    answer: "Only if you don't edit. Default ChatGPT writing has tells: 'I hope this email finds you well', 'I wanted to reach out regarding', em dashes everywhere, three-paragraph structures with perfect grammar. Edit those out, add personality, and your email reads as human."
+  - question: "Can I use ChatGPT for sensitive work emails?"
+    answer: "Use a corporate ChatGPT account or ChatGPT Enterprise if your company has one. Standard ChatGPT may use your prompts for training. For HR matters, legal communications, or confidential business info, stick to your company's approved AI tools or write it yourself."
+  - question: "What's the best ChatGPT model for email drafting?"
+    answer: "GPT-5 (current default in 2026) is overkill for most emails. GPT-4o is faster and equally good for standard professional emails. For tricky negotiations or sensitive replies, GPT-5 with extended thinking can produce noticeably better drafts. Try both and see what fits your workflow."
 ---
 
 Email eats ~30% of the average knowledge worker's day. ChatGPT, used right, cuts that in half. Used wrong, it makes you sound like every other LinkedIn motivational post.
@@ -40,7 +40,7 @@ Each template below has a copy-paste prompt plus notes on what to edit.
 
 **Prompt:**
 
-> Write a cold outreach email from me to [recipient name, role, company]. My goal: [specific outcome, meeting, intro, response, etc.]. Context: [why I'm reaching out, saw their post, mutual contact, relevant problem]. Tone: warm but professional, not salesy. Length: under 100 words. End with a specific, low-commitment ask.
+> Write a cold outreach email from me to [recipient name, role, company]. My goal: [specific outcome — meeting, intro, response, etc.]. Context: [why I'm reaching out — saw their post, mutual contact, relevant problem]. Tone: warm but professional, not salesy. Length: under 100 words. End with a specific, low-commitment ask.
 
 **Why it works:** "Under 100 words" forces ChatGPT to cut filler. "Low-commitment ask" prevents the closing "would love 15 minutes of your time" that gets ignored.
 
@@ -136,11 +136,11 @@ Each template below has a copy-paste prompt plus notes on what to edit.
 
 **Prompt:**
 
-> Draft a reply to a networking message. They asked: [what they wanted]. My take: [your honest answer, yes, no, partial, redirect]. Tone: warm, helpful, not curt. If saying yes, propose specifics. If saying no, soften with an alternative or referral. Length: under 80 words.
+> Draft a reply to a networking message. They asked: [what they wanted]. My take: [your honest answer — yes, no, partial, redirect]. Tone: warm, helpful, not curt. If saying yes, propose specifics. If saying no, soften with an alternative or referral. Length: under 80 words.
 
 **Why it works:** The "alternative or referral" closer is the difference between rude no and helpful no. It costs nothing and builds reciprocity.
 
-**What to edit:** The opening. ChatGPT defaults to "Thanks for reaching out!", replace with something specific to their message.
+**What to edit:** The opening. ChatGPT defaults to "Thanks for reaching out!" — replace with something specific to their message.
 
 ## Building Your Own Email Custom GPT
 

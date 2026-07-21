@@ -11,12 +11,12 @@ tags: ["Tech & Gadgets", "Kindle", "Tutorial"]
 draft: false
 tldr: "KOReader is a free, open-source reader that adds proper EPUB and PDF support to a Kindle. It requires a jailbroken device, so the golden rule is: never update your firmware if you plan to install it. Once jailbroken, the install takes about ten minutes."
 faq:
- - question: "Do I need to jailbreak my Kindle to install KOReader?"
- answer: "Yes. KOReader is not in Amazon's store, so it requires a jailbroken Kindle. The current jailbreaks (Nosebleed and WinterBreak) work on specific firmware versions, so check your firmware before updating anything. If you've already updated to the latest patched firmware, you may be locked out until a new jailbreak is found."
- - question: "Is KOReader safe to install?"
- answer: "KOReader itself is mature, open-source, and widely used, and it runs as an add-on rather than replacing Kindle software. The real risk is in the jailbreak step. Done carefully with current instructions, the process is low-risk and reversible, but any modding carries a small chance of a soft brick that usually requires a factory reset to fix."
- - question: "Can KOReader brick my Kindle?"
- answer: "KOReader running normally will not brick your Kindle. Problems almost always come from a botched jailbreak or from updating firmware after modding. Follow current community instructions, never interrupt the install, and don't let your Kindle auto-update, and the risk is minimal."
+  - question: "Do I need to jailbreak my Kindle to install KOReader?"
+    answer: "Yes. KOReader is not in Amazon's store, so it requires a jailbroken Kindle. The current jailbreaks (Nosebleed and WinterBreak) work on specific firmware versions, so check your firmware before updating anything. If you've already updated to the latest patched firmware, you may be locked out until a new jailbreak is found."
+  - question: "Is KOReader safe to install?"
+    answer: "KOReader itself is mature, open-source, and widely used, and it runs as an add-on rather than replacing Kindle software. The real risk is in the jailbreak step. Done carefully with current instructions, the process is low-risk and reversible, but any modding carries a small chance of a soft brick that usually requires a factory reset to fix."
+  - question: "Can KOReader brick my Kindle?"
+    answer: "KOReader running normally will not brick your Kindle. Problems almost always come from a botched jailbreak or from updating firmware after modding. Follow current community instructions, never interrupt the install, and don't let your Kindle auto-update, and the risk is minimal."
 ---
 
 If you've ever wanted to read EPUB files natively, fix awkward formatting and margins, or open a massive PDF or comic book on your Kindle without fighting Amazon's proprietary software, **KOReader** is the ultimate answer. It is a free, deeply customizable, open-source document reader that turns a locked-down, ecosystem-restricted Kindle into one of the most flexible and powerful e-readers you can own.
@@ -51,7 +51,7 @@ E-ink screens are notoriously terrible for reading PDFs. The text is usually too
 Amazon gives you a handful of fonts, three margin sizes, and three line spacing options. KOReader gives you absolute control. You can adjust margins by the pixel, change line spacing by tiny percentages, force custom hyphenation rules, alter text contrast, and sideload hundreds of custom fonts. If you are meticulous about how your pages look, KOReader is a revelation.
 
 ### Cloud Syncing, OPDS, and SSH
-KOReader treats your Kindle like a real computer. You can connect it to OPDS catalogs (like Calibre's content server) to browse and download books wirelessly over your local Wi-Fi. It has an SSH server built-in, meaning you can drop books onto your Kindle wirelessly using an FTP client without ever plugging in a cable. It even supports progress syncing across different devices, so if you run KOReader on an Android tablet and your Kindle, your reading position syncs perfectly.
+KOReader treats your Kindle like a real computer. You can connect it to OPDS catalogs (like Calibre's content server) to browse and download books wirelessly over your local Wi-Fi. It has an SSH server built-in, meaning you can drop books onto your Kindle wirelessly using an FTP client without ever plugging in a cable. It even supports progress syncing across different devices—so if you run KOReader on an Android tablet and your Kindle, your reading position syncs perfectly.
 
 ## Before You Start: Critical Prerequisites
 
@@ -138,7 +138,7 @@ For the right person, absolutely. KOReader fundamentally transforms what a piece
 
 If you are a casual novel reader who exclusively buys bestsellers directly from the Amazon Kindle Store and you are perfectly happy with the default reading experience, you probably do not need to bother. The stock software, paired with a few smart [Kindle tips and tricks](/kindle-tips-and-tricks/), will serve you just fine.
 
-The honest summary of the risk profile is this: KOReader itself is incredibly stable and well-supported by brilliant developers. The only real danger lies in the initial jailbreak step. The single biggest mistake people make is impatience, they don't read the firmware requirements, or they accidentally let their Kindle update itself overnight. Avoid that mistake, meticulously follow current instructions, and the modding process is a low-risk gateway to a vastly superior reading experience.
+The honest summary of the risk profile is this: KOReader itself is incredibly stable and well-supported by brilliant developers. The only real danger lies in the initial jailbreak step. The single biggest mistake people make is impatience—they don't read the firmware requirements, or they accidentally let their Kindle update itself overnight. Avoid that mistake, meticulously follow current instructions, and the modding process is a low-risk gateway to a vastly superior reading experience.
 
 ## Related Guides
 
