@@ -54,22 +54,7 @@ const socialImageURL = new URL(socialImagePath, Astro.site);
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <ClientRouter fallback="swap" />
-    <script>
-      // Workaround for iOS Safari View Transitions history bug:
-      // Force all internal links to explicitly push to the history stack.
-      function forceHistoryPush() {
-        document.querySelectorAll('a[href^="/"], a[href^="' + window.location.origin + '"]').forEach(link => {
-          if (!link.hasAttribute('data-astro-history') && !link.hasAttribute('target')) {
-            link.setAttribute('data-astro-history', 'push');
-          }
-        });
-      }
-      
-      // Run on initial load and after every Astro page swap
-      window.addEventListener('DOMContentLoaded', forceHistoryPush);
-      document.addEventListener('astro:page-load', forceHistoryPush);
-    </script>
+    <!-- Native MPA Navigation (No ClientRouter) for flawless iOS Safari history -->
     <Analytics />
 
     <!-- Preload self-hosted fonts for fastest rendering -->
@@ -220,9 +205,8 @@ const socialImageURL = new URL(socialImagePath, Astro.site);
         setupScrollReveal();
       }
 
-      // Run on load and after swaps if using View Transitions
+      // Run on load
       window.addEventListener('load', init);
-      document.addEventListener('astro:page-load', init);
     </script>
     <ScrollToTop />
   </body>
