@@ -55,13 +55,20 @@ const socialImageURL = new URL(socialImagePath, Astro.site);
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <ClientRouter fallback="swap" />
-    <script is:inline>
-      // Fix for iOS Safari back button / bfcache issues with View Transitions
-      window.addEventListener('pageshow', (event) => {
-        if (event.persisted) {
-          window.location.reload();
-        }
-      });
+    <script>
+      // Workaround for iOS Safari View Transitions history bug:
+      // Force all internal links to explicitly push to the history stack.
+      function forceHistoryPush() {
+        document.querySelectorAll('a[href^="/"], a[href^="' + window.location.origin + '"]').forEach(link => {
+          if (!link.hasAttribute('data-astro-history') && !link.hasAttribute('target')) {
+            link.setAttribute('data-astro-history', 'push');
+          }
+        });
+      }
+      
+      // Run on initial load and after every Astro page swap
+      window.addEventListener('DOMContentLoaded', forceHistoryPush);
+      document.addEventListener('astro:page-load', forceHistoryPush);
     </script>
     <Analytics />
 
