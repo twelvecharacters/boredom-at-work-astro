@@ -258,6 +258,22 @@ function checkOutdatedPatterns(content, filePath) {
   return issues;
 }
 
+function checkEmDashes(content, filePath) {
+  const issues = [];
+  const EM_DASH = /—/g;
+  let match;
+  while ((match = EM_DASH.exec(content)) !== null) {
+    const lineNum = lineNumberAt(content, match.index);
+    issues.push({
+      filePath,
+      lineNum,
+      severity: 'error',
+      message: 'Em-dash (—) is banned house style. Use a comma, colon, or parentheses (auto-fixable with --fix).',
+    });
+  }
+  return issues;
+}
+
 function checkListicleConsistency(content, filePath) {
   const issues = [];
   const { frontmatter, body, frontmatterEndLine } = splitFrontmatterAndBody(content);
@@ -534,6 +550,7 @@ function lintFile(filePath) {
   const content = readFileSync(filePath, 'utf-8');
   const issues = [
     ...checkOutdatedPatterns(content, filePath),
+    ...checkEmDashes(content, filePath),
     ...checkListicleConsistency(content, filePath),
     ...checkPriceConsistency(content, filePath),
     ...checkMetaDescriptionLength(content, filePath),
@@ -559,6 +576,16 @@ function applyFixes(filePath) {
       fixCount += matches ? matches.length : 0;
       content = content.replace(pattern, fix);
     }
+  }
+
+  // Em-dashes are banned house style. Replace with a comma (the sanctioned
+  // default per CLAUDE.md), collapsing any runs left by adjacent em-dashes.
+  const emCount = (content.match(/—/g) || []).length;
+  if (emCount > 0) {
+    fixCount += emCount;
+    content = content
+      .replace(/\s*—\s*/g, ', ')
+      .replace(/,(?:\s*,)+/g, ',');
   }
 
   return fixCount > 0 ? { content, fixCount } : null;
