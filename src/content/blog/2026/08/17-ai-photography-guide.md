@@ -10,7 +10,7 @@ tags: ["Photography", "AI", "Tutorial"]
 draft: false
 faq:
   - question: "Is using AI in photography considered 'cheating'?"
-    answer: "No, AI is a tool, much like autofocus or digital sensors were once considered 'cheating' by film purists. AI handles the repetitive, technical tasks (denoising, masking, culling) so you can focus on composition and storytelling. However, using generative AI to add entire elements that weren't there is a different category—digital art vs. photography."
+    answer: "No, AI is a tool, much like autofocus or digital sensors were once considered 'cheating' by film purists. AI handles the repetitive, technical tasks (denoising, masking, culling) so you can focus on composition and storytelling. However, using generative AI to add entire elements that weren't there is a different category, digital art vs. photography."
   - question: "What are the best AI tools for photo editing in 2026?"
     answer: "Adobe Lightroom and Photoshop remain the industry standards with their Generative Remove and AI masking features. For specific tasks, Topaz Photo AI is unbeatable for sharpening and denoising, while Narrative Select or Aftershoot are excellent for AI-powered culling of large shoots."
   - question: "How does AI improve camera performance?"
@@ -18,7 +18,7 @@ faq:
   - question: "Can AI fix a blurry or out-of-focus photo?"
     answer: "To an extent, yes. Tools like Topaz Sharpen AI can reconstruct detail in slightly blurry images using generative models. However, they can't save a completely missed focus. It's always better to get it right in-camera."
   - question: "Does AI photography look 'fake'?"
-    answer: "It can, but only if overused. The best AI applications are invisible—cleaner shadows, sharper eyes, and faster editing. When used subtly, AI enhances the natural look of a photo by removing technical imperfections that the sensor might have introduced."
+    answer: "It can, but only if overused. The best AI applications are invisible, cleaner shadows, sharper eyes, and faster editing. When used subtly, AI enhances the natural look of a photo by removing technical imperfections that the sensor might have introduced."
 tldr: "AI isn't replacing photographers; it's removing the friction from the process. Use AI for faster culling, precise masking in editing, and superior denoising. Keep the creative decisions human, but let AI handle the heavy lifting of technical perfection."
 isListicle: false
 ---
@@ -75,7 +75,7 @@ Before 2022, if you wanted to darken the sky or brighten a person, you had to us
 - **Select Subject:** One click to perfectly mask your subject, even with wispy hair.
 - **Select Sky:** Instantly adjust exposure, temperature, or color of the sky without affecting the landscape.
 - **Select Background:** Inverse the subject for easy depth-of-field adjustments or to "pop" the subject.
-- **Select People (and Parts):** AI can now identify individual people in a group and even specific parts of them—skin, teeth, eyes, and hair. You can whiten a group's teeth in 5 seconds.
+- **Select People (and Parts):** AI can now identify individual people in a group and even specific parts of them, skin, teeth, eyes, and hair. You can whiten a group's teeth in 5 seconds.
 
 ### 2. Generative Fill and Remove (Photoshop)
 Adobe's Firefly AI integration has changed the game for retouching.
@@ -103,7 +103,7 @@ Sometimes, you get the shot, but the technical quality is poor. Topaz Labs has b
 
 ## Part 3: AI for Culling and Organization
 
-The most "boring" part of photography is the "culling" process—looking at 2,000 photos from a wedding and picking the best 100. AI is a life-saver here.
+The most "boring" part of photography is the "culling" process, looking at 2,000 photos from a wedding and picking the best 100. AI is a life-saver here.
 
 ### AI Culling Assistants
 Tools like **Aftershoot** and **Narrative Select** use AI to scan your entire shoot in minutes. They can:
@@ -128,7 +128,7 @@ To see how this all fits together, let's look at a typical workflow for a landsc
 1. **6:00 AM (The Shoot):** Use a mirrorless camera with **AI subject tracking** to lock onto a deer in the mist. The camera's **AI Metering** ensures the highlights of the sunrise aren't blown out.
 2. **10:00 AM (Ingest):** Plug the SD card into a laptop. **Aftershoot** automatically culls the 500 shots down to the best 50, flagging any with motion blur.
 3. **11:00 AM (Editing):** Open the best shot in **Lightroom**. Click "Select Sky" and add a bit of drama. Click "Select Subject" and brighten the deer. Use **Denoise AI** to clean up the grain from the low-light morning.
-4. **11:15 AM (Retouching):** One distraction—a bright orange hiker's tent in the corner. Use **Generative Remove** to delete it and replace it with natural grass.
+4. **11:15 AM (Retouching):** One distraction, a bright orange hiker's tent in the corner. Use **Generative Remove** to delete it and replace it with natural grass.
 5. **11:30 AM (Export):** The photo is perfect but only 24MP. Use **Gigapixel AI** to upscale it to 100MP for a large gallery print.
 
 **Total time spent:** Under 45 minutes for a professional-grade result. Without AI, this would have been a 3-4 hour process.
@@ -170,7 +170,7 @@ If you're feeling overwhelmed, don't try to learn everything at once. Follow thi
 
 1. **Master Lightroom Masking:** It's the most powerful non-destructive tool you have. Learn to use "Select Subject" and "Select Sky" first.
 2. **Download a Topaz Trial:** Take a "failed" photo (blurry or noisy) and see if the AI can save it.
-3. **Experiment with Gen Fill:** Use it for small things first—removing a stray hair or a distracting sign.
+3. **Experiment with Gen Fill:** Use it for small things first, removing a stray hair or a distracting sign.
 4. **Trust your camera:** Turn on "Subject Detection" and see how it changes your shooting style. You can focus more on the moment and less on moving a focus point with your thumb.
 
 **Your next steps:**

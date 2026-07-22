@@ -63,7 +63,7 @@ The headline upgrades from P1S to X2D are real, but their importance depends on 
 
 ### 1. Dual-Nozzle Printing (Big Deal If You Use It)
 
-The P1S has one nozzle. To switch colors or materials, the AMS purges the old filament — wasting 30-100g per swap on complex prints.
+The P1S has one nozzle. To switch colors or materials, the AMS purges the old filament, wasting 30-100g per swap on complex prints.
 
 The X2D has two physical nozzles with mechanical switching (a PMSM servo motor swaps them). Zero purge required. Print PLA + PVA supports, or rigid + flexible in one job.
 
@@ -111,7 +111,7 @@ This matters more than people realize for ABS, ASA, and resin-adjacent materials
 
 ### 6. Faster Theoretical Print Speed
 
-X2D goes up to 1000 mm/s, P1S up to 500 mm/s. In practice, you won't print at these speeds — quality degrades sharply. Most users settle around 200-300 mm/s on both printers for normal prints.
+X2D goes up to 1000 mm/s, P1S up to 500 mm/s. In practice, you won't print at these speeds, quality degrades sharply. Most users settle around 200-300 mm/s on both printers for normal prints.
 
 The X2D's higher ceiling matters more for repetitive simple parts (drafts, jigs, brackets) where speed wins over surface quality.
 
@@ -136,7 +136,7 @@ You'll hit the limits of single-nozzle PLA/PETG before you hit the limits of the
 
 ### "I Print PLA Art and Functional Prints" → P1S
 
-Cosplayers, miniature painters, prop makers, and hobby print farms running PLA don't benefit from the X2D's upgrades. Stick with P1S, save the $100, and put it toward better filament or a Wham Bam flex plate. If your main constraint is print size rather than materials — helmets, big props, large functional parts — the large-format [Bambu Lab A2L](/bambu-lab-a2l-review/) gives you a 330mm bed for less than the P1S.
+Cosplayers, miniature painters, prop makers, and hobby print farms running PLA don't benefit from the X2D's upgrades. Stick with P1S, save the $100, and put it toward better filament or a Wham Bam flex plate. If your main constraint is print size rather than materials, helmets, big props, large functional parts, the large-format [Bambu Lab A2L](/bambu-lab-a2l-review/) gives you a 330mm bed for less than the P1S.
 
 ### "I Print Engineering Parts" → X2D
 
@@ -144,7 +144,7 @@ If you print ABS for car interior parts, ASA for outdoor brackets, PC for tools,
 
 ### "I Want Multi-Material" → X2D
 
-Dissolvable supports (PLA + PVA), rigid + flexible combos, color-heavy prints — these all benefit from the X2D's dual-nozzle approach. The P1S can do some of this with AMS, but with purge waste and color-mixing limitations.
+Dissolvable supports (PLA + PVA), rigid + flexible combos, color-heavy prints, these all benefit from the X2D's dual-nozzle approach. The P1S can do some of this with AMS, but with purge waste and color-mixing limitations.
 
 ### "I'm Upgrading from X1C" → Probably Skip Both
 

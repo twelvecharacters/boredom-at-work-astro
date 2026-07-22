@@ -51,7 +51,7 @@ E-ink screens are notoriously terrible for reading PDFs. The text is usually too
 Amazon gives you a handful of fonts, three margin sizes, and three line spacing options. KOReader gives you absolute control. You can adjust margins by the pixel, change line spacing by tiny percentages, force custom hyphenation rules, alter text contrast, and sideload hundreds of custom fonts. If you are meticulous about how your pages look, KOReader is a revelation.
 
 ### Cloud Syncing, OPDS, and SSH
-KOReader treats your Kindle like a real computer. You can connect it to OPDS catalogs (like Calibre's content server) to browse and download books wirelessly over your local Wi-Fi. It has an SSH server built-in, meaning you can drop books onto your Kindle wirelessly using an FTP client without ever plugging in a cable. It even supports progress syncing across different devices—so if you run KOReader on an Android tablet and your Kindle, your reading position syncs perfectly.
+KOReader treats your Kindle like a real computer. You can connect it to OPDS catalogs (like Calibre's content server) to browse and download books wirelessly over your local Wi-Fi. It has an SSH server built-in, meaning you can drop books onto your Kindle wirelessly using an FTP client without ever plugging in a cable. It even supports progress syncing across different devices, so if you run KOReader on an Android tablet and your Kindle, your reading position syncs perfectly.
 
 ## Before You Start: Critical Prerequisites
 
@@ -138,7 +138,7 @@ For the right person, absolutely. KOReader fundamentally transforms what a piece
 
 If you are a casual novel reader who exclusively buys bestsellers directly from the Amazon Kindle Store and you are perfectly happy with the default reading experience, you probably do not need to bother. The stock software, paired with a few smart [Kindle tips and tricks](/kindle-tips-and-tricks/), will serve you just fine.
 
-The honest summary of the risk profile is this: KOReader itself is incredibly stable and well-supported by brilliant developers. The only real danger lies in the initial jailbreak step. The single biggest mistake people make is impatience—they don't read the firmware requirements, or they accidentally let their Kindle update itself overnight. Avoid that mistake, meticulously follow current instructions, and the modding process is a low-risk gateway to a vastly superior reading experience.
+The honest summary of the risk profile is this: KOReader itself is incredibly stable and well-supported by brilliant developers. The only real danger lies in the initial jailbreak step. The single biggest mistake people make is impatience, they don't read the firmware requirements, or they accidentally let their Kindle update itself overnight. Avoid that mistake, meticulously follow current instructions, and the modding process is a low-risk gateway to a vastly superior reading experience.
 
 ## Related Guides
 

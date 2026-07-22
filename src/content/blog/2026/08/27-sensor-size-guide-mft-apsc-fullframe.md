@@ -23,7 +23,7 @@ faq:
     answer: "It depends on the style. MFT is popular for vlogging and cinema due to fast sensor readout (less rolling shutter) and deep depth of field. Full Frame is preferred for high-end cinematic looks and low-light event coverage."
 ---
 
-In the world of modern photography, the most debated topic isn't megapixels or brand loyalty—it's sensor size. Whether you are a professional covering high-stakes events or a hobbyist looking to maximize your "stealth learning" time during a lunch break, the physical size of your camera's sensor will dictate almost every aspect of your creative output.
+In the world of modern photography, the most debated topic isn't megapixels or brand loyalty, it's sensor size. Whether you are a professional covering high-stakes events or a hobbyist looking to maximize your "stealth learning" time during a lunch break, the physical size of your camera's sensor will dictate almost every aspect of your creative output.
 
 Understanding the difference between **Full Frame**, **APS-C**, and **Micro Four Thirds (MFT)** is essential because it influences the "look" of your images, the weight of your bag, and the depth of your bank account. In this comprehensive guide, we will break down the technical realities of each format and help you decide which one aligns with your specific workflow.
 
@@ -80,7 +80,7 @@ Developed by Olympus (now OM System) and Panasonic, MFT is a truly open standard
 ### The Strengths
 *   **Size and Weight:** This is where MFT wins. You can carry a camera and three professional-grade lenses in a small waist pack. For long-distance hikers, travel vloggers, and street photographers, this portability is life-changing.
 *   **Deep Depth of Field:** While this sounds like a negative, it’s a massive plus for landscape and macro photography. You can get more of your subject in focus at wider apertures, which allows you to keep your ISO lower.
-*   **Computational Features:** Because the sensor is small and light, MFT manufacturers have pioneered incredible tech like 100-megapixel high-res shot modes, Live ND filters, and the world’s best In-Body Image Stabilization (IBIS). You can often hand-hold a 2-second exposure on an MFT camera—something impossible on Full Frame.
+*   **Computational Features:** Because the sensor is small and light, MFT manufacturers have pioneered incredible tech like 100-megapixel high-res shot modes, Live ND filters, and the world’s best In-Body Image Stabilization (IBIS). You can often hand-hold a 2-second exposure on an MFT camera, something impossible on Full Frame.
 
 ### The Trade-offs
 *   **Low Light Limitations:** This is the primary weakness. MFT sensors struggle in dark environments. If you primarily shoot night scenes or dimly lit receptions, MFT will be a struggle.
@@ -129,6 +129,6 @@ The "Full Frame is better" argument is a technical truth that often leads to a p
 2.  Choose **APS-C** if you want a balanced, high-performance system that fits in a small messenger bag.
 3.  Choose **Micro Four Thirds** if you value portability, stabilization, and vlogging features above all else.
 
-Photography is about the moment, the light, and the composition. Your sensor size is simply the tool you use to capture that vision. Pick the one that fits your hand, fits your bag, and—most importantly—gets you excited to go out and shoot.
+Photography is about the moment, the light, and the composition. Your sensor size is simply the tool you use to capture that vision. Pick the one that fits your hand, fits your bag, and, most importantly, gets you excited to go out and shoot.
 
 

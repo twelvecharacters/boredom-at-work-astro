@@ -21,7 +21,7 @@ faq:
 
 The landscape of personal computing has undergone a radical transformation. For years, digital assistants were limited to executing simple commands: setting timers, checking the weather, or playing music. They were functional, but rarely intelligent in the true sense of the word. That era has officially come to an end with the unveiling of Apple Intelligence and the completely rebuilt Siri AI at WWDC 2026.
 
-As we stand in June 2026, the integration of generative AI into our operating systems is no longer a futuristic concept—it is a daily reality. [Apple's approach](https://www.apple.com/apple-intelligence/), characterized by a focus on deep personal context, on-screen awareness, and robust privacy, sets a new benchmark for how we interact with our devices. It works perfectly in tandem with the latest updates coming in the [iOS 27 and macOS 27 betas](/ios-27-macos-27-beta-guide/).
+As we stand in June 2026, the integration of generative AI into our operating systems is no longer a futuristic concept, it is a daily reality. [Apple's approach](https://www.apple.com/apple-intelligence/), characterized by a focus on deep personal context, on-screen awareness, and robust privacy, sets a new benchmark for how we interact with our devices. It works perfectly in tandem with the latest updates coming in the [iOS 27 and macOS 27 betas](/ios-27-macos-27-beta-guide/).
 
 ## The Rebirth of Siri
 
@@ -40,7 +40,7 @@ This contextual understanding extends across the entire system. Because Siri und
 While Siri is the interface, Apple Intelligence is the intelligence engine that powers the ecosystem. This isn't just one model; it is a suite of models that function on-device and, when necessary, via Private Cloud Compute.
 
 ### Deep App Integration & Actions
-Apple Intelligence enables "agentic" behavior. You can ask, "Find that document John sent me about the project budget, summarize it, and email it to my manager." The AI can parse the message, find the correct file, summarize the key points, and draft the email—all while keeping you in the loop for final approval.
+Apple Intelligence enables "agentic" behavior. You can ask, "Find that document John sent me about the project budget, summarize it, and email it to my manager." The AI can parse the message, find the correct file, summarize the key points, and draft the email, all while keeping you in the loop for final approval.
 
 This shift from "assistant" to "agent" is where the real productivity gains occur. By granting these agents access to your data, Apple has created a system that feels genuinely helpful rather than just reactive.
 

@@ -91,6 +91,12 @@ const OUTDATED_PATTERNS = [
     severity: 'warning',
     // No auto-fix — needs context
   },
+  {
+    pattern: / — | —|— |—/g,
+    fix: ', ',
+    message: 'Em-dashes (—) are prohibited — use commas or parentheses instead',
+    severity: 'error',
+  },
 ];
 
 // ─── Helpers ────────────────────────────────────────────────────────────────

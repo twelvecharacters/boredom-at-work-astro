@@ -113,7 +113,7 @@ If you can't find a GPT that fits your workflow, build one. It takes 15-30 minut
 The steps:
 
 1. Open ChatGPT, click your profile, "My GPTs", "Create"
-2. Use the **Configure** tab (not Create — Configure gives you direct control)
+2. Use the **Configure** tab (not Create, Configure gives you direct control)
 3. Set the **Instructions** (system prompt) for the role and behavior
 4. Upload **Knowledge files** (PDFs, docs) the GPT should reference
 5. Enable **Capabilities** (web browsing, code interpreter, DALL-E)
@@ -127,13 +127,13 @@ For more on getting better outputs from ChatGPT regardless of which GPT you use,
 
 Beyond the top 12, a few specialized Custom GPTs solve very specific problems well:
 
-- **Logo Creator** — Quick brand mark generation for side projects and personal logos. Better than asking DALL-E directly because the GPT is preloaded with logo design principles.
-- **Resume Reviewer** — Critiques your resume against a job description. Far more useful than the generic "make my resume better" prompt.
-- **SQL Helper** — Translates English to SQL queries. Works across PostgreSQL, MySQL, SQL Server dialects. Saves 10-15 minutes per query for non-DBA users.
-- **Math Solver** — Step-by-step solutions for algebra through calculus. Particularly useful for parents helping kids with homework.
-- **Hot Mods** — Recipe generator with substitution intelligence. "I have chicken, broccoli, and rice" turns into 5 specific recipes.
-- **Tutor Me** — Subject-specific tutoring (history, languages, biology). Adapts difficulty to your responses.
-- **Negotiation Coach** — Drills negotiation scenarios. Useful for salary talks, freelance rates, and any situation where you'll regret bad framing.
+- **Logo Creator**, Quick brand mark generation for side projects and personal logos. Better than asking DALL-E directly because the GPT is preloaded with logo design principles.
+- **Resume Reviewer**, Critiques your resume against a job description. Far more useful than the generic "make my resume better" prompt.
+- **SQL Helper**, Translates English to SQL queries. Works across PostgreSQL, MySQL, SQL Server dialects. Saves 10-15 minutes per query for non-DBA users.
+- **Math Solver**, Step-by-step solutions for algebra through calculus. Particularly useful for parents helping kids with homework.
+- **Hot Mods**, Recipe generator with substitution intelligence. "I have chicken, broccoli, and rice" turns into 5 specific recipes.
+- **Tutor Me**, Subject-specific tutoring (history, languages, biology). Adapts difficulty to your responses.
+- **Negotiation Coach**, Drills negotiation scenarios. Useful for salary talks, freelance rates, and any situation where you'll regret bad framing.
 
 The pattern across niche GPTs: pick one when you'd otherwise have to write a 5-sentence setup prompt every time. The GPT bakes the setup in.
 
@@ -141,7 +141,7 @@ The pattern across niche GPTs: pick one when you'd otherwise have to write a 5-s
 
 Custom GPTs are great for repeated, specific tasks. But for some workflows, other tools win:
 
-- **Multi-step automation:** Use Zapier, Make.com, or n8n — Custom GPTs can't reliably trigger workflows across apps
+- **Multi-step automation:** Use Zapier, Make.com, or n8n, Custom GPTs can't reliably trigger workflows across apps
 - **Heavy coding:** Use Claude Code or GitHub Copilot in your IDE
 - **Long-context research:** Use Claude (200K-1M token context)
 - **Real-time anything:** Use Perplexity or SearchGPT instead of a wrapped GPT
@@ -155,7 +155,7 @@ Two years after launch, the GPT Store has matured but still has problems:
 
 **The good:** Discovery is better than 2024. Verified creators get badges. The revenue-sharing program has paid out enough that quality creators stay engaged. Categories are cleaner.
 
-**The bad:** Most GPTs are still cash-grab clones with thin instructions. Search is mediocre — finding a good GPT for a specific task often takes more time than just writing the prompt directly. The store still favors GPTs with flashy names over functionally better alternatives.
+**The bad:** Most GPTs are still cash-grab clones with thin instructions. Search is mediocre, finding a good GPT for a specific task often takes more time than just writing the prompt directly. The store still favors GPTs with flashy names over functionally better alternatives.
 
 **The neutral:** OpenAI has gradually added native features (browsing, image generation, code interpreter) that used to require Plugins/GPTs. The bar for a GPT to be "worth using over base ChatGPT" rises every quarter.
 

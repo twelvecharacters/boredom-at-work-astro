@@ -8,7 +8,7 @@ image: "./11-computational-photography-vs-real-camera.png"
 imageAlt: "A sleek, modern smartphone lying flat on a wooden table with a massive, heavy professional DSLR camera lens absurdly attached to it."
 tags: ["Photography", "Smartphones", "Tech & Gadgets", "AI", "Review"]
 draft: false
-tldr: "While a traditional camera relies entirely on massive optical glass and a physical shutter to capture light, a modern smartphone relies on 'computational photography'—taking dozens of photos in a fraction of a second and merging them using AI. While the iPhone, Pixel, and Galaxy have effectively killed the point-and-shoot market, the true DSLR/Mirrorless camera still holds absolute dominance in edge cases: high-speed action, extreme low light, and genuine optical bokeh."
+tldr: "While a traditional camera relies entirely on massive optical glass and a physical shutter to capture light, a modern smartphone relies on 'computational photography', taking dozens of photos in a fraction of a second and merging them using AI. While the iPhone, Pixel, and Galaxy have effectively killed the point-and-shoot market, the true DSLR/Mirrorless camera still holds absolute dominance in edge cases: high-speed action, extreme low light, and genuine optical bokeh."
 faq:
   - question: "What exactly is computational photography?"
     answer: "Computational photography refers to the digital image capture and processing techniques that use digital computation instead of purely optical processes. It involves the phone's processor capturing multiple frames instantly, aligning them, merging them to reduce noise, and using AI to enhance colors, sharpness, and dynamic range."
@@ -20,7 +20,7 @@ faq:
 
 ## The Physics of Light vs. The Power of Silicon
 
-For over a century, photography was governed by strict, unbreakable laws of physics. To capture more light, you needed a physically larger lens aperture. To freeze fast motion without noise, you needed a massive sensor capable of absorbing photons instantly. To achieve a shallow depth of field—that creamy, beautiful blur behind a subject known as 'bokeh'—you needed heavy, expensive, meticulously ground glass.
+For over a century, photography was governed by strict, unbreakable laws of physics. To capture more light, you needed a physically larger lens aperture. To freeze fast motion without noise, you needed a massive sensor capable of absorbing photons instantly. To achieve a shallow depth of field, that creamy, beautiful blur behind a subject known as 'bokeh', you needed heavy, expensive, meticulously ground glass.
 
 This paradigm birthed the modern DSLR (Digital Single-Lens Reflex) and its successor, the Mirrorless camera. These machines are magnificent feats of optical engineering. They are also incredibly heavy, notoriously expensive, and require a steep learning curve to operate manually.
 
@@ -32,7 +32,7 @@ And for the first decade of the smartphone, they were.
 
 But then, Silicon Valley stopped trying to solve an optical problem with glass, and started solving it with math. Thus began the era of **Computational Photography**. Today, a flagship smartphone does not just take a picture; it calculates it. 
 
-This comprehensive deep-dive will tear down the invisible battle between silicon and glass. We will compare the heavy hitters of the smartphone world—the Apple iPhone, the Google Pixel, and the Samsung Galaxy—against the traditional optical camera, evaluating exactly where math wins, and where physics remains undefeated.
+This comprehensive deep-dive will tear down the invisible battle between silicon and glass. We will compare the heavy hitters of the smartphone world, the Apple iPhone, the Google Pixel, and the Samsung Galaxy, against the traditional optical camera, evaluating exactly where math wins, and where physics remains undefeated.
 
 ## The Magic Trick: How Computational Photography Actually Works
 
@@ -54,7 +54,7 @@ All of this complex computation happens in a fraction of a second. The resulting
 
 ## The Smartphone Heavyweights: Pixel vs. iPhone vs. Galaxy
 
-While the fundamental concept of computational photography is shared across all major manufacturers, their specific algorithms—their "color science" and AI priorities—differ wildly.
+While the fundamental concept of computational photography is shared across all major manufacturers, their specific algorithms, their "color science" and AI priorities, differ wildly.
 
 ### Google Pixel: The Computational Pioneer
 
@@ -97,7 +97,7 @@ A real camera with an f/1.4 lens creates bokeh through pure optical physics. The
 
 Imagine you are photographing an indoor basketball game, or a bird in flight at dawn. You need a shutter speed of 1/1000th of a second to freeze the fast-moving subject without motion blur.
 
-Because the smartphone sensor is incredibly tiny, a shutter speed of 1/1000th of a second lets in almost zero light. The image will be pitch black. To compensate, the smartphone will dramatically boost the ISO (digital gain), resulting in a horrific, unusable mess of digital noise. The multi-frame HDR trick fails here, because if the subject is moving rapidly, the phone cannot align the 15 frames—the bird is in a different position in every single frame, resulting in ghosting.
+Because the smartphone sensor is incredibly tiny, a shutter speed of 1/1000th of a second lets in almost zero light. The image will be pitch black. To compensate, the smartphone will dramatically boost the ISO (digital gain), resulting in a horrific, unusable mess of digital noise. The multi-frame HDR trick fails here, because if the subject is moving rapidly, the phone cannot align the 15 frames, the bird is in a different position in every single frame, resulting in ghosting.
 
 A professional camera with a full-frame sensor is physically massive. It can absorb hundreds of times more photons in that same 1/1000th of a second. It freezes the action while maintaining a perfectly clean, bright, noise-free image. For sports and wildlife, the smartphone is entirely useless.
 

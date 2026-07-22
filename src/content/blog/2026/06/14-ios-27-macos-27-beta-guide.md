@@ -27,7 +27,7 @@ If you are eager to experience these features before the public release in Septe
 
 Before you proceed, understand that developer betas are fundamentally different from the public betas released later in the summer. They are intended for developers to test their apps against new APIs. 
 
-**Rule Number One:** Do not—under any circumstances—install these betas on your primary "daily driver" device. They can, and often do, cause severe issues, including:
+**Rule Number One:** Do not, under any circumstances, install these betas on your primary "daily driver" device. They can, and often do, cause severe issues, including:
 *   **Battery Drain:** Significant degradation in battery life is common in early builds.
 *   **App Incompatibility:** Many of your daily apps may crash or fail to function entirely.
 *   **Data Loss:** While rare, major OS updates carry a risk of data corruption. Always perform a full backup before starting.
@@ -71,7 +71,7 @@ Click **Upgrade Now** to begin the download and installation process.
 
 ## What to Expect: The 2026 Developer Preview
 
-The 2026 updates are often compared by the community to the "Snow Leopard" era—a period focused on foundational performance refinement and stability, rather than just flashy new features.
+The 2026 updates are often compared by the community to the "Snow Leopard" era, a period focused on foundational performance refinement and stability, rather than just flashy new features.
 
 ### Apple Intelligence and the New Siri
 The headline feature is Apple Intelligence. The new Siri AI has been rebuilt from the ground up, featuring a dedicated app, deep on-screen awareness, and complex agentic capabilities. 

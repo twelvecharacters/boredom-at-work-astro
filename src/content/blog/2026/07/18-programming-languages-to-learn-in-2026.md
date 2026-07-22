@@ -54,7 +54,7 @@ Beyond AI, Python remains a powerhouse for data analysis (thanks to Pandas and N
 
 ### The Learning Experience
 
-Python is widely considered the best programming language for beginners. Its syntax is remarkably clean and intuitive, often reading like plain English. This allows new programmers to focus on learning programming concepts—like loops, conditionals, and data structures—without wrestling with complicated syntax, semicolons, or memory management.
+Python is widely considered the best programming language for beginners. Its syntax is remarkably clean and intuitive, often reading like plain English. This allows new programmers to focus on learning programming concepts, like loops, conditionals, and data structures, without wrestling with complicated syntax, semicolons, or memory management.
 
 However, Python is notoriously slow compared to compiled languages like C++ or Rust. While this historically limited its use in high-performance computing, the modern approach is to write the performance-critical parts of a system in a lower-level language (like C, C++, or Rust) and use Python as a highly expressive "glue" language to orchestrate the logic. 
 
@@ -164,7 +164,7 @@ While it lacks the strict mathematical safety guarantees of Rust, Zig provides m
 
 ## How to Choose Your Path
 
-With so many excellent options, choosing which language to learn can feel overwhelming. The key is to avoid "tutorial hell"—the trap of constantly switching languages without ever building anything substantial. Instead, let your goals dictate your choice:
+With so many excellent options, choosing which language to learn can feel overwhelming. The key is to avoid "tutorial hell", the trap of constantly switching languages without ever building anything substantial. Instead, let your goals dictate your choice:
 
 1. **I want to build websites and web apps:** Learn **HTML, CSS, and TypeScript**. Focus on a framework like React or Vue. 
 2. **I want to work with AI, Data, or start quickly:** Learn **Python**. It is accessible, powerful, and opens doors to the most exciting technologies of 2026.

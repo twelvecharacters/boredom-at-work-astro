@@ -27,7 +27,7 @@ faq:
     answer: "No, custom Gems (similar to custom GPTs) are currently exclusive to Gemini Advanced and Google Workspace Enterprise subscribers."
 ---
 
-We've all been there: staring at a screen, waiting for five o'clock, looking for productive ways to look busy. In the world of **Productive Procrastination**, the goal isn't to avoid work—it's to do it so efficiently that you free up hours of your day for learning, upskilling, or simply enjoying your coffee. 
+We've all been there: staring at a screen, waiting for five o'clock, looking for productive ways to look busy. In the world of **Productive Procrastination**, the goal isn't to avoid work, it's to do it so efficiently that you free up hours of your day for learning, upskilling, or simply enjoying your coffee. 
 
 If you are still using AI just to summarize short articles or write basic emails, you are missing out on the quiet revolution happening over at Google.
 
@@ -146,7 +146,7 @@ When you ask Gemini a complex math question, a data analysis question, or a requ
 3.  It verifies the output of the code.
 4.  It presents you with the mathematically verified answer, along with a dropdown where you can inspect the exact code it ran.
 
-This makes Gemini exceptionally reliable for technical tasks, data science, and heavy spreadsheet auditing—areas where other models still frequently hallucinate.
+This makes Gemini exceptionally reliable for technical tasks, data science, and heavy spreadsheet auditing, areas where other models still frequently hallucinate.
 
 ---
 

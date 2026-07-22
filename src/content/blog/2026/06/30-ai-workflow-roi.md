@@ -8,7 +8,7 @@ image: "./30-ai-workflow-roi.png"
 imageAlt: "A conceptual illustration of a balance scale with a robot arm on one side and a stack of coins/clocks on the other"
 tags: ["AI", "Productivity", "Business"]
 draft: false
-tldr: "AI ROI in 2026 is no longer about novelty; it's about rigorous cost-benefit analysis. While direct costs like subscriptions and hardware are easy to track, the true value lies in task compression and cognitive offloading—offset by the hidden costs of verification and 'prompt fatigue'. To stay profitable, you must avoid the efficiency trap where AI merely generates more low-value work."
+tldr: "AI ROI in 2026 is no longer about novelty; it's about rigorous cost-benefit analysis. While direct costs like subscriptions and hardware are easy to track, the true value lies in task compression and cognitive offloading, offset by the hidden costs of verification and 'prompt fatigue'. To stay profitable, you must avoid the efficiency trap where AI merely generates more low-value work."
 faq:
   - question: "How do you calculate the ROI of an AI subscription?"
     answer: "A simple formula is: ROI = (Value of Time Saved - (Subscription Cost + Verification Time)) / Subscription Cost. If a $20/month tool saves you 2 hours of work valued at $50/hour, but requires 30 minutes of checking, your net gain is $70. The ROI is ($70 - $20) / $20 = 250%. If verification takes longer than the time saved, the ROI is negative."
@@ -34,10 +34,10 @@ Before we look at the gains, we have to look at the "AI Tax." In 2026, the cost 
 
 ### Subscription Fatigue
 The average "AI-powered" professional in 2026 is likely paying for:
-*   **General Purpose LLM:** (ChatGPT Plus, Claude Pro, or Gemini Advanced) — **$20/mo**
-*   **Research/Search AI:** (Perplexity Pro or SearchGPT) — **$20/mo**
-*   **Specialized Workflow Tools:** (Cursor for coding, Midjourney for visuals, or Descript for video) — **$15–$30/mo**
-*   **API Usage:** If you use tools like TypingMind or custom automation via Make/Zapier, you’re paying for token usage. — **$5–$50/mo**
+*   **General Purpose LLM:** (ChatGPT Plus, Claude Pro, or Gemini Advanced), **$20/mo**
+*   **Research/Search AI:** (Perplexity Pro or SearchGPT), **$20/mo**
+*   **Specialized Workflow Tools:** (Cursor for coding, Midjourney for visuals, or Descript for video), **$15–$30/mo**
+*   **API Usage:** If you use tools like TypingMind or custom automation via Make/Zapier, you’re paying for token usage., **$5–$50/mo**
 
 Totaling these up, many individuals are spending **$60 to $120 per month** just to keep the lights on in their AI stack. For a freelancer, that’s $1,440 a year. To justify that cost, the tool needs to do more than just "feel helpful."
 
@@ -73,7 +73,7 @@ We’ve all been there: you ask for a change, the AI over-corrects, you ask it t
 Despite the costs, the ROI of AI remains massive for those who use it strategically. The key is to move past "feeling productive" and start measuring specific gains.
 
 ### Task Compression (The 4:1 Ratio)
-The most valuable use of AI is **task compression**—taking a task that used to be a discrete block of time and turning it into a background process.
+The most valuable use of AI is **task compression**, taking a task that used to be a discrete block of time and turning it into a background process.
 *   **Example:** A developer using [Cursor](/vs-code-vs-antigravity/) or GitHub Copilot might spend 2 hours on a feature that used to take 8. That's a 4:1 compression ratio.
 *   **ROI Metric:** (Hours Saved x Hourly Rate) / Cost of Tools.
 
@@ -168,7 +168,7 @@ In 2026, the AI landscape shifts every month. A tool that is "best-in-class" in 
 
 The "honeymoon phase" of AI is over. In 2026, AI is a utility, like electricity or the internet. We don't celebrate the fact that the lights turn on; we just expect them to work so we can do our jobs.
 
-The ROI of AI is not found in the tools themselves, but in the **delta between your output and your input.** If AI allows you to move from "doing the work" to "directing the work," the ROI is infinite. If it turns you into a high-speed editor of low-quality noise, the ROI is negative—no matter how cheap the subscription is.
+The ROI of AI is not found in the tools themselves, but in the **delta between your output and your input.** If AI allows you to move from "doing the work" to "directing the work," the ROI is infinite. If it turns you into a high-speed editor of low-quality noise, the ROI is negative, no matter how cheap the subscription is.
 
 Stop counting the hours you spend with AI. Start counting the hours you spend *not* working because the AI did it for you. That is the only metric that matters.
 

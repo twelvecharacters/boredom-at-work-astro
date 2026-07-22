@@ -40,7 +40,7 @@ Each template below has a copy-paste prompt plus notes on what to edit.
 
 **Prompt:**
 
-> Write a cold outreach email from me to [recipient name, role, company]. My goal: [specific outcome — meeting, intro, response, etc.]. Context: [why I'm reaching out — saw their post, mutual contact, relevant problem]. Tone: warm but professional, not salesy. Length: under 100 words. End with a specific, low-commitment ask.
+> Write a cold outreach email from me to [recipient name, role, company]. My goal: [specific outcome, meeting, intro, response, etc.]. Context: [why I'm reaching out, saw their post, mutual contact, relevant problem]. Tone: warm but professional, not salesy. Length: under 100 words. End with a specific, low-commitment ask.
 
 **Why it works:** "Under 100 words" forces ChatGPT to cut filler. "Low-commitment ask" prevents the closing "would love 15 minutes of your time" that gets ignored.
 
@@ -136,11 +136,11 @@ Each template below has a copy-paste prompt plus notes on what to edit.
 
 **Prompt:**
 
-> Draft a reply to a networking message. They asked: [what they wanted]. My take: [your honest answer — yes, no, partial, redirect]. Tone: warm, helpful, not curt. If saying yes, propose specifics. If saying no, soften with an alternative or referral. Length: under 80 words.
+> Draft a reply to a networking message. They asked: [what they wanted]. My take: [your honest answer, yes, no, partial, redirect]. Tone: warm, helpful, not curt. If saying yes, propose specifics. If saying no, soften with an alternative or referral. Length: under 80 words.
 
 **Why it works:** The "alternative or referral" closer is the difference between rude no and helpful no. It costs nothing and builds reciprocity.
 
-**What to edit:** The opening. ChatGPT defaults to "Thanks for reaching out!" — replace with something specific to their message.
+**What to edit:** The opening. ChatGPT defaults to "Thanks for reaching out!", replace with something specific to their message.
 
 ## Building Your Own Email Custom GPT
 

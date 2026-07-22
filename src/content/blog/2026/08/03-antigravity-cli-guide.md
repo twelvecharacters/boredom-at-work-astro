@@ -21,7 +21,7 @@ For the last year, the [Gemini CLI](/gemini-cli-guide/) has been a staple in my 
 
 Enter **Antigravity CLI**. 
 
-As of August 2026, Google has deprecated the Gemini CLI in favor of the much more robust Antigravity CLI. This isn't just a rebrand; it is a fundamental shift in how the AI interacts with your local environment. Rather than just reading your files, Antigravity acts as a true agent—it can read, plan, execute, run tests, and iterate without constant hand-holding.
+As of August 2026, Google has deprecated the Gemini CLI in favor of the much more robust Antigravity CLI. This isn't just a rebrand; it is a fundamental shift in how the AI interacts with your local environment. Rather than just reading your files, Antigravity acts as a true agent, it can read, plan, execute, run tests, and iterate without constant hand-holding.
 
 If you are transitioning from the old tool, or if you are completely new to terminal-based AI, this comprehensive guide will walk you through everything you need to know to master the Antigravity CLI.
 
@@ -31,7 +31,7 @@ The biggest difference you will notice with Antigravity CLI is its autonomy.
 
 With the old Gemini CLI, the workflow was strictly request-and-response. You asked a question, it gave you a snippet of code, and you manually pasted that code into your editor. 
 
-Antigravity CLI introduces **Agentic Mode**. When you give it a complex prompt—for example, *"Refactor the authentication middleware to use JWT instead of sessions, and update all the tests to match"*—it doesn't just print a wall of code. 
+Antigravity CLI introduces **Agentic Mode**. When you give it a complex prompt, for example, *"Refactor the authentication middleware to use JWT instead of sessions, and update all the tests to match"*, it doesn't just print a wall of code. 
 
 Instead, it:
 1. **Scans** your project to map out dependencies.

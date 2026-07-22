@@ -48,6 +48,6 @@ This document outlines the foundational standards and architectural goals for th
 
 ## 4. Development Workflow
 
-- **Content Linting:** Run `pnpm run lint:content:fix` before major updates to ensure frontmatter and price consistency.
+- **Content Linting:** Run `pnpm run lint:content:fix` before major updates to ensure frontmatter, em-dash removal, and price consistency.
 - **Build Validation:** Always run a full `pnpm run build` to verify Pagefind indexing and Sitemap generation.
 - **Stats & Export:** Run `pnpm run stats` after adding content to update the `README.md` and repository visibility. You can also run `pnpm run export:articles` to dump all article metadata into a CSV for analysis.

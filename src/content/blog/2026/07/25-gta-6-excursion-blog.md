@@ -30,7 +30,7 @@ However, sometimes a cultural event looms so large on the horizon that it demand
 
 Why would a blog dedicated to navigating the modern professional world talk about a video game infamous for its satirical take on crime and chaos? Because GTA 6 is no longer just a video game. It is a technological marvel, an economic juggernaut, and a pop-culture milestone that will dominate conversations at water coolers (both physical and virtual) for the next several years. It is a piece of media so vast that even if you haven't touched a game controller in a decade, its impact will be felt in the broader entertainment landscape. 
 
-Consider this a fun, fascinating detour—an exploration of why the internet is holding its collective breath for a return to Vice City.
+Consider this a fun, fascinating detour, an exploration of why the internet is holding its collective breath for a return to Vice City.
 
 ## The Weight of a Decade
 
@@ -78,7 +78,7 @@ This introduces a fresh dynamic to the series. The relationship between the two 
 
 We cannot talk about GTA 6 without addressing the sheer scale of the money involved. 
 
-Developing a game of this magnitude is a massive financial gamble. Estimates for the development and marketing budget of GTA 6 range anywhere from $1 billion to $2 billion, which would easily make it the most expensive piece of entertainment ever produced—dwarfing the budgets of Hollywood blockbusters like *Avengers: Endgame* or *Avatar*.
+Developing a game of this magnitude is a massive financial gamble. Estimates for the development and marketing budget of GTA 6 range anywhere from $1 billion to $2 billion, which would easily make it the most expensive piece of entertainment ever produced, dwarfing the budgets of Hollywood blockbusters like *Avengers: Endgame* or *Avatar*.
 
 However, it is a calculated risk. The entertainment industry knows that the launch of GTA 6 won't just be the biggest video game launch of the year; it will likely be the biggest entertainment launch in history. It is expected to generate over a billion dollars in revenue within its first 24 hours of release. 
 

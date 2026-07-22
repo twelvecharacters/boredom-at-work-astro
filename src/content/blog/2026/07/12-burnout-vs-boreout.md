@@ -24,7 +24,7 @@ Look around any modern open-plan office, or scroll through any professional netw
 
 For the past decade, corporate HR departments and management gurus have neatly categorized this universal exhaustion under a single, highly popularized umbrella term: **Burnout**. We are told that we are working too hard, that we need to practice better "self-care," that we need to establish stricter boundaries, and that we must disconnect on the weekends.
 
-While burnout is a very real, very dangerous, and officially recognized occupational phenomenon, it is not the only monster in the corporate ecosystem. There is a quiet, insidious twin operating in the shadows. It presents with the exact same symptoms—lethargy, cynicism, and dread—but its root cause is the exact opposite of overwork. 
+While burnout is a very real, very dangerous, and officially recognized occupational phenomenon, it is not the only monster in the corporate ecosystem. There is a quiet, insidious twin operating in the shadows. It presents with the exact same symptoms, lethargy, cynicism, and dread, but its root cause is the exact opposite of overwork. 
 
 This silent killer is known as **Boreout**.
 
@@ -73,7 +73,7 @@ The supreme danger of boreout is that it perfectly mimics the external symptoms 
 
 When a human being is chronically under-stimulated, the brain perceives this lack of purpose as an existential threat. To survive the agonizingly slow passage of time (the feeling of "clock-watching"), the employee must expend massive amounts of cognitive energy *pretending* to be busy. 
 
-The act of looking busy—shuffling papers, staring blankly at spreadsheets, minimizing windows when a manager walks by—is incredibly exhausting. It requires constant vigilance without any of the dopamine rewards of actual accomplishment. 
+The act of looking busy, shuffling papers, staring blankly at spreadsheets, minimizing windows when a manager walks by, is incredibly exhausting. It requires constant vigilance without any of the dopamine rewards of actual accomplishment. 
 
 Therefore, the boreout victim goes home at 5:00 PM feeling physically destroyed, emotionally depleted, and profoundly cynical about their career. They look at their exhaustion and logically assume: "I am exhausted. I must be burnt out."
 
@@ -123,7 +123,7 @@ You are using external, highly stimulating projects to provide the cognitive nut
 
 Often, boreout is specific to a particular manager or a particular team, not the entire company. Before quitting, aggressively network within your own organization.
 
-Identify the teams that are doing the hardest, most cutting-edge, most stressful work in the building. Take the managers of those teams out for coffee. Explain that you have excess capacity and want to help them solve their hardest problems. Lateral movement—even without a pay raise—into a highly complex role is a direct cure for boreout.
+Identify the teams that are doing the hardest, most cutting-edge, most stressful work in the building. Take the managers of those teams out for coffee. Explain that you have excess capacity and want to help them solve their hardest problems. Lateral movement, even without a pay raise, into a highly complex role is a direct cure for boreout.
 
 ### 4. The Exit Strategy
 

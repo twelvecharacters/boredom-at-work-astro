@@ -24,9 +24,9 @@ In the mid-20th century, the television revolutionized human communication. It b
 
 Today, that implicit contract has been violently shredded by the advent of generative Artificial Intelligence. We have entered an era where hyper-realistic videos can be fabricated in seconds, where voices can be cloned with terrifying accuracy from a five-second audio clip, and where massive armies of AI-powered bots dictate the flow of public discourse on social media platforms. 
 
-For younger demographics—the "digital natives" who came of age alongside the internet—this is a recognized, albeit exhausting, reality. They possess an innate, deeply ingrained skepticism. They understand that a viral video on TikTok might be entirely synthetic. 
+For younger demographics, the "digital natives" who came of age alongside the internet, this is a recognized, albeit exhausting, reality. They possess an innate, deeply ingrained skepticism. They understand that a viral video on TikTok might be entirely synthetic. 
 
-However, for the older generation—our parents, grandparents, and elderly neighbors—this rapid technological paradigm shift presents an unprecedented, almost invisible danger. They are navigating a digital landscape armed with an analog compass. They are applying the trust paradigms of the 20th century to the weaponized, AI-driven social media platforms of 2026. This disconnect has created a profound vulnerability, leading to widespread financial devastation, emotional manipulation, and a terrifying acceleration of political radicalization.
+However, for the older generation, our parents, grandparents, and elderly neighbors, this rapid technological paradigm shift presents an unprecedented, almost invisible danger. They are navigating a digital landscape armed with an analog compass. They are applying the trust paradigms of the 20th century to the weaponized, AI-driven social media platforms of 2026. This disconnect has created a profound vulnerability, leading to widespread financial devastation, emotional manipulation, and a terrifying acceleration of political radicalization.
 
 This comprehensive analysis will delve into the specific mechanics of how AI in social media networks disproportionately targets and endangers older demographics. We will explore the mechanics of algorithmic isolation, the terrifying reality of synthetic media scams, and the urgent societal need for a new framework of digital literacy.
 
@@ -60,15 +60,15 @@ For years, scammers have employed the "grandparent scam," calling elderly indivi
 
 Historically, this required a skilled con artist capable of mimicking a panicked young person. Today, AI has completely automated and perfected this crime.
 
-Using just a three-second snippet of a grandchild's voice—easily scraped from a public TikTok, Instagram story, or YouTube video—criminals use AI voice cloning software to generate entirely new, indistinguishable sentences in the victim's exact voice. 
+Using just a three-second snippet of a grandchild's voice, easily scraped from a public TikTok, Instagram story, or YouTube video, criminals use AI voice cloning software to generate entirely new, indistinguishable sentences in the victim's exact voice. 
 
-Imagine an 80-year-old woman receiving a phone call. She hears the exact, distinct voice of her grandson, crying, panicked, claiming he has been in a horrible accident and needs $5,000 immediately to pay a hospital bill. The voice is perfect; the cadence, the pitch, the emotional distress—it is entirely flawless. 
+Imagine an 80-year-old woman receiving a phone call. She hears the exact, distinct voice of her grandson, crying, panicked, claiming he has been in a horrible accident and needs $5,000 immediately to pay a hospital bill. The voice is perfect; the cadence, the pitch, the emotional distress, it is entirely flawless. 
 
 For a demographic that was taught to inherently trust their own ears, this is not a scam; it is a desperate reality. The financial devastation wrought by AI voice cloning is staggering, and because the perpetrators are often operating internationally, the funds are rarely recovered.
 
 ### Visual Deepfakes and Political Manipulation
 
-The deception extends far beyond audio. Visual deepfakes—AI-generated videos that seamlessly map one person's face onto another's body or synthesize entirely new video footage—have become terrifyingly easy to produce.
+The deception extends far beyond audio. Visual deepfakes, AI-generated videos that seamlessly map one person's face onto another's body or synthesize entirely new video footage, have become terrifyingly easy to produce.
 
 On social media, older demographics are disproportionately targeted by political deepfakes. These might include fabricated videos of political candidates making outrageous statements, AI-generated images of non-existent riots, or synthetic news broadcasts designed to look perfectly legitimate. 
 

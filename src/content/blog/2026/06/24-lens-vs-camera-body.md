@@ -27,7 +27,7 @@ It’s the most common trap in photography. You’ve been shooting for a year, y
 
 In 2026, I am here to tell you: **Your camera body is almost certainly not the problem.**
 
-The digital sensor is the second half of the equation. The first—and arguably most important—is the glass. A mediocre camera body from five years ago paired with a high-end prime lens will outperform a $5,000 flagship paired with a basic kit lens in almost every visual metric that matters.
+The digital sensor is the second half of the equation. The first, and arguably most important, is the glass. A mediocre camera body from five years ago paired with a high-end prime lens will outperform a $5,000 flagship paired with a basic kit lens in almost every visual metric that matters.
 
 This is a guide to why "glass first" is the only sustainable philosophy in photography, how a great lens can save a "bad" camera, and how to stop wasting money on megapixels you don't need.
 
@@ -67,7 +67,7 @@ These cameras all share something in common: **They are technically excellent.**
 ### The Diminishing Returns of Sensor Tech
 Between 2010 and 2018, sensor technology moved in leaps and bounds. In 2026, however, we have reached a plateau. The difference between a sensor from 2020 and a sensor from 2026 is marginal in terms of color science and dynamic range. The real innovation is happening in **speed** (stacked sensors) and **AI features**. 
 
-If you don't need to shoot 40 frames per second of a flying bird, your "mediocre" 2020 sensor is perfectly capable of producing professional-grade work. It just needs a better eye—and better glass.
+If you don't need to shoot 40 frames per second of a flying bird, your "mediocre" 2020 sensor is perfectly capable of producing professional-grade work. It just needs a better eye, and better glass.
 
 ---
 
@@ -76,12 +76,12 @@ If you don't need to shoot 40 frames per second of a flying bird, your "mediocre
 When you take a $200 entry-level body and put a $1,000 professional lens on it, five things happen immediately that no amount of software or megapixel-chasing can replicate.
 
 ### 1. Sharpness and Micro-Contrast
-Sharpness is obvious—the ability to see individual eyelashes or the texture of a leaf. But **micro-contrast** is what gives an image that "3D look." 
+Sharpness is obvious, the ability to see individual eyelashes or the texture of a leaf. But **micro-contrast** is what gives an image that "3D look." 
 
 High-end lenses use specialized glass (ED, Aspherical, Flourite) to ensure that the transition between light and dark areas is extremely crisp. Cheap lenses tend to "smear" these transitions, making the photo look flat. A great lens creates a sense of depth and "bite" that makes people stop and look at a photo.
 
 ### 2. The Bokeh and Subject Separation
-The "Pro Look" is almost always associated with a shallow depth of field—where the subject is sharp and the background is a creamy blur. 
+The "Pro Look" is almost always associated with a shallow depth of field, where the subject is sharp and the background is a creamy blur. 
 - **The Kit Lens:** At f/5.6, the background is often distracting and busy. 
 - **The Pro Prime:** At f/1.4, the background disappears into a smooth wash of color, making your subject "pop" out of the frame.
 
@@ -133,14 +133,14 @@ When you buy a lens, you aren't "spending" money; you are "parking" money in an 
 Let’s look at a real-world comparison. Imagine you are shooting a portrait in a dimly lit room.
 
 **Setup A (The Beginner Mistake):**
-- **Body:** Sony A7R V (61 Megapixels) — **$3,500**
-- **Lens:** Sony 28-70mm f/3.5-5.6 (Kit Zoom) — **$200**
+- **Body:** Sony A7R V (61 Megapixels), **$3,500**
+- **Lens:** Sony 28-70mm f/3.5-5.6 (Kit Zoom), **$200**
 - **Total:** $3,700
 - **The Result:** To get a decent exposure, the ISO has to be cranked to 12,800 because the lens is so "slow" (f/5.6). The image is noisy, the background is busy, and despite the 61MP sensor, the fine details are smeared by the mediocre glass.
 
 **Setup B (The Smart Pro):**
-- **Body:** Sony A7 III (24 Megapixels, used) — **$800**
-- **Lens:** Sony 50mm f/1.2 GM (Pro Prime) — **$1,900**
+- **Body:** Sony A7 III (24 Megapixels, used), **$800**
+- **Lens:** Sony 50mm f/1.2 GM (Pro Prime), **$1,900**
 - **Total:** $2,700
 - **The Result:** Because the lens is so "fast" (f/1.2), the ISO stays at a clean 400. The subject's eyes are razor-sharp with incredible micro-contrast, the background melts into professional bokeh, and the photo looks like it belongs on the cover of a magazine.
 
@@ -169,7 +169,7 @@ If you absolutely *must* have a zoom for versatility (like travel or events), av
 
 In the age of AI-powered editing and computational photography, it's easy to forget that photography is, at its heart, the capture of light. 
 
-Your camera body is the net that catches the light, but your lens is the funnel that directs it. If your funnel is small, dirty, and bent, it doesn't matter how big your net is—you’re still going to have a hard time catching anything worth keeping.
+Your camera body is the net that catches the light, but your lens is the funnel that directs it. If your funnel is small, dirty, and bent, it doesn't matter how big your net is, you’re still going to have a hard time catching anything worth keeping.
 
 Stop looking at the spec sheets of the new flagship bodies. Stop worrying about whether you have 30 or 60 megapixels. Take your "mediocre" camera, buy a piece of world-class glass, and go shoot. You’ll be amazed at how "pro" your old gear suddenly feels when you give it the light it deserves.
 

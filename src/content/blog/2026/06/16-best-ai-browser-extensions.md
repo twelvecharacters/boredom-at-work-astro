@@ -54,7 +54,7 @@ Use the Perplexity extension to vet long technical documents or news stories whi
 ---
 
 ## 2. [Claude.ai](https://chromewebstore.google.com/detail/claude-in-chrome-beta/fcoeoabgfenejglbffodgkkbkcdhcgfn): Reasoning Over Raw Data
-While ChatGPT is the most famous, Claude Sonnet 4.5 (by Anthropic) has quickly become the favorite for power users who need high-quality writing and complex reasoning. The Claude interface is optimized for "Artifacts"—interactive code, documents, and charts that appear in a side window.
+While ChatGPT is the most famous, Claude Sonnet 4.5 (by Anthropic) has quickly become the favorite for power users who need high-quality writing and complex reasoning. The Claude interface is optimized for "Artifacts", interactive code, documents, and charts that appear in a side window.
 
 ### Deep Dive Features
 Using Claude in the browser allows you to feed it the "DOM" (the code structure) of the page you are on.
@@ -68,7 +68,7 @@ Claude is your best friend for "Stealth Learning." If you are trying to learn a 
 ---
 
 ## 3. [Grammarly](https://chromewebstore.google.com/detail/grammarly-ai-writing-serv/kbfnbcaeplbcioakkpcpgfkobkghlhen): The AI Communication Layer
-Grammarly has evolved far beyond its origins as a spellchecker. In 2026, it acts as a generative AI layer that sits on top of every text box on the internet—from Slack and Gmail to LinkedIn and your internal CMS.
+Grammarly has evolved far beyond its origins as a spellchecker. In 2026, it acts as a generative AI layer that sits on top of every text box on the internet, from Slack and Gmail to LinkedIn and your internal CMS.
 
 ### Deep Dive Features
 The "Grammarly GO" features allow you to adjust the "vibe" of your writing with a single click.

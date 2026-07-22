@@ -29,10 +29,10 @@ We analyzed dozens of courses based on practical value, time investment, instruc
 
 Short on time? Here are the top picks before the full breakdown below.
 
-- **Best for beginners:** [Google AI Essentials](https://www.coursera.org/learn/google-ai-essentials) — ~10 hours, no coding, employer-recognized certificate.
-- **Best free option:** Andrew Ng's AI For Everyone — preview the first module free; certificate is paid.
-- **Best for a career in ML:** DeepLearning.AI Machine Learning Specialization — the deepest, most respected track.
-- **Best academic depth:** Stanford Machine Learning — rigorous, math-heavy, taught by Andrew Ng.
+- **Best for beginners:** [Google AI Essentials](https://www.coursera.org/learn/google-ai-essentials), ~10 hours, no coding, employer-recognized certificate.
+- **Best free option:** Andrew Ng's AI For Everyone, preview the first module free; certificate is paid.
+- **Best for a career in ML:** DeepLearning.AI Machine Learning Specialization, the deepest, most respected track.
+- **Best academic depth:** Stanford Machine Learning, rigorous, math-heavy, taught by Andrew Ng.
 - **Cost:** $49–79 per course, or Coursera Plus at $59/month (worth it from 3+ courses).
 
 ## How We Ranked These Courses

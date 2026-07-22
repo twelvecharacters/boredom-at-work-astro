@@ -8,7 +8,7 @@ image: "./06-dumb-phones-for-deep-work.png"
 imageAlt: "A sleek, modern minimalist 'dumb phone' resting on a clean, wooden productivity desk next to an open paper notebook."
 tags: ["Productivity", "Tech & Gadgets", "Lifestyle"]
 draft: false
-tldr: "The modern smartphone is fundamentally incompatible with the psychological state required for 'Deep Work.' To combat severe algorithmic distraction, a growing movement of professionals is adopting minimalist 'dumb phones'—devices that only call, text, and provide essential utilities—as a radical hardware intervention to reclaim their fractured attention spans."
+tldr: "The modern smartphone is fundamentally incompatible with the psychological state required for 'Deep Work.' To combat severe algorithmic distraction, a growing movement of professionals is adopting minimalist 'dumb phones', devices that only call, text, and provide essential utilities, as a radical hardware intervention to reclaim their fractured attention spans."
 faq:
   - question: "What is a modern 'dumb phone'?"
     answer: "A modern dumb phone, or minimalist phone (like the Light Phone 2 or the Punkt MP02), is a device intentionally designed with extreme limitations. It typically features an e-ink display and lacks a web browser, social media apps, and an app store. It handles calls, texts, alarms, and perhaps a basic podcast player or maps tool, but nothing designed to capture your attention."
@@ -22,9 +22,9 @@ faq:
 
 We are currently living through the greatest mass heist in human history, and we willingly opened the vault door. The commodity being stolen is not money, data, or natural resources; it is human attention. 
 
-The modern smartphone—the glowing rectangle that currently resides in your pocket, on your desk, or perhaps right in front of your eyes as you read this—is an engineering marvel. It is a supercomputer capable of instantaneous global communication, rendering photorealistic 3D graphics, and accessing the sum total of human knowledge. But it is also a perfectly designed behavioral modification engine.
+The modern smartphone, the glowing rectangle that currently resides in your pocket, on your desk, or perhaps right in front of your eyes as you read this, is an engineering marvel. It is a supercomputer capable of instantaneous global communication, rendering photorealistic 3D graphics, and accessing the sum total of human knowledge. But it is also a perfectly designed behavioral modification engine.
 
-Every major tech company in Silicon Valley employs armies of neuroscientists, behavioral psychologists, and UI/UX engineers whose sole, highly compensated directive is to design algorithms and interfaces that hijack your brain’s dopamine circuitry. They have weaponized the "variable ratio reinforcement schedule"—the exact same psychological mechanism that makes slot machines so violently addictive. 
+Every major tech company in Silicon Valley employs armies of neuroscientists, behavioral psychologists, and UI/UX engineers whose sole, highly compensated directive is to design algorithms and interfaces that hijack your brain’s dopamine circuitry. They have weaponized the "variable ratio reinforcement schedule", the exact same psychological mechanism that makes slot machines so violently addictive. 
 
 When you pull down to refresh a feed, you do not know if you will see a boring ad, a stressful email from your boss, or a highly validating notification that hundreds of people liked your photo. That precise unpredictability is what compels you to check your phone 150 times a day.
 
@@ -73,7 +73,7 @@ Transitioning from a flagship smartphone to a minimalist device is not a gentle 
 
 ### Phase 1: The Phantom Vibrations and Intense Anxiety (Days 1-7)
 
-During the first week, your brain will panic. You will reach for your pocket 50 times a day, only to remember your iPhone is sitting in a drawer at home. You will experience "phantom vibrations"—the distinct physical sensation of a notification buzzing against your leg, even when the dumb phone is entirely silent. 
+During the first week, your brain will panic. You will reach for your pocket 50 times a day, only to remember your iPhone is sitting in a drawer at home. You will experience "phantom vibrations", the distinct physical sensation of a notification buzzing against your leg, even when the dumb phone is entirely silent. 
 
 You will feel a profound, irrational anxiety that you are "missing out" on critical information. You will worry that your boss is trying to reach you on Slack, that your friends are making plans in the WhatsApp group, or that a major global event has occurred and you are entirely ignorant of it. 
 

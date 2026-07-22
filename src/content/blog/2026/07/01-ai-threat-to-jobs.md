@@ -28,7 +28,7 @@ We are currently navigating a transition phase where the novelty of large langua
 
 Anxiety about technology destroying jobs is not new; it is a recurring theme in human history. In the 19th century, the Luddites famously smashed textile machinery, fearing that the industrialization of weaving would render their skills useless and lead to mass destitution. While the short-term disruption was indeed painful for those specific workers, the Industrial Revolution ultimately created unprecedented economic growth, higher living standards, and entirely new categories of employment that the weavers could not have imagined. 
 
-Similarly, the advent of the personal computer and the internet sparked fears of widespread clerical unemployment. Instead, it gave rise to the information age, creating millions of jobs in software development, digital marketing, IT support, and e-commerce. Historically, the "Luddite Fallacy"—the belief that there is a fixed amount of work to be done in an economy, and that automating some of it necessarily leaves less for humans—has consistently been proven wrong. Increased productivity lowers costs, which increases demand and generates new economic activity.
+Similarly, the advent of the personal computer and the internet sparked fears of widespread clerical unemployment. Instead, it gave rise to the information age, creating millions of jobs in software development, digital marketing, IT support, and e-commerce. Historically, the "Luddite Fallacy", the belief that there is a fixed amount of work to be done in an economy, and that automating some of it necessarily leaves less for humans, has consistently been proven wrong. Increased productivity lowers costs, which increases demand and generates new economic activity.
 
 However, many economists argue that AI feels fundamentally different from past technological shifts. Previous revolutions primarily automated *physical* labor or routine calculations. The AI revolution is automating *cognitive* labor. When machines can read, write, synthesize information, and make complex decisions, it challenges the very skills that have traditionally protected knowledge workers from automation. This distinction is critical and explains why the current wave of technological anxiety is sweeping through white-collar professions that previously felt insulated from disruption. 
 
@@ -42,7 +42,7 @@ It is crucial, however, to distinguish between task automation and job eliminati
 
 ## The Shift from Replacement to Augmentation
 
-A much more accurate way to view the integration of AI in the workplace is through the lens of augmentation rather than outright replacement. In the vast majority of highly skilled fields, AI is becoming a powerful tool that enhances human capabilities rather than rendering them obsolete. We are moving toward a "Centaur" model of work—a concept popularized in chess, where human-computer teams consistently beat both solo humans and solo algorithms by combining human intuition and strategic thinking with the machine's flawless tactical calculation.
+A much more accurate way to view the integration of AI in the workplace is through the lens of augmentation rather than outright replacement. In the vast majority of highly skilled fields, AI is becoming a powerful tool that enhances human capabilities rather than rendering them obsolete. We are moving toward a "Centaur" model of work, a concept popularized in chess, where human-computer teams consistently beat both solo humans and solo algorithms by combining human intuition and strategic thinking with the machine's flawless tactical calculation.
 
 Consider the medical field. AI algorithms can analyze radiological medical images with incredible accuracy, often detecting subtle anomalies that a human doctor might miss. However, the AI does not replace the radiologist or the attending physician. The doctor uses the AI's analysis as a highly sophisticated second opinion to make a more informed diagnosis. The physician then develops a personalized treatment plan, combining the machine's analytical power with their own clinical judgment, understanding of the patient's holistic health profile, empathy, and experience.
 
@@ -50,7 +50,7 @@ Similarly, in software development, AI coding assistants like GitHub Copilot can
 
 ## The Creation of New Opportunities and Industries
 
-Historically, technological revolutions have destroyed specific jobs, but they have also created new ones—often in numbers that outpace the initial losses. The AI revolution is likely to follow a similar pattern, albeit at an accelerated pace.
+Historically, technological revolutions have destroyed specific jobs, but they have also created new ones, often in numbers that outpace the initial losses. The AI revolution is likely to follow a similar pattern, albeit at an accelerated pace.
 
 As AI becomes deeply integrated into the global economy, a massive demand will emerge for professionals who can build, maintain, secure, and regulate these systems. We are already seeing a surge in specialized roles such as AI ethicists, prompt engineers, machine learning specialists, natural language processing researchers, and data privacy officers. 
 
@@ -72,7 +72,7 @@ AI is excellent at solving problems within a well-defined set of rules (like a g
 
 ### True Creativity and Innovation
 
-While generative AI can create stunning art, write poetry, and compose music, it does so entirely by interpolating and recombining existing patterns from its training data. True innovation—the ability to conceive of something fundamentally new and valuable that breaks existing paradigms—is a uniquely human trait. Roles in the highest levels of the creative arts, cutting-edge scientific research, and entrepreneurial ventures will continue to rely on human ingenuity, lived experience, and the human capacity to imagine what does not yet exist.
+While generative AI can create stunning art, write poetry, and compose music, it does so entirely by interpolating and recombining existing patterns from its training data. True innovation, the ability to conceive of something fundamentally new and valuable that breaks existing paradigms, is a uniquely human trait. Roles in the highest levels of the creative arts, cutting-edge scientific research, and entrepreneurial ventures will continue to rely on human ingenuity, lived experience, and the human capacity to imagine what does not yet exist.
 
 ### Trust, Accountability, and Leadership
 

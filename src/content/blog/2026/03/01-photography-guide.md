@@ -158,7 +158,7 @@ You need more than just a camera body. Here's what actually matters.
 | **External flash** | Indoor/event photography | $80-200 |
 | **Filters (ND, CPL)** | Landscape photography | $30-100 |
 
-**Pro tip:** Master your kit lens before buying more glass. Most beginners blame gear for technique problems. When you are ready to upgrade, though, put your money into glass first — here's [why a great lens beats a pricier camera body](/lens-vs-camera-body/).
+**Pro tip:** Master your kit lens before buying more glass. Most beginners blame gear for technique problems. When you are ready to upgrade, though, put your money into glass first, here's [why a great lens beats a pricier camera body](/lens-vs-camera-body/).
 
 ---
 

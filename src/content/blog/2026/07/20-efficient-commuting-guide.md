@@ -24,7 +24,7 @@ faq:
     answer: "It depends on your energy levels and goals. Some days you might need to get a head start on emails, while other days you might need to decompress with music or meditation. The key is to be intentional with the time rather than letting it slip away."
 ---
 
-For many professionals, the daily commute is the most dreaded part of the workday. It is often seen as a necessary evil, a period of "dead time" squeezed between the comfort of home and the demands of the office. The average American spends nearly an hour each day commuting. Over a typical career, that equates to thousands of hours—months of your life—spent sitting in traffic, waiting for delayed trains, or squeezed onto crowded buses. 
+For many professionals, the daily commute is the most dreaded part of the workday. It is often seen as a necessary evil, a period of "dead time" squeezed between the comfort of home and the demands of the office. The average American spends nearly an hour each day commuting. Over a typical career, that equates to thousands of hours, months of your life, spent sitting in traffic, waiting for delayed trains, or squeezed onto crowded buses. 
 
 But what if we reframed the commute? What if, instead of viewing it as a soul-crushing chore, we treated it as an opportunity? 
 
@@ -56,7 +56,7 @@ If you take a train, subway, or bus, you have a distinct advantage: your hands a
 If you plan to work on transit, optimize your setup. Invest in a good pair of noise-canceling headphones to block out chatter and engine noise. Use a privacy screen on your laptop or tablet if you are working on sensitive documents. Ensure your devices are fully charged, or carry a high-capacity power bank.
 
 ### Tackle the "Shallow Work"
-Public transit is rarely the place for deep, uninterrupted focus. Instead, use this time for "shallow work"—tasks that need to get done but don't require intense cognitive load. This includes:
+Public transit is rarely the place for deep, uninterrupted focus. Instead, use this time for "shallow work", tasks that need to get done but don't require intense cognitive load. This includes:
 - Clearing out your email inbox.
 - Reviewing your calendar and setting your daily priorities.
 - Reading industry newsletters or articles you've saved to apps like Pocket or Instapaper.
@@ -88,7 +88,7 @@ Efficiency isn't just about what you do in the car; it's about minimizing the ti
 
 ## 4. The Rise of Active Commuting
 
-One of the most efficient ways to commute is to combine it with something else you already need to do: exercise. Active commuting—cycling, running, or briskly walking to work—is gaining massive popularity.
+One of the most efficient ways to commute is to combine it with something else you already need to do: exercise. Active commuting, cycling, running, or briskly walking to work, is gaining massive popularity.
 
 ### The Double-Duty Advantage
 If you spend 45 minutes driving to work and then 45 minutes at the gym later, that's an hour and a half of your day consumed. If you cycle to work in 45 minutes, you have accomplished both transportation and exercise simultaneously. You essentially gain back 45 minutes of your life.
@@ -97,7 +97,7 @@ If you spend 45 minutes driving to work and then 45 minutes at the gym later, th
 Studies consistently show that active commuters arrive at work more alert, less stressed, and with higher energy levels than those who drive. The physical activity releases endorphins, clearing brain fog and setting a positive tone for the day. Over time, the cardiovascular benefits contribute to better overall health and fewer sick days.
 
 ### Overcoming the Logistics
-The main barrier to active commuting is logistics—sweat, weather, and distance. 
+The main barrier to active commuting is logistics, sweat, weather, and distance. 
 - **E-Bikes:** The advent of affordable e-bikes has revolutionized commuting. They allow you to travel further distances without arriving drenched in sweat, flattening out hills and cutting travel time.
 - **Facilities:** Check if your office has showers and secure bike parking. If not, look for a nearby gym where you can shower before heading into the office.
 - **The Hybrid Approach:** If you live too far to bike the whole way, consider driving part of the way, parking, and biking the rest. Alternatively, combine cycling with public transit if your local system allows bikes on board.

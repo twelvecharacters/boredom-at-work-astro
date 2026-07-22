@@ -38,7 +38,7 @@ For the vast majority of travelers, a backpack between 35 and 45 liters is ideal
 
 ## 2. The Golden Rule of Travel Clothing: Layering and Versatility
 
-The biggest mistake novice backpackers make is overpacking clothing. The “what if” mentality—packing a heavy coat *what if* it gets cold, or packing formal wear *what if* I attend a fancy gala—is the enemy of light travel. The key is to pack a versatile, mix-and-match capsule wardrobe focused on layering.
+The biggest mistake novice backpackers make is overpacking clothing. The “what if” mentality, packing a heavy coat *what if* it gets cold, or packing formal wear *what if* I attend a fancy gala, is the enemy of light travel. The key is to pack a versatile, mix-and-match capsule wardrobe focused on layering.
 
 **Fabrics Matter: The Power of Merino Wool and Synthetics**
 Leave the heavy cotton at home. Cotton takes forever to dry, wrinkles easily, and holds onto odors. Instead, invest in performance fabrics. Merino wool is the holy grail of travel clothing. It is naturally odor-resistant (you can wear a merino t-shirt for days without washing it), temperature-regulating (keeps you warm in the cold and cool in the heat), and quick-drying. Synthetic blends (like nylon and polyester) are also excellent for travel, especially for pants and activewear, as they are durable and dry rapidly.
@@ -83,7 +83,7 @@ Toiletries are heavy, prone to leaking, and take up surprising amounts of space.
 For the modern traveler, especially the digital nomad, electronics are arguably the most important items in the bag. However, they are also the heaviest. It is critical to optimize your tech setup to avoid carrying unnecessary chargers and cables.
 
 **The Universal Rule: USB-C Everything**
-In 2026, USB-C is the absolute standard. Try to ensure all your devices—laptop, phone, headphones, camera, e-reader—charge via USB-C. This allows you to carry just one or two powerful wall chargers and a few identical cables, rather than a tangled mess of proprietary cords.
+In 2026, USB-C is the absolute standard. Try to ensure all your devices, laptop, phone, headphones, camera, e-reader, charge via USB-C. This allows you to carry just one or two powerful wall chargers and a few identical cables, rather than a tangled mess of proprietary cords.
 
 **The Tech Packing List:**
 *   **Smartphone:** Your navigation, camera, translator, and connection to the world. Ensure it is unlocked so you can use local eSIMs or physical SIM cards.
@@ -130,7 +130,7 @@ Losing your clothes is an annoyance; losing your passport is a disaster. Securit
 *   **Physical Backups:** Make photocopies of your passport, driver's license, travel insurance policy, and credit cards. Keep one set of copies hidden deep in your backpack, and leave another set at home with a trusted friend or family member.
 *   **Digital Backups:** Scan all your important documents and store them securely in the cloud (Google Drive, Dropbox, iCloud) so you can access them from any computer in the world.
 *   **Money Belt or Hidden Pouch:** While less common these days, a hidden pouch worn under your clothes is still the safest way to carry large amounts of emergency cash and your passport in high-risk areas.
-*   **Multiple Payment Options:** Never travel with only one credit or debit card. Cards get blocked, swallowed by ATMs, or stolen. Carry at least two debit cards (preferably with no foreign transaction fees, like Charles Schwab or Revolut) and one or two travel credit cards. Store them in different locations—one in your wallet, one hidden in your backpack.
+*   **Multiple Payment Options:** Never travel with only one credit or debit card. Cards get blocked, swallowed by ATMs, or stolen. Carry at least two debit cards (preferably with no foreign transaction fees, like Charles Schwab or Revolut) and one or two travel credit cards. Store them in different locations, one in your wallet, one hidden in your backpack.
 
 ## 8. Adapting to Seasons and Climates
 

@@ -99,7 +99,7 @@ The key difference: the 10a ships with **Android 16** out of the box, which incl
 - **Theft Detection Lock** using AI-powered motion sensing
 - **Private Space** for hiding sensitive apps behind biometric authentication
 
-The 9a will get Android 16 via update, but some Pixel-exclusive features may arrive on the 10a first. Thanks to that 7-year promise, both phones are also in line for the next big release — see what's coming in our [Android 17 features and release guide](/android-17-guide-features/).
+The 9a will get Android 16 via update, but some Pixel-exclusive features may arrive on the 10a first. Thanks to that 7-year promise, both phones are also in line for the next big release, see what's coming in our [Android 17 features and release guide](/android-17-guide-features/).
 
 ---
 
