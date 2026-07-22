@@ -3,7 +3,6 @@ title: "Best E-Readers in 2026: Every Major Option Compared"
 slug: "best-e-readers"
 description: "The best e-readers in 2026 compared, Kindle, Kobo, Boox, and reMarkable. Specs, prices, and a clear recommendation for every type of reader."
 publishDate: 2026-04-05
-updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./05-best-e-readers.webp"
 imageAlt: "Collection of e-readers from Kindle, Kobo, and Boox on a clean surface"

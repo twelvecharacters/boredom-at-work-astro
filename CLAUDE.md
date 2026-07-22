@@ -207,6 +207,8 @@ faq:
 ---
 ```
 
+   **⚠️ HARTE REGEL, `updatedDate`:** Bei einer **Erstveröffentlichung KEIN `updatedDate` setzen** (im Template bewusst nicht enthalten). „Updated" darf ausschließlich bei einem **echten, späteren Update** erscheinen. `updatedDate == publishDate` ist verboten (irreführendes „Updated"-Badge). Doppelt abgesichert: (1) `BlogPost.astro` rendert das Badge nur bei `updatedDate > publishDate`; (2) `content-lint.js` (`checkRedundantUpdatedDate`) blockt `updatedDate == publishDate` als **Error** und entfernt es via `--fix`.
+
 3. **Für Blog-Abfragen immer `getPublishedPosts()` aus `src/utils/blog.ts` verwenden**
 
 4. **IMMER American English verwenden** (Zielgruppe: Nordamerika)

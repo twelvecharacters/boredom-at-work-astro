@@ -3,7 +3,6 @@ title: "What is 'AI Slop' and Why is the Internet Revolting Against It?"
 slug: "what-is-ai-slop"
 description: "AI slop is a tidal wave of low-effort synthetic content flooding the web. Discover what it is, why the internet hates it, and how to survive."
 publishDate: 2026-07-23
-updatedDate: 2026-07-23
 author: "Mehdi"
 image: "./23-what-is-ai-slop.png"
 imageAlt: "A conceptual illustration of AI slop showing messy generic digital content pouring out of a computer screen"

@@ -3,7 +3,6 @@ title: "Kindle Colorsoft vs Paperwhite (2026): Is Color Worth It?"
 slug: "kindle-colorsoft-vs-paperwhite"
 description: "Kindle Colorsoft ($279) vs Paperwhite ($160) in 2026: color e-ink, contrast, battery and price compared. Find out who should actually pay for color."
 publishDate: 2026-08-04
-updatedDate: 2026-08-04
 author: "Mehdi"
 image: "./04-kindle-colorsoft-vs-paperwhite.webp"
 imageAlt: "Kindle Colorsoft showing a color book cover next to a monochrome Kindle Paperwhite"

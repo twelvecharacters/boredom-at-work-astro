@@ -274,6 +274,21 @@ function checkEmDashes(content, filePath) {
   return issues;
 }
 
+function checkRedundantUpdatedDate(content, filePath) {
+  const issues = [];
+  const pubM = content.match(/^publishDate:\s*["']?(\d{4}-\d{2}-\d{2})/m);
+  const updM = content.match(/^updatedDate:\s*["']?(\d{4}-\d{2}-\d{2})/m);
+  if (pubM && updM && pubM[1] === updM[1]) {
+    issues.push({
+      filePath,
+      lineNum: lineNumberAt(content, updM.index),
+      severity: 'error',
+      message: 'updatedDate equals publishDate on a new post. HARD RULE: a first publication must not show "Updated". Remove updatedDate; set it ONLY for a genuine later update (auto-fixable with --fix).',
+    });
+  }
+  return issues;
+}
+
 function checkListicleConsistency(content, filePath) {
   const issues = [];
   const { frontmatter, body, frontmatterEndLine } = splitFrontmatterAndBody(content);
@@ -551,6 +566,7 @@ function lintFile(filePath) {
   const issues = [
     ...checkOutdatedPatterns(content, filePath),
     ...checkEmDashes(content, filePath),
+    ...checkRedundantUpdatedDate(content, filePath),
     ...checkListicleConsistency(content, filePath),
     ...checkPriceConsistency(content, filePath),
     ...checkMetaDescriptionLength(content, filePath),
@@ -586,6 +602,15 @@ function applyFixes(filePath) {
     content = content
       .replace(/\s*—\s*/g, ', ')
       .replace(/,(?:\s*,)+/g, ',');
+  }
+
+  // HARD RULE: a first publication must not carry updatedDate == publishDate
+  // (it would render a misleading "Updated" badge). Strip the redundant field.
+  const pubM = content.match(/^publishDate:\s*["']?(\d{4}-\d{2}-\d{2})/m);
+  const updM = content.match(/^updatedDate:\s*["']?(\d{4}-\d{2}-\d{2})/m);
+  if (pubM && updM && pubM[1] === updM[1]) {
+    content = content.replace(/^updatedDate:.*\r?\n/m, '');
+    fixCount += 1;
   }
 
   return fixCount > 0 ? { content, fixCount } : null;

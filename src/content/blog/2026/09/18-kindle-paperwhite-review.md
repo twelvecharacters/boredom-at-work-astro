@@ -3,7 +3,6 @@ title: "Kindle Paperwhite Review 2026: Still the One to Buy?"
 slug: "kindle-paperwhite-review"
 description: "Our 2026 Kindle Paperwhite review: 7-inch screen, waterproofing, warm light, and weeks of battery for $159.99. Here is who should buy it and who should not."
 publishDate: 2026-09-18
-updatedDate: 2026-09-18
 author: "Mehdi"
 image: "./18-kindle-paperwhite-review.webp"
 imageAlt: "Kindle Paperwhite e-reader showing a page of text, with its warm front light on"

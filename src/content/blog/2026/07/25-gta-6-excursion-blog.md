@@ -3,7 +3,6 @@ title: "GTA 6: The Most Anticipated Game of the Decade"
 slug: "gta-6-excursion-blog"
 description: "A slight detour from our usual productivity topics. Why Grand Theft Auto VI is not just a video game, but a monumental cultural event worth discussing."
 publishDate: 2026-07-25
-updatedDate: 2026-07-25
 author: "Mehdi"
 image: "./25-gta-6-excursion.png"
 imageAlt: "A vibrant, neon-drenched view of Vice City at sunset"

@@ -3,7 +3,6 @@ title: "Best Kindle for Kids 2026: Safe, Simple & Affordable"
 slug: "best-kindle-for-kids"
 description: "The best Kindle for kids in 2026: which Kids edition to buy, what's included, and how it compares to a tablet, with a clear pick for every age and budget."
 publishDate: 2026-09-30
-updatedDate: 2026-09-30
 author: "Mehdi"
 image: "./30-best-kindle-for-kids.webp"
 imageAlt: "A child reading on a Kindle Kids edition with a colorful protective cover"

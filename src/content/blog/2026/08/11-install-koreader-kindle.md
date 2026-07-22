@@ -3,7 +3,6 @@ title: "How to Install KOReader on a Kindle (2026 Guide)"
 slug: "install-koreader-kindle"
 description: "Step-by-step 2026 guide to installing KOReader on a jailbroken Kindle: prerequisites, the safe install method, EPUB and PDF support, and the risks."
 publishDate: 2026-08-11
-updatedDate: 2026-08-11
 author: "Mehdi"
 image: "./11-install-koreader-kindle.webp"
 imageAlt: "A Kindle running KOReader showing the document library menu"

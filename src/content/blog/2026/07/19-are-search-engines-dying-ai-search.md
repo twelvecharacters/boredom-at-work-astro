@@ -3,7 +3,6 @@ title: "Are Search Engines Dying? How AI Is Replacing Search in 2026"
 slug: "are-search-engines-dying-ai-search"
 description: "Is AI killing traditional search engines? We explore how ChatGPT, Perplexity, and AI overviews are fundamentally changing how we find information online."
 publishDate: 2026-07-19
-updatedDate: 2026-07-19
 author: "Mehdi"
 image: "./19-are-search-engines-dying.png"
 imageAlt: "A glowing magnifying glass dissolving into digital data particles, representing the transition from traditional search to AI"

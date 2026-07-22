@@ -3,7 +3,6 @@ title: "Kindle Scribe vs reMarkable 2026: Which Should You Buy?"
 slug: "kindle-scribe-vs-remarkable"
 description: "Kindle Scribe vs reMarkable in 2026: price, note-taking, reading, and ecosystem compared, with a clear pick for writers, readers, and everyone in between."
 publishDate: 2026-09-24
-updatedDate: 2026-09-24
 author: "Mehdi"
 image: "./24-kindle-scribe-vs-remarkable.webp"
 imageAlt: "A Kindle Scribe and a reMarkable tablet side by side, each with a stylus"

@@ -2,7 +2,6 @@
 title: "SEO in 2026: How to Rank in the Age of AI Search"
 description: "Traditional keyword SEO is dead. Learn how to rank in 2026 with generative engine optimization: search intent, semantic content, and answers AI will cite."
 publishDate: "2026-08-01"
-updatedDate: "2026-08-01"
 author: "Mehdi"
 image: "./01-seo-and-ai.png"
 imageAlt: "A colorful abstract representation of artificial intelligence intersecting with search engine optimization."

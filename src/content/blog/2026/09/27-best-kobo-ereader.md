@@ -3,7 +3,6 @@ title: "Best Kobo E-Reader 2026: Which Model Should You Buy?"
 slug: "best-kobo-ereader"
 description: "The best Kobo e-reader in 2026 compared: Clara BW, Clara Colour, Libra Colour, Sage, and Elipsa 2E, with prices and a clear pick for every kind of reader."
 publishDate: 2026-09-27
-updatedDate: 2026-09-27
 author: "Mehdi"
 image: "./27-best-kobo-ereader.webp"
 imageAlt: "Several Kobo e-readers of different sizes arranged side by side"

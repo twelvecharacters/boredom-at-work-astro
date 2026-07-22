@@ -3,7 +3,6 @@ title: "The Best Programming Languages to Learn in 2026 for Every Goal"
 slug: "best-programming-languages-to-learn-in-2026"
 description: "Discover the best programming languages to learn in 2026. From Python for AI to Rust for performance, find the right language for your career."
 publishDate: 2026-07-18
-updatedDate: 2026-07-18
 author: "Mehdi"
 image: "./18-programming-languages-to-learn-in-2026.png"
 imageAlt: "A futuristic setup of code screens and a glowing keyboard representing programming languages in 2026"

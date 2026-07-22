@@ -3,7 +3,6 @@ title: "Best Kindle for Seniors 2026: Easy Reading for Older Eyes"
 slug: "best-kindle-for-seniors"
 description: "The best Kindle for seniors in 2026: bigger screen, adjustable fonts, warm light, and simple setup. Our top picks for older readers, plus what to look for."
 publishDate: 2026-09-21
-updatedDate: 2026-09-21
 author: "Mehdi"
 image: "./21-best-kindle-for-seniors.webp"
 imageAlt: "An e-reader held in older hands, showing a page of large, easy-to-read text"
