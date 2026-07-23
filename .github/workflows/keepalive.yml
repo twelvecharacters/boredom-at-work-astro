@@ -14,8 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       actions: write
+      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/keepalive-workflow@v2
+      - uses: actions/checkout@v7
+      - uses: liskin/gh-workflow-keepalive@v1
         with:
           time_elapsed: 45
