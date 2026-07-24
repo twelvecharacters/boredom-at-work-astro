@@ -77,6 +77,11 @@
       declineBtn.addEventListener('click', function() {
         updateConsent(false);
       });
+
+      // Global window method to reopen banner
+      window.openCookieBanner = function() {
+        banner.classList.remove('translate-y-full', 'opacity-0', 'pointer-events-none');
+      };
     }
 
     if (document.readyState === 'loading') {

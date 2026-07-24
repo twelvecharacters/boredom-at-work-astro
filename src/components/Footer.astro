@@ -85,10 +85,17 @@ const currentYear = new Date().getFullYear();
       <p class="text-white/60 text-sm">
         &copy; {currentYear} {SITE.title}. All rights reserved.
       </p>
-      <div class="flex gap-4 text-sm">
+      <div class="flex gap-4 text-sm items-center">
         <a href="/privacy-policy" class="text-white/60 hover:text-white transition-colors">Privacy Policy</a>
         <span class="text-white/40">|</span>
         <a href="/imprint" class="text-white/60 hover:text-white transition-colors">Legal Notice</a>
+        <span class="text-white/40">|</span>
+        <button
+          onclick="window.openCookieBanner && window.openCookieBanner()"
+          class="text-white/60 hover:text-white transition-colors cursor-pointer bg-transparent border-0 p-0 text-sm font-normal"
+        >
+          Cookie Preferences
+        </button>
       </div>
     </div>
   </div>
