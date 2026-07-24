@@ -143,7 +143,6 @@ blogDates.set('https://boredom-at-work.com/', mostRecentDate);
 blogDates.set('https://boredom-at-work.com/blog/', mostRecentDate);
 
 import expressiveCode from 'astro-expressive-code';
-import compress from 'astro-compress';
 
 // https://astro.build/config
 export default defineConfig({
@@ -202,12 +201,6 @@ export default defineConfig({
       }
     }),
     mdx(),
-    compress({
-      HTML: true,
-      CSS: true,
-      JavaScript: true,
-      Image: false, // Sharp is already handling images natively via Astro
-    }),
   ],
   redirects: {
     '/learning-paths': '/ai-learning-hub/',
