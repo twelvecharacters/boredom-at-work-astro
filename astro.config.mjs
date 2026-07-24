@@ -142,6 +142,9 @@ const mostRecentDate = [...blogDates.values()].sort().pop() || new Date().toISOS
 blogDates.set('https://boredom-at-work.com/', mostRecentDate);
 blogDates.set('https://boredom-at-work.com/blog/', mostRecentDate);
 
+import expressiveCode from 'astro-expressive-code';
+import compress from 'astro-compress';
+
 // https://astro.build/config
 export default defineConfig({
   site: 'https://boredom-at-work.com',
@@ -172,24 +175,40 @@ export default defineConfig({
     ],
   },
 
-  integrations: [partytown({
-    config: {
-      forward: ['dataLayer.push'],
-    },
-  }), sitemap({
-    filter: (page) =>
-      // Exclude tag pages
-      !page.includes('/tags/') &&
-      // Exclude archive pages (noindexed)
-      !page.includes('/archive/') &&
-      // Exclude paginated blog pages (keep /blog/ but not /blog/2/, /blog/3/, etc.)
-      !/\/blog\/\d+\/?$/.test(page),
-    serialize(item) {
-      const lastmod = blogDates.get(item.url);
-      if (lastmod) item.lastmod = lastmod;
-      return item;
-    }
-  }), mdx()],
+  integrations: [
+    expressiveCode({
+      themes: ['github-dark'],
+      styleOverrides: {
+        borderRadius: '0.5rem',
+      },
+    }),
+    partytown({
+      config: {
+        forward: ['dataLayer.push'],
+      },
+    }),
+    sitemap({
+      filter: (page) =>
+        // Exclude tag pages
+        !page.includes('/tags/') &&
+        // Exclude archive pages (noindexed)
+        !page.includes('/archive/') &&
+        // Exclude paginated blog pages (keep /blog/ but not /blog/2/, /blog/3/, etc.)
+        !/\/blog\/\d+\/?$/.test(page),
+      serialize(item) {
+        const lastmod = blogDates.get(item.url);
+        if (lastmod) item.lastmod = lastmod;
+        return item;
+      }
+    }),
+    mdx(),
+    compress({
+      HTML: true,
+      CSS: true,
+      JavaScript: true,
+      Image: false, // Sharp is already handling images natively via Astro
+    }),
+  ],
   redirects: {
     '/learning-paths': '/ai-learning-hub/',
     '/learning-paths/ai-mastery': '/ai-learning-hub/',
