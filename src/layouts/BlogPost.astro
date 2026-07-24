@@ -319,6 +319,26 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
     "inLanguage": "en-US"
   })} />
 
+  <!-- Schema.org BreadcrumbList Markup -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": new URL('/', Astro.site).toString()
+      },
+      ...breadcrumbItems.map((item, index) => ({
+        "@type": "ListItem",
+        "position": index + 2,
+        "name": item.name,
+        "item": new URL(item.url, Astro.site).toString()
+      }))
+    ]
+  })} />
+
   {faq && faq.length > 0 && <FaqSchema faqs={faq} />}
 
   {review && (
