@@ -4,6 +4,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import ReadingProgressBar from '../components/ReadingProgressBar.astro';
 import ScrollToTop from '../components/ScrollToTop.astro';
+import CookieBanner from '../components/CookieBanner.astro';
 import Analytics from '../components/Analytics.astro';
 import logo from '../assets/images/logo.webp';
 import ogDefault from '../assets/images/og-default.webp';
@@ -209,5 +210,6 @@ const socialImageURL = new URL(socialImagePath, Astro.site);
       window.addEventListener('load', init);
     </script>
     <ScrollToTop />
+    <CookieBanner />
   </body>
 </html>

@@ -4,6 +4,19 @@
 <script type="text/partytown">
   window.dataLayer = window.dataLayer || [];
   window.gtag = function gtag(){dataLayer.push(arguments);}
+
+  // Google Consent Mode v2 - Default to DENIED until explicit consent
+  var savedConsent = typeof localStorage !== 'undefined' ? localStorage.getItem('cookie_consent') : null;
+  var consentState = savedConsent === 'granted' ? 'granted' : 'denied';
+
+  gtag('consent', 'default', {
+    'analytics_storage': consentState,
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'wait_for_update': 500
+  });
+
   gtag('js', new Date());
   gtag('config', 'GT-PL3RVFQX');
 
