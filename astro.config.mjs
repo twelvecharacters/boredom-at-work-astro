@@ -125,6 +125,23 @@ function rehypeResponsiveTables() {
 }
 
 
+// Rehype plugin to automatically add loading="lazy" and decoding="async" to all in-article images
+function rehypeLazyLoadImages() {
+  return (tree) => {
+    visit(tree, 'element', (node) => {
+      if (node.tagName === 'img') {
+        node.properties = node.properties || {};
+        if (!node.properties.loading) {
+          node.properties.loading = 'lazy';
+        }
+        if (!node.properties.decoding) {
+          node.properties.decoding = 'async';
+        }
+      }
+    });
+  };
+}
+
 // Sponsored partner domains. Links to these get rel="sponsored" instead of nofollow
 // per Google guidelines for paid placements. Add new sponsors here.
 const SPONSORED_DOMAINS = [
@@ -157,6 +174,7 @@ export default defineConfig({
     remarkPlugins: [remarkFilterUnpublishedLinks],
     rehypePlugins: [
       rehypeResponsiveTables,
+      rehypeLazyLoadImages,
       [rehypeExternalLinks, {
         target: '_blank',
         rel: (element) => {
