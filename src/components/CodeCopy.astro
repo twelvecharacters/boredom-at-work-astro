@@ -8,7 +8,7 @@
     const article = document.querySelector('.prose');
     if (!article) return;
     article.querySelectorAll('pre').forEach((block) => {
-      if (block.querySelector('.copy-button')) return;
+      if (block.closest('.expressive-code') || block.querySelector('.copy-button')) return;
 
       const button = document.createElement('button');
       button.className = 'copy-button absolute top-3 right-3 flex items-center gap-1.5 px-3 py-1.5 bg-white/80 hover:bg-white border border-primary/20 hover:border-accent text-primary/60 hover:text-accent rounded-md transition-all duration-200 shadow-sm backdrop-blur-sm z-10 font-sans text-xs font-semibold';

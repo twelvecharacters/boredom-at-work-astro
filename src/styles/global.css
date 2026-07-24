@@ -182,32 +182,32 @@
       @apply list-decimal;
     }
 
-    pre {
+    pre:not(.expressive-code pre) {
       @apply my-6 overflow-x-auto relative;
-      background-color: #f6f8fa !important;
+      background-color: #f6f8fa;
       border: 1px solid #e1e4e8;
       border-radius: 0.75rem;
       padding: 1.25rem 1.5rem;
       box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 
       code {
-        display: block !important;
-        background: none !important;
-        border: none !important;
-        padding: 0 !important;
-        margin: 0 !important;
-        font-family: "JetBrains Mono", "Fira Code", "Menlo", "Monaco", "Consolas", monospace !important;
-        font-size: 0.875rem !important;
-        line-height: 1.75 !important;
-        white-space: pre !important;
-        word-wrap: normal !important;
+        display: block;
+        background: none;
+        border: none;
+        padding: 0;
+        margin: 0;
+        font-family: "JetBrains Mono", "Fira Code", "Menlo", "Monaco", "Consolas", monospace;
+        font-size: 0.875rem;
+        line-height: 1.75;
+        white-space: pre;
+        word-wrap: normal;
       }
     }
 
-    code {
+    code:not(pre code):not(.expressive-code *) {
       @apply px-1.5 py-0.5 rounded font-mono text-sm;
-      background-color: #f0f0f0 !important;
-      color: #24292e !important;
+      background-color: #f0f0f0;
+      color: #24292e;
       border: 1px solid #d1d5db;
     }
 
