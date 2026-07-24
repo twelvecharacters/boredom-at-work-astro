@@ -61,41 +61,70 @@ const shareLinks = [
       title="Copy link"
     >
       <span class="share-icon" data-name="link"></span>
-      Copy Link
+      <span class="share-label">Copy Link</span>
     </button>
   </div>
 </div>
 
-<script>
-  function setupSocialShare() {
-    const copyBtn = document.getElementById('copy-link-btn');
-    if (!copyBtn) return;
+<script is:inline>
+  (function() {
+    function initSocialShare() {
+      var copyBtn = document.getElementById('copy-link-btn');
+      if (!copyBtn || copyBtn.dataset.bound) return;
+      copyBtn.dataset.bound = 'true';
 
-    copyBtn.addEventListener('click', async () => {
-      const url = copyBtn.getAttribute('data-url');
-      if (!url) return;
-
-      try {
-        await navigator.clipboard.writeText(url);
-        const originalText = copyBtn.innerHTML;
-        copyBtn.innerHTML = '<span class="share-icon" data-name="check"></span> Copied!';
-        copyBtn.style.backgroundColor = 'var(--btn-color)';
-        copyBtn.style.color = 'white';
+      copyBtn.addEventListener('click', function() {
+        var url = copyBtn.getAttribute('data-url') || window.location.href;
         
-        setTimeout(() => {
-          copyBtn.innerHTML = originalText;
-          copyBtn.style.backgroundColor = '';
-          copyBtn.style.color = '';
-        }, 2000);
-      } catch (err) {
-        console.error('Failed to copy link:', err);
-      }
-    });
-  }
+        function showSuccess() {
+          var label = copyBtn.querySelector('.share-label');
+          var icon = copyBtn.querySelector('.share-icon');
+          if (label) label.textContent = 'Copied!';
+          if (icon) icon.setAttribute('data-name', 'check');
+          copyBtn.style.backgroundColor = '#833AB4';
+          copyBtn.style.color = 'white';
 
-  // astro:page-load fires on the initial load and after every View Transition,
-  // so it alone covers first render without double-binding the copy listener.
-  document.addEventListener('astro:page-load', setupSocialShare);
+          setTimeout(function() {
+            if (label) label.textContent = 'Copy Link';
+            if (icon) icon.setAttribute('data-name', 'link');
+            copyBtn.style.backgroundColor = '';
+            copyBtn.style.color = '';
+          }, 2000);
+        }
+
+        if (navigator.clipboard && window.isSecureContext) {
+          navigator.clipboard.writeText(url).then(showSuccess).catch(function() {
+            fallbackCopy(url);
+          });
+        } else {
+          fallbackCopy(url);
+        }
+
+        function fallbackCopy(text) {
+          var textArea = document.createElement('textarea');
+          textArea.value = text;
+          textArea.style.position = 'fixed';
+          textArea.style.opacity = '0';
+          document.body.appendChild(textArea);
+          textArea.focus();
+          textArea.select();
+          try {
+            document.execCommand('copy');
+            showSuccess();
+          } catch (err) {
+            console.error('Copy fallback failed', err);
+          }
+          document.body.removeChild(textArea);
+        }
+      });
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initSocialShare);
+    } else {
+      initSocialShare();
+    }
+  })();
 </script>
 
 <style>
@@ -103,6 +132,7 @@ const shareLinks = [
     border: 1px solid var(--btn-color);
     color: var(--btn-color);
     background: transparent;
+    cursor: pointer;
   }
 
   .share-btn:hover {

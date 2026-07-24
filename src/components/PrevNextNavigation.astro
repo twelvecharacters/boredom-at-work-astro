@@ -1,0 +1,63 @@
+---
+import { getPublishedPosts, getPostSlug } from '../utils/blog';
+
+interface Props {
+  currentSlug: string;
+}
+
+const { currentSlug } = Astro.props;
+
+const allPosts = await getPublishedPosts();
+const currentIndex = allPosts.findIndex(post => getPostSlug(post) === currentSlug);
+
+// allPosts is sorted descending by publishDate (newest first)
+// Newer post is at currentIndex - 1, older post is at currentIndex + 1
+const prevPost = currentIndex < allPosts.length - 1 ? allPosts[currentIndex + 1] : null; // Older
+const nextPost = currentIndex > 0 ? allPosts[currentIndex - 1] : null; // Newer
+---
+
+{(prevPost || nextPost) && (
+  <nav aria-label="Article navigation" class="mt-12 pt-8 border-t border-primary/10">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      {prevPost ? (
+        <a
+          href={`/${getPostSlug(prevPost)}/`}
+          class="group flex items-center gap-4 p-4 rounded-2xl bg-white border border-gray-100 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-300 text-left"
+        >
+          <div class="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent flex-shrink-0 group-hover:bg-accent group-hover:text-white transition-colors">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="19" y1="12" x2="5" y2="12"></line>
+              <polyline points="12 19 5 12 12 5"></polyline>
+            </svg>
+          </div>
+          <div class="min-w-0">
+            <span class="text-xs font-semibold text-text-light uppercase tracking-wider block mb-1">Previous Article</span>
+            <span class="text-sm font-bold text-gray-900 group-hover:text-accent transition-colors line-clamp-1">
+              {prevPost.data.title}
+            </span>
+          </div>
+        </a>
+      ) : <div />}
+
+      {nextPost ? (
+        <a
+          href={`/${getPostSlug(nextPost)}/`}
+          class="group flex items-center gap-4 p-4 rounded-2xl bg-white border border-gray-100 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-300 text-right justify-end md:ml-auto w-full"
+        >
+          <div class="min-w-0">
+            <span class="text-xs font-semibold text-text-light uppercase tracking-wider block mb-1">Next Article</span>
+            <span class="text-sm font-bold text-gray-900 group-hover:text-accent transition-colors line-clamp-1">
+              {nextPost.data.title}
+            </span>
+          </div>
+          <div class="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent flex-shrink-0 group-hover:bg-accent group-hover:text-white transition-colors">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+              <polyline points="12 5 19 12 12 19"></polyline>
+            </svg>
+          </div>
+        </a>
+      ) : <div />}
+    </div>
+  </nav>
+)}

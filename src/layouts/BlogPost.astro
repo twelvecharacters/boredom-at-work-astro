@@ -17,6 +17,7 @@ import HowToSchema from '../components/HowToSchema.astro';
 import SoftwareAppSchema from '../components/SoftwareAppSchema.astro';
 import CourseSchema from '../components/CourseSchema.astro';
 import AuthorBio from '../components/AuthorBio.astro';
+import PrevNextNavigation from '../components/PrevNextNavigation.astro';
 import PortfolioAnalyzer from '../components/tools/PortfolioAnalyzer.astro';
 import EarningsPromptKit from '../components/tools/EarningsPromptKit.astro';
 import ScreenerCostCalculator from '../components/tools/ScreenerCostCalculator.astro';
@@ -233,6 +234,9 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
 
         <!-- Social Share Buttons -->
         <SocialShare title={title} description={description} />
+
+        <!-- Previous & Next Article Navigation -->
+        <PrevNextNavigation currentSlug={getPostSlug(post)} />
 
         <!-- Author Bio -->
         <AuthorBio />
