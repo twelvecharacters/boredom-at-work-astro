@@ -5,9 +5,9 @@
   window.dataLayer = window.dataLayer || [];
   window.gtag = function gtag(){dataLayer.push(arguments);}
 
-  // Google Consent Mode v2 - Default to DENIED until explicit consent
+  // Google Consent Mode v2 - Default to GRANTED unless explicitly denied
   var savedConsent = typeof localStorage !== 'undefined' ? localStorage.getItem('cookie_consent') : null;
-  var consentState = savedConsent === 'granted' ? 'granted' : 'denied';
+  var consentState = savedConsent === 'denied' ? 'denied' : 'granted';
 
   gtag('consent', 'default', {
     'analytics_storage': consentState,
