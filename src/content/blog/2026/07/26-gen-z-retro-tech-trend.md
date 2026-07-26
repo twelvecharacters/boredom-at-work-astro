@@ -1,5 +1,5 @@
 ---
-title: "Gen Z Is Ditching AirPods for Vintage Digital Cameras"
+title: "Gen Z Retro Tech Trend: Vintage Cameras & Wired Earphones"
 slug: "gen-z-retro-tech-trend"
 description: "Explore the growing trend of Gen Z embracing vintage digital cameras and wired earphones. Understand the cultural shift away from algorithmic perfection."
 publishDate: "2026-07-26"
