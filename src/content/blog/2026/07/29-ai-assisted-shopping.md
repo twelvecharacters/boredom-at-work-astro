@@ -4,7 +4,7 @@ slug: "ai-assisted-shopping-guide"
 description: "Discover how AI assisted shopping is revolutionizing e-commerce in 2026. Learn to use AI tools for smarter product research, price tracking, and better deals."
 publishDate: 2026-07-29
 author: "Mehdi"
-image: "./29-ai-assisted-shopping.webp"
+image: "./29-ai-assisted-shopping.png"
 imageAlt: "A person using a smartphone showing an AI assistant interface overlaid on a shopping app"
 tags: ["AI Tools", "Tech & Gadgets", "Productivity"]
 draft: false
