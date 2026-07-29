@@ -6,7 +6,7 @@ publishDate: 2026-07-30
 author: "Mehdi"
 tags: ["Tech & Gadgets", "Apple", "Smartphones", "Review"]
 draft: false
-image: "./30-rumored-iphone-fold.webp"
+image: "./30-rumored-iphone-fold.png"
 imageAlt: "A sleek conceptual Apple foldable smartphone showing an inner folding OLED display and metal hinge"
 faq:
   - question: "Is Apple working on a foldable iPhone?"
