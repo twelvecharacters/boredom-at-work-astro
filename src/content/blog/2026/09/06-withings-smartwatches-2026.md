@@ -2,11 +2,11 @@
 title: "Withings Smartwatches in 2026: Lineup & Rumors"
 slug: "withings-smartwatches-2026-guide"
 description: "A comprehensive guide to Withings hybrid smartwatches in 2026. We review the ScanWatch 2 and Nova, and explore when to expect the next release."
-publishDate: 2026-07-30
+publishDate: 2026-09-06
 author: "Mehdi"
 tags: ["Tech & Gadgets", "Health", "Review"]
 draft: false
-image: "./30-withings-smartwatches-2026.png"
+image: "./06-withings-smartwatches-2026.png"
 imageAlt: "A sleek Withings hybrid smartwatch resting on a wooden desk"
 faq:
   - question: "When is the next Withings smartwatch coming out?"
