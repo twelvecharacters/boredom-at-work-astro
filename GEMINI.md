@@ -19,6 +19,7 @@ This document outlines the foundational standards and architectural goals for th
 - **Slug Management:** Favor the explicit `slug` field in blog frontmatter over directory-based IDs.
 - **Internal Linking:** Actively generate internal links, but ONLY point to preceding/previously published articles (never to future-dated ones) to avoid dead ends. Ensure no dead links. The `remarkFilterUnpublishedLinks` plugin in `astro.config.mjs` prevents leaking links to draft or future-dated content. Structure clusters with clear intent to avoid keyword cannibalization.
 - **Language & Formatting:** Always use **American English** (e.g., "color", "realize", "center"). Strictly avoid em-dashes (—); use commas or parentheses instead per the repo's em-dash-free rule.
+- **No ASCII Diagrams:** Strictly avoid ASCII art boxes, ASCII diagrams, or text-based drawings in articles. Use standard Markdown tables, styled blockquotes, or bulleted lists instead for clean mobile and desktop rendering.
 - **Quality Standard:** NO "thin content" is allowed. ALL posts MUST be at least **1600+ words**.
 
 ### Styling & CSS
