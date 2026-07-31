@@ -31,20 +31,11 @@ The paper trail for an Apple foldable dates back further than many realize. As e
 
 Initially, rumors were split on which direction Apple would choose for its first flexible device. Industry observers debated whether Apple would release a compact clamshell device (an "iPhone Flip") similar to the Galaxy Z Flip, or a large book-style foldable (an "iPhone Fold") that opens into a tablet-sized inner display. Recent supply chain tracking from prominent industry analysts, including Ming-Chi Kuo and Display Supply Chain Consultants (DSCC) chief Ross Young, suggests Apple shifted its core development focus toward the larger book-style hybrid form factor.
 
-```
-+-------------------------------------------------------------------+
-|                  EVOLUTION OF FOLDABLE PHONE TECH                 |
-+-------------------------------------------------------------------+
-|  Generation 1 (2019-2021)  | Plastic screens, visible deep crease, |
-|                            | delicate hinges, fragile build        |
-+----------------------------+--------------------------------------+
-|  Generation 2 (2022-2024)  | Early UTG glass, waterdrop hinges,   |
-|                            | IPX8 waterproofing added             |
-+----------------------------+--------------------------------------+
-|  Generation 3 (2025-2026+) | Zero-crease target, liquid metal,    |
-|                            | ultra-thin chassis, hybrid OS scaling |
-+-------------------------------------------------------------------+
-```
+| Generation | Timeline | Key Characteristics & Friction Points |
+| :--- | :--- | :--- |
+| **Generation 1** | 2019–2021 | Plastic screens, visible deep crease, delicate hinges, fragile build |
+| **Generation 2** | 2022–2024 | Early UTG glass, waterdrop hinges, IPX8 waterproofing added |
+| **Generation 3** | 2025–2026+ | Zero-crease target, liquid metal, ultra-thin chassis, hybrid OS scaling |
 
 Apple's reluctance to launch a foldable earlier stems directly from strict internal quality control thresholds. Reports indicate that Apple executives refused to sign off on early prototypes due to two major dealbreakers: display creasing and device thickness. While competitor foldables have made significant strides, early iterations suffered from deep horizontal or vertical grooves along the fold line, as well as bulky profiles when closed. Apple appears determined not to release a foldable until the display is visually seamless and the chassis remains as sleek as a standard iPhone Pro Max.
 
@@ -58,19 +49,11 @@ Traditional rigid smartphones use thick sheets of chemically strengthened cover 
 
 Apple's patent filings outline a sophisticated approach to UTG construction. Rather than relying on a uniform layer of thin glass, Apple's designs feature a variable-thickness glass substrate. The glass is chemically etched along the folding axis to be micro-thin, allowing for a tight bend radius, while remaining thicker near the outer edges to provide structural rigidity against drops and impacts.
 
-```
-          [ CROSS-SECTION OF APPLE CREASE-FREE DISPLAY PATENT ]
-
-      +-------------------------------------------------------------+
-      |  Self-Healing Elastomeric Top Layer                         |
-      +-------------------------------------------------------------+
-      |  Variable Thickness UTG (Thinner at Center Axis)            |
-      +-------------------------\       /---------------------------+
-      |  Liquid Metal Filler     \_____/   Micro-Strut Support Matrix |
-      +-------------------------------------------------------------+
-      |  Flexible OLED Panel & Touch Sensor Layer                   |
-      +-------------------------------------------------------------+
-```
+> **Apple Crease-Free Display Patent Architecture:**
+> 1. **Self-Healing Elastomeric Top Layer:** Recovers from surface scratches and minor micro-indentations.
+> 2. **Variable-Thickness UTG:** Ultra-thin along the central axis for smooth bending, thicker on outer edges.
+> 3. **Liquid Metal Filler & Micro-Struts:** Spring-loaded support plates and liquid metal fill the central channel to prevent sagging.
+> 4. **Flexible OLED & Touch Sensor Matrix:** Base display layer engineered for multi-million bend longevity.
 
 To prevent the center channel from sagging or forming a groove over time, the patent describes a liquid metal or elastomeric filler placed underneath the glass along the hinge axis. When the device is opened flat, spring-loaded support plates push upward against the display panel, leveling out the surface so the seam becomes imperceptible to both the eye and the fingertip.
 
@@ -88,20 +71,16 @@ Sources familiar with prototype testing suggest the iPhone Fold will feature a d
 
 If the display is the heart of a foldable, the hinge is its spine. Designing a hinge capable of surviving 300,000 fold cycles while keeping out dust, lint, and moisture is one of the toughest mechanical engineering challenges in modern consumer electronics.
 
-```
-+------------------------------------------------------------------+
-|                   IPHONE FOLD HARDWARE SPECIFICATIONS            |
-+------------------------------------------------------------------+
-| Display (Outer)    | 6.1-inch ProMotion OLED (1-120Hz)           |
-| Display (Inner)    | 8.1-inch Seamless Foldable OLED (1-120Hz)    |
-| Chassis Material   | Grade 5 Titanium Outer Frame + Ceramic Glass |
-| Hinge Mechanism    | Multi-Pivot Waterdrop Hinge with Liquid Metal|
-| Processor          | A20 Pro / M-Series Custom Apple Silicon     |
-| Camera System      | Triple-Lens Array + Under-Display Interior  |
-| Biometrics         | Touch ID Power Button + Under-Display Face ID|
-| Battery            | Dual-Cell Split Battery Architecture         |
-+------------------------------------------------------------------+
-```
+| Feature / Component | Expected Specification |
+| :--- | :--- |
+| **Outer Display** | 6.1-inch ProMotion OLED (1–120Hz) |
+| **Inner Display** | 8.1-inch Seamless Foldable OLED (1–120Hz) |
+| **Chassis Material** | Grade 5 Titanium Outer Frame + Ceramic Glass |
+| **Hinge Mechanism** | Multi-Pivot Waterdrop Hinge with Liquid Metal |
+| **Processor** | A20 Pro / M-Series Custom Apple Silicon |
+| **Camera System** | Triple-Lens Array + Under-Display Interior Camera |
+| **Biometrics** | Touch ID Power Button + Under-Display Face ID |
+| **Battery** | Dual-Cell Split Battery Architecture |
 
 Apple has reportedly prototyped several hinge mechanisms, moving away from complex gear-heavy structures toward multi-pivot waterdrop hinges. A waterdrop hinge allows the inner display to form a teardrop shape inside the body when closed. This avoids pinching the glass at an acute angle, reducing mechanical stress on the OLED layer and allowing the two halves of the phone to fold completely flat without a visible gap.
 
@@ -123,21 +102,14 @@ The iPhone Fold is rumored to feature Apple's next-generation silicon, built on 
 
 The chip will need to manage independent display controllers, smoothly transitioning app states between the small outer cover screen and the expansive inner panel without dropping frames. Furthermore, on-device AI processing will play a central role, leveraging high-efficiency Neural Engine cores to execute complex language model tasks locally.
 
-```
-+------------------------------------------------------------------+
-|                   DUAL-CELL BATTERY CONFIGURATION                |
-+------------------------------------------------------------------+
-| [ Left Wing Chassis ]                 [ Right Wing Chassis ]     |
-| +-------------------------+           +------------------------+ |
-| | Battery Cell A (2200mAh)| <==Hinge==> | Battery Cell B (2600mAh)| |
-| | Power Management Chip   |  Bus Cable| A-Series Processor     | |
-| +-------------------------+           +------------------------+ |
-+------------------------------------------------------------------+
-```
-
 ### Dual-Cell Battery System
 
-To maintain balanced weight distribution and maximize internal volume, Apple is implementing a dual-cell split battery design. One battery cell resides in the left wing of the chassis, while the second cell resides in the right wing, connected via a flexible power bus routed through the central hinge. Combined battery capacity is expected to range between 4,800 mAh and 5,200 mAh, providing all-day battery life despite the power demands of the large 8-inch internal display.
+To maintain balanced weight distribution and maximize internal volume, Apple is implementing a dual-cell split battery design:
+- **Left Wing Chassis:** Houses **Battery Cell A (~2,200 mAh)** alongside dedicated power management circuitry.
+- **Right Wing Chassis:** Houses **Battery Cell B (~2,600 mAh)** alongside the main Apple Silicon processor.
+- **Central Hinge Routing:** A flexible power bus cable connects both wings across the hinge mechanism seamlessly.
+
+Combined battery capacity is expected to range between 4,800 mAh and 5,200 mAh, providing all-day battery life despite the power demands of the large 8-inch internal display.
 
 ### Camera Modules: Overcoming Physical Limits
 
@@ -149,20 +121,11 @@ Apple is rumored to equip the outer cover of the iPhone Fold with a triple-lens 
 
 Hardware innovation is only half the equation. The success of an Apple foldable will ultimately hinge on software integration. A folding hardware design is useless if the operating system treats the inner screen merely as a blown-up smartphone view.
 
-```
-+-------------------------------------------------------------------+
-|               EXPECTED FOLDABLE IOS MULTITASKING                  |
-+-------------------------------------------------------------------+
-| +-------------------------------+ +-----------------------------+ |
-| |                               | | Primary App   | Secondary   | |
-| |                               | | (e.g. Notes)  | App         | |
-| |    Closed: Standard iOS       | |               | (Safari)    | |
-| |    Single Window Display      | |---------------+-------------| |
-| |                               | |   Shared AI Context Shelf   | |
-| +-------------------------------+ +-----------------------------+ |
-|        [ Cover Screen ]                  [ Unfolded Inner Canvas ] |
-+-------------------------------------------------------------------+
-```
+| Mode | Display Canvas | Expected iOS Behavior & Layout |
+| :--- | :--- | :--- |
+| **Folded State** | Cover Screen | Standard single-window iOS interface optimized for one-handed use |
+| **Unfolded State** | Inner Canvas | Dual-column layout with shared AI Context Shelf & drag-and-drop support |
+| **Flex Mode (90°)** | Split Horizontal | Top screen displays content/video; bottom half morphs into trackpad or controls |
 
 Apple is reportedly developing a tailored version of iOS (incorporating key productivity elements from iPadOS) specifically designed for flexible screen geometries. Potential software features include:
 
@@ -177,18 +140,12 @@ As operating systems grow more integrated across desktop and mobile form factors
 
 Acquiring a foldable smartphone has never been cheap, and an Apple-branded foldable will undoubtedly sit at the apex of premium pricing.
 
-```
-+-------------------------------------------------------------------+
-|                    PRICING LANDSCAPE COMPARISON                   |
-+-------------------------------------------------------------------+
-| Device Model                       | Estimated / Actual Retail    |
-+------------------------------------+------------------------------+
-| iPhone Pro Max (512GB)             | $1,399                       |
-| Samsung Galaxy Z Fold 6 / 7        | $1,899                       |
-| Google Pixel Fold 2 / 3            | $1,799                       |
-| Rumored iPhone Fold (Base Tier)    | $1,899 - $2,199              |
-+-------------------------------------------------------------------+
-```
+| Device Model | Form Factor | Estimated / Actual Retail Price |
+| :--- | :--- | :--- |
+| **iPhone Pro Max (512GB)** | Flagship Slab | $1,399 |
+| **Samsung Galaxy Z Fold 6 / 7** | Book Foldable | $1,899 |
+| **Google Pixel Fold 2 / 3** | Book Foldable | $1,799 |
+| **Rumored iPhone Fold** | Book Foldable | **$1,899 – $2,199** |
 
 ### Pricing Analysis
 
@@ -209,20 +166,11 @@ Apple is clearly in no hurry to rush an unrefined product to store shelves. The 
 
 With a rumored launch window spanning late 2026 into 2027 and a price tag approaching two thousand dollars, should you hold off on upgrading your current smartphone?
 
-```
-+-------------------------------------------------------------------+
-|                DECISION MATRIX: SHOULD YOU WAIT?                  |
-+-------------------------------------------------------------------+
-| WAIT FOR IPHONE FOLD IF:           | BUY CURRENT FLAGSHIP IF:     |
-+------------------------------------+------------------------------+
-| * You want an iPad-sized screen    | * You need a reliable phone  |
-|   that fits in your pocket.        |   today for work/daily use.  |
-| * Budget is not a constraint and   | * You dislike heavy devices  |
-|   you want cutting-edge tech.      |   or mechanical hinges.      |
-| * Mobile multitasking & multi-app  | * You prefer straightforward |
-|   workflows are central to work.   |   flat glass durability.     |
-+-------------------------------------------------------------------+
-```
+| Wait for iPhone Fold if: | Buy a Current Flagship if: |
+| :--- | :--- |
+| You want an iPad-sized screen that fits in your pocket | You need a reliable phone today for work/daily use |
+| Budget is not a constraint and you want cutting-edge tech | You dislike heavy devices or mechanical hinges |
+| Mobile multitasking & multi-app workflows are central | You prefer straightforward flat glass durability |
 
 For most consumers, waiting two years for a rumored, high-cost first-generation product is impractical. Modern slab smartphones like the iPhone 15 Pro, iPhone 16 Pro, and current Android flagships offer extraordinary battery life, world-class cameras, and immaculate displays at a fraction of the cost.
 
