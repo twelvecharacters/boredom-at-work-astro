@@ -36,6 +36,8 @@ After testing every major option, here's what actually works.
 | **tl;dv** | Video clips | Free/~$18/mo | Shareable highlights |
 | **Tactiq** | Google Meet | Free/$12/mo | Chrome extension |
 
+> **🆕 A Different Category: [OLVA](#olva-a-different-category-real-time-in-conversation-assistance).** The six tools above are note-takers that help *after* the meeting. OLVA is the one option here that works *during* the conversation, detecting questions and surfacing live answers, coaching, and fact-checks in real time, without joining as a bot. It is a genuinely different kind of tool, with real trade-offs worth understanding. [Jump to the full breakdown below.](#olva-a-different-category-real-time-in-conversation-assistance)
+
 ## How AI Meeting Assistants Work
 
 1. **They join your call**, As a bot participant or browser extension
