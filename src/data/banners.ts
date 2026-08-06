@@ -21,7 +21,7 @@ export const BANNERS: BannerConfig[] = [
     altText: "CNC Machining Prototype | 3D Printing Service | Custom Parts & Rapid Prototyping - Justway.com",
     active: true,
     startDate: "2026-05-01",
-    endDate: "2027-04-30",
+    endDate: "2026-07-31",
   },
   // Add other banners here for different categories/tags
   /*
