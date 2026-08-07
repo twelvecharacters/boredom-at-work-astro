@@ -10,27 +10,27 @@ const categories = [
     items: [
       {
         rank: 1, rankTrend: 'up', name: 'Claude', company: 'Anthropic', icon: '🧠', bestFor: 'Writing & Coding',
-        description: 'The absolute best AI for writing human-sounding emails and generating code without bugs. Feels like a genius coworker.',
+        description: 'Powered by Opus 4.6. The absolute best AI for writing human-sounding prose and generating code. The current quality leader.',
         price: 'Free / $20', color: 'bg-amber-500', textColor: 'text-amber-700', bgColor: 'bg-amber-50', url: 'https://claude.ai/'
       },
       {
         rank: 2, rankTrend: 'down', name: 'ChatGPT', company: 'OpenAI', icon: '⚡', bestFor: 'The Best All-Rounder',
-        description: 'Still the industry standard. Great at brainstorming, data analysis, and has the best voice mode for commuting.',
+        description: 'Now running GPT-5.2 and o3. Still the industry standard for versatility, featuring the best data analysis sandbox and plugin ecosystem.',
         price: 'Free / $20', color: 'bg-emerald-500', textColor: 'text-emerald-700', bgColor: 'bg-emerald-50', url: 'https://chatgpt.com/'
       },
       {
-        rank: 3, rankTrend: 'same', name: 'Perplexity', company: 'Perplexity AI', icon: '🔍', bestFor: 'Deep Research',
-        description: 'Replaces Google. It searches the live web and writes a summarized report with clickable citations in seconds.',
-        price: 'Free / $20', color: 'bg-blue-500', textColor: 'text-blue-700', bgColor: 'bg-blue-50', url: 'https://www.perplexity.ai/'
+        rank: 3, rankTrend: 'new', name: 'Antigravity', company: 'Google DeepMind', icon: '🚀', bestFor: 'Agentic Coding',
+        description: 'Full agentic pair programming. It plans, delegates to subagents, automates the browser, and executes end-to-end features autonomously.',
+        price: 'Free / $20', color: 'bg-blue-500', textColor: 'text-blue-700', bgColor: 'bg-blue-50', url: 'https://deepmind.google/'
       },
       {
-        rank: 4, rankTrend: 'new', name: 'Cursor', company: 'Anysphere', icon: '💻', bestFor: 'Building Apps',
-        description: 'An AI-first code editor. Even if you barely know how to code, this tool can help you build internal tools or side projects.',
+        rank: 4, rankTrend: 'same', name: 'Cursor', company: 'Anysphere', icon: '💻', bestFor: 'Building Apps',
+        description: 'An AI-first code editor. Even if you barely know how to code, this tool can help you build internal tools or side projects rapidly.',
         price: 'Free / $20', color: 'bg-purple-500', textColor: 'text-purple-700', bgColor: 'bg-purple-50', url: 'https://cursor.sh/'
       },
       {
-        rank: 5, rankTrend: 'same', name: 'Gemini', company: 'Google', icon: '✨', bestFor: 'Google Workspace',
-        description: 'Incredibly fast and integrates flawlessly into Docs, Sheets, and Gmail. It has a massive context window for analyzing huge documents.',
+        rank: 5, rankTrend: 'up', name: 'Gemini', company: 'Google', icon: '✨', bestFor: 'Google Workspace',
+        description: 'Gemini 3.1 Pro features a massive 1M token context window for analyzing huge documents, and integrates flawlessly into Docs and Sheets.',
         price: 'Free / $20', color: 'bg-rose-500', textColor: 'text-rose-700', bgColor: 'bg-rose-50', url: 'https://gemini.google.com/'
       }
     ]
@@ -40,7 +40,7 @@ const categories = [
     tabName: 'Home Office',
     title: 'Top 5 Home Office Gadgets',
     description: "Upgrade your WFH setup with these essential ergonomic and productivity-boosting gadgets.",
-    link: '/tags/gear/',
+    link: '/tags/home-office/',
     linkText: 'Check out our desk setups',
     items: [
       {
@@ -75,33 +75,33 @@ const categories = [
     tabName: 'Travel Tech',
     title: 'Top 5 Travel Gadgets & Apps',
     description: "Whether you're backpacking through Asia or on a business trip, these essential tools make traveling stress-free.",
-    link: '/tags/travel/',
+    link: '/tags/ai-travel/',
     linkText: 'Read our AI travel guides',
     items: [
       {
-        rank: 1, rankTrend: 'same', name: 'Sony WH-1000XM5', company: 'Sony', icon: '🎧', bestFor: 'Flights & Trains',
+        rank: 1, rankTrend: 'new', name: 'Organic Maps', company: 'OpenStreetMap', icon: '🗺️', bestFor: 'Offline Navigation',
+        description: '100% free, zero-tracking vector maps. Download entire countries for offline turn-by-turn navigation without cell service.',
+        price: 'Free', color: 'bg-emerald-500', textColor: 'text-emerald-700', bgColor: 'bg-emerald-50', url: 'https://organicmaps.app/'
+      },
+      {
+        rank: 2, rankTrend: 'new', name: 'Garmin inReach Mini 2', company: 'Garmin', icon: '📡', bestFor: 'Off-Grid SOS',
+        description: 'A dedicated satellite messenger that allows two-way texting and emergency rescue requests far outside cellular coverage.',
+        price: '$399', color: 'bg-orange-500', textColor: 'text-orange-700', bgColor: 'bg-orange-50', url: 'https://www.garmin.com/'
+      },
+      {
+        rank: 3, rankTrend: 'down', name: 'Sony WH-1000XM5', company: 'Sony', icon: '🎧', bestFor: 'Flights & Trains',
         description: 'The undisputed king of active noise cancellation. Blocks out crying babies and engine noise completely.',
         price: '$398', color: 'bg-zinc-500', textColor: 'text-zinc-700', bgColor: 'bg-zinc-50', url: 'https://electronics.sony.com/'
       },
       {
-        rank: 2, rankTrend: 'same', name: 'Apple AirTag', company: 'Apple', icon: '📍', bestFor: 'Luggage Tracking',
-        description: 'Never lose your checked bags again. Gives you total peace of mind by showing exactly where your suitcase is.',
-        price: '$29', color: 'bg-slate-500', textColor: 'text-slate-700', bgColor: 'bg-slate-50', url: 'https://www.apple.com/airtag/'
-      },
-      {
-        rank: 3, rankTrend: 'up', name: 'Anker Prime GaN', company: 'Anker', icon: '🔌', bestFor: 'Charging',
-        description: 'A tiny but incredibly powerful 100W charger that can charge your MacBook, phone, and headphones simultaneously.',
+        rank: 4, rankTrend: 'down', name: 'Anker Prime GaN', company: 'Anker', icon: '🔌', bestFor: 'Universal Charging',
+        description: 'A tiny but incredibly powerful 100W GaN charger that can rapidly charge your laptop and phone simultaneously.',
         price: '$84', color: 'bg-blue-500', textColor: 'text-blue-700', bgColor: 'bg-blue-50', url: 'https://www.anker.com/'
       },
       {
-        rank: 4, rankTrend: 'new', name: 'Wanderlog', company: 'Wanderlog', icon: '🗺️', bestFor: 'Itineraries',
-        description: 'The best app for organizing trips. Automatically imports flights and lets you map out daily activities visually.',
-        price: 'Free / $49', color: 'bg-rose-500', textColor: 'text-rose-700', bgColor: 'bg-rose-50', url: 'https://wanderlog.com/'
-      },
-      {
-        rank: 5, rankTrend: 'down', name: 'Airalo', company: 'Airalo', icon: '📱', bestFor: 'Global Data',
-        description: 'An eSIM store that gives you cheap mobile data in over 200 countries instantly. No more physical SIM cards.',
-        price: 'Varies', color: 'bg-orange-500', textColor: 'text-orange-700', bgColor: 'bg-orange-50', url: 'https://www.airalo.com/'
+        rank: 5, rankTrend: 'new', name: 'Kindle Paperwhite', company: 'Amazon', icon: '📖', bestFor: 'Offline Guides',
+        description: 'Store entire Wikivoyage databases and travel guides. The e-ink battery lasts for weeks in Airplane Mode.',
+        price: '$149', color: 'bg-slate-500', textColor: 'text-slate-700', bgColor: 'bg-slate-50', url: 'https://www.amazon.com/kindle/'
       }
     ]
   },
@@ -110,33 +110,33 @@ const categories = [
     tabName: 'AI Courses',
     title: 'The Top 5 AI Courses',
     description: "Upskill rapidly with the best AI courses available right now, ranging from beginner prompts to advanced engineering.",
-    link: '/tags/courses/',
+    link: '/tags/learning/',
     linkText: 'Browse all courses',
     items: [
       {
-        rank: 1, rankTrend: 'same', name: 'AI for Everyone', company: 'Coursera / DeepLearning.AI', icon: '🎓', bestFor: 'Absolute Beginners',
-        description: 'A non-technical introduction to AI by Andrew Ng. Perfect for managers and business leaders.',
-        price: 'Free / $49', color: 'bg-blue-500', textColor: 'text-blue-700', bgColor: 'bg-blue-50', url: 'https://www.coursera.org/learn/ai-for-everyone'
+        rank: 1, rankTrend: 'new', name: 'Multi-Agent Systems', company: 'DeepLearning.AI', icon: '🤖', bestFor: 'Agentic Workflows',
+        description: 'Design specialized AI agents that interact and execute tasks autonomously using AutoGen and CrewAI.',
+        price: 'Free', color: 'bg-blue-500', textColor: 'text-blue-700', bgColor: 'bg-blue-50', url: 'https://www.deeplearning.ai/short-courses/multi-agent-systems-with-autogen/'
       },
       {
-        rank: 2, rankTrend: 'up', name: 'Prompt Engineering for Devs', company: 'OpenAI', icon: '⌨️', bestFor: 'Practical Skills',
-        description: 'Learn how to properly write prompts to build robust applications with LLMs.',
-        price: 'Free', color: 'bg-emerald-500', textColor: 'text-emerald-700', bgColor: 'bg-emerald-50', url: 'https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/'
+        rank: 2, rankTrend: 'new', name: 'Hybrid AI Architectures', company: 'Google Cloud', icon: '☁️', bestFor: 'Local Deployment',
+        description: 'Bridge cloud flexibility with local security. Deploy optimized models locally for sensitive data processing.',
+        price: 'Free', color: 'bg-emerald-500', textColor: 'text-emerald-700', bgColor: 'bg-emerald-50', url: 'https://cloud.google.com/learn/training/machine-learning-ai'
       },
       {
-        rank: 3, rankTrend: 'down', name: 'Practical Deep Learning', company: 'fast.ai', icon: '🧠', bestFor: 'Coders learning AI',
-        description: 'A top-down approach to deep learning. You build working models right from the first lesson.',
-        price: 'Free', color: 'bg-yellow-500', textColor: 'text-yellow-700', bgColor: 'bg-yellow-50', url: 'https://course.fast.ai/'
+        rank: 3, rankTrend: 'new', name: 'AI Product Management', company: 'IBM', icon: '💼', bestFor: 'Managers',
+        description: 'Learn AI lifecycle management, ROI estimation, and how to prove AI saves money or generates revenue.',
+        price: 'Free / $49', color: 'bg-yellow-500', textColor: 'text-yellow-700', bgColor: 'bg-yellow-50', url: 'https://www.coursera.org/professional-certificates/ibm-ai-product-manager'
       },
       {
-        rank: 4, rankTrend: 'same', name: 'Gen AI Specialization', company: 'Google Cloud', icon: '☁️', bestFor: 'Enterprise Devs',
-        description: 'Comprehensive path covering large language models, attention mechanisms, and image generation.',
-        price: 'Free', color: 'bg-rose-500', textColor: 'text-rose-700', bgColor: 'bg-rose-50', url: 'https://www.cloudskillsboost.google/journeys/118'
+        rank: 4, rankTrend: 'new', name: 'Cinematic AI Workflows', company: 'Runway', icon: '🎬', bestFor: 'Creative VFX',
+        description: 'Master generative video integration, consistent character generation, and advanced Director Mode controls.',
+        price: 'Free', color: 'bg-rose-500', textColor: 'text-rose-700', bgColor: 'bg-rose-50', url: 'https://runwayml.com/academy/'
       },
       {
-        rank: 5, rankTrend: 'same', name: 'Intro to AI with Python', company: 'Harvard', icon: '🏛️', bestFor: 'CS Students',
-        description: 'Rigorous introduction to the concepts and algorithms at the foundation of modern AI.',
-        price: 'Free', color: 'bg-red-500', textColor: 'text-red-700', bgColor: 'bg-red-50', url: 'https://cs50.harvard.edu/ai/'
+        rank: 5, rankTrend: 'new', name: 'AI Safety & Governance', company: 'Stanford', icon: '⚖️', bestFor: 'Compliance',
+        description: 'Essential for leaders to navigate the EU AI Act 2.0, red teaming, and the legalities of AI training data.',
+        price: 'Varies', color: 'bg-red-500', textColor: 'text-red-700', bgColor: 'bg-red-50', url: 'https://online.stanford.edu/courses/cs122-artificial-intelligence-philosophy-ethics-and-impact'
       }
     ]
   },
@@ -154,19 +154,19 @@ const categories = [
         price: '$549', color: 'bg-zinc-500', textColor: 'text-zinc-700', bgColor: 'bg-zinc-50', url: 'https://us.store.bambulab.com/'
       },
       {
-        rank: 2, rankTrend: 'new', name: 'Snapmaker U1', company: 'Snapmaker', icon: '🛠️', bestFor: 'Tool Changer',
-        description: 'A dedicated high-speed CoreXY tool changer. Seamlessly swap between four independent toolheads for efficient multi-material 3D printing.',
-        price: '$1,299', color: 'bg-orange-500', textColor: 'text-orange-700', bgColor: 'bg-orange-50', url: 'https://us.snapmaker.com/'
+        rank: 2, rankTrend: 'new', name: 'Snapmaker U1', company: 'Snapmaker', icon: '🛠️', bestFor: 'Modularity',
+        description: 'A dedicated high-speed CoreXY machine with a quick-swap magnetic coupling for multi-tool ecosystems like laser engravers and CNC carving.',
+        price: '$499', color: 'bg-orange-500', textColor: 'text-orange-700', bgColor: 'bg-orange-50', url: 'https://us.snapmaker.com/'
       },
       {
-        rank: 3, rankTrend: 'new', name: 'Creality Sparkx i7', company: 'Creality', icon: '🚀', bestFor: 'Plug-and-Play',
-        description: 'An automated core-XY machine featuring AI print monitoring, quick-swap hotends, and optional CFS Lite for multicolor printing.',
-        price: '$899', color: 'bg-blue-500', textColor: 'text-blue-700', bgColor: 'bg-blue-50', url: 'https://www.creality.com/'
+        rank: 3, rankTrend: 'new', name: 'Creality K2', company: 'Creality', icon: '🚀', bestFor: 'Open Ecosystem',
+        description: 'A fully enclosed CoreXY powerhouse running native Klipper, a massive 300°C ceramic hotend, and root access for tinkerers.',
+        price: '$499', color: 'bg-blue-500', textColor: 'text-blue-700', bgColor: 'bg-blue-50', url: 'https://www.creality.com/'
       },
       {
-        rank: 4, rankTrend: 'down', name: 'Prusa MK4', company: 'Prusa Research', icon: '🧱', bestFor: 'Reliability',
-        description: 'The open-source king. Perfect first-layer calibration every time and built like an absolute tank.',
-        price: '$799', color: 'bg-amber-500', textColor: 'text-amber-700', bgColor: 'bg-amber-50', url: 'https://www.prusa3d.com/'
+        rank: 4, rankTrend: 'down', name: 'Prusa MK4S', company: 'Prusa Research', icon: '🧱', bestFor: 'Reliability',
+        description: 'The open-source legend. Premium price, but incredible build quality, perfect first layers, and unmatched community support.',
+        price: '$709', color: 'bg-amber-500', textColor: 'text-amber-700', bgColor: 'bg-amber-50', url: 'https://www.prusa3d.com/'
       },
       {
         rank: 5, rankTrend: 'down', name: 'Bambu Lab A1 Mini', company: 'Bambu Lab', icon: '⚡', bestFor: 'Beginners',
@@ -208,7 +208,7 @@ const categories = [
     
     <div class="text-center mb-8">
       <div class="inline-flex items-center gap-2 bg-white border border-primary/10 px-4 py-1.5 rounded-full text-xs font-bold text-accent uppercase tracking-widest mb-6 shadow-sm reveal">
-        <span class="animate-pulse">🏆</span> Power Rankings • Updated July 2026
+        <span class="animate-pulse">🏆</span> Power Rankings • Updated August 2026
       </div>
     </div>
 
