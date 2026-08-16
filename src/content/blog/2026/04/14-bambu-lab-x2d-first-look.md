@@ -24,7 +24,7 @@ Bambu Lab just announced the X2D, the company's first compact 3D printer with tr
 
 The X2D launched on April 14, 2026 with the tagline "Xcellence made simple." Here's everything you need to know.
 
-> **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
 
 ## What Is the Bambu Lab X2D?
 

@@ -31,7 +31,7 @@ We've all been there: staring at a screen, waiting for five o'clock, looking for
 
 If you are still using AI just to summarize short articles or write basic emails, you are missing out on the quiet revolution happening over at Google.
 
-> **Exploring more wealth-building tools?** Browse our full [Investing Tools & Learning Hub](/investing-tools-guide/) for apps, screeners, and beginner strategies.
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
 
 The mid-2026 landscape of artificial intelligence is hyper-competitive. While the conversation often circles back to ChatGPT's latest voice models or Claude's writing prowess, Google Gemini has quietly built the ultimate toolset for the modern office worker. 
 

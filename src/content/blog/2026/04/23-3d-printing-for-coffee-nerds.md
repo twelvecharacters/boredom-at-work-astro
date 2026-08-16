@@ -31,7 +31,7 @@ If you’ve spent any amount of time in the home espresso rabbit hole, you know 
 
 In the same way that a home barista will agonize over 0.1g of coffee or a 2-degree temperature swing, a 3D printing enthusiast will spend hours tweaking retraction settings and Z-offsets. When you combine these two obsessions, you get a coffee station that doesn't just make incredible espresso, but looks and functions like a custom-engineered laboratory.
 
-> **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
 
 This guide explores the best 3D-printed mods for coffee nerds, from essential workflow tools to the ultimate organizational systems.
 

@@ -35,7 +35,7 @@ We’ve all been there. You’re stuck on a weird TypeScript error or trying to 
 
 For the last few months, I’ve been testing a different way: **[Gemini CLI](/gemini-cli-guide/)**. It’s not just another chatbot; it’s an agent that lives inside my terminal. Here is how it fundamentally changed how I build *Boredom at Work*.
 
-> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
 
 ## 1. The Death of the "Context Switch"
 

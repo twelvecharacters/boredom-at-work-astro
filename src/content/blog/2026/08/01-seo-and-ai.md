@@ -20,7 +20,7 @@ If you've been paying attention to the digital marketing space, you know that th
 
 This comprehensive guide will break down exactly how AI is reshaping SEO, what actionable steps you can take today to ensure your content doesn't just survive but thrives in this new era, and why you must adapt your entire digital strategy to accommodate generative AI platforms. (For the reader's side of this shift, how people are abandoning the classic search box for AI answers, see our companion piece on whether [search engines are dying](/are-search-engines-dying-ai-search/).)
 
-> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
 
 ## The Shift from Keywords to Intent and Context
 

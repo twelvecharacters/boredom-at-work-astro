@@ -24,7 +24,7 @@ YouTube is the #1 platform for learning about investing, 65% of Americans who us
 
 Here are the channels actually worth your time, organized by what you need, plus the red flags that should make you close the tab immediately.
 
-> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+> **Exploring more wealth-building tools?** Browse our full [Investing Tools & Learning Hub](/investing-tools-guide/) for apps, screeners, and beginner strategies.
 
 *This article is for educational purposes only and does not constitute financial advice.*
 

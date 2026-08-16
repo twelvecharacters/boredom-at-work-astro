@@ -23,7 +23,7 @@ I gave Claude my dates, hotel, and "make it relaxed", and got back a polished 3-
 
 That's not a complaint. The trip was great. But it taught me something specific about how AI travel planning actually works in the wild: the plan is scaffolding, not a script. Here's the unfiltered debrief, what I actually did, what I skipped, what cost what, and what I'd tell the next solo traveler heading to Istanbul.
 
-> **Level up your prompt workflow:** Explore our complete [ChatGPT Guide](/chatgpt-guide/) covering essential workflows, prompt frameworks, and productivity hacks.
+> **Planning your next adventure with AI?** Read our central [AI Travel Planning Guide](/ai-travel-planning/) to discover prompts, flight-finding strategies, and curated itineraries.
 
 ## Quick Facts
 

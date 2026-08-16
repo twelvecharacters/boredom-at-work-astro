@@ -27,7 +27,7 @@ Holiday shopping for the tech-inclined people in your life? This is your one-sto
 - **For the remote worker:** our [best home office gifts under $100](/best-home-office-gifts-under-100/) guide covers desk upgrades that get used daily.
 - **For a coworker:** our [Secret Santa gifts for coworkers](/best-secret-santa-gifts-coworkers/) guide keeps it useful and workplace-safe.
 
-> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+> **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
 
 ## Shop by Budget
 
