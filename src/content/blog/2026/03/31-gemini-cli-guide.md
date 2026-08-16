@@ -21,11 +21,7 @@ tldr: "Gemini CLI is a powerful terminal-based interface for Google's Gemini mod
 isListicle: false
 ---
 
-{new Date() >= new Date("2026-08-03T00:00:00") && (
-  <blockquote>
-    <strong>Update (August 2026):</strong> Gemini CLI has been officially deprecated and superseded by <strong><a href="/antigravity-cli-guide/">Antigravity CLI</a></strong>. The new tool offers the same terminal-based AI features with vastly improved context handling and direct filesystem manipulation. Read the <a href="/antigravity-cli-guide/">full guide on Antigravity CLI here</a>.
-  </blockquote>
-)}
+> **Update (August 2026):** Gemini CLI has been officially superseded by **[Antigravity CLI](/antigravity-cli-guide/)**. The new tool offers the same terminal-based AI features with vastly improved context handling and direct filesystem manipulation. Read the [full guide on Antigravity CLI here](/antigravity-cli-guide/).
 
 If you're a developer, you probably spend a huge chunk of your day in the terminal. Whether it's running builds, managing git, or tailing logs, the command line is home.
 

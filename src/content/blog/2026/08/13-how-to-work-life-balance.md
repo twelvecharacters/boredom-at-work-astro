@@ -38,7 +38,7 @@ True balance is not achieved on a daily basis; it is achieved over weeks, months
 
 Before you can balance your life, you need to know what you are balancing your work against. For many ambitious professionals, work is the only clearly defined priority in their lives. Everything else (family, hobbies, health, relaxation) is relegated to whatever time is left over. Since work will gladly consume all available time, these other areas end up starving.
 
-Take a piece of paper and write down your core priorities outside of your career. These might include your physical health, your relationship with your partner, raising your children, or a personal passion. If you are struggling to identify a passion, I highly recommend reading our previous article, [How to Choose a Hobby You Will Actually Stick With](/2026/08/12-how-to-choose-a-hobby), to help you find meaningful activities outside of the office.
+Take a piece of paper and write down your core priorities outside of your career. These might include your physical health, your relationship with your partner, raising your children, or a personal passion. If you are struggling to identify a passion, I highly recommend reading our previous article, [How to Choose a Hobby You Will Actually Stick With](/how-to-choose-a-hobby/), to help you find meaningful activities outside of the office.
 
 Once you have identified these priorities, you must treat them with the same level of respect you treat a meeting with your boss. If you schedule a workout for six o'clock in the evening, that is a hard commitment. You would not cancel a client meeting just because you felt a little tired, and you should not cancel on yourself either. 
 

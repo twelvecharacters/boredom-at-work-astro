@@ -71,7 +71,7 @@ One of the most common excuses for not learning something new is a lack of time.
 
 However, we often overestimate how much time is required to make meaningful progress, and underestimate how much time we waste on low value activities. If you can find the time to scroll through social media or watch an hour of television every evening, you have the time to learn a new skill. 
 
-The trick is not to find massive blocks of free time, but to utilize small pockets of time effectively. This is often called micro-learning. Can you listen to a language learning podcast during your daily commute? Can you review coding flashcards while waiting in line at the grocery store? By integrating learning into your existing routine, you can accumulate significant practice time without completely overhauling your life. For more advice on managing your time and creating space for new activities, refer back to our comprehensive guide on [How to Achieve Real Work Life Balance](/2026/08/13-how-to-work-life-balance).
+The trick is not to find massive blocks of free time, but to utilize small pockets of time effectively. This is often called micro-learning. Can you listen to a language learning podcast during your daily commute? Can you review coding flashcards while waiting in line at the grocery store? By integrating learning into your existing routine, you can accumulate significant practice time without completely overhauling your life. For more advice on managing your time and creating space for new activities, refer back to our comprehensive guide on [How to Achieve Real Work Life Balance](/how-to-work-life-balance/).
 
 ## The Importance of Unlearning
 

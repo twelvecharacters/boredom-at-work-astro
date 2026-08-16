@@ -55,7 +55,7 @@ If you are staring at a blank page and wondering what you might enjoy, start by 
 
 Another great way to brainstorm is to look at the content you consume passively. Look at your YouTube watch history or the podcasts you subscribe to. If you spend hours watching videos about woodworking, perhaps you have a latent interest in carpentry. If your bookshelf is filled with true crime books, maybe you would enjoy writing your own mystery stories or participating in online investigative communities. 
 
-Do not be afraid to look at what other people are doing for inspiration. If you are reading this blog, you might be interested in our previous article, [Stop Buying Tech You Don't Need](/2026/08/08-stop-buying-tech-you-dont-need), which discusses finding fulfillment outside of consumerism. Sometimes, reading about someone else's passion can spark your own curiosity and lead you down a path you never considered.
+Do not be afraid to look at what other people are doing for inspiration. If you are reading this blog, you might be interested in our previous article, [Stop Buying Tech You Don't Need](/stop-buying-tech-you-dont-need/), which discusses finding fulfillment outside of consumerism. Sometimes, reading about someone else's passion can spark your own curiosity and lead you down a path you never considered.
 
 ## The Low Stakes Testing Phase
 
