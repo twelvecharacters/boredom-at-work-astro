@@ -15,7 +15,7 @@ This document outlines the foundational standards and architectural goals for th
 
 ### Content Strategy & Topic Clustering
 - **Structure:** Blog articles are organized in subdirectories (e.g., `src/content/blog/YYYY/MM/`). Store the markdown file and its associated images together in the same directory.
-- **Frontmatter:** All blog articles must include the `imageAlt` field for their featured image to ensure proper Schema.org JSON-LD generation and accessibility. Titles should be <= 60 characters (primary keyword at the front) and meta descriptions 150-160 characters to avoid SERP truncation.
+- **Frontmatter:** All blog articles must include the `imageAlt` field for their featured image to ensure proper Schema.org JSON-LD generation and accessibility. Titles should be <= 60 characters (primary keyword at the front) and meta descriptions 150-160 characters to avoid SERP truncation. Articles must have **maximum 4 tags** (strictly relevant and focused, avoiding tag bloat).
 - **Slug Management:** Favor the explicit `slug` field in blog frontmatter over directory-based IDs.
 - **Topic Clusters & Pillar Boost:** All topical articles must actively link back to their respective Master Hub/Pillar Page (`/learn-ai-guide/`, `/chatgpt-guide/`, `/3d-printing-guide/`, `/desk-upgrade-guide/`, `/investing-tools-guide/`, `/photography-guide/`, `/ai-travel-planning/`) via contextual callout boxes or in-content recommendations.
 - **Homepage Pillar Integration:** The homepage (`src/pages/index.astro`) must maintain direct, 1-click links to all cornerstone Pillar Guides (`MasterGuidesGrid.astro`) to maximize Link Equity (PageRank) transfer.
