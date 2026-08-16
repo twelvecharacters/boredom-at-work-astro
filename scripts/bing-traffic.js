@@ -15,7 +15,7 @@ import path from 'path';
 
 // --- Config ---
 const SITE_URL = 'https://boredom-at-work.com/';
-const KEY_PATH = path.join(process.env.HOME, '.claude', 'bing-api-key.txt');
+const GLOBAL_KEY_PATH = path.join(process.env.HOME || '', '.claude', 'bing-api-key.txt');
 
 const BOLD = '\x1b[1m';
 const GREEN = '\x1b[32m';
@@ -90,14 +90,31 @@ async function main() {
   const showCluster = args.includes('--cluster');
   const top = parseInt(args.find((_, i, a) => a[i - 1] === '--top') || '20');
 
-  if (!fs.existsSync(KEY_PATH)) {
-    console.error(`\n${RED}Error: API key not found at ${KEY_PATH}${RESET}`);
-    console.error(`\nSetup: Bing Webmaster Tools → Settings → API Access → copy key`);
-    console.error(`Then: echo "YOUR_KEY" > ${KEY_PATH}\n`);
-    process.exit(1);
+  function loadApiKey() {
+    if (process.env.BING_API_KEY) return process.env.BING_API_KEY.trim();
+    
+    const envPath = path.join(process.cwd(), '.env');
+    if (fs.existsSync(envPath)) {
+      const envContent = fs.readFileSync(envPath, 'utf8');
+      const match = envContent.match(/BING_API_KEY=(['"]?)(.*?)\1/);
+      if (match && match[2]) return match[2].trim();
+    }
+
+    if (fs.existsSync(GLOBAL_KEY_PATH)) {
+      return fs.readFileSync(GLOBAL_KEY_PATH, 'utf8').trim();
+    }
+
+    return null;
   }
 
-  const apiKey = fs.readFileSync(KEY_PATH, 'utf8').trim();
+  const apiKey = loadApiKey();
+
+  if (!apiKey) {
+    console.error(`\n${RED}Error: API key not found in .env (BING_API_KEY) or at ${GLOBAL_KEY_PATH}${RESET}`);
+    console.error(`\nSetup: Bing Webmaster Tools → Settings → API Access → copy key`);
+    console.error(`Then: Add BING_API_KEY to .env or save to ${GLOBAL_KEY_PATH}\n`);
+    process.exit(1);
+  }
 
   console.log(`\n${'═'.repeat(70)}`);
   console.log(`  ${BOLD}BING TRAFFIC REPORT — boredom-at-work.com${RESET}`);

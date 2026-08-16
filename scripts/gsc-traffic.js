@@ -20,7 +20,7 @@ import crypto from 'crypto';
 
 // --- Config ---
 const SITE_URL = 'https://boredom-at-work.com';
-const CREDENTIALS_PATH = path.join(process.env.HOME, '.claude', 'gsc-credentials.json');
+const GLOBAL_CREDENTIALS_PATH = path.join(process.env.HOME || '', '.claude', 'gsc-credentials.json');
 const SCOPES = ['https://www.googleapis.com/auth/webmasters.readonly'];
 
 // --- Cluster mapping ---
@@ -168,19 +168,74 @@ async function main() {
   const showQueries = args.includes('--queries');
   const showCluster = args.includes('--cluster');
 
-  // Check credentials
-  if (!fs.existsSync(CREDENTIALS_PATH)) {
-    console.error(`\n${RED}Error: Credentials not found at ${CREDENTIALS_PATH}${RESET}`);
+  // Helper to load credentials from .env, env variables, or JSON file
+  function loadCredentials() {
+    // 1. Direct env variable (Base64 or JSON)
+    if (process.env.GSC_CREDENTIALS_BASE64) {
+      try {
+        const decoded = Buffer.from(process.env.GSC_CREDENTIALS_BASE64, 'base64').toString('utf8');
+        return JSON.parse(decoded);
+      } catch (e) {
+        console.error(`${RED}Error parsing GSC_CREDENTIALS_BASE64 from env${RESET}`);
+      }
+    }
+    if (process.env.GSC_CREDENTIALS_JSON) {
+      try {
+        return JSON.parse(process.env.GSC_CREDENTIALS_JSON);
+      } catch (e) {
+        console.error(`${RED}Error parsing GSC_CREDENTIALS_JSON from env${RESET}`);
+      }
+    }
+
+    // 2. Project .env file
+    const envPath = path.join(process.cwd(), '.env');
+    if (fs.existsSync(envPath)) {
+      const envContent = fs.readFileSync(envPath, 'utf8');
+      
+      const b64Match = envContent.match(/GSC_CREDENTIALS_BASE64=(['"]?)([A-Za-z0-9+/=]+)\1/);
+      if (b64Match && b64Match[2]) {
+        try {
+          const decoded = Buffer.from(b64Match[2].trim(), 'base64').toString('utf8');
+          return JSON.parse(decoded);
+        } catch (e) {
+          // ignore and fall through
+        }
+      }
+
+      const jsonMatch = envContent.match(/GSC_CREDENTIALS_JSON=(['"])([\s\S]*?)\1/);
+      if (jsonMatch && jsonMatch[2]) {
+        try {
+          return JSON.parse(jsonMatch[2]);
+        } catch (e) {
+          // ignore and fall through
+        }
+      }
+    }
+
+    // 3. Global JSON file path (~/.claude/gsc-credentials.json)
+    if (fs.existsSync(GLOBAL_CREDENTIALS_PATH)) {
+      try {
+        return JSON.parse(fs.readFileSync(GLOBAL_CREDENTIALS_PATH, 'utf8'));
+      } catch (e) {
+        console.error(`${RED}Error parsing credentials at ${GLOBAL_CREDENTIALS_PATH}${RESET}`);
+      }
+    }
+
+    return null;
+  }
+
+  const credentials = loadCredentials();
+
+  if (!credentials) {
+    console.error(`\n${RED}Error: Credentials not found in .env (GSC_CREDENTIALS_BASE64 / GSC_CREDENTIALS_JSON) or at ${GLOBAL_CREDENTIALS_PATH}${RESET}`);
     console.error(`\nSetup steps:`);
     console.error(`  1. Create a Google Cloud project`);
     console.error(`  2. Enable "Google Search Console API"`);
     console.error(`  3. Create a Service Account + download JSON key`);
-    console.error(`  4. Save it as ${CREDENTIALS_PATH}`);
+    console.error(`  4. Add to .env as GSC_CREDENTIALS_BASE64 or save as ${GLOBAL_CREDENTIALS_PATH}`);
     console.error(`  5. Add the service account email as a user in GSC\n`);
     process.exit(1);
   }
-
-  const credentials = JSON.parse(fs.readFileSync(CREDENTIALS_PATH, 'utf8'));
 
   // Date ranges
   const now = new Date();
