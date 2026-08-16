@@ -46,7 +46,7 @@ export function getPostSlug(post: CollectionEntry<'blog'>): string {
   }
   // Extract filename from path (e.g., "2025/01/article.md" -> "article")
   const filename = post.id.split('/').pop() || post.id;
-  return filename.replace(/\.md$/, '');
+  return filename.replace(/\.(md|mdx)$/, '');
 }
 
 
