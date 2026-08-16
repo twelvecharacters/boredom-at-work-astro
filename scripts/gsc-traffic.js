@@ -98,16 +98,21 @@ function getAccessToken(credentials) {
 }
 
 // --- GSC API ---
-function queryGSC(token, startDate, endDate, dimension) {
+function queryGSC(token, startDate, endDate, dimensions = ['page'], filters = []) {
   return new Promise((resolve, reject) => {
-    const body = JSON.stringify({
+    const payload = {
       startDate,
       endDate,
-      dimensions: [dimension],
-      rowLimit: 5000,
+      dimensions: Array.isArray(dimensions) ? dimensions : [dimensions],
+      rowLimit: 10000,
       dataState: 'all',
-    });
+    };
 
+    if (filters.length > 0) {
+      payload.dimensionFilterGroups = [{ filters }];
+    }
+
+    const body = JSON.stringify(payload);
     const siteEncoded = encodeURIComponent(SITE_URL);
     const req = https.request({
       hostname: 'www.googleapis.com',
@@ -151,6 +156,7 @@ const BOLD = '\x1b[1m';
 const GREEN = '\x1b[32m';
 const RED = '\x1b[31m';
 const YELLOW = '\x1b[33m';
+const CYAN = '\x1b[36m';
 const DIM = '\x1b[2m';
 const RESET = '\x1b[0m';
 
@@ -165,8 +171,6 @@ async function main() {
   const args = process.argv.slice(2);
   const days = parseInt(args.find((_, i, a) => a[i - 1] === '--days') || '28');
   const top = parseInt(args.find((_, i, a) => a[i - 1] === '--top') || '15');
-  const showQueries = args.includes('--queries');
-  const showCluster = args.includes('--cluster');
 
   // Helper to load credentials from .env, env variables, or JSON file
   function loadCredentials() {
@@ -237,6 +241,13 @@ async function main() {
     process.exit(1);
   }
 
+  const showQueries = args.includes('--queries');
+  const showCluster = args.includes('--cluster');
+  const showDeep = args.includes('--deep') || args.includes('--page-queries');
+  const showCountry = args.includes('--country') || args.includes('--countries');
+  const showDevice = args.includes('--device') || args.includes('--devices');
+  const showStriking = args.includes('--striking') || args.includes('--opportunities');
+
   // Date ranges
   const now = new Date();
   const currentEnd = new Date(now); currentEnd.setDate(currentEnd.getDate() - 1); // yesterday
@@ -249,18 +260,162 @@ async function main() {
   const prevStartStr = formatDate(prevStart);
   const prevEndStr = formatDate(prevEnd);
 
-  console.log(`\n${'═'.repeat(70)}`);
-  console.log(`  ${BOLD}GSC TRAFFIC REPORT — boredom-at-work.com${RESET}`);
+  console.log(`\n${'═'.repeat(75)}`);
+  console.log(`  ${BOLD}GSC TRAFFIC & SEO INTELLIGENCE — boredom-at-work.com${RESET}`);
   console.log(`  Current: ${curStartStr} → ${curEndStr}  (${days} days)`);
   console.log(`  Previous: ${prevStartStr} → ${prevEndStr}`);
-  console.log(`${'═'.repeat(70)}\n`);
+  console.log(`${'═'.repeat(75)}\n`);
 
   // Auth
   process.stdout.write(`  Authenticating... `);
   const token = await getAccessToken(credentials);
   console.log(`${GREEN}OK${RESET}\n`);
 
-  // Fetch data
+  // --- Deep Page+Query Analysis ---
+  if (showDeep) {
+    process.stdout.write(`  Fetching multi-dimension (Page + Query) data... `);
+    const pqRows = await queryGSC(token, curStartStr, curEndStr, ['page', 'query']);
+    console.log(`${GREEN}OK${RESET} (${pqRows.length} rows)\n`);
+
+    const pageMap = new Map();
+    for (const r of pqRows) {
+      const page = r.keys[0];
+      const query = r.keys[1];
+      if (!pageMap.has(page)) pageMap.set(page, []);
+      pageMap.get(page).push({ query, clicks: r.clicks, impressions: r.impressions, ctr: r.ctr, position: r.position });
+    }
+
+    // Sort pages by total impressions/clicks
+    const sortedPages = [...pageMap.entries()]
+      .sort((a, b) => {
+        const aClicks = a[1].reduce((sum, q) => sum + q.clicks, 0);
+        const bClicks = b[1].reduce((sum, q) => sum + q.clicks, 0);
+        const aImpr = a[1].reduce((sum, q) => sum + q.impressions, 0);
+        const bImpr = b[1].reduce((sum, q) => sum + q.impressions, 0);
+        return bClicks !== aClicks ? bClicks - aClicks : bImpr - aImpr;
+      })
+      .slice(0, top);
+
+    console.log(`${BOLD}🎯 PAGE ➔ TOP SEARCH QUERIES BREAKDOWN${RESET}`);
+    console.log(`   ${'─'.repeat(72)}`);
+    for (const [pageUrl, queries] of sortedPages) {
+      const displayPage = pageUrl.replace(SITE_URL, '').replace(/\/$/, '') || '/';
+      const totClicks = queries.reduce((sum, q) => sum + q.clicks, 0);
+      const totImpr = queries.reduce((sum, q) => sum + q.impressions, 0);
+      console.log(`\n📄 ${BOLD}${CYAN}${displayPage}${RESET}  ${DIM}(Total: ${totClicks} clicks, ${totImpr} impr)${RESET}`);
+      console.log(`   ${padR('Search Query', 42)} ${padL('Clicks', 7)} ${padL('Impr', 7)} ${padL('CTR', 6)} ${padL('Pos', 5)}`);
+      console.log(`   ${'─'.repeat(70)}`);
+      
+      const topQueries = queries.sort((a, b) => b.impressions - a.impressions).slice(0, 5);
+      for (const q of topQueries) {
+        const ctrStr = (q.ctr * 100).toFixed(1) + '%';
+        console.log(`   ${padR(q.query, 42)} ${padL(q.clicks, 7)} ${padL(q.impressions, 7)} ${padL(ctrStr, 6)} ${padL(q.position.toFixed(1), 5)}`);
+      }
+    }
+    console.log('\n');
+    return;
+  }
+
+  // --- Striking Distance Opportunities ---
+  if (showStriking) {
+    process.stdout.write(`  Analyzing striking distance (Position 4–20) opportunities... `);
+    const pqRows = await queryGSC(token, curStartStr, curEndStr, ['page', 'query']);
+    console.log(`${GREEN}OK${RESET} (${pqRows.length} query-page combinations)\n`);
+
+    const striking = pqRows
+      .filter(r => r.position >= 3.0 && r.position <= 20.0 && r.impressions >= 2)
+      .sort((a, b) => (a.position - b.position) || (b.impressions - a.impressions))
+      .slice(0, 25);
+
+    console.log(`${BOLD}🚀 STRIKING DISTANCE OPPORTUNITIES (Pos 3–20 | Fast Traffic Wins)${RESET}`);
+    console.log(`   ${padR('Search Query', 42)} ${padR('Target Page', 30)} ${padL('Impr', 6)} ${padL('CTR', 6)} ${padL('Pos', 5)}`);
+    console.log(`   ${'─'.repeat(94)}`);
+
+    for (const r of striking) {
+      const query = r.keys[1];
+      const page = r.keys[0].replace(SITE_URL, '').replace(/\/$/, '') || '/';
+      const ctr = (r.ctr * 100).toFixed(1) + '%';
+      console.log(`   ${padR(query, 42)} ${CYAN}${padR(page, 30)}${RESET} ${padL(r.impressions, 6)} ${padL(ctr, 6)} ${YELLOW}${padL(r.position.toFixed(1), 5)}${RESET}`);
+    }
+    console.log(`\n   ${DIM}💡 Action: Add these exact keywords to H2 headers & intro paragraphs to push into Top 3.${RESET}\n`);
+    return;
+  }
+
+  // --- Cannibalization Detection ---
+  const showCannibalization = args.includes('--cannibalization') || args.includes('--conflicts');
+  if (showCannibalization) {
+    process.stdout.write(`  Checking for keyword cannibalization (multiple pages ranking for same query)... `);
+    const pqRows = await queryGSC(token, curStartStr, curEndStr, ['page', 'query']);
+    console.log(`${GREEN}OK${RESET}\n`);
+
+    const queryMap = new Map();
+    for (const r of pqRows) {
+      const page = r.keys[0];
+      const query = r.keys[1];
+      if (!queryMap.has(query)) queryMap.set(query, []);
+      queryMap.get(query).push({ page, impressions: r.impressions, clicks: r.clicks, position: r.position });
+    }
+
+    const conflicts = [...queryMap.entries()]
+      .filter(([_, pages]) => pages.length > 1)
+      .sort((a, b) => b[1].reduce((sum, p) => sum + p.impressions, 0) - a[1].reduce((sum, p) => sum + p.impressions, 0));
+
+    console.log(`${BOLD}⚔️ KEYWORD CANNIBALIZATION REPORT (${conflicts.length} queries competing)${RESET}`);
+    console.log(`   ${'─'.repeat(75)}`);
+
+    if (conflicts.length === 0) {
+      console.log(`   ${GREEN}✓ No keyword cannibalization detected! All queries map to unique pages.${RESET}\n`);
+    } else {
+      for (const [query, pages] of conflicts.slice(0, 15)) {
+        console.log(`\n🔍 Keyword: ${BOLD}"${query}"${RESET}`);
+        for (const p of pages) {
+          const displayPage = p.page.replace(SITE_URL, '').replace(/\/$/, '') || '/';
+          console.log(`   ↳ ${CYAN}${padR(displayPage, 45)}${RESET} Pos: ${padL(p.position.toFixed(1), 4)} | Impr: ${padL(p.impressions, 4)} | Clicks: ${p.clicks}`);
+        }
+      }
+      console.log(`\n   ${DIM}💡 Action: Add canonical tags or clear internal links from the weaker page to the primary hub.${RESET}\n`);
+    }
+    return;
+  }
+
+  // --- Country Breakdown ---
+  if (showCountry) {
+    process.stdout.write(`  Fetching country breakdown... `);
+    const countryRows = await queryGSC(token, curStartStr, curEndStr, 'country');
+    console.log(`${GREEN}OK${RESET}\n`);
+
+    const sortedCountries = countryRows.sort((a, b) => b.impressions - a.impressions).slice(0, 15);
+    console.log(`${BOLD}🌍 TRAFFIC BY COUNTRY${RESET}`);
+    console.log(`   ${padR('Country', 15)} ${padL('Clicks', 8)} ${padL('Impressions', 12)} ${padL('CTR', 8)} ${padL('Avg Pos', 8)}`);
+    console.log(`   ${'─'.repeat(55)}`);
+    for (const r of sortedCountries) {
+      const countryCode = r.keys[0].toUpperCase();
+      const ctr = (r.ctr * 100).toFixed(1) + '%';
+      console.log(`   ${padR(countryCode, 15)} ${padL(r.clicks, 8)} ${padL(r.impressions, 12)} ${padL(ctr, 8)} ${padL(r.position.toFixed(1), 8)}`);
+    }
+    console.log('\n');
+    return;
+  }
+
+  // --- Device Breakdown ---
+  if (showDevice) {
+    process.stdout.write(`  Fetching device breakdown... `);
+    const deviceRows = await queryGSC(token, curStartStr, curEndStr, 'device');
+    console.log(`${GREEN}OK${RESET}\n`);
+
+    console.log(`${BOLD}📱 TRAFFIC BY DEVICE${RESET}`);
+    console.log(`   ${padR('Device', 15)} ${padL('Clicks', 8)} ${padL('Impressions', 12)} ${padL('CTR', 8)} ${padL('Avg Pos', 8)}`);
+    console.log(`   ${'─'.repeat(55)}`);
+    for (const r of deviceRows) {
+      const device = r.keys[0].toUpperCase();
+      const ctr = (r.ctr * 100).toFixed(1) + '%';
+      console.log(`   ${padR(device, 15)} ${padL(r.clicks, 8)} ${padL(r.impressions, 12)} ${padL(ctr, 8)} ${padL(r.position.toFixed(1), 8)}`);
+    }
+    console.log('\n');
+    return;
+  }
+
+  // Fetch standard data
   const dimension = showQueries ? 'query' : 'page';
   process.stdout.write(`  Fetching ${dimension} data... `);
   const [curRows, prevRows] = await Promise.all([
