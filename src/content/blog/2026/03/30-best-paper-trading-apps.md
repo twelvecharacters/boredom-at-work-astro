@@ -251,6 +251,14 @@ Not every app is right for every person. Here's my honest recommendation:
 
 You need a gentle introduction. Investopedia has the best educational integration. Webull has the cleanest mobile experience. Use either one for 2-4 weeks to learn the basics.
 
+### Students and Teens (No SSN or Bank Account Required)
+
+**Start with:** Investopedia Stock Simulator or TradingView
+
+If you are a high school or college student under 18 (or an international learner without a US Social Security Number), traditional brokerages like Schwab or Interactive Brokers will block account creation.
+- **Investopedia** requires only an email address. You can join teacher-led classroom stock market games or practice solo without submitting tax information.
+- **TradingView** allows anyone to practice technical charting and simulated paper trading on web and mobile with zero verification barriers.
+
 ### Intermediate Learners
 
 **Move to:** thinkorswim or TradingView

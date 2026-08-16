@@ -1,9 +1,9 @@
 ---
-title: "ChatGPT Custom Instructions: Best Practices + Templates (2026)"
+title: "Best ChatGPT Custom Instructions 2026: Templates & Setup"
 slug: "chatgpt-custom-instructions"
-description: "ChatGPT custom instructions best practices, examples, and copy-paste templates for work, writing, and coding. Get better responses in 5 minutes."
+description: "Discover the best ChatGPT custom instructions in 2026. Copy-paste battle-tested templates for work, coding, writing, and daily productivity in 5 minutes."
 publishDate: 2026-02-13
-updatedDate: 2026-05-04
+updatedDate: 2026-08-16
 author: "Mehdi"
 image: "./13-chatgpt-custom-instructions.webp"
 imageAlt: "ChatGPT custom instructions settings panel on a screen"
