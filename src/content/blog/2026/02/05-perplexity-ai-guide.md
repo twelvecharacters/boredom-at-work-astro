@@ -28,6 +28,8 @@ Google gives you links. Perplexity gives you answers.
 
 That's the simplest way to explain why Perplexity AI has become the secret weapon for researchers, professionals, and anyone tired of clicking through ten blue links to find what they need.
 
+> **Level up your prompt workflow:** Explore our complete [ChatGPT Guide](/chatgpt-guide/) covering essential workflows, prompt frameworks, and productivity hacks.
+
 After using Perplexity daily for months, I'm convinced it's the most underrated productivity tool of 2026. Here's everything you need to know.
 
 ## What Is Perplexity AI?

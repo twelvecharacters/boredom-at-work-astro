@@ -32,6 +32,8 @@ Imagine having a personal assistant that monitors flight prices 24/7, alerts you
 
 In this guide, you'll learn how these agents work and build your own, starting with no-code tools and progressing to more powerful options if you're curious.
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 ## What Is an AI Flight Search Agent?
 
 An AI agent is software that:

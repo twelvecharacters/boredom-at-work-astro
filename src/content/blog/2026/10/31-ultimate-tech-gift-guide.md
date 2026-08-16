@@ -27,6 +27,8 @@ Holiday shopping for the tech-inclined people in your life? This is your one-sto
 - **For the remote worker:** our [best home office gifts under $100](/best-home-office-gifts-under-100/) guide covers desk upgrades that get used daily.
 - **For a coworker:** our [Secret Santa gifts for coworkers](/best-secret-santa-gifts-coworkers/) guide keeps it useful and workplace-safe.
 
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+
 ## Shop by Budget
 
 - **Under $25 (stocking stuffers):** our [best tech stocking stuffers](/best-tech-stocking-stuffers/) list is full of small, genuinely useful gadgets.

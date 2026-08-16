@@ -23,6 +23,8 @@ So you're thinking about getting a 3D printer and want to know what it *actually
 
 I've been printing for a while now, and I can tell you: the printer price is just the beginning. There's filament, electricity, failed prints, replacement parts, and that irresistible urge to upgrade everything. Let me break it all down so you know exactly what you're getting into.
 
+> **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
+
 If you're still on the fence about whether to buy one at all, check out my [honest analysis of whether 3D printing is worth it](/is-3d-printing-worth-it/) first.
 
 ## Upfront Costs: The Printer Itself

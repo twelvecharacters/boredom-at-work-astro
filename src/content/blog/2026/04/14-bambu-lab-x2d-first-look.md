@@ -24,6 +24,8 @@ Bambu Lab just announced the X2D, the company's first compact 3D printer with tr
 
 The X2D launched on April 14, 2026 with the tagline "Xcellence made simple." Here's everything you need to know.
 
+> **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
+
 ## What Is the Bambu Lab X2D?
 
 The X2D is Bambu Lab's new flagship desktop 3D printer. The "D" stands for dual, two nozzles with mechanical switching that can print with two different materials in a single job.

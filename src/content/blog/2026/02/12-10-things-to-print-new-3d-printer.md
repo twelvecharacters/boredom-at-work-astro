@@ -22,6 +22,8 @@ So, you’ve finally done it. You unboxed the machine, peeled off the satisfying
 
 The temptation is to head to Thingiverse and download a giant articulated dragon or a high-detail statue of a video game character. **Don't do it.**
 
+> **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
+
 If you want to justify this purchase (especially if you're trying to prove to yourself or your partner that this isn't just a "toy"), start with **functional prints**. The best thing about 3D printing isn't making plastic knick-knacks; it's the ability to solve annoying problems in your daily life, specifically at your desk.
 
 Here are 10 essential prints every new 3D printer owner should queue up in their first week.

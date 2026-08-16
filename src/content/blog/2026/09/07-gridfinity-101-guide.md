@@ -23,6 +23,8 @@ Messy desk drawers are one of the quietest thieves of everyday workplace focus. 
 
 Enter **Gridfinity**, the open-source modular storage system designed specifically for 3D printing. Originally created by maker and designer Zack Freedman, Gridfinity has exploded into an ecosystem of thousands of free, customizable bin models supported by a global maker community.
 
+> **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
+
 Whether you operate a compact minimalist home office or a full electronics workbench, Gridfinity turns chaotic drawers into modular, satisfying organization systems. In this comprehensive guide, we break down the core mathematics behind Gridfinity, evaluate the best baseplate designs, share optimized slicer settings for fast printing, and highlight essential bin designs for your desk setup.
 
 ---

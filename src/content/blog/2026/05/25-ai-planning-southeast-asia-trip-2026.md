@@ -21,6 +21,8 @@ Last year, I planned a [Malaysia trip entirely with ChatGPT](/chatgpt-malaysia-t
 
 **The goal:** Plan an epic November 2026 trip to either Japan, Vietnam, or Cambodia (or a combination) using every AI tool at my disposal.
 
+> **Planning your next adventure with AI?** Read our central [AI Travel Planning Guide](/ai-travel-planning/) to discover prompts, flight-finding strategies, and curated itineraries.
+
 **The twist:** I built my own [AI flight search agent](/build-ai-flight-search-agent/) to find the best deals.
 
 Follow along as I make decisions, find deals, and figure out where I'm actually going.

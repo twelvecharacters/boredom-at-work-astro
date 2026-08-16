@@ -22,6 +22,8 @@ faq:
 
 For over a century, photography was governed by strict, unbreakable laws of physics. To capture more light, you needed a physically larger lens aperture. To freeze fast motion without noise, you needed a massive sensor capable of absorbing photons instantly. To achieve a shallow depth of field, that creamy, beautiful blur behind a subject known as 'bokeh', you needed heavy, expensive, meticulously ground glass.
 
+> **Looking for the bigger picture?** Check out our complete [Photography Guide for Beginners](/photography-guide/) for gear recommendations, camera fundamentals, and editing workflows.
+
 This paradigm birthed the modern DSLR (Digital Single-Lens Reflex) and its successor, the Mirrorless camera. These machines are magnificent feats of optical engineering. They are also incredibly heavy, notoriously expensive, and require a steep learning curve to operate manually.
 
 Then came the smartphone. 

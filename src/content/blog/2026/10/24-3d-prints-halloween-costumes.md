@@ -22,6 +22,8 @@ A store-bought costume is fine. A costume with custom 3D printed pieces is unfor
 
 (Decorating the house too? See our [3D printed Halloween decorations](/3d-printed-halloween-decorations/) guide.)
 
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+
 ## Wearable Pieces
 
 - **Masks and half-masks.** The showpiece of many costumes. Print in parts if needed, then sand and paint for a finished look.

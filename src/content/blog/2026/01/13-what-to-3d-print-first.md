@@ -27,6 +27,8 @@ You've set up your first 3D printer and you're wondering: What should I 3D print
 
 The wrong first projects lead to frustration and wasted material. The right projects teach you the basics, test your printer, and deliver useful results.
 
+> **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
+
 Here are 25 perfect first 3D prints, sorted by difficulty - from your first test print to impressive projects.
 
 ## Level 1: Test Prints (Start Here!)

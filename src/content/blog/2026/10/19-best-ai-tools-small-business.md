@@ -22,6 +22,8 @@ When you run a small business, you are the marketing team, the support desk, and
 
 (New to AI at work? Our [AI tools guide](/ai-tools-guide/) is a friendly starting point.)
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 ## The One to Start With: A General Assistant
 
 If you adopt one tool, make it a general AI assistant like **ChatGPT** or **Claude**. It is the Swiss Army knife of a small business:

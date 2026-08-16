@@ -27,6 +27,8 @@ The landscape of software development has undergone a tectonic shift over the la
 
 Gone are the days when learning a programming language meant memorizing endless syntax rules. Today, AI coding assistants handle much of the boilerplate, meaning that a developer's true value lies in system design, logical problem solving, and understanding the core paradigms of the languages they use. The best programming languages to learn today are those that empower you to build scalable, secure, and intelligent applications.
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 In this comprehensive guide, we will break down the top programming languages to learn in 2026, exploring their primary use cases, their learning curves, and why they deserve your attention. Whether you are an absolute beginner looking for your first language, or a seasoned senior engineer looking to expand your toolkit, this guide will help you make an informed decision.
 
 ## The AI Shift in Software Engineering

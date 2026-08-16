@@ -27,6 +27,8 @@ If you've spent any time on the internet in recent years, you've almost certainl
 
 In 2026, the digital landscape is more complex than ever. Our lives are inextricably linked to the internet, our banking, our medical records, our personal communications, and our entertainment all flow through digital pipes. As our reliance on the internet has grown, so too have the threats to our privacy and security.
 
+> **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
+
 This comprehensive guide will demystify the VPN, explaining exactly how it works, why it's a non-negotiable tool for the modern internet user, and how to choose the right one for your needs.
 
 ---

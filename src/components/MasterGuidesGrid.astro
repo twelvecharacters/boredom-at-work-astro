@@ -1,0 +1,119 @@
+---
+interface MasterGuide {
+  title: string;
+  subtitle: string;
+  href: string;
+  badge: string;
+  icon: string;
+  gradient: string;
+  stat: string;
+}
+
+const masterGuides: MasterGuide[] = [
+  {
+    title: "How to Learn AI in 2026",
+    subtitle: "From beginner concepts to job-ready prompting workflows and free courses.",
+    href: "/learn-ai-guide/",
+    badge: "Most Popular",
+    icon: "🧠",
+    gradient: "from-indigo-600/10 via-purple-600/5 to-transparent border-indigo-500/20",
+    stat: "50+ Guides"
+  },
+  {
+    title: "The Ultimate 3D Printing Guide",
+    subtitle: "Printers under $300, slicing best practices, filament guides, and fixes.",
+    href: "/3d-printing-guide/",
+    badge: "Hardware",
+    icon: "🖨️",
+    gradient: "from-amber-600/10 via-orange-600/5 to-transparent border-amber-500/20",
+    stat: "55+ Guides"
+  },
+  {
+    title: "Master Desk Upgrade & WFH Setup",
+    subtitle: "Ergonomics, standing desks, monitor arms, cable routing, and lighting.",
+    href: "/desk-upgrade-guide/",
+    badge: "Workstation",
+    icon: "🖥️",
+    gradient: "from-emerald-600/10 via-teal-600/5 to-transparent border-emerald-500/20",
+    stat: "50+ Guides"
+  },
+  {
+    title: "ChatGPT & Prompt Master Guide",
+    subtitle: "Advanced workflows, prompt frameworks, and office productivity templates.",
+    href: "/chatgpt-guide/",
+    badge: "Productivity",
+    icon: "⚡",
+    gradient: "from-blue-600/10 via-cyan-600/5 to-transparent border-blue-500/20",
+    stat: "45+ Guides"
+  },
+  {
+    title: "Investing Tools & Market Research",
+    subtitle: "Stock screeners, paper trading apps, dividend trackers, and analysis.",
+    href: "/investing-tools-guide/",
+    badge: "Finance",
+    icon: "📈",
+    gradient: "from-rose-600/10 via-pink-600/5 to-transparent border-rose-500/20",
+    stat: "20+ Guides"
+  },
+  {
+    title: "Beginner Photography Blueprint",
+    subtitle: "Affordable mirrorless bodies, essential lens picks, and RAW editing.",
+    href: "/photography-guide/",
+    badge: "Creative",
+    icon: "📷",
+    gradient: "from-violet-600/10 via-purple-600/5 to-transparent border-violet-500/20",
+    stat: "20+ Guides"
+  }
+];
+---
+
+<section class="py-16 md:py-20 bg-background-alt border-b border-primary/5">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="flex flex-col md:flex-row md:items-end justify-between mb-10 gap-4">
+      <div>
+        <span class="text-xs font-extrabold uppercase tracking-wider text-accent bg-accent/10 px-3 py-1 rounded-full inline-block mb-3">
+          Cornerstone Playbooks
+        </span>
+        <h2 class="text-3xl md:text-4xl font-extrabold text-primary tracking-tight">
+          Master Guides & Learning Roadmaps
+        </h2>
+      </div>
+      <p class="text-text-light max-w-md text-sm md:text-base">
+        Deep-dive blueprints to help you turn work downtime into real-world skills, creative hobbies, and setup upgrades.
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {masterGuides.map((guide) => (
+        <a
+          href={guide.href}
+          class={`group relative flex flex-col justify-between p-6 rounded-2xl bg-white border ${guide.gradient} shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden`}
+        >
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-4">
+              <span class="text-3xl group-hover:scale-110 transition-transform origin-left">{guide.icon}</span>
+              <span class="text-xs font-semibold px-2.5 py-1 rounded-full bg-primary/5 text-text-light group-hover:bg-accent/10 group-hover:text-accent transition-colors">
+                {guide.badge}
+              </span>
+            </div>
+
+            <h3 class="text-xl font-bold text-primary mb-2 group-hover:text-accent transition-colors leading-snug">
+              {guide.title}
+            </h3>
+
+            <p class="text-sm text-text-light leading-relaxed mb-6">
+              {guide.subtitle}
+            </p>
+          </div>
+
+          <div class="flex items-center justify-between pt-4 border-t border-primary/5 text-xs font-medium text-text-light">
+            <span class="text-accent font-semibold">{guide.stat}</span>
+            <span class="flex items-center gap-1 font-bold text-primary group-hover:text-accent transition-colors">
+              Explore Guide <span class="group-hover:translate-x-1 transition-transform">→</span>
+            </span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</section>

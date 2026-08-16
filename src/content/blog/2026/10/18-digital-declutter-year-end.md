@@ -22,6 +22,8 @@ Your phone and laptop accumulate clutter the same way a junk drawer does: quietl
 
 (In the mood to reduce the physical pile too? Our guide on [how to stop buying tech you do not need](/stop-buying-tech-you-dont-need/) pairs well with this.)
 
+> **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
+
 ## 1. Clear the Desktop and Downloads
 
 Start with the two folders that collect the most junk:

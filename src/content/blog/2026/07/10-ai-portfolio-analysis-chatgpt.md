@@ -23,6 +23,8 @@ You don't need a Bloomberg Terminal or a finance degree to analyze your investme
 
 I've been using [ChatGPT](/chatgpt-guide/) and Claude to analyze portfolios, and it's genuinely impressive what a $20/month subscription can do, sector breakdowns, risk analysis, expense ratio audits, and rebalancing suggestions in minutes.
 
+> **Exploring more wealth-building tools?** Browse our full [Investing Tools & Learning Hub](/investing-tools-guide/) for apps, screeners, and beginner strategies.
+
 Here's exactly how to do it, step by step.
 
 *This article is for educational purposes only and does not constitute financial advice. Always verify AI-generated analysis against primary sources before making investment decisions.*

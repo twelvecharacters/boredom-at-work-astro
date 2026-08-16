@@ -24,6 +24,8 @@ The best way to read more is to make reading feel like a treat. A dedicated read
 
 Look for a corner that is:
 
+> **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
+
 - **Quiet,** away from the TV and foot traffic.
 - **Near natural light,** ideally by a window for daytime reading.
 - **Out of the way,** so it stays a reading spot and does not become a dumping ground for clutter.

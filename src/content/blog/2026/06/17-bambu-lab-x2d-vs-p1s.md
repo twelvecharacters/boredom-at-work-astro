@@ -23,6 +23,8 @@ Bambu Lab launched the X2D in April 2026 as the new mid-range flagship. The P1S,
 
 At $549 (P1S) vs $649 base / $899 AMS Combo (X2D), the price gap is real but small. The question is whether the X2D's upgrades justify the difference for your specific use case.
 
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+
 Here's the honest comparison after enough community testing data to draw real conclusions.
 
 ## Quick Verdict

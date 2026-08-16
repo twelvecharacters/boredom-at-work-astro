@@ -27,6 +27,8 @@ In the world of modern photography, the most debated topic isn't megapixels or b
 
 Understanding the difference between **Full Frame**, **APS-C**, and **Micro Four Thirds (MFT)** is essential because it influences the "look" of your images, the weight of your bag, and the depth of your bank account. In this comprehensive guide, we will break down the technical realities of each format and help you decide which one aligns with your specific workflow.
 
+> **Looking for the bigger picture?** Check out our complete [Photography Guide for Beginners](/photography-guide/) for gear recommendations, camera fundamentals, and editing workflows.
+
 ## What is Sensor Size and Why Does It Matter?
 
 The sensor is the "digital film" of your camera. It is the silicon chip that captures light coming through the lens and converts it into electrical signals. While we often obsess over megapixels (the resolution), the physical dimensions of the sensor are arguably more important for image quality.

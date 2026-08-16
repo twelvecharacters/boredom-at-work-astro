@@ -36,6 +36,8 @@ So, you've [mastered your printer](/3d-printing-beginners-guide/). Your desk is 
 
 The short answer is: **Yes.**
 
+> **Exploring more wealth-building tools?** Browse our full [Investing Tools & Learning Hub](/investing-tools-guide/) for apps, screeners, and beginner strategies.
+
 The long answer is that selling 3D prints is a real business, and like any business, it requires more than just hitting 'print'. But if you're looking for a productive way to spend your office downtime, researching and setting up your online shop is the perfect pivot.
 
 In this guide, we're going to walk through how to build a 3D printing side hustle from your desk, covering everything from platform selection to the scary legal stuff.

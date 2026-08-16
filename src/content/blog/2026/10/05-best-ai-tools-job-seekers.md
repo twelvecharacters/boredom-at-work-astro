@@ -22,6 +22,8 @@ A modern job hunt is a lot of repetitive writing: tailoring your resume for ever
 
 (Already at the interview stage? Our [AI job interview prep](/ai-job-interview-prep/) guide covers that part in depth.)
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 ## Resume and Cover Letters
 
 This is where AI saves the most time.

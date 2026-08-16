@@ -27,6 +27,8 @@ ChatGPT can save you hours every day. It can draft your emails, explain complex 
 
 But here's the thing: most people barely scratch the surface of what it can do. They type in a basic question, get a basic answer, and wonder what all the fuss is about.
 
+> **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
+
 This guide will take you from complete beginner to confident user. By the end, you'll understand not just how to use ChatGPT, but how to use it well.
 
 ## What Is ChatGPT?

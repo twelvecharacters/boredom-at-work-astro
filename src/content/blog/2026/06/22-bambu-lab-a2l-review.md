@@ -24,6 +24,8 @@ Just when it looked like Bambu Lab was done with bed-slingers, they added a bigg
 
 The **A2L** started shipping globally on June 1, 2026. If the A1 was the machine that made 3D printing feel like an "appliance," the A2L is Bambu's attempt to do the same for *large-format* printing. For years, if you wanted to print something bigger than 256mm, you either paid industrial-machine money or spent weekends troubleshooting a finicky budget "max" printer.
 
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+
 The A2L enters the market at **$469** ($569 with the AMS Lite), aiming squarely at the maker who has outgrown a standard 256mm bed but doesn't want to jump to a flagship enclosed machine. Here's what the specs actually mean, and who this printer is, and isn't, for.
 
 ---

@@ -31,6 +31,8 @@ We've all been there: staring at a screen, waiting for five o'clock, looking for
 
 If you are still using AI just to summarize short articles or write basic emails, you are missing out on the quiet revolution happening over at Google.
 
+> **Exploring more wealth-building tools?** Browse our full [Investing Tools & Learning Hub](/investing-tools-guide/) for apps, screeners, and beginner strategies.
+
 The mid-2026 landscape of artificial intelligence is hyper-competitive. While the conversation often circles back to ChatGPT's latest voice models or Claude's writing prowess, Google Gemini has quietly built the ultimate toolset for the modern office worker. 
 
 With the release of the **Gemini 2.5 Pro** and **Gemini 3.5 Flash** models, Google has shifted from catching up to setting the pace. This is the 1,400-word deep dive into the new Gemini features that will fundamentally change how you handle your workday, complete with the exact workflows and prompts to execute them.

@@ -21,6 +21,8 @@ AI isn't replacing jobs. It's changing who gets promoted.
 
 ![AI Robot representing future skills](./ai-robot.webp)
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 The professionals who learn to work effectively with AI are becoming more productive, more valuable, and more promotable. The ones who don't are falling behind.
 
 LinkedIn's latest workforce report names AI literacy as the most in-demand skill of 2026. Every company wants AI-capable employees. The question is: will that be you?

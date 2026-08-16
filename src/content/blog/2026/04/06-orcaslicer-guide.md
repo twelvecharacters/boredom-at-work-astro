@@ -24,6 +24,8 @@ If you’ve been 3D printing for more than a week, you’ve likely settled into 
 
 But there’s a new contender that’s rapidly becoming the daily driver for power users and hobbyists alike: **[OrcaSlicer](https://www.orcaslicer.com)**.
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 Born as a fork of Bambu Studio (which itself was based on PrusaSlicer), OrcaSlicer takes the best parts of the modern Bambu interface and adds the deep, open-source customizability that PrusaSlicer fans love.
 
 In this guide, we’ll explore why you might want to switch, its killer features, and how it compares to the old guard.

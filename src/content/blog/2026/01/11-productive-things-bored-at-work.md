@@ -22,6 +22,8 @@ We've all been there. The afternoon slump hits, your to-do list is clear, or you
 
 Boredom at work isn't wasted time, it's an opportunity. The most successful professionals use these quiet moments to build skills, advance their careers, and set themselves up for future success.
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 Here are 25 genuinely productive things you can do when bored at work, organized from most impactful to quick wins.
 
 ## Learn a New Skill

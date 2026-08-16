@@ -23,6 +23,8 @@ Stock charts look intimidating, all those candles, lines, and squiggly indicator
 
 This guide teaches you chart reading from zero. No finance degree needed.
 
+> **Exploring more wealth-building tools?** Browse our full [Investing Tools & Learning Hub](/investing-tools-guide/) for apps, screeners, and beginner strategies.
+
 *This article is for educational purposes only and does not constitute financial advice.*
 
 ---

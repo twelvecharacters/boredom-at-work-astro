@@ -27,6 +27,8 @@ We live in an age of "Screen Fatigue." Between your ultra-wide monitor, your sma
 
 Every pixel on your main monitor is a battleground for your focus. This is where **TRMNL** enters the chat. It’s not just another screen; it’s an intentional choice to move your secondary data into a tertiary space.
 
+> **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
+
 I’ve been obsessed with E-ink technology ever since I bought my first Kindle (read my [Kindle vs Kobo guide here](/kindle-vs-kobo/)). There is something inherently calm about a screen that doesn't emit light. TRMNL takes that technology and moves it from your hand to your desk, acting as a "living paper" that keeps you informed without demanding your soul.
 
 ## What exactly is TRMNL?

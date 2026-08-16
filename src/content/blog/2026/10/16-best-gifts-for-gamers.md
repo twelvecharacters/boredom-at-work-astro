@@ -24,6 +24,8 @@ Buying for a gamer is tricky: get the wrong game or the wrong platform and it is
 
 Gamers sit for hours, and a good chair is the upgrade they feel every single day. A supportive seat protects their back during marathon sessions and doubles as a work-from-home chair. Our [best office chairs](/best-office-chairs/) guide covers ergonomic picks that work just as well for gaming.
 
+> **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
+
 **Best for:** anyone who games (or works) for long stretches.
 
 ## For Eye Comfort: A Monitor Light Bar

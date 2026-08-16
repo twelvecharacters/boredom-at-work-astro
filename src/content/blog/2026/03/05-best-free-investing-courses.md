@@ -22,6 +22,8 @@ faq:
 
 You're sitting at your desk, pretending to read that quarterly report, and you keep thinking about how your savings account is earning 0.01% while inflation eats your lunch. You know you should learn about investing. You've been telling yourself that for years.
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 Here's the thing, you have 8 hours a day at a desk with internet access. Some of those hours are genuinely unproductive. You could spend them scrolling Reddit, or you could spend them learning a skill that literally pays dividends.
 
 I went through every major free investing course I could find. Audited university courses on Coursera, worked through Khan Academy modules during lunch breaks, and clicked through more Morningstar lessons than I'd like to admit. Some are excellent. Some are a waste of time dressed up in a university logo.

@@ -22,6 +22,8 @@ It is Thursday evening, and the weekly team happy hour is in full swing. The flu
 
 This scenario is so deeply ingrained in modern professional life that we rarely pause to question it. The "work hard, play hard" mantra has become a foundational pillar of corporate culture, particularly in high-stress industries like finance, law, tech, and consulting. But beneath the veneer of camaraderie and networking lies a complex, often perilous relationship between ambition, substance use, and the climb up the corporate ladder.
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 In our relentless pursuit of success, we have inadvertently normalized a culture where alcohol and, increasingly, other drugs are not just recreational indulgences, but strategic tools for survival, networking, and performance. This extensive exploration will pull back the curtain on this hidden aspect of corporate life. We will examine how substances are used to lubricate the gears of ambition, the insidious toll this takes on mental and physical health, and the ultimate, often invisible, impact it has on the very career trajectory it was supposed to enhance.
 
 ## The Lubricant of Success: The Normalization of Alcohol

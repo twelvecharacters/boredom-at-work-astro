@@ -24,6 +24,8 @@ The average office worker spends 28% of their work week on email and another 20%
 
 Here are 7 tasks you can automate today, no coding required, most in under 30 minutes to set up.
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 ---
 
 ## The Tools You'll Need

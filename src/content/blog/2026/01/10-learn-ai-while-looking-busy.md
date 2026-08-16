@@ -21,6 +21,8 @@ Let's be honest: most jobs have downtime. There's the post-lunch slump, the wait
 
 Learning AI during work downtime is the ultimate professional hack. You're building valuable skills, you look productive, and you're getting paid while doing it.
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 Here's how to do it without raising eyebrows.
 
 ## Why AI Is the Perfect "At Work" Skill

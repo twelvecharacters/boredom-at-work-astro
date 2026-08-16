@@ -23,6 +23,8 @@ If you're anything like me, your desk is a constant battleground between "gettin
 
 The beauty of owning a 3D printer isn't just making plastic dragons or articulated octopuses; it's the ability to solve specific, annoying problems in your environment for pennies. Whether you're working from home or trying to make your office cubicle feel more functional, 3D printing allows you to engineer your way out of frustration.
 
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+
 In this guide, we aren't looking at "showcase" prints. We are looking at the highest-leverage upgrades you can make today, functional, fast, and incredibly cheap additions that transform a cluttered workspace into a high-performance cockpit.
 
 ## The Psychology of the Perfect Desk

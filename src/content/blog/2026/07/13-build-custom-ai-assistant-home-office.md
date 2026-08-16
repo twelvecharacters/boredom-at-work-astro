@@ -21,6 +21,8 @@ faq:
 
 In the past few years, the concept of a "smart home" has largely been defined by turning on lights with your voice or asking a plastic cylinder for the weather forecast. However, if you are a remote worker, freelancer, or creator spending hours in a home office, basic smart home features don't actually move the needle on your productivity. You don't just need a voice to set a timer; you need a co-worker. You need a dedicated, intelligent entity that understands your workflows, knows your schedule, drafts your emails, and helps you brainstorm. 
 
+> **Level up your prompt workflow:** Explore our complete [ChatGPT Guide](/chatgpt-guide/) covering essential workflows, prompt frameworks, and productivity hacks.
+
 Welcome to the era of the custom AI assistant. 
 
 Building a personalized AI assistant used to be the domain of software engineers and machine learning experts. Today, thanks to the explosion of no-code AI platforms, anyone can build a tailored, highly capable digital assistant. In this comprehensive guide, we will walk you through exactly how to build a custom AI assistant for your home office in 2026, without writing a single line of code.

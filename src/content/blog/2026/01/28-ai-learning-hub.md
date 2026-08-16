@@ -26,6 +26,8 @@ AI isn't coming for your job, but someone who knows how to use AI might. The goo
 
 This hub organizes everything you need to go from AI-curious to AI-competent: tutorials, free courses, tool comparisons, and career strategies. No fluff, no hype, just practical skills that matter.
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 ---
 
 ## Why Learn AI Now?

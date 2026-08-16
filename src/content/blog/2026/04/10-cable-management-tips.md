@@ -42,6 +42,8 @@ A tangle of cables ruins even the best desk setup. You spent money on a nice mon
 
 Good news: cable management isn't complicated or expensive. With $30-50 in products and an hour of work, you can transform your desk from chaos to clean.
 
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+
 This guide covers the practical approach, what actually works, what products are worth buying, and a step-by-step process to get it done.
 
 ---

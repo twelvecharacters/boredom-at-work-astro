@@ -24,6 +24,8 @@ There is a massive difference between 3D printing a decorative dragon and 3D pri
 
 This guide covers 20 of the most genuinely useful things you can 3D print, organized by category so you can jump straight to what you need. Every item includes estimated print time, difficulty level, and where to grab the STL file.
 
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+
 If you are brand new to 3D printing, start with [what to 3D print first](/what-to-3d-print-first/) to get your printer calibrated. If you already know your way around a slicer, keep reading.
 
 ## Desk Organization

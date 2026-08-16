@@ -23,6 +23,8 @@ Smart glasses have evolved at a breakneck pace over the past few years. What beg
 
 However, as AI glasses transition from niche gadgets for tech enthusiasts into mainstream consumer products, they bring unprecedented surveillance capabilities directly into public spaces. The seamless integration of cameras and multimodal AI onto a user's face fundamentally challenges traditional boundaries of personal privacy, consent, and data security. In this article, we examine the major privacy issues surrounding AI glasses, how technology companies are addressing bystander concerns, the legal landscape governing spatial recording, and what steps consumers can take to navigate this emerging paradigm.
 
+> **Looking for the bigger picture?** Check out our complete [Photography Guide for Beginners](/photography-guide/) for gear recommendations, camera fundamentals, and editing workflows.
+
 ## The Evolution of AI-Powered Wearable Eyewear
 
 To understand the scope of current privacy concerns, it is essential to trace how smart eyewear reached its current sophistication. Early smart glasses were primarily heads-up displays designed to project basic notifications, calendar alerts, or turn-by-turn navigation arrows onto a small optical prism. Their utility was limited, battery life was short, and public pushback against integrated cameras led to widespread social taboos.

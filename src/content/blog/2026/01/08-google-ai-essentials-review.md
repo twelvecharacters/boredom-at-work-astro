@@ -41,6 +41,8 @@ Google AI Essentials has quickly become the go-to AI course for beginners. Launc
 
 But is it actually good? Is the certificate worth paying for? And is it right for you?
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 I completed the entire course to find out. Here's my honest review.
 
 ## Quick Verdict

@@ -20,6 +20,8 @@ If you have spent any amount of time on TikTok or walked through a college campu
 
 To millennials and older generations who lived through the painful era of untangling headphone cords and waiting for camera flashes to recharge, this trend might seem baffling. Why would a generation that grew up as digital natives, surrounded by the most sophisticated consumer technology in human history, voluntarily regress to inferior hardware? 
 
+> **Looking for the bigger picture?** Check out our complete [Photography Guide for Beginners](/photography-guide/) for gear recommendations, camera fundamentals, and editing workflows.
+
 The answer lies in a complex intersection of nostalgia, a rebellion against algorithmic perfection, and a deep-seated desire for authenticity in an increasingly artificial digital landscape. In this article, we will unpack why Gen Z is leading the charge in the retro tech renaissance and what it means for the future of consumer electronics.
 
 ## The Anti-Aesthetic: The Return of Wired Earphones

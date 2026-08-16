@@ -23,6 +23,8 @@ In the hyper-optimized world of 2026, where AI agents handle our emails and LLMs
 
 But here is the uncomfortable truth: if your reading list consists entirely of books with titles like *The 7 Habits of Highly Effective People* or *The Lean Startup*, you are likely suffering from a severe case of "Mental Malnutrition."
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 Welcome to the philosophy of **Productive Procrastination**. 
 
 The idea is simple: the most effective people aren't those who work the hardest, but those who have the richest internal worlds. Your productivity isn't just a function of your to-do list; it’s a function of your curiosity. And there is no better way to cultivate that curiosity than by building a library that balances the tactical with the transcendent.

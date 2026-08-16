@@ -22,6 +22,8 @@ faq:
 
 Here's the beauty of investing podcasts: nobody can tell you're listening to one. Earbuds in, [noise-canceling headphones](/best-noise-canceling-headphones-office/) on, and as far as your coworkers know, you're on a very important conference call.
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 In reality, you're learning about compound interest, index fund allocation, and why Warren Buffett hasn't sold his Coca-Cola shares since 1988. You're getting a finance education during hours that would otherwise be spent staring at Slack messages or pretending to review a document you already reviewed.
 
 I've been listening to investing podcasts during work hours for over a year. Some are genuinely educational. Some are an hour of hosts talking in circles. And some start beginner-friendly but quickly assume you know what a "covered call spread" is.

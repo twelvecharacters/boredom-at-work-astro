@@ -38,6 +38,8 @@ For years, the "holy grail" of consumer 3D printing has been true, full-color re
 
 That changed with the release of **Bambu Studio 2.6.0**. 
 
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+
 By introducing the experimental **Mixed Filament** feature, Bambu Lab has effectively shifted the paradigm from "color swapping" to "color mixing." It’s not a hardware upgrade, it’s a software revolution that leverages the precision of modern motion systems to trick the human eye. 
 
 In this guide, we’re going to explore how this technology works, why it marks a turning point for the community, and how you can start using it today, provided you have the right hardware to handle the overhead.

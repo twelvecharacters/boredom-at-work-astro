@@ -21,6 +21,8 @@ Once you have mastered the basics of PLA and PETG, the natural next step in your
 
 However, TPU has a reputation for being notoriously difficult to print. If you treat it like PLA, it will wrap around your extruder gears, jam your hotend, and string like a spiderweb across your build plate. 
 
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+
 In 2026, 3D printing hardware has evolved. We now have smarter extruders, better slicer profiles, and more accessible filament dryers. Printing flexible materials is no longer a dark art reserved for experts. This comprehensive guide will walk you through everything you need to know to successfully print TPU and other flexible filaments, even if you are an absolute beginner.
 
 ## Understanding Flexible Filaments: The Shore Hardness Scale

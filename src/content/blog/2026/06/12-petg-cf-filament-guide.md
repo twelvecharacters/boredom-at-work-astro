@@ -23,6 +23,8 @@ PETG-CF is one of those materials that gets oversold by manufacturers and unders
 
 Here's what PETG-CF actually is, when it's worth the cost, and how to print it without destroying your printer.
 
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+
 ## What Is PETG-CF?
 
 PETG-CF is PETG (Polyethylene Terephthalate Glycol) with chopped carbon fiber added to the polymer. The carbon fibers are short, typically 100-300 microns, and they act as reinforcement that increases stiffness and dimensional stability.

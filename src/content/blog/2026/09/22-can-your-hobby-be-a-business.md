@@ -23,6 +23,8 @@ Nearly everyone has a creative passion or weekend pastime they love. Whether it 
 
 However, there is a fundamental difference between an enjoyable hobby and a profitable business.
 
+> **Exploring more wealth-building tools?** Browse our full [Investing Tools & Learning Hub](/investing-tools-guide/) for apps, screeners, and beginner strategies.
+
 A hobby exists to bring you personal fulfillment, stress relief, and creative freedom without the pressure of financial return. A business, by contrast, exists to solve a problem for customers, deliver value, and generate net income while managing expenses, taxes, and operational logistics.
 
 Turning a hobby into a business can be one of the most rewarding journeys of your career, but doing so without a clear validation strategy can quickly turn a cherished outlet into a stressful burden.

@@ -26,6 +26,8 @@ faq:
 
 In this comprehensive 3D printing beginner guide, I'll explain everything you need to know to get started. By the end, you'll understand which printer suits you, what materials you need, which [accessories you actually need](/must-have-3d-printing-accessories/), and how to create your first successful print.
 
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+
 ## What Is 3D Printing and How Does FDM Work?
 
 In FDM 3D printing (Fused Deposition Modeling), plastic filament is pushed through a heated nozzle and built up layer by layer into an object. Imagine drawing with a hot glue gun - only much more precise and computer-controlled. (Not sure if FDM is right for you? Read our [FDM vs Resin comparison](/fdm-vs-resin-printing/) to understand the key differences.)

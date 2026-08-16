@@ -22,6 +22,8 @@ It is a thought that creeps into the minds of millions of people every single da
 
 This pervasive belief that our capacity to learn expires at a certain age is one of the most damaging myths in modern society. We have been conditioned to view our twenties as the designated era for education and skill acquisition, and everything after that as a slow, inevitable decline. We assume that if we did not master a language, an instrument, or a technical skill by the time we hit thirty or forty, the window of opportunity has slammed shut forever. 
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 This article will completely dismantle that myth. By examining the science of neuroplasticity, the psychological barriers that actually hold us back, and the unique, powerful advantages that adults bring to the learning process, we will explore exactly why it is never too late to learn something new, and how you can start today. 
 
 ## The Science of Neuroplasticity

@@ -22,6 +22,8 @@ Buying a laptop on a budget used to mean accepting severe compromises: terrible 
 
 However, the definition of a "good" laptop is entirely dependent on your workflow. A machine that is perfect for a computer science student compiling code might be entirely wrong for a digital artist who needs a color-accurate touchscreen. Furthermore, the 2026 market introduces new challenges, including fluctuating component costs and the absolute necessity of having enough memory to run native AI applications.
 
+> **Looking for the bigger picture?** Check out our complete [Photography Guide for Beginners](/photography-guide/) for gear recommendations, camera fundamentals, and editing workflows.
+
 In this comprehensive guide, we are ignoring the marketing noise and categorizing the best laptops under $1,000 strictly by workflow. Whether you are a student, a creative professional, a developer, or someone who just wants a reliable machine that won't die on a cross-country flight, here is exactly what you should buy this year.
 
 ---

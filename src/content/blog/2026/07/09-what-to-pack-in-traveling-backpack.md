@@ -21,6 +21,8 @@ Packing a traveling backpack is as much an art as it is a science. Whether you a
 
 The philosophy behind backpacking is simple: freedom. When your entire life fits into a 40-liter bag, you are no longer constrained by the physical world. You can effortlessly navigate cobblestone streets, sprint to catch a departing train, squeeze onto crowded buses, and walk up five flights of stairs without breaking a sweat. However, this freedom is hard-earned. It requires brutal honesty about what you *actually* need versus what you *might* need. 
 
+> **Planning your next adventure with AI?** Read our central [AI Travel Planning Guide](/ai-travel-planning/) to discover prompts, flight-finding strategies, and curated itineraries.
+
 In this comprehensive 2026 guide, we will break down exactly what to pack in a traveling backpack, covering everything from core clothing strategies to essential electronics, toiletries, and organizational techniques. If you want to travel lighter, smarter, and with greater agility, this is your definitive blueprint.
 
 ## 1. Choosing the Right Backpack: Your Mobile Home

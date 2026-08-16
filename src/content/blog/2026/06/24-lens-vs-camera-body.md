@@ -27,6 +27,8 @@ It’s the most common trap in photography. You’ve been shooting for a year, y
 
 In 2026, I am here to tell you: **Your camera body is almost certainly not the problem.**
 
+> **Looking for the bigger picture?** Check out our complete [Photography Guide for Beginners](/photography-guide/) for gear recommendations, camera fundamentals, and editing workflows.
+
 The digital sensor is the second half of the equation. The first, and arguably most important, is the glass. A mediocre camera body from five years ago paired with a high-end prime lens will outperform a $5,000 flagship paired with a basic kit lens in almost every visual metric that matters.
 
 This is a guide to why "glass first" is the only sustainable philosophy in photography, how a great lens can save a "bad" camera, and how to stop wasting money on megapixels you don't need.

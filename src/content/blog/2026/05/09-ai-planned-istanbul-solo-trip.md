@@ -23,6 +23,8 @@ I gave Claude my dates, hotel, and "make it relaxed", and got back a polished 3-
 
 That's not a complaint. The trip was great. But it taught me something specific about how AI travel planning actually works in the wild: the plan is scaffolding, not a script. Here's the unfiltered debrief, what I actually did, what I skipped, what cost what, and what I'd tell the next solo traveler heading to Istanbul.
 
+> **Level up your prompt workflow:** Explore our complete [ChatGPT Guide](/chatgpt-guide/) covering essential workflows, prompt frameworks, and productivity hacks.
+
 ## Quick Facts
 
 - **Dates:** April 29 – May 2, 2026 (3 nights, solo)

@@ -22,6 +22,8 @@ Drew a coworker's name for Secret Santa and have no idea what they like? Good ne
 
 The golden rule: **keep it useful and neutral.** A gift someone can put on their desk or drink is far better than something too personal.
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 ## The Quick Picks
 
 - **Safest overall:** a small desk plant.

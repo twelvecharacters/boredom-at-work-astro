@@ -24,6 +24,8 @@ faq:
 
 There has never been a better time to get into 3D printing. Just five years ago, spending $500 on a 3D printer meant purchasing a project. You were buying an 'Ender clone', a machine that required dozens of printed upgrades, custom firmware flashes, silent stepper motor board swaps, and an endless reservoir of patience just to achieve a mildly acceptable PLA print. It was a hobby for tinkerers, not a tool for creators.
 
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+
 Today, the landscape is entirely unrecognizable. The $500 price bracket has transformed from a wasteland of finicky Cartesian bed-slingers into a battlefield of ultra-fast, high-precision, fully enclosed CoreXY powerhouses. Machines from titans like Bambu Lab, Creality, and Qidi have democratized speed and reliability. You are no longer buying a project; you are buying an appliance. 
 
 However, alongside this commercial revolution, the DIY community has not remained stagnant. Open-source projects like the Voron Design series and RatRig have pushed the absolute boundaries of what is mechanically possible at home. You can still spend $500 building a printer from scratch. The question is: should you? 

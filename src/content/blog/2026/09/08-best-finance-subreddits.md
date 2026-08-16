@@ -22,6 +22,8 @@ faq:
 
 Reddit has become one of the best places to learn about investing. And one of the worst. Sometimes in the same thread.
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 The good: communities like r/Bogleheads and r/personalfinance have genuinely helped millions of people get their financial lives together. The advice is consistent, evidence-based, and moderated well enough to keep out the worst nonsense.
 
 The bad: communities like r/wallstreetbets glorify risk-taking and have probably cost their collective members more money than a small hedge fund. But they're entertaining, and buried in the memes, there's occasionally real insight.

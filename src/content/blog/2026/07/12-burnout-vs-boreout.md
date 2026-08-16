@@ -22,6 +22,8 @@ faq:
 
 Look around any modern open-plan office, or scroll through any professional networking platform, and the prevailing narrative is singular: everyone is perpetually exhausted. The modern knowledge worker exists in a constant state of low-grade fatigue.
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 For the past decade, corporate HR departments and management gurus have neatly categorized this universal exhaustion under a single, highly popularized umbrella term: **Burnout**. We are told that we are working too hard, that we need to practice better "self-care," that we need to establish stricter boundaries, and that we must disconnect on the weekends.
 
 While burnout is a very real, very dangerous, and officially recognized occupational phenomenon, it is not the only monster in the corporate ecosystem. There is a quiet, insidious twin operating in the shadows. It presents with the exact same symptoms, lethargy, cynicism, and dread, but its root cause is the exact opposite of overwork. 

@@ -35,6 +35,8 @@ If you've spent any significant amount of time "researching" on your Kindle duri
 
 But what if you could turn that $150 Paperwhite into a versatile, open-source powerhouse? Welcome to the world of **Kindle Modding**.
 
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+
 Modding your Kindle isn't just for tech geeks anymore. In 2026, the community has made it more accessible than ever. Whether you want to read EPUBs without conversion, play Sudoku during a meeting, or get actual usable PDF support, this guide has you covered.
 
 ---

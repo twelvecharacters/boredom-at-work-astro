@@ -25,6 +25,8 @@ faq:
 
 If you've ever tried to get a custom part made, whether it's a 3D-printed prototype, a CNC-machined enclosure, or a small batch of sheet metal brackets, you know the drill. You either spend weeks getting quotes from local shops, or you upload your file to one of the big online manufacturing platforms and pay whatever they charge.
 
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+
 [Justway](https://www.justway.com/?from=BC2026B) is one of the platforms in the second camp. It's a China-based, on-demand manufacturing service that handles five different production methods under one roof. The question is: how does it actually compare to the better-known names like PCBWay, JLCPCB, and Xometry?
 
 I spent time on the platform, ran quotes through their system, and dug into their service offering. Here's what I found.

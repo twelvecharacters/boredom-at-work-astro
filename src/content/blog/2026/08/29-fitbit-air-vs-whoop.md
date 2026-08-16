@@ -25,6 +25,8 @@ For the last decade, the wearable market has been obsessed with putting a smartp
 
 In 2026, the pendulum has officially swung back. The fastest-growing segment of the wearable market is **screenless performance trackers**. These devices don't vibrate when you get an email; they don't tell you the time; they just sit silently on your body, collecting data that helps you live better, sleep longer, and train harder.
 
+> **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
+
 The heavyweight champion of this space has long been **WHOOP**. But with the release of the **Fitbit Air**, Google (who now fully manages Fitbit) is making a direct play for the biohacking and athletic crowd. 
 
 This is an exhaustive, 1,600-word comparison of the two most advanced screenless wearables on the market today.

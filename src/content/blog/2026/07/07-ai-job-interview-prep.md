@@ -23,6 +23,8 @@ A friend of mine had a senior PM interview at a fintech company. She called me t
 
 She got the offer.
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 I'm not saying AI did the work for her. She had the experience, the skills, and the personality. But AI compressed what would normally be a week of scattered preparation into one focused evening. And the structure it gave her answers made a noticeable difference.
 
 Here's the exact workflow we used, broken into four phases. Total time: about 2 hours and 15 minutes. Every prompt is copy-paste ready.

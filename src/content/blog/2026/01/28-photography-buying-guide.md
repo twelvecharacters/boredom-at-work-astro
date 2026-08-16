@@ -28,6 +28,8 @@ So you want to get into photography. The internet is full of gear heads arguing 
 
 This hub brings together everything you need to make smart buying decisions, from whether you even need a camera to exactly what to buy at every budget level.
 
+> **Looking for the bigger picture?** Check out our complete [Photography Guide for Beginners](/photography-guide/) for gear recommendations, camera fundamentals, and editing workflows.
+
 ---
 
 ## Before You Buy: The Honest Questions

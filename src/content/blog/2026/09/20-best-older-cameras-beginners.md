@@ -23,6 +23,8 @@ In an era dominated by $1,200 smartphones featuring heavy computational photo pr
 
 However, computational processing cannot teach you the art of manual photography.
 
+> **Looking for the bigger picture?** Check out our complete [Photography Guide for Beginners](/photography-guide/) for gear recommendations, camera fundamentals, and editing workflows.
+
 If you truly want to learn how light, shutter speed, aperture, and ISO interact to create compelling imagery, nothing replaces a dedicated camera with physical control dials and optical glass lenses.
 
 The best secret in photography in 2026 is that you do not need to spend thousands of dollars on a brand-new mirrorless camera to get started. Older digital DSLRs, classic Micro Four Thirds mirrorless bodies, and legendary full-frame cameras manufactured between 2008 and 2016 deliver incredible image quality, rich color depth, and tactile physical feedback for anywhere between $150 and $400.

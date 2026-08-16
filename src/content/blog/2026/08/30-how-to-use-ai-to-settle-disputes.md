@@ -22,6 +22,8 @@ Conflict is an inescapable part of human interaction. Whether you are trying to 
 
 When two people reach an impasse, they usually seek a mediator. However, turning to mutual friends, family members, or workplace managers can introduce bias, social awkwardness, and added tension. This is where artificial intelligence offers an unexpected solution. 
 
+> **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
+
 Large Language Models (LLMs) such as [OpenAI ChatGPT](https://chatgpt.com), [Anthropic Claude](https://claude.ai), and [Google Gemini](https://gemini.google.com) possess qualities that human mediators often struggle to maintain: absolute emotional detachment, zero personal stake in the outcome, unlimited patience, and the ability to organize chaotic arguments into structured, objective options.
 
 Using AI as a neutral third-party conflict mediator is not about letting a machine rule your life. It is about leveraging AI to strip away emotional noise, uncover shared interests, and draft win-win solutions that both parties can accept. In this guide, we will explore why AI works so well for resolving everyday disagreements, walk through a step-by-step resolution framework, provide copy-paste prompt templates, and highlight the boundaries where human judgment must take over.

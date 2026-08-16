@@ -20,6 +20,8 @@ Have you ever found yourself browsing Amazon at 2:00 AM, desperately convinced t
 
 Welcome to the modern tech consumerism trap. It is a loop that many of us fall into, especially when we work from home, spend hours at a desk, or harbor creative aspirations like photography or 3D printing. The thrill of the purchase, the anticipation of the delivery, and the temporary dopamine hit of unboxing a new gadget are powerful psychological drivers. But this endless cycle of buying new tech we do not actually need is draining our wallets, cluttering our workspaces, and ultimately distracting us from the very work or hobbies we claim to be optimizing.
 
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+
 If you are struggling with the urge to constantly buy new stuff, this guide is for you. We are going to unpack the psychology behind why we buy gadgets we do not need, and provide a concrete, step-by-step decision-making framework to help you evaluate your next purchase. Before you click "Buy Now" on that fifth pair of headphones or that new vintage camera lens, read this.
 
 ## The Psychology Behind Tech Consumerism

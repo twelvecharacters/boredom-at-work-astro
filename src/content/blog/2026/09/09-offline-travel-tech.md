@@ -23,6 +23,8 @@ Modern international travel has spoiled us with constant cellular connectivity. 
 
 Relying entirely on live internet access during travel is a risky gamble. When unexpected flight disruptions occur in transit hubs with spotty public Wi-Fi, or when you find yourself navigating winding mountain roads in rural regions without coverage, an unprepared smartphone quickly becomes an expensive paperweight.
 
+> **Planning your next adventure with AI?** Read our central [AI Travel Planning Guide](/ai-travel-planning/) to discover prompts, flight-finding strategies, and curated itineraries.
+
 True travel independence requires setting up an **offline-first digital workflow**. By pre-loading your smartphone, e-reader, and power gear with offline maps, translation packs, local guides, and emergency communication tools before stepping out the door, you eliminate travel anxiety and stay fully capable regardless of network availability.
 
 In this guide, we detail the essential offline navigation tools, offline language packs, e-reader setups, and power management strategies to keep you completely self-reliant anywhere on earth.

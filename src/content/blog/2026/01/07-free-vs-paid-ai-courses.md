@@ -21,6 +21,8 @@ There are thousands of AI courses available. Some are free. Some cost hundreds o
 
 The answer isn't "always" or "never." It depends on what you need, where you're starting, and what outcomes you're after.
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 Here's an honest framework for deciding between free and paid AI courses.
 
 ## The Real Differences

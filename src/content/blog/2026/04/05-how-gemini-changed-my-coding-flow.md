@@ -35,6 +35,8 @@ We’ve all been there. You’re stuck on a weird TypeScript error or trying to 
 
 For the last few months, I’ve been testing a different way: **[Gemini CLI](/gemini-cli-guide/)**. It’s not just another chatbot; it’s an agent that lives inside my terminal. Here is how it fundamentally changed how I build *Boredom at Work*.
 
+> **Master 3D printing from start to finish:** Dive into our complete [3D Printing Guide for Beginners](/3d-printing-guide/) covering printers, troubleshooting, and project ideas.
+
 ## 1. The Death of the "Context Switch"
 
 The biggest killer of productivity isn't a lack of knowledge, it's context switching. Every time you leave your IDE to go to a browser, your brain "reloads." It takes minutes to get back into "the zone." Psychological studies on flow state suggest that even a minor interruption can cost you up to 20 minutes of deep focus. 

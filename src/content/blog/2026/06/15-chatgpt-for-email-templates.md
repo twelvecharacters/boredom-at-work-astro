@@ -23,6 +23,8 @@ Email eats ~30% of the average knowledge worker's day. ChatGPT, used right, cuts
 
 The difference is templates: structured prompts that produce specific email types instead of generic "professional" output. Here are nine that I use regularly, with the actual prompt text you can copy.
 
+> **Level up your prompt workflow:** Explore our complete [ChatGPT Guide](/chatgpt-guide/) covering essential workflows, prompt frameworks, and productivity hacks.
+
 ## Why Templates Beat Just Asking ChatGPT
 
 The default ChatGPT response to "write me an email" produces forgettable corporate-speak. Templates work because they give ChatGPT:

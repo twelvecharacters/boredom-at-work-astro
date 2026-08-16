@@ -22,6 +22,8 @@ faq:
 
 The rapid advancement of Artificial Intelligence (AI) has sparked intense debate and anxiety about the future of work. With headlines predicting mass unemployment and a dystopian future where robots reign supreme, it is understandable that many are concerned about the threat of AI to their jobs. However, the reality is far more nuanced. While AI will undoubtedly cause significant disruption, the narrative of widespread human obsolescence is often overstated. To truly understand the impact of AI on the workforce, we must move beyond the hype and examine the genuine challenges and opportunities it presents. 
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 We are currently navigating a transition phase where the novelty of large language models and generative AI creates an illusion of limitless capability. Because a chatbot can pass the bar exam or write a passable essay, the immediate assumption is that lawyers and writers are obsolete. But intelligence, as it applies to the modern workplace, is not simply about regurgitating facts or identifying patterns. It involves managing relationships, navigating ambiguity, carrying the weight of legal and moral accountability, and building trust. When we examine the threat of AI through a more grounded, pragmatic lens, the conversation shifts from "when will my job disappear?" to "how will my job evolve?"
 
 ## The Historical Context of Technological Disruption

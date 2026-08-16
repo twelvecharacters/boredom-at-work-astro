@@ -22,6 +22,8 @@ The concept of work life balance has been discussed in corporate wellness semina
 
 If you are reading this, chances are you are feeling the strain. You might be answering emails from bed, thinking about Monday's presentation during Sunday dinner, or simply feeling exhausted even when you are supposed to be resting. The modern knowledge worker is perpetually connected, and the cost of this connectivity is our mental health and personal fulfillment.
 
+> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+
 Achieving a sustainable work life balance is not about finding a magic productivity hack or a perfect app. It is about fundamentally restructuring your relationship with your career, setting non-negotiable boundaries, and recognizing that your worth as a human being is not measured by your output. In this comprehensive guide, we will explore practical, actionable strategies to reclaim your time and energy.
 
 ## The Myth of the Perfect Balance
