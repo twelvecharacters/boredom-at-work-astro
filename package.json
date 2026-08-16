@@ -15,6 +15,8 @@
     "traffic": "node scripts/gsc-traffic.js && node scripts/bing-traffic.js",
     "traffic:gsc": "node scripts/gsc-traffic.js",
     "traffic:bing": "node scripts/bing-traffic.js",
+    "traffic:ga4": "node scripts/ga4-traffic.js",
+    "traffic:all": "node scripts/gsc-traffic.js && node scripts/bing-traffic.js && node scripts/ga4-traffic.js",
     "traffic:queries": "node scripts/gsc-traffic.js --queries && node scripts/bing-traffic.js --queries",
     "traffic:cluster": "node scripts/gsc-traffic.js --cluster && node scripts/bing-traffic.js --cluster",
     "export:articles": "node scripts/export-articles.js"
