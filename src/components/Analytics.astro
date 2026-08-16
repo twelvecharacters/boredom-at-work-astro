@@ -33,26 +33,61 @@
     }
   }, { passive: true });
 
-  // 2. Outbound link click tracking
+  // 2. Enhanced Outbound & Affiliate link click tracking
+  var AFFILIATE_DOMAINS = ['amazon.com', 'amzn.to', 'justway.com', 'tradingview.com', 'webull.com', 'etoro.com', 'coursera.org', 'bambulab.com', 'anycubic.com'];
   document.addEventListener('click', function(e) {
     var link = e.target.closest('a[href]');
     if (!link) return;
     var href = link.getAttribute('href');
-    if (href && href.startsWith('http') && !href.includes('boredom-at-work.com')) {
+    if (!href) return;
+
+    // Check for internal Pillar Callout clicks
+    if (href.startsWith('/') && link.closest('blockquote')) {
+      var isPillarLink = href.includes('-guide') || href.includes('travel-planning');
+      if (isPillarLink) {
+        gtag('event', 'pillar_callout_click', {
+          destination_url: href,
+          source_path: window.location.pathname
+        });
+      }
+    }
+
+    // Check for external / affiliate links
+    if (href.startsWith('http') && !href.includes('boredom-at-work.com')) {
       try {
         var urlObj = new URL(href);
+        var hostname = urlObj.hostname.replace(/^www\./, '');
+        
+        var isAffiliate = AFFILIATE_DOMAINS.some(function(d) { return hostname.includes(d); });
+        if (isAffiliate) {
+          gtag('event', 'affiliate_click', {
+            partner: hostname,
+            link_url: href,
+            source_path: window.location.pathname
+          });
+        }
+
         gtag('event', 'outbound_click', {
           link_url: href,
-          link_domain: urlObj.hostname
+          link_domain: hostname
         });
-      } catch(e) {
-        // Fallback if URL parsing fails
+      } catch(err) {
         gtag('event', 'outbound_click', { link_url: href });
       }
     }
   });
 
-  // 3. Form Submission tracking
+  // 3. Code & Prompt Copy tracking
+  document.addEventListener('click', function(e) {
+    var copyBtn = e.target.closest('.expressive-code button, [data-copy-button]');
+    if (copyBtn) {
+      gtag('event', 'copy_code_snippet', {
+        page_path: window.location.pathname
+      });
+    }
+  });
+
+  // 4. Form Submission tracking
   document.addEventListener('submit', function(e) {
     if (e.target.tagName === 'FORM') {
       gtag('event', 'form_submit', {
@@ -62,41 +97,32 @@
     }
   });
 
-  // 4. Search Term tracking (Assuming a search input in a form or a URL parameter)
+  // 5. Search Term tracking (URL query param)
   var urlParams = new URLSearchParams(window.location.search);
   if (urlParams.has('q')) {
     gtag('event', 'view_search_results', { search_term: urlParams.get('q') });
   }
 
-  // 5. Time-on-Page / Engagement Heartbeat (every 30 seconds)
-  setInterval(function() {
-    gtag('event', 'engagement_heartbeat', { duration_seconds: 30 });
-  }, 30000);
-</script>
+  // 6. Active Reading Completion (User stays >= 60s and scrolls >= 75%)
+  var startTime = Date.now();
+  var readCompleted = false;
+  window.addEventListener('scroll', function() {
+    if (readCompleted) return;
+    var scrollPct = Math.round(100 * (window.scrollY + window.innerHeight) / document.documentElement.scrollHeight);
+    var timeElapsed = (Date.now() - startTime) / 1000;
+    if (scrollPct >= 75 && timeElapsed >= 60) {
+      readCompleted = true;
+      gtag('event', 'article_read_complete', {
+        page_path: window.location.pathname,
+        time_spent_seconds: Math.round(timeElapsed)
+      });
+    }
+  }, { passive: true });
 
-<!--
-  Page views for Astro View Transitions (ClientRouter, enabled 2026-07-01).
-  The partytown gtag config above only sends a page_view on the initial hard
-  load. In-site navigations are client-side and re-run neither the config nor
-  gtag, so they went untracked in GA4 (looked like a traffic drop, wasn't one).
-  This main-thread listener forwards a page_view on each transition via
-  dataLayer.push, which astro.config.mjs forwards to the partytown GA worker.
-  astro:after-swap fires on navigations only (not the first load), so the
-  initial config's page_view is not double-counted.
--->
-<script is:inline>
-  if (!window.__ga4PageViewBound) {
-    window.__ga4PageViewBound = true;
-    document.addEventListener('astro:after-swap', function () {
-      (window.dataLayer = window.dataLayer || []).push([
-        'event',
-        'page_view',
-        {
-          page_path: location.pathname + location.search,
-          page_location: location.href,
-          page_title: document.title,
-        },
-      ]);
-    });
-  }
+  // 7. Time-on-Page / Engagement Heartbeat (every 30 seconds)
+  setInterval(function() {
+    if (document.visibilityState === 'visible') {
+      gtag('event', 'engagement_heartbeat', { duration_seconds: 30 });
+    }
+  }, 30000);
 </script>

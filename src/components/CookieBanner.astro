@@ -59,7 +59,16 @@
         var status = granted ? 'granted' : 'denied';
         localStorage.setItem('cookie_consent', status);
 
-        // Update Google Consent Mode dynamically
+        // Update Google Consent Mode dynamically via dataLayer for Partytown
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push([
+          'consent',
+          'update',
+          {
+            'analytics_storage': status
+          }
+        ]);
+
         if (typeof window.gtag === 'function') {
           window.gtag('consent', 'update', {
             'analytics_storage': status
