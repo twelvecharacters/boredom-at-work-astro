@@ -296,6 +296,12 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
     "image": new URL(typeof image === 'string' ? image : (image?.src || ogDefault.src), Astro.site).toString(),
     "datePublished": publishDate.toISOString(),
     "dateModified": (updatedDate || publishDate).toISOString(),
+    "wordCount": wordCount,
+    "keywords": tags.join(', '),
+    "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [".tldr-box", "header h1", "header p"]
+    },
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": new URL(Astro.url.pathname, Astro.site).toString()
