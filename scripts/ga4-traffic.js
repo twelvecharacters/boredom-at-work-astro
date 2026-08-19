@@ -3,14 +3,16 @@
 /**
  * GA4 Traffic & User Event Intelligence Report
  *
- * Reads custom events (affiliate clicks, site search, pillar clicks, code copy, reading completion)
+ * Reads traffic, user behavior, pageviews, sources, devices, and custom events
+ * (affiliate clicks, outbound links, pillar clicks, code copy, reading completion)
  * directly from the Google Analytics 4 Data API.
  *
  * Usage:
- *   node scripts/ga4-traffic.js                      # Full events overview
- *   node scripts/ga4-traffic.js --affiliate          # Detailed affiliate clicks breakdown
- *   node scripts/ga4-traffic.js --search             # Top Pagefind internal searches
- *   node scripts/ga4-traffic.js --engagement         # Reading completion & copy stats
+ *   node scripts/ga4-traffic.js                      # Full comprehensive intelligence report
+ *   node scripts/ga4-traffic.js --pages              # Top visited pages & average engagement time
+ *   node scripts/ga4-traffic.js --sources            # Traffic sources & mediums
+ *   node scripts/ga4-traffic.js --outbound           # Outbound & partner link clicks
+ *   node scripts/ga4-traffic.js --devices            # Device categories & countries
  *   node scripts/ga4-traffic.js --days 14            # Specific date range (default 28)
  */
 
@@ -30,6 +32,7 @@ const RED = '\x1b[31m';
 const YELLOW = '\x1b[33m';
 const CYAN = '\x1b[36m';
 const MAGENTA = '\x1b[35m';
+const BLUE = '\x1b[34m';
 const DIM = '\x1b[2m';
 const RESET = '\x1b[0m';
 
@@ -38,6 +41,13 @@ function padL(s, n) { return String(s || '').slice(0, n).padStart(n); }
 
 function formatDate(d) {
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+}
+
+function formatDuration(seconds) {
+  const s = Math.round(Number(seconds) || 0);
+  const m = Math.floor(s / 60);
+  const remSec = s % 60;
+  return `${m}m ${remSec < 10 ? '0' : ''}${remSec}s`;
 }
 
 // --- JWT Auth for Service Account ---
@@ -175,9 +185,11 @@ function loadConfig() {
 async function main() {
   const args = process.argv.slice(2);
   const days = parseInt(args.find((_, i, a) => a[i - 1] === '--days') || '28');
-  const showAffiliate = args.includes('--affiliate');
-  const showSearch = args.includes('--search');
-  const showEngagement = args.includes('--engagement');
+  const showOnlyPages = args.includes('--pages');
+  const showOnlySources = args.includes('--sources');
+  const showOnlyOutbound = args.includes('--outbound');
+  const showOnlyDevices = args.includes('--devices');
+  const isFiltered = showOnlyPages || showOnlySources || showOnlyOutbound || showOnlyDevices;
 
   const { credentials, propertyId } = loadConfig();
 
@@ -204,93 +216,199 @@ async function main() {
   const startStr = formatDate(startDate);
   const endStr = formatDate(endDate);
 
-  console.log(`\n${'═'.repeat(75)}`);
+  console.log(`\n${'═'.repeat(80)}`);
   console.log(`  ${BOLD}GA4 USER INTELLIGENCE & EVENT REPORT — boredom-at-work.com${RESET}`);
   console.log(`  Property: ${propertyId} | Range: ${startStr} → ${endStr} (${days} days)`);
-  console.log(`${'═'.repeat(75)}\n`);
+  console.log(`${'═'.repeat(80)}\n`);
 
   process.stdout.write(`  Authenticating with GA4 Data API... `);
   const token = await getAccessToken(credentials);
   console.log(`${GREEN}OK${RESET}\n`);
 
-  // 1. Overall Events Summary
-  process.stdout.write(`  Fetching custom event counts... `);
-  const eventReport = await runGA4Report(token, propertyId, {
-    dateRanges: [{ startDate: startStr, endDate: endStr }],
-    dimensions: [{ name: 'eventName' }],
-    metrics: [{ name: 'eventCount' }, { name: 'totalUsers' }],
-    orderBys: [{ metric: { metricName: 'eventCount' }, desc: true }]
-  });
-  console.log(`${GREEN}OK${RESET}\n`);
-
-  const eventRows = eventReport.rows || [];
-  console.log(`${BOLD}📊 ALL SITE EVENTS${RESET}`);
-  console.log(`   ${padR('Event Name', 35)} ${padL('Count', 10)} ${padL('Users', 10)}`);
-  console.log(`   ${'─'.repeat(58)}`);
-  for (const r of eventRows) {
-    const name = r.dimensionValues[0].value;
-    const count = parseInt(r.metricValues[0].value, 10);
-    const users = parseInt(r.metricValues[1].value, 10);
-    const isCustom = ['affiliate_click', 'site_search', 'pillar_callout_click', 'copy_code_snippet', 'article_read_complete'].includes(name);
-    const color = isCustom ? GREEN : RESET;
-    console.log(`   ${color}${padR(name, 35)}${RESET} ${padL(count, 10)} ${padL(users, 10)}`);
-  }
-  console.log('');
-
-  // 2. Affiliate Click Breakdown
-  if (showAffiliate || (!showSearch && !showEngagement)) {
+  // 1. Overall Traffic Summary
+  if (!isFiltered) {
     try {
-      const affReport = await runGA4Report(token, propertyId, {
+      const summaryReport = await runGA4Report(token, propertyId, {
         dateRanges: [{ startDate: startStr, endDate: endStr }],
-        dimensions: [{ name: 'customEvent:partner' }, { name: 'pagePath' }],
-        metrics: [{ name: 'eventCount' }],
-        dimensionFilter: {
-          filter: { fieldName: 'eventName', stringFilter: { matchType: 'EXACT', value: 'affiliate_click' } }
-        },
+        metrics: [
+          { name: 'totalUsers' },
+          { name: 'newUsers' },
+          { name: 'sessions' },
+          { name: 'screenPageViews' },
+          { name: 'averageSessionDuration' },
+          { name: 'bounceRate' }
+        ]
+      });
+
+      const row = summaryReport.rows?.[0]?.metricValues || [];
+      if (row.length >= 6) {
+        const totalUsers = parseInt(row[0].value, 10);
+        const newUsers = parseInt(row[1].value, 10);
+        const sessions = parseInt(row[2].value, 10);
+        const pageviews = parseInt(row[3].value, 10);
+        const avgDuration = parseFloat(row[4].value);
+        const bounceRate = (parseFloat(row[5].value) * 100).toFixed(1);
+
+        console.log(`${BOLD}📈 CORE PERFORMANCE METRICS${RESET}`);
+        console.log(`   ${padR('Total Users:', 22)} ${BOLD}${GREEN}${totalUsers.toLocaleString()}${RESET} (${newUsers.toLocaleString()} new)`);
+        console.log(`   ${padR('Sessions:', 22)} ${sessions.toLocaleString()} (${(sessions / (totalUsers || 1)).toFixed(2)} sessions/user)`);
+        console.log(`   ${padR('Pageviews:', 22)} ${pageviews.toLocaleString()} (${(pageviews / (sessions || 1)).toFixed(2)} views/session)`);
+        console.log(`   ${padR('Avg Session Time:', 22)} ${formatDuration(avgDuration)}`);
+        console.log(`   ${padR('Bounce Rate:', 22)} ${parseFloat(bounceRate) > 70 ? RED : GREEN}${bounceRate}%${RESET}`);
+        console.log('');
+      }
+    } catch (e) {
+      console.log(`${DIM}Failed to fetch traffic summary: ${e.message}${RESET}\n`);
+    }
+  }
+
+  // 2. Events Breakdown
+  if (!isFiltered) {
+    try {
+      const eventReport = await runGA4Report(token, propertyId, {
+        dateRanges: [{ startDate: startStr, endDate: endStr }],
+        dimensions: [{ name: 'eventName' }],
+        metrics: [{ name: 'eventCount' }, { name: 'totalUsers' }],
         orderBys: [{ metric: { metricName: 'eventCount' }, desc: true }]
       });
 
-      const affRows = affReport.rows || [];
-      if (affRows.length > 0) {
-        console.log(`${BOLD}🛒 AFFILIATE CLICKS BY PARTNER & ARTICLE${RESET}`);
-        console.log(`   ${padR('Partner', 22)} ${padR('Source Article', 40)} ${padL('Clicks', 8)}`);
-        console.log(`   ${'─'.repeat(73)}`);
-        for (const r of affRows.slice(0, 15)) {
-          const partner = r.dimensionValues[0].value;
-          const page = r.dimensionValues[1].value;
-          const clicks = r.metricValues[0].value;
-          console.log(`   ${YELLOW}${padR(partner, 22)}${RESET} ${CYAN}${padR(page, 40)}${RESET} ${padL(clicks, 8)}`);
+      const eventRows = eventReport.rows || [];
+      console.log(`${BOLD}📊 ALL SITE EVENTS${RESET}`);
+      console.log(`   ${padR('Event Name', 35)} ${padL('Count', 10)} ${padL('Users', 10)}`);
+      console.log(`   ${'─'.repeat(58)}`);
+      for (const r of eventRows) {
+        const name = r.dimensionValues[0].value;
+        const count = parseInt(r.metricValues[0].value, 10);
+        const users = parseInt(r.metricValues[1].value, 10);
+        const isCustom = ['affiliate_click', 'site_search', 'pillar_callout_click', 'copy_code_snippet', 'article_read_complete'].includes(name);
+        const color = isCustom ? GREEN : RESET;
+        console.log(`   ${color}${padR(name, 35)}${RESET} ${padL(count, 10)} ${padL(users, 10)}`);
+      }
+      console.log('');
+    } catch (e) {}
+  }
+
+  // 3. Top Visited Pages & Engagement
+  if (!isFiltered || showOnlyPages) {
+    try {
+      const pageReport = await runGA4Report(token, propertyId, {
+        dateRanges: [{ startDate: startStr, endDate: endStr }],
+        dimensions: [{ name: 'pagePath' }],
+        metrics: [
+          { name: 'screenPageViews' },
+          { name: 'totalUsers' },
+          { name: 'userEngagementDuration' },
+          { name: 'bounceRate' }
+        ],
+        orderBys: [{ metric: { metricName: 'screenPageViews' }, desc: true }],
+        limit: 15
+      });
+
+      const pageRows = pageReport.rows || [];
+      if (pageRows.length > 0) {
+        console.log(`${BOLD}📄 TOP VISITED PAGES & ENGAGEMENT${RESET}`);
+        console.log(`   ${padR('Page Path', 42)} ${padL('Views', 8)} ${padL('Users', 8)} ${padL('Avg Time', 10)} ${padL('Bounce', 8)}`);
+        console.log(`   ${'─'.repeat(79)}`);
+        for (const r of pageRows) {
+          const pathName = r.dimensionValues[0].value;
+          const views = parseInt(r.metricValues[0].value, 10);
+          const users = parseInt(r.metricValues[1].value, 10);
+          const durationTotal = parseFloat(r.metricValues[2].value);
+          const avgTimeSec = users > 0 ? durationTotal / users : 0;
+          const bounce = (parseFloat(r.metricValues[3].value) * 100).toFixed(0) + '%';
+          console.log(`   ${CYAN}${padR(pathName, 42)}${RESET} ${padL(views, 8)} ${padL(users, 8)} ${padL(formatDuration(avgTimeSec), 10)} ${padL(bounce, 8)}`);
+        }
+        console.log('');
+      }
+    } catch (e) {
+      console.log(`${DIM}Failed to fetch top pages: ${e.message}${RESET}\n`);
+    }
+  }
+
+  // 4. Traffic Sources & Mediums
+  if (!isFiltered || showOnlySources) {
+    try {
+      const sourceReport = await runGA4Report(token, propertyId, {
+        dateRanges: [{ startDate: startStr, endDate: endStr }],
+        dimensions: [{ name: 'sessionSourceMedium' }],
+        metrics: [{ name: 'sessions' }, { name: 'totalUsers' }, { name: 'bounceRate' }],
+        orderBys: [{ metric: { metricName: 'sessions' }, desc: true }],
+        limit: 10
+      });
+
+      const srcRows = sourceReport.rows || [];
+      if (srcRows.length > 0) {
+        console.log(`${BOLD}🌐 TOP TRAFFIC CHANNELS / SOURCES${RESET}`);
+        console.log(`   ${padR('Source / Medium', 40)} ${padL('Sessions', 10)} ${padL('Users', 10)} ${padL('Bounce', 8)}`);
+        console.log(`   ${'─'.repeat(71)}`);
+        for (const r of srcRows) {
+          const src = r.dimensionValues[0].value;
+          const sess = r.metricValues[0].value;
+          const usrs = r.metricValues[1].value;
+          const bnc = (parseFloat(r.metricValues[2].value) * 100).toFixed(0) + '%';
+          console.log(`   ${YELLOW}${padR(src, 40)}${RESET} ${padL(sess, 10)} ${padL(usrs, 10)} ${padL(bnc, 8)}`);
         }
         console.log('');
       }
     } catch (e) {}
   }
 
-  // 3. Site Search Queries
-  if (showSearch || (!showAffiliate && !showEngagement)) {
+  // 5. Device Categories & Countries
+  if (!isFiltered || showOnlyDevices) {
     try {
-      const searchReport = await runGA4Report(token, propertyId, {
+      const devReport = await runGA4Report(token, propertyId, {
         dateRanges: [{ startDate: startStr, endDate: endStr }],
-        dimensions: [{ name: 'customEvent:search_term' }],
-        metrics: [{ name: 'eventCount' }, { name: 'totalUsers' }],
-        dimensionFilter: {
-          filter: { fieldName: 'eventName', stringFilter: { matchType: 'EXACT', value: 'site_search' } }
-        },
-        orderBys: [{ metric: { metricName: 'eventCount' }, desc: true }]
+        dimensions: [{ name: 'deviceCategory' }],
+        metrics: [{ name: 'totalUsers' }, { name: 'sessions' }],
+        orderBys: [{ metric: { metricName: 'totalUsers' }, desc: true }]
       });
 
-      const searchRows = searchReport.rows || [];
-      if (searchRows.length > 0) {
-        console.log(`${BOLD}🔍 TOP PAGEFIND INTERNAL SEARCHES (Content Opportunities)${RESET}`);
-        console.log(`   ${padR('Search Term', 45)} ${padL('Searches', 10)} ${padL('Users', 10)}`);
-        console.log(`   ${'─'.repeat(68)}`);
-        for (const r of searchRows.slice(0, 15)) {
-          const term = r.dimensionValues[0].value;
-          const count = r.metricValues[0].value;
-          const users = r.metricValues[1].value;
-          console.log(`   ${MAGENTA}${padR(term, 45)}${RESET} ${padL(count, 10)} ${padL(users, 10)}`);
+      const countryReport = await runGA4Report(token, propertyId, {
+        dateRanges: [{ startDate: startStr, endDate: endStr }],
+        dimensions: [{ name: 'country' }],
+        metrics: [{ name: 'totalUsers' }],
+        orderBys: [{ metric: { metricName: 'totalUsers' }, desc: true }],
+        limit: 8
+      });
+
+      console.log(`${BOLD}📱 DEVICES & 🌍 TOP COUNTRIES${RESET}`);
+      const devRows = devReport.rows || [];
+      const devSummary = devRows.map(r => `${r.dimensionValues[0].value}: ${r.metricValues[0].value}`).join(' | ');
+      console.log(`   ${BLUE}Devices:${RESET}  ${devSummary}`);
+
+      const cntRows = countryReport.rows || [];
+      const cntSummary = cntRows.map(r => `${r.dimensionValues[0].value} (${r.metricValues[0].value})`).join(', ');
+      console.log(`   ${BLUE}Countries:${RESET} ${cntSummary}`);
+      console.log('');
+    } catch (e) {}
+  }
+
+  // 6. Outbound & Affiliate Clicks
+  if (!isFiltered || showOnlyOutbound) {
+    try {
+      const affReport = await runGA4Report(token, propertyId, {
+        dateRanges: [{ startDate: startStr, endDate: endStr }],
+        dimensions: [{ name: 'linkUrl' }, { name: 'pagePath' }],
+        metrics: [{ name: 'eventCount' }],
+        dimensionFilter: {
+          filter: { fieldName: 'eventName', stringFilter: { matchType: 'EXACT', value: 'outbound_click' } }
+        },
+        orderBys: [{ metric: { metricName: 'eventCount' }, desc: true }],
+        limit: 15
+      });
+
+      const affRows = affReport.rows || [];
+      if (affRows.length > 0) {
+        console.log(`${BOLD}🔗 TOP OUTBOUND & AFFILIATE DESTINATIONS${RESET}`);
+        console.log(`   ${padR('Destination Link', 45)} ${padR('Source Article', 28)} ${padL('Clicks', 6)}`);
+        console.log(`   ${'─'.repeat(82)}`);
+        for (const r of affRows) {
+          const dest = r.dimensionValues[0].value;
+          const page = r.dimensionValues[1].value;
+          const clicks = r.metricValues[0].value;
+          console.log(`   ${GREEN}${padR(dest, 45)}${RESET} ${padR(page, 28)} ${padL(clicks, 6)}`);
         }
-        console.log(`   ${DIM}💡 Tip: If visitors search for topics with 0 articles, write them!${RESET}\n`);
+        console.log('');
       }
     } catch (e) {}
   }
