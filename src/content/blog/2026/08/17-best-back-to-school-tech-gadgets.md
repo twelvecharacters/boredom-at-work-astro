@@ -2,6 +2,7 @@
 title: "12 Best Back to School Tech Gadgets for Students (2026)"
 description: "Discover the best back to school tech gadgets for 2026. Practical dorm, study, and productivity tools from ANC headphones to digital note-takers."
 publishDate: 2026-08-17
+updatedDate: 2026-08-19
 author: "Mehdi"
 image: "./17-best-back-to-school-tech-gadgets.webp"
 imageAlt: "Organized student study desk featuring laptop, ANC headphones, digital notebook, and charging accessories"
