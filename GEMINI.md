@@ -17,6 +17,9 @@ This document outlines the foundational standards and architectural goals for th
 - **Structure:** Blog articles are organized in subdirectories (e.g., `src/content/blog/YYYY/MM/`). Store the markdown file and its associated images together in the same directory.
 - **Frontmatter:** All blog articles must include the `imageAlt` field for their featured image to ensure proper Schema.org JSON-LD generation and accessibility. Titles should be <= 60 characters (primary keyword at the front) and meta descriptions 150-160 characters to avoid SERP truncation. Articles must have **maximum 4 tags** (strictly relevant and focused, avoiding tag bloat).
 - **Slug Management:** Favor the explicit `slug` field in blog frontmatter over directory-based IDs.
+- **Above-the-Fold Quick Picks (Retention):** Every buying guide, comparison, or listicle must include a structured **"Quick Picks: Best [Topic] at a Glance"** section directly below the introductory paragraph and before the in-depth content. Pull a concise comparison table to the top so visitors scanning on mobile immediately get key choices within 3–5 seconds, minimizing bounce rate.
+- **Title & Heading Strict Alignment:** If an article title promises N items (e.g., `6 Best CAD Software...`), the article MUST deliver exactly N numbered H2 headings. Non-numbered conceptual sections (like tips, FAQs, or buying advice) must not use numbered prefixes.
+- **Article Freshness Lifecycle (`updatedDate`):** Whenever revising an existing article with new recommendations, structural changes, or price updates, explicitly set or update the `updatedDate: YYYY-MM-DD` field in frontmatter to the current date to boost SERP freshness and keep Schema.org JSON-LD accurate.
 - **Topic Clusters & Pillar Boost:** All topical articles must actively link back to their respective Master Hub/Pillar Page (`/learn-ai-guide/`, `/chatgpt-guide/`, `/3d-printing-guide/`, `/desk-upgrade-guide/`, `/investing-tools-guide/`, `/photography-guide/`, `/ai-travel-planning/`) via contextual callout boxes or in-content recommendations.
 - **Homepage Pillar Integration:** The homepage (`src/pages/index.astro`) must maintain direct, 1-click links to all cornerstone Pillar Guides (`MasterGuidesGrid.astro`) to maximize Link Equity (PageRank) transfer.
 - **Internal Linking Rules:** Actively generate internal links, but ONLY point to preceding/previously published articles (never to future-dated ones) to avoid dead ends. Ensure no dead links. **Always use canonical slug paths with trailing slashes** (e.g. `[Text](/slug/)`), NEVER link to file paths, date-prefixed paths (like `/2026/08/08-article`), or subpaths with `/blog/` prefixes. The `remarkFilterUnpublishedLinks` plugin in `astro.config.mjs` prevents leaking links to draft or future-dated content. Structure clusters with clear intent to avoid keyword cannibalization.
@@ -50,8 +53,10 @@ This document outlines the foundational standards and architectural goals for th
 - **Font Loading:** Self-host all fonts in `public/fonts/` and use `font-display: swap`.
 - **Preloading:** Use `BaseLayout.astro` to manage critical asset preloading (Logo, Hero backgrounds).
 
-## 4. Development Workflow
+## 4. Development & Intelligence Workflow
 
 - **Content Linting:** Run `pnpm run lint:content:fix` before major updates to ensure frontmatter, em-dash removal, and price consistency (0 errors before committing).
+- **Traffic & User Intelligence:** Run `pnpm run traffic:ga4` (or `node scripts/ga4-traffic.js --pages`, `--sources`, `--outbound`, `--devices`) to monitor core user engagement, track referral traffic from AI assistants (ChatGPT, Claude, Perplexity), and identify high-bounce articles for quick-picks restructuring.
+- **Search Traffic Monitoring:** Run `pnpm run traffic` to pull combined Google Search Console + Bing metrics and identify CTR low-hanging fruits.
 - **Build Validation:** Always run a full `pnpm run build` to verify Pagefind indexing and Sitemap generation.
 - **Stats & Export:** Run `pnpm run stats` after adding content to update the `README.md` and repository visibility. You can also run `pnpm run export:articles` to dump all article metadata into a CSV for analysis.
