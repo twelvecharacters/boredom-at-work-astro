@@ -27,6 +27,7 @@ interface Props {
   nocanonical?: boolean;
   prevUrl?: string;
   nextUrl?: string;
+  author?: string; // Overrides the site author, e.g. on sponsored posts
 }
 
 const {
@@ -42,6 +43,7 @@ const {
   nocanonical = false,
   prevUrl,
   nextUrl,
+  author = SITE.author,
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
@@ -107,7 +109,7 @@ const socialImageURL = new URL(socialImagePath, Astro.site);
           article: article ? {
             publishedTime: publishDate?.toISOString(),
             modifiedTime: (updatedDate || publishDate)?.toISOString(),
-            authors: [SITE.author],
+            authors: [author],
             tags: tags,
           } : undefined
         }}
@@ -121,7 +123,7 @@ const socialImageURL = new URL(socialImagePath, Astro.site);
         }}
         extend={{
           meta: [
-            { name: "author", content: SITE.author },
+            { name: "author", content: author },
             { name: "generator", content: Astro.generator },
           ],
         }}

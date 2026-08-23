@@ -17,6 +17,7 @@ import HowToSchema from '../components/HowToSchema.astro';
 import SoftwareAppSchema from '../components/SoftwareAppSchema.astro';
 import CourseSchema from '../components/CourseSchema.astro';
 import AuthorBio from '../components/AuthorBio.astro';
+import SponsorDisclosure from '../components/SponsorDisclosure.astro';
 import PrevNextNavigation from '../components/PrevNextNavigation.astro';
 import PortfolioAnalyzer from '../components/tools/PortfolioAnalyzer.astro';
 import EarningsPromptKit from '../components/tools/EarningsPromptKit.astro';
@@ -36,7 +37,14 @@ interface Props {
 }
 
 const { post } = Astro.props;
-const { title, description, publishDate, updatedDate, author, image, imageAlt, tags, faq, tldr, review, isListicle, video, howTo, softwareApp, course } = post.data;
+const { title, description, publishDate, updatedDate, author, image, imageAlt, tags, faq, tldr, review, isListicle, video, howTo, softwareApp, course, sponsor } = post.data;
+
+// Paid placements. When the sponsor supplied the copy, the post must not claim
+// our editorial byline: no Person schema, no author bio, sponsor byline instead.
+const isSponsored = !!sponsor;
+const sponsorWroteIt = isSponsored && sponsor.writtenBy === 'sponsor';
+const sponsorByline = sponsor?.byline || (sponsor ? `Paid content by ${sponsor.name}` : '');
+const displayAuthor = sponsorWroteIt ? sponsor.name : author;
 
 const optimizedLogo = await getImage({ src: logo, width: 296, height: 95, format: 'webp' });
 
@@ -90,6 +98,7 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
   publishDate={publishDate}
   updatedDate={updatedDate}
   tags={tags}
+  author={displayAuthor}
 >
 
   <div class="relative max-w-[1600px] mx-auto">
@@ -152,16 +161,23 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
           </p>
 
           <div class="flex flex-wrap items-center gap-4 text-gray-500 text-sm font-medium mb-8 bg-gray-50/80 p-4 rounded-xl border border-gray-100/50 backdrop-blur-sm">
-            <div class="flex items-center gap-2">
-              <OptimizedImage
-                src={AUTHOR.photo}
-                alt={author}
-                width={32}
-                height={32}
-                class="w-8 h-8 rounded-full shadow-sm"
-              />
-              <span class="text-gray-900 font-semibold">{author}</span>
-            </div>
+            {sponsorWroteIt ? (
+              <div class="flex items-center gap-2">
+                <span class="rounded-md bg-amber-400 px-2 py-0.5 text-[0.65rem] font-bold uppercase tracking-wider text-amber-950">Sponsored</span>
+                <span class="text-gray-900 font-semibold">{sponsorByline}</span>
+              </div>
+            ) : (
+              <div class="flex items-center gap-2">
+                <OptimizedImage
+                  src={AUTHOR.photo}
+                  alt={author}
+                  width={32}
+                  height={32}
+                  class="w-8 h-8 rounded-full shadow-sm"
+                />
+                <span class="text-gray-900 font-semibold">{author}</span>
+              </div>
+            )}
             <span class="hidden sm:inline text-gray-300">•</span>
             <div class="flex items-center gap-1.5">
               <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -214,6 +230,15 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
           />
         )}
 
+        {sponsor && (
+          <SponsorDisclosure
+            name={sponsor.name}
+            url={sponsor.url}
+            writtenBy={sponsor.writtenBy}
+            disclosure={sponsor.disclosure}
+          />
+        )}
+
         <!-- TL;DR Box -->
         <TldrBox tldr={tldr} description={description} />
 
@@ -238,8 +263,8 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
         <!-- Previous & Next Article Navigation -->
         <PrevNextNavigation currentSlug={getPostSlug(post)} />
 
-        <!-- Author Bio -->
-        <AuthorBio />
+        <!-- Author Bio (never on copy the sponsor wrote) -->
+        {!sponsorWroteIt && <AuthorBio />}
 
         <!-- Related Posts -->
         <RelatedPosts currentSlug={getPostSlug(post)} currentTags={tags} />
@@ -306,7 +331,11 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
       "@type": "WebPage",
       "@id": new URL(Astro.url.pathname, Astro.site).toString()
     },
-    "author": {
+    "author": sponsorWroteIt ? {
+      "@type": "Organization",
+      "name": sponsor.name,
+      ...(sponsor.url ? { "url": sponsor.url } : {})
+    } : {
       "@type": "Person",
       "name": author,
       "url": AUTHOR.url,
@@ -318,6 +347,13 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
         AUTHOR.social.companyLinkedin,
       ].filter(Boolean)
     },
+    ...(sponsor ? {
+      "sponsor": {
+        "@type": "Organization",
+        "name": sponsor.name,
+        ...(sponsor.url ? { "url": sponsor.url } : {})
+      }
+    } : {}),
     "publisher": {
       "@type": "Organization",
       "name": SITE.title,
@@ -359,7 +395,8 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
       articleUrl={`/${getPostSlug(post)}/`}
       articleImage={typeof image === 'string' ? image : image?.src}
       publishDate={publishDate}
-      author={author}
+      author={displayAuthor}
+      authorType={sponsorWroteIt ? 'Organization' : 'Person'}
     />
   )}
 
@@ -391,7 +428,8 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
     <SoftwareAppSchema
       softwareApp={softwareApp}
       publishDate={publishDate}
-      author={author}
+      author={displayAuthor}
+      authorType={sponsorWroteIt ? 'Organization' : 'Person'}
     />
   )}
 

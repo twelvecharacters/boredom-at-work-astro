@@ -14,9 +14,10 @@ interface Props {
   };
   publishDate: Date;
   author: string;
+  authorType?: 'Person' | 'Organization';
 }
 
-const { softwareApp, publishDate, author } = Astro.props;
+const { softwareApp, publishDate, author, authorType = 'Person' } = Astro.props;
 
 const offers = softwareApp.priceRange ? parseOffers(softwareApp.priceRange) : null;
 
@@ -40,7 +41,7 @@ const schemaData = {
         "worstRating": 1
       },
       "author": {
-        "@type": "Person",
+        "@type": authorType,
         "name": author
       },
       "datePublished": publishDate.toISOString().split('T')[0]
