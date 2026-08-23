@@ -3,6 +3,7 @@ title: "3D Print Not Sticking to Bed? Every Fix You Need"
 slug: "3d-print-not-sticking-fixes"
 description: "First layer keeps failing? Here's every reason your 3D print won't stick to the bed and how to fix it, from bed leveling to adhesion helpers."
 publishDate: 2026-02-24
+updatedDate: 2026-08-23
 author: "Mehdi"
 image: "./24-3d-print-not-sticking-fixes.webp"
 imageAlt: "Step-by-step visual guide for fixing 3D print bed adhesion problems"
@@ -26,7 +27,7 @@ tldr: "Clean your bed with IPA, re-level it, slow down the first layer to 20mm/s
 
 You hit print, walk away excited, and come back to find a bird's nest of filament where your print should be. The first layer didn't stick.
 
-**Don't panic.** This is the most common 3D printing problem, and it's almost always fixable. (New to 3D printing? Start with our [beginner's guide](/3d-printing-beginners-guide/) first.)
+**Don't panic.** This is the most common 3D printing problem, and it's almost always fixable. If you are building your workshop setup, check our master [3D Printing Guide](/3d-printing-guide/) or our [beginner's guide](/3d-printing-beginners-guide/) first.
 
 In this guide, I'll walk you through every cause of bed adhesion failure and how to fix each one, from the obvious (dirty bed) to the subtle (wrong z-offset by 0.05mm).
 

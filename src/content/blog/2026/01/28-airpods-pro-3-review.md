@@ -3,7 +3,7 @@ title: "AirPods Pro 3 Review: Still Worth It in 2026?"
 slug: "airpods-pro-3-review"
 description: "AirPods Pro 3 review after months of daily use: 8h battery, best-ever ANC, IP57 and $249. Worth it new, but a skippable upgrade from Pro 2. Honest verdict."
 publishDate: 2026-01-28
-updatedDate: 2026-06-21
+updatedDate: 2026-08-23
 author: "Mehdi"
 image: "./28-airpods-pro-3-review.webp"
 imageAlt: "AirPods Pro 3 in their charging case on a modern desk"

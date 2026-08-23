@@ -1,9 +1,9 @@
 ---
-title: "Best AI Coursera Courses (2026): Google, Stanford, & IBM"
+title: "Best AI Coursera Courses in 2026 (Google, Stanford, & IBM)"
 slug: "best-ai-courses-coursera"
-description: "Discover the best AI Coursera courses in 2026. Compare Google AI Essentials, IBM Applied AI, Stanford ML, and DeepLearning.AI to level up your career."
+description: "Discover top AI courses on Coursera in 2026. Compare Google AI Essentials, IBM Applied AI, Stanford ML, and DeepLearning.AI to level up your career."
 publishDate: 2025-12-30
-updatedDate: 2026-08-17
+updatedDate: 2026-08-23
 author: "Mehdi"
 tags: ["Learning", "Tech & Gadgets"]
 image: "./30-coursera-courses.webp"
