@@ -1,9 +1,9 @@
 ---
-title: "Best AI Trip Planners 2026: 9 Tools Compared"
+title: "Best AI Trip Planners 2026: 10 Tools Compared"
 slug: "best-ai-trip-planners"
 description: "We tested the top AI trip planners to find the best one for your travel style. Mindtrip, Wanderlog, Layla, and more, here's our honest ranking."
 publishDate: 2026-04-15
-updatedDate: 2026-07-07
+updatedDate: 2026-08-23
 author: "Mehdi"
 image: "./15-best-ai-trip-planners.webp"
 imageAlt: "Collection of AI trip planner app interfaces on a laptop screen"
@@ -21,7 +21,7 @@ faq:
 
 AI trip planners have exploded in 2026, promising to turn your vacation dreams into ready-to-book itineraries. But which ones actually deliver?
 
-We tested 8 popular AI trip planners by creating the same itinerary on each: a 10-day Japan trip covering Tokyo, Kyoto, and Osaka. We've since added a 9th, G8Trip, assessed on its live feature set and a sample itinerary. Here's what we found.
+We tested 8 popular AI trip planners by creating the same itinerary on each: a 10-day Japan trip covering Tokyo, Kyoto, and Osaka. We've since added two more, G8Trip and MonkeyEatingMango, each assessed on its live feature set and a sample itinerary. Here's what we found.
 
 > **🆕 New & Notable: [G8Trip](https://g8trip.com).** Most tools here stop at the itinerary. G8Trip is the one newcomer that plans *and books* the whole trip (flights, hotels, visas, and an eSIM) in a single chat, with group planning built in from the ground up. It's the standout pick for group trips and all-in-one booking, especially for travel within India and Asia. See the full breakdown in entry #9 below.
 
@@ -38,6 +38,7 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 | **Wonderplan** | Budget trips | Free | ⭐⭐⭐ |
 | **iPlan.ai** | Simple trips | Free/Premium | ⭐⭐⭐ |
 | **G8Trip** | Group trips & booking | Free | ⭐⭐⭐⭐ |
+| **MonkeyEatingMango** | Planning without a signup | Free/$4.99 | ⭐⭐⭐⭐ |
 
 ---
 
@@ -251,6 +252,33 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 
 ---
 
+## 10. [MonkeyEatingMango](https://monkeyeatingmango.com) - Best for Planning Without a Signup
+
+**What it is**: A free itinerary generator that skips the chat window entirely. You answer eight click-through questions (destination, dates, pace, budget, interests), and about two minutes later you have a day-by-day plan with a food guide, budget breakdown, and weather notes. No account, no email, no signup.
+
+**What we loved**:
+- Genuinely no signup. You reach a finished plan without handing over an email address, which almost nothing else here does
+- Venues come from real place data rather than model memory, so the temples and restaurants it names actually exist
+- It checks every stop against opening hours and flags closures. On its sample 7-day Japan itinerary it correctly marked Shinjuku Gyoen as closed on Mondays, and the hours it listed for Kiyomizu-dera and Sanjusangendo matched the real ones when we checked
+- Budgets are itemized rather than a single number: accommodation, food, activities, and transport, with per-meal ranges
+- Timed stops with daily walking distances, and it warns you when a day runs 8 to 10 km
+
+**What could be better**:
+- Eight fixed questions mean less room for unusual requests. ChatGPT still wins when your trip has odd constraints
+- Suggestions lean toward the well-known landmarks, so seasoned travelers will recognize most of the list
+- Exporting to PDF, Excel, or Google Docs costs $4.99 per trip and requires a Google sign-in. Viewing and refining stay free
+- Small and new. One founder, no long track record, so treat it as a fast first draft rather than a booked plan
+
+**Best for**: Travelers who want a solid first draft in two minutes without creating yet another account.
+
+**Price**: Free to generate, view, and refine. $4.99 one-time per trip if you want file exports.
+
+**Our take**: The opening-hours check is the part worth caring about. Most tools here will cheerfully schedule you into a museum on its closing day, and this one flagged the closures correctly in our spot check. The fixed question flow buys that speed at the cost of flexibility, so use it for the first draft and refine from there.
+
+*Disclosure: the founder contacted us asking to be considered for this roundup. We tested the tool ourselves, and he had no influence over the ranking, the rating, or the wording above.*
+
+---
+
 ## Which Should You Choose?
 
 **For most trips**: Start with **Mindtrip**. It offers the best balance of AI intelligence and practical features.
@@ -264,6 +292,8 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 **For quick inspiration**: **Roam Around** generates instant ideas.
 
 **For group trips or all-in-one booking**: **G8Trip** plans and books flights, hotels, and visas in one chat (best for travel within India and Asia).
+
+**For a fast draft without an account**: **MonkeyEatingMango** gets you a full day-by-day plan in about two minutes, no signup, with opening hours checked.
 
 ---
 
