@@ -17,9 +17,10 @@ interface Props {
   articleImage?: string;
   publishDate: Date;
   author: string;
+  authorType?: 'Person' | 'Organization';
 }
 
-const { review, articleTitle, articleDescription, articleUrl, articleImage, publishDate, author } = Astro.props;
+const { review, articleTitle, articleDescription, articleUrl, articleImage, publishDate, author, authorType = 'Person' } = Astro.props;
 
 const priceValidUntil = new Date(publishDate);
 priceValidUntil.setFullYear(priceValidUntil.getFullYear() + 1);
@@ -45,7 +46,7 @@ const schemaData = {
       "worstRating": 1
     },
     "author": {
-      "@type": "Person",
+      "@type": authorType,
       "name": author
     },
     "datePublished": publishDate.toISOString(),

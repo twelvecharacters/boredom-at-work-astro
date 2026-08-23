@@ -51,6 +51,18 @@ const courseSchema = z.object({
   isFree: z.boolean().optional(),
 });
 
+// Paid placements. The presence of `sponsor` marks a post as sponsored content:
+// it renders a disclosure box and, unless writtenBy is 'editorial', attributes
+// the article to the sponsor instead of our editorial byline. Never set this on
+// a post we published for our own reasons.
+const sponsorSchema = z.object({
+  name: z.string(), // Paying brand, e.g. "Great Learning"
+  url: z.string().optional(), // Sponsor homepage, shown in the disclosure
+  writtenBy: z.enum(['sponsor', 'editorial']).default('sponsor'), // Who wrote the copy
+  byline: z.string().optional(), // Overrides the default "Paid content by X" byline
+  disclosure: z.string().optional(), // Overrides the default disclosure wording
+});
+
 const blog = defineCollection({
   loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/blog' }),
   schema: ({ image }) => z.object({
@@ -71,6 +83,7 @@ const blog = defineCollection({
     howTo: howToSchema.optional(), // HowTo schema for tutorial articles
     softwareApp: softwareAppSchema.optional(), // SoftwareApplication schema for tool reviews
     course: courseSchema.optional(), // Course schema for learning guides
+    sponsor: sponsorSchema.optional(), // Paid placement, see sponsorSchema above
     slug: z.string().optional(), // URL slug, overrides file path
   }),
 });

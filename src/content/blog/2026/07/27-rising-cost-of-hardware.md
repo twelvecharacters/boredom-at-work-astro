@@ -82,7 +82,7 @@ The long-term solution is a massive expansion of global semiconductor manufactur
 
 While we cannot change macroeconomic supply chains, we can change our purchasing habits to survive the AI hardware tax. 
 
-**1. Ignore the AI Marketing Hype:** Do not pay a premium for "AI-branded" peripherals or hardware if you do not actively run local AI models. For most users, cloud-based AI (like ChatGPT or Claude) is more than sufficient and offloads the heavy lifting to enterprise servers. (Read our comparison of [ChatGPT vs Claude vs Gemini](/tags/ai/) to find the best cloud option).
+**1. Ignore the AI Marketing Hype:** Do not pay a premium for "AI-branded" peripherals or hardware if you do not actively run local AI models. For most users, cloud-based AI (like ChatGPT or Claude) is more than sufficient and offloads the heavy lifting to enterprise servers. (Read our comparison of [ChatGPT vs Claude vs Gemini](/chatgpt-vs-claude-vs-gemini/) to find the best cloud option).
 
 **2. Embrace the Cloud:** If local hardware is too expensive, consider cloud gaming (GeForce Now) or cloud workstations. Renting compute power is often more economical than buying it outright in an inflated market. 
 

@@ -146,6 +146,8 @@ Certificates look good on LinkedIn and prove you're serious about AI. The good n
 
 - **[AI Certifications in a Week](/ai-certifications-in-a-week/)**, Speed-run credentials for the time-pressed.
 
+- **[Advanced AI Courses for 2026](/best-ai-courses-2026/)**, Where to go once the fundamentals are done: agentic workflows and running local LLMs.
+
 ### Quick Course Comparison
 
 | Goal | Best Course | Time | Certificate |

@@ -332,7 +332,7 @@ Here's a simple decision framework:
 **Want to learn from ChatGPT's creators:**
 → OpenAI Academy
 
-Still not sure? Start with Google AI Essentials. It's the most comprehensive and widely recognized. And if you're debating whether a paid course might be worth the investment, read our [free vs paid AI courses comparison](/free-vs-paid-ai-courses/).
+Still not sure? Start with Google AI Essentials. It's the most comprehensive and widely recognized. And if you're debating whether a paid course might be worth the investment, read our [free vs paid AI courses comparison](/free-vs-paid-ai-courses/). Already past the fundamentals? Our [advanced AI courses for 2026](/best-ai-courses-2026/) covers agentic workflows and local LLMs instead.
 
 ## Frequently Asked Questions
 

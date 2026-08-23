@@ -1,0 +1,77 @@
+---
+interface Props {
+  name: string;
+  url?: string;
+  writtenBy: 'sponsor' | 'editorial';
+  disclosure?: string;
+}
+
+const { name, url, writtenBy, disclosure } = Astro.props;
+
+const defaultCopy = writtenBy === 'editorial'
+  ? `${name} paid for this article. We wrote it ourselves and kept full editorial control, including the criticisms. Links to ${name} are marked as sponsored and do not pass ranking credit.`
+  : `This article was provided by ${name} and published as a paid placement. Our team reviewed and edited it, but it is not independent editorial coverage. Links to ${name} are marked as sponsored and do not pass ranking credit.`;
+
+const copy = disclosure || defaultCopy;
+---
+
+<aside class="sponsor-disclosure" aria-label="Sponsored content disclosure">
+  <div class="sponsor-header">
+    <span class="sponsor-label">Sponsored</span>
+    <span class="sponsor-name">
+      {url ? <a href={url}>{name}</a> : name}
+    </span>
+  </div>
+  <p class="sponsor-copy">{copy}</p>
+</aside>
+
+<style>
+  .sponsor-disclosure {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    background: #fffbeb;
+    border: 1px solid #fcd34d;
+    border-left: 4px solid #f59e0b;
+    border-radius: 0.75rem;
+    padding: 1rem 1.25rem;
+    margin: 1.5rem 0;
+  }
+
+  .sponsor-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.4rem;
+    flex-wrap: wrap;
+  }
+
+  .sponsor-label {
+    background: #f59e0b;
+    color: #1f1300;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.15rem 0.5rem;
+    border-radius: 0.3rem;
+  }
+
+  .sponsor-name {
+    font-weight: 600;
+    color: #78350f;
+    font-size: 0.95rem;
+  }
+
+  .sponsor-name a {
+    color: inherit;
+    text-decoration: underline;
+  }
+
+  .sponsor-copy {
+    margin: 0;
+    color: #78350f;
+    font-size: 0.9rem;
+    line-height: 1.55;
+  }
+</style>
