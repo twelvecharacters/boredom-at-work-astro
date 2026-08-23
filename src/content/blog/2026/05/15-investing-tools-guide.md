@@ -287,9 +287,9 @@ This five-step approach beats 90% of active traders over the long run. Index inv
 
 **AI-Powered Investing:**
 - [ChatGPT for Stock Research](/chatgpt-stock-research/)
-- [How to Analyze Your Portfolio With ChatGPT](/tags/investing/)
-- [AI Earnings Call Analysis](/tags/investing/)
-- [AI vs Traditional Stock Screeners](/tags/investing/)
+- [How to Analyze Your Portfolio With ChatGPT](/ai-portfolio-analysis-chatgpt/)
+- [AI Earnings Call Analysis](/ai-earnings-call-analysis/)
+- [AI vs Traditional Stock Screeners](/ai-vs-traditional-stock-screeners/)
 
 **Advanced:**
 - [How Prediction Markets Work](/prediction-markets-guide/)
