@@ -11,6 +11,7 @@
  * Usage:
  *   node scripts/gsc-index-status.js                # full scan + submit list
  *   node scripts/gsc-index-status.js --top 10       # size of the submit list
+ *   node scripts/gsc-index-status.js --orphans      # list the unlinked pages
  *   node scripts/gsc-index-status.js <slug> [...]   # check specific slugs
  *
  * Requires: ~/.claude/gsc-credentials.json (service account, Owner on the
@@ -148,6 +149,7 @@ async function mapLimit(items, limit, fn) {
 const args = process.argv.slice(2);
 const topIdx = args.indexOf('--top');
 const TOP = topIdx !== -1 ? parseInt(args[topIdx + 1], 10) || 10 : 10;
+const SHOW_ORPHANS = args.includes('--orphans');
 const explicit = args.filter((a) => !a.startsWith('--') && a !== String(TOP));
 
 const token = await getAccessToken();
@@ -220,6 +222,21 @@ if (explicit.length) {
   if (orphaned.length) {
     console.log(`\n  ${orphaned.length} nicht indexierte Seiten haben 0 interne Links.`);
     console.log('  Die zuerst verlinken, sonst verpufft das Einreichen.');
+    if (SHOW_ORPHANS) {
+      // Grouped by cluster: linking works best from articles that already sit
+      // in the same topic, so the cluster is the unit of work, not the URL.
+      const byCluster = new Map();
+      for (const r of orphaned) {
+        if (!byCluster.has(r.label)) byCluster.set(r.label, []);
+        byCluster.get(r.label).push(r.slug);
+      }
+      for (const [label, slugs] of [...byCluster.entries()].sort((a, b) => b[1].length - a[1].length)) {
+        console.log(`\n    ${label} (${slugs.length})`);
+        slugs.sort().forEach((slug) => console.log(`      /${slug}/`));
+      }
+    } else {
+      console.log('  Namentlich auflisten mit: --orphans');
+    }
   }
   console.log('\n  Einreichen: Search Console, URL oben einfuegen, "Indexierung beantragen".');
   console.log('  Kontingent rund 10 bis 12 URLs pro Tag, rollierend ueber 24 Stunden.');
