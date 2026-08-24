@@ -523,6 +523,73 @@ function checkSlugPrefixConsistency(content, filePath) {
   return issues;
 }
 
+// Non-article routes that a link may legitimately point at.
+const STATIC_ROUTES = new Set([
+  '', 'blog', 'about', 'contact', 'tags', 'search', 'rss.xml',
+  'privacy', 'imprint', 'advertise', 'editorial-policy', 'tools',
+]);
+
+let slugIndexCache = null;
+
+/**
+ * Every slug the site actually publishes a URL for. Built from the whole blog
+ * directory, never from the linted subset, otherwise linting a single file
+ * would report every link to an unlinted article as broken.
+ */
+function buildSlugIndex() {
+  if (slugIndexCache) return slugIndexCache;
+  slugIndexCache = new Set();
+  for (const file of collectMarkdownFiles(BLOG_DIR)) {
+    const { frontmatter } = splitFrontmatterAndBody(readFileSync(file, 'utf-8'));
+    const explicit = getFrontmatterValue(frontmatter, 'slug');
+    // No slug field means Astro derives the URL from the filename verbatim.
+    slugIndexCache.add(explicit || file.split('/').pop().replace(/\.md$/, ''));
+  }
+  return slugIndexCache;
+}
+
+function checkInternalLinks(content, filePath) {
+  // Internal links must be root-relative and end in a slash: /{slug}/.
+  // Four ways this goes wrong, all seen in production (24 Aug 2026, 17 links):
+  //   /06-buy-vs-3d-print-tools          filename prefix instead of slug
+  //   /2026/08/15-is-it-too-late-to-learn   full file path instead of slug
+  //   /sideload-kindle-books-guide       slug guessed, never verified
+  //   /why-you-need-vpn-2026             missing trailing slash
+  // A link to an unpublished article is fine: the remark plugin renders it as
+  // plain text until the article goes live, then it becomes a real link.
+  const issues = [];
+  const slugs = buildSlugIndex();
+  const lines = content.split('\n');
+
+  lines.forEach((line, i) => {
+    for (const match of line.matchAll(/\]\((\/[^)\s#]*)(#[^)\s]*)?\)/g)) {
+      const href = match[1];
+      if (href.startsWith('/images/') || href.startsWith('/fonts/')) continue;
+
+      const bare = href.replace(/^\//, '').replace(/\/$/, '');
+      if (bare === '' || STATIC_ROUTES.has(bare.split('/')[0])) continue;
+
+      if (!slugs.has(bare)) {
+        issues.push({
+          filePath,
+          lineNum: i + 1,
+          severity: 'error',
+          message: `Internal link "${href}" points at no existing article. Check the slug field of the target, do not guess from the filename.`,
+        });
+      } else if (!href.endsWith('/')) {
+        issues.push({
+          filePath,
+          lineNum: i + 1,
+          severity: 'error',
+          message: `Internal link "${href}" is missing its trailing slash. Use "${href}/".`,
+        });
+      }
+    }
+  });
+
+  return issues;
+}
+
 function checkMetaDescriptionLength(content, filePath) {
   const issues = [];
   const { frontmatter } = splitFrontmatterAndBody(content);
@@ -571,6 +638,7 @@ function lintFile(filePath) {
     ...checkPriceConsistency(content, filePath),
     ...checkMetaDescriptionLength(content, filePath),
     ...checkSlugPrefixConsistency(content, filePath),
+    ...checkInternalLinks(content, filePath),
   ];
   return issues;
 }

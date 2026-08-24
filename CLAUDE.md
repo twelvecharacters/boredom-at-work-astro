@@ -78,6 +78,7 @@ Drafts in `medium-drafts/` (in `.gitignore`).
 
 - [x] **Content Lint Script:** `scripts/content-lint.js` (`pnpm run lint:content`)
   - Prüft: veraltete URLs, Model-Namen, discontinued products, Listicle-Count, Preis-Mismatches, Meta-Description-Länge
+  - **Interne Links** (`checkInternalLinks`, seit 24. Aug, **Error**): jeder `](/…)`-Link wird gegen die echten Slugs geprüft. Fängt Dateinamen-Prefix im Link (`/06-buy-vs-3d-print-tools`), kompletten Dateipfad (`/2026/08/15-…`), geratene Slugs und fehlende Trailing Slashes. Links auf noch unveröffentlichte Artikel sind erlaubt (Remark rendert sie bis zur Publikation als Text).
 - [x] **ALLE 123 Artikel fact-gecheckt** (komplett seit 23. Feb)
 - [x] `chat.openai.com` → `chatgpt.com` in allen Artikeln
 - [x] Claude Model-Namen aktualisiert (Sonnet 4.5, Opus 4.6, Haiku 4.5)
