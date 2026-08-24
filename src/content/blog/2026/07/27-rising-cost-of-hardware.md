@@ -86,7 +86,7 @@ While we cannot change macroeconomic supply chains, we can change our purchasing
 
 **2. Embrace the Cloud:** If local hardware is too expensive, consider cloud gaming (GeForce Now) or cloud workstations. Renting compute power is often more economical than buying it outright in an inflated market. 
 
-**3. The Retro Alternative:** You don't have to participate in the upgrade treadmill. As we covered in our article on the [Gen Z retro tech trend](/tags/tech-gadgets/), many users are finding joy in older, simpler devices that are immune to AI bloat and the associated hardware costs.
+**3. The Retro Alternative:** You don't have to participate in the upgrade treadmill. As we covered in our article on the [Gen Z retro tech trend](/gen-z-retro-tech-trend/), many users are finding joy in older, simpler devices that are immune to AI bloat and the associated hardware costs.
 
 **4. Hold onto Devices Longer:** The easiest way to beat rising hardware costs is to simply refuse to upgrade. A high-end PC or smartphone from three years ago is still remarkably capable today. By replacing batteries and maintaining your gear, you can wait out the worst of the current pricing crisis.
 

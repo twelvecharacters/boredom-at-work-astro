@@ -198,7 +198,7 @@ Hardware accessories are only half the equation. To truly optimize your reading 
 
 1. **Master Your Software & Libraries:** Dive into our [Complete Kindle Guide](/kindle-guide/) for hidden shortcuts, vocabulary builders, and Send-to-Kindle workflows.
 2. **Unlock Custom Fonts & Systems:** Explore our [Kindle Modding & KOReader Guide](/kindle-modding-guide/) to install custom typography and bypass Amazon file limitations.
-3. **Build an Ergonomic Reading Space:** Pair your e-reader setup with the [best monitor light bars](/best-monitor-light-bars/) to illuminate ambient reading notes without creating harsh screen reflections, or organize your desk queue with our [desk organizers guide](/tags/home-office/).
+3. **Build an Ergonomic Reading Space:** Pair your e-reader setup with the [best monitor light bars](/best-monitor-light-bars/) to illuminate ambient reading notes without creating harsh screen reflections, or organize your desk queue with our [desk organizers guide](/best-desk-shelves-organizers/).
 
 Investing in 2 or 3 intentional accessories transforms your Kindle from a simple gadget into the most relaxing, friction-free reading habit of your daily routine.
 

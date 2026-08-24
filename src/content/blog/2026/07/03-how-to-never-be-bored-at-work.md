@@ -122,7 +122,7 @@ Close the fifty open browser tabs. They are draining your computer's RAM and you
 
 ### Physical Optimization and Ergonomics
 
-Change your physical environment whenever possible. If you work on a laptop, do not sit at the exact same desk every single day. Move to a different floor, utilize a quiet pod, or work from a local coffee shop for an afternoon. A simple change of scenery can act as a powerful reset button for your brain's spatial awareness, instantly breaking the cycle of visual and mental monotony. Furthermore, [invest in your home office lighting](/tags/home-office/) and ergonomics. If you are physically uncomfortable, your brain will interpret that discomfort as a desire to escape the task, manifesting as severe boredom.
+Change your physical environment whenever possible. If you work on a laptop, do not sit at the exact same desk every single day. Move to a different floor, utilize a quiet pod, or work from a local coffee shop for an afternoon. A simple change of scenery can act as a powerful reset button for your brain's spatial awareness, instantly breaking the cycle of visual and mental monotony. Furthermore, [invest in your home office lighting](/home-office-lighting-guide/) and ergonomics. If you are physically uncomfortable, your brain will interpret that discomfort as a desire to escape the task, manifesting as severe boredom.
 
 ## Strategy 5: Lateral Movement and Internal Mobility
 

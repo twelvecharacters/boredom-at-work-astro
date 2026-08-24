@@ -168,7 +168,7 @@ Running daily searches for:
 - Can combine with southern beaches
 - Consider adding Siem Reap + Koh Rong
 
-**Detailed guide:** [AI Trip Planning: Cambodia](/tags/travel/)
+**Detailed guide:** [AI Trip Planning: Cambodia](/ai-trip-planning-cambodia/)
 
 ---
 
@@ -270,8 +270,8 @@ I'll update this article as I progress. Bookmark it or check back to see:
 - **Destination deep-dives:**
   - [AI Trip Planning: Japan](/ai-trip-planning-japan/)
   - [AI Trip Planning: Vietnam](/ai-trip-planning-vietnam/)
-  - [AI Trip Planning: Cambodia](/tags/travel/)
-- **Compare destinations:** [Japan vs Vietnam vs Cambodia](/tags/travel/)
+  - [AI Trip Planning: Cambodia](/ai-trip-planning-cambodia/)
+- **Compare destinations:** [Japan vs Vietnam vs Cambodia](/japan-vietnam-cambodia-comparison/)
 
 
  
