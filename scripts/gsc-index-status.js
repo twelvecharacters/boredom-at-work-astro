@@ -12,6 +12,8 @@
  *   node scripts/gsc-index-status.js                # full scan + submit list
  *   node scripts/gsc-index-status.js --top 10       # size of the submit list
  *   node scripts/gsc-index-status.js --orphans      # list the unlinked pages
+ *   node scripts/gsc-index-status.js --submitted a b # log a, b as submitted today
+ *   node scripts/gsc-index-status.js --show-submitted
  *   node scripts/gsc-index-status.js <slug> [...]   # check specific slugs
  *
  * Requires: ~/.claude/gsc-credentials.json (service account, Owner on the
@@ -116,6 +118,35 @@ async function inspect(token, url) {
   };
 }
 
+// Google needs days to act on a manual submission, and the coverage state does
+// not move in the meantime. Without a memory of what went in, the next run
+// recommends the same URLs and burns a day of the quota on duplicates.
+const SUBMITTED_PATH = path.join(process.env.HOME || '', '.claude', 'gsc-submitted.json');
+const COOLDOWN_DAYS = 14;
+
+function readSubmitted() {
+  try { return JSON.parse(fs.readFileSync(SUBMITTED_PATH, 'utf8')); } catch { return {}; }
+}
+
+/** Slugs submitted within the cooldown, as slug -> days ago. */
+function inCooldown(today) {
+  const log = readSubmitted();
+  const out = new Map();
+  for (const [slug, date] of Object.entries(log)) {
+    const days = Math.floor((today - Date.parse(date)) / 86400000);
+    if (days < COOLDOWN_DAYS) out.set(slug, days);
+  }
+  return out;
+}
+
+function logSubmitted(slugs, today) {
+  const log = readSubmitted();
+  const stamp = new Date(today).toISOString().slice(0, 10);
+  for (const s of slugs) log[s.replace(/^\/|\/$/g, '')] = stamp;
+  fs.writeFileSync(SUBMITTED_PATH, `${JSON.stringify(log, null, 2)}\n`);
+  return stamp;
+}
+
 /** Inbound editorial links per slug, counted only from published posts. */
 function inboundCounts(published) {
   const slugs = new Set(published.map((p) => p.slug));
@@ -150,6 +181,35 @@ const args = process.argv.slice(2);
 const topIdx = args.indexOf('--top');
 const TOP = topIdx !== -1 ? parseInt(args[topIdx + 1], 10) || 10 : 10;
 const SHOW_ORPHANS = args.includes('--orphans');
+const submittedIdx = args.indexOf('--submitted');
+const NOW = Date.now();
+
+// --submitted consumes the rest of the arguments, so parse it before `explicit`.
+if (submittedIdx !== -1) {
+  const slugs = args.slice(submittedIdx + 1).filter((a) => !a.startsWith('--'));
+  if (!slugs.length) {
+    console.error('--submitted braucht mindestens einen Slug oder eine URL.');
+    process.exit(1);
+  }
+  const stamp = logSubmitted(slugs.map((s) => s.replace(/^https?:\/\/[^/]+/, '')), NOW);
+  console.log(`${slugs.length} als eingereicht vermerkt (${stamp}).`);
+  console.log(`Sie bleiben ${COOLDOWN_DAYS} Tage aus der Vorschlagsliste.`);
+  process.exit(0);
+}
+
+if (args.includes('--show-submitted')) {
+  const pending = inCooldown(NOW);
+  if (!pending.size) {
+    console.log('Nichts in der Sperrfrist.');
+  } else {
+    console.log(`${pending.size} in Sperrfrist (${COOLDOWN_DAYS} Tage):`);
+    for (const [slug, days] of [...pending].sort((a, b) => a[1] - b[1])) {
+      console.log(`  ${String(days).padStart(2)}d  /${slug}/`);
+    }
+  }
+  process.exit(0);
+}
+
 const explicit = args.filter((a) => !a.startsWith('--') && a !== String(TOP));
 
 const token = await getAccessToken();
@@ -189,6 +249,8 @@ if (explicit.length) {
   const rejected = notIndexed.filter((r) => /^Crawled/.test(r.coverage));
   const submittable = notIndexed.filter((r) => !/^Crawled/.test(r.coverage));
 
+  const pending = inCooldown(NOW);
+
   const ranked = submittable
     .map((r) => {
       const slug = r.url.replace(SITE_URL, '').replace(/\/$/, '');
@@ -200,12 +262,22 @@ if (explicit.length) {
     })
     .sort((a, b) => b.score - a.score || a.slug.localeCompare(b.slug));
 
+  const fresh = ranked.filter((r) => !pending.has(r.slug));
+
   console.log(`\nNAECHSTE ${TOP} ZUM MANUELLEN EINREICHEN`);
   console.log('-'.repeat(72));
-  ranked.slice(0, TOP).forEach((r, i) => {
+  fresh.slice(0, TOP).forEach((r, i) => {
     console.log(`  ${String(i + 1).padStart(2)}. https://boredom-at-work.com/${r.slug}/`);
     console.log(`      ${r.label}, ${r.links} interne Links`);
   });
+
+  const held = ranked.length - fresh.length;
+  if (held) {
+    console.log(`\n  ${held} bereits eingereicht und in Sperrfrist, uebersprungen.`);
+    console.log('  Liste: --show-submitted');
+  }
+  console.log('\n  Nach dem Einreichen vermerken:');
+  console.log(`    pnpm run index:status -- --submitted ${fresh.slice(0, TOP).map((r) => r.slug).join(' ')}`);
 
   if (rejected.length) {
     console.log(`\n  NICHT einreichen: ${rejected.length} Seiten sind gecrawlt und trotzdem`);
