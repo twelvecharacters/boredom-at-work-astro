@@ -25,7 +25,7 @@ Relying entirely on live internet access during travel is a risky gamble. When u
 
 > **Planning your next adventure with AI?** Read our central [AI Travel Planning Guide](/ai-travel-planning/) to discover prompts, flight-finding strategies, and curated itineraries.
 
-True travel independence requires setting up an **offline-first digital workflow**. By pre-loading your smartphone, e-reader, and power gear with offline maps, translation packs, local guides, and emergency communication tools before stepping out the door, you eliminate travel anxiety and stay fully capable regardless of network availability.
+True travel independence requires setting up an **offline-first digital workflow**, and it starts before the software: [what to pack in a traveling backpack](/what-to-pack-in-traveling-backpack/) covers the gear side of the same problem. By pre-loading your smartphone, e-reader, and power gear with offline maps, translation packs, local guides, and emergency communication tools before stepping out the door, you eliminate travel anxiety and stay fully capable regardless of network availability.
 
 In this guide, we detail the essential offline navigation tools, offline language packs, e-reader setups, and power management strategies to keep you completely self-reliant anywhere on earth.
 
@@ -86,7 +86,7 @@ While tablets and smartphones consume significant battery power when displaying 
 Instead of carrying heavy physical travel guidebooks, you can store entire offline travel encyclopedias directly on your e-reader:
 
 - **Wikivoyage Offline Dumps:** Using open-source tools like **Zim** files and **Kiwix** (or KOReader on jailbroken devices), you can download the entire text database of Wikivoyage for any country. This gives you instant offline access to historical context, district safety tips, local etiquette, and restaurant reviews for thousands of cities.
-- **Sideloading PDF Itineraries:** Convert your hotel confirmation vouchers, train tickets, and itinerary PDFs into e-reader friendly formats. For complete instructions on transferring documents to your e-reader without active cloud sync, check out our guide on [how to sideload books on Kindle](/sideload-kindle-books-guide/).
+- **Sideloading PDF Itineraries:** Convert your hotel confirmation vouchers, train tickets, and itinerary PDFs into e-reader friendly formats. For complete instructions on transferring documents to your e-reader without active cloud sync, check out our guide on [how to sideload books on Kindle](/sideload-books-kindle/).
 
 ### Extended Battery Conservation
 

@@ -20,6 +20,8 @@ faq:
     answer: "Amazon does not offer a permanent student-specific Kindle discount, but Prime Student members get the same Prime Day and seasonal deals as full Prime members, where Kindles routinely drop in price. Back-to-school sales in August and Prime Day events are the best windows to buy."
 ---
 
+An e-reader is one line item on a longer list, and our [best back to school tech gadgets](/best-back-to-school-tech-gadgets/) covers the rest of the kit.
+
 Buying a Kindle for school sounds simple until you see the lineup: a base Kindle, two Paperwhites, a color Colorsoft, and the note-taking Scribe. The right one depends entirely on what kind of student you are. A philosophy grad student reading dense PDFs needs something very different from a freshman who just wants assigned novels to stop killing their backpack.
 
 This guide breaks down which Kindle to buy by student type, with current June 2026 prices and the trade-offs that actually matter on a campus budget.

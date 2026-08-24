@@ -213,7 +213,7 @@ Here's a secret most experienced makers know: **You only need two filaments.**
 1. **PLA**, For quick prints, prototypes, decorative items
 2. **PETG**, For anything functional
 
-That's it. This covers 95% of hobbyist use cases. You can explore specialty filaments (TPU, CF-Nylon, ASA) later when specific projects demand them.
+That's it. This covers 95% of hobbyist use cases. You can explore specialty filaments (TPU, CF-Nylon, ASA) later when specific projects demand them. When you get there, start with [printing with TPU and flexible filaments](/printing-with-tpu-flexible-filaments/), since flexibles need a different approach to retraction and print speed than anything on this list.
 
 **Don't hoard filament.** It absorbs moisture and degrades. Buy what you need for current projects, store it properly, and restock as needed. Need a printer first? Check our [best 3D printers under $300](/best-3d-printers-under-300/).
 

@@ -95,7 +95,9 @@ If you are an employee, have a candid conversation with your manager about your 
 
 It is important to acknowledge a harsh reality: some workplaces are fundamentally incompatible with a healthy work life balance. If you work in an environment that actively penalizes employees for setting boundaries, demands constant availability, and normalizes burnout, no amount of morning routines or digital sunsets will save you.
 
-In these situations, you have to recognize that the problem is systemic, not personal. You can try to implement the strategies outlined in this guide, but if you face severe backlash, you need to reevaluate your employment. Your health and your personal life are worth more than any job title or salary. Start updating your resume, reach out to your network, and look for an organization that actually respects its employees as human beings. 
+In these situations, you have to recognize that the problem is systemic, not personal. You can try to implement the strategies outlined in this guide, but if you face severe backlash, you need to reevaluate your employment. Your health and your personal life are worth more than any job title or salary. Start updating your resume, reach out to your network, and look for an organization that actually respects its employees as human beings. If that feeling has been building for a while, [feeling stuck in corporate life](/feeling-stuck-corporate-life/) works through how to tell a rough patch from a dead end.
+
+Watch how such an environment shapes your habits, too. Cultures that normalize burnout tend to normalize the coping mechanisms that come with it, a pattern we examine in [alcohol, drugs, and the corporate ladder](/alcohol-drugs-corporate-ladder/). 
 
 ## Making Time for What Matters
 

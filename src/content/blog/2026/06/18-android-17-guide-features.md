@@ -130,7 +130,7 @@ The journey to Android 17 was one of the most stable in Google's history. Here i
 
 For the developers among us, Android 17 offers a wealth of new tools. The "Gemini SDK" is now part of the standard Android development kit, making it trivial for any developer to add high-quality generative features to their apps. 
 
-There is also a new emphasis on "Large Screen Continuity." With the rise of foldables and tablets (like the Pixel Fold 3 and Galaxy Tab S11), Android 17 forces apps to be more responsive. If an app doesn't have a tablet-optimized layout, the system now uses AI to "remix" the layout into something that looks native, ensuring a premium experience regardless of the device.
+There is also a new emphasis on "Large Screen Continuity." With the rise of foldables and tablets (like the Pixel Fold 3 and Galaxy Tab S11), Android 17 forces apps to be more responsive. Apple is expected to enter this form factor as well, and we collected what is known so far in [rumored iPhone Fold: specs, release date and price](/rumored-iphone-fold-specs-release-date/). If an app doesn't have a tablet-optimized layout, the system now uses AI to "remix" the layout into something that looks native, ensuring a premium experience regardless of the device.
 
 ## Summary Table: Android 17 at a Glance
 

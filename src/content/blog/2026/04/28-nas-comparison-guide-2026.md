@@ -75,6 +75,8 @@ For those of us who practice **Productive Procrastination**, there is no project
 - **TrueNAS (Scale/Core):** The professional choice. Built on the ZFS file system, it prioritizes data integrity above all else. It’s "enterprise-grade" storage for your home. If your data absolutely, positively cannot be lost, you use TrueNAS.
 - **Unraid:** The enthusiast choice. It’s famous for its ability to mix and match drives of different sizes and its incredibly easy Docker management. It’s the perfect OS for a media server or a home lab.
 
+Whichever box you land on, the software that actually serves your library is a separate decision. We compare the three realistic options in [Emby vs Plex vs Jellyfin](/emby-vs-plex-vs-jellyfin/).
+
 ### The Trade-off
 Time. You will spend hours (or days) researching HBA cards, configuring ZFS pools, and troubleshooting driver issues. But the reward is a machine that is exactly what you need, with no proprietary lock-in.
 

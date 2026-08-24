@@ -17,7 +17,7 @@ faq:
     answer: "AI is better for creating initial custom lists. Packing apps are better for reusable templates and checking items off. Use AI to create, then transfer to an app if you prefer."
 ---
 
-Packing is the most annoying part of travel. Too much stuff means lugging heavy bags. Too little means buying overpriced essentials at the airport.
+Packing is the most annoying part of travel. Too much stuff means lugging heavy bags. Too little means buying overpriced essentials at the airport. If you are going backpack-only, [what to pack in a traveling backpack](/what-to-pack-in-traveling-backpack/) covers the constraints that come with it before you hand the job to a chatbot.
 
 AI solves this by creating custom packing lists based on your specific trip. Here's how to get perfect lists every time.
 

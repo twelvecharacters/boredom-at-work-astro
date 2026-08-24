@@ -18,7 +18,7 @@ faq:
     answer: "Aluminum is the best all-around choice. It doubles as a passive heat sink to help cool your laptop, it's sturdy enough to avoid wobbling, and it looks clean on any desk. Plastic stands are lighter and cheaper but trap heat. Wood stands look great but don't help with cooling. For portability, some high-end stands use glass-filled nylon, which is ultralight yet rigid."
 ---
 
-If you spend 8+ hours a day staring at a laptop screen, your neck already knows what I'm about to say: the screen is too low.
+If you spend 8+ hours a day staring at a laptop screen, your neck already knows what I'm about to say: the screen is too low. (Still choosing the machine that goes on the stand? See [best sub-$1000 laptops for every workflow](/best-sub-1000-laptops-workflows/).)
 
 Laptop screens sit 4-6 inches below eye level, which means you're spending your entire workday looking down. That's how you end up with neck pain, shoulder tension, and the kind of posture that makes your chiropractor's eyes light up with dollar signs.
 

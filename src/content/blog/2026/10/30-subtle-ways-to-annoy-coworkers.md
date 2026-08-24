@@ -31,7 +31,7 @@ The golden rule of subtle office humor is simple: **Maximum mild confusion, zero
 
 Here are 10 master-level, completely harmless ways to playfully mess with your favorite desk neighbors.
 
-> **Looking for more ways to kill boredom?** Explore our popular guide on [Fun Things to Do When Bored at Work](/things-to-do-when-bored-at-work/) and check out our tested [Secret Santa Gifts for Coworkers](/best-secret-santa-gifts-coworkers/).
+> **Looking for more ways to kill boredom?** Explore our popular guide on [Fun Things to Do When Bored at Work](/productive-things-bored-at-work/) and check out our tested [Secret Santa Gifts for Coworkers](/best-secret-santa-gifts-coworkers/).
 
 ---
 
@@ -177,7 +177,7 @@ Use these 10 techniques responsibly, keep your Post-It notes handy, and turn a s
 
 ## Related Articles
 
-*   [Fun Things to Do When Bored at Work: The Ultimate Survival Guide](/things-to-do-when-bored-at-work/)
+*   [Fun Things to Do When Bored at Work: The Ultimate Survival Guide](/productive-things-bored-at-work/)
 *   [Best Secret Santa Gifts for Coworkers (Under $25)](/best-secret-santa-gifts-coworkers/)
 *   [Best Desk Upgrades Under $100 for Focus and Comfort](/best-desk-upgrades-under-100/)
 *   [Digital Declutter Guide: Clean Up Your Digital Workspace](/digital-declutter-year-end/)

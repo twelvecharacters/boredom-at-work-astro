@@ -134,7 +134,7 @@ Apple is reportedly developing a tailored version of iOS (incorporating key prod
 3. **Flex Mode / Desk Stand Orientation:** Partially folding the phone at a 90-degree angle transforms the bottom half into a virtual trackpad, keyboard, or control panel while video playback or controls occupy the top half.
 4. **Contextual AI Spatial Canvas:** Leveraging on-device machine intelligence to automatically organize workspace windows based on ongoing tasks. For instance, opening a travel planning app could automatically surface email confirmations and map tools in a tiled layout.
 
-As operating systems grow more integrated across desktop and mobile form factors, software platforms are expanding rapidly, a trend discussed in our review of recent [iOS and macOS updates](/ios-macos-27/). The iPhone Fold could serve as the ultimate hardware bridge between pocket mobility and desktop capability.
+As operating systems grow more integrated across desktop and mobile form factors, software platforms are expanding rapidly, a trend discussed in our review of recent [iOS and macOS updates](/ios-macos-27-public-beta-install-guide/). The iPhone Fold could serve as the ultimate hardware bridge between pocket mobility and desktop capability.
 
 ## Expected Price and Launch Timeline
 

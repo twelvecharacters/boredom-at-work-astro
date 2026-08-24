@@ -54,7 +54,7 @@ Nothing destroys the efficiency and peace of a commute faster than the stress of
 If you take a train, subway, or bus, you have a distinct advantage: your hands and eyes are free. This opens up a world of possibilities for reclaiming your time.
 
 ### The "Commute Office" Setup
-If you plan to work on transit, optimize your setup. Invest in a good pair of noise-canceling headphones to block out chatter and engine noise. Use a privacy screen on your laptop or tablet if you are working on sensitive documents. Ensure your devices are fully charged, or carry a high-capacity power bank.
+If you plan to work on transit, optimize your setup. Invest in a good pair of noise-canceling headphones to block out chatter and engine noise. Use a privacy screen on your laptop or tablet if you are working on sensitive documents. Ensure your devices are fully charged, or carry a high-capacity power bank. We tested the hardware that makes this practical in our roundup of the [top 10 commuting gadgets](/top-10-commuting-gadgets/).
 
 ### Tackle the "Shallow Work"
 Public transit is rarely the place for deep, uninterrupted focus. Instead, use this time for "shallow work", tasks that need to get done but don't require intense cognitive load. This includes:

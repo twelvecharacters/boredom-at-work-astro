@@ -28,6 +28,8 @@ For younger demographics, the "digital natives" who came of age alongside the in
 
 However, for the older generation, our parents, grandparents, and elderly neighbors, this rapid technological paradigm shift presents an unprecedented, almost invisible danger. They are navigating a digital landscape armed with an analog compass. They are applying the trust paradigms of the 20th century to the weaponized, AI-driven social media platforms of 2026. This disconnect has created a profound vulnerability, leading to widespread financial devastation, emotional manipulation, and a terrifying acceleration of political radicalization.
 
+The background to all of this is the sheer volume of machine-made content now filling every feed, a phenomenon that has earned its own name: [AI slop](/what-is-ai-slop/).
+
 This comprehensive analysis will delve into the specific mechanics of how AI in social media networks disproportionately targets and endangers older demographics. We will explore the mechanics of algorithmic isolation, the terrifying reality of synthetic media scams, and the urgent societal need for a new framework of digital literacy.
 
 ## The Algorithmic Echo Chamber: Isolation by Design
@@ -84,7 +86,7 @@ These bot networks are frequently deployed to create an "illusion of consensus."
 
 This highly sophisticated form of digital astroturfing tricks the user's brain. Social proof is a powerful psychological driver. If a user sees thousands of "people" agreeing with a fabricated news story, their internal skepticism is immediately overridden by the sheer volume of consensus. They assume, "If all these people agree, it must be true." 
 
-Furthermore, these highly conversational AI bots can engage older users in lengthy, empathetic dialogues, slowly building trust over weeks before eventually feeding them links to malicious websites, phishing scams, or extremist forums. The AI preys on the user's loneliness, offering simulated companionship as a Trojan horse for exploitation.
+Furthermore, these highly conversational AI bots can engage older users in lengthy, empathetic dialogues, slowly building trust over weeks before eventually feeding them links to malicious websites, phishing scams, or extremist forums. The same technology is being turned against these attacks as well, which we look at in [AI in IT security](/ai-in-it-security/). The AI preys on the user's loneliness, offering simulated companionship as a Trojan horse for exploitation.
 
 ## The Responsibility of the Platforms
 

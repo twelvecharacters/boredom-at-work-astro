@@ -63,7 +63,7 @@ The internet's reaction to this flood of synthetic content has transitioned from
 
 ### 1. The Destruction of Search Utility
 
-The most immediate casualty of AI slop has been the search engine. For decades, Google was a reliable oracle. Today, searching for product reviews, travel advice, or technical help often yields a first page dominated by AI-generated SEO bait. 
+The most immediate casualty of AI slop has been the search engine. For decades, Google was a reliable oracle. Today, searching for product reviews, travel advice, or technical help often yields a first page dominated by AI-generated SEO bait. That has forced a rethink on the other side of the equation too: what it now takes to rank without producing slop yourself is the subject of [SEO in 2026](/seo-and-ai-2026/). 
 
 Users are incredibly frustrated by the "time tax" imposed by slop. You click a link hoping for a quick answer, only to realize you are reading an AI-generated labyrinth of useless text. This frustration has led to the viral trend of users appending "Reddit" to the end of every search query, a desperate attempt to bypass the slop and find a forum where actual humans are discussing the topic.
 
@@ -71,7 +71,7 @@ Users are incredibly frustrated by the "time tax" imposed by slop. You click a l
 
 The internet has always had a problem with fake news and scams, but slop introduces a new kind of ambient distrust. When you can no longer tell if a touching story, a breathtaking photograph, or a helpful piece of advice came from a human mind or a statistical model, paranoia sets in.
 
-This phenomenon is known as the **"Dead Internet Theory"**, a once-fringe conspiracy theory which posits that the internet is mostly populated by bots talking to other bots. While not literally true, it *feels* increasingly true. When every comment section is filled with AI bots summarizing the article, and every article is an AI summarizing a press release, the internet feels lonely, sterile, and deeply unauthentic.
+This phenomenon is known as the **"Dead Internet Theory"**, a once-fringe conspiracy theory which posits that the internet is mostly populated by bots talking to other bots. While not literally true, it *feels* increasingly true. The cost is not evenly distributed either: readers who grew up before this became normal are the least equipped to spot it, as we cover in [AI, social media, and the danger to the older generation](/ai-social-media-danger-older-generation/). When every comment section is filled with AI bots summarizing the article, and every article is an AI summarizing a press release, the internet feels lonely, sterile, and deeply unauthentic.
 
 ### 3. The Devaluation of Human Effort
 

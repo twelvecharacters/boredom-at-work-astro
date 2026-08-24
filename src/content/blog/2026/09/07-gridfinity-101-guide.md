@@ -111,7 +111,7 @@ Printing dozens of storage bins can consume significant filament if your slicer 
 - **Detect Thin Walls / Print Thin Walls:** Enable this setting in OrcaSlicer or Bambu Studio to ensure thin bin dividers and top stacking lips render cleanly without hollow gaps.
 - **Seam Position:** Set to **Aligned** or **Back** to keep Z-seams hidden along internal corners.
 
-If you are tuning your print speeds and flow calibration for crisp bin corners, refer to our step-by-step walkthrough on [how to tune pressure advance and flow rate in OrcaSlicer](/orcaslicer-calibration-guide/).
+If you are tuning your print speeds and flow calibration for crisp bin corners, refer to our step-by-step walkthrough on [how to tune pressure advance and flow rate in OrcaSlicer](/orcaslicer-guide/).
 
 ---
 

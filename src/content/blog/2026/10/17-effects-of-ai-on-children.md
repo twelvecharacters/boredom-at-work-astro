@@ -171,7 +171,7 @@ However, if we ground our children in rich physical foundations, demand Socratic
 
 *   [How to Learn AI in 2026: The Complete Roadmap](/learn-ai-guide/)
 *   [ChatGPT Tutorial for Beginners: Complete Step-by-Step Guide](/chatgpt-tutorial-beginners/)
-*   [Best AI Note-Taking Apps for Students and Professionals](/ai-note-taking-apps/)
+*   [Best AI Note-Taking Apps for Students and Professionals](/best-ai-note-taking-apps/)
 *   [Why Smartphone Photos Look Lifeless (And How to Fix It)](/why-smartphone-photos-look-lifeless/)
 *   [15 AI Tools That Replace Office Busywork](/best-ai-tools-office-work/)
 *   [Camera vs. Smartphone: When Is a Real Camera Better?](/camera-vs-smartphone/)

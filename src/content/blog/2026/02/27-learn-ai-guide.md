@@ -37,7 +37,7 @@ course:
 isListicle: false
 ---
 
-Everyone's talking about learning AI. Most advice is either "learn to code" (unnecessary for most people) or "just use ChatGPT" (too vague to be useful).
+Everyone's talking about learning AI. Most advice is either "learn to code" (unnecessary for most people, though if you decide you want to, [the best programming languages to learn in 2026](/best-programming-languages-to-learn-in-2026/) sorts them by goal) or "just use ChatGPT" (too vague to be useful).
 
 Here's what actually works: a structured path from complete beginner to genuinely AI-competent professional, without quitting your job or going back to school.
 

@@ -32,7 +32,7 @@ To stop buying tech you do not need, you first have to understand why you are bu
 
 One of the most common justifications for buying new tech is the "Illusion of Productivity." We convince ourselves that our current output is limited by our tools, rather than our habits or discipline. We believe that a new mechanical keyboard will make us type faster, a new ultra-wide monitor will make us a better programmer, or a new productivity app subscription will magically organize our chaotic lives. 
 
-This is rarely the case. If you are procrastinating on a single monitor, you will likely just procrastinate across two monitors. As we discussed in our [Home Office Setup Budget Guide](/25-home-office-setup-budget-guide), true productivity comes from systems and focus, not hardware. The new tool might provide a temporary burst of motivation, but once the novelty wears off, your baseline habits will return.
+This is rarely the case. If you are procrastinating on a single monitor, you will likely just procrastinate across two monitors. As we discussed in our [Home Office Setup Budget Guide](/home-office-setup-budget-guide/), true productivity comes from systems and focus, not hardware. The new tool might provide a temporary burst of motivation, but once the novelty wears off, your baseline habits will return.
 
 ### Perceived Obsolescence
 
@@ -42,7 +42,7 @@ Think about smartphones. The leap from an iPhone 13 to an iPhone 15 is objective
 
 ### The Dopamine Cycle
 
-Ultimately, much of our tech buying is driven by dopamine. The modern e-commerce experience is gamified to maximize anticipation and reward. Researching a product, watching endless YouTube reviews, reading Reddit threads, and finally hitting the checkout button all trigger dopamine release in the brain. 
+Ultimately, much of our tech buying is driven by dopamine. The modern e-commerce experience is gamified to maximize anticipation and reward. Researching a product, watching endless YouTube reviews, reading Reddit threads, and finally hitting the checkout button all trigger dopamine release in the brain. Handing the research step to a chatbot can shorten that loop considerably, and our guide to [AI assisted shopping](/ai-assisted-shopping-guide/) covers where that helps and where it just relocates the problem. 
 
 The problem is that the high is temporary. Once the item arrives and is unboxed, the reality of ownership sets in. The gadget is no longer a magical artifact of potential; it is just a thing sitting on your desk. And so, the brain starts looking for the next hit, leading you right back to the Amazon search bar.
 
@@ -88,7 +88,7 @@ Before replacing an entire device, consider whether it can be repaired, upgraded
 
 If your laptop is running slowly, check if you can upgrade the RAM or swap out the old hard drive for a fast SSD before buying a whole new machine. If your favorite headphones are uncomfortable, look into buying replacement third-party earpads instead of dropping $300 on a new pair. If your 3D printer is producing sloppy prints, spend a weekend calibrating it and perhaps printing some structural upgrades, rather than throwing your hands up and buying a Prusa.
 
-As we discussed in our article on [Buy vs. 3D Print Tools](/06-buy-vs-3d-print-tools), sometimes the most satisfying solution is the one that requires a bit of DIY effort, rather than simply throwing money at the problem.
+As we discussed in our article on [Buy vs. 3D Print Tools](/buy-vs-3d-print-tools/), sometimes the most satisfying solution is the one that requires a bit of DIY effort, rather than simply throwing money at the problem.
 
 ## Common Tech Traps and How to Avoid Them
 
@@ -106,7 +106,7 @@ The audio trap lies in chasing the "perfect" sound signature. You buy bass-heavy
 
 Photographers are uniquely vulnerable to "Gear Acquisition Syndrome" (GAS). There is always a sharper lens, a sensor with better low-light performance, or a new vintage glass adaptation to try. The trap is believing that better gear equals better photos.
 
-**How to avoid it:** Challenge yourself to shoot with only one focal length for a month. Focus on composition, lighting, and storytelling. Remember that some of the most iconic photos in history were taken on cameras that are technologically inferior to the smartphone currently sitting in your pocket. If you are interested in exploring camera formats, check out our [Sensor Size Guide](/27-sensor-size-guide-mft-apsc-fullframe) to understand what you actually need.
+**How to avoid it:** Challenge yourself to shoot with only one focal length for a month. Focus on composition, lighting, and storytelling. Remember that some of the most iconic photos in history were taken on cameras that are technologically inferior to the smartphone currently sitting in your pocket. If you are interested in exploring camera formats, check out our [Sensor Size Guide](/sensor-size-guide-mft-apsc-fullframe/) to understand what you actually need.
 
 ### The Workspace Trap
 
@@ -122,7 +122,7 @@ When the urge to buy strikes, you need a healthy outlet to redirect that energy.
 
 Take the exact amount of money you were about to spend on that gadget and transfer it to an investment account. If you were about to drop $400 on a new smartwatch, buy $400 worth of an S&P 500 index fund instead. 
 
-Watching your portfolio grow can provide a similar, but much more sustained, dopamine hit compared to buying depreciating tech. Over time, you will start to view unspent money not as a missed opportunity for a gadget, but as fuel for your financial independence. If you are new to this concept, our guide on [Free Investing Courses and Resources](/03-05-free-investing-courses) is a great place to start.
+Watching your portfolio grow can provide a similar, but much more sustained, dopamine hit compared to buying depreciating tech. Over time, you will start to view unspent money not as a missed opportunity for a gadget, but as fuel for your financial independence. If you are new to this concept, our guide on [Free Investing Courses and Resources](/best-free-investing-courses/) is a great place to start.
 
 ### Learn a New Skill With Your Current Gear
 

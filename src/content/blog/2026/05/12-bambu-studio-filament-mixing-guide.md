@@ -98,7 +98,7 @@ If you are printing a 10cm tall figure with 0.1mm layers, you have 1,000 layers.
 
 Printing a mixed-color model on an X1C can easily take 48 hours and waste three times more filament than the model itself weighs. I've seen prints where the purge tower was literally taller and heavier than the model itself. This is "The Purge Problem," and it has been the primary barrier to adoption for this technology until now.
 
-This is why the **Bambu Lab H2C** and the new **X2D** flagship are the real stars of this show. As we discussed in our [H2 Series comparison](/bambu-lab-h2-series-revisited-2026), the H2C features the **Vortek system**, which can swap between six different hot ends in under five seconds. 
+This is why the **Bambu Lab H2C** and the new **X2D** flagship are the real stars of this show. As we discussed in our [H2 Series comparison](/bambu-lab-h2-series-revisited-2026/), the H2C features the **Vortek system**, which can swap between six different hot ends in under five seconds. 
 
 Because the H2C isn't retracting the filament back to the AMS but instead just swapping the entire active head, the "penalty" for a color change is almost zero. There is no purge waste because each nozzle stays primed with its own color. It’s like having a six-shooter revolver but for hot ends. The slicer orchestrates the dance, and the hardware executes it with a speed that makes the old "retract-and-purge" dance look like a relic of the stone age.
 
@@ -160,7 +160,7 @@ And for those of us who live for "productive procrastination," spending a weeken
 
 ## Related Articles
 
-- [The 2026 State of Additive: Why the Bambu Lab H2 Series Still Matters](/bambu-lab-h2-series-revisited-2026)
+- [The 2026 State of Additive: Why the Bambu Lab H2 Series Still Matters](/bambu-lab-h2-series-revisited-2026/)
 - [3D Printing for Coffee Nerds: Building the Perfect Setup](/3d-printing-for-coffee-nerds/)
 - [10 Practical Desk Upgrades You Can 3D Print](/10-practical-desk-upgrades-3d-print/)
 - [The $599 Miracle: One Month with the MacBook Neo](/macbook-neo-one-month-review/)

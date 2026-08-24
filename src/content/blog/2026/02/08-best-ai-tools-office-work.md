@@ -127,6 +127,8 @@ See our full [Perplexity AI guide](/perplexity-ai-guide/) for tips and tricks.
 
 **Use Claude for:** Writing, analysis, working with documents
 **Use ChatGPT for:** Web research, images, Custom GPTs
+
+That last one is worth more than it sounds. A Custom GPT loaded with your own documents and rules becomes an assistant that knows your job, no coding required. We walk through building one in [build a custom AI assistant for your home office](/build-custom-ai-assistant-home-office/).
 **Use Perplexity for:** Quick research with sources
 
 Many power users subscribe to 2-3 of these. They complement each other well.

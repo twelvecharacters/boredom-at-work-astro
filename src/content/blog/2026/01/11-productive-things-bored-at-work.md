@@ -20,7 +20,7 @@ faq:
 
 We've all been there. The afternoon slump hits, your to-do list is clear, or you're stuck waiting for someone else before you can move forward. Instead of mindlessly scrolling through social media or watching the clock, why not turn that downtime into something valuable?
 
-Boredom at work isn't wasted time, it's an opportunity. The most successful professionals use these quiet moments to build skills, advance their careers, and set themselves up for future success.
+Boredom at work isn't wasted time, it's an opportunity. The most successful professionals use these quiet moments to build skills, advance their careers, and set themselves up for future success. There is also a case for leaving some of that time entirely unfilled, which we make in [why boredom is good for you](/why-boredom-is-good-for-you/).
 
 > **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
 

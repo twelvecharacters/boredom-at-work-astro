@@ -230,7 +230,7 @@ Record and edit audio for podcasts, music, or voice-overs:
 
 ### 14. GIMP (Image Editing)
 
-Need Photoshop but not the subscription?
+Need Photoshop but not the subscription? Worth asking how much of that workflow still needs a pixel editor at all, a question we take up in [is AI the death of photoshopping](/is-ai-the-death-of-photoshopping/).
 
 - Layer-based editing
 - Advanced selection tools

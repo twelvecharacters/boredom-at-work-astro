@@ -25,7 +25,7 @@ faq:
 
 If you've spent any time on the internet in recent years, you've almost certainly heard the acronym "VPN." You’ve probably heard YouTubers reading ad reads for them, read tech articles recommending them, or had your IT department force you to use one for remote work. But despite their ubiquity, there remains a lot of confusion about what a Virtual Private Network actually is, and more importantly, why the average person would need one.
 
-In 2026, the digital landscape is more complex than ever. Our lives are inextricably linked to the internet, our banking, our medical records, our personal communications, and our entertainment all flow through digital pipes. As our reliance on the internet has grown, so too have the threats to our privacy and security.
+In 2026, the digital landscape is more complex than ever. Our lives are inextricably linked to the internet, our banking, our medical records, our personal communications, and our entertainment all flow through digital pipes. As our reliance on the internet has grown, so too have the threats to our privacy and security, on both sides: attackers and defenders now use the same machine learning tooling, a shift we trace in [AI in IT security](/ai-in-it-security/).
 
 > **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
 

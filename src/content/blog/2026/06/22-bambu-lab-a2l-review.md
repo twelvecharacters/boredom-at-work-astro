@@ -116,7 +116,7 @@ The A2L isn't for everyone. If you only print small miniatures or brackets, the 
 
 **Skip it if:**
 - **You have limited desk space:** The footprint is large and bed travel needs clearance front and back.
-- **You print engineering materials:** Without an enclosure, ABS, ASA, and nylon will warp, look at the [X2D](/bambu-lab-x2d-first-look/) or [H2 series](/bambu-lab-h2-series-revisited-2026) instead.
+- **You print engineering materials:** Without an enclosure, ABS, ASA, and nylon will warp, look at the [X2D](/bambu-lab-x2d-first-look/) or [H2 series](/bambu-lab-h2-series-revisited-2026/) instead.
 - **You expected Lidar or a leap in speed:** Neither is here; this is about size and reliability, not new flagship tech.
 
 ## Final Thoughts

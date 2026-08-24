@@ -23,7 +23,7 @@ faq:
     answer: "If you're on a managed work computer, your IT department can likely see installed extensions. Many companies have policies about approved extensions. When in doubt, check with IT before installing AI tools on work devices."
 ---
 
-Your browser is where you spend most of your work day. Email, documents, research, communication, it all happens in Chrome.
+Your browser is where you spend most of your work day. Email, documents, research, communication, it all happens in Chrome. If you are open to switching rather than bolting features on, several browsers now ship this functionality natively, which we compare in [best browsers for productivity](/best-browsers-for-productivity/).
 
 AI Chrome extensions bring AI capabilities directly into that workflow. No switching apps, no copy-pasting, just AI assistance wherever you need it.
 
