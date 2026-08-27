@@ -51,14 +51,18 @@ jobs:
         run: pnpm run lint:content
 
       # VERBESSERUNG 3: Caching für den Astro-Build (insbesondere für optimierte Bilder extrem hilfreich)
+      # The cache key must cover astro.config.mjs, not just the lockfile. The
+      # rehype plugin that decides nofollow vs dofollow lives in that config,
+      # and its output is baked into the cached render. Keyed on the lockfile
+      # alone, a config change is silently ignored and the old rel attributes
+      # ship (seen 27 Aug 2026 with DOFOLLOW_DOMAINS). No restore-keys either:
+      # a prefix fallback would reintroduce exactly that stale cache.
       - name: Cache Astro Build
         uses: actions/cache@v6
         with:
           path: |
             node_modules/.astro
-          key: ${{ runner.os }}-astro-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-astro-
+          key: ${{ runner.os }}-astro-${{ hashFiles('**/pnpm-lock.yaml', 'astro.config.mjs') }}
 
       - name: Build Astro
         run: pnpm run build

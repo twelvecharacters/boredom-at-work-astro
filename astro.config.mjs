@@ -135,6 +135,9 @@ const SPONSORED_DOMAINS = [
 // no sponsored) - editorial links where the destination genuinely fits the content.
 const DOFOLLOW_DOMAINS = [
   'g8trip.com',
+  // Reciprocal dofollow delivered 27 Aug 2026: in-body link on
+  // /blog/best-ai-travel-planners-2026/, natural anchor, no rel=nofollow.
+  'monkeyeatingmango.com',
 ];
 
 // Find most recent publishDate for homepage/blog lastmod
