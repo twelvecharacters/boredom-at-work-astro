@@ -70,7 +70,7 @@ The long answer involves trade-offs between ease of printing, strength, flexibil
 - Prototypes and test prints
 - Cosplay props (with coating)
 - Desk organizers and household items
-- Educational projects, check out [10 things to 3D print first](/10-things-to-print-new-3d-printer/)
+- Educational projects, check out [beginner 3D print projects](/what-to-3d-print-first/)
 - Anything that won't see heat or stress
 
 ### Recommended PLA Brands

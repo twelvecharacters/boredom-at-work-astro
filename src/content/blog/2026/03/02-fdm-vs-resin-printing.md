@@ -276,7 +276,7 @@ FDM? Pop it off the bed, snap off supports, done.
 - **Functional parts**, Brackets, enclosures, tools
 - **Large prints**, Cosplay helmets, vases, decorations
 - **Prototyping**, Quick iterations, size checks
-- **Everyday printing**, Phone stands, organizers, hooks (see [10 things to print first](/10-things-to-print-new-3d-printer/))
+- **Everyday printing**, Phone stands, organizers, hooks (see [what to print first](/what-to-3d-print-first/))
 - **Outdoor items**, PETG/ASA handle weather
 - **Beginners**, Easier, safer, more forgiving
 

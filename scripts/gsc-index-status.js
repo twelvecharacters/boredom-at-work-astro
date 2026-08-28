@@ -12,6 +12,7 @@
  *   node scripts/gsc-index-status.js                # full scan + submit list
  *   node scripts/gsc-index-status.js --top 10       # size of the submit list
  *   node scripts/gsc-index-status.js --orphans      # list the unlinked pages
+ *   node scripts/gsc-index-status.js --rejected     # list all crawled-but-rejected
  *   node scripts/gsc-index-status.js --submitted a b # log a, b as submitted today
  *   node scripts/gsc-index-status.js --show-submitted
  *   node scripts/gsc-index-status.js <slug> [...]   # check specific slugs
@@ -181,6 +182,7 @@ const args = process.argv.slice(2);
 const topIdx = args.indexOf('--top');
 const TOP = topIdx !== -1 ? parseInt(args[topIdx + 1], 10) || 10 : 10;
 const SHOW_ORPHANS = args.includes('--orphans');
+const SHOW_REJECTED = args.includes('--rejected');
 const submittedIdx = args.indexOf('--submitted');
 const NOW = Date.now();
 
@@ -283,11 +285,12 @@ if (explicit.length) {
     console.log(`\n  NICHT einreichen: ${rejected.length} Seiten sind gecrawlt und trotzdem`);
     console.log('  nicht indexiert. Das ist ein Qualitaets- oder Dubletten-Urteil und');
     console.log('  braucht inhaltliche Arbeit, kein weiteres Einreichen:');
-    rejected
-      .map((r) => r.url.replace(SITE_URL, '').replace(/\/$/, ''))
-      .sort()
-      .slice(0, 10)
+    const slugs = rejected.map((r) => r.url.replace(SITE_URL, '').replace(/\/$/, '')).sort();
+    (SHOW_REJECTED ? slugs : slugs.slice(0, 10))
       .forEach((slug) => console.log(`    /${slug}/`));
+    if (!SHOW_REJECTED && slugs.length > 10) {
+      console.log(`    ... und ${slugs.length - 10} weitere, vollstaendig mit --rejected`);
+    }
   }
 
   const orphaned = ranked.filter((r) => r.links === 0);

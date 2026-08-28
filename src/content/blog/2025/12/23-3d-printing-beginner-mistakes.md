@@ -98,7 +98,7 @@ I understand the excitement: You want to immediately print that 15-hour project 
 
 ### Pro Tip
 
-Every "failed" short print is a learning moment. Better to lose 10 minutes than 10 hours. Need inspiration for easy starter projects? See our list of [10 things to print with a new 3D printer](/10-things-to-print-new-3d-printer/).
+Every "failed" short print is a learning moment. Better to lose 10 minutes than 10 hours. Need inspiration for easy starter projects? See our list of [beginner projects for a new 3D printer](/what-to-3d-print-first/).
 
 ## Mistake 4: Buying Cheap Filament
 

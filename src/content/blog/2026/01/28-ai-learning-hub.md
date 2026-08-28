@@ -1,14 +1,15 @@
 ---
-title: "Master AI Skills at Work: The Complete Learning Path"
+title: "AI at Work: Every Guide, Course and Tool in One Place"
 slug: "ai-learning-hub"
-description: "Everything you need to learn AI during work hours. Free courses, tutorials, tools, and practical skills that actually matter for your career in 2026."
+description: "Our full library of AI guides for office workers: tool reviews, free course picks, tutorials and career advice. Browse by what you need, not by skill level."
 publishDate: 2026-01-28
+updatedDate: 2026-08-28
 author: "Mehdi"
 image: "./28-ai-learning-hub.webp"
 imageAlt: "Illustration showing AI learning paths and skill development tools"
 tags: ["AI", "Learning", "Career", "Productivity", "Hub Page"]
 draft: false
-tldr: "Start with ChatGPT basics, take a free Google or IBM course for credibility, then focus on AI tools that solve your actual work problems. 10-20 hours total to become genuinely useful with AI."
+tldr: "A directory of everything we have written about using AI at work: tutorials, free course reviews, tool comparisons and career advice, grouped by what you are trying to get done. For a step-by-step path instead, see our Learn AI roadmap."
 faq:
   - question: "How long does it take to learn AI basics?"
     answer: "10-20 hours for practical working knowledge. You can learn ChatGPT in an afternoon, complete a certificate course in a week, and become genuinely productive with AI tools within a month."
@@ -24,9 +25,9 @@ faq:
 
 AI isn't coming for your job, but someone who knows how to use AI might. The good news? Learning AI basics is easier than you think, and you can do it during work downtime.
 
-This hub organizes everything you need to go from AI-curious to AI-competent: tutorials, free courses, tool comparisons, and career strategies. No fluff, no hype, just practical skills that matter.
+**This page is a directory, not a course.** It lists everything we have published on using AI at work, sorted by what you are trying to do: pick a tool, take a course, solve a specific task, or make the case for yourself at review time. Come here when you know roughly what you need and want the right article fast.
 
-> **Want a structured roadmap?** Check out our comprehensive [Guide to Learning AI in 2026](/learn-ai-guide/) with step-by-step milestones, free courses, and career advice.
+> **Looking for a step-by-step path instead?** [How to Learn AI in 2026](/learn-ai-guide/) is the structured version: five competency levels, milestones, and a 30-day plan. Start there if you want someone to tell you what to do in which order. Come back here to pick the individual pieces.
 
 ---
 
@@ -242,9 +243,9 @@ The people who'll benefit most from AI aren't necessarily the most technical, th
 
 ---
 
-## The Complete Learning Path
+## All Guides, Grouped by Topic
 
-Here's the recommended order if you want a structured approach:
+If you would rather be told what to do in which order, that is what [the roadmap](/learn-ai-guide/) is for. This is the browsable version:
 
 ### Phase 1: Foundation (Week 1)
 1. Read [ChatGPT Tutorial](/chatgpt-tutorial-beginners/), 30 min
@@ -270,9 +271,9 @@ Here's the recommended order if you want a structured approach:
 
 ---
 
-## Quick Start by Role
+## Which Articles Fit Your Job
 
-Different jobs benefit from different AI skills:
+Different jobs benefit from different AI skills. Jump straight to what applies to you:
 
 | Role | Start Here | Then Learn |
 |------|------------|------------|

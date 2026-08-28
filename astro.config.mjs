@@ -206,6 +206,11 @@ export default defineConfig({
     mdx(),
   ],
   redirects: {
+    // Konsolidierung 28.8.2026: praktisch deckungsgleich mit /what-to-3d-print-first/
+    // (5 der 10 Projekte waren identisch). Google hat beide nicht indexiert,
+    // klassische Kannibalisierung. Einzigartige Inhalte sind ins Ziel gewandert.
+    '/10-things-to-print-new-3d-printer/': '/what-to-3d-print-first/',
+
     '/learning-paths': '/ai-learning-hub/',
     '/learning-paths/ai-mastery': '/ai-learning-hub/',
     '/learning-paths/3d-printing-startup': '/3d-printing-guide/',

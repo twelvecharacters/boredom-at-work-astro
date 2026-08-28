@@ -189,7 +189,7 @@ Once you've got consistent prints, try these progressions:
 | **Tools** | Wrenches, scrapers | Custom jigs, tool organizers |
 | **Fun** | Keychains, fidget toys | Board game pieces, cosplay props |
 
-**Deep dive:** [10 Essential Things to 3D Print First](/10-things-to-print-new-3d-printer/), or browse our [20 best functional 3D prints](/best-functional-3d-prints/) that solve real problems around the house and office.
+**Deep dive:** [What Should I 3D Print First? 25 Beginner Projects](/what-to-3d-print-first/), or browse our [20 best functional 3D prints](/best-functional-3d-prints/) that solve real problems around the house and office.
 
 ---
 
@@ -409,7 +409,7 @@ The best way to learn 3D printing is to print things. A lot of things. So go mak
 
 **What to Print:**
 - [What Should I 3D Print First?](/what-to-3d-print-first/)
-- [10 Essential Things to Print](/10-things-to-print-new-3d-printer/)
+- [What Should I 3D Print First?](/what-to-3d-print-first/)
 - [Best Sites for Free 3D Models](/best-sites-free-3d-models/)
 
 **Troubleshooting:**

@@ -142,7 +142,7 @@ You don't need to be a tech genius to start using these tools. Here is the recom
 **Your next steps:**
 - [3D Printing for Beginners: The Complete Guide](/3d-printing-beginners-guide/)
 - [Is a 3D Printer Worth It? (2026 Analysis)](/is-3d-printing-worth-it/)
-- [10 Best Functional Prints for Your Desk](/10-things-to-print-new-3d-printer/)
+- [25 Beginner 3D Print Projects](/what-to-3d-print-first/)
 
 ---
 

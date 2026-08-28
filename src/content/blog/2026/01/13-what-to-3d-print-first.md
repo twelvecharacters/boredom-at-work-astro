@@ -147,7 +147,7 @@ Brings order to your spice shelf. Stackable and labelable.
 
 ## Level 4: Desk Accessories
 
-Upgrade your workspace with self-printed accessories. For even more desk-focused print ideas, check out our [10 things every new printer owner should print](/10-things-to-print-new-3d-printer/).
+Upgrade your workspace with self-printed accessories. If that workspace happens to be an office desk, see the section further down on prints that pass as store-bought.
 
 ### 13. Pen Holder
 
@@ -180,6 +180,28 @@ Ergonomic laptop stand for better posture at your desk.
 Hide the cable chaos under your desk.
 
 **Download:** [Printables - Cable Box](https://www.printables.com/model/14872-cable-management-box)
+
+## Printing for the Office Desk
+
+If the desk in question is at work rather than at home, the calculation changes. A print has to look like it was bought, not like it escaped from a maker fair. These three do.
+
+### Monitor Riser Legs
+
+**Print time:** 6-8 hours | **Filament:** ~200g | **Difficulty:** Medium
+
+Print four sturdy pillars and lay a scrap of wood or acrylic across them. Cheaper than any commercial riser, and it brings the screen to eye level, which your neck will notice within a week. Match the filament to the desk color and nobody asks questions.
+
+### Custom Drawer Dividers
+
+**Print time:** 2-3 hours per bin | **Filament:** ~50g | **Difficulty:** Easy
+
+Generic organizers never fit. Measure your actual drawer, print bins to those dimensions, and everything has a place. This is also the most convincing demonstration of what a printer is for, if anyone at home still needs convincing.
+
+### Ergonomic Tool Handles
+
+**Print time:** 1-2 hours | **Filament:** ~30g | **Difficulty:** Medium
+
+That cheap hex key that digs into your palm gets a printed sleeve. Measure the tool, print a grip around it. Small project, but it is the step where 3D printing stops being a toy and starts solving problems you actually have.
 
 ## Level 5: Creative Projects
 
