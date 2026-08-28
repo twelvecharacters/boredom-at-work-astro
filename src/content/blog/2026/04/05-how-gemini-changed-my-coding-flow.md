@@ -1,8 +1,9 @@
 ---
-title: "How Gemini CLI Changed My Daily Coding Workflow Forever"
+title: "Coding With Gemini CLI: A Verdict After Daily Use"
 slug: "how-gemini-changed-my-coding-flow"
-description: "Stop wasting time copy-pasting code into browser windows. Discover how a CLI-based AI agent transformed my development speed and reclaimed my work-life balance."
+description: "What changes when the AI lives in your terminal instead of a browser tab: the workflow that stuck, the habits that did not survive, and the honest downsides."
 publishDate: 2026-04-05
+updatedDate: 2026-08-28
 author: "Mehdi"
 tags: ["AI Tools", "Coding", "Gemini", "Productivity"]
 image: "./05-gemini-coding-flow.webp"

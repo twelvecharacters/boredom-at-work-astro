@@ -1,7 +1,7 @@
 ---
-title: "Microsoft Copilot in Word: Complete Tutorial (2026)"
+title: "Writing in Word With Copilot: What It Can and Cannot Do"
 slug: "copilot-word-tutorial"
-description: "Master Copilot in Word. From drafting documents to rewriting sections, everything you need to use AI directly in Microsoft Word."
+description: "Drafting, rewriting and summarizing inside Microsoft Word with Copilot: the tasks it handles well, the ones it fumbles, and how to prompt it in a document."
 publishDate: 2026-03-03
 updatedDate: 2026-04-05
 author: "Mehdi"

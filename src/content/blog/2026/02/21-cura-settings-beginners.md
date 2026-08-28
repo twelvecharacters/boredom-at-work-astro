@@ -1,8 +1,9 @@
 ---
-title: "Cura Settings for Beginners: The Only Guide You Need"
+title: "The 10 Cura Settings That Actually Change Your Prints"
 slug: "cura-settings-beginners"
-description: "Confused by Cura's 400+ settings? Learn the 10 settings that actually matter, what they do, and the best values for your first prints."
+description: "Cura ships with over 400 settings. These are the ten that move the needle on quality, what each one does, and the values to start from on your first prints."
 publishDate: 2026-02-21
+updatedDate: 2026-08-28
 author: "Mehdi"
 image: "./21-cura-settings-beginners.webp"
 imageAlt: "Step-by-step visual guide for essential Cura slicer settings"

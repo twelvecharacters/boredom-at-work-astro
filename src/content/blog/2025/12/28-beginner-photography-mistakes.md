@@ -1,8 +1,9 @@
 ---
-title: "10 Beginner Photography Mistakes to Avoid (2026)"
+title: "10 Mistakes That Ruin Otherwise Good Photos"
 slug: "beginner-photography-mistakes"
-description: "Avoid the most common beginner photography mistakes that ruin your photos. Learn practical fixes for blurry images, bad composition, and exposure problems."
+description: "Blurry shots, flat composition, blown highlights. The ten errors that spoil pictures most often, why they happen, and the practical fix for each of them."
 publishDate: 2025-12-28
+updatedDate: 2026-08-28
 author: "Mehdi"
 image: "./28-photography-mistakes.webp"
 imageAlt: "Camera with common photography mistake examples on a light background"
