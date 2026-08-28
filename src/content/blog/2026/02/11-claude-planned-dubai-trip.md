@@ -1,8 +1,9 @@
 ---
-title: "I Let Claude Plan Our Dubai Trip, Here's How It Went"
+title: "3 Days in Dubai: The AI-Planned Itinerary in Full"
 slug: "claude-planned-dubai-trip"
-description: "I asked Claude to plan a 3-day Dubai trip for me and two colleagues. Burj Khalifa, helicopter flight, Michelin-star dinner, here's how it went."
+description: "A complete 3-day Dubai itinerary planned by Claude and actually walked: Burj Khalifa timing, a helicopter flight, Michelin dinners, and what we had to fix."
 publishDate: 2026-02-11
+updatedDate: 2026-08-28
 author: "Mehdi"
 image: "./11-claude-dubai-trip.webp"
 imageAlt: "Dubai skyline with Burj Khalifa from an AI-planned trip itinerary"
@@ -22,9 +23,9 @@ faq:
     answer: "It can be surprisingly affordable if you plan smart. We spent $80-120 per person per day on food, transport, and activities. Our hotel and helicopter tour were covered by business partners, but even without that, the Dubai Mall is free, Uber is cheap for a luxury city, and restaurant prices are comparable to major European cities."
 ---
 
-I've written guides about [AI trip planners](/best-ai-trip-planners/) and even let AI plan a [London weekend](/ai-planned-london-weekend/). But this time the stakes were different: a short business-adjacent trip to Dubai with two colleagues, barely any time to plan, and a city I'd never visited before.
+Three days in Dubai, three of us, and a city none of us had seen before. Below is the itinerary we actually walked, with what everything cost: the Burj Khalifa and Dubai Mall on day one, a helicopter flight over the city on day two, and the Michelin dinner in between.
 
-So I asked Claude to figure it out. Three days, three guys, one prompt.
+The plan came out of Claude rather than a guidebook. That matters mainly because it shows where an AI-built itinerary holds up and where it needs a human to step in. If you are planning your own Dubai days, the schedule works either way. For the tooling question, see our [comparison of AI trip planners](/best-ai-trip-planners/) or the [London weekend](/ai-planned-london-weekend/) we ran the same way.
 
 ## The Setup: Claude Gets the Brief
 

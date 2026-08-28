@@ -1,8 +1,9 @@
 ---
-title: "Planning a Malaysia Trip with ChatGPT: What Worked"
+title: "Two Weeks in Malaysia: The Complete Itinerary"
 slug: "chatgpt-malaysia-trip-planning"
-description: "A real 2-week Malaysia trip planned with ChatGPT. What the AI got right, what it missed, and how it helped find gluten-free food across the country."
+description: "A real two-week Malaysia route with costs, timings and transfers, plus how we handled gluten-free eating in Kuala Lumpur, Penang and Langkawi."
 publishDate: 2026-03-13
+updatedDate: 2026-08-28
 author: "Mehdi"
 image: "./13-chatgpt-malaysia-trip.webp"
 imageAlt: "Malaysia travel scene from a ChatGPT-planned trip itinerary"
@@ -17,9 +18,9 @@ faq:
     answer: "Our AI-planned route was: Kuala Lumpur (2 nights) → Penang (3 nights) → Langkawi (5 nights) → Kuala Lumpur (3 nights). This balanced city, culture, and beach time perfectly."
 ---
 
-Last November, I put AI travel planning to the test: a 2-week Malaysia trip planned with ChatGPT. My partner and I wanted a mix of city exploration, culture, and beaches, with one extra challenge: my partner has celiac disease, so finding gluten-free food was critical.
+Two weeks across Kuala Lumpur, Penang and Langkawi, with real costs, real timings and the transfers that turned out to be longer than promised. One constraint shaped the whole route: my partner has celiac disease, so every meal had to be checkable in advance.
 
-Here's the honest breakdown of what ChatGPT got right, what it completely missed, and whether AI travel planning is actually worth it.
+The itinerary came together with ChatGPT, which is worth saying because it explains both the unusually thorough restaurant research and the gaps: nobody warned us about the dress code at Batu Caves until my partner stood at the entrance in shorts.
 
 ## The Trip at a Glance
 

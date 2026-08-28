@@ -1,8 +1,9 @@
 ---
-title: "Claude AI Planned My Málaga & Marbella Trip (2026)"
+title: "5 Days in Málaga and Marbella: The Full Itinerary"
 slug: "claude-planned-malaga-marbella-trip"
-description: "5 days in Málaga and Marbella, planned by Claude. Tapas bars, Alcazaba, a conference at Hard Rock Hotel, and honest restaurant picks on a budget."
+description: "Day by day through Málaga and Marbella: Alcazaba, tapas bars worth the detour, a conference stay at Hard Rock Hotel, and the restaurant picks that missed."
 publishDate: 2026-03-11
+updatedDate: 2026-08-28
 author: "Mehdi"
 image: "./11-claude-malaga-marbella-trip.webp"
 imageAlt: "Malaga and Marbella travel scene from a Claude AI-planned trip"

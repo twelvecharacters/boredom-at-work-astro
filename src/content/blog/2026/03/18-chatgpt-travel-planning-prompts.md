@@ -1,8 +1,9 @@
 ---
-title: "ChatGPT for Travel Planning: 19 Prompts That Actually Work"
+title: "19 Travel Prompts to Copy Straight Into ChatGPT"
 slug: "chatgpt-travel-planning-prompts"
-description: "Copy-paste these proven ChatGPT prompts to plan your next trip. From destination research to day-by-day itineraries, these prompts save hours."
+description: "Copy-paste prompts for itineraries, budgets, packing and local research. No theory, no tool comparison, just the exact wording that returns usable answers."
 publishDate: 2026-03-18
+updatedDate: 2026-08-28
 author: "Mehdi"
 image: "./18-chatgpt-travel-prompts.webp"
 imageAlt: "ChatGPT travel planning prompts displayed on a laptop screen"
