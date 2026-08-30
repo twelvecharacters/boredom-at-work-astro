@@ -119,10 +119,9 @@
     }
   }, { passive: true });
 
-  // 7. Time-on-Page / Engagement Heartbeat (every 30 seconds)
-  setInterval(function() {
-    if (document.visibilityState === 'visible') {
-      gtag('event', 'engagement_heartbeat', { duration_seconds: 30 });
-    }
-  }, 30000);
+  // Kein Heartbeat-Timer mehr. Ein Event alle 30 Sekunden pro offenem Tab hatte
+  // 2.054.812 Events erzeugt, GA4 verwarf daraufhin andere Treffer: page_view fiel
+  // von ~4.000 auf null (Anfang Juni 2026, exakt als der Timer eingefuehrt wurde).
+  // Nebenwirkung war eine Durchschnittssitzung von 67 Minuten, weil jedes Event die
+  // Session am Timeout vorbeischob. Verweildauer misst GA4 selbst ueber user_engagement.
 </script>
