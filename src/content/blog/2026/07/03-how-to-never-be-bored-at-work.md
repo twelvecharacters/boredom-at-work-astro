@@ -110,7 +110,7 @@ Block out a specific, non-negotiable time block on your calendar each week, even
 
 ### Embrace Micro-Learning for Macro Impact
 
-You do not always need a massive, multi-week course to learn something valuable. Embrace the power of micro-learning. Read a highly complex industry whitepaper during your train commute. Listen to an educational, dense podcast while doing low-cognition data entry. Watch a concentrated, ten-minute YouTube tutorial on an advanced Excel macro before you begin your spreadsheet work. These constant, small injections of novel knowledge keep your neuroplasticity high and your brain aggressively engaged.
+You do not always need a massive, multi-week course to learn something valuable. Embrace the power of micro-learning. Read a highly complex industry whitepaper during your train commute. Listen to an educational, dense podcast while doing low-cognition data entry, our [pick of the most motivating ones](/best-motivational-podcasts-2026/) is a decent starting point. Watch a concentrated, ten-minute YouTube tutorial on an advanced Excel macro before you begin your spreadsheet work. These constant, small injections of novel knowledge keep your neuroplasticity high and your brain aggressively engaged.
 
 ## Strategy 4: Architecting Your Environment
 

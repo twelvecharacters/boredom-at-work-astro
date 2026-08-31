@@ -122,6 +122,8 @@ The most important decision. Get this right, and everything else is easier.
 | **Creality Ender 3 V3 SE** | $199 | Learning the craft | Best for budget tinkering |
 | **Anycubic Kobra 2** | $219 | Balance of both | Good middle ground |
 | **Bambu Lab P1S** | ~$450 | Enclosed, quiet | Best enclosed option |
+
+Looking at the newer Bambu machines instead? We compared the [X2D against the P1S](/bambu-lab-x2d-vs-p1s/) and took apart the [A2L](/bambu-lab-a2l-review/). For anyone printing functional parts, the [PETG-CF guide](/petg-cf-filament-guide/) covers the material side.
 | **[Bambu Lab X2D](/bambu-lab-x2d-first-look/)** | $649–899 | Dual-nozzle, 65°C chamber | Best for multi-material |
 
 **Budget pick:** Creality Ender 3 V3 SE, proven workhorse, huge community

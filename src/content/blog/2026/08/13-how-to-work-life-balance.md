@@ -81,6 +81,8 @@ By dedicating the first part of your day to yourself, you establish a sense of c
 
 Just as a morning routine starts your day correctly, a transition routine helps you end it. The commute home used to serve this purpose. The train ride or the drive gave professionals a buffer zone to decompress between the office and the home. With the rise of remote work, that buffer has disappeared.
 
+If you still have a real commute, it is worth making it work for you rather than against you: our [efficient commute guide](/efficient-commuting-guide/) covers the planning side, the [commuting gadgets roundup](/top-10-commuting-gadgets/) the hardware.
+
 You need to artificially recreate the commute. Create a specific, twenty minute routine that you perform every single day when work ends. This could be a short walk around the neighborhood, doing a quick yoga session, or listening to a specific podcast. The activity itself matters less than the consistency. Over time, your brain will associate this routine with the end of the work day, making it much easier to let go of workplace stress and transition into your personal life.
 
 ## Communicating Expectations with Your Team
