@@ -36,13 +36,10 @@ Software KVMs use your local network (Wi-Fi or Ethernet) to route keyboard input
 
 [Barrier](https://github.com/debauchee/barrier) is a free, open-source software KVM derived from the popular Synergy project. Its active community fork, [Input Leap](https://github.com/input-leap/input-leap), continues to maintain cross-platform support for macOS, Windows, and Linux.
 
-```
-+--------------------------------+       Local Wi-Fi / Ethernet       +--------------------------------+
-|          MacBook Pro           | <================================> |           Windows PC           |
-|        (Barrier Server)        |     Encrypted TCP Connection       |        (Barrier Client)        |
-|  [Keyboard & Mouse Attached]   |                                    |      [Cursor Moves Over]       |
-+--------------------------------+                                    +--------------------------------+
-```
+| Primary Server (MacBook Pro) | Local Encrypted TCP Connection | Secondary Client (Windows PC) |
+| :--- | :---: | :--- |
+| **Physical Keyboard & Mouse Attached** | <=============================> | **Virtual Cursor & Keystroke Receiver** |
+| Defines screen boundary coordinates | Wi-Fi / Gigabit Ethernet LAN | Cursor seamlessly glides onto display |
 
 * **How it works:** You install Barrier on both computers, enable SSL encryption, and define screen layouts visually in the server grid.
 * **Pros:** Completely free, lightweight, open-source, no account creation required, supports basic text clipboard sharing.
@@ -91,29 +88,21 @@ A hardware KVM (Keyboard, Video, Mouse) switch is a physical box that accepts vi
 * **Cons:** Requires extra cable management behind the desk; doesn't support automatic cursor gliding across screens (requires manual switching).
 * **Best for:** Strict corporate security environments, high-performance gaming setups, and multi-monitor workstations.
 
-When setting up a hardware switcher alongside monitor arms and cable trays, check out our guide on [home office cable management tips](file:///Users/mani/Development/boredom-at-work-astro/src/content/blog/2026/03/13-cable-management-tips.md) for clean desktop routing.
+When setting up a hardware switcher alongside monitor arms and cable trays, check out our guide on [home office cable management tips](/cable-management-tips/) for clean desktop routing.
 
 ### 2. Simple USB Switch Buttons (Budget Hardware Option)
 
 If your monitors already have multiple display inputs (such as DisplayPort for PC and USB-C for Mac) and support auto-input switching, you do not need a full video KVM. A simple 2-port USB 3.0 selector hub costs under $20.
 
-```
-                                +-----------------------+
-                                |  USB 3.0 Switch Hub   |
-                                +-----------+-----------+
-                                            |
-                       +--------------------+--------------------+
-                       |                                         |
-                       v                                         v
-            +--------------------+                    +--------------------+
-            |    MacBook Pro     |                    |     Windows PC     |
-            +--------------------+                    +--------------------+
-```
+| Connected Peripherals | USB 3.0 Selector Hub | Active Output Machine |
+| :--- | :---: | :--- |
+| **Shared Keyboard & Mouse** | Toggle Button (Port 1 / Port 2) | **MacBook Pro** *(Display via USB-C)* |
+| **Webcam / Headset / DAC** | Instant Physical Circuit Switch | **Windows PC** *(Display via DisplayPort)* |
 
 * **How it works:** Your keyboard and mouse plug into the USB hub. A single button press toggles the USB connection between your Mac and PC while your monitors automatically detect the active video signal.
 * **Pros:** Inexpensive ($15 to $25), reliable, zero software footprint.
 * **Cons:** Manual button press required; slight 1 to 2 second USB handshake delay during switching.
-* **Best for:** Budget-conscious users with dual-input monitors like those featured in our [best monitors for working from home](file:///Users/mani/Development/boredom-at-work-astro/src/content/blog/2026/03/24-best-monitors-working-from-home.md) roundup.
+* **Best for:** Budget-conscious users with dual-input monitors like those featured in our [best monitors for working from home](/best-monitors-working-from-home/) roundup.
 
 ### 3. Built-In Monitor KVMs
 
@@ -122,7 +111,7 @@ Many modern productivity monitors come equipped with integrated KVM switches and
 * **How it works:** Connect your laptop via a single USB-C cable (supplying power, video, and USB data) and your PC via DisplayPort plus a USB upstream cable. The monitor automatically switches your mouse and keyboard peripherals when changing video sources.
 * **Pros:** Zero extra desktop boxes, minimal wiring clutter, high reliability.
 * **Cons:** Higher initial monitor investment cost.
-* **Best for:** Clean, minimalist desk setups paired with modern [USB-C docking stations](file:///Users/mani/Development/boredom-at-work-astro/src/content/blog/2026/03/26-best-usb-c-docking-stations.md).
+* **Best for:** Clean, minimalist desk setups paired with modern [USB-C docking stations](/best-usb-c-docking-stations/).
 
 ---
 
@@ -162,17 +151,10 @@ Choose the computer where your keyboard and mouse are physically connected. We r
 4. Drag the computer icon from the top-right corner into the grid positioning box adjacent to your primary screen.
 5. Double-click the newly placed screen icon and set its **Screen name** to match the exact computer name displayed on your secondary machine's Barrier window.
 
-```
-+-------------------------------------------------------+
-|                    Screen Grid                        |
-|                                                       |
-|       +-------------------+   +-------------------+   |
-|       |   MacBook-Server  |   |   Windows-Client  |   |
-|       |     (Primary)     |   |    (Secondary)    |   |
-|       +-------------------+   +-------------------+   |
-|                                                       |
-+-------------------------------------------------------+
-```
+| Left Position (Server Display) | Right Position (Client Display) |
+| :---: | :---: |
+| **MacBook-Server (Primary)** | **Windows-Client (Secondary)** |
+| Physical Keyboard / Mouse host | Cursor enters when crossing right edge |
 
 ### Step 3: Configure the Secondary (Client) Computer
 
@@ -195,7 +177,7 @@ If your cursor fails to transition smoothly or gets stuck on corners, check scre
 ### Issue 2: Command and Control Key Mismatches
 Mac keyboards use the Command (`⌘`) key for shortcuts, whereas Windows uses Control (`Ctrl`).
 
-* **Fix:** Most software tools allow modifier key mapping. In Barrier or Synergy, navigate to screen settings and map `Super` (Windows Key) to `Control`, or configure your hardware keyboard profiles. If you use specialized peripherals from our [best ergonomic mice](file:///Users/mani/Development/boredom-at-work-astro/src/content/blog/2026/03/31-best-ergonomic-mice.md) guide, store custom keymap profiles onboard the device memory.
+* **Fix:** Most software tools allow modifier key mapping. In Barrier or Synergy, navigate to screen settings and map `Super` (Windows Key) to `Control`, or configure your hardware keyboard profiles. If you use specialized peripherals from our [best ergonomic mice](/best-ergonomic-mice/) guide, store custom keymap profiles onboard the device memory.
 
 ### Issue 3: Wi-Fi Disconnections and Corporate Firewalls
 When working on a corporate laptop, company firewalls or active VPN tunnels often isolate local subnet traffic, severing software KVM connections.
@@ -211,7 +193,7 @@ When working on a corporate laptop, company firewalls or active VPN tunnels ofte
 * **Choose a USB Selector Switch** if you want an inexpensive ($20), bulletproof hardware setup that works through corporate VPN restrictions.
 * **Choose a Dedicated KVM Switch or KVM Monitor** if you manage multi-monitor high-refresh setups or competitive gaming rigs alongside your work laptop.
 
-For more inspiration on designing an ergonomic, productive workspace, explore our complete [desk upgrade guide](file:///Users/mani/Development/boredom-at-work-astro/src/content/blog/2026/03/15-desk-upgrade-guide.md).
+For more inspiration on designing an ergonomic, productive workspace, explore our complete [desk upgrade guide](/desk-upgrade-guide/).
 
 ---
 

@@ -48,15 +48,14 @@ Instead of throwing tens of thousands of top-tier GPUs at massive dense architec
 
 ## 4 Catalysts Reshaping the Global AI Race
 
-The flattening of the frontier AI curve was not caused by a single breakthrough. Rather, four compounding structural shifts converged to level the playing field.
+The flattening of the frontier AI curve was not caused by a single breakthrough. Rather, four compounding structural shifts converged to level the playing field:
 
-```
-Global AI Landscape Shifts
-├── 1. Algorithmic Efficiency (MoE, MLA, Native Reasoning)
-├── 2. Open-Weight Model Parity (DeepSeek, Qwen, Mistral, Llama)
-├── 3. Energy and Grid Constraints in Western Hubs
-└── 4. Global Talent and Hardware Ecosystem Diversification
-```
+| Pillar | Shift | Strategic Driver |
+| :--- | :--- | :--- |
+| **1. Algorithmic Efficiency** | MoE, MLA, Native Reasoning | Deep mathematical optimization overcomes raw cluster limitations |
+| **2. Open-Weight Parity** | DeepSeek, Qwen, Mistral, Llama | High-end model architectures freely downloadable globally |
+| **3. Infrastructure Limits** | Power & Transmission Squeeze | Western grid interconnection queues extend to 3–7 years |
+| **4. Ecosystem Diversification** | Global Talent & Custom Silicon | Sovereign compute hubs and specialized chip packaging |
 
 ### 1. Architectural and Algorithmic Innovations
 
@@ -90,20 +89,11 @@ To see how modern developers leverage these diverse models in their daily enviro
 
 While software algorithms can be distributed globally in minutes, the physical infrastructure that powers them remains anchored to the physical world. This is where Western tech giants face their most formidable hurdle: the energy transition.
 
-```
-Data Center Scaling Bottlenecks:
-+-------------------------------------------------------------+
-| Western Hyperscalers                                        |
-| -> 3 to 7 year electrical grid interconnection queues       |
-| -> High utility capital expenditure passed to taxpayers    |
-| -> Severe public water and environmental scrutiny           |
-+-------------------------------------------------------------+
-| Competing International Hubs                                |
-| -> Rapid deployment of modular nuclear and solar grids     |
-| -> Co-located compute directly at high-voltage transmission |
-| -> Lower municipal infrastructure delays                   |
-+-------------------------------------------------------------+
-```
+| Metric / Dimension | Western Hyperscalers | Competing Global Hubs |
+| :--- | :--- | :--- |
+| **Grid Connection Timelines** | 3 to 7 year interconnection queues | Rapid deployment of dedicated HVDC lines |
+| **Power Infrastructure** | Public grid dependency & high transmission fees | Co-located modular nuclear and solar generation |
+| **Permitting & Environment** | Strict water, land, and environmental reviews | Streamlined municipal zoning & industrial zones |
 
 ### The Grid Capacity Squeeze
 
@@ -132,16 +122,12 @@ The primary pillar supporting Western AI leadership has long been the semiconduc
 3. **Advanced Lithography:** Monopolized by the Netherlands with ASML's Extreme Ultraviolet (EUV) systems.
 4. **Contract Manufacturing:** Anchored in Taiwan by [TSMC](https://www.tsmc.com/).
 
-```
-Global Semiconductor Interdependencies
-[US: Chip Architecture & EDA]
-        │
-        ▼
-[Netherlands: ASML Lithography] ──► [Taiwan: TSMC Fabrication] ──► Global AI Compute
-        ▲
-        │
-[Japan: Chemicals & Silicon Wafers]
-```
+| Supply Chain Tier | Primary Global Leaders | Strategic Role |
+| :--- | :--- | :--- |
+| **1. Architecture & EDA** | USA (NVIDIA, AMD, Synopsys, Cadence) | Silicon logic design, instruction sets, and synthesis software |
+| **2. Lithography Systems** | Netherlands (ASML) | Extreme Ultraviolet (EUV) light printing equipment |
+| **3. Raw Wafers & Chemicals** | Japan (Tokyo Electron, Shin-Etsu) | High-purity silicon ingots, photoresists, and gases |
+| **4. Advanced Fabrication** | Taiwan (TSMC) | High-yield 3nm/2nm wafer manufacturing & packaging |
 
 ### The Unintended Impact of Export Restrictions
 
@@ -181,13 +167,12 @@ While language model benchmarks have tightened, Western labs maintain a formidab
 
 For software engineers, product managers, and office professionals, the shift toward a multipolar AI world brings tangible, actionable benefits:
 
-```
-Key Opportunities in a Multipolar AI Era:
-1. Drastic API Cost Reductions (Commoditized Token Economics)
-2. Data Privacy & Sovereignty (Self-Hosted Local Models)
-3. Elimination of Single-Vendor API Lock-In
-4. Hybrid Routing (Small Local Models + Frontier Cloud Reasoning)
-```
+| Strategic Opportunity | Practical Benefit | Implementation Approach |
+| :--- | :--- | :--- |
+| **1. Commoditized Pricing** | 90%+ lower API inference costs | Switch high-volume workloads to efficient open weights |
+| **2. Data Privacy & Sovereignty** | Zero cloud leakage of sensitive code | Host open models on-premise or in private clouds |
+| **3. Vendor Independence** | Protection from sudden price hikes | Build model-agnostic routing abstractions |
+| **4. Hybrid Routing** | Optimal speed, accuracy, and budget | Pair local compact models with frontier cloud reasoning |
 
 1. **Embrace Multi-Model Architectures:** Avoid tying your software infrastructure or business workflows to a single proprietary provider. Build applications using provider-agnostic abstractions (like LiteLLM or open routing standards) that can switch between models based on latency, cost, and task complexity.
 2. **Evaluate Self-Hosted and Private Deployments:** For sensitive corporate data, legal documents, or proprietary codebases, modern open-weight models running on on-premise hardware or private virtual clouds offer enterprise-grade capability without data privacy concerns.

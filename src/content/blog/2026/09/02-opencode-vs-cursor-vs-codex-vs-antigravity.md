@@ -32,15 +32,12 @@ While each tool uses artificial intelligence to accelerate coding, their underly
 
 Understanding where each tool fits requires looking at how AI coding tools have evolved across four distinct generations:
 
-```
-  Generation 1            Generation 2            Generation 3            Generation 4
-+-------------------+   +-------------------+   +-------------------+   +-------------------+
-|  Line Completers  |   |    AI-First IDEs  |   | Terminal Agents   |   | Full Agentic      |
-|  (Basic Copilot)  |   |  (Cursor, Chat)   |   | (OpenCode, Codex) |   | (Antigravity)     |
-+-------------------+   +-------------------+   +-------------------+   +-------------------+
-  Suggests Next Line      Multi-File Edits        Command Execution       Planning, Browsing,
-                          Inline Refactoring      Terminal Control        Subagent Delegation
-```
+| Generation | Category | Flagship Tools | Core Workflow & Capabilities |
+| :--- | :--- | :--- | :--- |
+| **Gen 1** | **Line Completers** | Basic Copilot | Suggests next line or block inline as you type |
+| **Gen 2** | **AI-First IDEs** | Cursor, Windsurf | Multi-file edits, codebase RAG, inline refactoring |
+| **Gen 3** | **Terminal Agents** | OpenCode, Codex CLI | Command execution, terminal harnesses, git diffs |
+| **Gen 4** | **Agentic Pair Programmers** | Antigravity | Autonomous planning, non-blocking tasks, UI verification |
 
 1. **Generation 1 (Inline Completion):** Single-line or block completion triggered as you type inside an editor.
 2. **Generation 2 (IDE Integration & Multi-File Editing):** Context-aware workspace chats and multi-file code transformations integrated into traditional editors.
@@ -55,15 +52,11 @@ To see how AI integration has reshaped personal developer workflows, read our ex
 
 **OpenCode** is an open-source terminal framework designed for engineers who want total control over their local development environment and AI model routing.
 
-```
-+-------------------------------------------------------------------+
-|                      OpenCode Terminal Harness                    |
-+-------------------------------------------------------------------+
-|  [LLM Router]  --->  Anthropic Claude / OpenAI / Local Ollama     |
-|  [Tools]       --->  Shell Commands, File Editing, Git Workflows  |
-|  [Control]     --->  100% Configurable, Open-Source, Self-Hosted   |
-+-------------------------------------------------------------------+
-```
+| Layer | Component | Functionality |
+| :--- | :--- | :--- |
+| **LLM Router** | Anthropic / OpenAI / Ollama | Connect any hosted API or private local weights |
+| **Tool Execution** | Shell & Git Workflows | Run bash scripts, apply diffs, manage repos |
+| **Architecture** | 100% Open-Source | Self-hosted, zero proprietary lock-in |
 
 ### Key Strengths of OpenCode
 * **Model Agnostic & Vendor-Free:** OpenCode lets you connect any LLM provider via standard API keys or route queries to local open-weight models using Ollama or vLLM.
@@ -84,16 +77,12 @@ OpenCode is ideal for Linux power users, DevOps engineers, open-source purists, 
 
 **Cursor** is a custom fork of VS Code built specifically around seamless AI interactions. It retains full compatibility with existing VS Code extensions while embedding deep LLM capabilities into every layer of the editor.
 
-```
-+-------------------------------------------------------------------+
-|                            Cursor IDE                             |
-+-------------------------------------------------------------------+
-|  [Tab Autocomplete]  --->  Multi-line, Context-Aware Predictions  |
-|  [Cmd+K Inline]      --->  Instant Code Edits & Refactoring       |
-|  [Composer Window]   --->  Multi-File Generation & Repository RAG   |
-|  [.cursorrules]      --->  Project-Level Style & Architecture Rules|
-+-------------------------------------------------------------------+
-```
+| Layer | Component | Functionality |
+| :--- | :--- | :--- |
+| **Autocomplete** | Multi-Line Tab Prediction | Predicts next edits instantly before you type |
+| **Inline Editing** | Cmd+K Refactoring | Instant code modifications directly within files |
+| **Multi-File Chat** | Composer Window | Full repository RAG and multi-file code generation |
+| **Project Rules** | `.cursorrules` Configuration | Enforce repo-specific style guides and architectural rules |
 
 ### Key Strengths of Cursor
 * **Instant Tab Autocomplete:** One of the fastest and most accurate multi-line code prediction engines available, predicting your next edit before you type it.
@@ -114,15 +103,11 @@ Cursor is the top choice for full-stack web developers, frontend engineers, and 
 
 **Codex** refers to OpenAI's foundation coding models (including o1, o3, and GPT-4.5) alongside the developer SDKs and CLI tools that power automated code generation.
 
-```
-+-------------------------------------------------------------------+
-|                          OpenAI Codex                             |
-+-------------------------------------------------------------------+
-|  [Reasoning Models]  --->  o1 / o3 / GPT-4.5 Deep Problem Solving   |
-|  [API & SDKs]        --->  Custom Scripts, CI/CD Pipeline Automation|
-|  [Copilot Engine]    --->  Underlying Model Powering GitHub Copilot|
-+-------------------------------------------------------------------+
-```
+| Layer | Component | Functionality |
+| :--- | :--- | :--- |
+| **Reasoning Engine** | OpenAI o1 / o3 / GPT-4.5 | High-depth algorithmic reasoning and math logic |
+| **SDK & API** | Automation & CI/CD Pipelines | Embed code generation directly into custom tooling |
+| **Copilot Core** | GitHub Copilot Backbone | Powers enterprise code completion tools worldwide |
 
 ### Key Strengths of Codex
 * **Deep Reasoning Capabilities:** Advanced reasoning models excel at algorithmic puzzles, mathematical modeling, edge-case analysis, and complex refactoring.
@@ -142,18 +127,14 @@ Codex is best suited for backend engineers, data scientists, API integrators, an
 
 Developed by Google DeepMind, **Antigravity** represents the fourth generation of AI development: a fully autonomous, agentic AI pair programmer. Rather than functioning simply as a text generator or autocomplete bar, Antigravity acts as a proactive technical partner capable of planning, executing, verifying, and persisting complex software engineering goals.
 
-```
-+-------------------------------------------------------------------+
-|                    Antigravity Agentic Engine                     |
-+-------------------------------------------------------------------+
-|  [Planning Mode]    --->  Creates formal implementation_plan.md   |
-|  [Agentic Execution]--->  Terminal Commands, File Editing, Lints  |
-|  [Background Tasks] --->  Non-Blocking Async Runs & Timers        |
-|  [Artifact System]  --->  Interactive Markdown Reports & Diffs    |
-|  [Browser & Vision] --->  Live UI Testing & Image Generation      |
-|  [Customizations]   --->  Workspace Skills & AGENTS.md Rules      |
-+-------------------------------------------------------------------+
-```
+| Capability | Module | Operational Benefit |
+| :--- | :--- | :--- |
+| **Planning Mode** | `implementation_plan.md` | Formal design reviews, risk analysis, and structured user approval |
+| **Agentic Execution** | Terminal & File Tools | Autonomous code edits, lint fixes, and test suite execution |
+| **Background Tasks** | Async Runs & Cron | Non-blocking command execution with reactive wakeup |
+| **Artifact System** | Markdown & Diffs | Persistent interactive reports, diagrams, and walkthrough summaries |
+| **Multi-Modal UI** | Browser & Vision | Live web inspection and instant UI mockup generation |
+| **Customizations** | Skills & `AGENTS.md` | Repository-specific coding rules and reusable tool workflows |
 
 ### Key Strengths of Antigravity
 * **Structured Planning Mode:** Before making invasive architectural changes, Antigravity switchably operates in Planning Mode, generating a comprehensive `implementation_plan.md` artifact detailing user review items, open questions, affected components, and verification steps.
@@ -173,21 +154,17 @@ Antigravity is built for software architects, lead developers, full-stack engine
 
 ## Head-to-Head Feature Comparison
 
-```
-+---------------------+-----------------+------------------+------------------+---------------------+
-| Feature             | OpenCode        | Cursor           | OpenAI Codex     | Antigravity         |
-+---------------------+-----------------+------------------+------------------+---------------------+
-| Interface Type      | Terminal CLI    | Graphical IDE    | API / CLI / Ext  | Agentic Assistant   |
-| Primary LLM Engine  | Model-Agnostic  | Proprietary/Cloud| OpenAI o1/o3/GPT | Gemini 3.6 / Custom |
-| Autocomplete Speed  | Manual / CLI    | Ultra-Fast Tab   | Fast API         | Agentic on Demand   |
-| Architectural Plan  | No              | No               | No               | Native Plan Mode    |
-| Background Tasks    | User Managed    | No               | API Async        | Native Async & Cron |
-| Local LLM Support   | First-Class     | Limited          | No               | Custom Config       |
-| UI / Mockup Gen     | No              | No               | No               | Native Image Tool   |
-| Workspace Memory    | Config Files    | .cursorrules     | Prompt History   | AGENTS.md & Skills  |
-| Open Source         | Yes (MIT)       | Proprietary Core | Closed Models    | Google DeepMind     |
-+---------------------+-----------------+------------------+------------------+---------------------+
-```
+| Feature | OpenCode | Cursor | OpenAI Codex | Antigravity |
+| :--- | :--- | :--- | :--- | :--- |
+| **Interface Type** | Terminal CLI | Graphical IDE | API / CLI / Ext | Agentic Assistant |
+| **Primary LLM Engine** | Model-Agnostic | Proprietary / Cloud | OpenAI o1 / o3 / GPT | Gemini 3.6 / Custom |
+| **Autocomplete Speed** | Manual / CLI | Ultra-Fast Tab | Fast API | Agentic on Demand |
+| **Architectural Planning** | No | No | No | **Native Plan Mode** |
+| **Background Tasks** | User Managed | No | API Async | **Native Async & Cron** |
+| **Local LLM Support** | First-Class | Limited | No | Custom Config |
+| **UI / Mockup Gen** | No | No | No | **Native Image Tool** |
+| **Workspace Memory** | Config Files | `.cursorrules` | Prompt History | `AGENTS.md` & Skills |
+| **Ecosystem Steward** | Open Source (MIT) | Proprietary Core | Closed Models | Google DeepMind |
 
 ---
 
@@ -195,19 +172,12 @@ Antigravity is built for software architects, lead developers, full-stack engine
 
 To determine the best fit for your workflow, consider your primary development needs:
 
-```
-                  What is your primary development goal?
-                                    |
-       +----------------------------+----------------------------+
-       |                                                         |
-[Speed & Inline Editing]                               [Full Task Autonomy]
-       |                                                         |
-  Do you prefer VS Code?                              Do you need planning,
-    /         \                                       background tasks, & UI?
-  (Yes)       (No)                                      /           \
-   |           |                                      (Yes)         (No)
-Cursor     OpenCode                               Antigravity    OpenAI Codex
-```
+| Primary Development Need | Key Workflow Requirement | Recommended Tool |
+| :--- | :--- | :--- |
+| **Fast Inline Code Completion** | VS Code extension, rapid tab-to-accept edits | **Cursor** |
+| **Terminal Sovereignty & Privacy** | Command-line focus, local open-weight models | **OpenCode** |
+| **Custom CI/CD Automation** | Backend model APIs, SDK scripts, deep reasoning | **OpenAI Codex** |
+| **Full Autonomous Engineering** | Architectural plans, async tasks, browser verification | **Antigravity** |
 
 ### Choose Cursor If:
 * You already use VS Code and want an immediate productivity boost.

@@ -46,7 +46,7 @@ Human arguments often get stuck in binary thinking: "My way or your way." AI exc
 ### 4. Structuring Chaotic Arguments
 In high-stress situations, discussions tend to wander across multiple grievances at once. A disagreement about expense tracking can spiral into complaints about dishwashing and noise levels. AI allows you to input raw, unstructured points and output a clean summary categorizing core issues, secondary preferences, and actionable next steps.
 
-For those striving to manage stress and avoid carrying emotional exhaustion into their evening routine, adopting structured systems for conflict can make a major difference in overall peace of mind. Learning how to set boundaries and maintain balance, much like the strategies outlined in our guide on [how to achieve real work-life balance](/blog/how-to-work-life-balance/), starts with eliminating unnecessary emotional friction.
+For those striving to manage stress and avoid carrying emotional exhaustion into their evening routine, adopting structured systems for conflict can make a major difference in overall peace of mind. Learning how to set boundaries and maintain balance, much like the strategies outlined in our guide on [how to achieve real work-life balance](/how-to-work-life-balance/), starts with eliminating unnecessary emotional friction.
 
 ---
 
@@ -54,36 +54,13 @@ For those striving to manage stress and avoid carrying emotional exhaustion into
 
 To turn an AI model into a fair mediator, you cannot simply type "Tell my roommate they are wrong." Resolution requires a deliberate, structured framework that ensures fairness from input to output. Follow these five steps whenever you reach a stalemate.
 
-```
-+-------------------------------------------------------------------+
-|                  1. ESTABLISH GROUND RULES                        |
-|        Both parties agree to use AI for objective proposals       |
-+-------------------------------------------------------------------+
-                                  |
-                                  v
-+-------------------------------------------------------------------+
-|                  2. INPUT FAIR PERSPECTIVES                       |
-|   Provide equal background text without leading or loaded words   |
-+-------------------------------------------------------------------+
-                                  |
-                                  v
-+-------------------------------------------------------------------+
-|               3. UNCOVER NEEDS VS. PERIPHERAL WANTS               |
-|      Prompt AI to identify core motivations and non-negotiables   |
-+-------------------------------------------------------------------+
-                                  |
-                                  v
-+-------------------------------------------------------------------+
-|              4. GENERATE MULTIPLE WIN-WIN OPTIONS                 |
-|   Request 3 balanced compromises (Strict, Moderate, Creative)    |
-+-------------------------------------------------------------------+
-                                  |
-                                  v
-+-------------------------------------------------------------------+
-|                 5. SELECT & CUSTOMIZE THE OPTION                  |
-|    Pick the best-fit proposal and adjust details together         |
-+-------------------------------------------------------------------+
-```
+| Step | Phase | Core Action |
+| :---: | :--- | :--- |
+| **1** | **Establish Ground Rules** | Both parties agree to use AI solely for objective compromise proposals. |
+| **2** | **Input Fair Perspectives** | Provide neutral background text without emotional or loaded language. |
+| **3** | **Uncover Needs vs. Wants** | Prompt the AI to isolate non-negotiable core needs from peripheral preferences. |
+| **4** | **Generate Win-Win Options** | Request 3 balanced compromise options (Strict, Moderate, Creative). |
+| **5** | **Select & Refine Solution** | Pick the best-fit proposal and adjust details collaboratively. |
 
 ### Step 1: Establish Ground Rules Together
 Before opening a chat session, both parties must agree on the process. Agree that the AI's role is to suggest fair compromises, not to declare a winner or loser. Both individuals should review the prompt before hitting send to ensure the initial input accurately represents both sides.
@@ -233,23 +210,12 @@ Always include a clear meta-instruction in your prompt command:
 
 While AI is an exceptional tool for resolving practical, logistical, and preference-based disputes, it has clear boundaries. Using AI in inappropriate contexts can aggravate issues or cause harm.
 
-```
-+-------------------------------------------------------------------+
-|               WHEN AI IS AN EXCELLENT MEDIATOR                    |
-|  - Roommate chore schedules & bill splits                         |
-|  - Group travel itineraries & budget balance                      |
-|  - Workplace timeline & resource trade-offs                       |
-|  - Practical home setup & purchasing priority                     |
-+-------------------------------------------------------------------+
-
-+-------------------------------------------------------------------+
-|               WHEN YOU MUST AVOID USING AI                        |
-|  - Legal disputes, contract violations, or liability              |
-|  - Deep emotional trauma, relationship abuse, or manipulation    |
-|  - Mental health crises or psychological care                     |
-|  - High-stakes HR policy violations or harassment complaints      |
-+-------------------------------------------------------------------+
-```
+| When AI Is an Excellent Mediator | When You Must Avoid Using AI |
+| :--- | :--- |
+| **Roommate Chores & Bill Splits** | **Legal Disputes & Contract Liability** |
+| **Group Travel Itineraries & Budgets** | **Deep Emotional Trauma & Relationship Abuse** |
+| **Workplace Timelines & Resource Allocations** | **Mental Health Crises & Psychological Care** |
+| **Practical Home Setup & Task Priorities** | **HR Harassment & Safety Code Violations** |
 
 ### 1. Legal and Contractual Disputes
 AI models are not lawyers or certified arbitrators. If your dispute involves contractual liability, property deeds, divorce settlements, or financial damages, rely on qualified legal professionals. AI output is not legally binding and cannot substitute for actual legal counsel.
@@ -260,7 +226,7 @@ If a disagreement stems from ongoing relationship patterns, emotional neglect, b
 ### 3. HR Violations and Workplace Misconduct
 Workplace disputes involving harassment, discrimination, wage theft, or safety violations must follow formal legal and corporate procedures. Attempting to resolve regulatory or safety issues with a chatbot bypasses critical protections for workers.
 
-When work-related stress becomes overwhelming or persistent, relying solely on quick fixes will not address underlying burnout. Taking time to process daily pressures and learning [how to not feel down after work](/blog/how-to-not-feel-down-after-work/) offers sustainable ways to protect your energy and peace.
+When work-related stress becomes overwhelming or persistent, relying solely on quick fixes will not address underlying burnout. Taking time to process daily pressures and learning [how to not feel down after work](/how-to-not-feel-down-after-work/) offers sustainable ways to protect your energy and peace.
 
 ---
 

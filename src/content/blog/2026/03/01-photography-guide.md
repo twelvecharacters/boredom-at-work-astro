@@ -236,22 +236,12 @@ Good composition separates snapshots from photographs. These rules will immediat
 
 Divide your frame into a 3x3 grid. Place interesting elements along the lines or at intersections.
 
-```
-┌─────────┬─────────┬─────────┐
-│         │         │         │
-│    ●────┼─────────┼────●    │
-│         │         │         │
-├─────────┼─────────┼─────────┤
-│         │         │         │
-│         │         │         │
-│         │         │         │
-├─────────┼─────────┼─────────┤
-│         │         │         │
-│    ●────┼─────────┼────●    │
-│         │         │         │
-└─────────┴─────────┴─────────┘
-       ● = Power points
-```
+| Top-Left (Power Point) | Top-Center (Horizon / Sky) | Top-Right (Power Point) |
+| :---: | :---: | :---: |
+| **Middle-Left** (Subject Axis) | **Center Frame** (Neutral Area) | **Middle-Right** (Subject Axis) |
+| **Bottom-Left** (Power Point) | **Bottom-Center** (Foreground) | **Bottom-Right** (Power Point) |
+
+*The four intersection points (top/bottom left and right) are the high-impact "power points" where human eyes naturally focus.*
 
 Don't center everything. Place your subject on a third line.
 

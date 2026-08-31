@@ -80,22 +80,13 @@ Uncured resin is classified as hazardous waste that is severely toxic to aquatic
 
 ## 3. Fire Hazards and Electrical Failures
 
-A standard desktop 3D printer incorporates multiple high-wattage heating components: a print bed running between 50°C and 110°C (122°F to 230°F), and an all-metal hotend exceeding 250°C to 300°C (482°F to 572°F). When sustained heat combines with continuous mechanical motion and consumer-grade electronics, fire hazards become a legitimate concern.
+A standard desktop 3D printer incorporates multiple high-wattage heating components: a print bed running between 50°C and 110°C (122°F to 230°F), and an all-metal hotend exceeding 250°C to 300°C (482°F to 572°F). When sustained heat combines with continuous mechanical motion and consumer-grade electronics, fire hazards become a legitimate concern:
 
-```
-+-------------------------------------------------------------+
-|               PRIMARY 3D PRINTER FIRE RISKS                 |
-|                                                             |
-|  [ Thermal Runaway ] ---> Thermistor dislodges, heater      |
-|                           cartridge overheats to 400°C+     |
-|                                                             |
-|  [ Terminal Meltdown ] -> Screw terminals loosen on board,  |
-|                           causing high-resistance arcing    |
-|                                                             |
-|  [ PSU / Wiring ] ------> Uncertified power supplies fail   |
-|                           or undersized wire catches fire   |
-+-------------------------------------------------------------+
-```
+| Primary Fire Hazard | Failure Mechanism | Prevention & Mitigation |
+| :--- | :--- | :--- |
+| **Thermal Runaway** | Thermistor dislodges while heating cartridge runs at 100% duty cycle | Firmware thermal runaway protection & auto shutoff |
+| **Terminal Block Meltdown** | Bare soldered wires deform (solder creep), causing high-resistance arcing | Crimp stranded wires with **ferrules** before clamping |
+| **PSU & Wiring Overload** | Undersized power cables or cheap uncertified power supplies fail | Certified Mean Well PSUs & appropriately gauged silicone wire |
 
 ### Thermal Runaway
 Thermal runaway occurs when a temperature sensor (thermistor) fails or drops out of the heater block while the heating cartridge continues to receive full power. The mainboard assumes the hotend is cold and drives constant electrical current, driving the temperature past 400°C (752°F). At these temperatures, aluminum heater blocks soften, brass components degrade, and surrounding plastic fans or print head mounts ignite.
@@ -135,16 +126,12 @@ Relying solely on open windows is often insufficient in extreme weather. Impleme
 - **Activated Carbon Granules:** Adsorbs hazardous VOC gases and styrene odors. Look for filters containing thick, pelletized activated carbon beds rather than thin carbon-infused foam sheets.
 - **Dedicated Air Recirculators:** Systems like the *Nevermore Micro* or *Bentobox* sit directly inside printer enclosures, scrubbing fumes continuously before warm air escapes into the room.
 
-```
-+-------------------------------------------------------------+
-|            SAFE RESIDENTIAL PRINTING WORKFLOW               |
-|                                                             |
-|   1. Enclosure       --> Traps heat, noise, and fumes       |
-|   2. BentoBox/Filter --> Recirculates through HEPA + Carbon |
-|   3. Smoke Alarm     --> Optical detector above printer     |
-|   4. Smart Plug      --> Auto shut-off via home automation  |
-+-------------------------------------------------------------+
-```
+| Safety Layer | Hardware Component | Primary Protective Function |
+| :--- | :--- | :--- |
+| **1. Enclosure** | Sealed Acrylic / Aluminum Chamber | Traps thermal drafts, acoustic noise, and VOC off-gassing |
+| **2. Active Filtration** | BentoBox (HEPA + Carbon Pellets) | Recirculates and purifies internal air volume |
+| **3. Detection** | Optical Smoke Alarm above unit | Immediate audible warning at earliest smolder |
+| **4. Automation** | Smart Relay Plug / Cutoff Switch | Automatically cuts mains power upon hazard detection |
 
 ### Step 3: Fire Safety and Smart Automation
 Equip your printing area with dedicated safety gear:

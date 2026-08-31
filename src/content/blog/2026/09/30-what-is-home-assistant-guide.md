@@ -37,24 +37,12 @@ In this beginner guide, we break down what Home Assistant actually is, how it wo
 
 At its core, Home Assistant is an operating system and application that runs locally on a small computer inside your home (such as a mini PC, Raspberry Pi, or home server).
 
-Unlike commercial smart home ecosystems from Amazon, Google, or Apple, Home Assistant **does not rely on external cloud servers** to process your commands or execute your automations.
+Unlike commercial smart home ecosystems from Amazon, Google, or Apple, Home Assistant **does not rely on external cloud servers** to process your commands or execute your automations:
 
-```
-+-------------------------------------------------------------+
-|                COMMERCIAL CLOUD ECOSYSTEMS                  |
-|                                                             |
-|  [Sensor] ---> [Home Router] ---> [Cloud Server]            |
-|                                         |                   |
-|  [Smart Light] <-- [Home Router] <------+ (High Latency)    |
-+-------------------------------------------------------------+
-
-+-------------------------------------------------------------+
-|               HOME ASSISTANT LOCAL ARCHITECTURE             |
-|                                                             |
-|  [Sensor] ---> [Home Assistant Hub] ---> [Smart Light]      |
-|               (Instant Local Execution, Zero Cloud)        |
-+-------------------------------------------------------------+
-```
+| Architecture Model | Communication Path | Latency & Reliability | Cloud Privacy |
+| :--- | :--- | :--- | :--- |
+| **Commercial Cloud Ecosystems** | Sensor -> Router -> Cloud Data Center -> Router -> Light | High Latency; breaks during internet outage | Telemetry stored on corporate ad servers |
+| **Home Assistant Local Core** | Sensor -> Local Hub / LAN -> Light | **Instant (1–5ms); 100% offline functionality** | **100% Private (On-premise hardware)** |
 
 Instead of sending your sensor data to a remote corporate data center and waiting for a response, Home Assistant communicates directly with your devices over your local Wi-Fi, Ethernet, Zigbee, Z-Wave, Bluetooth, Matter, and Thread networks.
 
@@ -116,20 +104,11 @@ While Google Home and Apple Home offer basic "if time is X, turn on Y" routines,
 
 Home Assistant is designed to run 24 hours a day, 7 days a week with minimal power consumption. You have several hardware paths depending on your budget and technical comfort:
 
-```
-+-------------------------------------------------------------+
-|            HOME ASSISTANT HARDWARE PATHWAYS                 |
-|                                                             |
-|  [ Plug & Play ] ------> Home Assistant Green (~$99)        |
-|                          Zero config, perfect for beginners |
-|                                                             |
-|  [ Best Value ] -------> Intel N100 Mini PC (~$130-$160)    |
-|                          Blazing speed, NVMe SSD, expandable|
-|                                                             |
-|  [ Single Board ] -----> Raspberry Pi 5 (4GB/8GB)           |
-|                          Compact, requires SSD & power kit  |
-+-------------------------------------------------------------+
-```
+| Hardware Tier | Recommended Device | Approximate Cost | Best For |
+| :--- | :--- | :--- | :--- |
+| **Plug & Play Appliance** | **Home Assistant Green** | ~$99 | Beginners wanting zero-config turnkey setup |
+| **Best Overall Value** | **Intel N100 Mini PC** | ~$130 – $160 | Blazing speed, NVMe SSD, expandable RAM & storage |
+| **Compact Single-Board** | **Raspberry Pi 5 (4GB/8GB)** | ~$100 – $130 (with kit) | Compact footprint; requires SSD HAT for reliability |
 
 ### Option A: The Intel N100 Mini PC (The Best Overall Value)
 In 2026, refurbished or budget Intel N100 / N97 mini PCs (brands like Beelink, Minisforum, or GMKtec) have become the gold standard hardware for Home Assistant.

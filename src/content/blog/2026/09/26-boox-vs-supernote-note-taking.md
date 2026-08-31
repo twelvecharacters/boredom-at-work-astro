@@ -82,24 +82,14 @@ Neither the Nomad nor the Boox Go 10.3 features a built-in front light. By omitt
 
 ## 2. The Writing Experience: Gel Pen vs. Pencil
 
-Writing feel is the most personal and subjective aspect of any digital notebook.
+Writing feel is the most personal and subjective aspect of any digital notebook:
 
-```
-Tactile Writing Feel Comparison
-┌─────────────────────────────────────────────────────────────┐
-│ Onyx BOOX:                                                  │
-│ • Etched glass surface                                      │
-│ • Soft plastic or felt nibs                                 │
-│ • Sensation: HB pencil gliding over fine drafting paper     │
-│ • Maintenance: Nibs need replacement every 2 to 4 months    │
-├─────────────────────────────────────────────────────────────┤
-│ Ratta Supernote:                                            │
-│ • FeelWrite 2 self-healing elastomer film                   │
-│ • 0.7mm precision ceramic ballpoint tip                     │
-│ • Sensation: High-end rollerball or gel pen on a Moleskine  │
-│ • Maintenance: Permanent ceramic nib, zero replacements     │
-└─────────────────────────────────────────────────────────────┘
-```
+| Feature / Sensation | Onyx BOOX (Pencil Feel) | Ratta Supernote (Gel Pen Feel) |
+| :--- | :--- | :--- |
+| **Writing Surface** | Etched matte glass | FeelWrite 2 self-healing elastomer film |
+| **Stylus Tip** | Soft plastic or felt EMR nib | 0.7mm precision ceramic ballpoint nib |
+| **Tactile Sensation** | HB pencil gliding over fine drafting paper | Smooth rollerball or gel pen on a Moleskine |
+| **Nib Maintenance** | Replace nib every 2 to 4 months | **Permanent ceramic nib (Zero replacements)** |
 
 ### Writing on the Supernote
 
@@ -123,15 +113,14 @@ Where these two platforms diverge most dramatically is how they organize your ha
 
 ### Supernote: The Master of Structured Thinking
 
-Supernote is built from the ground up for people who take hundreds of pages of notes and need to find specific information months later without digging through chronological pages.
+Supernote is built from the ground up for people who take hundreds of pages of notes and need to find specific information months later without digging through chronological pages:
 
-```
-Supernote Hierarchical Organization System:
-1. Headings ──────► Select text to auto-generate a Table of Contents
-2. Star Marks ────► Draw a small star to bookmark tasks or action items
-3. Keywords ──────► Tag terms to build a global cross-notebook index
-4. Links ─────────► Create direct hyperlinks between different notebooks
-```
+| Organization Feature | Handwritten Trigger | Practical Workflow Benefit |
+| :--- | :--- | :--- |
+| **Headings** | Lasso text & tap "Heading" | Auto-generates an interactive Table of Contents |
+| **Star Action Items** | Draw a 5-point star (★) | Bookmarks global tasks across all notebooks |
+| **Keywords** | Tag client / project names | Creates a searchable cross-notebook index |
+| **Internal Links** | Select text & link to page | Hyperlink notes directly between separate files |
 
 Supernote achieves this through clever handwritten gestures:
 
@@ -161,19 +150,14 @@ For professionals whose corporate workflows require direct integration into Micr
 
 ## 4. Reading, PDFs, and Academic Research
 
-Both devices function as capable digital reading tools, but their handling of complex documents varies significantly.
+Both devices function as capable digital reading tools, but their handling of complex documents varies significantly:
 
-```
-Reading and Document Workflows
-+------------------------------------+------------------------------------+
-| Onyx BOOX                          | Ratta Supernote                    |
-+------------------------------------+------------------------------------+
-| • Universal format support         | • Focused EPUB & PDF viewer        |
-| • Full KOReader & Kindle support   | • Dedicated Digest feature         |
-| • Dual-app split screen mode       | • Clean margin annotations         |
-| • Native OCR text extraction       | • Export annotated summaries       |
-+------------------------------------+------------------------------------+
-```
+| Reading Capability | Onyx BOOX (Academic & Multitasking) | Ratta Supernote (Focused Marginalia) |
+| :--- | :--- | :--- |
+| **Format Support** | Universal (PDF, EPUB, MOBI, CBZ, Office) | Focused (PDF & EPUB) |
+| **App Ecosystem** | Full KOReader, Kindle, Libby, Kobo | Dedicated clean built-in reader |
+| **Multitasking** | Side-by-side split screen (PDF + Notebook) | Full-screen immersive reading |
+| **Annotation Style** | Direct on-page margin handwriting & OCR | **Digest System** (Bracket text to export quotes) |
 
 ### PDF Workflows on Boox: The Academic Workhorse
 
@@ -218,22 +202,10 @@ For travelers who value self-reliance and offline utility, pairing an E-Ink devi
 
 To make your decision straightforward, identify which user profile best describes your daily workflow:
 
-```
-Decision Matrix: Which E-Ink Tablet Fits Your Work?
-├── Choose Supernote Nomad / Manta if:
-│   ├── You want a true digital replacement for paper notebooks
-│   ├── You value hierarchical notes (Headings, Stars, Keywords)
-│   ├── You hate replacing worn stylus nibs
-│   ├── You want a modular device with user-replaceable parts
-│   └── You prefer a distraction-free, privacy-first environment
-│
-└── Choose Onyx BOOX Go 10.3 / Note Air 3 if:
-    ├── You require Google Play Store apps (OneNote, Notion, Kindle)
-    ├── You want split-screen PDF reading and note-taking
-    ├── You need a large 10.3" screen at an aggressive price point
-    ├── You want color E-Ink options (Kaleido 3) for charts and slides
-    └── You browse the web or read complex multi-app feeds
-```
+| Your Daily Priorities | Recommended Device | Primary Advantages |
+| :--- | :--- | :--- |
+| **Pure note-taking, structured bullet journaling, zero stylus maintenance** | **Ratta Supernote** *(Nomad / Manta)* | • Permanent ceramic nib<br>• Hierarchical headings & stars<br>• 2–3 week battery life<br>• Distraction-free sanctuary |
+| **Multi-app integration, academic PDF split-screen, cloud sync (Notion/OneNote)** | **Onyx BOOX** *(Go 10.3 / Note Air 3)* | • Full Google Play Store access<br>• Side-by-side split screen<br>• Thin hardware & high contrast<br>• Optional Color E-Ink models |
 
 ### Buy the Ratta Supernote if:
 - Your primary requirement is taking meeting notes, planning your daily schedule, and organizing complex project notes.
