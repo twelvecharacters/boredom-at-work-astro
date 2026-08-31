@@ -179,6 +179,10 @@ As 3D printers achieve industrial-grade reliability, their role in small busines
 
 ---
 
+If you love modular furniture upgrades, check out our roundup of [IKEA 3D printing hacks](/ikea-3d-printing-hacks/).
+
+---
+
 ## Summary: What the Future Means for Makers
 
 The golden age of 3D printing is no longer about learning how to fix a broken machine; it is about what you can build when the machine disappears into the background:

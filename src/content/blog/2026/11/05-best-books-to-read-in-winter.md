@@ -214,6 +214,10 @@ Practice active marginalia: highlight key thesis points, summarize each chapter 
 
 ---
 
+For a broader non-seasonal reading list, explore our curated selection of [interesting books to read in 2026](/interesting-books-to-read-2026/).
+
+---
+
 ## Summary: Cozy Evenings, Compound Knowledge
 
 Winter is not an unproductive void between summer adventures; it is an annual gift of time, focus, and quiet introspection.

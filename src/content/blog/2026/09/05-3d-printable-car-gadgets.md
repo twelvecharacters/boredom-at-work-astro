@@ -223,3 +223,6 @@ You can find thousands of free 3D models for car gadgets on repositories like Pr
 
 ### Are 3D printed car gadgets safe to use while driving?
 Yes, provided they are securely mounted, do not block your line of sight, and do not interfere with airbag deployment zones or essential vehicle controls.
+
+
+For outdoor utility prints, also see our curated list of [3D printable camping gadgets](/3d-printable-camping-gadgets/).

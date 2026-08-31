@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./02-claude-vs-chatgpt.webp"
 imageAlt: "Side-by-side comparison of Claude and ChatGPT AI interfaces"
-tags: ["AI", "ChatGPT", "Claude", "Productivity", "Comparison"]
+tags: ["AI", "ChatGPT", "Claude", "Productivity"]
 draft: false
 video:
   youtubeId: "b6o1JZjI7dU"

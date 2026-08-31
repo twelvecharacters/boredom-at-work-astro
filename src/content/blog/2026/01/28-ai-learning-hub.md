@@ -7,7 +7,7 @@ updatedDate: 2026-08-28
 author: "Mehdi"
 image: "./28-ai-learning-hub.webp"
 imageAlt: "Illustration showing AI learning paths and skill development tools"
-tags: ["AI", "Learning", "Career", "Productivity", "Hub Page"]
+tags: ["AI", "Learning", "Career", "Productivity"]
 draft: false
 tldr: "A directory of everything we have written about using AI at work: tutorials, free course reviews, tool comparisons and career advice, grouped by what you are trying to get done. For a step-by-step path instead, see our Learn AI roadmap."
 faq:

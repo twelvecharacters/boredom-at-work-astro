@@ -72,3 +72,6 @@ Only the reMarkable Paper Pro offers a color screen, which is genuinely useful i
 - **You mostly just read:** neither. Get a [Kindle Paperwhite](/kindle-paperwhite-review/) and save hundreds.
 
 For most readers of this site, who want to read a lot and jot the occasional note, the Scribe is the right answer. The reMarkable is a brilliant tool, but it is a notebook that happens to show text, not an e-reader. Still deciding across the whole range? Our [best e-readers guide](/best-e-readers/) lays out every option side by side.
+
+
+Looking for large, high-contrast fonts for older readers? Review our guide to the [best Kindle for seniors](/best-kindle-for-seniors/).

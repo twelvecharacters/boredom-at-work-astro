@@ -192,3 +192,5 @@ For the full rundown on every component mentioned here, start with the [desk upg
 
 
  
+
+You can also use generative AI to visualize floor plans using our [AI room redesign guide](/ai-room-redesign-guide/).

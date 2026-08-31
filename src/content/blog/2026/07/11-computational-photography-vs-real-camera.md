@@ -1,12 +1,12 @@
 ---
-title: "The Death of Glass: Computational Photography vs. The Real Camera"
+title: "Computational Photography vs. Real Cameras: Is Glass Dead?"
 slug: "computational-photography-vs-real-camera"
 description: "Has the smartphone killed the DSLR? We dive into computational photography, comparing the Samsung Galaxy, iPhone, and Pixel against traditional optical cameras."
 publishDate: 2026-07-11
 author: "Mehdi"
 image: "./11-computational-photography-vs-real-camera.png"
 imageAlt: "A sleek, modern smartphone lying flat on a wooden table with a massive, heavy professional DSLR camera lens absurdly attached to it."
-tags: ["Photography", "Smartphones", "Tech & Gadgets", "AI", "Review"]
+tags: ["Photography", "Smartphones", "Tech & Gadgets", "AI"]
 draft: false
 tldr: "While a traditional camera relies entirely on massive optical glass and a physical shutter to capture light, a modern smartphone relies on 'computational photography', taking dozens of photos in a fraction of a second and merging them using AI. While the iPhone, Pixel, and Galaxy have effectively killed the point-and-shoot market, the true DSLR/Mirrorless camera still holds absolute dominance in edge cases: high-speed action, extreme low light, and genuine optical bokeh."
 faq:

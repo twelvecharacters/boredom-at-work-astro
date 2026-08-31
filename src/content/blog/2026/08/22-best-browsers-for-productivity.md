@@ -1,5 +1,5 @@
 ---
-title: "Best Browsers for Productivity: AI, Workspaces & Focus (2026)"
+title: "Best Browsers for Productivity: AI, Workspaces & Focus"
 slug: "best-browsers-for-productivity"
 description: "The top productivity browsers compared. Discover how Edge, Vivaldi, Chrome, and Gologin use AI, tab management, and workspaces to keep you focused."
 publishDate: 2026-08-22

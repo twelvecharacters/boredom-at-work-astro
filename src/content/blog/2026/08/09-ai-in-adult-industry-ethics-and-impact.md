@@ -1,5 +1,5 @@
 ---
-title: "The Impact of AI in the Adult Industry: Ethics, Deepfakes, and the Creator Economy"
+title: "AI in the Adult Industry: Ethics, Deepfakes & Impact"
 slug: ai-in-adult-industry-ethics-and-impact
 publishDate: "2026-08-09"
 description: "An analytical look at how artificial intelligence is reshaping the adult industry, from the rise of deepfakes to the impact on the creator economy."

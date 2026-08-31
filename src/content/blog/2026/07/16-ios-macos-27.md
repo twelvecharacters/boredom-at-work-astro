@@ -1,11 +1,11 @@
 ---
-title: "iOS 27 and macOS 27 Public Beta: What's New and How to Install"
+title: "iOS 27 & macOS 27 Public Beta: Features & Install Guide"
 description: "Discover the upcoming iOS 27 and macOS 27 updates. We break down the new features, performance upgrades, and how to safely install the public beta."
 publishDate: "2026-07-16"
 author: "Mehdi"
 image: "./16-ios-macos-27.png"
 imageAlt: "A futuristic display showing OS 27 installation screen with glowing numbers."
-tags: ["Apple", "iOS", "macOS", "Tech News", "Tutorial"]
+tags: ["Apple", "iOS", "macOS", "Tech News"]
 slug: "ios-macos-27-public-beta-install-guide"
 faq:
   - question: "Is the iOS 27 public beta safe to install?"

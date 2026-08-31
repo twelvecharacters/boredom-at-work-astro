@@ -1,5 +1,5 @@
 ---
-title: "Printing with TPU & Flexible Filaments: A 2026 Guide for Beginners"
+title: "Printing with TPU & Flexible Filaments: Beginner Guide"
 slug: "printing-with-tpu-flexible-filaments"
 description: "Everything you need to know about 3D printing with TPU and flexible filaments in 2026. From printer settings to drying methods and preventing jams."
 publishDate: 2026-08-02

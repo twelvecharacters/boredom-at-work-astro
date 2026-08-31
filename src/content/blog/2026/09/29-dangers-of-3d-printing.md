@@ -166,6 +166,10 @@ Before launching your next multi-hour print, verify your workshop against this e
 
 ---
 
+To understand plastic lifecycle sustainability, review our in-depth report on the [environmental impact of 3D printing](/environmental-impact-of-3d-printing/).
+
+---
+
 ## Summary
 
 Desktop 3D printing is a profoundly rewarding and creative technology. However, treating 3D printers with the respect required for high-temperature electrical machinery and chemical processing equipment is essential for protecting your long-term health and home.

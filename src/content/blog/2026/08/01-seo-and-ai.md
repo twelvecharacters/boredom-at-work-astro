@@ -5,7 +5,7 @@ publishDate: "2026-08-01"
 author: "Mehdi"
 image: "./01-seo-and-ai.png"
 imageAlt: "A colorful abstract representation of artificial intelligence intersecting with search engine optimization."
-tags: ["SEO", "AI", "Tech & Gadgets", "Tutorial", "Marketing"]
+tags: ["SEO", "AI", "Tech & Gadgets", "Tutorial"]
 slug: "seo-and-ai-2026"
 isListicle: false
 tldr: "Keyword-stuffed SEO is over. In 2026 you rank by matching search intent, covering topics exhaustively on authoritative pillar pages, structuring data so AI can parse it, and adding first-hand experience an AI summary cannot replicate. Optimize for generative engines (GEO) alongside classic search, and aim to be the source AI cites."

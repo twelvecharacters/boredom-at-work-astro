@@ -6,7 +6,7 @@ publishDate: 2026-03-01
 author: "Mehdi"
 image: "./01-chatgpt-trip-planning-tutorial.webp"
 imageAlt: "Step-by-step tutorial for planning a trip with ChatGPT"
-tags: ["AI", "Travel", "ChatGPT", "Tutorial", "Beginners", "AI Travel"]
+tags: ["AI", "Travel", "ChatGPT", "Tutorial"]
 draft: false
 howTo:
   totalTime: "PT45M"

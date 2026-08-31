@@ -217,6 +217,10 @@ Winter afternoon fatigue stems from circadian misalignment caused by insufficien
 
 ---
 
+To automate your household winter prep with prompt templates, check out our guide on [how to use AI to prepare for winter](/how-to-use-ai-to-prepare-for-winter/).
+
+---
+
 ## Summary: Turning the Dark Season into Your Most Productive Season
 
 The dark season is not a seasonal handicap; it is an annual invitation to slow down, eliminate superficial distractions, and cultivate a deeply satisfying work routine.

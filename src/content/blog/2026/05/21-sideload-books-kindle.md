@@ -1,7 +1,7 @@
 ---
 title: "How to Sideload Books on Kindle: Every Method Explained (2026)"
 slug: "sideload-books-kindle"
-description: "Six ways to sideload books on your Kindle, from Send to Kindle and USB transfer to Calibre. Step-by-step for EPUB, PDF, and more."
+description: "Learn six reliable ways to sideload EPUBs and PDFs on your Kindle. Step-by-step tutorial covering Send to Kindle, USB transfer, and Calibre management."
 publishDate: 2026-05-21
 author: "Mehdi"
 image: "./21-sideload-books-kindle.webp"

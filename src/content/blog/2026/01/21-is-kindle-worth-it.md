@@ -7,7 +7,7 @@ updatedDate: 2026-05-04
 author: "Mehdi"
 image: "./21-kindle-worth-it.webp"
 imageAlt: "Kindle e-reader on a cozy reading setup with books nearby"
-tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Amazon", "Books"]
+tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Amazon"]
 draft: false
 tldr: "Yes, if you read 10+ books per year. Weeks of battery life, no distractions, no eye strain. No, if you mainly read PDFs or rarely find time to read."
 faq:
@@ -224,3 +224,5 @@ Already have a Kindle and need something to read on it? Our [books for productiv
 
 
  
+
+Wondering how tablet screens compare to digital paper? Read our deep dive on [E-Ink vs. OLED for reading](/e-ink-vs-oled-for-reading/).

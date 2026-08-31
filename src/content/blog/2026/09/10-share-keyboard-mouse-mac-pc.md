@@ -6,7 +6,7 @@ publishDate: 2026-09-10
 author: "Mehdi"
 image: "./10-share-keyboard-mouse-mac-pc.webp"
 imageAlt: "Clean desk setup featuring a single mechanical keyboard and ergonomic mouse controlling a Mac laptop and Windows PC desktop"
-tags: ["Home Office", "Desk Setup", "Mac", "PC", "Productivity"]
+tags: ["Home Office", "Desk Setup", "Mac", "PC"]
 draft: false
 tldr: "Sharing a single keyboard and mouse between macOS and Windows can be achieved through three primary methods. Logitech Flow offers seamless wireless switching with copy-paste support for compatible peripherals. Open-source software like Barrier or Input Leap enables network-based cursor control across both operating systems at zero cost. Dedicated hardware KVM switches or monitors with built-in KVMs provide zero-latency physical switching, ideal for corporate laptops with VPN restrictions."
 faq:

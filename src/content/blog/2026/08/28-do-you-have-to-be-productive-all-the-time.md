@@ -100,3 +100,6 @@ You do not owe the world constant productivity. You do not have to justify your 
 The pressure to perform and optimize will always be there, shouting from billboards, social media feeds, and corporate memos. But you have the power to mute that noise. You have the right to claim your time for yourself, not for your employer, not for your side hustle, and not for the optics of a perfect life.
 
 Start tonight. Leave the dishes in the sink. Ignore the unread emails. Sit on your couch and do absolutely nothing of measurable value. Let the guilt wash over you, recognize it for the lie that it is, and let it pass. You have earned your rest. Not because you were productive today, but simply because you are human.
+
+
+For resolving interpersonal disagreements objectively, see our guide on [how to use AI to settle disputes](/how-to-use-ai-to-settle-disputes/).

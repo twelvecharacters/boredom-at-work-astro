@@ -1,12 +1,12 @@
 ---
-title: "Antigravity CLI Guide: The Ultimate AI Agent for Your Terminal"
+title: "Antigravity CLI Guide: Ultimate AI Agent for Terminal"
 slug: "antigravity-cli-guide"
 description: "Google's Gemini CLI has been deprecated and replaced by Antigravity CLI. Here is everything you need to know about setting up and mastering the new terminal AI."
 publishDate: 2026-08-03
 author: "Mehdi"
 image: "./03-antigravity-cli-guide.png"
 imageAlt: "A programmer using the Antigravity CLI in a futuristic terminal interface."
-tags: ["AI", "Gemini", "Coding", "Productivity", "Software"]
+tags: ["AI", "Gemini", "Coding", "Productivity"]
 draft: false
 faq:
   - question: "What happened to Gemini CLI?"

@@ -1,5 +1,5 @@
 ---
-title: "Is AI the Death of Photoshopping? The Future of Image Editing"
+title: "Is AI the Death of Photoshop? The Future of Editing"
 slug: "is-ai-the-death-of-photoshopping"
 description: "As generative AI and automated tools revolutionize the creative industry, we explore whether traditional Photoshop skills are becoming obsolete in 2026."
 publishDate: 2026-08-19

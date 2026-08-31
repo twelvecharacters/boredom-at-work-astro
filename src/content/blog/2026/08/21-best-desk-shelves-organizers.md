@@ -1,5 +1,5 @@
 ---
-title: "Best Desk Shelves and Organizers for a Clean Home Office (2026)"
+title: "Best Desk Shelves and Organizers for Clean Home Offices"
 slug: "best-desk-shelves-organizers"
 description: "The best desk shelves, monitor risers, and organizers compared. From premium Grovemade to budget alternatives, keep your workspace clean and organized."
 publishDate: 2026-08-21

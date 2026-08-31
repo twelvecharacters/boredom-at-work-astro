@@ -6,7 +6,7 @@ publishDate: 2026-05-18
 author: "Mehdi"
 image: "./18-kindle-scribe-review.webp"
 imageAlt: "Kindle Scribe on an office desk with handwritten meeting notes on screen next to a laptop."
-tags: ["Kindle", "E-Reader", "Amazon", "Review", "Productivity"]
+tags: ["Kindle", "E-Reader", "Amazon", "Review"]
 draft: false
 review:
   rating: 4

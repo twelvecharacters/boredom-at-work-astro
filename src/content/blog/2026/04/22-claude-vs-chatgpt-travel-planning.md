@@ -6,7 +6,7 @@ publishDate: 2026-04-22
 author: "Mehdi"
 image: "./22-claude-vs-chatgpt-travel.webp"
 imageAlt: "Travel journal with handwritten itinerary, vintage map of Europe, compass, coffee, and laptop showing AI-generated trip plan"
-tags: ["AI", "Travel", "ChatGPT", "Claude", "AI Travel"]
+tags: ["AI", "Travel", "ChatGPT", "Claude"]
 draft: false
 faq:
   - question: "Is Claude or ChatGPT better for travel planning?"

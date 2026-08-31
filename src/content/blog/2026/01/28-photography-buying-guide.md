@@ -7,7 +7,7 @@ updatedDate: 2026-04-05
 author: "Mehdi"
 image: "./28-photography-buying-guide.webp"
 imageAlt: "Illustration showing photography gear essentials for beginners"
-tags: ["Photography", "Cameras", "Buying Guide", "Beginners", "Hub Page"]
+tags: ["Photography", "Cameras", "Buying Guide", "Beginners"]
 draft: false
 isListicle: true
 tldr: "Get a Canon EOS R100 (~$480) or Nikon Z50 II (~$860) to start. Used original Z50 for under $500 is also great. Skip the expensive lenses until you know what you actually need."

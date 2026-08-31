@@ -1,5 +1,5 @@
 ---
-title: "Mechanical vs. Membrane Keyboards: Typing Speed & Ergonomics (2026)"
+title: "Mechanical vs Membrane Keyboards: Speed & Ergonomics"
 slug: "mechanical-vs-membrane-keyboards"
 description: "Does a mechanical keyboard actually boost your WPM and protect your wrists, or is a membrane board fine? Compare switches, typing speed, and ergonomics."
 publishDate: 2026-10-26

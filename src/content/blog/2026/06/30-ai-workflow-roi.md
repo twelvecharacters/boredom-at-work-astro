@@ -1,5 +1,5 @@
 ---
-title: "The ROI of AI: Measuring the True Value of Your 2026 AI Workflow"
+title: "The ROI of AI: Measuring Value in Your 2026 AI Workflow"
 slug: "ai-workflow-roi"
 description: "Is AI actually saving you time and money? A deep dive into the ROI of AI workflows in 2026, from subscription costs to hidden productivity gains."
 publishDate: 2026-06-30

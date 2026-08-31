@@ -6,7 +6,7 @@ publishDate: 2026-08-04
 author: "Mehdi"
 image: "./04-kindle-colorsoft-vs-paperwhite.webp"
 imageAlt: "Kindle Colorsoft showing a color book cover next to a monochrome Kindle Paperwhite"
-tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Comparison", "Buying Guide"]
+tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Comparison"]
 draft: false
 isListicle: true
 tldr: "The Colorsoft ($279) is the first color Kindle and it's gorgeous for comics, magazines, and cover art. But for plain novels the Paperwhite ($160) is sharper, cheaper, and lasts longer. Pay for color only if you read visual content."

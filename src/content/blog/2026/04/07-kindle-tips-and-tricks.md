@@ -6,7 +6,7 @@ publishDate: 2026-04-07
 author: "Mehdi"
 image: "./07-kindle-tips-and-tricks.webp"
 imageAlt: "Kindle e-reader showing hidden features and customization options"
-tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Tutorial", "Productivity"]
+tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Tutorial"]
 draft: false
 faq:
   - question: "Can I change fonts on my Kindle?"

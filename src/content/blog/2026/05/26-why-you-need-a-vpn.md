@@ -144,3 +144,6 @@ We lock our doors, we use passwords, and we shred sensitive documents. Using a V
 If you aren't using a VPN yet, the time to start is now. Your digital life is too valuable to leave exposed.
 
 
+
+
+To understand emerging surveillance concerns in wearable tech, read our deep dive on [smart AI glasses privacy issues](/ai-glasses-privacy-issues/).

@@ -7,7 +7,7 @@ updatedDate: 2026-08-28
 author: "Mehdi"
 image: "./20-ai-travel-mistakes.webp"
 imageAlt: "Illustration showing common AI travel planning mistakes to avoid"
-tags: ["AI", "Travel", "ChatGPT", "Tutorial", "AI Travel"]
+tags: ["AI", "Travel", "ChatGPT", "Tutorial"]
 draft: false
 faq:
   - question: "How accurate are AI travel itineraries?"

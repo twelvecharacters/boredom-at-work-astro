@@ -1,5 +1,5 @@
 ---
-title: "The Environmental Impact of 3D Printing: Eco-Hero or Plastic Villain? (2026)"
+title: "Environmental Impact of 3D Printing: Eco-Hero or Waste?"
 slug: "environmental-impact-of-3d-printing"
 description: "Is 3D printing green or just more plastic waste? Explore PLA biodegradability, energy use, microplastics, circular recycling, and eco-friendly maker tips."
 publishDate: 2026-10-22

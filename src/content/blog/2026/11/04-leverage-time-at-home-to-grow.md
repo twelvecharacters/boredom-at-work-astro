@@ -168,6 +168,10 @@ Eliminate transition friction by scheduling a physical boundary between work and
 
 ---
 
+Looking for deep non-fiction reads this season? Explore our curated list of the [best books to read in winter](/best-books-to-read-in-winter/).
+
+---
+
 ## Summary: Your Home as a Personal Growth Engine
 
 Your home is more than a place to rest; it is the most flexible, customizable learning laboratory you will ever possess.

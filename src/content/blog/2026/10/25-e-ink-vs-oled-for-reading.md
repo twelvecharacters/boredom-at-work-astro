@@ -1,5 +1,5 @@
 ---
-title: "E-Ink vs. OLED for Reading: Eye Strain, Battery, and Reality (2026)"
+title: "E-Ink vs. OLED for Reading: Eye Strain & Battery Tested"
 slug: "e-ink-vs-oled-for-reading"
 description: "Is an E-Ink e-reader actually better for your eyes than an OLED tablet? Compare eye fatigue, PWM flicker, outdoor glare, battery life, and focus in 2026."
 publishDate: 2026-10-25

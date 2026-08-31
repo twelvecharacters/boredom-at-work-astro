@@ -1,5 +1,5 @@
 ---
-title: "Best Desk Upgrades Under $100 That Are Actually Worth It (2026)"
+title: "Best Desk Upgrades Under $100 That Are Actually Worth It"
 slug: "best-desk-upgrades-under-100"
 description: "The best desk upgrades under $100 in 2026, ranked by real impact on comfort and focus. Small, high-ROI changes that make working at your desk noticeably better."
 publishDate: 2026-10-04
@@ -67,3 +67,6 @@ Nothing undoes a nice desk like a tangle of cables. A **cable tray, sleeves, or 
 The best desk upgrades under $100 are the ones that fix a daily annoyance: **a light bar for tired eyes, a laptop stand for your neck, an ergonomic mouse for your wrist.** Start with whatever bugs you most, and you will feel the difference immediately, no expensive chair or standing desk required.
 
 Shopping for someone else's desk instead of your own? Our [home office gifts under $100](/best-home-office-gifts-under-100/) guide is built for that.
+
+
+Shopping for college or high school learners? Check out our list of the [best gifts for students](/best-gifts-for-students/).

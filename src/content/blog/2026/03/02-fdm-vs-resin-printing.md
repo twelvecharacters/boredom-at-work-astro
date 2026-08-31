@@ -361,3 +361,6 @@ Now go print something.
 *Ready to start? Check out [3D Printing for Beginners: Complete Guide](/3d-printing-beginners-guide/), learn about [PLA vs PETG vs ABS](/pla-vs-petg-vs-abs/) materials, or get your slicer set up with [Cura Settings for Beginners](/cura-settings-beginners/).*
 
 
+
+
+To see where additive manufacturing is heading next, read our forward-looking guide on [what to expect next in 3D printing](/what-to-expect-next-in-3d-printing/).

@@ -1,5 +1,5 @@
 ---
-title: "How to Analyze Your Investment Portfolio With ChatGPT and Claude"
+title: "How to Analyze Your Investment Portfolio With AI"
 slug: "ai-portfolio-analysis-chatgpt"
 description: "Upload your brokerage CSV to ChatGPT or Claude and get instant portfolio analysis. Step-by-step guide with prompts for allocation, risk, and rebalancing."
 publishDate: 2026-07-10

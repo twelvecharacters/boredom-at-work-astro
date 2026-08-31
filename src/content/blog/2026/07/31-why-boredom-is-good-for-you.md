@@ -1,5 +1,5 @@
 ---
-title: "Why Boredom Is Good For You: The Hidden Power of Doing Nothing"
+title: "Why Boredom Is Good For You: The Hidden Power of Rest"
 slug: "why-boredom-is-good-for-you"
 description: "Discover why boredom isn't something to avoid, but a vital state for creativity, mental health, and productivity. Learn how to embrace doing nothing."
 publishDate: 2026-07-31
@@ -98,6 +98,8 @@ Boredom acts as a mirror, reflecting our true internal state back to us. It help
 The modern crusade against boredom has robbed us of one of our most valuable cognitive states. By filling every waking moment with stimulation, we are suffocating our creativity, elevating our stress levels, and losing touch with our inner selves. It is time to reclaim the power of doing nothing.
 
 Boredom is not a void to be filled; it is a canvas upon which our most profound thoughts and ideas are painted. It is the necessary rest that allows our minds to function at their highest capacity. So the next time you feel the familiar itch of boredom creeping in, don't reach for your phone. Don't look for a distraction. Instead, take a deep breath, lean into the discomfort, and let your mind wander. You might be surprised at where it takes you.
+
+If you struggle with chronic work guilt during quiet periods, explore our essay on [whether you have to be productive all the time](/do-you-have-to-be-productive-all-the-time/) to reframe intentional rest.
 
 ## Frequently Asked Questions
 
