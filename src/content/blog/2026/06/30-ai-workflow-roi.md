@@ -76,7 +76,7 @@ Despite the costs, the ROI of AI remains massive for those who use it strategica
 
 ### Task Compression (The 4:1 Ratio)
 The most valuable use of AI is **task compression**, taking a task that used to be a discrete block of time and turning it into a background process.
-*   **Example:** A developer using [Cursor](/vs-code-vs-antigravity/) or GitHub Copilot might spend 2 hours on a feature that used to take 8. That's a 4:1 compression ratio.
+*   **Example:** A developer using [Antigravity](/vs-code-vs-antigravity/) or GitHub Copilot might spend 2 hours on a feature that used to take 8. That's a 4:1 compression ratio.
 *   **ROI Metric:** (Hours Saved x Hourly Rate) / Cost of Tools.
 
 ### The "Infinite Junior Assistant" Effect
