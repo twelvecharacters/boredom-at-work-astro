@@ -48,3 +48,8 @@ KeePassXC
 
 # local AI-agent context (Claude memory copy for Codex handoff) — sensitive, never commit
 .codex-context/
+.envrc
+
+# Codex CLI: config.toml traegt MCP-Credentials im Klartext (BHW_PASSWORD).
+# Gehoert nie ins Repo, das hier ist PUBLIC.
+.codex/
