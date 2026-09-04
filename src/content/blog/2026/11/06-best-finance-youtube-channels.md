@@ -4,7 +4,7 @@ slug: "best-finance-youtube-channels"
 description: "The best finance and investing YouTube channels for beginners and beyond. Sorted by category with subscriber counts, plus red flags to watch for."
 publishDate: 2026-09-04
 author: "Mehdi"
-image: "./04-best-finance-youtube-channels.webp"
+image: "./06-best-finance-youtube-channels.webp"
 imageAlt: "Collection of finance YouTube channel thumbnails on a screen"
 tags: ["Investing", "Finance", "Culture", "Learning"]
 draft: false
