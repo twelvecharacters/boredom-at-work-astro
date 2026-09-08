@@ -31,6 +31,7 @@ import { readAllPosts, isPublished } from './lib/read-posts.mjs';
 const SITE_URL = 'https://boredom-at-work.com/';
 const CRED_PATH = path.join(process.env.HOME || '', '.claude', 'gsc-credentials.json');
 const CONCURRENCY = 4; // 8 provozierte ECONNRESET, 5 von 11 Laeufen starben daran (29.8.-8.9.)
+const REQUEST_TIMEOUT_MS = 20_000;
 
 // Clusters we care about most, highest first. Drives the submit ranking.
 const CLUSTER_PRIORITY = [
@@ -82,6 +83,14 @@ function request(method, hostname, urlPath, body, headers = {}) {
       });
     });
     req.on('error', reject);
+    // Ohne Timeout haengt ein Request, dessen Verbindung still stirbt, ewig: am 8.9.
+    // standen vier ESTABLISHED-Sockets zu googleapis.com 7 Minuten ohne ein Byte.
+    // Ein destroy() mit ETIMEDOUT laesst withRetry() den Versuch sauber wiederholen.
+    req.setTimeout(REQUEST_TIMEOUT_MS, () => {
+      const err = new Error(`kein Byte seit ${REQUEST_TIMEOUT_MS} ms`);
+      err.code = 'ETIMEDOUT';
+      req.destroy(err);
+    });
     if (data) req.write(data);
     req.end();
   });
