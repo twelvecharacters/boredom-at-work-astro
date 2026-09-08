@@ -30,7 +30,7 @@ import { readAllPosts, isPublished } from './lib/read-posts.mjs';
 // The property string must match Search Console exactly, trailing slash included.
 const SITE_URL = 'https://boredom-at-work.com/';
 const CRED_PATH = path.join(process.env.HOME || '', '.claude', 'gsc-credentials.json');
-const CONCURRENCY = 8;
+const CONCURRENCY = 4; // 8 provozierte ECONNRESET, 5 von 11 Laeufen starben daran (29.8.-8.9.)
 
 // Clusters we care about most, highest first. Drives the submit ranking.
 const CLUSTER_PRIORITY = [
@@ -87,15 +87,40 @@ function request(method, hostname, urlPath, body, headers = {}) {
   });
 }
 
+// Transiente Netzfehler (Reset, Timeout, DNS beim Aufwachen des Macs) und 429/5xx
+// haben den taeglichen Lauf mehrfach komplett gekillt, weil ein einzelner Fehler
+// als uncaught exception durchschlug. Drei Versuche mit Backoff, dann sauberes {error}.
+const RETRY_CODES = new Set(['ECONNRESET', 'ETIMEDOUT', 'ENOTFOUND', 'EAI_AGAIN', 'ECONNREFUSED', 'EPIPE']);
+async function withRetry(fn, label, tries = 4) {
+  let lastErr;
+  for (let i = 0; i < tries; i++) {
+    try {
+      const res = await fn();
+      if (res && res.status && (res.status === 429 || res.status >= 500) && i < tries - 1) {
+        lastErr = new Error(`HTTP ${res.status}`);
+      } else {
+        return res;
+      }
+    } catch (err) {
+      lastErr = err;
+      if (!RETRY_CODES.has(err.code) || i === tries - 1) throw err;
+    }
+    const wait = 1500 * 2 ** i;
+    process.stderr.write(`  retry ${i + 1}/${tries - 1} ${label} nach ${wait} ms (${lastErr.code || lastErr.message})\n`);
+    await new Promise((r) => setTimeout(r, wait));
+  }
+  throw lastErr;
+}
+
 async function getAccessToken() {
   if (!fs.existsSync(CRED_PATH)) {
     console.error(`Keine Credentials unter ${CRED_PATH}`);
     process.exit(1);
   }
   const credentials = JSON.parse(fs.readFileSync(CRED_PATH, 'utf8'));
-  const res = await request('POST', 'oauth2.googleapis.com', '/token',
+  const res = await withRetry(() => request('POST', 'oauth2.googleapis.com', '/token',
     `grant_type=urn%3Aietf%3Aparams%3Aoauth%3Agrant-type%3Ajwt-bearer&assertion=${createJWT(credentials)}`,
-    { 'Content-Type': 'application/x-www-form-urlencoded' });
+    { 'Content-Type': 'application/x-www-form-urlencoded' }), 'token');
   if (!res.json.access_token) {
     console.error('Auth fehlgeschlagen:', JSON.stringify(res.json).slice(0, 300));
     process.exit(1);
@@ -104,9 +129,14 @@ async function getAccessToken() {
 }
 
 async function inspect(token, url) {
-  const res = await request('POST', 'searchconsole.googleapis.com', '/v1/urlInspection/index:inspect',
-    { inspectionUrl: url, siteUrl: SITE_URL },
-    { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` });
+  let res;
+  try {
+    res = await withRetry(() => request('POST', 'searchconsole.googleapis.com', '/v1/urlInspection/index:inspect',
+      { inspectionUrl: url, siteUrl: SITE_URL },
+      { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` }), url.replace(SITE_URL, '/'));
+  } catch (err) {
+    return { url, error: `${err.code || 'NETZ'} ${err.message}`.trim() };
+  }
   if (res.status !== 200) {
     return { url, error: `HTTP ${res.status} ${res.json?.error?.message || ''}`.trim() };
   }
