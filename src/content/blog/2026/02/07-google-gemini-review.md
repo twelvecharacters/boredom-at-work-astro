@@ -59,7 +59,7 @@ Gemini is Google's AI assistant, powered by their Gemini family of language mode
 | **Gemini 3 Flash** | Fast, everyday tasks | Free + AI Pro |
 | **Gemini 3 Pro** | Complex reasoning, long context (1M tokens) | AI Pro only |
 
-The free tier gives you access to Gemini 3 Flash with some usage limits. Google AI Pro ($20/month, formerly Gemini Advanced) unlocks everything. Google also offers an AI Ultra tier at ~$250/month for power users.
+The free tier gives you access to Gemini 3 Flash with some usage limits. Google AI Pro ($20/month, formerly Gemini Advanced) unlocks everything. Google also offers an AI Ultra tier at ~$250/month for power users. Google's newest release gets its own write-up in my [Gemini 3.8 review](/google-gemini-3-8-review/), with benchmarks and Flash vs. Pro pricing.
 
 ---
 
@@ -432,6 +432,7 @@ Gemini isn't going to replace ChatGPT for most people. But it's absolutely worth
 
 ## Related Articles
 
+- [Google Gemini 3.8 Review](/google-gemini-3-8-review/): benchmarks, speed, and pricing for Google's newest model
 - [AI Tools Guide](/ai-tools-guide/), Complete guide to all AI tools for work
 - [ChatGPT Mastery Guide](/chatgpt-guide/), Everything about ChatGPT
 - [Claude vs ChatGPT](/claude-vs-chatgpt/), Head-to-head comparison
