@@ -3,6 +3,7 @@ title: "ChatGPT vs Claude vs Gemini: Which AI to Use in 2026?"
 slug: "chatgpt-vs-claude-vs-gemini"
 description: "ChatGPT, Claude, and Gemini compared on pricing, features, and real-world performance. Find out which AI chatbot is worth your $20/month in 2026."
 publishDate: 2026-07-21
+updatedDate: 2026-09-09
 author: "Mehdi"
 image: "./21-chatgpt-vs-claude-vs-gemini.webp"
 imageAlt: "Side-by-side comparison of ChatGPT, Claude, and Gemini AI interfaces"
@@ -45,7 +46,7 @@ If you only pay for one: **ChatGPT Plus** for versatility, **Claude Pro** for qu
 
 | Tier | ChatGPT | Claude | Gemini |
 |------|---------|--------|--------|
-| **Free** | GPT-5.2 (limited) | Sonnet 4.6 (limited) | Gemini 3.1 (limited) |
+| **Free** | GPT-5.2 (limited) | Sonnet 4.6 (limited) | Gemini 3.6 Flash, limited 3.1 Pro |
 | **Standard** | [Plus: $20/month](https://chatgpt.com/) | [Pro: $20/month](https://claude.ai/) | [AI Pro: $19.99/month](https://gemini.google.com/) |
 | **Premium** | Pro: $200/month | Max: $100-200/month | AI Ultra: $249.99/month |
 | **Team** | $25-30/user/month | $25-30/user/month | Workspace add-on |
@@ -59,8 +60,8 @@ All three have usable free tiers. The $20 tier is where the real value lives.
 | | ChatGPT | Claude | Gemini |
 |--|---------|--------|--------|
 | **Flagship model** | GPT-5.2 | Opus 4.6 | Gemini 3.1 Pro |
-| **Mid-tier** | GPT-4o | Sonnet 4.6 | Gemini 2.5 Pro |
-| **Fast/light** | o4-mini | Haiku 4.5 | Gemini Flash |
+| **Mid-tier** | GPT-4o | Sonnet 4.6 | Gemini 3.8 Flash |
+| **Fast/light** | o4-mini | Haiku 4.5 | Gemini 3.5 Flash-Lite |
 | **Context window** | 256K tokens | 200K (Opus), 1M (Sonnet) | 1M tokens |
 | **Reasoning model** | o3 | Built into Opus | Built into 3.1 Pro |
 
@@ -172,7 +173,7 @@ Honestly, yes, for casual use. All three free tiers are surprisingly capable in 
 
 - **ChatGPT Free:** GPT-5.2 access with daily limits. Enough for 5-10 conversations/day
 - **Claude Free:** Sonnet 4.6 (their mid-tier model). Solid for writing and coding
-- **Gemini Free:** Basic Gemini 3.1. Good for quick questions and Google integration
+- **Gemini Free:** Gemini 3.6 Flash plus limited 3.1 Pro. Good for quick questions and Google integration
 
 If you hit limits regularly or use AI for work, the $20 upgrade is worth it on any of them.
 

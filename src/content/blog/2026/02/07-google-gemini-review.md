@@ -3,7 +3,7 @@ title: "Google Gemini Review: Is It Better Than ChatGPT in 2026?"
 slug: "google-gemini-review"
 description: "Honest review of Google Gemini after months of daily use. What it does well, where it falls short, and whether it's worth switching from ChatGPT."
 publishDate: 2026-02-07
-updatedDate: 2026-04-05
+updatedDate: 2026-09-09
 author: "Mehdi"
 image: "./07-google-gemini-review.webp"
 imageAlt: "Google Gemini AI interface on a laptop in a modern workspace"
@@ -20,7 +20,7 @@ faq:
   - question: "Is Google Gemini better than ChatGPT?"
     answer: "Neither is universally better. Gemini excels at real-time information, Google integration, and multimodal tasks. ChatGPT is better for creative writing, complex reasoning, and has a more mature ecosystem with Custom GPTs and Sora video. Choose based on your primary use case."
   - question: "Is Google Gemini free to use?"
-    answer: "Yes, Gemini offers a generous free tier with access to Gemini 3 Flash. Google AI Pro (formerly Gemini Advanced) costs $20/month (included with Google One AI Premium) and gives full access to the latest models including Gemini 3 Pro."
+    answer: "Yes, Gemini offers a generous free tier with Gemini 3.6 Flash and limited Gemini 3.1 Pro. Google AI Pro (formerly Gemini Advanced) costs $20/month (included with Google One AI Premium) and gives full access to Gemini 3.8 Flash and higher Gemini 3.1 Pro limits."
   - question: "Can Gemini access my Google Drive and Gmail?"
     answer: "Yes, with Google AI Pro (formerly Gemini Advanced) you can connect Google Workspace (Gmail, Drive, Docs, Calendar). Gemini can search your emails, summarize documents, and help with scheduling, a major advantage over ChatGPT."
 ---
@@ -56,10 +56,10 @@ Gemini is Google's AI assistant, powered by their Gemini family of language mode
 
 | Model | Best For | Availability |
 |-------|----------|--------------|
-| **Gemini 3 Flash** | Fast, everyday tasks | Free + AI Pro |
-| **Gemini 3 Pro** | Complex reasoning, long context (1M tokens) | AI Pro only |
+| **Gemini 3.6 Flash** | Fast, everyday tasks | Free (AI Pro and Ultra get 3.8 Flash) |
+| **Gemini 3.1 Pro** | Complex reasoning, long context (1M tokens) | Limited on Free, 4x limits on AI Pro |
 
-The free tier gives you access to Gemini 3 Flash with some usage limits. Google AI Pro ($20/month, formerly Gemini Advanced) unlocks everything. Google also offers an AI Ultra tier at ~$250/month for power users. Google's newest release gets its own write-up in my [Gemini 3.8 review](/google-gemini-3-8-review/), with benchmarks and Flash vs. Pro pricing.
+The free tier gives you Gemini 3.6 Flash and limited use of Gemini 3.1 Pro. Google AI Pro ($20/month, formerly Gemini Advanced) unlocks everything. Google also offers an AI Ultra tier at ~$250/month for power users. Google's newest release gets its own write-up in my [Gemini 3.8 review](/google-gemini-3-8-review/), with benchmarks and Flash vs. Pro pricing.
 
 ---
 
@@ -67,17 +67,17 @@ The free tier gives you access to Gemini 3 Flash with some usage limits. Google 
 
 | Feature | Free | AI Pro ($20/mo) |
 |---------|------|-------------------|
-| **Gemini 3 Flash** | Limited | Full |
-| **Gemini 3 Pro** | ❌ | ✅ |
-| **Gemini 3 Pro (1M context)** | ❌ | ✅ |
+| **Gemini Flash** | 3.6 Flash | 3.8 Flash |
+| **Gemini 3.1 Pro** | Limited | 4x higher limits |
+| **Gemini 3.1 Pro (1M context)** | Limited | ✅ |
 | **Google Workspace integration** | ❌ | ✅ |
 | **Image generation (Imagen 4)** | Limited | Full |
 | **Deep Research** | ❌ | ✅ |
 | **Gems (custom AI)** | Limited | Full |
 | **Priority access** | ❌ | ✅ |
-| **Google One storage** | ❌ | 2TB included |
+| **Google One storage** | 15 GB | 5 TB included |
 
-The $20/month for AI Pro includes 2TB of Google One storage, which alone costs $10/month. If you need cloud storage anyway, AI Pro is effectively $10/month for the AI features.
+The $20/month for AI Pro includes 5 TB of Google One storage. If you need cloud storage anyway, a good part of the price pays for itself.
 
 ---
 
@@ -160,7 +160,7 @@ For web development, Gemini often provides more accurate answers about modern fr
 
 ### 5. Long Context Window
 
-Gemini 3 Pro offers a 1 million token context window, about 700,000 words.
+Gemini 3.1 Pro offers a 1 million token context window, about 700,000 words.
 
 **Use cases:**
 - Analyze entire codebases
@@ -209,7 +209,7 @@ For multi-step problems and nuanced analysis, Gemini struggles more than competi
 - Less reliable for math and logic puzzles
 - Tends to oversimplify when depth is needed
 
-Gemini 3 Pro improved this significantly, but ChatGPT and Claude still feel more reliable for complex tasks.
+Gemini 3.1 Pro improved this significantly, but ChatGPT and Claude still feel more reliable for complex tasks.
 
 ### 3. Following Specific Instructions
 
@@ -302,7 +302,7 @@ For detailed comparisons, see our [Claude vs ChatGPT](/claude-vs-chatgpt/) guide
    - Good for testing before committing to paid
 
 5. **You're already paying for Google One**
-   - 2TB storage included with AI Pro
+   - 5 TB storage included with AI Pro
    - Effectively cheaper if you need storage
 
 ### Probably Skip Gemini If:
@@ -371,21 +371,21 @@ If you need great writing, switch to ChatGPT or Claude. Use each tool for what i
 ## Gemini Pricing: Is AI Pro Worth It?
 
 ### Free Tier
-- Gemini 3 Flash (unlimited)
-- Limited Gemini 3 Flash
+- Gemini 3.6 Flash
+- Limited Gemini 3.1 Pro
 - Basic image generation
 - No Workspace integration
 
 **Verdict:** Surprisingly capable. Good for trying Gemini and casual use.
 
 ### Google AI Pro ($20/month, formerly Gemini Advanced)
-- All models including Gemini 3 Pro
-- 1M token context (2.5 Pro)
+- Gemini 3.8 Flash and 4x the Gemini 3.1 Pro limits
+- 1M token context
 - Full Google Workspace integration
 - Unlimited image generation (Imagen 4)
 - Deep Research mode
 - Veo 3 video generation
-- **2TB Google One storage included**
+- **5 TB Google One storage included**
 
 **Verdict:** Worth it if you use Google Workspace heavily OR need the cloud storage. The storage alone is worth $10/month.
 
