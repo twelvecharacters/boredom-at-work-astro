@@ -1,0 +1,112 @@
+{
+  "_readme": "Allowlist for scripts/content-lint.js checkModelNames. Every name here was read from the vendor's own page on verifiedAt. Adding a name = fetch the vendor page first, then add it together with the date. Never add a name because an article uses it. Two articles were built around models that never existed (Bambu A2L, Jan 2026; Gemini 3.8 Pro, Sep 2026).",
+  "verifiedAt": "2026-09-09",
+  "vendors": {
+    "gemini": {
+      "sources": [
+        "https://ai.google.dev/gemini-api/docs/models",
+        "https://ai.google.dev/gemini-api/docs/deprecations",
+        "https://deepmind.google/models/model-cards/gemini-3-8-flash/"
+      ],
+      "current": [
+        "Gemini 3.8 Flash",
+        "Gemini 3.7 Flash",
+        "Gemini 3.6 Flash",
+        "Gemini 3.5 Flash",
+        "Gemini 3.5 Flash-Lite",
+        "Gemini 3.1 Flash-Lite",
+        "Gemini 3.1 Pro",
+        "Gemini 3 Flash",
+        "Gemini 2.5 Pro",
+        "Gemini 2.5 Flash",
+        "Gemini 2.5 Flash-Lite"
+      ],
+      "legacy": [
+        "Gemini 3 Pro",
+        "Gemini 2.0 Flash",
+        "Gemini 2.0 Flash-Lite"
+      ]
+    },
+    "claude": {
+      "sources": [
+        "https://platform.claude.com/docs/en/models/overview",
+        "https://platform.claude.com/docs/en/about-claude/model-deprecations"
+      ],
+      "current": [
+        "Claude Fable 5.1",
+        "Claude Opus 5",
+        "Claude Sonnet 5",
+        "Claude Haiku 4.5"
+      ],
+      "legacy": [
+        "Claude Fable 5",
+        "Claude Mythos 5",
+        "Claude Opus 4.8",
+        "Claude Opus 4.7",
+        "Claude Opus 4.6",
+        "Claude Opus 4.5",
+        "Claude Sonnet 4.6",
+        "Claude Sonnet 4.5",
+        "Claude Opus 4.1",
+        "Claude Opus 4",
+        "Claude Sonnet 4",
+        "Claude Sonnet 3.7",
+        "Claude Haiku 3.5",
+        "Claude Haiku 3",
+        "Claude Sonnet 3.5",
+        "Claude Opus 3",
+        "Claude Sonnet 3",
+        "Claude 2.1",
+        "Claude 2"
+      ]
+    },
+    "openai": {
+      "sources": [
+        "https://developers.openai.com/api/docs/models",
+        "https://developers.openai.com/api/docs/deprecations",
+        "https://openai.com/index/introducing-gpt-5-4/",
+        "https://openai.com/index/introducing-gpt-5-5/"
+      ],
+      "current": [
+        "GPT-6 Astra",
+        "GPT-5.6 Sol",
+        "GPT-5.6 Terra",
+        "GPT-5.6 Luna",
+        "GPT-5.6 Cyber",
+        "GPT-5.6"
+      ],
+      "legacy": [
+        "GPT-5.5",
+        "GPT-5.5 Instant",
+        "GPT-5.4",
+        "GPT-5.4 Thinking",
+        "GPT-5.4 Pro",
+        "GPT-5.4 mini",
+        "GPT-5.4 nano",
+        "GPT-5.3",
+        "GPT-5.2",
+        "GPT-5.1",
+        "GPT-5",
+        "GPT-5 mini",
+        "GPT-5 nano",
+        "GPT-5 Pro",
+        "GPT-4.5",
+        "GPT-4.1",
+        "GPT-4.1 mini",
+        "GPT-4.1 nano",
+        "GPT-4o",
+        "GPT-4o mini",
+        "GPT-4 Turbo",
+        "GPT-4",
+        "o1",
+        "o1-preview",
+        "o1-mini",
+        "o1-pro",
+        "o3",
+        "o3-mini",
+        "o3-pro",
+        "o4-mini"
+      ]
+    }
+  }
+}

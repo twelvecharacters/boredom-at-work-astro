@@ -369,7 +369,7 @@ Google Cloud's specialized series offers deep dives into Vertex AI, BigQuery ML,
 
 - Building custom models using Vertex AI AutoML
 - Executing machine learning queries directly in SQL using BigQuery ML
-- Integrating latest multimodal Gemini APIs (Gemini 3.5 Pro and Flash) into cloud workflows
+- Integrating the latest multimodal Gemini APIs (Gemini 3.1 Pro and Gemini 3.8 Flash) into cloud workflows
 - Managing the full MLOps lifecycle from data ingestion to model monitoring
 
 ### Why It's Great

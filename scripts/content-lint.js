@@ -25,6 +25,7 @@
 
 import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs';
 import { join, relative, resolve } from 'node:path';
+import { fileURLToPath } from 'node:url';
 
 // ─── Configuration ──────────────────────────────────────────────────────────
 
@@ -628,6 +629,98 @@ function checkMetaDescriptionLength(content, filePath) {
 
 // ─── Main ───────────────────────────────────────────────────────────────────
 
+// ---------------------------------------------------------------------------
+// AI model names must exist. Two articles were built around models that never
+// existed: the Bambu A2L (Jan 2026) and "Gemini 3.8 Pro" (Sep 2026, with an
+// invented benchmark table and prices off by 10x). Every Gemini/Claude/GPT name
+// is checked against scripts/data/ai-models.json, which only holds names read
+// from the vendor's own pages. Unknown name = error. To add a model: fetch the
+// vendor page, then add the name and bump verifiedAt. Never add a name because
+// an article uses it.
+// ---------------------------------------------------------------------------
+const AI_MODELS_PATH = fileURLToPath(new URL('./data/ai-models.json', import.meta.url));
+let aiModelsCache = null;
+function loadAiModels() {
+  if (aiModelsCache) return aiModelsCache;
+  const data = JSON.parse(readFileSync(AI_MODELS_PATH, 'utf-8'));
+  const allowed = new Set();
+  const generations = new Set(); // "gemini 3.5", "claude 4.6", "gpt 5"
+  for (const vendor of Object.values(data.vendors)) {
+    for (const name of [...vendor.current, ...vendor.legacy]) {
+      const norm = name.toLowerCase();
+      allowed.add(norm);
+      const g = norm.match(/^(gemini|claude|gpt)(?: [a-z]+)?[- ]?(\d(?:\.\d)?)/);
+      if (g) generations.add(`${g[1]} ${g[2]}`);
+    }
+  }
+  aiModelsCache = { allowed, generations, verifiedAt: data.verifiedAt, data };
+  return aiModelsCache;
+}
+
+function normalizeVersion(v) {
+  return v.replace(/\.0$/, ''); // "3.0" -> "3"
+}
+
+function checkModelNames(content, filePath) {
+  const issues = [];
+  const { allowed, generations, verifiedAt, data } = loadAiModels();
+  const lines = content.split('\n');
+  const seen = new Set();
+
+  const report = (lineNum, shown, normalized, vendor) => {
+    const key = normalized.toLowerCase();
+    if (allowed.has(key)) return;
+    // A generation-only reference ("Gemini 3.5", "Claude 4.6", "GPT-5") is fine
+    // when that generation exists at all.
+    const g = key.match(/^(gemini|claude|gpt)[- ]?(\d(?:\.\d)?)$/);
+    if (g && generations.has(`${g[1]} ${g[2]}`)) return;
+    if (seen.has(key)) return;
+    seen.add(key);
+    const src = data.vendors[vendor].sources[0];
+    issues.push({
+      filePath,
+      lineNum,
+      severity: 'error',
+      message: `Unknown AI model "${shown}". Not on the vendor's model list as of ${verifiedAt} (${src}). Either the article invents a model, or a new one shipped: verify on the vendor page, then add it to scripts/data/ai-models.json and bump verifiedAt.`,
+    });
+  };
+
+  lines.forEach((line, i) => {
+    const lineNum = i + 1;
+    // Gemini 3.8 Flash / Gemini 3 Pro / Gemini 3.5
+    for (const m of line.matchAll(/\bGemini\s+(\d(?:\.\d)?)(?!\d)(?:\s+(Pro|Flash-Lite|Flash|Ultra|Nano)\b)?/g)) {
+      const v = normalizeVersion(m[1]);
+      report(lineNum, m[0], m[2] ? `Gemini ${v} ${m[2]}` : `Gemini ${v}`, 'gemini');
+    }
+    // Claude Opus 4.6 / Claude 4.5 Sonnet / Opus 4.6 / Claude 4.6
+    for (const m of line.matchAll(/\bClaude\s+(Opus|Sonnet|Haiku|Fable|Mythos)\s+(\d(?:\.\d)?)(?!\d)\b/g)) {
+      report(lineNum, m[0], `Claude ${m[1]} ${normalizeVersion(m[2])}`, 'claude');
+    }
+    for (const m of line.matchAll(/\bClaude\s+(\d(?:\.\d)?)(?!\d)\s+(Opus|Sonnet|Haiku)\b/g)) {
+      report(lineNum, m[0], `Claude ${m[2]} ${normalizeVersion(m[1])}`, 'claude');
+    }
+    for (const m of line.matchAll(/(?<!Claude\s)\b(Opus|Sonnet|Haiku)\s+(\d(?:\.\d)?)(?!\d)\b/g)) {
+      report(lineNum, m[0], `Claude ${m[1]} ${normalizeVersion(m[2])}`, 'claude');
+    }
+    for (const m of line.matchAll(/\bClaude\s+(\d(?:\.\d)?)(?!\d)\b(?!\s+(?:Opus|Sonnet|Haiku))/g)) {
+      report(lineNum, m[0], `Claude ${normalizeVersion(m[1])}`, 'claude');
+    }
+    // GPT-5.6 Sol / GPT-4o mini / GPT-4o-mini / GPT-5.4 Thinking / GPT-6 Astra
+    for (const m of line.matchAll(/\bGPT-(\d(?:\.\d)?)(?!\d)(o)?(?:[\s-](mini|nano|Pro|Turbo|Thinking|Instant|Codex|Astra|Sol|Terra|Luna|Cyber)\b)?/gi)) {
+      const v = normalizeVersion(m[1]);
+      let name = `GPT-${v}${m[2] ? 'o' : ''}`;
+      if (m[3]) name += ` ${m[3]}`;
+      report(lineNum, m[0], name, 'openai');
+    }
+    // o1 / o3-mini / o4-mini as standalone tokens
+    for (const m of line.matchAll(/(?<=^|[\s(|,/])(o[1-9](?:-(?:mini|pro|preview))?)(?=$|[\s)|,.:;/])/g)) {
+      report(lineNum, m[1], m[1], 'openai');
+    }
+  });
+
+  return issues;
+}
+
 function lintFile(filePath) {
   const content = readFileSync(filePath, 'utf-8');
   const issues = [
@@ -639,6 +732,7 @@ function lintFile(filePath) {
     ...checkMetaDescriptionLength(content, filePath),
     ...checkSlugPrefixConsistency(content, filePath),
     ...checkInternalLinks(content, filePath),
+    ...checkModelNames(content, filePath),
   ];
   return issues;
 }
