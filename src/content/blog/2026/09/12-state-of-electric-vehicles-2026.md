@@ -4,7 +4,7 @@ slug: "state-of-electric-vehicles-2026"
 description: "Explore the global electric vehicle market in 2026. Discover how new battery tech, expanded charging networks, and lower prices are changing the industry."
 publishDate: 2026-09-12
 author: "Mehdi"
-image: "./12-state-of-electric-vehicles-2026.png"
+image: "./12-state-of-electric-vehicles-2026.webp"
 imageAlt: "A sleek modern electric vehicle charging at a futuristic well-lit station at dusk with glowing blue LEDs."
 tags: ["Tech & Gadgets", "Review"]
 draft: false

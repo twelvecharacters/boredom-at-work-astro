@@ -3,7 +3,7 @@ title: "Offline Travel Tech: Essential Apps & Devices for No-Data Regions"
 description: "Prepare your smartphone, Kindle, and gear for zero-connectivity travel. Discover offline maps, offline translation packs, travel guides, and power tips."
 publishDate: 2026-09-09
 author: "Mehdi"
-image: "./09-offline-travel-tech.png"
+image: "./09-offline-travel-tech.webp"
 imageAlt: "A traveler on a mountain summit checking offline map navigation on a smartphone next to an open backpack"
 tags: ["AI", "Travel", "Tech & Gadgets", "Productivity"]
 draft: false
