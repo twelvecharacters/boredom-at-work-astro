@@ -475,7 +475,7 @@ git add . && git commit -m "Add: Neuer Artikel" && git push
 ```
 
 ### Scheduled Posts
-Täglicher Cron in `.github/workflows/deploy.yml`: `0 5 * * *` (5:00 UTC)
+Täglicher Cron in `.github/workflows/deploy.yml`: `17 4 * * *` (4:17 UTC, krumme Minute weil GitHub :00-Crons um Stunden verzoegert)
 
 **Manueller Rebuild:** `git commit --allow-empty -m "Trigger rebuild" && git push`
 

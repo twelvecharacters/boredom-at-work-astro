@@ -5,8 +5,9 @@ on:
     branches: [master]
   workflow_dispatch:
   schedule:
-    # Daily rebuild at 5:00 UTC (6:00 MEZ / 7:00 MESZ) for scheduled posts
-    - cron: '0 5 * * *'
+    # Daily rebuild at 4:17 UTC for scheduled posts. Off the full hour on purpose:
+    # GitHub queues :00 crons for hours (5:00 fired at 9:00-9:50 UTC, Sept 2026)
+    - cron: '17 4 * * *'
 
 permissions:
   contents: read
