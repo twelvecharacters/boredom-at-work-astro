@@ -98,7 +98,7 @@ The catch is the "works harder" design. On complex tasks the model emits more re
 - **Gemini app:** included for Google AI Pro and AI Ultra subscribers. Free users get Gemini 3.6 Flash plus limited access to 3.1 Pro.
 - **Google Search AI Mode and Gemini in Google Sheets:** live for Pro and Ultra subscribers.
 - **Google AI Studio and the Gemini API:** available to any developer, with a free tier for testing.
-- **Google Antigravity and Vertex AI:** available for agentic coding and enterprise deployments. My [Antigravity CLI guide](/antigravity-cli-guide/) covers the setup.
+- **Google Antigravity and Vertex AI:** available for agentic coding and enterprise deployments. My [Antigravity CLI guide](/antigravity-cli-guide/) covers the setup. For how the coding tools built on these models stack up, see [OpenCode vs Cursor vs Codex vs Antigravity](/opencode-vs-cursor-vs-codex-vs-antigravity/).
 
 Google also announced a Gemini 3.8 Flash Cyber variant for security work, but it is limited to governments and vetted partners through Google's Fairwind program. It is not something you can sign up for.
 
