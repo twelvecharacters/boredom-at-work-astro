@@ -72,7 +72,7 @@ Start with a print speed of 20 to 30 mm/s for a direct drive printer. If you are
 ### 2. Temperature Settings
 TPU typically prints slightly hotter than PLA. Most blends require a nozzle temperature between 220 and 240 degrees Celsius. Check the manufacturer's recommendation on the spool. 
 
-For the heated bed, TPU does not require extreme temperatures. A bed temperature of 40 to 50 degrees Celsius is usually sufficient. In fact, TPU adheres incredibly well to most build surfaces (PEI, glass, buildtak). 
+For the heated bed, TPU does not require extreme temperatures. A bed temperature of 40 to 50 degrees Celsius is usually sufficient. In fact, TPU adheres incredibly well to most build surfaces (PEI, glass, buildtak). If you print for a car interior, my [3D printable car gadgets](/3d-printable-car-gadgets/) guide covers which flexible and rigid filaments survive summer heat.
 
 ### 3. Retraction Configuration
 Retraction is the process of pulling the filament back slightly during travel moves to prevent oozing and stringing. With PLA, quick and long retractions are standard. With TPU, retractions are problematic.

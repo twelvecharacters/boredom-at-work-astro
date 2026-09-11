@@ -92,7 +92,7 @@ In 2026, USB-C is the absolute standard. Try to ensure all your devices, laptop,
 *   **Laptop or Tablet (Optional):** Only bring a laptop if you intend to work. If you just want to watch movies and read emails, an iPad or a lightweight tablet is more than sufficient.
 *   **E-Reader:** Books are heavy. A Kindle or Kobo holds thousands of books and has a battery that lasts for weeks.
 *   **Noise-Canceling Headphones:** Absolutely vital for surviving crying babies on long flights, snoring roommates in hostels, and loud bus rides. Over-ear headphones offer better noise cancellation, but high-end wireless earbuds (like AirPods Pro) are much more compact.
-*   **Power Bank:** A robust power bank (around 10,000mAh to 20,000mAh) is essential for long travel days when you are relying on your phone for maps and tickets.
+*   **Power Bank:** A robust power bank (around 10,000mAh to 20,000mAh) is essential for long travel days when you are relying on your phone for maps and tickets. For the full no-signal kit, apps included, see my [offline travel tech guide](/offline-travel-tech/).
 *   **Universal Travel Adapter:** A high-quality GaN (Gallium Nitride) universal adapter with multiple USB-C ports allows you to charge everything simultaneously in any country.
 *   **Cables:** Two long USB-C to USB-C cables and one shorter backup cable.
 

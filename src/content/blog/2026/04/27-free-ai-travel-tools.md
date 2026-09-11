@@ -108,7 +108,7 @@ Here's how to use completely free AI tools for budget travel planning.
 - Offline access
 
 **What it does well**:
-- Route optimization
+- Route optimization (more in the [AI route planning guide](/ai-route-planning-guide/))
 - Driving time calculations
 - Visual trip organization
 - Collaborative planning

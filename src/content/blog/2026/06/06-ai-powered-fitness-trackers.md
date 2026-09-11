@@ -71,7 +71,7 @@ Some of the most popular AI-powered platforms in 2026 include:
 - **Fitbit (Google)**: Excellent general-purpose fitness and health tracking with personalized daily readiness scores.
 
 ### 1. Dedicated Recovery and Performance Trackers
-Devices like those offered by companies focused on pure biometric monitoring (e.g., Whoop, Oura) have doubled down on AI-driven insight. They often lack traditional smartwatch features like screens or app notifications, allowing them to optimize for comfort, battery life, and high-fidelity sensor data. These are for the dedicated athlete or the hyper-quantified health enthusiast who prioritizes recovery data over smartphone connectivity.
+Devices like those offered by companies focused on pure biometric monitoring (e.g., Whoop, Oura) have doubled down on AI-driven insight. They often lack traditional smartwatch features like screens or app notifications, allowing them to optimize for comfort, battery life, and high-fidelity sensor data. These are for the dedicated athlete or the hyper-quantified health enthusiast who prioritizes recovery data over smartphone connectivity. At the other end of the spectrum sit hybrid watches with analog hands and month-long batteries; my [Withings smartwatch guide](/withings-smartwatches-2026-guide/) covers that lineup.
 
 ### 2. AI-Integrated Smartwatches
 The major players in the smartwatch arena (Apple, Garmin, Google/Fitbit) have integrated AI coaching deeply into their ecosystems. These devices offer the best of both worlds: robust health tracking and the convenience of a traditional smartwatch. The AI integration here is often broader, connecting health data to broader lifestyle apps, calendars, and even nutrition tracking platforms.

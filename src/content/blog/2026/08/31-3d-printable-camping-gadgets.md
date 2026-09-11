@@ -53,7 +53,7 @@ Polyethylene Terephthalate Glycol (PETG) is the go-to filament for camping acces
 Thermoplastic Polyurethane (TPU) is an elastomer that combines rubber-like flexibility with industrial durability. TPU prints are virtually immune to impact shock, fully waterproof, and highly resistant to chemical exposure and abrasion. It is ideal for gaskets, friction-fit caps, and flexible ties. If you are new to printing flexible materials, review our detailed guide on [printing with TPU flexible filaments](/printing-with-tpu-flexible-filaments/).
 
 ### 4. ASA: Industrial Weather Resistance
-Acrylonitrile Styrene Acrylate (ASA) is an upgraded alternative to ABS engineered explicitly for harsh outdoor weathering. It offers high heat deflection (above 95°C) and superior UV stability. If you plan to print permanent vehicle roof-rack mounts or solar panel hardware, ASA is the top choice, though it requires a heated enclosure to prevent warping during printing.
+Acrylonitrile Styrene Acrylate (ASA) is an upgraded alternative to ABS engineered explicitly for harsh outdoor weathering. It offers high heat deflection (above 95°C) and superior UV stability. If you plan to print permanent vehicle roof-rack mounts or solar panel hardware, ASA is the top choice, though it requires a heated enclosure to prevent warping during printing. The same heat logic applies inside a parked car, which is why ASA and PETG carry my [3D printable car gadgets](/3d-printable-car-gadgets/) guide.
 
 ---
 

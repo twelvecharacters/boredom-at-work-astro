@@ -107,8 +107,7 @@ Mechanical keyboards come in different sizes. Smaller isn't always better, pick 
 ### Best Overall: [Keychron K8 Pro](https://keychron.com/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard)
 **Price:** $100-120
 
-The Keychron K8 Pro does everything well. TKL layout, hot-swappable switches (swap without soldering), wireless and wired modes, Mac and Windows compatible.
-
+The Keychron K8 Pro does everything well. TKL layout, hot-swappable switches (swap without soldering), wireless and wired modes, Mac and Windows compatible. If you run a Mac and a PC side by side, one keyboard can drive both; see [how to share one keyboard and mouse between Mac and PC](/share-keyboard-mouse-mac-pc/).
 - Hot-swappable (try different switches later)
 - Bluetooth + USB-C
 - Works with Mac and Windows

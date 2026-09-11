@@ -151,7 +151,7 @@ Include:
 - Emergency gluten-free snacks (protein bars, nuts)
 - Digestive enzyme supplements (just in case)
 - List of safe local dishes
-- Translation app downloaded for offline use
+- Translation app downloaded for offline use (my [offline travel tech guide](/offline-travel-tech/) lists which apps work without data)
 
 **For Severe Allergies:**
 - EpiPen/emergency medication

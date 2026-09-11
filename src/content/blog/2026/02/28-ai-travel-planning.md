@@ -110,7 +110,7 @@ Here's the workflow I use for every trip:
 
 ### Phase 3: Plan (ChatGPT + Dedicated Tools)
 - Generate detailed day-by-day itineraries
-- Optimize routes and logistics
+- Optimize routes and logistics (for road trips, see the [AI route planning guide](/ai-route-planning-guide/))
 - Create packing lists and checklists
 
 ### Phase 4: Verify (Manual)

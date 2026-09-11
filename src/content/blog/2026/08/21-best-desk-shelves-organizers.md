@@ -156,7 +156,7 @@ The trend in 2026 is "earn your place", every item on your desk must justify its
 
 ## The Bottom Line
 
-A clean desk isn't about willpower, it's about having a system. A desk shelf, one organizer, and an under-desk drawer solve 90% of desk clutter problems.
+A clean desk isn't about willpower, it's about having a system. A desk shelf, one organizer, and an under-desk drawer solve 90% of desk clutter problems. If you own a 3D printer, print the drawer inserts instead of buying them; see the [Gridfinity 101 guide](/gridfinity-101-guide/).
 
 **Start here:**
 1. Desk shelf ($50-250), biggest single improvement

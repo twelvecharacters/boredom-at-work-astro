@@ -67,7 +67,7 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 
 ## 2. [Wanderlog](https://wanderlog.com) - Best for Road Trips
 
-**What it is**: A trip planner that excels at mapping routes and road trip logistics.
+**What it is**: A trip planner that excels at mapping routes and road trip logistics. For a road-trip-specific walkthrough with Wanderlog, Roadtrippers, and ABRP, see my [AI route planning guide](/ai-route-planning-guide/).
 
 **What we loved**:
 - Outstanding route optimization

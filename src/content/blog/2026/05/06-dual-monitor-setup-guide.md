@@ -209,8 +209,7 @@ This is where most dual-monitor setups go wrong. Two monitors at the wrong heigh
 | Ergotron LX Dual | ~$280 | 25 lbs/arm | Premium |
 | AmazonBasics Dual | ~$110 | 25 lbs/arm | Mid-range |
 
-If you already have a good setup but your screens still feel low, even a [laptop stand](/best-laptop-stands/) under your secondary laptop display helps.
-
+If you already have a good setup but your screens still feel low, even a [laptop stand](/best-laptop-stands/) under your secondary laptop display helps. And if the second screen belongs to a second computer, [how to share one keyboard and mouse between Mac and PC](/share-keyboard-mouse-mac-pc/) instead of juggling two sets.
 ---
 
 ## Step 5: Optimize Your Workflow

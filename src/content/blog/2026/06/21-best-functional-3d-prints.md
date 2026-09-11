@@ -32,7 +32,7 @@ If you are brand new to 3D printing, start with [what to 3D print first](/what-t
 
 ### 1. Gridfinity Modular Bins
 
-The open-source organization system that took the 3D printing community by storm. Print a baseplate, then snap in custom-sized bins for pens, SD cards, batteries, screws, whatever lives in your drawers. Designed by Zack Freedman, with thousands of community-made bin variations.
+The open-source organization system that took the 3D printing community by storm. Print a baseplate, then snap in custom-sized bins for pens, SD cards, batteries, screws, whatever lives in your drawers. Designed by Zack Freedman, with thousands of community-made bin variations. My [Gridfinity 101 guide](/gridfinity-101-guide/) walks through the grid math, slicer settings, and a first drawer.
 
 - **Print time:** 1-2 hours per baseplate, 20-45 min per bin
 - **Difficulty:** Easy

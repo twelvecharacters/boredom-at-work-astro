@@ -23,7 +23,7 @@ isListicle: false
 
 For the last decade, the wearable market has been obsessed with putting a smartphone on your wrist. We got notifications, apps, and even phone calls, but we also got more distractions and another screen to charge every night.
 
-In 2026, the pendulum has officially swung back. The fastest-growing segment of the wearable market is **screenless performance trackers**. These devices don't vibrate when you get an email; they don't tell you the time; they just sit silently on your body, collecting data that helps you live better, sleep longer, and train harder.
+In 2026, the pendulum has officially swung back. The fastest-growing segment of the wearable market is **screenless performance trackers**. These devices don't vibrate when you get an email; they don't tell you the time; they just sit silently on your body, collecting data that helps you live better, sleep longer, and train harder. If you want health tracking without a screen but with a real watch face, the hybrid route is covered in my [Withings smartwatch guide](/withings-smartwatches-2026-guide/).
 
 > **Upgrading your workstation?** See our all-in-one [Desk Upgrade & Home Office Guide](/desk-upgrade-guide/) to build a comfortable, productive workspace.
 
