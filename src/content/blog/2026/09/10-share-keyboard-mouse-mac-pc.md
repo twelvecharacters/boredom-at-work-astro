@@ -3,6 +3,7 @@ title: "How to Share One Keyboard and Mouse Between Mac and PC"
 slug: "share-keyboard-mouse-mac-pc"
 description: "Discover the best hardware KVM switches and software tools like Barrier and Logitech Flow to seamlessly control a Mac and PC desktop setup."
 publishDate: 2026-09-10
+updatedDate: 2026-09-11
 author: "Mehdi"
 image: "./10-share-keyboard-mouse-mac-pc.webp"
 imageAlt: "Clean desk setup featuring a single mechanical keyboard and ergonomic mouse controlling a Mac laptop and Windows PC desktop"
@@ -17,7 +18,7 @@ faq:
   - question: "Does sharing a mouse between Mac and PC introduce input lag?"
     answer: "Software solutions connected over gigabit Ethernet or fast Wi-Fi 6 introduce virtually imperceptible latency for office work. However, for competitive gaming, a physical hardware KVM switch or dedicated mouse with multi-device Bluetooth switching is recommended."
   - question: "Is Barrier software safe and open-source?"
-    answer: "Yes, Barrier is a free, open-source fork of Synergy. It encrypts client-server communications with SSL/TLS and runs entirely on your local network without transmitting data to cloud servers."
+    answer: "Yes, Barrier is a free, open-source fork of Synergy. It encrypts client-server communications with SSL/TLS and runs entirely on your local network without transmitting data to cloud servers. Barrier itself has had no release since 2021, so for current security fixes use its actively maintained successor, Deskflow."
 ---
 
 Working with both a MacBook for corporate tasks and a custom Windows PC for personal projects, creative work, or gaming is one of the most common desk configurations today. However, managing two separate sets of keyboards and mice on a single desk quickly leads to clutter, ergonomics issues, and constant switching friction.
@@ -32,16 +33,16 @@ In this guide, we break down the best software and hardware solutions to share i
 
 Software KVMs use your local network (Wi-Fi or Ethernet) to route keyboard inputs and mouse coordinates between computers. You designate one machine as the primary server (where your keyboard and mouse are physically plugged in) and the other as the client. When your cursor reaches the edge of the primary monitor, it automatically glides onto the secondary machine's display.
 
-### 1. Barrier and Input Leap (Best Free Open-Source Option)
+### 1. Deskflow, the Successor to Barrier and Input Leap (Best Free Open-Source Option)
 
-[Barrier](https://github.com/debauchee/barrier) is a free, open-source software KVM derived from the popular Synergy project. Its active community fork, [Input Leap](https://github.com/input-leap/input-leap), continues to maintain cross-platform support for macOS, Windows, and Linux.
+[Barrier](https://github.com/debauchee/barrier) was for years the go-to free, open-source software KVM derived from Synergy, but it has not had a release since version 2.4.0 in November 2021, and its community fork Input Leap was archived in December 2025. The actively maintained successor is [Deskflow](https://github.com/deskflow/deskflow), the open-source core that Synergy itself is built on. It is free (GPL-2.0), runs on macOS, Windows, and Linux, turns on TLS encryption by default, and stays network-compatible with Barrier and Input Leap, so mixed setups keep working. Everything below that says Barrier applies to Deskflow, which kept the same server and client model.
 
 | Primary Server (MacBook Pro) | Local Encrypted TCP Connection | Secondary Client (Windows PC) |
 | :--- | :---: | :--- |
 | **Physical Keyboard & Mouse Attached** | <=============================> | **Virtual Cursor & Keystroke Receiver** |
 | Defines screen boundary coordinates | Wi-Fi / Gigabit Ethernet LAN | Cursor seamlessly glides onto display |
 
-* **How it works:** You install Barrier on both computers, enable SSL encryption, and define screen layouts visually in the server grid.
+* **How it works:** You install Deskflow (or legacy Barrier) on both computers, enable TLS encryption, and define screen layouts visually in the server grid.
 * **Pros:** Completely free, lightweight, open-source, no account creation required, supports basic text clipboard sharing.
 * **Cons:** Does not support drag-and-drop file transfers; requires configuring firewall rules on Windows.
 * **Best for:** Users who want a free, secure, lightweight solution without proprietary ecosystem lock-in.
@@ -129,9 +130,9 @@ Many modern productivity monitors come equipped with integrated KVM switches and
 
 ---
 
-## Step-by-Step Guide: Setting Up Barrier (Open-Source)
+## Step-by-Step Guide: Setting Up Deskflow or Barrier (Open-Source)
 
-Because Barrier is free, cross-platform, and highly secure, it is the most popular choice for budget-conscious remote workers. Here is how to configure it between a Mac and a Windows PC in under 10 minutes.
+Barrier and its successor Deskflow share the same server and client model, so the steps below work for both. On a new setup, install Deskflow (`brew install deskflow` on macOS) and read "Barrier" as "Deskflow". Here is how to configure it between a Mac and a Windows PC in under 10 minutes.
 
 ### Step 1: Install Barrier on Both Computers
 
@@ -189,7 +190,7 @@ When working on a corporate laptop, company firewalls or active VPN tunnels ofte
 ## Which Solution Should You Choose?
 
 * **Choose Logitech Flow** if you already own MX Master series peripherals and want effortless cross-platform copy-paste capabilities.
-* **Choose Barrier or Input Leap** if you want a free, open-source software setup across Mac, Windows, or Linux without buying new hardware.
+* **Choose Deskflow (or legacy Barrier)** if you want a free, open-source software setup across Mac, Windows, or Linux without buying new hardware.
 * **Choose a USB Selector Switch** if you want an inexpensive ($20), bulletproof hardware setup that works through corporate VPN restrictions.
 * **Choose a Dedicated KVM Switch or KVM Monitor** if you manage multi-monitor high-refresh setups or competitive gaming rigs alongside your work laptop.
 
