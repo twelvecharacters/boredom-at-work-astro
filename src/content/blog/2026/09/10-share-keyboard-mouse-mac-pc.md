@@ -210,4 +210,4 @@ Often corporate VPNs block local network peer-to-peer traffic. If your work Mac 
 Software solutions connected over gigabit Ethernet or fast Wi-Fi 6 introduce virtually imperceptible latency for office work. However, for competitive gaming, a physical hardware KVM switch or dedicated mouse with multi-device Bluetooth switching is recommended.
 
 ### Is Barrier software safe and open-source?
-Yes, Barrier is a free, open-source fork of Synergy. It encrypts client-server communications with SSL/TLS and runs entirely on your local network without transmitting data to cloud servers.
+Yes, Barrier is a free, open-source fork of Synergy. It encrypts client-server communications with SSL/TLS and runs entirely on your local network without transmitting data to cloud servers. Barrier itself has had no release since 2021, so for current security fixes use its actively maintained successor, Deskflow.

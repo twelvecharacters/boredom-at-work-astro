@@ -483,7 +483,7 @@ git add . && git commit -m "Add: Neuer Artikel" && git push
 ### Scheduled Posts
 Täglicher Cron in `.github/workflows/deploy.yml`: `17 4 * * *` (4:17 UTC, krumme Minute weil GitHub :00-Crons um Stunden verzoegert)
 
-**Manueller Rebuild:** `git commit --allow-empty -m "Trigger rebuild" && git push`
+**Manueller Rebuild:** `gh workflow run deploy.yml --ref master` (oder leerer Commit). **Fallback (seit 11.9.):** der launchd-Job `com.boredomatwork.gsc-index` (9:12 Uhr) stoesst den Rebuild an, wenn GitHubs Cron bis dahin nicht gelaufen ist. Grund: GitHub startet den Cron dieses Repos Stunden zu spaet oder gar nicht.
 
 ---
 
