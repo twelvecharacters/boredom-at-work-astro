@@ -2,9 +2,9 @@
 title: "AI Glasses and Privacy Issues: What You Need to Know"
 slug: "ai-glasses-privacy-issues"
 description: "Explore the growing privacy concerns surrounding AI glasses in 2026. Learn about covert recording, facial recognition risks, data security, and regulations."
-publishDate: 2026-09-14
+publishDate: 2026-11-08
 author: "Mehdi"
-image: "./14-ai-glasses-privacy-issues.webp"
+image: "./08-ai-glasses-privacy-issues.webp"
 imageAlt: "A pair of sleek modern smart AI glasses on a desk with a visible camera lens and glowing status indicator."
 tags: ["Tech & Gadgets", "Review"]
 draft: false

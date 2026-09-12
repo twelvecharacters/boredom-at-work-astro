@@ -2,9 +2,9 @@
 title: "16 New Books to Read in 2026 Across 4 Categories"
 slug: "interesting-books-to-read-2026"
 description: "Discover sixteen completely new and fascinating books released in 2025 and 2026 across science fiction, history, business, and productivity."
-publishDate: 2026-09-13
+publishDate: 2026-11-07
 author: "Mehdi"
-image: "./13-interesting-books-to-read-2026.webp"
+image: "./07-interesting-books-to-read-2026.webp"
 imageAlt: "A cozy reading nook beside a window with a stack of four colorful books and a steaming cup of coffee."
 tags: ["Productivity", "Review"]
 draft: false
