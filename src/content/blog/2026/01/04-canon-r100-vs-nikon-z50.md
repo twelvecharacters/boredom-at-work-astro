@@ -58,7 +58,7 @@ The Canon R100 costs about half the price of the Nikon Z50 II. That's a signific
 - A year's worth of photography education
 - Tripod, bag, and accessories
 
-**However**, the original Nikon Z50 (discontinued predecessor) can be found used for ~$450-550, making it price-competitive with the R100 new. If you're considering used options, this changes the equation significantly.
+**However**, the original used Z50 (discontinued predecessor) can be found used for ~$450-550, making it price-competitive with the R100 new. If you're considering used options, this changes the equation significantly.
 
 **Verdict:** Canon R100 for budget-conscious buyers. Consider a used original Z50 for similar money with more features.
 
@@ -251,7 +251,7 @@ Nikon assumes slightly more prior knowledge. It's not difficult, but it doesn't 
 - **Prefer premium build** - Feels more substantial
 - **Shoot action/sports** - 11fps burst rate with subject detection
 
-### Consider a Used Original Nikon Z50 if you:
+### Consider a Used Original used Z50 if you:
 
 - Want Z50-level features at R100 prices
 - Are comfortable buying used from reputable dealers

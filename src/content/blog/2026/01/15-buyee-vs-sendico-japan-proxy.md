@@ -105,13 +105,13 @@ Simple concept, but the devil is in the details, and that's where Buyee and Send
 
 ## Real Cost Comparison: A Practical Example
 
-Let's say you want to buy a vintage film camera for 15,000 yen (~$100).
+Let's say you want to buy a vintage film camera for ¥15,000 JPY (approx. $100).
 
 ### Buyee Costs:
 - Item price: 15,000 yen
 - Service fee (5%): 750 yen
 - Plan fee: 300 yen
-- **Total fees: 1,050 yen (~$7)**
+- **Total fees: 1,050 yen (about $7)**
 
 ### Sendico Costs:
 - Item price: 15,000 yen

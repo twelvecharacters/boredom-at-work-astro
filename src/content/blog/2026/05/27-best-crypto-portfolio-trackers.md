@@ -155,7 +155,7 @@ Delta isn't just a crypto tracker. It tracks stocks, ETFs, forex, commodities, a
 **Pricing breakdown:**
 
 - **Basic (Free):** Unlimited broker connections, up to 5 devices
-- **PRO (~$100/yr or ~$14/mo):** AI insights, advanced analytics, more features
+- **Delta PRO (~$100/yr or ~$14/mo):** AI insights, advanced analytics, more features
 - **PRO+:** Professional-level depth with additional data and speed
 
 **The catch:** Tax reporting isn't built in. You'll need a separate tool like Koinly or CoinTracker for that. And since eToro acquired Delta, some users worry about data sharing with a brokerage, though Delta still operates as a standalone app.
@@ -190,7 +190,7 @@ Koinly supports over 400 exchanges and wallets, auto-matches internal transfers 
 - **Newbie ($49/yr):** Up to 100 transactions, tax report downloads
 - **HODLer ($99/yr):** Up to 1,000 transactions
 - **Trader ($179/yr):** Up to 3,000 transactions
-- **Pro ($279/yr):** Up to 10,000 transactions plus priority support
+- **Koinly Pro ($279/yr):** Up to 10,000 transactions plus priority support
 
 **The catch:** The free tier lets you import everything and see your portfolio, but you can't download the actual tax report without paying. So it's essentially a "try before you buy", you can verify it handles your data correctly before committing. Fair enough, but annoying if you assumed "free" meant the whole thing.
 

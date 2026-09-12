@@ -122,7 +122,7 @@ Can you save money with a 3D printer? Let's do the math.
 **Profile:** Prints 2-3 objects per month
 
 - Investment: $350
-- Running costs: $15/month
+- Occasional running costs: $15/month
 - Savings per print: ~$10
 
 **Break-even:** After 3-4 years (35+ prints)
@@ -134,7 +134,7 @@ Can you save money with a 3D printer? Let's do the math.
 **Profile:** Prints 10-15 objects per month
 
 - Investment: $350
-- Running costs: $35/month
+- Active running costs: $35/month
 - Savings per print: ~$10
 
 **Break-even:** After 4-6 months
@@ -146,8 +146,8 @@ Can you save money with a 3D printer? Let's do the math.
 **Profile:** Prints 20+ objects per month, many replacement parts
 
 - Investment: $350
-- Running costs: $50/month
-- Savings per print: ~$15
+- Maker running costs: $50/month
+- Replacement savings per print: ~$15
 
 **Break-even:** After 2-3 months
 

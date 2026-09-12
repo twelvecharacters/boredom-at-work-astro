@@ -107,7 +107,7 @@ The free tier only covers 10 holdings, not enough for a diversified portfolio. T
 
 ## 3. DivTracker, Best Design
 
-**Price:** Free (10 holdings) / Pro ~$4/mo ($20/yr) / Ultimate ~$7/mo ($50/yr) | **Platforms:** iOS, Android, Web
+**Price:** Free (10 holdings) / Pro tier ~$4/month, or $20 yearly / Ultimate tier ~$7/month, or $50 yearly | **Platforms:** iOS, Android, Web
 
 DivTracker is what happens when a designer builds a dividend tracker. The app is beautiful, smooth animations, clean typography, and data visualizations that make you want to check your dividends just because the app is nice to use.
 

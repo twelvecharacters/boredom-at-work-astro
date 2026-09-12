@@ -165,9 +165,9 @@ Ask AI to calculate:
 ```
 I want to visit Angkor for [X] days.
 Compare the pass options:
-- 1-day pass ($37)
-- 3-day pass ($62)
-- 7-day pass ($72)
+- Single-day ticket ($37)
+- Three-day Angkor ticket ($62)
+- Seven-day Angkor pass ($72)
 
 Which offers best value for my planned visits?
 Can I see enough in [X] days?

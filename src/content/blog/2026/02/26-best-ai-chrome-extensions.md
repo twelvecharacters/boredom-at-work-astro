@@ -492,7 +492,7 @@ Writing enhancement focused on rephrasing. Good if rewriting is your main need.
 2. **Grammarly**, Always-on writing help
 3. **Perplexity**, Research and fact-checking
 
-Total cost: ~$24/month (or free with limitations)
+Standard stack cost: ~$24/month (or free with limitations)
 
 ### For Power Users
 
@@ -502,7 +502,7 @@ Total cost: ~$24/month (or free with limitations)
 4. **Glasp**, Knowledge capture
 5. **Tactiq**, Meeting notes (if using Google Meet)
 
-Total cost: ~$36/month
+Power stack cost: ~$36/month
 
 ### For Budget-Conscious
 

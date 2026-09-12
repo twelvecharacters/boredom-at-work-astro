@@ -245,19 +245,19 @@ The D3500 is one of the best beginner DSLRs ever made. Exceptional image quality
 
 Beyond the camera itself, budget for these essentials:
 
-### Essential (Budget: $50-100)
+### Essential Gear ($50-100)
 
 - **Memory card:** 64GB or 128GB SD card ($15-30)
 - **Spare battery:** Always have backup power ($30-50)
 - **Camera bag:** Protect your investment ($20-40)
 
-### Recommended (Budget: $100-200)
+### Recommended Gear ($100-200)
 
 - **UV filter:** Protects your lens ($15-25)
 - **Cleaning kit:** Sensor and lens cleaning ($15-20)
 - **Tripod:** Essential for low light and landscapes ($50-100)
 
-### Nice to Have (Budget: $100+)
+### Nice to Have Gear ($100+)
 
 - **Prime lens:** 35mm or 50mm for sharper images ($150-300)
 - **External flash:** For better indoor photos ($80-150)

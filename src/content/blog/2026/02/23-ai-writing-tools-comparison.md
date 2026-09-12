@@ -466,7 +466,7 @@ Most effective writers use multiple tools:
 1. **Grammarly** (always on), Catches errors everywhere
 2. **Claude** (for important stuff), When quality matters
 
-Cost: $32/month
+Combined cost: $32/month
 
 ### For Content Creators
 
@@ -474,14 +474,14 @@ Cost: $32/month
 2. **Hemingway**, Clarity pass
 3. **Grammarly**, Final polish
 
-Cost: $20/month + free tools
+Creator cost: $20/month + free tools
 
 ### For Marketing Teams
 
 1. **Jasper**, Campaign content and brand voice
 2. **Grammarly**, Team-wide error catching
 
-Cost: $61+/month
+Marketing team cost: $61+/month
 
 ### For Budget-Conscious
 
@@ -489,7 +489,7 @@ Cost: $61+/month
 2. **Grammarly Free**, Basic error catching
 3. **Hemingway Free**, Clarity checks
 
-Cost: $0
+Free tier cost: $0
 
 ---
 

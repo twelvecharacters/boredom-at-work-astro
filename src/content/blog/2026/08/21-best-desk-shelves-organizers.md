@@ -127,7 +127,7 @@ The trend in 2026 is "earn your place", every item on your desk must justify its
 
 ## Setup Examples by Budget
 
-### Budget (~$100)
+### Complete Entry Setup (~$100)
 
 | Item | Product | Price |
 |------|---------|-------|

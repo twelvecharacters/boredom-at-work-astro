@@ -14,7 +14,7 @@ faq:
   - question: "Can an ultrawide monitor replace two monitors?"
     answer: "A 34-inch ultrawide (3440x1440) has roughly the same horizontal space as two 24-inch monitors side by side, but less than two 27-inch monitors. A 38-inch or 49-inch ultrawide can fully replace a dual setup. The tradeoff is that you lose the physical bezel divider that helps your brain separate tasks, and window management requires more effort, you'll need a tiling tool like Rectangle (Mac) or FancyZones (Windows) to snap windows efficiently."
   - question: "How much does an ultrawide cost compared to two monitors?"
-    answer: "Two decent 27-inch 4K monitors cost around $480-900 total ($240-450 each). A good 34-inch ultrawide runs $600-1,020, while a 38-inch ultrawide costs $900-1,300. If you go for a 49-inch super ultrawide, expect $1,000-1,800. Dollar for dollar, dual monitors give you more screen real estate per pixel. But an ultrawide saves on cables, desk clutter, and mounting hardware, so the total cost gap narrows when you factor in accessories."
+    answer: "Two decent 27-inch 4K monitors cost around $480-900 in total ($240 to $450 per monitor). A good 34-inch ultrawide runs $600-1,020, while a 38-inch ultrawide costs $900-1,300. If you go for a 49-inch super ultrawide, expect $1,000-1,800. Dollar for dollar, dual monitors give you more screen real estate per pixel. But an ultrawide saves on cables, desk clutter, and mounting hardware, so the total cost gap narrows when you factor in accessories."
   - question: "Do ultrawide monitors work well for video calls?"
     answer: "They work fine, but screensharing can be awkward. When you share your full screen on a 34-inch ultrawide, viewers on standard monitors see a very wide, squished image with small text. The fix is to always share a specific window or app instead of your entire screen. Some apps like Zoom let you share a portion of your screen, which helps. For the video call itself, your webcam sits above a very wide display, which can create an odd eye-contact angle if you're looking at the far edges of the screen."
 ---
@@ -195,15 +195,12 @@ That said, when I was in a role with fewer calls and more writing/research, the 
 
 ### Specific recommendations
 
-**Best dual setup:** Two Dell P2725QE monitors (~$420 each) with a dual [monitor arm](/best-monitor-arms/). Total: ~$920. You get 4K, USB-C with 90W charging, and a built-in KVM switch on each monitor.
+**Best dual setup:** Two Dell P2725QE monitors (~$420 each) with a dual [monitor arm](/best-monitor-arms/). Combined dual price: ~$920. You get 4K, USB-C with 90W charging, and a built-in KVM switch on each monitor.
 
-**Best ultrawide:** [Dell U3425WE](https://www.dell.com/en-us/shop/computer-monitors/ultrawide-monitors) (~$1,020) with a heavy-duty single arm. Total: ~$1,100. You get 3440x1440, Thunderbolt 4 connectivity, and a gorgeous IPS Black panel.
+**Best ultrawide:** [Dell U3425WE](https://www.dell.com/en-us/shop/computer-monitors/ultrawide-monitors) (~$1,020) with a heavy-duty single arm. Combined ultrawide price: ~$1,100. You get 3440x1440, Thunderbolt 4 connectivity, and a gorgeous IPS Black panel.
 
-**Best budget dual:** Two Dell S2725QS (~$240 each) with a basic dual arm. Total: ~$520. No USB-C, but sharp 4K and a hard price to beat.
+**Best budget dual:** Two Dell S2725QS (~$240 each) with a basic dual arm. Combined budget dual price: ~$520. No USB-C, but sharp 4K and a hard price to beat.
 
-**Best budget ultrawide:** [LG 34WQ75C-B](https://www.lg.com/us/monitors/ultrawide-monitors) (~$600) on its stock stand. Total: ~$600. USB-C with 90W PD, solid build quality, and good color accuracy for the price.
-
-Whatever you choose, the monitor upgrade itself is what matters most. Going from a single laptop screen to *either* of these setups will transform how you work. The ultrawide-vs-dual question is just about fine-tuning an already massive improvement.
-
+**Best budget ultrawide:** [LG 34WQ75C-B](https://www.lg.com/us/monitors/ultrawide-monitors) (~$600) on its stock stand. Budget ultrawide total: ~$600. USB-C with 90W PD, solid build quality, and good color accuracy for the price.
 
  

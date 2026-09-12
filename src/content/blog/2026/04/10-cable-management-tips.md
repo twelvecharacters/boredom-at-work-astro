@@ -66,7 +66,7 @@ Most cable mess comes from excess length. That 6-foot power cable only needs 2 f
 
 You don't need dozens of products. These four handle 90% of situations.
 
-### 1. Under-Desk Cable Tray (~$20-40)
+### 1. Under-Desk Cable Tray (~$25-40)
 
 **What it does:** Holds your power strip and excess cables completely out of sight.
 
@@ -328,7 +328,7 @@ For those who want the cleanest possible look.
 Cable management doesn't require expensive products or professional skills. With a $45 starter kit and an hour of work, you can transform a messy desk into a clean, professional workspace.
 
 **Start here:**
-1. Get an under-desk cable tray (~$20)
+1. Get an under-desk cable tray (~$25)
 2. Get velcro ties (~$10)
 3. Get cable clips (~$10)
 4. Spend an hour on setup

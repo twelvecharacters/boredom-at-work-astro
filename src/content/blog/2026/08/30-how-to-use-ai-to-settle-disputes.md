@@ -149,8 +149,8 @@ Four friends are planning a trip together. Two want a luxury relaxing resort exp
 Act as an expert travel planner and mediator. Help a group of four friends resolve conflicting priorities for an upcoming group trip.
 
 BACKGROUND:
-- Traveler Group 1 (2 people): Wants a relaxing vacation with comfortable lodging, pool time, and structured dining experiences. Target budget: $250/day per person.
-- Traveler Group 2 (2 people): Wants an active, adventurous trip with hiking, cultural immersion, and street food. Target budget: $120/day per person.
+- Traveler Group 1 (2 people): Wants a relaxing vacation with comfortable lodging, pool time, and structured dining experiences. Luxury tier budget: $250/day per person.
+- Traveler Group 2 (2 people): Wants an active, adventurous trip with hiking, cultural immersion, and street food. Moderate tier budget: $120/day per person.
 
 YOUR TASK:
 1. Propose a hybrid 7-day itinerary that balances relaxation with adventure.

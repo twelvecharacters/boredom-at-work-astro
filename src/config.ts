@@ -27,8 +27,12 @@ export const AUTHOR = {
 
 export const NAV_ITEMS = [
   { label: 'Home', href: '/' },
-  { label: 'Contact', href: '/contact/' },
+  { label: 'AI Guides', href: '/learn-ai-guide/' },
+  { label: '3D Printing', href: '/3d-printing-guide/' },
+  { label: 'Desk Setup', href: '/desk-upgrade-guide/' },
   { label: 'Blog', href: '/blog/' },
+  { label: 'About', href: '/about/' },
+  { label: 'Contact', href: '/contact/' },
 ];
 
 export const CATEGORIES = [

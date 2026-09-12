@@ -68,7 +68,7 @@ The industry standard for a reason. Clean, fast, visual.
 
 The strongest charting platform with a solid screener built in.
 
-| Feature | Free | Plus (~$34/month) | Premium (~$60/month) |
+| Feature | Free | TradingView Plus (~$34/month) | TradingView Premium (~$60/month) |
 |---------|------|-------------------|---------------------|
 | Screening metrics | ~150 | ~150 | ~150 |
 | Technical indicators | 100+ | 100+ | 100+ |
@@ -84,7 +84,7 @@ The strongest charting platform with a solid screener built in.
 
 More of a research platform than a pure screener, but its quant ratings are valuable.
 
-| Feature | Free | Premium (~$20/month) |
+| Feature | Free | Seeking Alpha Premium (~$20/month) |
 |---------|------|---------------------|
 | Quant ratings | Limited | Full access |
 | Analyst ratings | Limited | Full access |

@@ -192,7 +192,7 @@ Busy professionals who want to stay market-literate without dedicating serious t
 
 ## 7. The Motley Fool, Best for Long-Term Investors
 
-**Price:** Articles free / Stock Advisor: ~$99-199/yr | **Platforms:** iOS, Android, Web
+**Price:** Articles free / Stock Advisor service: ~$99-199/yr | **Platforms:** iOS, Android, Web
 
 The Motley Fool has been around since 1993, which makes it ancient by internet standards. But unlike most financial media that chases daily headlines, Motley Fool has always been about long-term investing, buying quality companies and holding them for years, not minutes.
 

@@ -258,7 +258,7 @@ Both are viable:
 - **Used DSLR:** More selection, lower prices, but older technology
 - **Used Mirrorless:** Less selection, higher prices, but modern features
 
-For tight budgets, used DSLR offers better value. For moderate budgets, used mirrorless (Nikon Z50/Z50 II, Sony A6100) offers more capability.
+For tight budgets, used DSLR offers better value. For moderate budgets, used mirrorless (used Z50/Z50 II, Sony A6100) offers more capability.
 
 ## The Bottom Line
 
