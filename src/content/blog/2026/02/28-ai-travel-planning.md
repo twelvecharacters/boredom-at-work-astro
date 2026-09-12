@@ -1,8 +1,9 @@
 ---
-title: "AI Travel Planning: Complete Guide to AI Trip Planning"
+title: "AI Travel Planning Guide: Best Tools, Prompts & Workflows"
 slug: "ai-travel-planning"
-description: "Master AI-powered trip planning with our comprehensive guide. Learn what AI travel planning is, which tools to use, and how to save 10+ hours on your next trip."
+description: "Save 10+ hours on your next trip. Discover how to use ChatGPT, Claude, and Perplexity for itineraries, budget optimization, and flight planning in 2026."
 publishDate: 2026-02-28
+updatedDate: 2026-09-12
 author: "Mehdi"
 image: "./28-ai-travel-planning.webp"
 imageAlt: "Illustration showing AI travel planning with map and itinerary elements"
@@ -28,6 +29,18 @@ Planning a trip used to mean dozens of browser tabs, hours of research, and a sp
 This comprehensive hub covers everything you need to master AI-powered travel planning, whether you're a complete beginner or looking to level up your existing workflow.
 
 ---
+
+## Quick Picks: Best AI Travel Tools at a Glance
+
+| AI Travel Tool | Best For | Real-Time Pricing / Data | Hallucination Risk | Cost |
+| :--- | :--- | :--- | :--- | :--- |
+| **Perplexity AI** | Live flight, hotel & transit research | **Live Web Sources** | Low (Citations provided) | Free / $20 Pro |
+| **ChatGPT (Plus)** | Creative day-by-day itineraries | Moderate | Medium (Verify open hours) | Free / $20 Plus |
+| **Claude (Sonnet)** | Deep cultural guides & structured packing | Moderate | Low (Logical coherence) | Free / $20 Pro |
+| **Google Gemini** | Google Maps & Gmail integration | **Live Google Data** | Low (Direct mapping) | Free / $20 Adv |
+
+---
+
 
 ## What Is AI Travel Planning?
 

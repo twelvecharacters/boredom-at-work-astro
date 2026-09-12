@@ -1,8 +1,9 @@
 ---
-title: "Justway Review 2026: Is This 3D Printing Service Worth It?"
+title: "Justway Review 2026: Tested Pricing, Quality & Lead Times"
 slug: "justway-review"
-description: "Justway review 2026: on-demand 3D printing, CNC, sheet metal, and injection molding. Pricing, lead times, and how it compares to PCBWay, JLCPCB, and Xometry."
+description: "Wondering if Justway is legit? Read our honest 2026 review covering on-demand 3D printing, CNC machining, turnaround speeds, and comparisons with JLCPCB."
 publishDate: 2026-05-10
+updatedDate: 2026-09-12
 author: "Mehdi"
 image: "./10-justway-review.webp"
 imageAlt: "3D-printed PLA parts arranged on a wooden desk next to a digital caliper, technical drawing with print specs, and a desktop FDM 3D printer"
@@ -30,6 +31,19 @@ If you've ever tried to get a custom part made, whether it's a 3D-printed protot
 [Justway](https://www.justway.com/?from=BC2026B) is one of the platforms in the second camp. It's a China-based, on-demand manufacturing service that handles five different production methods under one roof. The question is: how does it actually compare to the better-known names like PCBWay, JLCPCB, and Xometry?
 
 I spent time on the platform, ran quotes through their system, and dug into their service offering. Here's what I found.
+
+---
+
+## Quick Picks: Justway Manufacturing at a Glance
+
+| Manufacturing Process | Starting Price | Typical Lead Time | Supported Materials | Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **3D Printing (FDM/SLA/SLS)** | From $1 / part | 3–4 business days | PLA, Resin, Nylon, Metal | Rapid prototypes & complex geometries |
+| **CNC Machining (3 & 5-axis)** | From $9 / part | 7–9 business days | Aluminum, Brass, Steel, Delrin | Functional mechanical parts & enclosures |
+| **Sheet Metal Fabrication** | From $9 / part | 7–9 business days | Aluminum, Stainless Steel | Brackets, panels & custom chassis |
+| **Injection Molding** | Custom tooling | ~14 business days | ABS, PC, PP, POM | Small to mass production (100+ units) |
+
+---
 
 ## Justway at a Glance
 
