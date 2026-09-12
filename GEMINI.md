@@ -9,23 +9,41 @@ This document outlines the foundational standards and architectural goals for th
 - **Build Scripts:** Maintain `pnpm-workspace.yaml` to explicitly allow necessary build scripts (e.g., `esbuild`, `sharp`).
 - **Dependencies:** Use `pnpm install --frozen-lockfile` in CI/CD to ensure consistent environments.
 
-### Asset Management
+### Asset Management & Image Processing
 - **Optimization:** Use Astro's native `astro:assets` (`<Image />` and `<Picture />`) for images in `.astro` components.
 - **Markdown Images:** For blog posts, use the `image` and `imageAlt` frontmatter fields to handle the hero image automatically. Store content-related images relative to the article in the same folder (`YYYY/MM/`). This allows for co-location of assets and easier content portability.
+- **Hero Image Specifications:**
+  - **Format:** WebP (`.webp`)
+  - **Dimensions:** Max 1200px width/height
+  - **Quality:** Q75
+  - **File Size Target:** 150–200 KB max (convert with sharp/cwebp)
 
 ### Content Strategy & Topic Clustering
 - **Structure:** Blog articles are organized in subdirectories (e.g., `src/content/blog/YYYY/MM/`). Store the markdown file and its associated images together in the same directory.
 - **Frontmatter:** All blog articles must include the `imageAlt` field for their featured image to ensure proper Schema.org JSON-LD generation and accessibility. Titles should be <= 60 characters (primary keyword at the front) and meta descriptions 150-160 characters to avoid SERP truncation. Articles must have **maximum 4 tags** (strictly relevant and focused, avoiding tag bloat).
 - **Slug Management:** Favor the explicit `slug` field in blog frontmatter over directory-based IDs.
+- **Publication Scheduling:** Always confirm publication date with the user before publishing a new article (sets `publishDate`).
+- **Initial Publication vs Update (`updatedDate`):** 
+  - On initial publication, **NEVER set `updatedDate`** (frontmatter must only contain `publishDate`).
+  - `updatedDate == publishDate` is strictly forbidden (causes a misleading "Updated" badge) and is blocked by `content-lint.js`.
+  - Only add or update `updatedDate: YYYY-MM-DD` during genuine subsequent content revisions or major refreshes.
 - **Above-the-Fold Quick Picks (Retention):** Every buying guide, comparison, or listicle must include a structured **"Quick Picks: Best [Topic] at a Glance"** section directly below the introductory paragraph and before the in-depth content. Pull a concise comparison table to the top so visitors scanning on mobile immediately get key choices within 3–5 seconds, minimizing bounce rate.
 - **Title & Heading Strict Alignment:** If an article title promises N items (e.g., `6 Best CAD Software...`), the article MUST deliver exactly N numbered H2 headings. Non-numbered conceptual sections (like tips, FAQs, or buying advice) must not use numbered prefixes.
-- **Article Freshness Lifecycle (`updatedDate`):** Whenever revising an existing article with new recommendations, structural changes, or price updates, explicitly set or update the `updatedDate: YYYY-MM-DD` field in frontmatter to the current date to boost SERP freshness and keep Schema.org JSON-LD accurate.
 - **Topic Clusters & Pillar Boost:** All topical articles must actively link back to their respective Master Hub/Pillar Page (`/learn-ai-guide/`, `/chatgpt-guide/`, `/3d-printing-guide/`, `/desk-upgrade-guide/`, `/investing-tools-guide/`, `/photography-guide/`, `/ai-travel-planning/`) via contextual callout boxes or in-content recommendations.
 - **Homepage Pillar Integration:** The homepage (`src/pages/index.astro`) must maintain direct, 1-click links to all cornerstone Pillar Guides (`MasterGuidesGrid.astro`) to maximize Link Equity (PageRank) transfer.
-- **Internal Linking Rules:** Actively generate internal links, but ONLY point to preceding/previously published articles (never to future-dated ones) to avoid dead ends. Ensure no dead links. **Always use canonical slug paths with trailing slashes** (e.g. `[Text](/slug/)`), NEVER link to file paths, date-prefixed paths (like `/2026/08/08-article`), or subpaths with `/blog/` prefixes. The `remarkFilterUnpublishedLinks` plugin in `astro.config.mjs` prevents leaking links to draft or future-dated content. Structure clusters with clear intent to avoid keyword cannibalization.
-- **Language & Formatting:** Always use **American English** (e.g., "color", "realize", "center"). Strictly avoid em-dashes (—); use commas or parentheses instead per the repo's em-dash-free rule. Standard `.md` articles must not contain raw JSX expressions (use `.mdx` if interactive Astro/React components or JSX expressions are explicitly needed).
+- **Internal Linking Rules:** Actively generate internal links, but ONLY point to preceding/previously published articles (never to future-dated ones) to avoid dead ends. Ensure no dead links. **Always use canonical slug paths with trailing slashes** (e.g. `[Text](/slug/)`), NEVER link to file paths, date-prefixed paths (like `/2026/08/08-article`), or subpaths with `/blog/` prefixes. The `checkInternalLinks` lint rule strictly enforces real slugs and trailing slashes. The `remarkFilterUnpublishedLinks` plugin in `astro.config.mjs` prevents leaking links to draft or future-dated content. Structure clusters with clear intent to avoid keyword cannibalization.
+- **Language & Formatting:** Always use **American English** (e.g., "color", "realize", "center", "judgment"). Strictly avoid em-dashes (—); use commas, parentheses, or colons instead per the repo's em-dash-free rule. Standard `.md` articles must not contain raw JSX expressions (use `.mdx` if interactive Astro/React components or JSX expressions are explicitly needed).
 - **No ASCII Diagrams:** Strictly avoid ASCII art boxes, ASCII diagrams, or text-based drawings in articles. Use standard Markdown tables, styled blockquotes, or bulleted lists instead for clean mobile and desktop rendering.
 - **Quality Standard:** NO "thin content" is allowed. ALL posts MUST be at least **1600+ words**.
+- **YMYL & Compliance Disclaimers:** Every Finance and Investing article must include the disclaimer: *"This article is for educational purposes only and does not constitute financial advice."*
+
+### Fact-Checking & AI Model Registry
+- **Fact-Check First:** Never invent dates, prices, specifications, or model names. Always verify claims against official manufacturer sources or documentation before writing. Flag uncertain facts with `[VERIFY]` markers.
+- **AI Model Registry (`scripts/data/ai-models.json`):**
+  - Every AI model name (Gemini, Claude, GPT) used in articles must be registered in `scripts/data/ai-models.json`.
+  - `content-lint.js` (`checkModelNames`) rejects unregistered or fabricated model names as an **Error** locally and in CI.
+  - Adding new models requires reading the vendor's official release page/pricing card and recording a verified date (`verifiedAt`).
+- **Pre-Commit Hook:** Do not bypass the `.git/hooks/pre-commit` fact-check verification hook.
 
 ### Styling & CSS
 - **Tailwind 4:** Use Tailwind CSS 4 features and modern CSS variables.
@@ -55,7 +73,7 @@ This document outlines the foundational standards and architectural goals for th
 
 ## 4. Development & Intelligence Workflow
 
-- **Content Linting:** Run `pnpm run lint:content:fix` before major updates to ensure frontmatter, em-dash removal, and price consistency (0 errors before committing).
+- **Content Linting:** Run `pnpm run lint:content:fix` before major updates to ensure frontmatter, em-dash removal, price consistency, and internal slug validity (0 errors before committing).
 - **Traffic & User Intelligence:** Run `pnpm run traffic:ga4` (or `node scripts/ga4-traffic.js --pages`, `--sources`, `--outbound`, `--devices`) to monitor core user engagement, track referral traffic from AI assistants (ChatGPT, Claude, Perplexity), and identify high-bounce articles for quick-picks restructuring.
 - **Search Traffic Monitoring:** Run `pnpm run traffic` to pull combined Google Search Console + Bing metrics and identify CTR low-hanging fruits.
 - **Build Validation:** Always run a full `pnpm run build` to verify Pagefind indexing and Sitemap generation.
