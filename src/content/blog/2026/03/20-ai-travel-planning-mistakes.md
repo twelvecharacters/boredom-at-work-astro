@@ -3,7 +3,7 @@ title: "9 Ways AI Gets Your Travel Plans Wrong"
 slug: "ai-travel-planning-mistakes"
 description: "Closed restaurants, impossible transfers, invented opening hours. The nine failures we hit most often when planning trips with AI, and how to catch each one."
 publishDate: 2026-03-20
-updatedDate: 2026-08-28
+updatedDate: 2026-09-13
 author: "Mehdi"
 image: "./20-ai-travel-mistakes.webp"
 imageAlt: "Illustration showing common AI travel planning mistakes to avoid"
@@ -63,7 +63,7 @@ AI doesn't understand:
 
 **What happens**: AI recommends a restaurant, you show up hungry, and... it's been closed for months. Or the hours have changed. Or it moved.
 
-Studies show 90% of AI itineraries contain at least one error, and business information is often the culprit.
+The scale is measurable. In a September 2026 [data study](https://monkeyeatingmango.com/research/ai-itinerary-errors-data-study/) of 356 AI-generated itineraries, trip-planner MonkeyEatingMango found a verifiable fault on 43% of the 2,735 planned days. The most common one was a venue scheduled outside its opening hours, on nearly a quarter of all days, and half of the closed-day cases fell on a Monday. The numbers come from the company's own planner, so treat them as directional, but business information is clearly the weak spot.
 
 **Why it happens**: AI's knowledge has a cutoff date. Restaurants open and close constantly. Hours change seasonally. COVID permanently changed many businesses.
 
