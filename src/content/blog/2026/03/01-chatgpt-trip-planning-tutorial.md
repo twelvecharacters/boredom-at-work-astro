@@ -3,6 +3,7 @@ title: "Your First AI-Planned Trip with ChatGPT (2026)"
 slug: "chatgpt-trip-planning-tutorial"
 description: "A beginner-friendly tutorial for planning your first trip with ChatGPT. Follow along step-by-step from your first prompt to a complete travel itinerary."
 publishDate: 2026-03-01
+updatedDate: 2026-09-13
 author: "Mehdi"
 image: "./01-chatgpt-trip-planning-tutorial.webp"
 imageAlt: "Step-by-step tutorial for planning a trip with ChatGPT"
@@ -23,7 +24,7 @@ howTo:
       text: "Ask ChatGPT to add transportation, restaurant reservations, dietary requirements, and a pre-trip packing checklist."
 faq:
   - question: "Can AI really plan a good trip?"
-    answer: "Yes, AI can create solid travel itineraries, but you should always verify details like opening hours, prices, and distances. A 2024 study found 90% of ChatGPT-generated itineraries contained at least one error, verification is essential."
+    answer: "Yes, AI can create solid travel itineraries, but you should always verify details like opening hours, prices, and distances. In a 2026 study of 356 AI-generated itineraries by trip-planner MonkeyEatingMango, 43% of planned days contained a verifiable error, so verification is essential."
   - question: "Is ChatGPT or a dedicated trip planner better?"
     answer: "ChatGPT offers more flexibility and conversation, while dedicated planners like Mindtrip or Wanderlog have built-in booking features. Use ChatGPT for brainstorming and planning, dedicated tools for booking and organization."
   - question: "How much time can AI save in travel planning?"

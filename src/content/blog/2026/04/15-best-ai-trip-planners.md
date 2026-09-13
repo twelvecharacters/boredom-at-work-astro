@@ -3,7 +3,7 @@ title: "Best AI Trip Planners 2026: 10 Tools Compared"
 slug: "best-ai-trip-planners"
 description: "We tested the top AI trip planners to find the best one for your travel style. Mindtrip, Wanderlog, Layla, and more, here's our honest ranking."
 publishDate: 2026-04-15
-updatedDate: 2026-08-23
+updatedDate: 2026-09-13
 author: "Mehdi"
 image: "./15-best-ai-trip-planners.webp"
 imageAlt: "Collection of AI trip planner app interfaces on a laptop screen"
@@ -254,7 +254,7 @@ We tested 8 popular AI trip planners by creating the same itinerary on each: a 1
 
 ## 10. [MonkeyEatingMango](https://monkeyeatingmango.com) - Best for Planning Without a Signup
 
-**What it is**: A free itinerary generator that skips the chat window entirely. You answer eight click-through questions (destination, dates, pace, budget, interests), and about two minutes later you have a day-by-day plan with a food guide, budget breakdown, and weather notes. No account, no email, no signup.
+**What it is**: A free itinerary generator that skips the chat window entirely. You answer eight click-through questions (destination, dates, pace, budget, interests), and about two minutes later you have a day-by-day plan with a food guide, budget breakdown, and weather notes. No account, no email, no signup. In September 2026 the company published a [data study](https://monkeyeatingmango.com/research/ai-itinerary-errors-data-study/) of 356 of its own AI-generated itineraries: 43% of planned days carried a verifiable fault, most often a venue scheduled outside its opening hours. It is the company's own telemetry, but it shows why the opening-hours check is the feature that matters.
 
 **What we loved**:
 - Genuinely no signup. You reach a finished plan without handing over an email address, which almost nothing else here does
