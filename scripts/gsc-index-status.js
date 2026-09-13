@@ -105,7 +105,7 @@ async function withRetry(fn, label, tries = 4) {
   for (let i = 0; i < tries; i++) {
     try {
       const res = await fn();
-      if (res && res.status && (res.status === 429 || res.status >= 500) && i < tries - 1) {
+      if (res && res.status && (res.status === 429 || res.status === 401 || res.status === 403 || res.status >= 500) && i < tries - 1) {
         lastErr = new Error(`HTTP ${res.status}`);
       } else {
         return res;
@@ -266,6 +266,19 @@ const byState = new Map();
 for (const r of results) {
   const key = r.error ? `ERROR: ${r.error}` : r.coverage;
   byState.set(key, (byState.get(key) || 0) + 1);
+}
+
+// Am 13.9.2026 lieferte die API fuer 251 von 255 URLs HTTP 401 (transienter
+// Auth-Ausfall, Minuten spaeter alles gruen). Der Report meldete brav "1 indexiert"
+// und launchd zeigte Erfolg. Ein Lauf, in dem mehr als ein Fuenftel der Abfragen
+// scheitert, ist kein Report, sondern ein Fehler: laut abbrechen.
+const errorCount = results.filter((r) => r.error).length;
+if (results.length >= 10 && errorCount > results.length / 5) {
+  console.error(`\nABBRUCH: ${errorCount} von ${results.length} Abfragen fehlgeschlagen.`);
+  for (const [state, count] of [...byState.entries()].sort((a, b) => b[1] - a[1]).slice(0, 4)) {
+    console.error(`  ${String(count).padStart(4)}  ${state}`);
+  }
+  process.exit(2);
 }
 
 console.log('\nINDEXSTATUS');
