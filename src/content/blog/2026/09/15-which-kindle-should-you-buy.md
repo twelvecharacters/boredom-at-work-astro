@@ -3,7 +3,6 @@ title: "Which Kindle Should You Buy in 2026? Full Lineup Compared"
 slug: "which-kindle-should-you-buy"
 description: "Which Kindle should you buy in 2026? Compare the base Kindle, Paperwhite, Colorsoft, and Scribe by price, screen, and use case, with a pick for every reader."
 publishDate: 2026-09-15
-updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./15-which-kindle-should-you-buy.webp"
 imageAlt: "The current Kindle lineup compared: base Kindle, Paperwhite, Colorsoft, and Scribe side by side"
