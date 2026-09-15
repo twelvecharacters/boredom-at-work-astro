@@ -3,7 +3,7 @@ title: "Best ChatGPT Custom Instructions 2026: Templates & Setup"
 slug: "chatgpt-custom-instructions"
 description: "Discover the best ChatGPT custom instructions in 2026. Copy-paste battle-tested templates for work, coding, writing, and daily productivity in 5 minutes."
 publishDate: 2026-02-13
-updatedDate: 2026-08-16
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./13-chatgpt-custom-instructions.webp"
 imageAlt: "ChatGPT custom instructions settings panel on a screen"
@@ -35,6 +35,8 @@ faq:
   - question: "Can I have different custom instructions for different tasks?"
     answer: "Not directly, but you can use Custom GPTs (Plus) for different contexts, or manually update your instructions when switching between work modes. Some users keep a notes file with different instruction sets to copy-paste."
 ---
+
+**Custom instructions turn ChatGPT from a stranger into an assistant that already knows your job, your tone, and what to leave out. Setting them up takes five minutes, and the templates below are copy-paste ready for work, coding, writing, and daily planning.** Two fields matter: what ChatGPT should know about you, and how it should respond. Fill both, and every conversation starts halfway done.
 
 Most people use ChatGPT like a stranger, starting every conversation from zero. But there's a better way.
 

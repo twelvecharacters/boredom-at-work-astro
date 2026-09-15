@@ -3,6 +3,7 @@ title: "How to Use AI in Google Sheets (Practical Guide)"
 slug: "ai-for-google-sheets"
 description: "Learn how to use Gemini, ChatGPT, and AI add-ons in Google Sheets to write complex formulas, clean messy data, and automate tedious spreadsheet tasks fast."
 publishDate: 2026-07-02
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./02-ai-for-google-sheets.webp"
 imageAlt: "AI assistant generating formulas in a Google Sheets spreadsheet"
@@ -18,6 +19,8 @@ faq:
   - question: "Does AI in Google Sheets make mistakes with formulas?"
     answer: "Yes, frequently. AI-generated formulas can reference wrong columns, use incorrect syntax, or break on edge cases like blank cells and mixed data types. Always test AI formulas on a small sample first, check the output against a few rows you can verify manually, and save a version before applying bulk changes."
 ---
+
+**Gemini in Sheets handles formulas and summaries without leaving the tab; ChatGPT is better for messy cleanup jobs like 3,000 rows of inconsistent product names; dedicated add-ons make sense once you run the same prompt over hundreds of rows.** The guide below is built around one real spreadsheet and shows the prompt, the result, and the fix for each step.
 
 Last week I had a spreadsheet with 3,000 rows of messy sales data. Different date formats, inconsistent product names ("Tshirt" vs "T-Shirt" vs "t shirt"), and a column where someone had mixed currencies with plain numbers. Cleaning it up manually would have taken me two hours, easy.
 

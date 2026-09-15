@@ -3,6 +3,7 @@ title: "How to Use AI at Work Safely: A Practical 2026 Guide"
 slug: "how-to-use-ai-at-work-safely"
 description: "Practical guide to using AI tools at work safely, company policies, data privacy, disclosure rules, and the common mistakes that get people fired."
 publishDate: 2026-02-20
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./20-how-to-use-ai-at-work-safely.webp"
 imageAlt: "Illustration showing safe AI usage practices in an office setting"
@@ -16,6 +17,8 @@ faq:
   - question: "Is it cheating to use AI for work?"
     answer: "No more than using a calculator is cheating at math. AI is a tool. The key is using it appropriately, disclosing when required, and ensuring quality. The work product is still your responsibility."
 ---
+
+**Three rules keep you out of trouble: never paste confidential data into a public AI tool, disclose AI use where your company policy or the task requires it, and check every fact before it leaves your hands.** Most people who got fired over AI broke the first rule. The guide below turns the three rules into a checklist you can apply to any tool, including the ones your company has not approved yet.
 
 AI can make you dramatically more productive at work. It can also get you fired if you use it wrong.
 

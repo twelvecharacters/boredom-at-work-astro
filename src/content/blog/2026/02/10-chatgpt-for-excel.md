@@ -3,7 +3,7 @@ title: "Excel Formulas From Plain English: The ChatGPT Workflow"
 slug: "chatgpt-for-excel"
 description: "Describe what you need, get a working formula back. How to use ChatGPT for Excel formulas, spreadsheet analysis and macros, with examples you can copy."
 publishDate: 2026-02-10
-updatedDate: 2026-08-28
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./10-chatgpt-for-excel.webp"
 imageAlt: "ChatGPT generating Excel formulas on a laptop next to a spreadsheet"
@@ -18,6 +18,8 @@ faq:
   - question: "Is ChatGPT better than Copilot for Excel?"
     answer: "Different tools for different needs. Copilot works inside Excel with live data integration. ChatGPT is better for learning, complex formula help, and when you need detailed explanations. Many users use both."
 ---
+
+**Describe the result you want in plain English, paste the formula ChatGPT returns into the sheet, and check it on one row before trusting it.** That workflow covers formulas, data cleaning, and macros without learning syntax. ChatGPT does not run inside Excel; it is the consultant next to it, and the examples below show exactly how to phrase a request so the first answer works.
 
 Excel formulas used to require memorizing cryptic syntax or endless Googling. Now you can just ask ChatGPT.
 

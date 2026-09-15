@@ -3,7 +3,7 @@ title: "Microsoft Copilot Review: Is It Worth $30/Month?"
 slug: "microsoft-copilot-review"
 description: "Honest review of Microsoft 365 Copilot after months of use. What it does well, where it fails, and whether it's worth the steep price tag."
 publishDate: 2026-02-11
-updatedDate: 2026-04-05
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./11-microsoft-copilot-review.webp"
 imageAlt: "Microsoft Copilot interface in a Word document on a laptop screen"
@@ -23,6 +23,8 @@ faq:
   - question: "Can individuals buy Microsoft Copilot?"
     answer: "Yes. Since January 2025, Copilot is included in Microsoft 365 Personal ($9.99/mo) and Family ($12.99/mo) plans. For heavier usage, Microsoft 365 Premium ($19.99/mo) offers enhanced Copilot access. The free Copilot in Windows, Edge, and Bing is also available with fewer features."
 ---
+
+**Copilot is worth it if your work lives in Outlook, Teams, Word, and Excel, and not otherwise.** For consumers it now comes with Microsoft 365 Premium at $19.99 a month; for organizations Microsoft 365 Copilot costs $30 per user per month. At both prices the value is integration, not intelligence: for pure writing and analysis, Claude and ChatGPT are better. The review below is months of daily use, task by task.
 
 Microsoft Copilot promises to revolutionize how you work with Office apps. After using it daily for several months, I can tell you: it's genuinely useful, occasionally magical, and frustratingly inconsistent.
 
