@@ -20,6 +20,8 @@ faq:
     answer: "The Kobo Libra Colour has physical page-turn buttons, as do the larger Sage and Elipsa 2E. The compact Clara models do not. Buttons are a big reason readers choose Kobo over Kindle, since no current Kindle offers them."
 ---
 
+**For most people the Kobo Libra Colour ($229.99) is the best Kobo: a 7-inch color screen, physical page-turn buttons, and waterproofing.** Choose the Kobo Clara BW ($139.99) to save money, the Clara Colour ($159.99) for color on a budget, or the Elipsa 2E for note-taking on a large screen. Kobo's edge over Kindle is built-in library borrowing and native EPUB support, and the guide below says when that edge is worth switching for.
+
 Kobo is the strongest alternative to the Kindle, and for some readers it is the better choice: it has built-in library borrowing, native EPUB support, and physical page-turn buttons that Amazon no longer offers on any Kindle. But Kobo's lineup can be just as confusing as Amazon's. Here is which model to buy.
 
 (Deciding between the two brands first? Read our [Kindle vs Kobo comparison](/kindle-vs-kobo/) and the head-to-head [Kindle Paperwhite vs Kobo Clara BW](/kindle-paperwhite-vs-kobo-clara/).)

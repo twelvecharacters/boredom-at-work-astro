@@ -3,6 +3,7 @@ title: "How to Install KOReader on a Kindle (2026 Guide)"
 slug: "install-koreader-kindle"
 description: "Step-by-step 2026 guide to installing KOReader on a jailbroken Kindle: prerequisites, the safe install method, EPUB and PDF support, and the risks."
 publishDate: 2026-08-11
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./11-install-koreader-kindle.webp"
 imageAlt: "A Kindle running KOReader showing the document library menu"
@@ -17,6 +18,8 @@ faq:
   - question: "Can KOReader brick my Kindle?"
     answer: "KOReader running normally will not brick your Kindle. Problems almost always come from a botched jailbreak or from updating firmware after modding. Follow current community instructions, never interrupt the install, and don't let your Kindle auto-update, and the risk is minimal."
 ---
+
+**KOReader gives a Kindle native EPUB and PDF support, custom fonts, and margins Amazon will not let you set. It requires a jailbroken Kindle, so rule one is: never update the firmware if you plan to install it.** Once the jailbreak is in place, the install itself takes about ten minutes, and the guide below walks through it with the checks that prevent a bricked device.
 
 If you've ever wanted to read EPUB files natively, fix awkward formatting and margins, or open a massive PDF or comic book on your Kindle without fighting Amazon's proprietary software, **KOReader** is the ultimate answer. It is a free, deeply customizable, open-source document reader that turns a locked-down, ecosystem-restricted Kindle into one of the most flexible and powerful e-readers you can own.
 

@@ -20,6 +20,8 @@ faq:
     answer: "Yes. Kids editions come with parental controls set up out of the box, letting you manage content, set reading goals, and see progress. Amazon Kids+ also filters the library to age-appropriate titles."
 ---
 
+**For most families the Kindle Kids ($129.99) is the best choice: the same reader as the base Kindle plus a kid-proof cover, a two-year worry-free guarantee, parental controls, and Amazon Kids+ content.** Step up to the Paperwhite Kids ($179.99) for a bigger, waterproof screen with a warm light, or the Colorsoft Kids ($269.99) for younger kids who want color. The guide below explains what the Kids bundle actually adds over buying the plain device and a case.
+
 A Kindle is one of the best ways to get a child reading more, without the games, videos, and endless distractions of a tablet. But Amazon sells several Kids editions, and it is not obvious which one is right. Here is how to choose.
 
 (For the grown-up models and the full range, see [which Kindle should you buy](/which-kindle-should-you-buy/). Buying for an older student instead? Our [best Kindle for students](/best-kindle-for-students/) guide covers that.)

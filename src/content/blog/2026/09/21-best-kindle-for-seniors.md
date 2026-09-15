@@ -20,6 +20,8 @@ faq:
     answer: "For reading, a Kindle is usually better. The glare-free e-ink screen is gentler on the eyes than a tablet's backlit display, the battery lasts weeks, and there are no apps, pop-ups, or notifications to cause confusion. A tablet is only better if they also want video, email, and web browsing."
 ---
 
+**For most seniors the Kindle Paperwhite ($159.99) is the best choice: a roomy 7-inch screen, an adjustable warm light, and large, crisp fonts.** Pick the base Kindle ($109.99) to save money, or the large-screen Scribe if eyesight is the real concern and the budget allows. The guide below also covers the setup steps that make a Kindle easy for someone who has never used one.
+
 Buying a Kindle for an older parent, grandparent, or yourself? It is one of the best gifts you can give a lifelong reader. Adjustable fonts, a glare-free screen, and a light that is easy on tired eyes make reading comfortable again, often more comfortable than a paper book.
 
 But the lineup has grown, and not every Kindle is equally senior-friendly. Here is which one to get, and why. (For the full range side by side, see our [which Kindle should you buy](/which-kindle-should-you-buy/) guide.)

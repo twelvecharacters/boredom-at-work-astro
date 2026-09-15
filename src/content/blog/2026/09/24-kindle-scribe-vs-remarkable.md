@@ -20,6 +20,8 @@ faq:
     answer: "Not to use it, but reMarkable heavily promotes its Connect subscription for handwriting conversion, unlimited cloud sync, and mobile and desktop apps. The Kindle Scribe has no equivalent required subscription, though a book service like Kindle Unlimited is optional."
 ---
 
+**Buy the Kindle Scribe (from $429.99) if you want one device for reading Amazon books and taking notes, with a built-in warm light. Buy the reMarkable (from $379) if writing is the priority and you want the most paper-like feel, knowing it is a weak e-reader and nudges you toward a subscription.** For color notes, the reMarkable Paper Pro ($579) stands alone. The comparison below tests both on the same reading and writing tasks.
+
 Both the Kindle Scribe and the reMarkable let you read and write on a large e-ink screen with a stylus. They look similar in photos. But they are built around very different ideas, and picking the wrong one is an expensive mistake. Here is how to choose.
 
 (If you are not sure a big writing tablet is what you need at all, our [Kindle Scribe review](/kindle-scribe-review/) covers whether it is worth it just for work notes, and [which Kindle should you buy](/which-kindle-should-you-buy/) covers the smaller reading-focused models.)

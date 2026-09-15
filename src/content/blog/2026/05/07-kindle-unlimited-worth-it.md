@@ -3,6 +3,7 @@ title: "Is Kindle Unlimited Worth It? I Did the Math (2026)"
 slug: "kindle-unlimited-worth-it"
 description: "I tracked 6 months of reading and crunched the numbers. Here's whether Kindle Unlimited is worth $11.99/month, and who should skip it."
 publishDate: 2026-05-07
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./07-kindle-unlimited-worth-it.webp"
 imageAlt: "Kindle with Unlimited catalog and cost breakdown illustration"
@@ -18,6 +19,8 @@ faq:
   - question: "Can I use Kindle Unlimited without a Kindle device?"
     answer: "Yes. Kindle Unlimited works on the free Kindle app for iOS, Android, Mac, and PC. You don't need a Kindle e-reader, though the reading experience is better on one."
 ---
+
+**Kindle Unlimited is worth $11.99 a month only if you read at least two of its titles a month and the books you actually want are in the catalog, which excludes most new releases from the big publishers.** The test is simple: start the 30-day free trial, search for ten books you would read, and keep it only if seven or more show up. The math below covers the $144-a-year break-even against buying and borrowing.
 
 Every time I see the Kindle Unlimited pitch, "4+ million titles for $11.99/month", the same question pops into my head: is this actually a good deal, or is it a subscription trap?
 

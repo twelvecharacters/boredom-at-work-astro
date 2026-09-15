@@ -2,6 +2,7 @@
 title: "Best Kindle for Students 2026: Which Model to Buy"
 description: "The best Kindle for students in 2026, ranked by budget, note-taking, and PDF support. Real picks for grad students, STEM majors, and casual readers."
 publishDate: 2026-08-07
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./07-best-kindle-for-students.webp"
 imageAlt: "Kindle e-reader on a desk next to textbooks, notebooks, and a coffee cup in a student study setup"
@@ -19,6 +20,8 @@ faq:
   - question: "Do students get a discount on Kindles?"
     answer: "Amazon does not offer a permanent student-specific Kindle discount, but Prime Student members get the same Prime Day and seasonal deals as full Prime members, where Kindles routinely drop in price. Back-to-school sales in August and Prime Day events are the best windows to buy."
 ---
+
+**The Kindle Paperwhite ($159.99) is the best Kindle for most students; the Scribe (from $399.99) is worth it only if you annotate textbooks and PDFs; the base Kindle ($109.99) covers a reading list that is mostly novels.** Small screens shrink textbook PDFs into constant zooming, which is why the 10.2-inch Scribe is the only Kindle that works for STEM and grad students. Prices as of June 2026.
 
 An e-reader is one line item on a longer list, and our [best back to school tech gadgets](/best-back-to-school-tech-gadgets/) covers the rest of the kit.
 

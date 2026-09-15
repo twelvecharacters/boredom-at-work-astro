@@ -3,7 +3,7 @@ title: "Kindle or iPad: Which One You Actually Read On"
 slug: "kindle-vs-ipad-reading"
 description: "Screen, battery, weight, distractions and price side by side, and the honest question underneath: which of the two you will still be reading on in a year."
 publishDate: 2026-05-14
-updatedDate: 2026-08-28
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./14-kindle-vs-ipad-reading.webp"
 imageAlt: "Side-by-side comparison of Kindle and iPad for reading books"
@@ -17,6 +17,8 @@ faq:
   - question: "Is the Kindle Paperwhite worth it over the basic Kindle?"
     answer: "Yes, for most people. The Paperwhite has a larger 7-inch screen, is waterproof, and has a better front light. The $50 price difference is worth it if you read regularly. See our full guide on whether a Kindle is worth it for more details."
 ---
+
+**For reading books, a Kindle wins on eye comfort, weight, battery, and the absence of notifications; an iPad wins the moment you need color, PDFs, comics, or anything beyond books.** A Paperwhite costs about $160 against $350 and up for an iPad, and it lasts weeks per charge rather than a day. If you already own an iPad and read a book a month, you do not need a Kindle; if you read every night, you will read more on one.
 
 This is a question I hear constantly: **should I buy a Kindle or just read on my iPad?**
 
