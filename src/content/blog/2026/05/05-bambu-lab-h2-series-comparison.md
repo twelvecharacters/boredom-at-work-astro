@@ -2,6 +2,7 @@
 title: "Bambu Lab H2 Series in 2026: Does It Still Matter?"
 description: "Is the Bambu Lab H2 series still relevant after the X2D launch? We revisit the H2S, H2D, and H2C to see how they hold up in the 2026 3D printing landscape."
 publishDate: 2026-05-05
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./05-bambu-lab-h2-series-comparison.png"
 imageAlt: "A lineup of Bambu Lab H2 Series 3D printers."
@@ -22,6 +23,8 @@ faq:
   - question: "What's the difference between the Vortek system and the AMS?"
     answer: "The AMS (Automatic Material System) feeds different filaments into a single nozzle, requiring a purge of the previous material at every color change. The Vortek system physically swaps the entire hotend assembly, so there is zero purge waste. AMS supports more colors per print (up to 16 in chains) but wastes filament; Vortek is capped at 7 materials but uses near-zero purge filament."
 ---
+
+**Six months after launch, the H2 series is still the biggest build volume Bambu Lab sells: 340 × 320 × 340 mm against 256 mm cubes on the X2D and P1S.** If size is your constraint, the H2 remains the answer; if you want the newest features in a smaller box, the X2D took over that role in 2026. This guide sorts the H2 variants by what each one is actually for.
 
 In the fast-moving world of 2026, a printer that is six months old can feel like ancient history. When Bambu Lab dropped the H2 series in late 2025, they effectively killed the legacy P1 and X1 lines. But now, with the **X2D** flagship dominating the conversation, it’s time to ask: is the H2 series still the "Goldilocks" choice for the productive procrastinator?
 

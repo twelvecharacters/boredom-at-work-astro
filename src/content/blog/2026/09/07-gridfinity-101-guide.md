@@ -2,6 +2,7 @@
 title: "Gridfinity 101: Organize Every Drawer with 3D Printing"
 description: "Master Gridfinity, the open-source modular drawer organization system. Learn grid dimensions, slicer settings, baseplate options, and bin designs."
 publishDate: 2026-09-07
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./07-gridfinity-101-guide.png"
 imageAlt: "A desk drawer filled with colorful 3D printed Gridfinity modular storage bins holding tools and office supplies"
@@ -18,6 +19,8 @@ faq:
   - question: "What filament and slicer settings should I use for Gridfinity?"
     answer: "Standard PLA or PETG is ideal. Use a 0.4mm nozzle with 0.2mm layer height, 15% infill (Gyroid or Grid), 2 perimeters, and 3 top/bottom shell layers. Enable print thin walls for bin lip alignment."
 ---
+
+**Gridfinity is a free, open-source drawer system built on a 42 mm grid: bin footprints are multiples of 42 mm and heights multiples of 7 mm, so every bin fits every baseplate.** Created by Zack Freedman, it lets you print a baseplate sized to your drawer and fill it with thousands of free bin designs, from SD-card holders to screw sorters. A 1×2×3 bin measures 42 × 84 × 21 mm, and a full drawer of bins costs a few dollars in filament.
 
 Messy desk drawers are one of the quietest thieves of everyday workplace focus. We spend minutes each day digging through tangled USB-C cables, stray SD cards, loose sticky notes, hex keys, and stationery. Traditional store-bought drawer dividers rarely fit custom furniture dimensions properly, leaving awkward gaps where small items inevitably disappear.
 
