@@ -1,7 +1,7 @@
 ---
 title: "7 Best Under-Desk Footrests for Posture & Ergonomics"
 slug: "best-footrests"
-description: "Struggling with leg fatigue or posture? We tested 7 top under-desk footrests from $18 to $143. Find the best rocking, tilting, and memory foam picks for 2026."
+description: "Struggling with leg fatigue or posture? We compared 7 top under-desk footrests from $18 to $143. Find the best rocking, tilting, and memory foam picks for 2026."
 publishDate: 2026-05-08
 updatedDate: 2026-09-12
 author: "Mehdi"

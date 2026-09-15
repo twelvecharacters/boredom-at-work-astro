@@ -1,7 +1,7 @@
 ---
-title: "OM SYSTEM PEN Review: Retro Charm Meets Modern Power"
+title: "OM SYSTEM PEN First Look: Retro Charm Meets Modern Power"
 slug: "om-system-pen-review"
-description: "Our in-depth OM SYSTEM PEN review covers the new 20.4MP sensor, built-in OLED EVF, IPX1 weather sealing, creative profile dial, and real-world performance."
+description: "First look at the OM SYSTEM PEN, announced September 2026: 20.4MP sensor, built-in OLED EVF, IPX1 weather sealing, creative dial, $999, ships October."
 publishDate: 2026-09-13
 author: "Mehdi"
 image: "./13-om-system-pen-review.webp"

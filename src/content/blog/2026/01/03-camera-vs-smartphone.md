@@ -50,8 +50,7 @@ Let me be direct: **most people don't need a dedicated camera.**
 
 If you're happy with your smartphone photos, share primarily on social media, and don't want photography as a hobby - your phone is enough. Camera manufacturers won't tell you this. I will.
 
-But for specific users and uses, dedicated cameras remain significantly superior. Let's explore both sides.
-
+But for specific users and uses, dedicated cameras remain significantly superior. Let's explore both sides. If a small dedicated camera tempts you, the [OM SYSTEM PEN first look](/om-system-pen-review/) shows what a 2026 rangefinder-style body offers over a phone.
 ## Where Smartphones Excel
 
 ### 1. Convenience

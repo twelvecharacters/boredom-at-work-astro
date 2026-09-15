@@ -31,7 +31,7 @@ After testing dozens of utilities throughout the first half of 2026, these are t
 
 ## 1. DockDoor: The Windows Feature Apple Refuses to Steal
 
-Let’s address the elephant in the room: Windows has better taskbar management than macOS. For decades, Windows users have enjoyed the ability to hover over an app icon and see a live preview of every open window within that app. On a Mac? You get a right-click menu or you have to jump into Mission Control, which breaks your flow.
+Let’s address the elephant in the room: Windows has better taskbar management than macOS. For decades, Windows users have enjoyed the ability to hover over an app icon and see a live preview of every open window within that app. On a Mac? You get a right-click menu or you have to jump into Mission Control, which breaks your flow. Upgrading soon? The [macOS 27 and iOS 27 release guide](/macos-27-ios-27-release-guide/) lists the new system features before you add apps on top.
 
 [DockDoor](https://dockdoor.net) is the open-source hero we’ve been waiting for. It brings high-fidelity, glass-morphism window previews to the macOS Dock. But it doesn't just copy Windows; it "Mac-ifies" the experience.
 

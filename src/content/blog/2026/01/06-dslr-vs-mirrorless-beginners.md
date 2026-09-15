@@ -21,7 +21,7 @@ faq:
     answer: "Your DSLR will continue working perfectly for years. However, new lens development has shifted to mirrorless mounts. Used DSLR lenses remain plentiful and affordable, so this isn't an immediate concern."
 ---
 
-The DSLR vs mirrorless debate is one of the first decisions every beginner photographer faces. With camera manufacturers shifting entirely to mirrorless, is it still worth considering a DSLR? Or should you go mirrorless from the start?
+The DSLR vs mirrorless debate is one of the first decisions every beginner photographer faces. With camera manufacturers shifting entirely to mirrorless, is it still worth considering a DSLR? Or should you go mirrorless from the start? For a sense of where compact mirrorless is heading, see my [OM SYSTEM PEN first look](/om-system-pen-review/).
 
 In this comprehensive guide, I'll explain exactly how these camera types differ, the real-world advantages of each, and help you decide which is right for your photography journey.
 

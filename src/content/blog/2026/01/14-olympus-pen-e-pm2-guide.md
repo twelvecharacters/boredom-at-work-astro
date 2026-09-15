@@ -25,7 +25,7 @@ Why are we talking about a camera from 2012 in 2026? Because it’s a tiny power
 
 ## What is the Olympus PEN Lite E-PM2?
 
-The E-PM2 (the "PM" stands for "PEN Mini") was designed to be the smallest, simplest entry point into the Olympus mirrorless ecosystem. When it was released, it was marketed to people who wanted "DSLR quality in a point-and-shoot size."
+The E-PM2 (the "PM" stands for "PEN Mini") was designed to be the smallest, simplest entry point into the Olympus mirrorless ecosystem. When it was released, it was marketed to people who wanted "DSLR quality in a point-and-shoot size." The PEN name itself is back: OM System revived it in September 2026 with a new weather-sealed body, and my [OM SYSTEM PEN first look](/om-system-pen-review/) covers what changed.
 
 Here’s the beginner-friendly breakdown: It’s a Micro Four Thirds (MFT) camera. Unlike your phone or a traditional compact camera, it has a large sensor (the "brain" that captures light) and you can swap the lenses. 
 

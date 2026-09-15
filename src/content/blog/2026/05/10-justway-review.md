@@ -1,5 +1,5 @@
 ---
-title: "Justway Review 2026: Tested Pricing, Quality & Lead Times"
+title: "Justway Review 2026: Pricing, Quality & Lead Times"
 slug: "justway-review"
 description: "Wondering if Justway is legit? Read our honest 2026 review covering on-demand 3D printing, CNC machining, turnaround speeds, and comparisons with JLCPCB."
 publishDate: 2026-05-10

@@ -1,7 +1,7 @@
 ---
 title: "Best Monitor Arms (2026): Single & Dual Mounts Ranked"
 slug: "best-monitor-arms"
-description: "Free up desk space and fix your ergonomics. We tested and compared the best monitor arms from $40 to $179, including top single and dual mounts for 2026."
+description: "Free up desk space and fix your ergonomics. We compared the best monitor arms from $40 to $179, including top single and dual mounts for 2026."
 publishDate: 2026-04-03
 updatedDate: 2026-09-12
 author: "Mehdi"

@@ -78,7 +78,7 @@ Don't buy everything at once. Start with the camera and kit lens, then add gear 
 
 ## The Big Decision: DSLR vs Mirrorless
 
-This is the first choice you'll face. Here's the simple answer: **buy mirrorless**.
+This is the first choice you'll face. Here's the simple answer: **buy mirrorless**. For a current example of a compact mirrorless body with a viewfinder, see my [OM SYSTEM PEN first look](/om-system-pen-review/).
 
 ### Why Mirrorless Wins in 2026
 
