@@ -3,7 +3,7 @@ title: "OrcaSlicer Guide (2026): Best Features, Setup & Tuning"
 slug: "orcaslicer-guide"
 description: "Is OrcaSlicer better than Cura and PrusaSlicer? Discover built-in calibration, multi-plate slicing, and optimal print settings in our complete 2026 guide."
 publishDate: 2026-04-06
-updatedDate: 2026-09-12
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./06-orcaslicer.webp"
 imageAlt: "OrcaSlicer interface showing 3D print settings and model preview"
@@ -20,6 +20,8 @@ faq:
     answer: "Yes, OrcaSlicer supports a wide range of FDM printers, including models from Creality, Prusa, Bambu Lab, Anycubic, Voron, and many more."
 tldr: "OrcaSlicer is a powerful, community-driven slicer that merges the strengths of PrusaSlicer and Bambu Studio. Its biggest advantages are built-in calibration tests, a clean multi-plate UI, and faster performance than Cura."
 ---
+
+**OrcaSlicer is a free, open-source slicer that merges PrusaSlicer's engine with Bambu Studio's interface and adds two things neither has: a built-in calibration suite and a clean multi-plate workflow.** The calibration suite is the reason to switch. Instead of hunting for test models and guessing at flow or temperature, you run a numbered sequence from the menu and read the result off the print. If Cura or PrusaSlicer already work for you, this guide shows exactly what you would gain before you install anything.
 
 If you’ve been 3D printing for more than a week, you’ve likely settled into a routine with either [Cura](/cura-settings-beginners/) or [PrusaSlicer](/3d-printing-guide/). They are the titans of the industry, and they work well.
 

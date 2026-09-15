@@ -3,6 +3,7 @@ title: "Printing with TPU & Flexible Filaments: Beginner Guide"
 slug: "printing-with-tpu-flexible-filaments"
 description: "Everything you need to know about 3D printing with TPU and flexible filaments in 2026. From printer settings to drying methods and preventing jams."
 publishDate: 2026-08-02
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./02-printing-with-tpu-flexible-filaments.png"
 imageAlt: "An illustration showing a 3D printer printing a flexible, squishy phone case out of bright blue TPU filament"
@@ -16,6 +17,8 @@ faq:
   - question: "Do I need an enclosure to print TPU?"
     answer: "No, an enclosure is not required for printing TPU. Unlike ABS or PC, TPU does not typically warp from drafty room temperatures. A standard open-frame printer is perfectly fine as long as the ambient room temperature is consistent."
 ---
+
+**Print TPU slowly, dry, and with retraction almost off.** Start at 20 to 30 mm/s on a direct-drive printer (15 mm/s on a Bowden setup), keep the first layer at 10 to 15 mm/s, limit retraction to 0.5 to 1 mm at 15 to 20 mm/s, and begin with a stiffer 95A or 98A filament before trying anything softer. TPU absorbs moisture faster than PLA, so a spool that has been open for a week prints stringy until it is dried. Get those four things right and the material that supposedly jams every extruder prints phone cases and gaskets without drama.
 
 Once you have mastered the basics of PLA and PETG, the natural next step in your 3D printing journey is flexible filament. Thermoplastic Polyurethane, universally known as TPU, unlocks an entirely new world of functional prints. With it, you can create custom phone cases, drone bumpers, gaskets, watch bands, and shock absorbers. 
 

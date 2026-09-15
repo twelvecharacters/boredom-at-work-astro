@@ -3,7 +3,7 @@ title: "How to Sell 3D Prints Online: Platforms, Pricing & Tips"
 slug: "selling-3d-prints-online"
 description: "Turn your 3D printing hobby into a side hustle. Best platforms for selling 3D prints, pricing strategies, legal tips, and what actually sells."
 publishDate: 2026-02-03
-updatedDate: 2026-04-05
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./03-selling-3d-prints-online.webp"
 imageAlt: "Step-by-step visual guide for selling 3D prints on online marketplaces"
@@ -31,6 +31,8 @@ faq:
   - question: "Where is the best place to sell 3D prints online?"
     answer: "For physical prints: Etsy has the largest audience of non-technical buyers looking for gifts and decor. For digital STL files: Cults3D and MyMiniFactory offer access to maker communities. For maximum profit: your own Shopify store eliminates platform fees but requires driving your own traffic."
 ---
+
+**Yes, you can make money selling 3D prints, but the margin lives in functional and custom parts, not decorative ones.** Functional items and custom work typically return 50 to 70 percent margins; decorative prints compete with thousands of identical listings. Budget for platform fees: on Etsy that is a 6.5 percent transaction fee, a $0.20 listing fee, and about 3 percent plus $0.25 for payment processing, so roughly a tenth of every sale before shipping. Most side sellers who stick with it report $500 to $2,000 a month; the ones above that treat it as a business.
 
 So, you've [mastered your printer](/3d-printing-beginners-guide/). Your desk is covered in perfectly calibrated test cubes, and your family has enough 3D-printed vases to open a florist shop. Now, you're sitting at work, staring at your computer screen, and thinking: *\"Could I actually make money doing this?\"*
 
