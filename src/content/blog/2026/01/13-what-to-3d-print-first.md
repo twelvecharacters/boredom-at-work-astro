@@ -3,7 +3,7 @@ title: "What Should I 3D Print First? 25 Beginner Projects"
 slug: "what-to-3d-print-first"
 description: "Your first 3D print is coming up? Here are 25 perfect beginner projects from test prints to practical objects - sorted by difficulty level."
 publishDate: 2026-01-13
-updatedDate: 2026-05-04
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./13-first-3d-prints.webp"
 imageAlt: "Collection of beginner 3D print projects arranged on a clean background"
@@ -22,6 +22,8 @@ faq:
   - question: "How much filament does a beginner print use?"
     answer: "A 3D Benchy uses about 15g of filament (~$0.30). Most beginner projects in this article use under 50g (~$1). A 1kg spool lasts for dozens of projects."
 ---
+
+**Print a 20 mm calibration cube, then a 3DBenchy, then something you will actually use.** The cube (about 5 g of filament) tells you whether your printer is dimensionally accurate, the Benchy (about 15 g, roughly 30 cents of PLA) exposes overhang, bridging, and cooling problems in a single one-hour print, and the useful object keeps you motivated. Every one of the 25 projects below prints in under 50 g of filament, so a single 1 kg spool covers the whole list.
 
 You've set up your first 3D printer and you're wondering: What should I 3D print first? Every 3D printing beginner asks this question - and the answer is crucial for your success.
 

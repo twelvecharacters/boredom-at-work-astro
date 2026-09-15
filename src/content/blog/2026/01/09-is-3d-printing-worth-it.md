@@ -3,6 +3,7 @@ title: "Is a 3D Printer Worth It? Honest Cost Analysis 2026"
 slug: "is-3d-printing-worth-it"
 description: "Is 3D printing worth the money? An honest breakdown of purchase costs, running costs, time investment, and what you can actually make with it."
 publishDate: 2026-01-09
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./09-is-3d-printing-worth-it.webp"
 imageAlt: "3D printer with cost breakdown elements on a modern desk"
@@ -20,6 +21,8 @@ faq:
   - question: "When is a 3D printer NOT worth it?"
     answer: "A 3D printer is less worthwhile if you: only want to print occasionally (use a service), have no space, bring no interest in technology, or only want finished products without tinkering."
 ---
+
+**For most people the answer is yes, if you will print at least a few times a month.** Entry costs are lower than the hype suggests: a capable beginner printer runs $200 to $300, a kilogram of PLA $18 to $25, and electricity is a rounding error. At the US average residential rate of 18.34 cents per kWh ([EIA, June 2026](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)), a 10-hour print on a 100 W printer costs about 18 cents. The real question is not the money, it is whether you will use the machine, and the rest of this analysis is built around that.
 
 You're thinking about buying a 3D printer and wondering: Is it really worth it? Advertising promises unlimited creativity and saved costs - but is that true?
 

@@ -3,6 +3,7 @@ title: "PLA vs PETG vs ABS: Choosing the Right 3D Filament"
 slug: "pla-vs-petg-vs-abs"
 description: "Confused about filament types? We compare PLA, PETG, and ABS for strength, ease of use, and best applications to help you choose the right material."
 publishDate: 2026-02-19
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./19-pla-vs-petg-vs-abs.webp"
 imageAlt: "Side-by-side comparison of PLA, PETG, and ABS 3D printing filaments"
@@ -24,9 +25,9 @@ faq:
 tldr: "PLA is easiest to print and best for beginners. PETG offers better strength and flexibility for functional parts. ABS is strongest but hardest to print, skip it unless you need heat resistance. Most hobbyists only need PLA and PETG."
 ---
 
-You've got your [new 3D printer set up](/3d-printing-beginners-guide/), printed a few test cubes, and now you're staring at spools of filament wondering: "What's the difference between all these materials?"
+**Short answer:** print PLA for anything decorative or indoor, PETG for parts that need to take a knock or sit near heat, and ABS only if you own an enclosure. The numbers behind that, from the [Prusa Knowledge Base](https://help.prusa3d.com/article/pla_2062): PLA softens above 60 °C and prints at about 210 °C on a 60 °C bed. PETG holds up to roughly 80 °C, prints at 240 °C on a 90 °C bed, and barely warps. ABS prints at 255 °C on a 100 °C bed, needs an enclosure and a ventilated room, and warps without both. Checked against Prusa's material guides on September 15, 2026.
 
-The short answer: **PLA for easy prints, PETG for functional parts, ABS only if you really need heat resistance.**
+You've got your [new 3D printer set up](/3d-printing-beginners-guide/), printed a few test cubes, and now you're staring at spools of filament wondering: "What's the difference between all these materials?"
 
 The long answer involves trade-offs between ease of printing, strength, flexibility, and environmental factors. Let's break it down so you can pick the right filament for your next project.
 

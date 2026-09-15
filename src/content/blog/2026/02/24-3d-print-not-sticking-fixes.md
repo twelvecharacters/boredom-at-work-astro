@@ -3,7 +3,7 @@ title: "3D Print Not Sticking to Bed? Every Fix You Need"
 slug: "3d-print-not-sticking-fixes"
 description: "First layer keeps failing? Here's every reason your 3D print won't stick to the bed and how to fix it, from bed leveling to adhesion helpers."
 publishDate: 2026-02-24
-updatedDate: 2026-08-23
+updatedDate: 2026-09-15
 author: "Mehdi"
 image: "./24-3d-print-not-sticking-fixes.webp"
 imageAlt: "Step-by-step visual guide for fixing 3D print bed adhesion problems"
@@ -24,6 +24,8 @@ faq:
     answer: "A brim is usually better, it adds surface area around your print's base without wasting as much material as a raft. Use a raft only as a last resort for severely warped beds or very small contact areas."
 tldr: "Clean your bed with IPA, re-level it, slow down the first layer to 20mm/s, and increase bed temp by 5-10°C. If that doesn't work, add a brim or use glue stick/hairspray. 90% of adhesion problems are solved by proper leveling and a clean bed."
 ---
+
+**The fix, in order:** clean the plate with 90 percent isopropyl alcohol, re-run bed leveling, slow the first layer to about 20 mm/s, and raise the bed temperature by 5 to 10 °C. Prusa's own [first-layer guide](https://help.prusa3d.com/article/first-layer-issues_1804) recommends the same sequence and warns against the most common wrong move: forcing the nozzle lower to squish the layer, which can damage the sheet. In my experience those four steps clear about nine out of ten adhesion failures before you touch a single slicer setting.
 
 You hit print, walk away excited, and come back to find a bird's nest of filament where your print should be. The first layer didn't stick.
 
