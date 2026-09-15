@@ -175,7 +175,7 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
                   height={32}
                   class="w-8 h-8 rounded-full shadow-sm"
                 />
-                <span class="text-gray-900 font-semibold">{author}</span>
+                <a href="/about/" class="text-gray-900 font-semibold hover:text-accent" rel="author">{author}</a>
               </div>
             )}
             <span class="hidden sm:inline text-gray-300">•</span>
@@ -337,15 +337,13 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
       ...(sponsor.url ? { "url": sponsor.url } : {})
     } : {
       "@type": "Person",
-      "name": author,
+      "@id": AUTHOR.id,
+      "name": AUTHOR.name,
+      "alternateName": author,
       "url": AUTHOR.url,
       "image": new URL(AUTHOR.photo, Astro.site).toString(),
       "jobTitle": AUTHOR.jobTitle,
-      "sameAs": [
-        AUTHOR.social.linkedin,
-        AUTHOR.social.youtube,
-        AUTHOR.social.companyLinkedin,
-      ].filter(Boolean)
+      "sameAs": AUTHOR.sameAs
     },
     ...(sponsor ? {
       "sponsor": {

@@ -3,10 +3,25 @@ export const SITE = {
   description: "Transform your 9-to-5 downtime into personal growth. From mastering AI skills to starting a 3D printing hobby or finding the perfect camera gear, we help you make every boring minute count.",
   url: 'https://boredom-at-work.com',
   author: 'Mehdi',
+  // Entity signals: every profile the brand owns, used as Organization.sameAs.
+  sameAs: [
+    'https://www.youtube.com/@boredom-at-work',
+    'https://www.linkedin.com/company/boredom-at-work',
+    'https://www.reddit.com/r/boredom_at_work/',
+    'https://medium.com/@mohammadmehdivazirian',
+    'https://dev.to/twelvecharacters',
+    'https://hashnode.com/@twelvecharacters',
+    'https://boredchap.substack.com/',
+    'https://boredomatworksposts.tumblr.com/',
+  ],
 };
 
 export const AUTHOR = {
-  name: 'Mehdi',
+  // Full name in structured data so Google and AI systems can resolve the entity;
+  // articles keep the short byline via alternateName / frontmatter author.
+  name: 'Mehdi Vazirian',
+  alternateName: 'Mehdi',
+  id: 'https://boredom-at-work.com/about/#person',
   jobTitle: 'Director of Affiliates',
   url: 'https://boredom-at-work.com/about/',
   photo: '/images/mehdi.webp',
@@ -23,6 +38,19 @@ export const AUTHOR = {
     youtube: 'https://www.youtube.com/@boredom-at-work',
     email: 'twelvecharacters@proton.me',
   },
+  // Person.sameAs: profiles verified to belong to Mehdi (checked 15 Sep 2026).
+  sameAs: [
+    'https://www.linkedin.com/in/mehdi-vazirian/',
+    'https://www.linkedin.com/company/boredom-at-work',
+    'https://www.youtube.com/@boredom-at-work',
+    'https://medium.com/@mohammadmehdivazirian',
+    'https://dev.to/twelvecharacters',
+    'https://hashnode.com/@twelvecharacters',
+    'https://boredchap.substack.com/',
+    'https://boredomatworksposts.tumblr.com/',
+    'https://github.com/twelvecharacters',
+    'https://www.quora.com/profile/Twelvecharachters',
+  ],
 };
 
 export const NAV_ITEMS = [

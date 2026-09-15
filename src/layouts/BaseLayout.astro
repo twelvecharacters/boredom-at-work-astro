@@ -9,7 +9,7 @@ import Analytics from '../components/Analytics.astro';
 import logo from '../assets/images/logo.webp';
 import ogDefault from '../assets/images/og-default.webp';
 import { SEO } from 'astro-seo';
-import { SITE } from '../config';
+import { SITE, AUTHOR } from '../config';
 import { getImage } from 'astro:assets';
 import { ClientRouter } from 'astro:transitions';
 const optimizedLogo = await getImage({ src: logo, width: 296, height: 95, format: 'webp' });
@@ -138,13 +138,13 @@ const socialImageURL = new URL(socialImagePath, Astro.site);
       "url": new URL('/', Astro.site).toString(),
       "description": SITE.description,
       "logo": new URL(optimizedLogo.src, Astro.site).toString(),
-      "sameAs": [
-        "https://www.youtube.com/@boredom-at-work",
-        "https://www.linkedin.com/company/boredom-at-work",
-        "https://www.reddit.com/r/boredom_at_work/",
-        "https://medium.com/@mohammadmehdivazirian",
-        "https://dev.to/twelvecharacters"
-      ]
+      "sameAs": SITE.sameAs,
+      "founder": {
+        "@type": "Person",
+        "@id": AUTHOR.id,
+        "name": AUTHOR.name,
+        "url": AUTHOR.url
+      }
     })} />
 
     {!article && (
