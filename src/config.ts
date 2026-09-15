@@ -13,6 +13,7 @@ export const SITE = {
     'https://hashnode.com/@twelvecharacters',
     'https://boredchap.substack.com/',
     'https://boredomatworksposts.tumblr.com/',
+    'https://www.pinterest.com/twelvecharacters/',
   ],
 };
 
@@ -50,6 +51,7 @@ export const AUTHOR = {
     'https://boredomatworksposts.tumblr.com/',
     'https://github.com/twelvecharacters',
     'https://www.quora.com/profile/Twelvecharachters',
+    'https://www.pinterest.com/twelvecharacters/',
   ],
 };
 
