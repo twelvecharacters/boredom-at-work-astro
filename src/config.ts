@@ -37,6 +37,7 @@ export const AUTHOR = {
     companyLinkedin: 'https://www.linkedin.com/company/boredom-at-work',
     reddit: 'https://www.reddit.com/r/boredom_at_work/',
     youtube: 'https://www.youtube.com/@boredom-at-work',
+    x: 'https://x.com/twelvecharactaz',
     email: 'twelvecharacters@proton.me',
   },
   // Person.sameAs: profiles verified to belong to Mehdi (checked 15 Sep 2026).
@@ -44,6 +45,7 @@ export const AUTHOR = {
     'https://www.linkedin.com/in/mehdi-vazirian/',
     'https://www.linkedin.com/company/boredom-at-work',
     'https://www.youtube.com/@boredom-at-work',
+    'https://x.com/twelvecharactaz',
     'https://medium.com/@mohammadmehdivazirian',
     'https://dev.to/twelvecharacters',
     'https://hashnode.com/@twelvecharacters',
