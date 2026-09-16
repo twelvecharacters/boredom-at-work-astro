@@ -3,7 +3,7 @@ title: "Best AI Presentation Makers in 2026: Ranked & Tested"
 slug: "ai-presentation-makers"
 description: "Gamma vs Beautiful.ai vs Canva AI, which actually makes great slides? We tested 6 AI tools so you don't waste time on the wrong one. Free picks included."
 publishDate: 2026-02-16
-updatedDate: 2026-09-15
+updatedDate: 2026-09-16
 author: "Mehdi"
 image: "./16-ai-presentation-makers.webp"
 imageAlt: "Collection of AI presentation maker interfaces showing slide designs"
@@ -35,7 +35,7 @@ I tested all the major AI presentation tools with the same prompt to see which a
 | **Canva AI** | Design flexibility | $15/mo | ✅ Basic | ⭐⭐⭐⭐ |
 | **PowerPoint + Copilot** | Microsoft users | $20-30/mo+ | ❌ | ⭐⭐⭐⭐ |
 | **Google Slides + Gemini** | Google users | Free-$22/mo | ✅ | ⭐⭐⭐ |
-| **SlidesAI** | Google Slides users | $10/mo | ✅ 3 presentations | ⭐⭐⭐ |
+| **SlidesAI** | Google Slides and PowerPoint users | $10/mo | ✅ 12 presentations/year | ⭐⭐⭐ |
 | **Slidebean** | Pitch decks | $12/mo | ✅ Limited | ⭐⭐⭐ |
 
 **My pick:** Gamma for most users. Beautiful.ai for teams. Canva if you want design control.
@@ -284,41 +284,40 @@ Basic but functional. Design quality clearly behind Gamma and Beautiful.ai. Fine
 
 ---
 
-## 7. SlidesAI, Best Google Slides Add-on
+## 7. SlidesAI, Best Budget Add-on for Google Slides and PowerPoint
 
-**Price:** $10/mo (Basic) / $20/mo (Pro)
+**Price:** Free (12 presentations a year) / Pro $10 per month or $120 a year (120 presentations) / Premium $20.83 per month or $250 a year (unlimited). Prices from slidesai.io, checked September 16, 2026.
 
-SlidesAI works inside Google Slides to add AI generation.
+SlidesAI started as a Google Slides add-on and has since grown into four surfaces: the Google Slides add-on, a PowerPoint add-in, a standalone web app where you paste text and get a deck without installing anything, and a ChatGPT integration that saves the result to Google Slides. The company reports more than 14 million installs and 3.7 million presentations created.
 
 ### What I Like:
 
-**Google Slides native:** Works in your existing workflow.
+**Works where you already work:** Google Slides, PowerPoint, or the browser, with the same paste-text-get-slides flow.
 
-**Quick generation:** Paste text or topic, get slides.
+**Quick generation:** Paste text or a topic, get a structured deck in a minute.
 
-**Keep your templates:** Uses your existing Slides templates.
+**Keep your templates:** Uses your existing Slides or PowerPoint templates, so decks match your company look.
 
-**Affordable:** Cheaper than most standalone tools.
+**Affordable:** The free tier covers occasional use, and Pro is cheaper than most standalone tools.
 
 ### What I Don't Like:
 
-- Limited to Google Slides constraints
-- Design quality depends on your templates
-- Less intelligent than standalone tools
-- Fewer generation options
+- Design quality depends on your templates; it will not rescue an ugly master
+- Less intelligent content generation than Gamma or Beautiful.ai
+- Fewer layout and generation options than the standalone leaders
+- Input caps per presentation (1,000 characters on Free, 6,000 on Pro) mean long source texts need trimming
 
 ### Best For:
-- Die-hard Google Slides users
-- Adding AI to existing workflow
+- Google Slides and PowerPoint users who want AI inside the tool they already use
+- Adding AI to an existing workflow without changing formats
 - Budget option
 
 ### Sample Output:
-Functional slides within Google Slides limitations. Not as polished as standalone tools but gets the job done.
+Functional, template-faithful slides. Not as polished as the standalone tools, but it gets a working deck out of pasted text quickly.
 
-**Verdict:** ⭐⭐⭐ Useful add-on, not a game-changer.
+**Verdict:** ⭐⭐⭐ Useful add-on that now covers PowerPoint and the browser too, not a game-changer.
 
 ---
-
 ## 8. Slidebean, Best for Pitch Decks
 
 **Price:** $12/mo Starter ($7/mo annual) / $99/mo Accelerate
