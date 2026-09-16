@@ -27,9 +27,17 @@ cd "$REPO" || exit 1
 TODAY_UTC=$(date -u +%Y-%m-%d)
 {
   echo "=== Deploy-Fallback $(date '+%Y-%m-%d %H:%M %Z') ==="
-  RUNS_TODAY=$("$GH" run list --workflow deploy.yml --limit 10 \
-    --json createdAt,status,conclusion \
-    --jq "[.[] | select(.createdAt | startswith(\"$TODAY_UTC\")) | select(.status != \"completed\" or .conclusion == \"success\")] | length" 2>/dev/null)
+  # 16.9.: ein einzelner gh-Aufruf scheiterte um 9:12 ("nicht erreichbar") und der
+  # Fallback blieb stumm, der Artikel kam 4 Stunden spaeter per Cron. Drei Versuche.
+  RUNS_TODAY=""
+  for attempt in 1 2 3; do
+    RUNS_TODAY=$("$GH" run list --workflow deploy.yml --limit 10 \
+      --json createdAt,status,conclusion \
+      --jq "[.[] | select(.createdAt | startswith(\"$TODAY_UTC\")) | select(.status != \"completed\" or .conclusion == \"success\")] | length" 2>/dev/null)
+    [[ -n "$RUNS_TODAY" ]] && break
+    echo "gh-Versuch $attempt fehlgeschlagen, 30 s Pause"
+    sleep 30
+  done
   if [[ -z "$RUNS_TODAY" ]]; then
     echo "gh nicht erreichbar, kein Dispatch"
   elif [[ "$RUNS_TODAY" -gt 0 ]]; then
