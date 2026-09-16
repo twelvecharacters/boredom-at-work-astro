@@ -46,6 +46,7 @@ export const AUTHOR = {
     'https://www.linkedin.com/company/boredom-at-work',
     'https://www.youtube.com/@boredom-at-work',
     'https://x.com/twelvecharactaz',
+    'https://about.me/mehdivazirian',
     'https://medium.com/@mohammadmehdivazirian',
     'https://dev.to/twelvecharacters',
     'https://hashnode.com/@twelvecharacters',
