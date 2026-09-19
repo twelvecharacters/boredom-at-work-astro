@@ -1,9 +1,9 @@
 ---
 title: "Best Older Cameras to Start Photography in 2026"
 description: "Discover the best older digital DSLRs, mirrorless cameras, and film bodies to start photography on a budget. Full guide to retro sensors, lenses, and value."
-publishDate: 2026-09-20
+publishDate: 2026-11-09
 author: "Mehdi"
-image: "./20-best-older-cameras-beginners.webp"
+image: "./09-best-older-cameras-beginners.webp"
 imageAlt: "Collection of classic older digital and film cameras for beginner photography"
 tags: ["Photography", "Tech"]
 draft: false
