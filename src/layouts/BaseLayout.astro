@@ -11,7 +11,6 @@ import ogDefault from '../assets/images/og-default.webp';
 import { SEO } from 'astro-seo';
 import { SITE, AUTHOR } from '../config';
 import { getImage } from 'astro:assets';
-import { ClientRouter } from 'astro:transitions';
 const optimizedLogo = await getImage({ src: logo, width: 296, height: 95, format: 'webp' });
 
 interface Props {
@@ -28,6 +27,7 @@ interface Props {
   prevUrl?: string;
   nextUrl?: string;
   author?: string; // Overrides the site author, e.g. on sponsored posts
+  preloadImage?: string;
 }
 
 const {
@@ -44,6 +44,7 @@ const {
   prevUrl,
   nextUrl,
   author = SITE.author,
+  preloadImage,
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
@@ -66,6 +67,7 @@ const socialImageURL = new URL(socialImagePath, Astro.site);
 
     <!-- Preload critical assets -->
     <link rel="preload" href={optimizedLogo.src} as="image" type="image/webp" />
+    {preloadImage && <link rel="preload" href={preloadImage} as="image" type="image/webp" fetchpriority="high" />}
 
     <link rel="alternate" type="application/rss+xml" title={SITE.title} href={new URL("rss.xml", Astro.site)} />
 

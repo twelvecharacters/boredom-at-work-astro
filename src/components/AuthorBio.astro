@@ -37,6 +37,22 @@ import OptimizedImage from './OptimizedImage.astro';
     </div>
   )}
 
+  <div class="author-testing-policy">
+    <span class="testing-icon">🛡️</span>
+    <span class="testing-text"><strong>Editorial Integrity:</strong> 100% independent reviews and hands-on testing. No paid rankings, no sponsored placements without full transparency.</span>
+  </div>
+
+  {AUTHOR.expertise && (
+    <div class="author-expertise">
+      <span class="expertise-label">Core Topics:</span>
+      <div class="expertise-tags">
+        {AUTHOR.expertise.map((tag) => (
+          <span class="expertise-tag">{tag}</span>
+        ))}
+      </div>
+    </div>
+  )}
+
   <div class="author-links">
     {AUTHOR.social.youtube && (
       <a href={AUTHOR.social.youtube} target="_blank" rel="noopener noreferrer" class="social-link">
@@ -205,6 +221,60 @@ import OptimizedImage from './OptimizedImage.astro';
   }
 
   .credential-text {
+    font-weight: 500;
+  }
+
+  .author-testing-policy {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.6rem;
+    background: rgba(16, 185, 129, 0.06);
+    border: 1px solid rgba(16, 185, 129, 0.2);
+    border-radius: 0.75rem;
+    padding: 0.75rem 1rem;
+    margin-bottom: 1rem;
+    font-size: 0.825rem;
+    line-height: 1.5;
+    color: #065f46;
+  }
+
+  .testing-icon {
+    font-size: 1rem;
+    flex-shrink: 0;
+    margin-top: 0.05rem;
+  }
+
+  .testing-text {
+    flex: 1;
+  }
+
+  .author-expertise {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1.25rem;
+    font-size: 0.8rem;
+  }
+
+  .expertise-label {
+    font-weight: 600;
+    color: var(--color-primary);
+  }
+
+  .expertise-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+  }
+
+  .expertise-tag {
+    background: white;
+    border: 1px solid rgba(17, 21, 59, 0.08);
+    padding: 0.2rem 0.6rem;
+    border-radius: 1rem;
+    font-size: 0.75rem;
+    color: var(--color-text-light);
     font-weight: 500;
   }
 

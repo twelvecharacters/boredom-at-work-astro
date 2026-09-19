@@ -87,6 +87,16 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
   
   return true;
 });
+
+let heroPreloadUrl: string | undefined = undefined;
+if (image) {
+  try {
+    const optimizedHero = await getImage({ src: image, width: 1200, height: 630, format: 'webp' });
+    heroPreloadUrl = optimizedHero.src;
+  } catch {
+    heroPreloadUrl = typeof image === 'string' ? image : undefined;
+  }
+}
 ---
 
 <BaseLayout
@@ -99,6 +109,7 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
   updatedDate={updatedDate}
   tags={tags}
   author={displayAuthor}
+  preloadImage={heroPreloadUrl}
 >
 
   <div class="relative max-w-[1600px] mx-auto">
@@ -201,6 +212,17 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
                   </svg>
                   <span>Updated: {formattedUpdatedDate}</span>
                 </div>
+              </>
+            )}
+            {!sponsorWroteIt && (
+              <>
+                <span class="hidden md:inline text-gray-300">•</span>
+                <span class="inline-flex items-center gap-1 text-xs font-semibold px-2.5 py-1 rounded-md bg-emerald-50 text-emerald-700 border border-emerald-200/60">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 text-emerald-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+                  </svg>
+                  Hands-on Tested
+                </span>
               </>
             )}
           </div>
@@ -343,6 +365,12 @@ const activeBanner = BANNERS.filter(b => b.active).find(b => {
       "url": AUTHOR.url,
       "image": new URL(AUTHOR.photo, Astro.site).toString(),
       "jobTitle": AUTHOR.jobTitle,
+      "worksFor": {
+        "@type": "Organization",
+        "name": SITE.title,
+        "url": SITE.url
+      },
+      "knowsAbout": AUTHOR.knowsAbout,
       "sameAs": AUTHOR.sameAs
     },
     ...(sponsor ? {

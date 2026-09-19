@@ -32,6 +32,23 @@ export const AUTHOR = {
     { icon: '📚', text: 'Self taught in AI since 2024' },
     { icon: '🛠️', text: 'Personal use on every review' },
   ],
+  knowsAbout: [
+    'Artificial Intelligence',
+    'AI Tools & Prompt Engineering',
+    '3D Printing & Modeling',
+    'Camera Gear & Photography',
+    'Desk Upgrades & Ergonomics',
+    'E-Readers & E-Ink Displays',
+    'Personal Finance & Investing Tools',
+    'AI Travel Planning',
+  ],
+  expertise: [
+    'Hands-on AI Workflows',
+    '3D Printing & Prototyping',
+    'Camera Gear Testing',
+    'Ergonomic Workspaces',
+    'Independent Reviews',
+  ],
   social: {
     linkedin: 'https://www.linkedin.com/in/mehdi-vazirian/',
     companyLinkedin: 'https://www.linkedin.com/company/boredom-at-work',
