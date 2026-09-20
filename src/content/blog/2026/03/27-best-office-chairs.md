@@ -8,6 +8,7 @@ image: "./27-best-office-chairs.webp"
 imageAlt: "Collection of ergonomic office chairs in a modern home office"
 tags: ["Home Office", "Ergonomics", "Buying Guide"]
 draft: false
+tested: true
 faq:
   - question: "How much should I spend on an office chair?"
     answer: "Budget $300-500 for a quality ergonomic chair that will last 5-7 years. Under $200, you're compromising on adjustability and durability. Over $1000 gets you premium brands like Herman Miller with 12-year warranties. If you sit 8+ hours daily, investing $400-600 pays off in comfort and health."

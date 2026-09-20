@@ -8,6 +8,7 @@ image: "./27-best-tech-gifts-under-50.webp"
 imageAlt: "Collection of affordable tech gifts under 50 dollars on a clean background"
 tags: ["Tech & Gadgets", "Gift Ideas"]
 draft: false
+tested: true
 isListicle: true
 faq:
   - question: "What is the best tech gift under $50?"

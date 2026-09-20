@@ -8,6 +8,7 @@ image: "./01-best-laptop-stands.webp"
 imageAlt: "Collection of laptop stands at different heights on a desk"
 tags: ["Home Office", "Buying Guide"]
 draft: false
+tested: true
 isListicle: true
 faq:
   - question: "Do laptop stands actually help with neck pain?"

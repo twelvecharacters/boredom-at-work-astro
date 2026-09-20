@@ -8,6 +8,7 @@ image: "./23-best-standing-desks.webp"
 imageAlt: "Collection of standing desks at different heights in a home office"
 tags: ["Home Office", "Standing Desks", "Productivity", "Buying Guide"]
 draft: false
+tested: true
 faq:
   - question: "Are standing desks actually worth it?"
     answer: "Yes, if you use them correctly. The key is alternating between sitting and standing, not standing all day. Most research shows benefits from switching positions every 30-60 minutes. A good standing desk costs $400-700 and lasts 10+ years, making it one of the best investments for your home office."

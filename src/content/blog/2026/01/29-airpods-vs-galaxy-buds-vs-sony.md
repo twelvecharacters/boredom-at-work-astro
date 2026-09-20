@@ -9,6 +9,7 @@ image: "./29-airpods-vs-galaxy-buds-vs-sony.webp"
 imageAlt: "Side-by-side comparison of AirPods Pro 3, Galaxy Buds, and Sony WF-1000XM5"
 tags: ["Tech & Gadgets", "Comparison", "Review"]
 draft: false
+tested: true
 tldr: "AirPods Pro 3 ($249) for iPhone users, Sony WF-1000XM5 ($299) for audiophiles and Android, Galaxy Buds3 Pro ($249) for Samsung users. Sony has the best sound, AirPods has the best calls, all three have excellent ANC."
 review:
   rating: 4.5

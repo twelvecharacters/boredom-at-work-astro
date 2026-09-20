@@ -8,6 +8,7 @@ image: "./16-best-webcams-working-from-home.webp"
 imageAlt: "Collection of webcams for working from home mounted on monitors"
 tags: ["Home Office", "Productivity", "Buying Guide"]
 draft: false
+tested: true
 isListicle: true
 faq:
   - question: "Is a 4K webcam worth it for video calls?"

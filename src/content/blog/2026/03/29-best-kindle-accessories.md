@@ -9,6 +9,7 @@ image: "./29-best-kindle-accessories.webp"
 imageAlt: "Collection of Kindle Paperwhite accessories including cases, stands, and grips"
 tags: ["Tech & Gadgets", "Kindle", "E-Reader", "Amazon"]
 draft: false
+tested: true
 faq:
   - question: "Do I really need a case for my Kindle?"
     answer: "If you travel with it or toss it in a bag, yes. The screen is durable but not indestructible. A slim case adds minimal weight and protects the screen from scratches and cracks."

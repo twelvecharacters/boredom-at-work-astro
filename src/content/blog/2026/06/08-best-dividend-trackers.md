@@ -8,6 +8,7 @@ image: "./08-best-dividend-trackers.webp"
 imageAlt: "Collection of dividend tracker app interfaces showing income dashboards"
 tags: ["Investing", "Finance"]
 draft: false
+tested: true
 isListicle: true
 faq:
   - question: "What is the best free dividend tracker app?"

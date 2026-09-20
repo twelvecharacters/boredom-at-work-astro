@@ -9,6 +9,7 @@ image: "./09-best-monitors-working-from-home.webp"
 imageAlt: "Collection of WFH monitors arranged on desks in a home office"
 tags: ["Home Office", "Monitors", "Productivity", "Tutorial"]
 draft: false
+tested: true
 isListicle: true
 faq:
   - question: "Is a 27-inch or ultrawide monitor better for working from home?"

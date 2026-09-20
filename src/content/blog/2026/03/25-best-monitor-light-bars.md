@@ -9,6 +9,7 @@ image: "./25-best-monitor-light-bars.webp"
 imageAlt: "Collection of monitor light bars mounted on screens in a home office"
 tags: ["Home Office", "Buying Guide"]
 draft: false
+tested: true
 isListicle: true
 faq:
   - question: "Is a monitor light bar better than a desk lamp?"

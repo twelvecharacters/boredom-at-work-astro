@@ -9,6 +9,7 @@ image: "./31-best-cameras-beginners.webp"
 imageAlt: "Collection of beginner cameras from Canon, Nikon, and Sony on a white surface"
 tags: ["Photography", "Cameras", "Beginners", "Buying Guide"]
 draft: false
+tested: true
 isListicle: true
 faq:
   - question: "What is the best camera for a complete beginner?"

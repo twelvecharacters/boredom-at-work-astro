@@ -8,6 +8,7 @@ image: "./29-best-stock-news-apps.webp"
 imageAlt: "Collection of stock news app interfaces on a smartphone screen"
 tags: ["Investing", "Finance"]
 draft: false
+tested: true
 isListicle: true
 faq:
   - question: "What is the best free app for stock market news?"

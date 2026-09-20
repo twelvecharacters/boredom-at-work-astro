@@ -9,6 +9,7 @@ image: "./15-best-ai-trip-planners.webp"
 imageAlt: "Collection of AI trip planner app interfaces on a laptop screen"
 tags: ["AI", "Travel", "Review", "AI Travel"]
 draft: false
+tested: true
 isListicle: true
 faq:
   - question: "What is the best AI trip planner in 2026?"

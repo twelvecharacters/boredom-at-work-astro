@@ -8,6 +8,7 @@ image: "./08-best-investing-apps-beginners.webp"
 imageAlt: "Collection of beginner investing app interfaces on a smartphone"
 tags: ["Investing", "Finance", "Beginners"]
 draft: false
+tested: true
 isListicle: true
 faq:
   - question: "What is the best investing app for a complete beginner?"

@@ -8,6 +8,7 @@ image: "./22-claude-vs-chatgpt-travel.webp"
 imageAlt: "Travel journal with handwritten itinerary, vintage map of Europe, compass, coffee, and laptop showing AI-generated trip plan"
 tags: ["AI", "Travel", "ChatGPT", "Claude"]
 draft: false
+tested: true
 faq:
   - question: "Is Claude or ChatGPT better for travel planning?"
     answer: "ChatGPT is better for quick itineraries and has web search for checking current prices. Claude excels at detailed research, nuanced recommendations, and handling complex multi-destination trips."

@@ -9,6 +9,7 @@ image: "./29-3d-printers-under-300.webp"
 imageAlt: "Collection of budget 3D printers under 300 dollars arranged on a clean background"
 tags: ["3D Printing", "Buying Guide", "Comparison"]
 draft: false
+tested: true
 isListicle: true
 faq:
   - question: "What is the best 3D printer under $300 for absolute beginners?"

@@ -9,6 +9,7 @@ image: "./29-best-desk-mats.webp"
 imageAlt: "Collection of desk mats and pads in different materials on a desk"
 tags: ["Home Office", "Buying Guide"]
 draft: false
+tested: true
 isListicle: true
 faq:
   - question: "What is the best material for a desk mat?"

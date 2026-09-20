@@ -8,6 +8,7 @@ image: "./24-best-noise-canceling-headphones-office.webp"
 imageAlt: "Collection of noise-canceling headphones for office use on a desk"
 tags: ["Tech & Gadgets", "Home Office"]
 draft: false
+tested: true
 isListicle: true
 faq:
   - question: "Are noise-canceling headphones worth it for office work?"

@@ -8,6 +8,7 @@ image: "./22-best-free-stock-screeners.webp"
 imageAlt: "Collection of free stock screener interfaces showing filter options"
 tags: ["Investing", "Finance", "Beginners"]
 draft: false
+tested: true
 isListicle: true
 faq:
   - question: "What is the best free stock screener for beginners?"
