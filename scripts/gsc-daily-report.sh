@@ -57,6 +57,17 @@ TODAY_UTC=$(date -u +%Y-%m-%d)
 "$NODE" scripts/gsc-index-status.js --top 10 >> "$LOG" 2>&1
 STATUS=$?
 
+# 18./19.9.: die Inspection-API gab an zwei Morgen in Folge fuer jede URL HTTP 401,
+# eine Stunde spaeter lief alles. Exit 2 = Fehlerquoten-Abbruch im Skript. Einmal
+# nach 15 Minuten wiederholen, bevor der Tag als gescheitert gilt.
+if [[ $STATUS -eq 2 ]]; then
+  echo "" >> "$LOG"
+  echo "=== Wiederholung nach Abbruch, $(date '+%H:%M') ===" >> "$LOG"
+  sleep 900
+  "$NODE" scripts/gsc-index-status.js --top 10 >> "$LOG" 2>&1
+  STATUS=$?
+fi
+
 if [[ $STATUS -ne 0 ]]; then
   osascript -e 'display notification "GSC-Report fehlgeschlagen, siehe Log" with title "boredom-at-work"' 2>/dev/null
   exit $STATUS
