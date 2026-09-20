@@ -137,12 +137,29 @@ async function getAccessToken() {
   return res.json.access_token;
 }
 
-async function inspect(token, url) {
+// 18.-20.9.: an drei Morgen in Folge lieferte JEDE Inspection HTTP 401, obwohl der
+// Token-Request kurz zuvor (nach einem DNS-Fehler beim Aufwachen des Macs) scheinbar
+// erfolgreich war; ein manueller Lauf zwei Stunden spaeter war sauber. Der Token aus
+// der Wackelphase ist offenbar unbrauchbar. Bei 401 wird er einmal pro Minute neu
+// geholt, statt 262 URLs mit demselben toten Token durchzuprobieren.
+const tokenBox = { value: null, refreshedAt: 0 };
+async function refreshTokenIfStale() {
+  if (Date.now() - tokenBox.refreshedAt < 60_000) return;
+  tokenBox.refreshedAt = Date.now();
+  process.stderr.write('  HTTP 401: hole neuen Access-Token\n');
+  tokenBox.value = await getAccessToken();
+}
+
+async function inspect(url) {
   let res;
   try {
-    res = await withRetry(() => request('POST', 'searchconsole.googleapis.com', '/v1/urlInspection/index:inspect',
-      { inspectionUrl: url, siteUrl: SITE_URL },
-      { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` }), url.replace(SITE_URL, '/'));
+    res = await withRetry(async () => {
+      const r = await request('POST', 'searchconsole.googleapis.com', '/v1/urlInspection/index:inspect',
+        { inspectionUrl: url, siteUrl: SITE_URL },
+        { 'Content-Type': 'application/json', Authorization: `Bearer ${tokenBox.value}` });
+      if (r.status === 401) await refreshTokenIfStale();
+      return r;
+    }, url.replace(SITE_URL, '/'));
   } catch (err) {
     return { url, error: `${err.code || 'NETZ'} ${err.message}`.trim() };
   }
@@ -253,14 +270,15 @@ if (args.includes('--show-submitted')) {
 
 const explicit = args.filter((a) => !a.startsWith('--') && a !== String(TOP));
 
-const token = await getAccessToken();
+tokenBox.value = await getAccessToken();
+tokenBox.refreshedAt = Date.now();
 const published = readAllPosts().filter((p) => isPublished(p));
 const inbound = inboundCounts(published);
 
 const slugs = explicit.length ? explicit.map((s) => s.replace(/^\/|\/$/g, '')) : published.map((p) => p.slug);
 process.stderr.write(`Pruefe ${slugs.length} URLs...\n`);
 
-const results = await mapLimit(slugs, CONCURRENCY, (slug) => inspect(token, `${SITE_URL}${slug}/`));
+const results = await mapLimit(slugs, CONCURRENCY, (slug) => inspect(`${SITE_URL}${slug}/`));
 
 const byState = new Map();
 for (const r of results) {
