@@ -75,6 +75,10 @@ const blog = defineCollection({
     imageAlt: z.string().optional(),
     tags: z.array(z.string()).default([]),
     draft: z.boolean().default(false),
+    // True only when the author personally used the product or service the article
+    // reviews. Drives the "Hands-on Tested" badge and the testing line in AuthorBio.
+    // Research-based comparisons stay false; the site must not claim tests it did not run.
+    tested: z.boolean().default(false),
     faq: z.array(faqSchema).optional(),
     tldr: z.string().optional(), // TL;DR summary for quick reading
     review: reviewSchema.optional(), // Product review data for Schema.org

@@ -721,6 +721,25 @@ function checkModelNames(content, filePath) {
   return issues;
 }
 
+// A title or description that promises testing ("I tested", "Tested & Ranked") must
+// come with `tested: true` in the frontmatter, which is reserved for products the
+// author personally used. Otherwise the article claims work that was not done.
+function checkTestedClaim(content, filePath) {
+  const issues = [];
+  const { frontmatter } = splitFrontmatterAndBody(content);
+  const tested = /^tested:\s*true\b/m.test(frontmatter);
+  if (tested) return issues;
+  const title = getFrontmatterValue(frontmatter, 'title') || '';
+  const description = getFrontmatterValue(frontmatter, 'description') || '';
+  const claim = /\b(I|we)('ve)? tested\b|\btested( &| and)? (ranked|compared|reviewed)\b|\(tested\)|\[tested\]|hands-on tested/i;
+  for (const [field, value] of [['title', title], ['description', description]]) {
+    if (claim.test(value)) {
+      issues.push({ filePath, lineNum: 1, severity: 'warning', message: `${field} claims testing ("${value.match(claim)[0]}") but frontmatter has no \`tested: true\`. Either the author used the product (set the flag) or reword to "compared".` });
+    }
+  }
+  return issues;
+}
+
 function lintFile(filePath) {
   const content = readFileSync(filePath, 'utf-8');
   const issues = [
@@ -733,6 +752,7 @@ function lintFile(filePath) {
     ...checkSlugPrefixConsistency(content, filePath),
     ...checkInternalLinks(content, filePath),
     ...checkModelNames(content, filePath),
+    ...checkTestedClaim(content, filePath),
   ];
   return issues;
 }

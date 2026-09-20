@@ -1,6 +1,10 @@
 ---
 import { AUTHOR } from '../config';
 import OptimizedImage from './OptimizedImage.astro';
+
+// `tested` comes from the article frontmatter. Only articles the author personally
+// used may claim hands-on testing; everything else is independent research.
+const { tested = false } = Astro.props as { tested?: boolean };
 ---
 
 <aside class="author-bio">
@@ -39,7 +43,7 @@ import OptimizedImage from './OptimizedImage.astro';
 
   <div class="author-testing-policy">
     <span class="testing-icon">🛡️</span>
-    <span class="testing-text"><strong>Editorial Integrity:</strong> 100% independent reviews and hands-on testing. No paid rankings, no sponsored placements without full transparency.</span>
+    <span class="testing-text"><strong>Editorial Integrity:</strong> {tested ? 'This review is based on personal, hands-on use.' : 'Independent research, verified against manufacturer sources.'} No paid rankings; sponsored placements are always disclosed.</span>
   </div>
 
   {AUTHOR.expertise && (

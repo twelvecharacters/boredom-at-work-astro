@@ -45,7 +45,7 @@ export const AUTHOR = {
   expertise: [
     'Hands-on AI Workflows',
     '3D Printing & Prototyping',
-    'Camera Gear Testing',
+    'Camera Gear & Photography',
     'Ergonomic Workspaces',
     'Independent Reviews',
   ],

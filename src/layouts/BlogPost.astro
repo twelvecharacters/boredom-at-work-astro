@@ -37,7 +37,7 @@ interface Props {
 }
 
 const { post } = Astro.props;
-const { title, description, publishDate, updatedDate, author, image, imageAlt, tags, faq, tldr, review, isListicle, video, howTo, softwareApp, course, sponsor } = post.data;
+const { title, description, publishDate, updatedDate, author, image, imageAlt, tags, faq, tldr, review, isListicle, video, howTo, softwareApp, course, sponsor, tested } = post.data;
 
 // Paid placements. When the sponsor supplied the copy, the post must not claim
 // our editorial byline: no Person schema, no author bio, sponsor byline instead.
@@ -214,7 +214,7 @@ if (image) {
                 </div>
               </>
             )}
-            {!sponsorWroteIt && (
+            {!sponsorWroteIt && tested && (
               <>
                 <span class="hidden md:inline text-gray-300">•</span>
                 <span class="inline-flex items-center gap-1 text-xs font-semibold px-2.5 py-1 rounded-md bg-emerald-50 text-emerald-700 border border-emerald-200/60">
@@ -286,7 +286,7 @@ if (image) {
         <PrevNextNavigation currentSlug={getPostSlug(post)} />
 
         <!-- Author Bio (never on copy the sponsor wrote) -->
-        {!sponsorWroteIt && <AuthorBio />}
+        {!sponsorWroteIt && <AuthorBio tested={tested} />}
 
         <!-- Related Posts -->
         <RelatedPosts currentSlug={getPostSlug(post)} currentTags={tags} />
