@@ -71,7 +71,7 @@ The [Paperwhite](https://amazon.com/kindle) is the model most people should get,
 - An **adjustable warm light** for comfortable night reading
 - Battery life measured in **weeks**, not days
 
-That combination is why the Paperwhite is our default recommendation across the site. It removes the small daily annoyances of the base model without pushing into premium territory.
+That combination is why the Paperwhite is our default recommendation across the site. It removes the small daily annoyances of the base model without pushing into premium territory. Buying for an older reader? The [best Kindle for seniors](/best-kindle-for-seniors/) guide narrows it down to two models and the settings that matter.
 
 If you want a little more, the **Paperwhite Signature Edition** ($199.99) adds 32GB of storage, an auto-adjusting front light, and wireless charging. Nice to have, but not essential. Most people are happier keeping the $40 and buying a good [Kindle case](/best-kindle-cases-2026/) instead.
 
@@ -94,7 +94,6 @@ As a pure reader it is excellent but overkill, and its size makes it less comfor
 ## Buying for a Child
 
 Every Kids edition is the same hardware as its regular counterpart, bundled with a cover, a longer worry-free guarantee, and parental controls, usually for about $20 more:
-
 - **Kindle Kids:** $129.99
 - **Kindle Paperwhite Kids:** $179.99
 - **Kindle Colorsoft Kids:** $269.99

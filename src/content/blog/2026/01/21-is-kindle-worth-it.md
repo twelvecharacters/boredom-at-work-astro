@@ -81,8 +81,7 @@ If you read a lot, these can save serious money compared to buying every book.
 
 ### 6. Adjustable Text Size and Font
 
-Bad eyesight? Small print? Not a problem. Adjust font size, font type, line spacing, and margins to whatever works for you.
-
+Bad eyesight? Small print? Not a problem. Adjust font size, font type, line spacing, and margins to whatever works for you. If you are buying for an older reader, the [best Kindle for seniors](/best-kindle-for-seniors/) guide covers which model and settings make the biggest difference.
 This alone makes e-readers worthwhile for many people.
 
 ## The Case AGAINST Buying a Kindle
