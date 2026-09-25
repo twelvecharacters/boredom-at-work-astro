@@ -151,7 +151,4 @@ For most people, the **Kindle Paperwhite** remains the best overall e-reader in 
 
 Whichever you pick, check our [best Kindle accessories guide](/best-kindle-accessories/) and [tips and tricks](/kindle-tips-and-tricks/) to get the most out of your device.
 
-Shopping for the reader in your life? An e-reader pairs nicely with picks from our [best tech gifts under $50](/best-tech-gifts-under-50/) list, or step up to the [AirPods Pro 3](/airpods-pro-3-review/) for audiobook listening alongside the Kindle.
-
-
- 
+Shopping for the reader in your life? An e-reader pairs nicely with picks from our [best tech gifts under $50](/best-tech-gifts-under-50/) list, or step up to the [AirPods Pro 3](/airpods-pro-3-review/) for audiobook listening alongside the Kindle. For a parent or grandparent, start with our [best Kindle for seniors](/best-kindle-for-seniors/) pick instead.
