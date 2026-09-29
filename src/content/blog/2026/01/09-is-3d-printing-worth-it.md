@@ -181,7 +181,7 @@ You have ideas you want to bring to life. From gifts to your own inventions.
 For 2-3 prints per year, use a printing service or ask in the community.
 
 **...have no space**
-A 3D printer needs floor space, makes noise, and produces minimal fumes.
+A 3D printer needs floor space, makes noise, and produces minimal fumes. What "minimal" means for ABS, resin, and enclosures is covered in my guide to the [real dangers of 3D printing](/dangers-of-3d-printing/).
 
 **...don't want to invest time**
 The learning curve takes time. Without patience, it becomes frustrating.

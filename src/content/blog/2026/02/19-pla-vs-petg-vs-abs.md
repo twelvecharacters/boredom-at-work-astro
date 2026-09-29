@@ -173,7 +173,7 @@ Unless you specifically need:
 - Acetone smoothing capability
 - Maximum impact strength
 
-...then PETG will serve you better with 10% of the hassle. ASA (a UV-stable ABS variant) is worth considering if you need ABS properties for outdoor use. For a deeper look at printing technologies, see our [FDM vs Resin comparison](/fdm-vs-resin-printing/).
+...then PETG will serve you better with 10% of the hassle. ASA (a UV-stable ABS variant) is worth considering if you need ABS properties for outdoor use. For a deeper look at printing technologies, see our [FDM vs Resin comparison](/fdm-vs-resin-printing/). ABS also releases styrene while printing, so read up on the [real dangers of 3D printing](/dangers-of-3d-printing/) before running it in a bedroom or office.
 
 ---
 

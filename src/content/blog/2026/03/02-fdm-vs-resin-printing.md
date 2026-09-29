@@ -27,7 +27,7 @@ tldr: "FDM: Cheaper, safer, better for functional parts and large prints. Resin:
 
 **Pick FDM unless you print miniatures.** FDM printers are cheaper to run (filament at $20 to $30 per kilogram against resin at $30 to $50 per liter plus isopropyl alcohol for cleaning), print larger objects (a typical 220 × 220 × 250 mm bed against roughly 130 × 80 × 150 mm on consumer resin machines), and need no gloves, no curing station, and no ventilation plan. Resin wins on detail: it resolves features FDM cannot, which is why tabletop miniatures and jewelry prototypes are printed in resin. Everything else in this comparison follows from that trade.
 
-So you've decided to get into 3D printing. You start researching and immediately hit a fork in the road: FDM or resin?
+So you've decided to get into 3D printing. You start researching and immediately hit a fork in the road: FDM or resin? Resin in particular has a safety side most beginner guides skip; my guide to the [real dangers of 3D printing](/dangers-of-3d-printing/) covers fumes, skin contact, and fire risk for both technologies.
 
 Both technologies create 3D objects layer by layer, but that's where the similarities end. They use different materials, produce different results, and require completely different workflows.
 
