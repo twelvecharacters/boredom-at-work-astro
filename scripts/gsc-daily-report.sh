@@ -19,6 +19,16 @@ GH="/opt/homebrew/bin/gh"
 mkdir -p "$LOG_DIR"
 cd "$REPO" || exit 1
 
+# --- Netz abwarten ---------------------------------------------------------
+# 18./19./20./29.9.: der Job startet direkt nach dem Aufwachen des Macs, DNS und
+# TLS sind dann fuer ein bis zwei Minuten kaputt (gh 3x "nicht erreichbar",
+# Token-Request ENOTFOUND, 401 auf jede Inspection). Bis zu 5 Minuten warten,
+# bis Google antwortet, bevor irgendetwas passiert.
+for i in $(seq 1 30); do
+  curl -s -o /dev/null --max-time 5 https://www.google.com/generate_204 && break
+  sleep 10
+done
+
 # --- Deploy-Fallback -------------------------------------------------------
 # The workflow's own cron (17 4 * * *) is unreliable: GitHub ran the 5:00 UTC
 # schedule at 9:00-9:50 UTC for a week and skipped 11 Sept entirely, so
