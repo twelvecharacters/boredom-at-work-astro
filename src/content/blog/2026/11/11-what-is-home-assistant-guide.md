@@ -1,9 +1,9 @@
 ---
 title: "What Is Home Assistant? The Ultimate Beginner's Guide"
 description: "Discover what Home Assistant is and why it beats Apple Home and Google Home. Learn about local control, Zigbee, Z-Wave, hardware setups, and automations."
-publishDate: 2026-09-30
+publishDate: 2026-11-11
 author: "Mehdi"
-image: "./30-what-is-home-assistant-guide.webp"
+image: "./11-what-is-home-assistant-guide.webp"
 imageAlt: "Modern tablet mounted on a wall displaying the Home Assistant smart home dashboard"
 tags: ["Smart Home", "Tech & Gadgets", "Tutorial", "Automation"]
 draft: false

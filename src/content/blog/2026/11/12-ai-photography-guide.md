@@ -2,9 +2,9 @@
 title: "AI in Photography: The Complete 2026 Workflow Guide"
 slug: "ai-photography-guide"
 description: "Master AI in photography: from AI autofocus to post-processing in Lightroom, Photoshop, and Topaz. Take better photos without losing your creative soul."
-publishDate: 2026-10-02
+publishDate: 2026-11-12
 author: "Mehdi"
-image: "./02-ai-photography-guide.webp"
+image: "./12-ai-photography-guide.webp"
 imageAlt: "Digital illustration showing a camera lens with AI-powered overlays and holographic editing sliders"
 tags: ["Photography", "AI", "Tutorial"]
 draft: false
