@@ -5,7 +5,7 @@ description: "Homebrew 7 review: explore the official BrewUI native macOS app, v
 publishDate: 2026-10-02
 author: "Mehdi"
 image: "./02-homebrew-7-and-new-gui-guide.webp"
-imageAlt: "Modern macOS desktop displaying the official BrewUI Homebrew app next to a dark terminal window"
+imageAlt: "Official BrewUI application window in Homebrew 7 showing package management interface and cask details"
 tags: ["Mac", "Tools", "Software", "Productivity"]
 draft: false
 faq:
