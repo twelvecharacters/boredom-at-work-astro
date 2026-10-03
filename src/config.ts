@@ -76,11 +76,65 @@ export const AUTHOR = {
   ],
 };
 
-export const NAV_ITEMS = [
-  { label: 'Home', href: '/' },
-  { label: 'AI Guides', href: '/learn-ai-guide/' },
-  { label: '3D Printing', href: '/3d-printing-guide/' },
-  { label: 'Desk Setup', href: '/desk-upgrade-guide/' },
+export interface NavItem {
+  label: string;
+  href: string;
+  badge?: string;
+  children?: {
+    label: string;
+    description?: string;
+    href: string;
+    icon?: string;
+  }[];
+}
+
+export const NAV_ITEMS: NavItem[] = [
+  {
+    label: 'AI Leaderboard',
+    href: '/ai-leaderboard/',
+  },
+  {
+    label: 'Guides',
+    href: '/learn-ai-guide/',
+    children: [
+      {
+        label: 'AI Learning Roadmap',
+        description: 'From beginner to prompt workflows',
+        href: '/learn-ai-guide/',
+        icon: '🧠',
+      },
+      {
+        label: 'ChatGPT & Prompts',
+        description: 'Office workflows & frameworks',
+        href: '/chatgpt-guide/',
+        icon: '⚡',
+      },
+      {
+        label: '3D Printing Guide',
+        description: 'Printers, slicers & troubleshooting',
+        href: '/3d-printing-guide/',
+        icon: '🖨️',
+      },
+      {
+        label: 'Desk Setup & WFH',
+        description: 'Monitor arms, chairs & lighting',
+        href: '/desk-upgrade-guide/',
+        icon: '🖥️',
+      },
+      {
+        label: 'Investing Tools',
+        description: 'Stock screeners & dividend trackers',
+        href: '/investing-tools-guide/',
+        icon: '📈',
+      },
+      {
+        label: 'Photography Blueprint',
+        description: 'Mirrorless cameras & lens picks',
+        href: '/photography-guide/',
+        icon: '📷',
+      },
+    ],
+  },
   { label: 'Blog', href: '/blog/' },
   { label: 'About', href: '/about/' },
   { label: 'Contact', href: '/contact/' },

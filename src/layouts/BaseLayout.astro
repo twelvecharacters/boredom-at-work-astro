@@ -24,6 +24,7 @@ interface Props {
   imageAlt?: string;
   noindex?: boolean;
   nocanonical?: boolean;
+  canonical?: string;
   prevUrl?: string;
   nextUrl?: string;
   author?: string; // Overrides the site author, e.g. on sponsored posts
@@ -41,13 +42,14 @@ const {
   imageAlt,
   noindex = false,
   nocanonical = false,
+  canonical,
   prevUrl,
   nextUrl,
   author = SITE.author,
   preloadImage,
 } = Astro.props;
 
-const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const canonicalURL = canonical ? new URL(canonical, Astro.site) : new URL(Astro.url.pathname, Astro.site);
 const socialImagePath = typeof image === 'string' ? image : (image?.src || ogDefault.src);
 const socialImageURL = new URL(socialImagePath, Astro.site);
 ---

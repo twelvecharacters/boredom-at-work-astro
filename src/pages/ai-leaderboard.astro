@@ -1,0 +1,684 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../config';
+import {
+  LEADERBOARD_MODELS,
+  LEADERBOARD_FAQS as faqItems,
+  LEADERBOARD_STATS,
+  type LeaderboardModel,
+} from '../data/ai-leaderboard';
+
+// Only display the top 15 models on the page
+const models = LEADERBOARD_MODELS.slice(0, 15);
+
+const pageTitle = "LLM Leaderboard: Top AI Models Ranked by Intelligence & Speed";
+const pageDescription = "Explore the verified AI and LLM leaderboard. Compare Claude Opus 5.5, Sonnet 5.5, GPT-6 Astra, and Gemini 4 by Artificial Analysis Intelligence Index, speed, and cost;";
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://boredom-at-work.com/ai-leaderboard/",
+      "url": "https://boredom-at-work.com/ai-leaderboard/",
+      "name": pageTitle,
+      "description": pageDescription,
+      "publisher": {
+        "@type": "Organization",
+        "name": SITE.title,
+        "url": SITE.url
+      }
+    },
+    {
+      "@type": "ItemList",
+      "name": "Frontier LLM Leaderboard by Artificial Analysis Intelligence Index",
+      "description": "Rankings of top artificial intelligence foundation models.",
+      "itemListElement": models.map((m) => ({
+        "@type": "ListItem",
+        "position": m.rank,
+        "name": m.name,
+        "description": `${m.name} by ${m.creator} (Intelligence Index: ${m.intelligence}, Speed: ${m.outputSpeed})`
+      }))
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": faqItems.map(faq => ({
+        "@type": "Question",
+        "name": faq.question,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": faq.answer
+        }
+      }))
+    }
+  ]
+};
+---
+
+<BaseLayout title={pageTitle} description={pageDescription}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <!-- Hero Header -->
+  <header class="py-16 md:py-20 bg-background-alt border-b border-primary/5">
+    <div class="max-w-6xl mx-auto px-4">
+      <div class="flex flex-wrap items-center gap-2 mb-4">
+        <span class="text-xs font-extrabold uppercase tracking-wider text-accent bg-accent/10 px-3 py-1 rounded-full">
+          Live AI Model Index
+        </span>
+        <span class="text-xs font-semibold text-emerald-700 bg-emerald-50 border border-emerald-200 px-3 py-1 rounded-full">
+          Benchmarked via Artificial Analysis
+        </span>
+        <span class="text-xs font-medium text-text-light bg-white border border-primary/10 px-3 py-1 rounded-full">
+          Late 2026 Edition
+        </span>
+      </div>
+
+      <h1 class="text-4xl md:text-6xl font-extrabold text-primary tracking-tight mb-6">
+        Frontier LLM Leaderboard
+      </h1>
+
+      <p class="text-lg md:text-xl text-text-light max-w-3xl leading-relaxed mb-8">
+        Independent comparison of frontier AI models from Anthropic, OpenAI, Google DeepMind, Meta, and SpaceXAI. We benchmark the Artificial Analysis Intelligence Index, output speed (tokens/sec), first-chunk latency, and cost per task.
+      </p>
+
+      <!-- Key Metrics Strip -->
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 pt-4 border-t border-primary/10">
+        {LEADERBOARD_STATS.map((stat) => (
+          <div class="p-4 rounded-xl bg-white border border-primary/10 shadow-sm">
+            <div class={`text-2xl font-black ${stat.colorClass} mb-1`}>{stat.value}</div>
+            <div class="text-xs font-semibold text-text-light uppercase tracking-wider">{stat.label}</div>
+            <div class="text-xs text-text-light mt-1">{stat.subtext}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </header>
+
+  <!-- Spotlight Quick Picks -->
+  <section class="py-12 bg-white border-b border-primary/5">
+    <div class="max-w-6xl mx-auto px-4">
+      <div class="mb-8">
+        <span class="text-xs font-extrabold uppercase tracking-wider text-accent bg-accent/10 px-3 py-1 rounded-full inline-block mb-2">
+          Category Leaders
+        </span>
+        <h2 class="text-2xl md:text-3xl font-extrabold text-primary">
+          Best Models by Performance Profile
+        </h2>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        <!-- Pick 1: Top Intelligence -->
+        <div class="p-6 rounded-2xl bg-amber-50/50 border border-amber-200/80 shadow-sm flex flex-col justify-between">
+          <div>
+            <div class="flex items-center justify-between mb-3">
+              <span class="text-2xl">👑</span>
+              <span class="text-xs font-bold uppercase tracking-wider bg-amber-100 text-amber-800 px-2 py-0.5 rounded">#1 Intelligence</span>
+            </div>
+            <h3 class="text-lg font-bold text-primary mb-1">Claude Opus 5.5</h3>
+            <p class="text-xs text-amber-900 font-medium mb-3">Anthropic · 1M Context</p>
+            <p class="text-sm text-text-light leading-relaxed">
+              Highest quality score on the index (58). Built for multi-layered reasoning, architectural strategy, and zero-compromise accuracy.
+            </p>
+          </div>
+          <div class="mt-4 pt-3 border-t border-amber-200 text-xs font-bold text-amber-900">
+            Intelligence: 58 · Speed: 93 t/s · $5.98/task
+          </div>
+        </div>
+
+        <!-- Pick 2: Best for Coding -->
+        <div class="p-6 rounded-2xl bg-emerald-50/50 border border-emerald-200/80 shadow-sm flex flex-col justify-between">
+          <div>
+            <div class="flex items-center justify-between mb-3">
+              <span class="text-2xl">💻</span>
+              <span class="text-xs font-bold uppercase tracking-wider bg-emerald-100 text-emerald-800 px-2 py-0.5 rounded">Coding Champion</span>
+            </div>
+            <h3 class="text-lg font-bold text-primary mb-1">Claude Sonnet 5.5</h3>
+            <p class="text-xs text-emerald-900 font-medium mb-3">Anthropic · 1M Context</p>
+            <p class="text-sm text-text-light leading-relaxed">
+              Leading developer choice worldwide. High intelligence (56) paired with 139 tokens/second for instant code gen and agentic loops.
+            </p>
+          </div>
+          <div class="mt-4 pt-3 border-t border-emerald-200 text-xs font-bold text-emerald-900">
+            Intelligence: 56 · Speed: 139 t/s · $2.75/task
+          </div>
+        </div>
+
+        <!-- Pick 3: Speed Record -->
+        <div class="p-6 rounded-2xl bg-indigo-50/50 border border-indigo-200/80 shadow-sm flex flex-col justify-between">
+          <div>
+            <div class="flex items-center justify-between mb-3">
+              <span class="text-2xl">⚡</span>
+              <span class="text-xs font-bold uppercase tracking-wider bg-indigo-100 text-indigo-800 px-2 py-0.5 rounded">Speed King</span>
+            </div>
+            <h3 class="text-lg font-bold text-primary mb-1">Gemini 3.8 Flash</h3>
+            <p class="text-xs text-indigo-900 font-medium mb-3">Google DeepMind · 1M Context</p>
+            <p class="text-sm text-text-light leading-relaxed">
+              Record-shattering 249 tokens per second with 0.19s latency. The ultimate engine for real-time voice and high-throughput workflows.
+            </p>
+          </div>
+          <div class="mt-4 pt-3 border-t border-indigo-200 text-xs font-bold text-indigo-900">
+            Output: 249 t/s · Latency: 0.19s · $1.24/task
+          </div>
+        </div>
+
+        <!-- Pick 4: Best Value -->
+        <div class="p-6 rounded-2xl bg-purple-50/50 border border-purple-200/80 shadow-sm flex flex-col justify-between">
+          <div>
+            <div class="flex items-center justify-between mb-3">
+              <span class="text-2xl">💰</span>
+              <span class="text-xs font-bold uppercase tracking-wider bg-purple-100 text-purple-800 px-2 py-0.5 rounded">Best Value</span>
+            </div>
+            <h3 class="text-lg font-bold text-primary mb-1">GPT-6.1 Sol</h3>
+            <p class="text-xs text-purple-900 font-medium mb-3">OpenAI · 1M Context</p>
+            <p class="text-sm text-text-light leading-relaxed">
+              High intelligence index of 52 at just $0.72 per task. Unbeatable price-to-performance ratio for massive production deployments.
+            </p>
+          </div>
+          <div class="mt-4 pt-3 border-t border-purple-200 text-xs font-bold text-purple-900">
+            Intelligence: 52 · Cost: $0.72/task · 63 t/s
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Interactive Leaderboard Section -->
+  <section class="py-16 bg-background-alt" id="leaderboard">
+    <div class="max-w-6xl mx-auto px-4">
+      <div class="flex flex-col md:flex-row md:items-end justify-between mb-8 gap-4">
+        <div>
+          <span class="text-xs font-extrabold uppercase tracking-wider text-accent bg-accent/10 px-3 py-1 rounded-full inline-block mb-2">
+            Artificial Analysis Intelligence Index
+          </span>
+          <h2 class="text-3xl md:text-4xl font-extrabold text-primary tracking-tight">
+            Comprehensive Model Comparison
+          </h2>
+        </div>
+        <div class="text-sm text-text-light max-w-md">
+          Filter and sort over key intelligence and speed metrics. Real data sourced from <a href="https://artificialanalysis.ai/leaderboards/models" target="_blank" rel="noopener nofollow" class="underline font-semibold text-accent hover:text-accent-hover">Artificial Analysis</a>.
+        </div>
+      </div>
+
+      <!-- Controls: Filter Tabs & Live Search -->
+      <div class="bg-white p-4 rounded-2xl border border-primary/10 shadow-sm mb-6 flex flex-col lg:flex-row items-stretch lg:items-center justify-between gap-4">
+        <!-- Filter Tabs -->
+        <div class="flex flex-wrap items-center gap-1.5" id="filter-tabs">
+          <button data-filter="all" class="filter-tab active px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all bg-primary text-white">
+            All Models
+          </button>
+          <button data-filter="frontier" class="filter-tab px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all bg-background-alt text-text-light hover:text-primary">
+            Frontier Intelligence (50+)
+          </button>
+          <button data-filter="speed" class="filter-tab px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all bg-background-alt text-text-light hover:text-primary">
+            Fast Speed (70+ t/s)
+          </button>
+          <button data-filter="value" class="filter-tab px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all bg-background-alt text-text-light hover:text-primary">
+            Best Value (&lt; $1.50)
+          </button>
+          <button data-filter="open" class="filter-tab px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all bg-background-alt text-text-light hover:text-primary">
+            Open Weights
+          </button>
+        </div>
+
+        <!-- Search Bar -->
+        <div class="relative min-w-[260px]">
+          <input
+            type="text"
+            id="model-search"
+            placeholder="Search model or vendor (e.g. Anthropic, OpenAI)..."
+            class="w-full pl-9 pr-3 py-2 text-xs rounded-lg border border-primary/15 bg-background-alt focus:bg-white focus:outline-none focus:ring-2 focus:ring-accent/30 focus:border-accent text-primary placeholder-text-light/60 transition-all"
+          />
+          <svg class="w-4 h-4 text-text-light/60 absolute left-3 top-2.5 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+        </div>
+      </div>
+
+      <!-- Desktop Table View -->
+      <div class="hidden lg:block overflow-x-auto bg-white rounded-2xl border border-primary/10 shadow-sm">
+        <table class="w-full text-left border-collapse" id="models-table">
+          <thead>
+            <tr class="border-b border-primary/10 bg-background-alt/50 text-xs font-bold text-text-light uppercase tracking-wider">
+              <th class="py-4 px-4 w-12 text-center">Rank</th>
+              <th class="py-4 px-4">Model & Creator</th>
+              <th class="py-4 px-3 text-center whitespace-nowrap min-w-[120px]">Type</th>
+              <th class="py-4 px-3 text-center">Intelligence Index</th>
+              <th class="py-4 px-3 text-center">Output Speed</th>
+              <th class="py-4 px-3 text-center">Latency (TTFT)</th>
+              <th class="py-4 px-3 text-center">Context</th>
+              <th class="py-4 px-3 text-right">Cost per Task</th>
+              <th class="py-4 px-4 text-right">Try Model</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-primary/5 text-sm" id="table-body">
+            {models.map((model) => (
+              <tr
+                class="hover:bg-background-alt/40 transition-colors model-row"
+                data-name={model.name.toLowerCase()}
+                data-creator={model.creator.toLowerCase()}
+                data-category={model.category}
+                data-type={model.type === 'Open Weights' ? 'open' : 'proprietary'}
+              >
+                <!-- Rank -->
+                <td class="py-4 px-4 text-center font-black text-primary">
+                  <span class={`inline-flex items-center justify-center w-7 h-7 rounded-full text-xs ${
+                    model.rank === 1 ? 'bg-amber-100 text-amber-800 font-bold' :
+                    model.rank === 2 ? 'bg-slate-200 text-slate-800 font-bold' :
+                    model.rank === 3 ? 'bg-amber-50 text-amber-900 border border-amber-300 font-bold' :
+                    'text-text-light'
+                  }`}>
+                    {model.rank}
+                  </span>
+                </td>
+
+                <!-- Model Name & Creator -->
+                <td class="py-4 px-4">
+                  <div class="flex items-center gap-2">
+                    <span class="font-bold text-primary hover:text-accent transition-colors">{model.name}</span>
+                    {model.highlightBadge && (
+                      <span class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-accent/10 text-accent whitespace-nowrap">
+                        {model.highlightBadge}
+                      </span>
+                    )}
+                  </div>
+                  <div class="text-xs text-text-light mt-0.5 flex items-center gap-2">
+                    <span class="font-medium text-text-light">{model.creator}</span>
+                    <span>·</span>
+                    <span class="text-primary font-medium">{model.bestFor}</span>
+                  </div>
+                </td>
+
+                <!-- Type -->
+                <td class="py-4 px-3 text-center whitespace-nowrap">
+                  <span class={`text-[11px] font-semibold px-2.5 py-0.5 rounded-full inline-block whitespace-nowrap ${
+                    model.type === 'Open Weights'
+                      ? 'bg-blue-50 text-blue-700 border border-blue-200'
+                      : 'bg-zinc-100 text-zinc-700 border border-zinc-200'
+                  }`}>
+                    {model.type}
+                  </span>
+                </td>
+
+                <!-- Intelligence Index -->
+                <td class="py-4 px-3 text-center font-extrabold text-base text-primary">
+                  <span class={model.intelligence >= 53 ? 'text-accent font-black' : ''}>
+                    {model.intelligence}
+                  </span>
+                </td>
+
+                <!-- Speed -->
+                <td class="py-4 px-3 text-center font-semibold text-primary">
+                  <span class={parseInt(model.outputSpeed) >= 100 ? 'text-emerald-600 font-bold' : ''}>
+                    {model.outputSpeed}
+                  </span>
+                </td>
+
+                <!-- Latency TTFT -->
+                <td class="py-4 px-3 text-center text-xs font-medium text-text-light">
+                  {model.latencyTTFT}
+                </td>
+
+                <!-- Context Window -->
+                <td class="py-4 px-3 text-center text-xs font-semibold text-text-light">
+                  {model.contextWindow}
+                </td>
+
+                <!-- Cost per Task -->
+                <td class="py-4 px-3 text-right">
+                  <div class="font-black text-xs text-primary">{model.costPerTask}</div>
+                  <div class="text-[10px] text-text-light">USD</div>
+                </td>
+
+                <!-- Try Model Action -->
+                <td class="py-4 px-4 text-right">
+                  <a
+                    href={model.providerUrl}
+                    target="_blank"
+                    rel="noopener nofollow"
+                    class="inline-flex items-center text-xs font-bold text-accent hover:text-accent-hover bg-accent/5 hover:bg-accent/10 px-3 py-1.5 rounded-lg transition-all"
+                  >
+                    Try <span class="ml-1">→</span>
+                  </a>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Mobile Cards View -->
+      <div class="block lg:hidden space-y-4" id="cards-container">
+        {models.map((model) => (
+          <div
+            class="bg-white p-5 rounded-2xl border border-primary/10 shadow-sm model-card"
+            data-name={model.name.toLowerCase()}
+            data-creator={model.creator.toLowerCase()}
+            data-category={model.category}
+            data-type={model.type === 'Open Weights' ? 'open' : 'proprietary'}
+          >
+            <div class="flex items-start justify-between gap-2 mb-3">
+              <div>
+                <div class="flex items-center gap-2 mb-1">
+                  <span class="text-xs font-black px-2 py-0.5 rounded bg-primary text-white">
+                    #{model.rank}
+                  </span>
+                  <h3 class="font-bold text-primary">{model.name}</h3>
+                </div>
+                <div class="text-xs text-text-light">{model.creator} · {model.bestFor}</div>
+              </div>
+              <span class={`text-[10px] font-bold px-2.5 py-0.5 rounded-full whitespace-nowrap shrink-0 ${
+                model.type === 'Open Weights'
+                  ? 'bg-blue-50 text-blue-700 border border-blue-200'
+                  : 'bg-zinc-100 text-zinc-700 border border-zinc-200'
+              }`}>
+                {model.type}
+              </span>
+            </div>
+
+            {model.highlightBadge && (
+              <div class="mb-3">
+                <span class="text-[11px] font-bold px-2.5 py-0.5 rounded-md bg-accent/10 text-accent inline-block">
+                  ★ {model.highlightBadge}
+                </span>
+              </div>
+            )}
+
+            <div class="grid grid-cols-4 gap-2 py-3 border-y border-primary/5 text-center text-xs my-3 bg-background-alt/50 rounded-xl">
+              <div>
+                <div class="text-[10px] font-semibold text-text-light uppercase">Index</div>
+                <div class="font-black text-accent mt-0.5 text-sm">{model.intelligence}</div>
+              </div>
+              <div>
+                <div class="text-[10px] font-semibold text-text-light uppercase">Speed</div>
+                <div class="font-bold text-primary mt-0.5">{model.outputSpeed}</div>
+              </div>
+              <div>
+                <div class="text-[10px] font-semibold text-text-light uppercase">Cost</div>
+                <div class="font-bold text-primary mt-0.5">{model.costPerTask}</div>
+              </div>
+              <div>
+                <div class="text-[10px] font-semibold text-text-light uppercase">Context</div>
+                <div class="font-bold text-primary mt-0.5">{model.contextWindow}</div>
+              </div>
+            </div>
+
+            <div class="flex items-center justify-between text-xs pt-1">
+              <span class="text-text-light text-[11px]">{model.summary}</span>
+              <a
+                href={model.providerUrl}
+                target="_blank"
+                rel="noopener nofollow"
+                class="font-bold text-accent hover:text-accent-hover text-xs whitespace-nowrap ml-3"
+              >
+                Try →
+              </a>
+            </div>
+          </div>
+        ))}
+      </div>
+
+      <!-- No Results State -->
+      <div id="no-results" class="hidden text-center py-12 bg-white rounded-2xl border border-primary/10 mt-4">
+        <p class="text-text-light font-medium">No models found matching your search query.</p>
+        <button id="reset-filters" class="mt-3 text-xs font-bold text-accent hover:underline">
+          Reset all filters
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Deep Dive Analysis Section -->
+  <section class="py-16 md:py-24 bg-white border-b border-primary/5">
+    <div class="max-w-4xl mx-auto px-4 space-y-16">
+      
+      <!-- Section 1: The Frontier Shift -->
+      <div>
+        <span class="text-xs font-extrabold uppercase tracking-wider text-accent bg-accent/10 px-3 py-1 rounded-full inline-block mb-3">
+          Market Intelligence
+        </span>
+        <h2 class="text-3xl font-extrabold text-primary mb-4 tracking-tight">
+          How the Frontier Leaderboard Has Evolved
+        </h2>
+        <div class="space-y-4 text-text-light leading-relaxed text-base">
+          <p>
+            The artificial intelligence market has transitioned from static benchmark benchmarks to holistic, real-world utility measured across intelligence, execution speed, latency, and operational cost:
+          </p>
+          <ul class="list-disc pl-5 space-y-2">
+            <li>
+              <strong class="text-primary">Anthropic's Dual-Flagship Strategy:</strong> Claude Opus 5.5 commands the highest raw intelligence score (58), excelling at complex system architecture and high-stakes reasoning. Meanwhile, Claude Sonnet 5.5 (56 score at 139 tokens/sec) dominates active developer environments like Cursor and VS Code Copilot.
+            </li>
+            <li>
+              <strong class="text-primary">OpenAI's Tiered Astra &amp; Sol Models:</strong> GPT-6 Astra acts as the reasoning flagship, while GPT-6.1 Sol redefines price-performance by delivering 52 intelligence for just $0.72 per task.
+            </li>
+            <li>
+              <strong class="text-primary">Google DeepMind's Speed Supremacy:</strong> Gemini 3.8 Flash achieves a historic 249 tokens per second with sub-200ms latency, enabling real-time voice and high-throughput enterprise pipelines. Gemini 4 Argon brings heavy multimodal capability to massive document sets.
+            </li>
+            <li>
+              <strong class="text-primary">Global Cost Disruptors:</strong> Xiaomi's MiMo-V2.6-Pro delivers 46 intelligence at just $0.13 per task, demonstrating how rapid distillation and quantization are driving token costs to zero.
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Section 2: Methodology -->
+      <div class="p-8 rounded-2xl bg-background-alt border border-primary/10">
+        <h3 class="text-2xl font-bold text-primary mb-4">
+          Understanding the Artificial Analysis Metrics
+        </h3>
+        <div class="grid sm:grid-cols-2 gap-6 text-sm">
+          <div>
+            <h4 class="font-bold text-primary mb-1">Intelligence Index</h4>
+            <p class="text-text-light leading-relaxed">
+              Standardized composite score (0–100) combining reasoning, software coding, mathematical deduction, and factual comprehension across non-memorizable evaluations.
+            </p>
+          </div>
+          <div>
+            <h4 class="font-bold text-primary mb-1">Output Speed (Tokens/s)</h4>
+            <p class="text-text-light leading-relaxed">
+              Median token generation rate after the first response packet is returned. Speeds above 100 t/s provide an instant, seamless typing experience for interactive human-in-the-loop workflows.
+            </p>
+          </div>
+          <div>
+            <h4 class="font-bold text-primary mb-1">Latency (Time To First Token)</h4>
+            <p class="text-text-light leading-relaxed">
+              The duration in seconds before the model generates its initial response chunk. Sub-0.5s latency is essential for voice assistants and automated terminal tool feedback loops.
+            </p>
+          </div>
+          <div>
+            <h4 class="font-bold text-primary mb-1">Cost per Task (USD)</h4>
+            <p class="text-text-light leading-relaxed">
+              Calculates real expenditure across standardized production queries. Comparing $0.13 vs $5.98 highlights how choosing the right tier slashes enterprise operational costs by 95%.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Section 3: Cross-Verification & Sources -->
+      <div class="p-8 rounded-2xl bg-white border border-primary/10 shadow-sm">
+        <span class="text-xs font-extrabold uppercase tracking-wider text-accent bg-accent/10 px-3 py-1 rounded-full inline-block mb-3">
+          Independent Verification
+        </span>
+        <h3 class="text-2xl font-bold text-primary mb-4">
+          Multi-Source Benchmarking & Data Privacy
+        </h3>
+        <p class="text-text-light leading-relaxed text-sm mb-6">
+          To eliminate provider bias, our index synthesizes intelligence telemetry and evaluation methodologies across three leading research hubs:
+        </p>
+        <div class="grid sm:grid-cols-3 gap-4 text-xs">
+          <div class="p-4 rounded-xl bg-background-alt border border-primary/5">
+            <div class="font-bold text-primary text-sm mb-1">Artificial Analysis</div>
+            <p class="text-text-light leading-relaxed">
+              Automated latency testing, median token throughput (Tokens/s), and standardized cost-per-task evaluations across global API endpoints.
+            </p>
+          </div>
+          <div class="p-4 rounded-xl bg-background-alt border border-primary/5">
+            <div class="font-bold text-primary text-sm mb-1">LMSYS Chatbot Arena</div>
+            <p class="text-text-light leading-relaxed">
+              Crowdsourced, double-blind human preference battles measuring real-world conversational helpfulness and subjective nuance (arena.ai).
+            </p>
+          </div>
+          <div class="p-4 rounded-xl bg-background-alt border border-primary/5">
+            <div class="font-bold text-primary text-sm mb-1">Collective Brain</div>
+            <p class="text-text-light leading-relaxed">
+              European business workflow testing, daily task indexing, and GDPR / AVV data privacy evaluations for enterprise deployment.
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <section class="py-16 md:py-20 bg-background-alt border-b border-primary/5">
+    <div class="max-w-4xl mx-auto px-4">
+      <div class="text-center mb-12">
+        <span class="text-xs font-extrabold uppercase tracking-wider text-accent bg-accent/10 px-3 py-1 rounded-full inline-block mb-3">
+          Knowledge Base
+        </span>
+        <h2 class="text-3xl md:text-4xl font-extrabold text-primary tracking-tight">
+          Frequently Asked Questions
+        </h2>
+      </div>
+
+      <div class="space-y-4">
+        {faqItems.map((faq) => (
+          <details class="group p-6 rounded-2xl bg-white border border-primary/10 shadow-sm transition-all [&_summary::-webkit-details-marker]:hidden">
+            <summary class="flex items-center justify-between cursor-pointer font-bold text-primary group-hover:text-accent transition-colors list-none text-lg">
+              <span>{faq.question}</span>
+              <span class="ml-4 flex-shrink-0 transition-transform duration-200 group-open:rotate-180 text-accent">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                </svg>
+              </span>
+            </summary>
+            <p class="mt-4 text-text-light text-sm md:text-base leading-relaxed pt-2 border-t border-primary/5">
+              {faq.answer}
+            </p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Related Guides Callout -->
+  <section class="py-16 bg-white">
+    <div class="max-w-4xl mx-auto px-4 text-center">
+      <h3 class="text-2xl font-bold text-primary mb-3">
+        Master Frontier AI in Your Workflow
+      </h3>
+      <p class="text-text-light mb-8 max-w-xl mx-auto">
+        Learn how to put these top-ranking models to work with our step-by-step master guides and prompt frameworks.
+      </p>
+      <div class="flex flex-wrap justify-center gap-4">
+        <a
+          href="/learn-ai-guide/"
+          class="inline-flex items-center gap-2 font-bold px-6 py-3 rounded-xl bg-primary text-white hover:bg-primary-light transition-all shadow-sm"
+        >
+          <span>AI Learning Roadmap</span>
+          <span>→</span>
+        </a>
+        <a
+          href="/chatgpt-guide/"
+          class="inline-flex items-center gap-2 font-bold px-6 py-3 rounded-xl bg-background-alt text-primary hover:bg-primary/5 border border-primary/10 transition-all"
+        >
+          <span>ChatGPT &amp; Prompting Guide</span>
+          <span>→</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Client-side Interactive Filter Script -->
+  <script is:inline>
+    document.addEventListener('DOMContentLoaded', () => {
+      const searchInput = document.getElementById('model-search');
+      const filterTabs = document.querySelectorAll('.filter-tab');
+      const tableRows = document.querySelectorAll('.model-row');
+      const cards = document.querySelectorAll('.model-card');
+      const noResults = document.getElementById('no-results');
+      const resetBtn = document.getElementById('reset-filters');
+
+      let currentFilter = 'all';
+      let currentQuery = '';
+
+      function applyFilters() {
+        let visibleCount = 0;
+
+        function checkItem(element) {
+          const name = element.dataset.name || '';
+          const creator = element.dataset.creator || '';
+          const category = element.dataset.category || '';
+          const type = element.dataset.type || '';
+
+          const matchesQuery = !currentQuery || 
+            name.includes(currentQuery) || 
+            creator.includes(currentQuery);
+
+          let matchesCategory = false;
+          if (currentFilter === 'all') {
+            matchesCategory = true;
+          } else if (currentFilter === 'open') {
+            matchesCategory = (type === 'open');
+          } else {
+            matchesCategory = (category === currentFilter);
+          }
+
+          const isVisible = matchesQuery && matchesCategory;
+          element.style.display = isVisible ? '' : 'none';
+          return isVisible;
+        }
+
+        tableRows.forEach(row => {
+          if (checkItem(row)) visibleCount++;
+        });
+
+        cards.forEach(card => {
+          checkItem(card);
+        });
+
+        if (noResults) {
+          noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+      }
+
+      filterTabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+          filterTabs.forEach(t => {
+            t.classList.remove('bg-primary', 'text-white');
+            t.classList.add('bg-background-alt', 'text-text-light');
+          });
+          tab.classList.remove('bg-background-alt', 'text-text-light');
+          tab.classList.add('bg-primary', 'text-white');
+
+          currentFilter = tab.dataset.filter;
+          applyFilters();
+        });
+      });
+
+      if (searchInput) {
+        searchInput.addEventListener('input', (e) => {
+          currentQuery = e.target.value.trim().toLowerCase();
+          applyFilters();
+        });
+      }
+
+      if (resetBtn) {
+        resetBtn.addEventListener('click', () => {
+          if (searchInput) searchInput.value = '';
+          currentQuery = '';
+          currentFilter = 'all';
+          filterTabs.forEach(t => {
+            t.classList.remove('bg-primary', 'text-white');
+            t.classList.add('bg-background-alt', 'text-text-light');
+            if (t.dataset.filter === 'all') {
+              t.classList.remove('bg-background-alt', 'text-text-light');
+              t.classList.add('bg-primary', 'text-white');
+            }
+          });
+          applyFilters();
+        });
+      }
+    });
+  </script>
+</BaseLayout>

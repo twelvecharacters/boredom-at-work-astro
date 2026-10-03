@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = "KI Leaderboard 2026: Die besten KI-Modelle & LLMs im Vergleich";
+const description = "Offizielles KI Leaderboard für Entwickler und Entscheider. Vergleiche die führenden LLMs nach Coding, Reasoning, Kontextfenster und API-Preisen.";
+---
+
+<BaseLayout title={title} description={description} canonical="/ai-leaderboard/">
+  <section class="py-24 bg-background-alt min-h-[60vh] flex items-center justify-center">
+    <div class="max-w-md mx-auto px-4 text-center">
+      <div class="w-16 h-16 mx-auto mb-6 rounded-2xl bg-accent/10 text-accent flex items-center justify-center text-3xl animate-pulse">
+        ⚡
+      </div>
+      <h1 class="text-2xl md:text-3xl font-extrabold text-primary mb-3">
+        Weiterleitung zum KI Leaderboard
+      </h1>
+      <p class="text-text-light text-sm mb-6 leading-relaxed">
+        Du wirst direkt zu unserem interaktiven Frontier AI &amp; KI Leaderboard weitergeleitet...
+      </p>
+      <a
+        href="/ai-leaderboard/"
+        class="inline-flex items-center gap-2 font-bold px-6 py-3 rounded-xl bg-primary text-white hover:bg-primary-light transition-all shadow-sm text-sm"
+      >
+        <span>Direkt zum Leaderboard</span>
+        <span>→</span>
+      </a>
+    </div>
+  </section>
+
+  <script is:inline>
+    if (typeof window !== 'undefined') {
+      window.location.replace('/ai-leaderboard/');
+    }
+  </script>
+</BaseLayout>
