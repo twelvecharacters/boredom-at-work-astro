@@ -10,12 +10,12 @@ const categories = [
     items: [
       {
         rank: 1, rankTrend: 'up', name: 'Claude', company: 'Anthropic', icon: '🧠', bestFor: 'Writing & Coding',
-        description: 'Powered by Claude Opus 5 and Sonnet 5. The absolute best AI for writing human-sounding prose, nuanced reasoning, and production code.',
+        description: 'Powered by Claude Opus 5.5 and Sonnet 5.5. The absolute best AI for writing human-sounding prose, nuanced reasoning, and production code.',
         price: 'Free / $20', color: 'bg-amber-500', textColor: 'text-amber-700', bgColor: 'bg-amber-50', url: 'https://claude.ai/'
       },
       {
         rank: 2, rankTrend: 'down', name: 'ChatGPT', company: 'OpenAI', icon: '⚡', bestFor: 'The Best All-Rounder',
-        description: 'Now running GPT-5.6 and o3. The industry standard for versatility, featuring an expansive data analysis sandbox, web search, and voice mode.',
+        description: 'Now running GPT-6.1 Sol and advanced reasoning engines. The industry standard for versatility, featuring an expansive data analysis sandbox, web search, and voice mode.',
         price: 'Free / $20', color: 'bg-emerald-500', textColor: 'text-emerald-700', bgColor: 'bg-emerald-50', url: 'https://chatgpt.com/'
       },
       {
@@ -30,7 +30,7 @@ const categories = [
       },
       {
         rank: 5, rankTrend: 'up', name: 'Gemini', company: 'Google', icon: '✨', bestFor: 'Speed & Workspace',
-        description: 'Powered by Gemini 3.8 Flash with sub-150ms reasoning latency, a 2M token context window, and seamless Google Workspace integration.',
+        description: 'Powered by Gemini 4 Argon and Gemini 3.8 Flash with sub-150ms reasoning latency, a 2M token context window, and seamless Google Workspace integration.',
         price: 'Free / $20', color: 'bg-rose-500', textColor: 'text-rose-700', bgColor: 'bg-rose-50', url: 'https://gemini.google.com/'
       }
     ]
@@ -208,7 +208,7 @@ const categories = [
     
     <div class="text-center mb-8">
       <div class="inline-flex items-center gap-2 bg-white border border-primary/10 px-4 py-1.5 rounded-full text-xs font-bold text-accent uppercase tracking-widest mb-6 shadow-sm reveal">
-        <span class="animate-pulse">🏆</span> Power Rankings • Updated September 2026
+        <span class="animate-pulse">🏆</span> Power Rankings • Updated October 2026
       </div>
     </div>
 
@@ -243,7 +243,7 @@ const categories = [
 
           <div class="flex flex-col gap-4">
             {cat.items.map((item, itemIndex) => (
-              <a href={item.url} data-track-click="slider-item" data-item-name={item.name} data-item-category={cat.id} target="_blank" rel={item.sponsored ? "sponsored" : "noopener nofollow"} class="group block bg-white rounded-3xl p-6 md:p-8 flex flex-col md:grid md:grid-cols-[4rem_16rem_1fr_100px] md:items-center gap-6 border border-primary/5 shadow-sm hover:shadow-xl hover:-translate-y-1 hover:border-primary/20 transition-all duration-300">
+              <a href={item.url} data-track-click="slider-item" data-item-name={item.name} data-item-category={cat.id} target={item.url.startsWith('http') ? "_blank" : undefined} rel={item.sponsored ? "sponsored" : item.url.startsWith('http') ? "noopener nofollow" : undefined} class="group block bg-white rounded-3xl p-6 md:p-8 flex flex-col md:grid md:grid-cols-[4rem_16rem_1fr_100px] md:items-center gap-6 border border-primary/5 shadow-sm hover:shadow-xl hover:-translate-y-1 hover:border-primary/20 transition-all duration-300">
                 
                 <!-- Rank Badge -->
                 <div class="hidden md:flex flex-col shrink-0 w-16 h-16 rounded-2xl bg-background-alt items-center justify-center border border-primary/5 group-hover:scale-110 group-hover:bg-primary/5 group-hover:text-primary transition-all">
