@@ -207,7 +207,7 @@ const jsonLd = {
           </h2>
         </div>
         <div class="text-sm text-text-light max-w-md">
-          Filter and sort over key intelligence and speed metrics. Real data sourced from <a href="https://artificialanalysis.ai/leaderboards/models" target="_blank" rel="noopener nofollow" class="underline font-semibold text-accent hover:text-accent-hover">Artificial Analysis</a>, <a href="https://arena.ai/leaderboard" target="_blank" rel="noopener nofollow" class="underline font-semibold text-accent hover:text-accent-hover">LMSYS Arena</a>, <a href="https://llm-stats.com/" target="_blank" rel="noopener nofollow" class="underline font-semibold text-accent hover:text-accent-hover">LLM Stats</a>, and <a href="https://benchlm.ai/" target="_blank" rel="noopener nofollow" class="underline font-semibold text-accent hover:text-accent-hover">BenchLM</a>.
+          Filter and sort over key intelligence and speed metrics. All figures come from the <a href="https://artificialanalysis.ai/leaderboards/models" target="_blank" rel="noopener nofollow" class="underline font-semibold text-accent hover:text-accent-hover">Artificial Analysis</a> leaderboard, checked on October 4, 2026.
         </div>
       </div>
 
@@ -473,13 +473,13 @@ const jsonLd = {
           </p>
           <ul class="list-disc pl-5 space-y-2">
             <li>
-              <strong class="text-primary">Anthropic's Dual-Flagship Strategy:</strong> Claude Opus 5.5 commands the highest raw intelligence score (58), excelling at complex system architecture and high-stakes reasoning. Meanwhile, Claude Sonnet 5.5 (56 score at 139 tokens/sec) dominates active developer environments like Cursor and VS Code Copilot (analyzed in our <a href="/opencode-vs-cursor-vs-codex-vs-antigravity/" class="text-accent hover:underline font-semibold">coding IDE shootout</a>).
+              <strong class="text-primary">Anthropic's Dual-Flagship Strategy:</strong> Claude Opus 5.5 commands the highest raw intelligence score (58), excelling at complex system architecture and high-stakes reasoning. Meanwhile, Claude Sonnet 5.5 (56 score at 132 tokens/sec) dominates active developer environments like Cursor and VS Code Copilot (analyzed in our <a href="/opencode-vs-cursor-vs-codex-vs-antigravity/" class="text-accent hover:underline font-semibold">coding IDE shootout</a>).
             </li>
             <li>
               <strong class="text-primary">OpenAI's Tiered Astra &amp; Sol Models:</strong> GPT-6 Astra acts as the reasoning flagship (detailed in our <a href="/chatgpt-vs-claude-vs-gemini/" class="text-accent hover:underline font-semibold">ChatGPT vs Claude vs Gemini guide</a>), while GPT-6.1 Sol redefines price-performance by delivering 52 intelligence for just $0.72 per task.
             </li>
             <li>
-              <strong class="text-primary">Google DeepMind's Speed Supremacy:</strong> Gemini 3.8 Flash achieves a historic 249 tokens per second with sub-200ms latency, enabling real-time voice and high-throughput enterprise pipelines (tested in our <a href="/google-gemini-3-8-review/" class="text-accent hover:underline font-semibold">Google Gemini 3.8 review</a>). Gemini 4 Argon brings heavy multimodal capability to massive document sets.
+              <strong class="text-primary">Google DeepMind's Speed Supremacy:</strong> Gemini 3.8 Flash reaches 239 tokens per second, the fastest of the frontier-grade models, enabling real-time voice and high-throughput enterprise pipelines (tested in our <a href="/google-gemini-3-8-review/" class="text-accent hover:underline font-semibold">Google Gemini 3.8 review</a>). Gemini 4 Argon brings heavy multimodal capability to massive document sets.
             </li>
             <li>
               <strong class="text-primary">Global Cost Disruptors:</strong> Xiaomi's MiMo-V2.6-Pro delivers 46 intelligence at just $0.13 per task, demonstrating how rapid distillation and quantization are driving token costs to zero, a pivotal trend in our report on <a href="/is-the-west-losing-ai-lead/" class="text-accent hover:underline font-semibold">whether the West is losing its AI lead</a>.
@@ -507,15 +507,9 @@ const jsonLd = {
             </p>
           </div>
           <div>
-            <h4 class="font-bold text-primary mb-1">Latency (Time To First Token)</h4>
-            <p class="text-text-light leading-relaxed">
-              The duration in seconds before the model generates its initial response chunk. Sub-0.5s latency is essential for voice assistants and automated terminal tool feedback loops.
-            </p>
-          </div>
-          <div>
             <h4 class="font-bold text-primary mb-1">Cost per Task (USD)</h4>
             <p class="text-text-light leading-relaxed">
-              Calculates real expenditure across standardized production queries. Comparing $0.13 vs $5.98 highlights how choosing the right tier slashes enterprise operational costs by 95%.
+              Calculates real expenditure across standardized production queries. Comparing $0.13 (MiMo-V2.6-Pro) with $5.98 (Claude Opus 5.5) shows how much the right tier saves on recurring workloads.
             </p>
           </div>
         </div>
@@ -527,10 +521,10 @@ const jsonLd = {
           Independent Verification
         </span>
         <h3 class="text-2xl font-bold text-primary mb-4">
-          Multi-Source Benchmarking & Data Privacy
+          Data Source & Further Reading
         </h3>
         <p class="text-text-light leading-relaxed text-sm mb-6">
-          To eliminate provider bias, our index synthesizes intelligence telemetry and evaluation methodologies across leading research hubs:
+          Every number in the table comes from Artificial Analysis. We do not run our own benchmarks. For a second opinion on model quality, these independent hubs are worth cross-checking:
         </p>
         <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 text-xs">
           <div class="p-4 rounded-xl bg-background-alt border border-primary/5">
@@ -631,7 +625,7 @@ const jsonLd = {
               Google Gemini 3.8 Review
             </h3>
             <p class="text-xs text-text-light leading-relaxed">
-              Benchmarking Google's 249 token/second speed demon, latency breakthroughs, and real-world developer experience.
+              What Google's 239 token-per-second Flash model gets right, where it falls short, and the real-world developer experience.
             </p>
           </div>
           <span class="mt-4 text-xs font-bold text-accent group-hover:underline inline-flex items-center gap-1">
