@@ -7,6 +7,12 @@ export interface LeaderboardWidgetConfig {
  * Determines whether an article should display the dynamic AI Leaderboard widget
  * and which performance category best matches its topical focus.
  */
+// 4.10.2026, Mehdis Entscheidung: kein automatisches Widget in Artikeln. Die
+// Erkennung unten bleibt erhalten, greift aber nur, wenn AUTO_INJECT wieder auf
+// true steht. Ein Artikel kann das Widget weiterhin explizit per Frontmatter
+// `leaderboardWidget: frontier|speed|value|open|coding|all` anfordern.
+const AUTO_INJECT = false;
+
 export function getLeaderboardWidgetConfig(
   slug: string,
   tags: string[] = [],
@@ -26,6 +32,10 @@ export function getLeaderboardWidgetConfig(
     return {
       category: override as LeaderboardWidgetConfig['category']
     };
+  }
+
+  if (!AUTO_INJECT) {
+    return null;
   }
 
   const lowerSlug = slug.toLowerCase();
