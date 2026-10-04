@@ -264,7 +264,8 @@ faq:
 **Quellen-Hierarchie:** 1. Hersteller-Seite → 2. Offizielle Docs → 3. Pressemitteilungen → 4. Verifizierte Reviews → 5. ❌ Andere Blogs NIEMALS als Primärquelle
 
 **🔴 AI-Modellnamen (seit 9.9.2026, nach zwei erfundenen Artikeln, A2L und „Gemini 3.8 Pro"):**
-- Jeder Modellname (Gemini, Claude, GPT) muss in `scripts/data/ai-models.json` stehen. `content-lint.js` (`checkModelNames`) meldet unbekannte Namen als **Error**, lokal und in der CI.
+- Jeder Modellname (Gemini, Claude, GPT) muss in `scripts/data/ai-models.json` stehen. `content-lint.js` (`checkModelNames`) meldet unbekannte Namen als **Error**, lokal und in der CI. Seit 4.10. auch ausserhalb des Blog-Markdowns: `MODEL_NAME_EXTRA_FILES` (Leaderboard-Daten `src/data/ai-leaderboard.ts`, Top5Slider, LeaderboardWidget, `/ai-leaderboard/`-Seiten).
+- **`sources` in `ai-models.json` sind ausschliesslich Hersteller-Seiten.** Drittanbieter-Leaderboards (Artificial Analysis, LMArena, llm-stats) belegen Zahlen, nie die Existenz eines Modells. Wer einen Namen ergaenzt, setzt `verifiedAt` neu.
 - Neues Modell aufnehmen: Hersteller-Seite (Modell-Liste, Model Card, Pricing) per WebFetch lesen, dann Eintrag + `verifiedAt` aktualisieren. Nie einen Namen aufnehmen, weil ein Artikel ihn verwendet.
 - **Erst prüfen, dann verlinken:** Kein interner Link, Hub-Eintrag oder Related-Link auf einen Artikel über ein Produkt/Modell, bevor dessen Kernfakten gegen die Hersteller-Quelle gelesen wurden. Gilt auch für Kollaborateur-Artikel.
 - Widersprüchliche „aktuelle" Versionen zwischen Artikeln sind ein Fehler, keine Beobachtung: sofort gegen Quelle prüfen.
