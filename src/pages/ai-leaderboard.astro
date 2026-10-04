@@ -420,26 +420,34 @@ const jsonLd = {
               </div>
             </div>
 
-            <div class="flex items-center justify-between text-xs pt-1">
-              <span class="text-text-light text-[11px]">{model.summary}</span>
-              <div class="flex items-center gap-3 whitespace-nowrap ml-3">
+            <!-- Summary -->
+            <p class="text-text-light text-xs leading-relaxed mt-2.5 mb-3">
+              {model.summary}
+            </p>
+
+            <!-- Card Actions Footer -->
+            <div class="flex items-center justify-between pt-2.5 border-t border-primary/5 text-xs">
+              <div>
                 {model.articleUrl && (
                   <a
                     href={model.articleUrl}
-                    class="font-bold text-accent hover:underline text-xs"
+                    class="font-bold text-accent hover:underline inline-flex items-center gap-1"
+                    title={model.articleLabel ? `Read ${model.articleLabel}` : 'Read more'}
                   >
-                    {model.articleLabel || 'Review'} ↗
+                    <span>Read more</span>
+                    <span class="text-[10px]">↗</span>
                   </a>
                 )}
-                <a
-                  href={model.providerUrl}
-                  target="_blank"
-                  rel="noopener nofollow"
-                  class="font-bold text-text-light hover:text-primary text-xs"
-                >
-                  Try →
-                </a>
               </div>
+              <a
+                href={model.providerUrl}
+                target="_blank"
+                rel="noopener nofollow"
+                class="font-medium text-text-light hover:text-primary inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-primary/5 hover:bg-primary/10 transition-colors"
+              >
+                <span>Try</span>
+                <span>→</span>
+              </a>
             </div>
           </div>
         ))}
