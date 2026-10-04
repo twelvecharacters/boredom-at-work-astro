@@ -138,7 +138,7 @@ Equip your printing area with dedicated safety gear:
 
 1. **Optical Smoke Detector:** Mount a dedicated smoke detector directly above your printer cluster.
 2. **Automatic Fire Extinguisher Balls:** Mount an automatic fire extinguishing sphere (like an AFO fire ball or StoveTop firestop) inside or above the printer enclosure. These devices automatically activate upon direct flame contact, dispersing non-toxic dry chemical powder.
-3. **Smart Power Outlets:** Connect your printer through a high-current smart plug linked to home automation (Home Assistant, Apple Home, or Google Home). Configure safety automations to cut primary power immediately if a smart smoke sensor detects an alarm.
+3. **Smart Power Outlets:** Connect your printer through a high-current smart plug linked to home automation ([Home Assistant](/what-is-home-assistant-guide/), Apple Home, or Google Home). Configure safety automations to cut primary power immediately if a smart smoke sensor detects an alarm.
 
 ### Step 4: Personal Protective Equipment (PPE) for Resin Printing
 For stereolithography enthusiasts, maintain a dedicated PPE station:

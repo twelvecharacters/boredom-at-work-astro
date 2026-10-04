@@ -62,7 +62,7 @@ Breaking the cycle of constant productivity requires intentional, deliberate act
 ### The Art of the Unproductive Hobby
 One of the most effective ways to break the productivity mindset is to engage in an activity that you are remarkably average at, and that has absolutely zero financial value. 
 
-Paint poorly. Play a video game without trying to optimize your strategy. Build a model airplane. Knit a scarf that is slightly lopsided. The goal is to focus entirely on the process of doing something just because you enjoy it, with no regard for the final outcome. If you are struggling to find something that fits this description, our guide on [how to choose a hobby](/how-to-choose-a-hobby/) offers excellent advice on finding activities that are purely for joy, not for profit.
+Paint poorly. Play a video game without trying to optimize your strategy (and without guilt, see [is gaming wasting your time?](/is-gaming-wasting-your-time/)). Build a model airplane. Knit a scarf that is slightly lopsided. The goal is to focus entirely on the process of doing something just because you enjoy it, with no regard for the final outcome. If you are struggling to find something that fits this description, our guide on [how to choose a hobby](/how-to-choose-a-hobby/) offers excellent advice on finding activities that are purely for joy, not for profit.
 
 ### Scheduling 'Do Nothing' Time
 If you are deeply entrenched in the productivity mindset, you might literally have to schedule your downtime. Block out two hours on a Sunday afternoon and label it "Do Nothing." During this time, you are not allowed to clean the house, check your emails, or listen to a self-improvement podcast. 
@@ -91,7 +91,7 @@ When you sit down to relax and that voice in your head says, "You should be doin
 Start counting your rest as a victory. If you successfully spent an entire evening completely disconnected from work, mark that as a major accomplishment. We are so trained to only celebrate tangible outputs that we forget the immense value of recovery. Protecting your peace is an achievement in itself.
 
 ### Curate Your Inputs
-Take a hard look at who you follow on social media and what media you consume. If your feed is full of hustle-culture entrepreneurs telling you that you need to grind while everyone else sleeps, unfollow them immediately. Their business model relies on making you feel inadequate so they can sell you the solution. Surround yourself with voices that advocate for balance, mental health, and genuine human connection.
+Take a hard look at who you follow on social media and what media you consume. If your feed is full of hustle-culture entrepreneurs telling you that you need to grind while everyone else sleeps, unfollow them immediately. Their business model relies on making you feel inadequate so they can sell you the solution. Surround yourself with voices that advocate for balance, mental health, and genuine human connection. If pruning is not enough, our piece on [deleting social media entirely](/i-deleted-social-media/) walks through the full exit.
 
 ## Conclusion: Permission to Exist
 

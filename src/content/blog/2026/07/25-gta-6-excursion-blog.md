@@ -27,7 +27,7 @@ If you are a regular reader of this blog, you know that our typical focus lies s
 
 However, sometimes a cultural event looms so large on the horizon that it demands a slight detour. Today, we are stepping away from spreadsheets, productivity hacks, and AI slop to talk about something entirely different: **Grand Theft Auto VI (GTA 6)**.
 
-Why would a blog dedicated to navigating the modern professional world talk about a video game infamous for its satirical take on crime and chaos? Because GTA 6 is no longer just a video game. It is a technological marvel, an economic juggernaut, and a pop-culture milestone that will dominate conversations at water coolers (both physical and virtual) for the next several years. It is a piece of media so vast that even if you haven't touched a game controller in a decade, its impact will be felt in the broader entertainment landscape. 
+Why would a blog dedicated to navigating the modern professional world talk about a video game infamous for its satirical take on crime and chaos? Because GTA 6 is no longer just a video game. It is a technological marvel, an economic juggernaut, and a pop-culture milestone that will dominate conversations at water coolers (both physical and virtual) for the next several years. It is a piece of media so vast that even if you haven't touched a game controller in a decade, its impact will be felt in the broader entertainment landscape. (For the broader question of how much play is healthy, see [is gaming wasting your time?](/is-gaming-wasting-your-time/).)
 
 Consider this a fun, fascinating detour, an exploration of why the internet is holding its collective breath for a return to Vice City.
 

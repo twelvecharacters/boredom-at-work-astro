@@ -10,13 +10,13 @@ tags: ["Mac", "Tools", "Software", "Productivity"]
 draft: false
 faq:
   - question: "What is BrewUI in Homebrew 7?"
-    answer: "BrewUI is the first official, native macOS graphical user interface created by the Homebrew team. Built with SwiftUI, it allows users to search, install, update, and remove CLI formulae and desktop GUI casks visually while displaying the exact terminal commands being executed underneath."
+    answer: "BrewUI is the first official, native macOS graphical user interface created by the Homebrew team. As a native macOS app, it allows users to search, install, update, and remove CLI formulae and desktop GUI casks visually while displaying the exact terminal commands being executed underneath."
   - question: "How do I install the official Homebrew GUI?"
-    answer: "You can install BrewUI directly through the terminal by running: brew install --cask homebrew-app. Once installed, it lives in your Applications folder and automatically synchronizes with your existing CLI package library."
+    answer: "You can install BrewUI directly through the terminal by running: brew install homebrew-app. Once installed, it lives in your Applications folder and automatically synchronizes with your existing CLI package library."
   - question: "What does the new brew vulns command do?"
-    answer: "The brew vulns command performs real-time security auditing across your installed packages against a curated Homebrew advisory database. It flags known CVEs, unpatched dependencies, and security advisories before or after updates."
+    answer: "The brew vulns command performs real-time security auditing across your installed packages against the OSV.dev vulnerability database, with no extra tap or gem required. It flags known CVEs, unpatched dependencies, and security advisories before or after updates."
   - question: "Does Homebrew 7 still support Intel Macs?"
-    answer: "Homebrew 7 moves Intel (x86_64) Macs to Tier 3 community support. Pre-built binary bottles are no longer prioritized for Intel machines, requiring source compilation for many packages, with official Intel support slated to terminate completely in 2027."
+    answer: "Homebrew 7 moves Intel (x86_64) Macs to Tier 3 community support. Pre-built binary bottles are no longer prioritized for Intel machines, requiring source compilation for many packages, with official Intel support ending on September 1, 2027."
   - question: "Which macOS versions are required for Homebrew 7 and BrewUI?"
     answer: "Homebrew 7 supports modern macOS releases including macOS 27 Golden Gate and macOS 26 Tahoe, while dropping legacy support for macOS 10.15 Catalina and earlier. The BrewUI desktop app requires macOS 26 or newer."
 ---
@@ -48,8 +48,8 @@ Until now, Mac users wanting a graphical interface for Homebrew relied on commun
 
 BrewUI changes the equation because it is maintained natively as an official first-party component of the Homebrew ecosystem.
 
-### 1. Native SwiftUI Architecture
-BrewUI is not an Electron web wrapper. It is a lightweight, responsive native macOS app built using Apple's modern SwiftUI framework. It respects system dark mode, features smooth animations, and integrates seamlessly with the refined visual aesthetics introduced in macOS 27 (read more in our [macOS 27 and iOS 27 review](/macos-27-ios-27-release-guide/)).
+### 1. Native macOS Architecture
+BrewUI is not an Electron web wrapper. It is a lightweight, responsive native macOS app rather than a web view in a window. It respects system dark mode, features smooth animations, and integrates seamlessly with the refined visual aesthetics introduced in macOS 27 (read more in our [macOS 27 and iOS 27 review](/macos-27-ios-27-release-guide/)).
 
 ### 2. Radical Terminal Transparency
 One of the most admirable design choices in BrewUI is its commitment to transparency. The developers recognized that GUI wrappers often obscure what is happening underneath, which can leave users helpless when a build script fails.
@@ -70,9 +70,9 @@ Getting BrewUI running on your Mac requires just a single command in Terminal if
 ### Step 1: Install the Cask
 Open Terminal and run:
 ```bash
-brew install --cask homebrew-app
+brew install homebrew-app
 ```
-Homebrew downloads the notarized `.dmg`, verifies its cryptographic checksum, and places **BrewUI.app** directly into your `/Applications` folder.
+Homebrew places **BrewUI.app** directly into your `/Applications` folder.
 
 ### Step 2: Permissions and System Requirements
 BrewUI requires **macOS 26 Tahoe or macOS 27 Golden Gate**. When you first launch the app, macOS will prompt you to grant standard disk access so BrewUI can manage packages inside `/opt/homebrew` (on Apple Silicon) or `/usr/local` (on legacy Intel Macs).
@@ -90,7 +90,7 @@ Whenever you execute:
 ```bash
 brew vulns
 ```
-Homebrew scans your local dependency tree against an integrated, continuously updated advisory database derived from GitHub Security Advisories (GHSA), the National Vulnerability Database (NVD), and Homebrew-specific maintainer reports.
+Homebrew scans your local dependency tree against the OSV.dev open vulnerability database. No extra tap or gem is required, the check is built into Homebrew 7 itself.
 
 The tool checks for:
 - Known Common Vulnerabilities and Exposures (CVEs) affecting your installed package versions.
@@ -98,7 +98,7 @@ The tool checks for:
 - Flagged third-party taps that have violated security policies or failed recent cryptographic trust verification.
 
 ### Automated Pre-Install Warnings
-Even better, vulnerability checking is integrated directly into the daily installation pipeline. If you attempt to install an outdated formula with a critical known exploit, Homebrew 7 alerts you in red text before downloading files, recommending patched alternative versions or safer forks. In BrewUI, these vulnerabilities appear as distinct warning badges next to affected packages in your installed list.
+Even better, vulnerability checking is integrated directly into the daily installation pipeline. Flags such as `--severity=high`, `--deps`, `--brewfile`, and `--fix-available` let you narrow the report to what matters, for example only the issues that already have a patched version available.
 
 ## Performance: Concurrency Engine and Speed Gains
 
@@ -122,7 +122,7 @@ The release of Homebrew 7 marks a decisive turning point in Apple's architectura
 ### Tier 3 Support for Intel Macs
 In Homebrew 7, Intel Macs have been officially reclassified to **Tier 3 Support**:
 - **No Guaranteed Bottles:** Homebrew no longer guarantees pre-compiled bottles for x86_64 systems. Many packages will now require local compilation from source code, which can take hours on older Intel dual-core or quad-core laptops.
-- **Sunset in 2027:** The Homebrew core team announced that official support for Intel processors will terminate entirely in 2027.
+- **Sunset in 2027:** The Homebrew core team announced that official support for Intel processors ends on September 1, 2027.
 - **Dropped OS Support:** Support for macOS 10.15 Catalina and earlier has been completely removed.
 
 If you are still running a legacy Intel Mac, Homebrew 7 will continue to function in a degraded capacity, but the writing is on the wall. For knowledge workers contemplating a hardware refresh, affordable entry points like the M4-powered line offer staggering performance leaps. Learn more about Apple's modern mobile silicon in our [iPad Air 11 M4 review](/ipad-air-11-m4-ipados-27-review/).
@@ -160,7 +160,7 @@ To understand where BrewUI fits in the wider software ecosystem, here is how it 
 | **CLI Command Visibility** | Live interactive terminal drawer | Limited | Good | None |
 | **Formula (CLI) Support** | Full native support | Casks only | Full support | None (GUI apps only) |
 | **Security Auditing** | Integrated `brew vulns` | Basic checks | Basic checks | Apple Gatekeeper |
-| **System Footprint** | Extremely lightweight SwiftUI | Swift | Swift | System integrated |
+| **System Footprint** | Native macOS app | Swift | Swift | System integrated |
 
 While tools like Cork and Applite paved the way and proved the demand for a visual Homebrew client, BrewUI's status as an officially maintained, first-party tool ensures it will never break when underlying Homebrew core APIs evolve.
 
@@ -168,4 +168,4 @@ While tools like Cork and Applite paved the way and proved the demand for a visu
 
 Homebrew 7 is one of the most mature, consequential updates the package manager has ever received. By pairing the speed and power of its concurrent CLI engine with the welcoming, transparent accessibility of BrewUI, the Homebrew team has made Mac package management approachable for everyone, from command-line novices to seasoned DevOps veterans.
 
-If you already use Homebrew, upgrading is as simple as running `brew update`. And if you have avoided Homebrew because you disliked typing terminal commands, installing BrewUI via `brew install --cask homebrew-app` will transform how you discover, install, and maintain software on your Mac.
+If you already use Homebrew, upgrading is as simple as running `brew update`. And if you have avoided Homebrew because you disliked typing terminal commands, installing BrewUI via `brew install homebrew-app` will transform how you discover, install, and maintain software on your Mac.

@@ -129,7 +129,7 @@ These are expected for a young project, and the active development pace means ga
 
 ## Final Thoughts: A New Era for Open-Source Photography
 
-RapidRAW isn’t just another fork of an old tool. It’s a ground-up reimagining of what a photo editor should be in the age of GPUs and AI. While it may not yet have every single feature of Lightroom, its performance and modern architecture make it one of the most exciting projects in the photography space today.
+RapidRAW isn’t just another fork of an old tool. It’s a ground-up reimagining of what a photo editor should be in the age of GPUs and AI. While it may not yet have every single feature of Lightroom, its performance and modern architecture make it one of the most exciting projects in the photography space today. For where AI fits across the whole workflow, from capture to culling to editing, see our [AI in photography guide](/ai-photography-guide/).
 
 For more photography tips and gear recommendations, see our [photography guide](/photography-guide/) and [camera vs smartphone](/camera-vs-smartphone/) comparison.
 

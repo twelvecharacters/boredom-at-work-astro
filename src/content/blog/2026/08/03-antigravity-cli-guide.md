@@ -198,6 +198,7 @@ If you haven't installed it yet, open your terminal and run `pnpm add -g @google
 ## Related Reading
 
 - [VS Code vs. Antigravity: The Agentic Workspace in 2026](/vs-code-vs-antigravity/)
+- [Must-Have VS Code Extensions for Developers in 2026](/must-have-vs-code-extensions/)
 - [Antigravity 2 with Gemini 3.5: The AI Coding Assistant](/antigravity-2-gemini-35/)
 - [Best AI Tools for Office Work (2026 Edition)](/best-ai-tools-office-work/)
 - [How to Use AI at Work Safely](/how-to-use-ai-at-work-safely/)

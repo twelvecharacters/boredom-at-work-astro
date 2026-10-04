@@ -26,7 +26,7 @@ If 2024 was the year of the "Copilot," 2026 is the year of the "Agent." In this 
 In the early 20s, we were impressed when an AI could finish a function. Today, that’s table stakes. The current gold standard is **agentic autonomy**,the ability for an AI to take a prompt like "Add a stripe subscription flow with tiered pricing and a trial period," and then go off to create the database schemas, implement the API endpoints, build the frontend components, and verify the integration with real-world test tokens.
 
 ### The Contenders
-*   **VS Code (Version 1.110+):** The veteran. Microsoft has spent the last 18 months refactoring the VS Code core. It is no longer just a text editor; it is a host for specialized AI agents that have direct "hooks" into the terminal, the integrated browser, and the OS.
+*   **VS Code (Version 1.110+):** The veteran. Microsoft has spent the last 18 months refactoring the VS Code core. It is no longer just a text editor; it is a host for specialized AI agents that have direct "hooks" into the terminal, the integrated browser, and the OS. If you have tried the AI forks and drifted back, our piece on [why stock VS Code won me back](/why-i-moved-back-to-vs-code/) explains the trade-offs.
 *   **Antigravity:** The challenger. Developed by Google Deepmind’s Advanced Agentic Coding team, Antigravity was built from the ground up for a world where AI does 90% of the typing. It doesn't treat AI as a plugin; it treats the *user* as the plugin.
 
 ---
@@ -142,6 +142,7 @@ The choice is yours. Will you pick up the pen, or will you take the baton?
 - [Claude vs ChatGPT 2026: Which AI Is Actually Better?](/claude-vs-chatgpt/)
 - [How to Use AI at Work Safely: A Practical 2026 Guide](/how-to-use-ai-at-work-safely/)
 - [Antigravity 2 + Gemini 3.5: What Just Shipped](/antigravity-2-gemini-35/)
+- [Must-Have VS Code Extensions for Developers in 2026](/must-have-vs-code-extensions/)
 
 
 

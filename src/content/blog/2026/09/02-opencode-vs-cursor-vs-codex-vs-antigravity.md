@@ -75,7 +75,7 @@ OpenCode is ideal for Linux power users, DevOps engineers, open-source purists, 
 
 ## 2. Cursor: The Polished AI-First IDE
 
-**Cursor** is a custom fork of VS Code built specifically around seamless AI interactions. It retains full compatibility with existing VS Code extensions while embedding deep LLM capabilities into every layer of the editor.
+**Cursor** is a custom fork of VS Code built specifically around seamless AI interactions. It retains full compatibility with existing VS Code extensions while embedding deep LLM capabilities into every layer of the editor. Not everyone stays on a fork, though; see [why I moved back to VS Code](/why-i-moved-back-to-vs-code/).
 
 | Layer | Component | Functionality |
 | :--- | :--- | :--- |
@@ -88,7 +88,7 @@ OpenCode is ideal for Linux power users, DevOps engineers, open-source purists, 
 * **Instant Tab Autocomplete:** One of the fastest and most accurate multi-line code prediction engines available, predicting your next edit before you type it.
 * **Composer (Multi-File Editing):** Allows developers to describe feature requirements across multiple files simultaneously, showing visual git diffs for each file before applying changes.
 * **Project Indexing (`.cursorrules`):** Indexes your entire codebase semantically, allowing natural language queries across thousands of files while enforcing team coding standards.
-* **Zero Learning Curve for VS Code Users:** Imports all existing extensions, keybindings, settings, and themes from standard VS Code instantly.
+* **Zero Learning Curve for VS Code Users:** Imports all existing extensions, keybindings, settings, and themes from standard VS Code instantly. Our list of [must-have VS Code extensions](/must-have-vs-code-extensions/) carries over one to one.
 
 ### Limitations of Cursor
 * **Closed-Source Ecosystem:** Relies on Cursor's proprietary cloud indexing servers for optimal semantic codebase retrieval.

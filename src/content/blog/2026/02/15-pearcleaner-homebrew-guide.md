@@ -75,7 +75,7 @@ If you've been using [AppCleaner](https://freemacsoft.net/appcleaner/) for years
 
 ## The Killer Feature: Homebrew Management
 
-This is where Pearcleaner pulls ahead of every other uninstaller. Most Mac power users use **Homebrew** to install software, but managing those "casks" often requires jumping into the Terminal. Pearcleaner brings that power to a beautiful GUI.
+This is where Pearcleaner pulls ahead of every other uninstaller. Most Mac power users use **Homebrew** to install software, but managing those "casks" often requires jumping into the Terminal. Pearcleaner brings that power to a beautiful GUI. Since Homebrew 7 there is an official alternative as well, which we cover in our [Homebrew 7 and BrewUI review](/homebrew-7-and-new-gui-guide/).
 
 ### 1. Adopt Apps into Homebrew
 Have an app you installed manually that you wish was managed by Homebrew? Pearcleaner's **Updater Page** can "adopt" it. This means Homebrew takes over the update process, keeping your software stack unified and easily updatable with a single command.

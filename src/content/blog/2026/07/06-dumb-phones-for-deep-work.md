@@ -83,7 +83,7 @@ This anxiety is not real; it is the neurological manifestation of a sudden dopam
 
 As the acute anxiety subsides, you will face something even more terrifying: pure, unadulterated boredom. 
 
-For years, your smartphone has acted as an immediate pacifier against any moment of cognitive downtime. Waiting in line for coffee? Scroll. Riding the subway? Scroll. Sitting on the toilet? Scroll. When you strip away the pacifier, you are forced to sit alone with your own thoughts.
+For years, your smartphone has acted as an immediate pacifier against any moment of cognitive downtime. Waiting in line for coffee? Scroll. Riding the subway? Scroll. Sitting on the toilet? Scroll. When you strip away the pacifier, you are forced to sit alone with your own thoughts. If a hardware change feels too drastic, start with the software side: our account of [deleting social media](/i-deleted-social-media/) covers the same withdrawal curve without buying a second phone.
 
 This is a profoundly uncomfortable experience for the modern human. However, it is also the crucial threshold. Boredom is the crucible of creativity. When your brain is deprived of external, high-intensity stimuli, it eventually begins to generate its own. This is when the fog begins to lift.
 

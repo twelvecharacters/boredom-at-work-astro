@@ -25,7 +25,7 @@ faq:
 
 The 9-to-5 is exhausting, but for most of us, the real "work" begins at 5:01 PM. The "second shift", cooking, cleaning, inventory management, and general household maintenance, is the ultimate thief of personal growth. If you are trying to use your downtime to learn a new skill or build a side hustle, your kitchen is often your biggest competitor.
 
-In 2026, the "Smart Home" has finally graduated from a collection of gimmicky lightbulbs into a functional ecosystem of AI-powered assistants. We are no longer talking about fridges that just "have a screen." We are talking about appliances that possess computer vision, predictive logic, and the ability to autonomously manage the most tedious parts of your existence.
+In 2026, the "Smart Home" has finally graduated from a collection of gimmicky lightbulbs into a functional ecosystem of AI-powered assistants. We are no longer talking about fridges that just "have a screen." We are talking about appliances that possess computer vision, predictive logic, and the ability to autonomously manage the most tedious parts of your existence. If you want to run that ecosystem locally instead of through a vendor cloud, start with our [Home Assistant beginner guide](/what-is-home-assistant-guide/).
 
 This is the era of the AI-powered kitchen, and it’s the secret weapon for the productive professional.
 
