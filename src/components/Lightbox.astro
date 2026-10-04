@@ -45,5 +45,11 @@
       if (e.target === lightbox) close();
     });
   }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', bindLightbox);
+  } else {
+    bindLightbox();
+  }
   document.addEventListener('astro:page-load', bindLightbox);
 </script>

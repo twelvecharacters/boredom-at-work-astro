@@ -41,5 +41,11 @@
       });
     });
   }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', bindCodeCopy);
+  } else {
+    bindCodeCopy();
+  }
   document.addEventListener('astro:page-load', bindCodeCopy);
 </script>

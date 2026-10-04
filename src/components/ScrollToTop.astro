@@ -1,7 +1,7 @@
 <button
   id="scroll-to-top"
   aria-label="Scroll to top"
-  class="fixed bottom-8 right-8 z-40 bg-accent text-white p-3 rounded-full shadow-lg opacity-0 translate-y-10 transition-all duration-300 hover:bg-accent-hover focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-accent pointer-events-none"
+  class="fixed bottom-8 right-8 z-40 bg-accent text-white p-3 rounded-full shadow-lg opacity-0 translate-y-10 transition-all duration-300 hover:bg-accent-hover focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-accent pointer-events-none cursor-pointer"
 >
   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
@@ -9,9 +9,6 @@
 </button>
 
 <script>
-  // Re-query the button on each use so it survives View Transitions (ClientRouter
-  // swaps the DOM node on navigation). The scroll listener binds once on window;
-  // the click listener rebinds per page-load onto the fresh button node.
   function toggleScrollBtn() {
     const btn = document.getElementById('scroll-to-top');
     if (!btn) return;
@@ -24,13 +21,27 @@
 
   function bindScrollToTop() {
     const btn = document.getElementById('scroll-to-top');
-    btn?.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+    if (!btn) return;
+
+    if (!(btn as any).__scrollClickBound) {
+      (btn as any).__scrollClickBound = true;
+      btn.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    }
+
     toggleScrollBtn();
   }
 
-  if (!window.__scrollToTopBound) {
-    window.__scrollToTopBound = true;
+  if (!(window as any).__scrollToTopBound) {
+    (window as any).__scrollToTopBound = true;
     window.addEventListener('scroll', toggleScrollBtn, { passive: true });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', bindScrollToTop);
+  } else {
+    bindScrollToTop();
   }
   document.addEventListener('astro:page-load', bindScrollToTop);
 </script>
