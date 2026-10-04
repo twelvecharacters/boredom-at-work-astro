@@ -662,6 +662,14 @@ function normalizeVersion(v) {
   return v.replace(/\.0$/, ''); // "3.0" -> "3"
 }
 
+const MODEL_NAME_EXTRA_FILES = [
+  'src/data/ai-leaderboard.ts',
+  'src/components/Top5Slider.astro',
+  'src/components/LeaderboardWidget.astro',
+  'src/pages/ai-leaderboard.astro',
+  'src/pages/ki-leaderboard.astro',
+];
+
 function checkModelNames(content, filePath) {
   const issues = [];
   const { allowed, generations, verifiedAt, data } = loadAiModels();
@@ -689,7 +697,7 @@ function checkModelNames(content, filePath) {
   lines.forEach((line, i) => {
     const lineNum = i + 1;
     // Gemini 3.8 Flash / Gemini 3 Pro / Gemini 3.5
-    for (const m of line.matchAll(/\bGemini\s+(\d(?:\.\d)?)(?!\d)(?:\s+(Pro|Flash-Lite|Flash|Ultra|Nano)\b)?/g)) {
+    for (const m of line.matchAll(/\bGemini\s+(\d(?:\.\d)?)(?!\d)(?:\s+(Pro|Flash-Lite|Flash|Ultra|Nano|Argon|Omni|Live)\b)?/g)) {
       const v = normalizeVersion(m[1]);
       report(lineNum, m[0], m[2] ? `Gemini ${v} ${m[2]}` : `Gemini ${v}`, 'gemini');
     }
@@ -872,6 +880,27 @@ function main() {
       else totalWarnings++;
     }
     console.log('');
+  }
+
+  // Model names also live outside the blog Markdown (leaderboard data, homepage slider,
+  // leaderboard pages). Those files get only the model-name check; everything else in
+  // lintFile assumes Markdown frontmatter. Added 2026-10-04 after the collaborator shipped
+  // a 50-row leaderboard that the Markdown-only scan never saw.
+  if (fileArgs.length === 0) {
+    for (const rel of MODEL_NAME_EXTRA_FILES) {
+      const filePath = resolve(rel);
+      let content;
+      try { content = readFileSync(filePath, 'utf-8'); } catch { continue; }
+      const issues = checkModelNames(content, filePath);
+      if (issues.length === 0) continue;
+      filesWithIssues++;
+      console.log(`\x1b[1m${rel}\x1b[0m`);
+      for (const issue of issues) {
+        console.log(`  line ${String(issue.lineNum).padStart(4)}  \x1b[31mERROR\x1b[0m  ${issue.message}`);
+        totalErrors++;
+      }
+      console.log('');
+    }
   }
 
   console.log('─'.repeat(60));

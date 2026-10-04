@@ -1,16 +1,13 @@
 {
-  "_readme": "Allowlist for scripts/content-lint.js checkModelNames. Every name here was read from the vendor's own page on verifiedAt. Adding a name = fetch the vendor page first, then add it together with the date. Never add a name because an article uses it. Two articles were built around models that never existed (Bambu A2L, Jan 2026; Gemini 3.8 Pro, Sep 2026).",
-  "verifiedAt": "2026-09-09",
+  "_readme": "Allowlist for scripts/content-lint.js checkModelNames. Every name here was read from the vendor's own page on verifiedAt. Adding a name = fetch the vendor page first, then add it together with the date. Never add a name because an article uses it. Two articles were built around models that never existed (Bambu A2L, Jan 2026; Gemini 3.8 Pro, Sep 2026). Sources must be vendor pages; third-party leaderboards (Artificial Analysis, LMArena, llm-stats) are NOT a source for whether a model exists.",
+  "verifiedAt": "2026-10-04",
   "vendors": {
     "gemini": {
       "sources": [
         "https://ai.google.dev/gemini-api/docs/models",
         "https://ai.google.dev/gemini-api/docs/deprecations",
         "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
-        "https://artificialanalysis.ai/leaderboards/models",
-        "https://llm-stats.com/",
-        "https://benchlm.ai/",
-        "https://arena.ai/leaderboard"
+        "https://deepmind.google/models/gemini/"
       ],
       "current": [
         "Gemini 4 Argon",
@@ -35,11 +32,7 @@
     "claude": {
       "sources": [
         "https://platform.claude.com/docs/en/models/overview",
-        "https://platform.claude.com/docs/en/about-claude/model-deprecations",
-        "https://artificialanalysis.ai/leaderboards/models",
-        "https://llm-stats.com/",
-        "https://benchlm.ai/",
-        "https://arena.ai/leaderboard"
+        "https://platform.claude.com/docs/en/about-claude/model-deprecations"
       ],
       "current": [
         "Claude Opus 5.5",
@@ -76,14 +69,12 @@
         "https://developers.openai.com/api/docs/models",
         "https://developers.openai.com/api/docs/deprecations",
         "https://openai.com/index/introducing-gpt-5-4/",
-        "https://openai.com/index/introducing-gpt-5-5/",
-        "https://llm-stats.com/",
-        "https://benchlm.ai/",
-        "https://arena.ai/leaderboard"
+        "https://openai.com/index/introducing-gpt-5-5/"
       ],
       "current": [
         "GPT-6.1 Sol",
         "GPT-6 Astra",
+        "GPT-6 Luna",
         "GPT-5.6 Sol",
         "GPT-5.6 Terra",
         "GPT-5.6 Luna",
@@ -98,6 +89,7 @@
         "GPT-5.4 Pro",
         "GPT-5.4 mini",
         "GPT-5.4 nano",
+        "GPT-5.3 Codex",
         "GPT-5.3",
         "GPT-5.2",
         "GPT-5.1",

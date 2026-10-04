@@ -8,11 +8,11 @@ This document outlines the rules, workflows, sources, and data structures for up
 
 | File | Purpose |
 | :--- | :--- |
-| [`src/data/ai-leaderboard.ts`](file:///Users/mani/Development/boredom-at-work-astro/src/data/ai-leaderboard.ts) | **Single Source of Truth** for model data (`LEADERBOARD_MODELS`), key statistics (`LEADERBOARD_STATS`), and knowledge base (`LEADERBOARD_FAQS`). |
-| [`src/pages/ai-leaderboard.astro`](file:///Users/mani/Development/boredom-at-work-astro/src/pages/ai-leaderboard.astro) | The main interactive leaderboard page (canonical URL: `/ai-leaderboard/`). Displays the top 15 models by default with live filters and search. |
-| [`src/pages/ki-leaderboard.astro`](file:///Users/mani/Development/boredom-at-work-astro/src/pages/ki-leaderboard.astro) | SEO redirect alias for German queries and external domain forwards (e.g. `kileaderboard.de`, `ai-toplist.com`). |
-| [`scripts/data/ai-models.json`](file:///Users/mani/Development/boredom-at-work-astro/scripts/data/ai-models.json) | Whitelist registry of verified AI models. Enforced by `scripts/content-lint.js` locally and in CI/CD. |
-| [`src/components/Top5Slider.astro`](file:///Users/mani/Development/boredom-at-work-astro/src/components/Top5Slider.astro) | Homepage power ranking slider. Must stay aligned with the frontier models. |
+| [`src/data/ai-leaderboard.ts`](src/data/ai-leaderboard.ts) | **Single Source of Truth** for model data (`LEADERBOARD_MODELS`), key statistics (`LEADERBOARD_STATS`), and knowledge base (`LEADERBOARD_FAQS`). |
+| [`src/pages/ai-leaderboard.astro`](src/pages/ai-leaderboard.astro) | The main interactive leaderboard page (canonical URL: `/ai-leaderboard/`). Displays the top 15 models by default with live filters and search. |
+| [`src/pages/ki-leaderboard.astro`](src/pages/ki-leaderboard.astro) | SEO redirect alias for German queries and external domain forwards (e.g. `kileaderboard.de`, `ai-toplist.com`). |
+| [`scripts/data/ai-models.json`](scripts/data/ai-models.json) | Whitelist registry of verified AI models. Enforced by `scripts/content-lint.js` locally and in CI/CD. |
+| [`src/components/Top5Slider.astro`](src/components/Top5Slider.astro) | Homepage power ranking slider. Must stay aligned with the frontier models. |
 
 ---
 
