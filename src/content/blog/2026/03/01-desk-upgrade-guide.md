@@ -43,7 +43,7 @@ This is a **hub page**,a central starting point for your desk upgrade journey.
 - [Best Monitor Arms](/best-monitor-arms/), Monitor positioning
 - [Cable Management Tips](/cable-management-tips/), Hide the mess
 
-**If you're on a budget:** Check the Budget Setup section below, or jump straight to our [home office setup budget guide](/home-office-setup-budget-guide/) with complete shopping lists at $500, $1,000, and $2,000.
+**If you're on a budget:** Check the Budget Setup section below, or jump straight to our [home office setup budget guide](/home-office-setup-budget-guide/) with complete shopping lists at $500, $1,000, and $2,000. For small, high-impact fixes, see the [best desk upgrades under $100](/best-desk-upgrades-under-100/).
 
 ---
 

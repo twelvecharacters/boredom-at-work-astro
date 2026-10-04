@@ -328,6 +328,8 @@ For detailed reviews and comparisons, see our [best 3D printers under $300](/bes
 | Large format | Elegoo Saturn 4 | ~$320 |
 | Premium | Formlabs Form 4 | ~$3,500 |
 
+If resin is your pick, our [best resin 3D printers for beginners](/best-resin-3d-printers-beginners/) guide compares the entry and mid-range models in detail, including wash-and-cure setups.
+
 ---
 
 ## Conclusion

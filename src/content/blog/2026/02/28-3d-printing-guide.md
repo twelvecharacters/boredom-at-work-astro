@@ -112,6 +112,8 @@ The most important decision. Get this right, and everything else is easier.
 
 **Deep dive:** [FDM vs Resin 3D Printing: Which One Should You Choose?](/fdm-vs-resin-printing/)
 
+**Going resin anyway?** Our [best resin 3D printers for beginners](/best-resin-3d-printers-beginners/) guide picks the starter machines worth the extra cleanup.
+
 ---
 
 ### Best Beginner Printers (2026)

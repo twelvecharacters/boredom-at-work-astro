@@ -104,7 +104,7 @@ The ultra-thin design means it barely changes the feel of your desk, no raised e
 
 **What makes it special:** The dual-sided design means you get two desk mats for the price of one. Spilled something? Flip it. Bored with the color? Flip it. One side wearing out? Flip it.
 
-**Who it's for:** Anyone on a budget, anyone who wants a waterproof surface, anyone who can't commit to one color. Also perfect if you're not sure you even *want* a desk mat, at ~$8, it's basically free to find out.
+**Who it's for:** Anyone on a budget, anyone who wants a waterproof surface, anyone who can't commit to one color. Also perfect if you're not sure you even *want* a desk mat, at ~$8, it's basically free to find out. It also tops our list of [desk upgrades under $100](/best-desk-upgrades-under-100/).
 
 ---
 
