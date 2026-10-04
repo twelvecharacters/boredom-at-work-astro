@@ -40,14 +40,15 @@ This document outlines the foundational standards and architectural goals for th
 ### Fact-Checking & AI Model Registry
 - **Fact-Check First:** Never invent dates, prices, specifications, or model names. Always verify claims against official manufacturer sources or documentation before writing. Flag uncertain facts with `[VERIFY]` markers.
 - **AI Model Registry (`scripts/data/ai-models.json`):**
-  - Every AI model name (Gemini, Claude, GPT) used in articles must be registered in `scripts/data/ai-models.json`.
-  - `content-lint.js` (`checkModelNames`) rejects unregistered or fabricated model names as an **Error** locally and in CI.
-  - Adding new models requires reading the vendor's official release page/pricing card and recording a verified date (`verifiedAt`).
+  - Every AI model name (Gemini, Claude, GPT) used in articles or leaderboard files must be registered in `scripts/data/ai-models.json`.
+  - `content-lint.js` (`checkModelNames`) rejects unregistered or fabricated model names as an **Error** locally and in CI, checking Markdown files and `MODEL_NAME_EXTRA_FILES` (`src/data/ai-leaderboard.ts`, Top5Slider, LeaderboardWidget, `/ai-leaderboard/`).
+  - Sources in `ai-models.json` are exclusively official creator/vendor release documentation. Third-party leaderboards prove telemetry numbers, never model existence.
+  - Adding new models requires verifying the creator's official release page/pricing card and recording a verified date (`verifiedAt`).
 - **Pre-Commit Hook:** Do not bypass the `.git/hooks/pre-commit` fact-check verification hook.
 
 ### AI Leaderboard Architecture & Dynamic Widgets
-- **Single Source of Truth (`src/data/ai-leaderboard.ts`):** All AI benchmark telemetry (Intelligence Index, speed, cost, context) and ranking logic must live in `src/data/ai-leaderboard.ts`. Maintain approximately 50 models in the pool while rendering the top 15 on the primary page (`/ai-leaderboard/`).
-- **Benchmark Source Verification:** Data must strictly stem from the 4 empirical research sources: Artificial Analysis (`artificialanalysis.ai`), LMSYS Chatbot Arena (`arena.ai`), LLM Stats (`llm-stats.com`), and BenchLM (`benchlm.ai`).
+- **Single Source of Truth (`src/data/ai-leaderboard.ts`):** All AI benchmark telemetry (Intelligence Index, speed, cost, context) and ranking logic must live in `src/data/ai-leaderboard.ts`. Currently tracks 46 models verified by Artificial Analysis, rendering the top 15 by default on the primary page (`/ai-leaderboard/`).
+- **Benchmark Source Verification:** Table metrics are strictly sourced from Artificial Analysis (`artificialanalysis.ai/leaderboards/models`) and automated via `pnpm run leaderboard:check` (`scripts/aa-leaderboard-check.js`). Never reintroduce a latency/TTFT column. Secondary platforms (Arena, LLM Stats, BenchLM) serve qualitative context only.
 - **Dynamic Leaderboard Widget (`src/components/LeaderboardWidget.astro` & `src/utils/ai-widget.ts`):**
   - **Automated Topic Clustering:** The widget is automatically rendered on all AI-focused articles via `BlogPost.astro`. `src/utils/ai-widget.ts` routes the article to the most relevant performance profile:
     - *Coding / Developer:* `category="coding"` for IDE shootouts, Antigravity, and developer tools.
@@ -61,7 +62,7 @@ This document outlines the foundational standards and architectural goals for th
 - **Cross-Linking & Review Integration:**
   - When models on the leaderboard have corresponding in-depth reviews or shootout articles on the blog (e.g. Gemini 3.8 review, coding IDE shootout, open weights analysis), populate `articleUrl` and `articleLabel` in `src/data/ai-leaderboard.ts` to surface bidirectional links.
   - Contextual callouts in AI articles must point to `/ai-leaderboard/` to drive retention and link equity.
-  - See [`ai-leaderboard.md`](./ai-leaderboard.md) in the project root for full update rules, synchronization checklists, and validation commands.
+  - See [`AI-LEADERBOARD.md`](./AI-LEADERBOARD.md) in the project root for full update rules, synchronization checklists, and validation commands.
 
 ### Styling & CSS
 - **Tailwind 4:** Use Tailwind CSS 4 features and modern CSS variables.
