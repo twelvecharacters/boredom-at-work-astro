@@ -14,6 +14,8 @@ export interface LeaderboardModel {
   bestFor: string;
   summary: string;
   providerUrl: string;
+  articleUrl?: string;
+  articleLabel?: string;
 }
 
 export interface LeaderboardFaq {
@@ -70,7 +72,7 @@ export const LEADERBOARD_FAQS: LeaderboardFaq[] = [
   },
   {
     question: "Which model is the best for software development and autonomous coding?",
-    answer: "Claude Sonnet 5.5 is the top choice for software engineers. Delivering a 56 Intelligence Index at 139 tokens per second, it offers unmatched precision in repository-scale refactoring, terminal agent execution, and debugging."
+    answer: "Claude Sonnet 5.5 is the top choice for software engineers. Delivering a 56 Intelligence Index at 139 tokens per second, it offers unmatched precision in repository-scale refactoring and terminal agent execution. For a direct comparison inside developer environments, see our OpenCode vs Cursor vs Codex shootout."
   },
   {
     question: "Which AI models are the fastest for real-time applications?",
@@ -78,7 +80,7 @@ export const LEADERBOARD_FAQS: LeaderboardFaq[] = [
   },
   {
     question: "What is the best open weights model on the leaderboard?",
-    answer: "Muse Spark 1.3 by Meta leads open weights intelligence with a score of 48, while DeepSeek V4.1 Flash offers exceptional reasoning speed (209 t/s) at just $0.27 per task, and Llama 4 Scout sets a record with a 10 million token context window."
+    answer: "Muse Spark 1.3 by Meta leads open weights intelligence with a score of 48, while DeepSeek V4.1 Flash offers exceptional reasoning speed (209 t/s) at just $0.27 per task, and Llama 4 Scout sets a record with a 10 million token context window. See our report on whether the West is losing its AI lead for full global analysis."
   },
   {
     question: "How are Cost per Task and API token expenses calculated?",
@@ -100,6 +102,8 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "outputSpeed": "93 t/s",
     "latencyTTFT": "0.45s",
     "providerUrl": "https://claude.ai/",
+    "articleUrl": "/chatgpt-vs-claude-vs-gemini/",
+    "articleLabel": "Model Comparison",
     "highlightBadge": "Top Overall Intelligence",
     "bestFor": "Peak Complex Architecture & Hard Reasoning",
     "summary": "The highest intelligence score across Artificial Analysis and LLM Stats. Excels at multi-step strategic planning, formal proofs, and zero-hallucination document synthesis."
@@ -117,6 +121,8 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "outputSpeed": "139 t/s",
     "latencyTTFT": "0.45s",
     "providerUrl": "https://claude.ai/",
+    "articleUrl": "/opencode-vs-cursor-vs-codex-vs-antigravity/",
+    "articleLabel": "Coding Benchmark",
     "highlightBadge": "Best Developer & Coding Model",
     "bestFor": "Full-Stack Software Engineering & Terminal Agents",
     "summary": "Combines near-peak frontier intelligence with blistering 139 tokens/second generation speed. The undisputed industry gold standard for autonomous coding agents."
@@ -151,6 +157,8 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "outputSpeed": "54 t/s",
     "latencyTTFT": "0.45s",
     "providerUrl": "https://chatgpt.com/",
+    "articleUrl": "/chatgpt-guide/",
+    "articleLabel": "ChatGPT Guide",
     "highlightBadge": "Flagship Multimodal Pioneer",
     "bestFor": "Multi-Agent Systems & Deep STEM Synthesis",
     "summary": "OpenAI frontier flagship featuring dynamic thinking tokens, deep vision capabilities, and autonomous tool calling across multi-agent pipelines."
@@ -168,6 +176,8 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "outputSpeed": "85 t/s",
     "latencyTTFT": "0.35s",
     "providerUrl": "https://deepmind.google/technologies/gemini/",
+    "articleUrl": "/google-gemini-3-8-review/",
+    "articleLabel": "Gemini Review",
     "highlightBadge": "Multimodal Video & Document Titan",
     "bestFor": "Enterprise Multimodal Ingestion & Workspace Tasks",
     "summary": "Google next-gen flagship with 53 intelligence score, massive 2M token context window, and industry-leading multimodal video and audio comprehension."
@@ -350,6 +360,8 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "outputSpeed": "249 t/s",
     "latencyTTFT": "0.19s",
     "providerUrl": "https://deepmind.google/technologies/gemini/",
+    "articleUrl": "/google-gemini-3-8-review/",
+    "articleLabel": "In-Depth Review",
     "highlightBadge": "Speed Record: 249 Tokens/Sec",
     "bestFor": "Ultra-Low Latency Voice, Real-Time Copilots & High QPS",
     "summary": "The fastest model on the benchmark. Generates a mind-bending 249 tokens per second with sub-200ms TTFT latency and full 1M context."
@@ -400,6 +412,8 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "outputSpeed": "209 t/s",
     "latencyTTFT": "0.95s",
     "providerUrl": "https://www.deepseek.com/",
+    "articleUrl": "/is-the-west-losing-ai-lead/",
+    "articleLabel": "Global Analysis",
     "highlightBadge": "Open Weights Reasoning",
     "bestFor": "Private Clusters & Mathematical Verification",
     "summary": "Phenomenal open weights architecture combining 209 tokens/second speed with 39 intelligence at a microscopic $0.27 per task."

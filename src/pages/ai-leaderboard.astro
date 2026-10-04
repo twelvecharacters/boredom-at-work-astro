@@ -120,8 +120,11 @@ const jsonLd = {
               Highest quality score on the index (58). Built for multi-layered reasoning, architectural strategy, and zero-compromise accuracy.
             </p>
           </div>
-          <div class="mt-4 pt-3 border-t border-amber-200 text-xs font-bold text-amber-900">
-            Intelligence: 58 · Speed: 93 t/s · $5.98/task
+          <div class="mt-4 pt-3 border-t border-amber-200 flex items-center justify-between">
+            <span class="text-xs font-bold text-amber-900">Score: 58 · 93 t/s</span>
+            <a href="/chatgpt-vs-claude-vs-gemini/" class="text-xs font-bold text-amber-900 hover:text-accent hover:underline inline-flex items-center gap-1">
+              Comparison <span>→</span>
+            </a>
           </div>
         </div>
 
@@ -138,8 +141,11 @@ const jsonLd = {
               Leading developer choice worldwide. High intelligence (56) paired with 139 tokens/second for instant code gen and agentic loops.
             </p>
           </div>
-          <div class="mt-4 pt-3 border-t border-emerald-200 text-xs font-bold text-emerald-900">
-            Intelligence: 56 · Speed: 139 t/s · $2.75/task
+          <div class="mt-4 pt-3 border-t border-emerald-200 flex items-center justify-between">
+            <span class="text-xs font-bold text-emerald-900">Score: 56 · 139 t/s</span>
+            <a href="/opencode-vs-cursor-vs-codex-vs-antigravity/" class="text-xs font-bold text-emerald-900 hover:text-accent hover:underline inline-flex items-center gap-1">
+              Coding Test <span>→</span>
+            </a>
           </div>
         </div>
 
@@ -156,8 +162,11 @@ const jsonLd = {
               Record-shattering 249 tokens per second with 0.19s latency. The ultimate engine for real-time voice and high-throughput workflows.
             </p>
           </div>
-          <div class="mt-4 pt-3 border-t border-indigo-200 text-xs font-bold text-indigo-900">
-            Output: 249 t/s · Latency: 0.19s · $1.24/task
+          <div class="mt-4 pt-3 border-t border-indigo-200 flex items-center justify-between">
+            <span class="text-xs font-bold text-indigo-900">249 t/s · 0.19s</span>
+            <a href="/google-gemini-3-8-review/" class="text-xs font-bold text-indigo-900 hover:text-accent hover:underline inline-flex items-center gap-1">
+              Full Review <span>→</span>
+            </a>
           </div>
         </div>
 
@@ -174,8 +183,11 @@ const jsonLd = {
               High intelligence index of 52 at just $0.72 per task. Unbeatable price-to-performance ratio for massive production deployments.
             </p>
           </div>
-          <div class="mt-4 pt-3 border-t border-purple-200 text-xs font-bold text-purple-900">
-            Intelligence: 52 · Cost: $0.72/task · 63 t/s
+          <div class="mt-4 pt-3 border-t border-purple-200 flex items-center justify-between">
+            <span class="text-xs font-bold text-purple-900">Score: 52 · $0.72/task</span>
+            <a href="/chatgpt-guide/" class="text-xs font-bold text-purple-900 hover:text-accent hover:underline inline-flex items-center gap-1">
+              Prompting <span>→</span>
+            </a>
           </div>
         </div>
       </div>
@@ -281,10 +293,23 @@ const jsonLd = {
                       </span>
                     )}
                   </div>
-                  <div class="text-xs text-text-light mt-0.5 flex items-center gap-2">
+                  <div class="text-xs text-text-light mt-0.5 flex flex-wrap items-center gap-2">
                     <span class="font-medium text-text-light">{model.creator}</span>
                     <span>·</span>
                     <span class="text-primary font-medium">{model.bestFor}</span>
+                    {model.articleUrl && (
+                      <>
+                        <span>·</span>
+                        <a
+                          href={model.articleUrl}
+                          class="text-accent hover:underline font-semibold inline-flex items-center gap-0.5"
+                          title={`Read related article: ${model.articleLabel || 'Analysis'}`}
+                        >
+                          <span>{model.articleLabel || 'Review'}</span>
+                          <span>↗</span>
+                        </a>
+                      </>
+                    )}
                   </div>
                 </td>
 
@@ -404,14 +429,24 @@ const jsonLd = {
 
             <div class="flex items-center justify-between text-xs pt-1">
               <span class="text-text-light text-[11px]">{model.summary}</span>
-              <a
-                href={model.providerUrl}
-                target="_blank"
-                rel="noopener nofollow"
-                class="font-bold text-accent hover:text-accent-hover text-xs whitespace-nowrap ml-3"
-              >
-                Try →
-              </a>
+              <div class="flex items-center gap-3 whitespace-nowrap ml-3">
+                {model.articleUrl && (
+                  <a
+                    href={model.articleUrl}
+                    class="font-bold text-accent hover:underline text-xs"
+                  >
+                    {model.articleLabel || 'Review'} ↗
+                  </a>
+                )}
+                <a
+                  href={model.providerUrl}
+                  target="_blank"
+                  rel="noopener nofollow"
+                  class="font-bold text-text-light hover:text-primary text-xs"
+                >
+                  Try →
+                </a>
+              </div>
             </div>
           </div>
         ))}
@@ -445,16 +480,16 @@ const jsonLd = {
           </p>
           <ul class="list-disc pl-5 space-y-2">
             <li>
-              <strong class="text-primary">Anthropic's Dual-Flagship Strategy:</strong> Claude Opus 5.5 commands the highest raw intelligence score (58), excelling at complex system architecture and high-stakes reasoning. Meanwhile, Claude Sonnet 5.5 (56 score at 139 tokens/sec) dominates active developer environments like Cursor and VS Code Copilot.
+              <strong class="text-primary">Anthropic's Dual-Flagship Strategy:</strong> Claude Opus 5.5 commands the highest raw intelligence score (58), excelling at complex system architecture and high-stakes reasoning. Meanwhile, Claude Sonnet 5.5 (56 score at 139 tokens/sec) dominates active developer environments like Cursor and VS Code Copilot (analyzed in our <a href="/opencode-vs-cursor-vs-codex-vs-antigravity/" class="text-accent hover:underline font-semibold">coding IDE shootout</a>).
             </li>
             <li>
-              <strong class="text-primary">OpenAI's Tiered Astra &amp; Sol Models:</strong> GPT-6 Astra acts as the reasoning flagship, while GPT-6.1 Sol redefines price-performance by delivering 52 intelligence for just $0.72 per task.
+              <strong class="text-primary">OpenAI's Tiered Astra &amp; Sol Models:</strong> GPT-6 Astra acts as the reasoning flagship (detailed in our <a href="/chatgpt-vs-claude-vs-gemini/" class="text-accent hover:underline font-semibold">ChatGPT vs Claude vs Gemini guide</a>), while GPT-6.1 Sol redefines price-performance by delivering 52 intelligence for just $0.72 per task.
             </li>
             <li>
-              <strong class="text-primary">Google DeepMind's Speed Supremacy:</strong> Gemini 3.8 Flash achieves a historic 249 tokens per second with sub-200ms latency, enabling real-time voice and high-throughput enterprise pipelines. Gemini 4 Argon brings heavy multimodal capability to massive document sets.
+              <strong class="text-primary">Google DeepMind's Speed Supremacy:</strong> Gemini 3.8 Flash achieves a historic 249 tokens per second with sub-200ms latency, enabling real-time voice and high-throughput enterprise pipelines (tested in our <a href="/google-gemini-3-8-review/" class="text-accent hover:underline font-semibold">Google Gemini 3.8 review</a>). Gemini 4 Argon brings heavy multimodal capability to massive document sets.
             </li>
             <li>
-              <strong class="text-primary">Global Cost Disruptors:</strong> Xiaomi's MiMo-V2.6-Pro delivers 46 intelligence at just $0.13 per task, demonstrating how rapid distillation and quantization are driving token costs to zero.
+              <strong class="text-primary">Global Cost Disruptors:</strong> Xiaomi's MiMo-V2.6-Pro delivers 46 intelligence at just $0.13 per task, demonstrating how rapid distillation and quantization are driving token costs to zero, a pivotal trend in our report on <a href="/is-the-west-losing-ai-lead/" class="text-accent hover:underline font-semibold">whether the West is losing its AI lead</a>.
             </li>
           </ul>
         </div>
@@ -575,30 +610,167 @@ const jsonLd = {
     </div>
   </section>
 
-  <!-- Related Guides Callout -->
-  <section class="py-16 bg-white">
-    <div class="max-w-4xl mx-auto px-4 text-center">
-      <h3 class="text-2xl font-bold text-primary mb-3">
-        Master Frontier AI in Your Workflow
-      </h3>
-      <p class="text-text-light mb-8 max-w-xl mx-auto">
-        Learn how to put these top-ranking models to work with our step-by-step master guides and prompt frameworks.
-      </p>
-      <div class="flex flex-wrap justify-center gap-4">
+  <!-- Related Articles & Field Tests Section -->
+  <section class="py-16 md:py-24 bg-white border-t border-primary/5">
+    <div class="max-w-5xl mx-auto px-4">
+      <div class="text-center mb-12">
+        <span class="text-xs font-extrabold uppercase tracking-wider text-accent bg-accent/10 px-3 py-1 rounded-full inline-block mb-3">
+          In-Depth Coverage
+        </span>
+        <h2 class="text-3xl md:text-4xl font-extrabold text-primary tracking-tight">
+          Explore Our AI Research &amp; Field Tests
+        </h2>
+        <p class="text-text-light mt-3 max-w-2xl mx-auto text-base">
+          Read our hands-on reviews, practical automation workflows, and architectural comparisons covering the top models on this board.
+        </p>
+      </div>
+
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
         <a
-          href="/learn-ai-guide/"
-          class="inline-flex items-center gap-2 font-bold px-6 py-3 rounded-xl bg-primary text-white hover:bg-primary-light transition-all shadow-sm"
+          href="/google-gemini-3-8-review/"
+          class="group p-6 rounded-2xl bg-background-alt border border-primary/10 hover:border-accent/40 hover:shadow-md transition-all flex flex-col justify-between"
         >
-          <span>AI Learning Roadmap</span>
-          <span>→</span>
+          <div>
+            <span class="text-xs font-bold uppercase tracking-wider text-indigo-700 bg-indigo-50 border border-indigo-200 px-2 py-0.5 rounded inline-block mb-3">
+              Hardware &amp; Model Review
+            </span>
+            <h3 class="text-lg font-bold text-primary group-hover:text-accent transition-colors mb-2">
+              Google Gemini 3.8 Review
+            </h3>
+            <p class="text-xs text-text-light leading-relaxed">
+              Benchmarking Google's 249 token/second speed demon, latency breakthroughs, and real-world developer experience.
+            </p>
+          </div>
+          <span class="mt-4 text-xs font-bold text-accent group-hover:underline inline-flex items-center gap-1">
+            Read Review <span>→</span>
+          </span>
         </a>
+
         <a
-          href="/chatgpt-guide/"
-          class="inline-flex items-center gap-2 font-bold px-6 py-3 rounded-xl bg-background-alt text-primary hover:bg-primary/5 border border-primary/10 transition-all"
+          href="/chatgpt-vs-claude-vs-gemini/"
+          class="group p-6 rounded-2xl bg-background-alt border border-primary/10 hover:border-accent/40 hover:shadow-md transition-all flex flex-col justify-between"
         >
-          <span>ChatGPT &amp; Prompting Guide</span>
-          <span>→</span>
+          <div>
+            <span class="text-xs font-bold uppercase tracking-wider text-amber-700 bg-amber-50 border border-amber-200 px-2 py-0.5 rounded inline-block mb-3">
+              Head-to-Head Shootout
+            </span>
+            <h3 class="text-lg font-bold text-primary group-hover:text-accent transition-colors mb-2">
+              ChatGPT vs Claude vs Gemini
+            </h3>
+            <p class="text-xs text-text-light leading-relaxed">
+              Direct comparison of the top frontier ecosystems across reasoning accuracy, creative writing, and API utility.
+            </p>
+          </div>
+          <span class="mt-4 text-xs font-bold text-accent group-hover:underline inline-flex items-center gap-1">
+            Read Shootout <span>→</span>
+          </span>
         </a>
+
+        <a
+          href="/opencode-vs-cursor-vs-codex-vs-antigravity/"
+          class="group p-6 rounded-2xl bg-background-alt border border-primary/10 hover:border-accent/40 hover:shadow-md transition-all flex flex-col justify-between"
+        >
+          <div>
+            <span class="text-xs font-bold uppercase tracking-wider text-emerald-700 bg-emerald-50 border border-emerald-200 px-2 py-0.5 rounded inline-block mb-3">
+              Developer Benchmarks
+            </span>
+            <h3 class="text-lg font-bold text-primary group-hover:text-accent transition-colors mb-2">
+              AI Coding IDE Shootout
+            </h3>
+            <p class="text-xs text-text-light leading-relaxed">
+              OpenCode, Cursor, Codex, and Antigravity tested head-to-head on repo-scale refactoring and autonomous loops.
+            </p>
+          </div>
+          <span class="mt-4 text-xs font-bold text-accent group-hover:underline inline-flex items-center gap-1">
+            Read Benchmark <span>→</span>
+          </span>
+        </a>
+
+        <a
+          href="/is-the-west-losing-ai-lead/"
+          class="group p-6 rounded-2xl bg-background-alt border border-primary/10 hover:border-accent/40 hover:shadow-md transition-all flex flex-col justify-between"
+        >
+          <div>
+            <span class="text-xs font-bold uppercase tracking-wider text-rose-700 bg-rose-50 border border-rose-200 px-2 py-0.5 rounded inline-block mb-3">
+              Geopolitics &amp; Open Weights
+            </span>
+            <h3 class="text-lg font-bold text-primary group-hover:text-accent transition-colors mb-2">
+              Is the West Losing Its AI Lead?
+            </h3>
+            <p class="text-xs text-text-light leading-relaxed">
+              How open weights models from DeepSeek, Qwen, and Meta are shifting global AI capability benchmarks.
+            </p>
+          </div>
+          <span class="mt-4 text-xs font-bold text-accent group-hover:underline inline-flex items-center gap-1">
+            Read Analysis <span>→</span>
+          </span>
+        </a>
+
+        <a
+          href="/ai-office-automation-tasks/"
+          class="group p-6 rounded-2xl bg-background-alt border border-primary/10 hover:border-accent/40 hover:shadow-md transition-all flex flex-col justify-between"
+        >
+          <div>
+            <span class="text-xs font-bold uppercase tracking-wider text-sky-700 bg-sky-50 border border-sky-200 px-2 py-0.5 rounded inline-block mb-3">
+              Workflow Guide
+            </span>
+            <h3 class="text-lg font-bold text-primary group-hover:text-accent transition-colors mb-2">
+              AI Office Automation Tasks
+            </h3>
+            <p class="text-xs text-text-light leading-relaxed">
+              Actionable high-ROI office tasks you can automate with top-ranking models right now.
+            </p>
+          </div>
+          <span class="mt-4 text-xs font-bold text-accent group-hover:underline inline-flex items-center gap-1">
+            Read Guide <span>→</span>
+          </span>
+        </a>
+
+        <a
+          href="/is-ai-getting-dangerous/"
+          class="group p-6 rounded-2xl bg-background-alt border border-primary/10 hover:border-accent/40 hover:shadow-md transition-all flex flex-col justify-between"
+        >
+          <div>
+            <span class="text-xs font-bold uppercase tracking-wider text-amber-700 bg-amber-50 border border-amber-200 px-2 py-0.5 rounded inline-block mb-3">
+              Safety &amp; Alignment
+            </span>
+            <h3 class="text-lg font-bold text-primary group-hover:text-accent transition-colors mb-2">
+              Is AI Getting Dangerous?
+            </h3>
+            <p class="text-xs text-text-light leading-relaxed">
+              Frontier safety audits, cyber capabilities, and what sovereign benchmark tests reveal about agentic risks.
+            </p>
+          </div>
+          <span class="mt-4 text-xs font-bold text-accent group-hover:underline inline-flex items-center gap-1">
+            Read Report <span>→</span>
+          </span>
+        </a>
+      </div>
+
+      <!-- Pillar Master Guides Strip -->
+      <div class="p-8 rounded-2xl bg-background-alt border border-primary/10 text-center">
+        <h3 class="text-xl font-bold text-primary mb-2">
+          Looking for Complete Foundational Roadmaps?
+        </h3>
+        <p class="text-sm text-text-light mb-6 max-w-xl mx-auto">
+          Explore our cornerstone pillars for complete beginner-to-advanced AI implementation.
+        </p>
+        <div class="flex flex-wrap justify-center gap-4">
+          <a
+            href="/learn-ai-guide/"
+            class="inline-flex items-center gap-2 font-bold px-6 py-3 rounded-xl bg-primary text-white hover:bg-primary-light transition-all shadow-sm text-sm"
+          >
+            <span>AI Learning Roadmap</span>
+            <span>→</span>
+          </a>
+          <a
+            href="/chatgpt-guide/"
+            class="inline-flex items-center gap-2 font-bold px-6 py-3 rounded-xl bg-white text-primary hover:bg-primary/5 border border-primary/10 transition-all text-sm"
+          >
+            <span>ChatGPT &amp; Prompting Guide</span>
+            <span>→</span>
+          </a>
+        </div>
       </div>
     </div>
   </section>
