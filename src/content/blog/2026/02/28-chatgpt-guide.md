@@ -3,7 +3,7 @@ title: "ChatGPT Power User Guide 2026: Advanced Tips & Workflows"
 slug: "chatgpt-guide"
 description: "Go beyond basic prompts. Master Custom Instructions, GPTs, plugins, and real workflows that save hours. The complete ChatGPT reference for 2026."
 publishDate: 2026-02-28
-updatedDate: 2026-04-05
+updatedDate: 2026-10-04
 author: "Mehdi"
 image: "./28-chatgpt-guide.webp"
 imageAlt: "Illustration showing advanced ChatGPT features and workflows"
@@ -497,6 +497,8 @@ ChatGPT isn't the only option. Here's how it compares:
 | Microsoft 365 integration | Copilot |
 | Image generation | ChatGPT or Midjourney |
 | Coding assistance | ChatGPT, Claude, or GitHub Copilot |
+
+**Live model benchmarks:** Compare ChatGPT, Claude, and Gemini across standardized reasoning, speed, and cost on our [Frontier AI Leaderboard](/ai-leaderboard/).
 
 **See all options:** [AI Tools Guide](/ai-tools-guide/)
 

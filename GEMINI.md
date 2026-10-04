@@ -45,6 +45,24 @@ This document outlines the foundational standards and architectural goals for th
   - Adding new models requires reading the vendor's official release page/pricing card and recording a verified date (`verifiedAt`).
 - **Pre-Commit Hook:** Do not bypass the `.git/hooks/pre-commit` fact-check verification hook.
 
+### AI Leaderboard Architecture & Dynamic Widgets
+- **Single Source of Truth (`src/data/ai-leaderboard.ts`):** All AI benchmark telemetry (Intelligence Index, speed, cost, context) and ranking logic must live in `src/data/ai-leaderboard.ts`. Maintain approximately 50 models in the pool while rendering the top 15 on the primary page (`/ai-leaderboard/`).
+- **Benchmark Source Verification:** Data must strictly stem from the 4 empirical research sources: Artificial Analysis (`artificialanalysis.ai`), LMSYS Chatbot Arena (`arena.ai`), LLM Stats (`llm-stats.com`), and BenchLM (`benchlm.ai`).
+- **Dynamic Leaderboard Widget (`src/components/LeaderboardWidget.astro` & `src/utils/ai-widget.ts`):**
+  - **Automated Topic Clustering:** The widget is automatically rendered on all AI-focused articles via `BlogPost.astro`. `src/utils/ai-widget.ts` routes the article to the most relevant performance profile:
+    - *Coding / Developer:* `category="coding"` for IDE shootouts, Antigravity, and developer tools.
+    - *Open Weights / Geopolitics:* `category="open"` for open-weights vs proprietary analysis.
+    - *Speed / Latency:* `category="speed"` for real-time throughput and voice reviews (e.g. Gemini 3.8 Flash).
+    - *Productivity & Career:* `category="value"` for office automation, job search, note-taking, and small business tools.
+    - *Finance & Data:* `category="frontier"` for portfolio and earnings analysis.
+    - *General AI Guides:* `category="all"` for travel, lifestyle, and tutorials.
+  - **Frontmatter Override:** Authors can customize or disable the widget per article using `leaderboardWidget: 'coding' | 'speed' | 'value' | 'open' | 'frontier' | 'all' | 'none' | false`.
+  - **Zero Hardcoded Data:** Never hardcode LLM index numbers into markdown prose; let the widget pull live data from `ai-leaderboard.ts`.
+- **Cross-Linking & Review Integration:**
+  - When models on the leaderboard have corresponding in-depth reviews or shootout articles on the blog (e.g. Gemini 3.8 review, coding IDE shootout, open weights analysis), populate `articleUrl` and `articleLabel` in `src/data/ai-leaderboard.ts` to surface bidirectional links.
+  - Contextual callouts in AI articles must point to `/ai-leaderboard/` to drive retention and link equity.
+  - See [`ai-leaderboard.md`](./ai-leaderboard.md) in the project root for full update rules, synchronization checklists, and validation commands.
+
 ### Styling & CSS
 - **Tailwind 4:** Use Tailwind CSS 4 features and modern CSS variables.
 - **Sass Deprecation:** Avoid Sass; use standard CSS with Tailwind utilities.

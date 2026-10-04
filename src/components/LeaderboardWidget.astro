@@ -1,0 +1,154 @@
+---
+import { LEADERBOARD_MODELS, type LeaderboardModel } from '../data/ai-leaderboard';
+
+interface Props {
+  category?: 'frontier' | 'speed' | 'value' | 'open' | 'coding' | 'all';
+  limit?: number;
+  title?: string;
+  subtitle?: string;
+}
+
+const {
+  category = 'frontier',
+  limit = 3,
+  title,
+  subtitle = 'Empirical rankings sourced from Artificial Analysis, Arena.ai, LLM Stats & BenchLM.'
+} = Astro.props;
+
+// Filter models based on the selected category
+let filteredModels: LeaderboardModel[] = [];
+
+if (category === 'coding') {
+  filteredModels = LEADERBOARD_MODELS.filter(m => 
+    m.bestFor.toLowerCase().includes('code') || 
+    m.bestFor.toLowerCase().includes('software') ||
+    m.bestFor.toLowerCase().includes('developer') ||
+    m.name.includes('Sonnet')
+  );
+} else if (category === 'open') {
+  filteredModels = LEADERBOARD_MODELS.filter(m => m.type === 'Open Weights');
+} else if (category === 'all') {
+  filteredModels = LEADERBOARD_MODELS;
+} else {
+  filteredModels = LEADERBOARD_MODELS.filter(m => m.category === category);
+}
+
+// Fallback if filter returned fewer than expected
+if (filteredModels.length === 0) {
+  filteredModels = LEADERBOARD_MODELS;
+}
+
+const displayModels = filteredModels.slice(0, limit);
+
+// Default titles based on category
+const defaultTitles: Record<string, string> = {
+  frontier: 'Current Frontier AI Standings',
+  coding: 'Top AI Models for Coding & Software Engineering',
+  speed: 'Fastest Real-Time AI Models by Throughput',
+  value: 'Most Cost-Effective Frontier AI Models',
+  open: 'Top Open Weights Foundation Models',
+  all: 'Top Ranked AI Models'
+};
+
+const displayTitle = title || defaultTitles[category] || 'Live AI Leaderboard Rankings';
+---
+
+<div class="my-10 p-6 md:p-8 rounded-2xl bg-background-alt border border-primary/10 shadow-sm not-prose">
+  <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6 pb-4 border-b border-primary/10">
+    <div>
+      <div class="flex items-center gap-2 mb-1">
+        <span class="text-[10px] font-black uppercase tracking-wider bg-accent/10 text-accent px-2 py-0.5 rounded-full">
+          Live Benchmark
+        </span>
+        <span class="text-xs text-text-light font-medium">Single Source of Truth</span>
+      </div>
+      <h3 class="text-xl md:text-2xl font-black text-primary tracking-tight">
+        {displayTitle}
+      </h3>
+      <p class="text-xs md:text-sm text-text-light mt-1">
+        {subtitle}
+      </p>
+    </div>
+    <a
+      href="/ai-leaderboard/"
+      class="inline-flex items-center gap-1 text-xs font-bold text-accent hover:text-accent-hover bg-white hover:bg-accent/5 border border-primary/10 px-3.5 py-2 rounded-xl transition-all shadow-xs shrink-0 self-start sm:self-auto"
+    >
+      <span>Full Leaderboard</span>
+      <span>→</span>
+    </a>
+  </div>
+
+  <div class="space-y-3">
+    {displayModels.map((model) => (
+      <div class="p-4 rounded-xl bg-white border border-primary/10 hover:border-accent/30 transition-all flex flex-col md:flex-row md:items-center justify-between gap-3 shadow-xs">
+        <div class="flex items-start gap-3 min-w-0">
+          <span class={`inline-flex items-center justify-center w-7 h-7 rounded-full text-xs font-black shrink-0 mt-0.5 ${
+            model.rank === 1 ? 'bg-amber-100 text-amber-800' :
+            model.rank === 2 ? 'bg-slate-200 text-slate-800' :
+            model.rank === 3 ? 'bg-amber-50 text-amber-900 border border-amber-300' :
+            'bg-background-alt text-text-light'
+          }`}>
+            #{model.rank}
+          </span>
+          <div class="min-w-0">
+            <div class="flex flex-wrap items-center gap-2">
+              <span class="font-bold text-primary text-sm md:text-base">{model.name}</span>
+              <span class={`text-[10px] font-semibold px-2 py-0.2 rounded-full whitespace-nowrap ${
+                model.type === 'Open Weights'
+                  ? 'bg-blue-50 text-blue-700 border border-blue-200'
+                  : 'bg-zinc-100 text-zinc-700 border border-zinc-200'
+              }`}>
+                {model.type}
+              </span>
+              {model.highlightBadge && (
+                <span class="text-[10px] font-bold px-2 py-0.2 rounded-full bg-accent/10 text-accent hidden sm:inline-block whitespace-nowrap">
+                  {model.highlightBadge}
+                </span>
+              )}
+            </div>
+            <div class="text-xs text-text-light mt-0.5 flex flex-wrap items-center gap-2">
+              <span class="font-medium">{model.creator}</span>
+              <span>·</span>
+              <span class="text-primary truncate max-w-xs">{model.bestFor}</span>
+              {model.articleUrl && (
+                <>
+                  <span>·</span>
+                  <a
+                    href={model.articleUrl}
+                    class="text-accent hover:underline font-semibold inline-flex items-center gap-0.5 text-xs"
+                  >
+                    <span>{model.articleLabel || 'Analysis'}</span>
+                    <span>↗</span>
+                  </a>
+                </>
+              )}
+            </div>
+          </div>
+        </div>
+
+        <div class="flex items-center justify-between md:justify-end gap-4 text-xs pt-2 md:pt-0 border-t md:border-t-0 border-primary/5 shrink-0">
+          <div class="text-left md:text-center">
+            <div class="text-[10px] font-semibold text-text-light uppercase">Intelligence</div>
+            <div class="font-black text-primary text-sm">{model.intelligence}</div>
+          </div>
+          <div class="text-left md:text-center">
+            <div class="text-[10px] font-semibold text-text-light uppercase">Speed</div>
+            <div class="font-bold text-primary text-sm">{model.outputSpeed}</div>
+          </div>
+          <div class="text-right">
+            <div class="text-[10px] font-semibold text-text-light uppercase">Cost/Task</div>
+            <div class="font-bold text-primary text-sm">{model.costPerTask}</div>
+          </div>
+        </div>
+      </div>
+    ))}
+  </div>
+
+  <div class="mt-4 pt-3 border-t border-primary/5 flex items-center justify-between text-xs text-text-light">
+    <span>Maintained and updated monthly across 50 models.</span>
+    <a href="/ai-leaderboard/" class="font-bold text-accent hover:underline inline-flex items-center gap-1">
+      <span>Compare all models</span>
+      <span>→</span>
+    </a>
+  </div>
+</div>

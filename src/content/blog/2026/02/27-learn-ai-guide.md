@@ -3,7 +3,7 @@ title: "How to Learn AI in 2026: The Complete Roadmap"
 slug: "learn-ai-guide"
 description: "Your step-by-step guide to learning AI in 2026. From absolute beginner to job-ready skills, free courses, certifications, and practical projects included."
 publishDate: 2026-02-27
-updatedDate: 2026-09-15
+updatedDate: 2026-10-04
 author: "Mehdi"
 image: "./27-learn-ai-guide.webp"
 imageAlt: "Illustration showing the complete AI learning roadmap with milestones"
@@ -123,7 +123,7 @@ Sign up for free accounts on:
 - [Claude](https://claude.ai) (Anthropic)
 - [Gemini](https://gemini.google.com) (Google)
 
-Don't pay for anything yet. Free tiers are enough for learning.
+Don't pay for anything yet. Free tiers are enough for learning. To see which foundation model currently leads in reasoning intelligence, generation speed, and task cost, check our live [Frontier AI Leaderboard](/ai-leaderboard/).
 
 **Step 3: Have 10 real conversations with AI**
 
@@ -139,6 +139,7 @@ The goal is to get comfortable with the conversational interface.
 
 | Resource | Type | Time | Link |
 |----------|------|------|------|
+| Frontier AI Leaderboard | Live Benchmark | 5 min | [Explore](/ai-leaderboard/) |
 | Google AI Essentials | Course | 10 hours | [Review](/google-ai-essentials-review/) |
 | ChatGPT Tutorial for Beginners | Guide | 20 min | [Read](/chatgpt-tutorial-beginners/) |
 | Free vs Paid AI Courses | Comparison | 10 min | [Read](/free-vs-paid-ai-courses/) |

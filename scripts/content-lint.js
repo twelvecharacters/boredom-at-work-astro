@@ -528,6 +528,7 @@ function checkSlugPrefixConsistency(content, filePath) {
 const STATIC_ROUTES = new Set([
   '', 'blog', 'about', 'contact', 'tags', 'search', 'rss.xml',
   'privacy', 'imprint', 'advertise', 'editorial-policy', 'tools',
+  'ai-leaderboard', 'ki-leaderboard',
 ]);
 
 let slugIndexCache = null;

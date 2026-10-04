@@ -3,6 +3,7 @@ title: "How to Analyze Your Investment Portfolio With AI"
 slug: "ai-portfolio-analysis-chatgpt"
 description: "Upload your brokerage CSV to ChatGPT or Claude and get instant portfolio analysis. Step-by-step guide with prompts for allocation, risk, and rebalancing."
 publishDate: 2026-07-10
+updatedDate: 2026-10-04
 author: "Mehdi"
 image: "./10-ai-portfolio-analysis-chatgpt.webp"
 imageAlt: "ChatGPT analyzing an investment portfolio from a CSV upload"
@@ -36,6 +37,8 @@ Here's exactly how to do it, step by step.
 - A **brokerage account** with export capability ([Fidelity](https://www.fidelity.com/), [Schwab](https://www.schwab.com/), [Vanguard](https://investor.vanguard.com/), E\*TRADE, etc.)
 - **ChatGPT Plus** ($20/month) or **Claude Pro** ($20/month)
 - 10 minutes
+
+> **Best Model for Financial Reasoning:** Analyzing investment asset allocations and corporate filings requires multi-step deductive accuracy and large context windows. Check our [Frontier AI Leaderboard](/ai-leaderboard/) to see where **Claude Opus 5.5** (Intelligence Index 58) and **Gemini 4 Argon** (2M context window) rank for complex data synthesis.
 
 That's it. No coding, no plugins, no third-party tools.
 

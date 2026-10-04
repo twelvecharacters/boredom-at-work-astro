@@ -3,6 +3,7 @@ title: "7 Repetitive Office Tasks You Can Automate With AI Right Now"
 slug: "ai-office-automation-tasks"
 description: "Stop doing repetitive work manually. These 7 office tasks can be automated with AI tools like ChatGPT, Zapier, and Make.com, most in under 30 minutes."
 publishDate: 2026-07-24
+updatedDate: 2026-10-04
 author: "Mehdi"
 image: "./24-ai-office-automation-tasks.webp"
 imageAlt: "Illustration showing repetitive office tasks being automated with AI"
@@ -37,6 +38,8 @@ Here are 7 tasks you can automate today, no coding required, most in under 30 mi
 | **[Make.com](https://www.make.com/)** | 1,000 ops/month | From ~$9/month | Complex workflows, budget-friendly |
 | **Power Automate** | Basic with M365 | $15/user/month | Microsoft ecosystem |
 | **Google Workspace Studio** | With Workspace | $7/user/month | Google ecosystem |
+
+> **Best Model for Office Automation:** For automated pipelines and high-volume tasks, prioritize low cost per task and fast latency. According to our [Frontier AI Leaderboard](/ai-leaderboard/), models like **GPT-6.1 Sol** ($0.72/task) and **Ministral 3 3B** ($0.05/task) provide the highest ROI for repetitive data triage and email drafting.
 
 You can do most of what follows with just the free tiers.
 

@@ -89,6 +89,7 @@ const blog = defineCollection({
     course: courseSchema.optional(), // Course schema for learning guides
     sponsor: sponsorSchema.optional(), // Paid placement, see sponsorSchema above
     slug: z.string().optional(), // URL slug, overrides file path
+    leaderboardWidget: z.union([z.enum(['frontier', 'speed', 'value', 'open', 'coding', 'all', 'none']), z.boolean()]).optional(), // Dynamic AI Leaderboard widget control
   }),
 });
 

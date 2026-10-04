@@ -22,6 +22,9 @@ import PrevNextNavigation from '../components/PrevNextNavigation.astro';
 import PortfolioAnalyzer from '../components/tools/PortfolioAnalyzer.astro';
 import EarningsPromptKit from '../components/tools/EarningsPromptKit.astro';
 import ScreenerCostCalculator from '../components/tools/ScreenerCostCalculator.astro';
+import LeaderboardWidget from '../components/LeaderboardWidget.astro';
+import { LEADERBOARD_MODELS } from '../data/ai-leaderboard';
+import { getLeaderboardWidgetConfig } from '../utils/ai-widget';
 import { SITE, AUTHOR } from '../config';
 import { getPostSlug } from '../utils/blog';
 import type { CollectionEntry } from 'astro:content';
@@ -37,7 +40,7 @@ interface Props {
 }
 
 const { post } = Astro.props;
-const { title, description, publishDate, updatedDate, author, image, imageAlt, tags, faq, tldr, review, isListicle, video, howTo, softwareApp, course, sponsor, tested } = post.data;
+const { title, description, publishDate, updatedDate, author, image, imageAlt, tags, faq, tldr, review, isListicle, video, howTo, softwareApp, course, sponsor, tested, leaderboardWidget } = post.data;
 
 // Paid placements. When the sponsor supplied the copy, the post must not claim
 // our editorial byline: no Person schema, no author bio, sponsor byline instead.
@@ -97,6 +100,11 @@ if (image) {
     heroPreloadUrl = typeof image === 'string' ? image : undefined;
   }
 }
+
+// Automatically resolve dynamic AI Leaderboard widget if article is AI-focused
+const currentSlugPath = `/${getPostSlug(post)}/`;
+const leaderboardModel = LEADERBOARD_MODELS.find(m => m.articleUrl === currentSlugPath);
+const widgetConfig = getLeaderboardWidgetConfig(getPostSlug(post), tags, title, leaderboardWidget);
 ---
 
 <BaseLayout
@@ -153,13 +161,30 @@ if (image) {
       <div class="flex-1 min-w-0">
         <!-- Article Header -->
         <header class="mb-12 relative pb-8 border-b border-gray-100">
-          {tags.length > 0 && (
-            <div class="flex flex-wrap gap-2 mb-4">
+          {(tags.length > 0 || leaderboardModel) && (
+            <div class="flex flex-wrap items-center gap-2 mb-4">
               {tags.map(tag => (
                 <span class="bg-accent/10 text-accent font-semibold px-3 py-1 rounded-full text-xs uppercase tracking-wider shadow-sm border border-accent/20">
                   {tag}
                 </span>
               ))}
+              {leaderboardModel && (
+                <a
+                  href="/ai-leaderboard/"
+                  class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-amber-50 text-amber-900 border border-amber-300 hover:bg-amber-100 transition-all shadow-xs"
+                  title="View rankings on Frontier AI Leaderboard"
+                >
+                  <span>🏆</span>
+                  <span>Leaderboard #{leaderboardModel.rank}</span>
+                  {leaderboardModel.highlightBadge && (
+                    <>
+                      <span>·</span>
+                      <span class="font-medium text-amber-800">{leaderboardModel.highlightBadge}</span>
+                    </>
+                  )}
+                  <span>→</span>
+                </a>
+              )}
             </div>
           )}
 
@@ -278,6 +303,11 @@ if (image) {
         {getPostSlug(post) === 'ai-portfolio-analysis-chatgpt' && <PortfolioAnalyzer />}
         {getPostSlug(post) === 'ai-earnings-call-analysis' && <EarningsPromptKit />}
         {getPostSlug(post) === 'ai-vs-traditional-stock-screeners' && <ScreenerCostCalculator />}
+
+        {/* Dynamic AI Leaderboard Widget */}
+        {widgetConfig && (
+          <LeaderboardWidget category={widgetConfig.category} title={widgetConfig.title} />
+        )}
 
         <!-- Social Share Buttons -->
         <SocialShare title={title} description={description} />
