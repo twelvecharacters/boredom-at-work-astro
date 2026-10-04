@@ -7,7 +7,10 @@
         "https://ai.google.dev/gemini-api/docs/models",
         "https://ai.google.dev/gemini-api/docs/deprecations",
         "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
-        "https://artificialanalysis.ai/leaderboards/models"
+        "https://artificialanalysis.ai/leaderboards/models",
+        "https://llm-stats.com/",
+        "https://benchlm.ai/",
+        "https://arena.ai/leaderboard"
       ],
       "current": [
         "Gemini 4 Argon",
@@ -33,7 +36,10 @@
       "sources": [
         "https://platform.claude.com/docs/en/models/overview",
         "https://platform.claude.com/docs/en/about-claude/model-deprecations",
-        "https://artificialanalysis.ai/leaderboards/models"
+        "https://artificialanalysis.ai/leaderboards/models",
+        "https://llm-stats.com/",
+        "https://benchlm.ai/",
+        "https://arena.ai/leaderboard"
       ],
       "current": [
         "Claude Opus 5.5",
@@ -70,7 +76,10 @@
         "https://developers.openai.com/api/docs/models",
         "https://developers.openai.com/api/docs/deprecations",
         "https://openai.com/index/introducing-gpt-5-4/",
-        "https://openai.com/index/introducing-gpt-5-5/"
+        "https://openai.com/index/introducing-gpt-5-5/",
+        "https://llm-stats.com/",
+        "https://benchlm.ai/",
+        "https://arena.ai/leaderboard"
       ],
       "current": [
         "GPT-6.1 Sol",
