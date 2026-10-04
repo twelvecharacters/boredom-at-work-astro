@@ -64,6 +64,22 @@ TODAY_UTC=$(date -u +%Y-%m-%d)
 } > "$LOG" 2>&1
 # ---------------------------------------------------------------------------
 
+# --- AI-Leaderboard gegen Artificial Analysis -------------------------------
+# 4.10.: /ai-leaderboard/ ist eine Abschrift des AA-Leaderboards und veraltet
+# woechentlich. Exit 1 = Abweichungen (Index, Kontext, Kosten, Speed, fehlendes
+# Modell), Exit 2 = Seite nicht parsebar. Beheben mit --write, Diff lesen, committen.
+{
+  echo
+  "$NODE" scripts/aa-leaderboard-check.js
+  echo "aa-check exit=$?"
+} >> "$LOG" 2>&1
+AA_EXIT=$(grep -Eo 'aa-check exit=[0-9]+' "$LOG" | tail -1 | grep -Eo '[0-9]+$')
+if [[ "${AA_EXIT:-0}" -eq 1 ]]; then
+  osascript -e 'display notification "AI-Leaderboard weicht von Artificial Analysis ab, siehe Log" with title "boredom-at-work"' 2>/dev/null
+elif [[ "${AA_EXIT:-0}" -ge 2 ]]; then
+  osascript -e 'display notification "AA-Leaderboard-Check konnte die Seite nicht lesen" with title "boredom-at-work"' 2>/dev/null
+fi
+
 "$NODE" scripts/gsc-index-status.js --top 10 >> "$LOG" 2>&1
 STATUS=$?
 

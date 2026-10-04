@@ -18,6 +18,7 @@
     "traffic:ga4": "node scripts/ga4-traffic.js",
     "traffic:all": "node scripts/gsc-traffic.js && (node scripts/bing-traffic.js || true) && node scripts/ga4-traffic.js",
     "index:status": "node scripts/gsc-index-status.js",
+    "leaderboard:check": "node scripts/aa-leaderboard-check.js",
     "traffic:queries": "node scripts/gsc-traffic.js --queries",
     "traffic:cluster": "node scripts/gsc-traffic.js --cluster",
     "export:articles": "node scripts/export-articles.js"
