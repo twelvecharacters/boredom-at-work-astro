@@ -37,7 +37,7 @@ export const LEADERBOARD_STATS: LeaderboardStat[] = [
     colorClass: "text-accent"
   },
   {
-    value: "1,499 t/s",
+    value: "1,397 t/s",
     label: "Peak Output Speed",
     subtext: "Celeris-1",
     colorClass: "text-indigo-600"
@@ -98,7 +98,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 58,
     "contextWindow": "1M",
     "costPerTask": "$5.98",
-    "outputSpeed": "93 t/s",
+    "outputSpeed": "96 t/s",
     "providerUrl": "https://claude.ai/",
     "articleUrl": "/chatgpt-vs-claude-vs-gemini/",
     "articleLabel": "Model Comparison",
@@ -115,14 +115,14 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "category": "frontier",
     "intelligence": 56,
     "contextWindow": "1M",
-    "costPerTask": "$7.67",
-    "outputSpeed": "139 t/s",
+    "costPerTask": "$5.46",
+    "outputSpeed": "141 t/s",
     "providerUrl": "https://claude.ai/",
     "articleUrl": "/opencode-vs-cursor-vs-codex-vs-antigravity/",
     "articleLabel": "Coding Benchmark",
     "highlightBadge": "Best Developer & Coding Model",
     "bestFor": "Full-Stack Software Engineering & Terminal Agents",
-    "summary": "Combines near-peak frontier intelligence with blistering 139 tokens/second generation speed. The undisputed industry gold standard for autonomous coding agents."
+    "summary": "Combines near-peak frontier intelligence with blistering 141 tokens/second generation speed. The undisputed industry gold standard for autonomous coding agents."
   },
   {
     "rank": 3,
@@ -134,7 +134,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 53,
     "contextWindow": "1M",
     "costPerTask": "$7.63",
-    "outputSpeed": "68 t/s",
+    "outputSpeed": "70 t/s",
     "providerUrl": "https://claude.ai/",
     "highlightBadge": "Creative & Nuance Specialist",
     "bestFor": "Narrative Synthesis, Legal Analysis & Nuanced Prose",
@@ -150,7 +150,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 53,
     "contextWindow": "1M",
     "costPerTask": "$3.26",
-    "outputSpeed": "54 t/s",
+    "outputSpeed": "47 t/s",
     "providerUrl": "https://chatgpt.com/",
     "articleUrl": "/chatgpt-guide/",
     "articleLabel": "ChatGPT Guide",
@@ -186,7 +186,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 52,
     "contextWindow": "1M",
     "costPerTask": "$0.72",
-    "outputSpeed": "63 t/s",
+    "outputSpeed": "56 t/s",
     "providerUrl": "https://chatgpt.com/",
     "highlightBadge": "Best Intelligence-to-Cost Value",
     "bestFor": "High-Volume Production & Cost-Effective Reasoning",
@@ -202,11 +202,11 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 48,
     "contextWindow": "1M",
     "costPerTask": "$1.60",
-    "outputSpeed": "152 t/s",
+    "outputSpeed": "175 t/s",
     "providerUrl": "https://ai.meta.com/",
     "highlightBadge": "Ultra-Fast Open Ecosystem",
     "bestFor": "High-Throughput Open Deployments & Real-Time Audio",
-    "summary": "Blazing 152 tokens per second with 48 intelligence score. Top-tier open weights foundation model supporting full 1M context deployments."
+    "summary": "Blazing 175 tokens per second with 48 intelligence score. Top-tier open weights foundation model supporting full 1M context deployments."
   },
   {
     "rank": 8,
@@ -218,11 +218,11 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 46,
     "contextWindow": "500k",
     "costPerTask": "$3.74",
-    "outputSpeed": "81 t/s",
+    "outputSpeed": "68 t/s",
     "providerUrl": "https://x.ai/",
     "highlightBadge": "Live Web & Real-Time Telemetry",
     "bestFor": "Real-Time Telemetry & Real-World News Analysis",
-    "summary": "High-intelligence engine trained with real-time web telemetry and unconstrained reasoning, featuring a 500k context window and 81 t/s speed."
+    "summary": "High-intelligence engine trained with real-time web telemetry and unconstrained reasoning, featuring a 500k context window and 68 t/s speed."
   },
   {
     "rank": 9,
@@ -234,7 +234,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 46,
     "contextWindow": "1M",
     "costPerTask": "$0.13",
-    "outputSpeed": "46 t/s",
+    "outputSpeed": "43 t/s",
     "providerUrl": "https://www.mi.com/",
     "highlightBadge": "Lowest Cost Leader",
     "bestFor": "Micro-Budget Scaling & Edge Orchestration",
@@ -250,7 +250,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 45,
     "contextWindow": "984k",
     "costPerTask": "$5.41",
-    "outputSpeed": "39 t/s",
+    "outputSpeed": "36 t/s",
     "providerUrl": "https://www.alibabacloud.com/",
     "highlightBadge": "Multilingual & Math Specialist",
     "bestFor": "Cross-Border Trade, Asian Languages & Complex Math",
@@ -266,7 +266,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 45,
     "contextWindow": "1M",
     "costPerTask": "$2.01",
-    "outputSpeed": "71 t/s",
+    "outputSpeed": "83 t/s",
     "providerUrl": "https://zhipuai.cn/",
     "bestFor": "Enterprise Integration & Bilingual Automation",
     "summary": "High-capacity reasoning engine from Zhipu AI delivering reliable 1M context ingestion and balanced bilingual token generation."
@@ -280,11 +280,11 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "category": "value",
     "intelligence": 44,
     "contextWindow": "1M",
-    "costPerTask": "$0.72",
-    "outputSpeed": "86 t/s",
+    "costPerTask": "$1.03",
+    "outputSpeed": "87 t/s",
     "providerUrl": "https://stepfun.com/",
     "bestFor": "Long-Document Synthesis & Agent Workflows",
-    "summary": "Emerging challenger scoring 44 on the Intelligence Index with aggressive $$0.72 pricing and snappy 86 tokens/second execution."
+    "summary": "Emerging challenger scoring 44 on the Intelligence Index with aggressive $ pricing.03 pricing and snappy 87 tokens/second execution."
   },
   {
     "rank": 13,
@@ -296,7 +296,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 44,
     "contextWindow": "1.05M",
     "costPerTask": "$2.00",
-    "outputSpeed": "34 t/s",
+    "outputSpeed": "41 t/s",
     "providerUrl": "https://kimi.moonshot.cn/",
     "bestFor": "Massive Codebase Indexing & Literary Search",
     "summary": "Pioneer in ultra-long context windows. Flawlessly recalls needles in haystack queries across 1.05M token repositories and legal books."
@@ -311,10 +311,10 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 42,
     "contextWindow": "1M",
     "costPerTask": "$1.40",
-    "outputSpeed": "100 t/s",
+    "outputSpeed": "108 t/s",
     "providerUrl": "https://chatgpt.com/",
     "bestFor": "Enterprise Workloads & Batch Transformation",
-    "summary": "Reliable OpenAI production workhorse combining 100 t/s steady generation with predictable structured JSON schema adherence."
+    "summary": "Reliable OpenAI production workhorse combining 108 t/s steady generation with predictable structured JSON schema adherence."
   },
   {
     "rank": 15,
@@ -326,7 +326,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 42,
     "contextWindow": "1M",
     "costPerTask": "$0.25",
-    "outputSpeed": "54 t/s",
+    "outputSpeed": "53 t/s",
     "providerUrl": "https://zhipuai.cn/",
     "bestFor": "Low-Cost API Pipelines & Document Triage",
     "summary": "Budget-optimized variant delivering 42 intelligence index for only $$0.25 per task across enterprise API environments."
@@ -341,13 +341,13 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 41,
     "contextWindow": "1M",
     "costPerTask": "$1.24",
-    "outputSpeed": "249 t/s",
+    "outputSpeed": "117 t/s",
     "providerUrl": "https://deepmind.google/technologies/gemini/",
     "articleUrl": "/google-gemini-3-8-review/",
     "articleLabel": "In-Depth Review",
     "highlightBadge": "Fastest Frontier-Grade Model",
     "bestFor": "Ultra-Low Latency Voice, Real-Time Copilots & High QPS",
-    "summary": "Fastest of the frontier-grade models at 249 tokens per second with a full 1M context. The practical choice for real-time and high-throughput workloads."
+    "summary": "Fastest of the frontier-grade models at 117 tokens per second with a full 1M context. The practical choice for real-time and high-throughput workloads."
   },
   {
     "rank": 17,
@@ -359,7 +359,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 40,
     "contextWindow": "262k",
     "costPerTask": "$2.16",
-    "outputSpeed": "40 t/s",
+    "outputSpeed": "37 t/s",
     "providerUrl": "https://github.com/QwenLM",
     "highlightBadge": "Open Weights MoE Flagship",
     "bestFor": "Private Enterprise MoE Infrastructure",
@@ -375,7 +375,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 40,
     "contextWindow": "256k",
     "costPerTask": "$0.37",
-    "outputSpeed": "54 t/s",
+    "outputSpeed": "56 t/s",
     "providerUrl": "https://www.alibabacloud.com/",
     "bestFor": "Rapid Query Handling & Real-Time E-Commerce",
     "summary": "Cost-effective high-throughput model optimized for quick product descriptions, live customer interaction, and fast data extraction."
@@ -390,13 +390,13 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 39,
     "contextWindow": "1M",
     "costPerTask": "$0.27",
-    "outputSpeed": "209 t/s",
+    "outputSpeed": "217 t/s",
     "providerUrl": "https://www.deepseek.com/",
     "articleUrl": "/is-the-west-losing-ai-lead/",
     "articleLabel": "Global Analysis",
     "highlightBadge": "Open Weights Reasoning",
     "bestFor": "Private Clusters & Mathematical Verification",
-    "summary": "Phenomenal open weights architecture combining 209 tokens/second speed with 39 intelligence at a microscopic $$0.27 per task."
+    "summary": "Phenomenal open weights architecture combining 217 tokens/second speed with 39 intelligence at a microscopic $$0.27 per task."
   },
   {
     "rank": 20,
@@ -408,11 +408,11 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 38,
     "contextWindow": "1M",
     "costPerTask": "$0.07",
-    "outputSpeed": "131 t/s",
+    "outputSpeed": "126 t/s",
     "providerUrl": "https://chatgpt.com/",
     "highlightBadge": "Lowest OpenAI Cost",
     "bestFor": "Massive Batch Processing & Background Summaries",
-    "summary": "OpenAI budget revolution: 38 intelligence with 131 t/s speed for just $$0.07 per task, making large batch processing virtually free."
+    "summary": "OpenAI budget revolution: 38 intelligence with 126 t/s speed for just $$0.07 per task, making large batch processing virtually free."
   },
   {
     "rank": 21,
@@ -424,13 +424,28 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 38,
     "contextWindow": "1M",
     "costPerTask": "$0.06",
-    "outputSpeed": "51 t/s",
+    "outputSpeed": "58 t/s",
     "providerUrl": "https://www.mi.com/",
     "bestFor": "Edge Device Computing & Sensor Telemetry",
     "summary": "Ultra-frugal production model engineered for IoT pipelines and real-time smart home device comprehension at $$0.06 per task."
   },
   {
     "rank": 22,
+    "name": "Mistral Large 4 Preview",
+    "creator": "Mistral AI",
+    "creatorBadge": "bg-orange-100 text-orange-800 border-orange-200",
+    "type": "Open Weights",
+    "category": "open",
+    "intelligence": 38,
+    "contextWindow": "524k",
+    "costPerTask": "$1.13",
+    "outputSpeed": "n/a",
+    "providerUrl": "https://mistral.ai/",
+    "bestFor": "European Enterprise Compliance & Multilingual Work",
+    "summary": "Mistral AI flagship with open weights (version 26.10 on the Mistral model list), 524k context, and strong French, German, and Spanish. The European choice when data sovereignty is a requirement."
+  },
+  {
+    "rank": 23,
     "name": "DeepSeek V4 Pro 0813",
     "creator": "DeepSeek",
     "creatorBadge": "bg-blue-100 text-blue-800 border-blue-200",
@@ -439,13 +454,13 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 36,
     "contextWindow": "1M",
     "costPerTask": "$0.67",
-    "outputSpeed": "107 t/s",
+    "outputSpeed": "94 t/s",
     "providerUrl": "https://www.deepseek.com/",
     "bestFor": "Complex Code Logic & Local Server Deployment",
     "summary": "Full-parameter open weights model engineered for advanced code refactoring and local developer server execution."
   },
   {
-    "rank": 23,
+    "rank": 24,
     "name": "DeepSeek V4 Flash Vision",
     "creator": "DeepSeek",
     "creatorBadge": "bg-blue-100 text-blue-800 border-blue-200",
@@ -454,13 +469,13 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 35,
     "contextWindow": "1M",
     "costPerTask": "$0.31",
-    "outputSpeed": "215 t/s",
+    "outputSpeed": "220 t/s",
     "providerUrl": "https://www.deepseek.com/",
     "bestFor": "Visual Document Inspection & Chart Extraction",
-    "summary": "High-speed multimodal vision model reading complex schematics, architectural drawings, and charts at 215 tokens per second."
+    "summary": "High-speed multimodal vision model reading complex schematics, architectural drawings, and charts at 220 tokens per second."
   },
   {
-    "rank": 24,
+    "rank": 25,
     "name": "Qwen3.8 27B",
     "creator": "Alibaba",
     "creatorBadge": "bg-purple-100 text-purple-800 border-purple-200",
@@ -475,7 +490,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "summary": "Dense open weights model that fits comfortably on single enterprise GPUs while retaining solid 34 benchmark intelligence."
   },
   {
-    "rank": 25,
+    "rank": 26,
     "name": "JT-4.1 Flash 236B A21B",
     "creator": "China Mobile",
     "creatorBadge": "bg-neutral-100 text-neutral-800 border-neutral-200",
@@ -490,7 +505,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "summary": "Specialized enterprise MoE tailored for high-volume network diagnostic logs and telecom automated support ticket resolution."
   },
   {
-    "rank": 26,
+    "rank": 27,
     "name": "Motif 3",
     "creator": "Motif Technologies",
     "creatorBadge": "bg-neutral-100 text-neutral-800 border-neutral-200",
@@ -505,7 +520,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "summary": "Financially attuned reasoning engine specialized in balance sheet parsing and automated audit trail generation."
   },
   {
-    "rank": 27,
+    "rank": 28,
     "name": "K2 Horizon 375B A23B",
     "creator": "Institute of Foundation Models",
     "creatorBadge": "bg-neutral-100 text-neutral-800 border-neutral-200",
@@ -514,13 +529,13 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 31,
     "contextWindow": "524k",
     "costPerTask": "$0.00",
-    "outputSpeed": "124 t/s",
+    "outputSpeed": "119 t/s",
     "providerUrl": "https://huggingface.co/",
     "bestFor": "Academic Research & Transparent Architecture Studies",
-    "summary": "Open-source research giant with complete training checkpoint transparency and 124 tokens/second inference throughput."
+    "summary": "Open-source research giant with complete training checkpoint transparency and 119 tokens/second inference throughput."
   },
   {
-    "rank": 28,
+    "rank": 29,
     "name": "Gemini 3.1 Pro",
     "creator": "Google DeepMind",
     "creatorBadge": "bg-indigo-100 text-indigo-800 border-indigo-200",
@@ -528,14 +543,14 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "category": "frontier",
     "intelligence": 30,
     "contextWindow": "1M",
-    "costPerTask": "$0.67",
-    "outputSpeed": "117 t/s",
+    "costPerTask": "$1.30",
+    "outputSpeed": "114 t/s",
     "providerUrl": "https://deepmind.google/technologies/gemini/",
     "bestFor": "General Multimodal Ingestion & Workspace Docs",
     "summary": "Google seasoned enterprise workhorse providing dependable 1M token context recall and tight integration with Google Cloud."
   },
   {
-    "rank": 29,
+    "rank": 30,
     "name": "MiniMax-M3",
     "creator": "MiniMax",
     "creatorBadge": "bg-violet-100 text-violet-800 border-violet-200",
@@ -544,13 +559,13 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 29,
     "contextWindow": "1M",
     "costPerTask": "$0.51",
-    "outputSpeed": "88 t/s",
+    "outputSpeed": "92 t/s",
     "providerUrl": "https://www.minimaxi.com/",
     "bestFor": "Conversational Roleplay & Creative Story Generation",
     "summary": "Strong emotional quotient model with 1M context, popular for video game NPC dialogue and immersive narrative design."
   },
   {
-    "rank": 30,
+    "rank": 31,
     "name": "Nex-N2-Pro",
     "creator": "Nex AGI",
     "creatorBadge": "bg-neutral-100 text-neutral-800 border-neutral-200",
@@ -565,7 +580,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "summary": "Modular enterprise assistant specialized in breaking down multi-step user prompts into deterministic JSON function calls."
   },
   {
-    "rank": 31,
+    "rank": 32,
     "name": "Solar Pro 4",
     "creator": "Upstage",
     "creatorBadge": "bg-neutral-100 text-neutral-800 border-neutral-200",
@@ -574,13 +589,13 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 28,
     "contextWindow": "512k",
     "costPerTask": "n/a",
-    "outputSpeed": "109 t/s",
+    "outputSpeed": "104 t/s",
     "providerUrl": "https://www.upstage.ai/",
     "bestFor": "Korean-English Bilingual Business Communications",
     "summary": "Leading East Asian cross-lingual model delivering top-tier document layout comprehension and contract summarization."
   },
   {
-    "rank": 32,
+    "rank": 33,
     "name": "Quasar 438B",
     "creator": "Multiverse Computing",
     "creatorBadge": "bg-neutral-100 text-neutral-800 border-neutral-200",
@@ -589,13 +604,13 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 27,
     "contextWindow": "1M",
     "costPerTask": "$2.02",
-    "outputSpeed": "143 t/s",
+    "outputSpeed": "126 t/s",
     "providerUrl": "https://multiversecomputing.com/",
     "bestFor": "Quantum-Inspired Mathematical Simulation",
-    "summary": "Quantum-compressed foundation model achieving 143 tokens/second throughput for scientific simulation and optimization problems."
+    "summary": "Quantum-compressed foundation model achieving 126 tokens/second throughput for scientific simulation and optimization problems."
   },
   {
-    "rank": 33,
+    "rank": 34,
     "name": "Apodex 1.1",
     "creator": "Apodex",
     "creatorBadge": "bg-neutral-100 text-neutral-800 border-neutral-200",
@@ -610,7 +625,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "summary": "HIPAA-ready clinical foundation model tuned for medical terminology parsing, patient discharge notes, and billing code review."
   },
   {
-    "rank": 34,
+    "rank": 35,
     "name": "GPT-5.5 Instant",
     "creator": "OpenAI",
     "creatorBadge": "bg-emerald-100 text-emerald-800 border-emerald-200",
@@ -619,13 +634,13 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 26,
     "contextWindow": "400k",
     "costPerTask": "$0.69",
-    "outputSpeed": "118 t/s",
+    "outputSpeed": "139 t/s",
     "providerUrl": "https://chatgpt.com/",
     "bestFor": "Interactive Customer Support & Live Assistance",
-    "summary": "Quick-response conversational model maintaining low latency and 118 t/s throughput for customer-facing web chat."
+    "summary": "Quick-response conversational model maintaining low latency and 139 t/s throughput for customer-facing web chat."
   },
   {
-    "rank": 35,
+    "rank": 36,
     "name": "Kimi K2.7 Code",
     "creator": "Moonshot AI",
     "creatorBadge": "bg-teal-100 text-teal-800 border-teal-200",
@@ -634,13 +649,13 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 26,
     "contextWindow": "256k",
     "costPerTask": "$0.54",
-    "outputSpeed": "90 t/s",
+    "outputSpeed": "79 t/s",
     "providerUrl": "https://kimi.moonshot.cn/",
     "bestFor": "Python Scripting & Fast API Boilerplates",
     "summary": "Fast coding assistant specialized in web scraping scripts, data frame wrangling, and REST API test suites."
   },
   {
-    "rank": 36,
+    "rank": 37,
     "name": "Inkling Small",
     "creator": "Thinking Machines",
     "creatorBadge": "bg-neutral-100 text-neutral-800 border-neutral-200",
@@ -649,13 +664,13 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 26,
     "contextWindow": "1M",
     "costPerTask": "$0.09",
-    "outputSpeed": "180 t/s",
+    "outputSpeed": "153 t/s",
     "providerUrl": "https://www.thinkingmachines.ai/",
     "bestFor": "Edge Microservices & High-QPS Routing",
-    "summary": "High-speed compact model pumping out 180 tokens/second at an economical $$0.09 per task for intent classification."
+    "summary": "High-speed compact model pumping out 153 tokens/second at an economical $$0.09 per task for intent classification."
   },
   {
-    "rank": 37,
+    "rank": 38,
     "name": "K2 Horizon MoVA 36B A4B",
     "creator": "Institute of Foundation Models",
     "creatorBadge": "bg-neutral-100 text-neutral-800 border-neutral-200",
@@ -670,7 +685,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "summary": "Compact visual and language model designed for local laptop inference and robotic embedded computer integration."
   },
   {
-    "rank": 38,
+    "rank": 39,
     "name": "Qwen3.7 Plus",
     "creator": "Alibaba",
     "creatorBadge": "bg-purple-100 text-purple-800 border-purple-200",
@@ -679,13 +694,13 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 25,
     "contextWindow": "1M",
     "costPerTask": "$0.22",
-    "outputSpeed": "56 t/s",
+    "outputSpeed": "54 t/s",
     "providerUrl": "https://www.alibabacloud.com/",
     "bestFor": "Large Corpus Summarization on a Budget",
     "summary": "Full 1M context capabilities at just $$0.22 per task, allowing researchers to summarize entire book series cheaply."
   },
   {
-    "rank": 39,
+    "rank": 40,
     "name": "Inkling",
     "creator": "Thinking Machines",
     "creatorBadge": "bg-neutral-100 text-neutral-800 border-neutral-200",
@@ -694,13 +709,13 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 25,
     "contextWindow": "1M",
     "costPerTask": "n/a",
-    "outputSpeed": "171 t/s",
+    "outputSpeed": "151 t/s",
     "providerUrl": "https://www.thinkingmachines.ai/",
     "bestFor": "Real-Time Conversational Interfaces",
-    "summary": "Balanced enterprise model featuring 171 t/s generation speed and full 1M context support for interactive customer dialog."
+    "summary": "Balanced enterprise model featuring 151 t/s generation speed and full 1M context support for interactive customer dialog."
   },
   {
-    "rank": 40,
+    "rank": 41,
     "name": "Solar Open2 250B",
     "creator": "Upstage",
     "creatorBadge": "bg-neutral-100 text-neutral-800 border-neutral-200",
@@ -715,7 +730,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "summary": "Massive open weights foundation model supporting 1M tokens context window for air-gapped sovereign cloud deployments."
   },
   {
-    "rank": 41,
+    "rank": 42,
     "name": "Solar Mini 4",
     "creator": "Upstage",
     "creatorBadge": "bg-neutral-100 text-neutral-800 border-neutral-200",
@@ -724,13 +739,13 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 24,
     "contextWindow": "1.05M",
     "costPerTask": "$0.36",
-    "outputSpeed": "202 t/s",
+    "outputSpeed": "76 t/s",
     "providerUrl": "https://www.upstage.ai/",
     "bestFor": "High-Speed Document Parsing & PDF Extraction",
-    "summary": "Document intelligence engine processing complex scanned PDFs into structured Markdown at 202 tokens per second."
+    "summary": "Document intelligence engine processing complex scanned PDFs into structured Markdown at 76 tokens per second."
   },
   {
-    "rank": 42,
+    "rank": 43,
     "name": "Nemotron 3 Ultra",
     "creator": "NVIDIA",
     "creatorBadge": "bg-green-100 text-green-800 border-green-200",
@@ -739,14 +754,14 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 23,
     "contextWindow": "262k",
     "costPerTask": "$0.60",
-    "outputSpeed": "164 t/s",
+    "outputSpeed": "140 t/s",
     "providerUrl": "https://build.nvidia.com/",
     "highlightBadge": "NVIDIA TensorRT Optimized",
     "bestFor": "DGX Cloud & On-Premises TensorRT Deployments",
-    "summary": "Heavily optimized for NVIDIA Blackwell and Hopper architectures, delivering 164 t/s with precision quantization."
+    "summary": "Heavily optimized for NVIDIA Blackwell and Hopper architectures, delivering 140 t/s with precision quantization."
   },
   {
-    "rank": 43,
+    "rank": 44,
     "name": "Gemini 3.5 Flash-Lite",
     "creator": "Google DeepMind",
     "creatorBadge": "bg-indigo-100 text-indigo-800 border-indigo-200",
@@ -754,26 +769,11 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "category": "speed",
     "intelligence": 22,
     "contextWindow": "1M",
-    "costPerTask": "$0.12",
-    "outputSpeed": "360 t/s",
+    "costPerTask": "$0.19",
+    "outputSpeed": "365 t/s",
     "providerUrl": "https://deepmind.google/technologies/gemini/",
     "bestFor": "High-Volume Semantic Classification & Log Filtering",
-    "summary": "Extreme throughput workhorse producing 360 tokens per second at $$0.12 per task with Google DeepMind 1M token context."
-  },
-  {
-    "rank": 44,
-    "name": "Mistral Large 3",
-    "creator": "Mistral AI",
-    "creatorBadge": "bg-orange-100 text-orange-800 border-orange-200",
-    "type": "Proprietary",
-    "category": "frontier",
-    "intelligence": 9,
-    "contextWindow": "256k",
-    "costPerTask": "$0.03",
-    "outputSpeed": "79 t/s",
-    "providerUrl": "https://mistral.ai/",
-    "bestFor": "European Enterprise Compliance & Multilingual Logic",
-    "summary": "European flagship championing GDPR sovereignty, high precision in French, German, and Spanish, and transparent API pricing."
+    "summary": "Extreme throughput workhorse producing 365 tokens per second at $$0.19 per task with Google DeepMind 1M token context."
   },
   {
     "rank": 45,
@@ -785,7 +785,7 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 8,
     "contextWindow": "10M",
     "costPerTask": "n/a",
-    "outputSpeed": "108 t/s",
+    "outputSpeed": "73 t/s",
     "providerUrl": "https://ai.meta.com/llama/",
     "highlightBadge": "10M Context Window Record",
     "bestFor": "Entire Library Search & Multi-Year Log Parsing",
@@ -801,10 +801,10 @@ export const LEADERBOARD_MODELS: LeaderboardModel[] = [
     "intelligence": 6,
     "contextWindow": "131k",
     "costPerTask": "$0.05",
-    "outputSpeed": "1,499 t/s",
+    "outputSpeed": "1,397 t/s",
     "providerUrl": "https://celeris.ai/",
     "highlightBadge": "Fastest Model: 1,499 Tokens/Sec",
     "bestFor": "Real-Time Streaming Voice & High-Frequency Trading",
-    "summary": "Specialized inference engine clocked at 1,499 tokens/second. With an Intelligence Index of 6 it is a pure speed specialist, not a reasoning model."
+    "summary": "Specialized inference engine clocked at 1,397 tokens/second. With an Intelligence Index of 6 it is a pure speed specialist, not a reasoning model."
   }
 ];

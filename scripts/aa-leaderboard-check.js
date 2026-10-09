@@ -32,8 +32,8 @@ const PAGE_PATH = resolve('src/pages/ai-leaderboard.astro');
 
 // Relative tolerance for the two noisy columns. AA recomputes medians
 // continuously, so speed and cost wobble by a few percent between loads.
-const SPEED_TOLERANCE = 0.12;
-const COST_TOLERANCE = 0.12;
+const SPEED_TOLERANCE = 0.25; // 9.10.: 12 % gab nach 5 Tagen 17 Speed-Warnungen, AA-Mediane schwanken um bis zu 50 %
+const COST_TOLERANCE = 0.20;
 
 const args = process.argv.slice(2);
 const WRITE = args.includes('--write');
